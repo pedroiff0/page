@@ -180,7 +180,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: false
+    enabled: true
     layout:
       position: right
       priority: 50
