@@ -12,8 +12,7 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | CSECBJI.31, CSECBJI.47 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.31 - Cálculo IV](pt-br/classes/4-periodo/calculo-iv), [CSECBJI.47 - Comunicação de Dados](pt-br/classes/6-periodo/comunicacao-de-dados) |
 
 ## Ementa
 

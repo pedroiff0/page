@@ -12,8 +12,7 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | CSECBJI.10, CSECBJI.18 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/classes/2-periodo/algebra-linear-e-geometria-analitica-ii), [CSECBJI.18 - Equações Diferenciais](pt-br/classes/3-periodo/equacoes-diferenciais) |
 
 ## Ementa
 

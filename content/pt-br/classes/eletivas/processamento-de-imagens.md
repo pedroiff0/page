@@ -12,8 +12,7 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | CSECBJI.77 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.77 - Computação Gráfica](pt-br/classes/eletivas/computacao-grafica) |
 
 ## Ementa
 

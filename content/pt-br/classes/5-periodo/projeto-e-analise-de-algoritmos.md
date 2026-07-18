@@ -12,8 +12,12 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | CSECBJI.14, CSECBJI.30 |
-| Trancas | CSECBJI.84, CSECBJI.90 |
+| Pré-requisitos | [CSECBJI.14 - Matemática Discreta](pt-br/classes/2-periodo/matematica-discreta), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](pt-br/classes/4-periodo/algoritmos-e-estruturas-de-dados-ii) |
+
+## Trancas
+
+- [CSECBJI.84 - Geoprocessamento](pt-br/classes/eletivas/geoprocessamento)
+- [CSECBJI.90 - Inteligência Artificial](pt-br/classes/eletivas/inteligencia-artificial)
 
 ## Ementa
 

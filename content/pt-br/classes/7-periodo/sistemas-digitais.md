@@ -12,8 +12,11 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | CSECBJI.46 |
-| Trancas | CSECBJI.61 |
+| Pré-requisitos | [CSECBJI.46 - Eletrônica Digital](pt-br/classes/6-periodo/eletronica-digital) |
+
+## Trancas
+
+- [CSECBJI.61 - Arquitetura de Computadores](pt-br/classes/8-periodo/arquitetura-de-computadores)
 
 ## Ementa
 

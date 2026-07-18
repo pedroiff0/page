@@ -12,8 +12,11 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | CSECBJI.14 |
-| Trancas | CSECBJI.48 |
+| Pré-requisitos | [CSECBJI.14 - Matemática Discreta](pt-br/classes/2-periodo/matematica-discreta) |
+
+## Trancas
+
+- [CSECBJI.48 - Compiladores](pt-br/classes/6-periodo/compiladores)
 
 ## Ementa
 

@@ -12,8 +12,7 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | CSECBJI.88 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.88 - Pesquisa Operacional I](pt-br/classes/eletivas/pesquisa-operacional-i) |
 
 ## Ementa
 

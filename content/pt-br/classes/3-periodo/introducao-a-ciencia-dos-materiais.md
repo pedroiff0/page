@@ -12,8 +12,7 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 3º Período |
-| Pré-requisitos | CSECBJI.15 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.15 - Química](pt-br/classes/2-periodo/quimica) |
 
 ## Ementa
 

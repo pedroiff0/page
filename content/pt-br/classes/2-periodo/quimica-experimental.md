@@ -13,7 +13,6 @@ tags:
 | Carga Horária | 40 |
 | Período | 2º Período |
 | Pré-requisitos | — |
-| Trancas | — |
 
 ## Ementa
 

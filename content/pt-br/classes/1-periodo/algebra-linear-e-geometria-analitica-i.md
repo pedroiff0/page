@@ -13,7 +13,12 @@ tags:
 | Carga Horária | 80 |
 | Período | 1º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.10, CSECBJI.11, CSECBJI.18 |
+
+## Trancas
+
+- [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/classes/2-periodo/algebra-linear-e-geometria-analitica-ii)
+- [CSECBJI.11 - Física I](pt-br/classes/2-periodo/fisica-i)
+- [CSECBJI.18 - Equações Diferenciais](pt-br/classes/3-periodo/equacoes-diferenciais)
 
 ## Ementa
 

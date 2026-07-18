@@ -12,8 +12,7 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | CSECBJI.29 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.29 - Probabilidade e Estatística](pt-br/classes/4-periodo/probabilidade-e-estatistica) |
 
 ## Ementa
 

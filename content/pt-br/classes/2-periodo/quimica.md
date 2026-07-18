@@ -13,7 +13,10 @@ tags:
 | Carga Horária | 60 |
 | Período | 2º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.23 |
+
+## Trancas
+
+- [CSECBJI.23 - Introdução à Ciência dos Materiais](pt-br/classes/3-periodo/introducao-a-ciencia-dos-materiais)
 
 ## Ementa
 

@@ -12,8 +12,11 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | CSECBJI.55, CSECBJI.56 |
-| Trancas | CSECBJI.87 |
+| Pré-requisitos | [CSECBJI.55 - Redes de Computadores I](pt-br/classes/7-periodo/redes-de-computadores-i), [CSECBJI.56 - Sistemas Operacionais I](pt-br/classes/7-periodo/sistemas-operacionais-i) |
+
+## Trancas
+
+- CSECBJI.87
 
 ## Ementa
 

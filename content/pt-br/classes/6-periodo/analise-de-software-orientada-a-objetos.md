@@ -13,7 +13,10 @@ tags:
 | Carga Horária | — |
 | Período | 6º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.50 |
+
+## Trancas
+
+- [CSECBJI.50 - Projeto de Software Orientado a Objetos](pt-br/classes/7-periodo/projeto-de-software-orientado-a-objetos)
 
 ## Ementa
 

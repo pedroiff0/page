@@ -12,8 +12,11 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | CSECBJI.26 |
-| Trancas | CSECBJI.82 |
+| Pré-requisitos | [CSECBJI.26 - Física III](pt-br/classes/4-periodo/fisica-iii) |
+
+## Trancas
+
+- [CSECBJI.82 - Energia e Eficiência Energética](pt-br/classes/eletivas/energia-e-eficiencia-energetica)
 
 ## Ementa
 

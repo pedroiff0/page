@@ -12,8 +12,7 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos | CSECBJI.56 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.56 - Sistemas Operacionais I](pt-br/classes/7-periodo/sistemas-operacionais-i) |
 
 ## Ementa
 

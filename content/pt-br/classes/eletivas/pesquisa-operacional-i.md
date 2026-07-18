@@ -12,8 +12,11 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | CSECBJI.10 |
-| Trancas | CSECBJI.89 |
+| Pré-requisitos | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/classes/2-periodo/algebra-linear-e-geometria-analitica-ii) |
+
+## Trancas
+
+- [CSECBJI.89 - Pesquisa Operacional II](pt-br/classes/eletivas/pesquisa-operacional-ii)
 
 ## Ementa
 

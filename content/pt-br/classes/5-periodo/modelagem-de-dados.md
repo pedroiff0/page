@@ -12,8 +12,11 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 40 |
 | Período | 5º Período |
-| Pré-requisitos | CSECBJI.3 |
-| Trancas | CSECBJI.44 |
+| Pré-requisitos | [CSECBJI.3 - Lógica para Computação](pt-br/classes/1-periodo/logica-para-computacao) |
+
+## Trancas
+
+- [CSECBJI.44 - Banco de Dados](pt-br/classes/6-periodo/banco-de-dados)
 
 ## Ementa
 

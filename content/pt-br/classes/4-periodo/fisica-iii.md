@@ -12,8 +12,12 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos | CSECBJI.17, CSECBJI.19 |
-| Trancas | CSECBJI.33, CSECBJI.37 |
+| Pré-requisitos | [CSECBJI.17 - Cálculo III](pt-br/classes/3-periodo/calculo-iii), [CSECBJI.19 - Física II](pt-br/classes/3-periodo/fisica-ii) |
+
+## Trancas
+
+- [CSECBJI.33 - Eletricidade Aplicada](pt-br/classes/5-periodo/eletricidade-aplicada)
+- [CSECBJI.37 - Eletrônica Analógica](pt-br/classes/5-periodo/eletronica-analogica)
 
 ## Ementa
 

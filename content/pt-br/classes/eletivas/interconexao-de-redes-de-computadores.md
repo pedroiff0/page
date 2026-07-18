@@ -13,7 +13,6 @@ tags:
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
 | Pré-requisitos | — |
-| Trancas | — |
 
 ## Ementa
 

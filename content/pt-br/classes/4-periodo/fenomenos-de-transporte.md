@@ -12,8 +12,7 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos | CSECBJI.4, CSECBJI.19 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.4 - Cálculo I](pt-br/classes/1-periodo/calculo-i), [CSECBJI.19 - Física II](pt-br/classes/3-periodo/fisica-ii) |
 
 ## Ementa
 

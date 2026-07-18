@@ -12,8 +12,12 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | CSECBJI.1 |
-| Trancas | CSECBJI.61, CSECBJI.62 |
+| Pré-requisitos | [CSECBJI.1 - Fundamentos de Computação](pt-br/classes/1-periodo/fundamentos-de-computacao) |
+
+## Trancas
+
+- [CSECBJI.61 - Arquitetura de Computadores](pt-br/classes/8-periodo/arquitetura-de-computadores)
+- [CSECBJI.62 - Microcontroladores](pt-br/classes/8-periodo/microcontroladores)
 
 ## Ementa
 

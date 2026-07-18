@@ -12,8 +12,13 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | CSECBJI.47 |
-| Trancas | CSECBJI.59, CSECBJI.71, CSECBJI.86 |
+| Pré-requisitos | [CSECBJI.47 - Comunicação de Dados](pt-br/classes/6-periodo/comunicacao-de-dados) |
+
+## Trancas
+
+- [CSECBJI.59 - Redes de Computadores II](pt-br/classes/8-periodo/redes-de-computadores-ii)
+- [CSECBJI.71 - Sistemas Distribuídos](pt-br/classes/9-periodo/sistemas-distribuidos)
+- [CSECBJI.86 - Algoritmos Distribuídos](pt-br/classes/eletivas/algoritmos-distribuidos)
 
 ## Ementa
 

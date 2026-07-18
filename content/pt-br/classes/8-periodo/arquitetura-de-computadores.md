@@ -12,8 +12,7 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos | CSECBJI.52, CSECBJI.53 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.52 - Organização de Computadores](pt-br/classes/7-periodo/organizacao-de-computadores), [CSECBJI.53 - Sistemas Digitais](pt-br/classes/7-periodo/sistemas-digitais) |
 
 ## Ementa
 

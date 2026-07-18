@@ -12,8 +12,7 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 80 |
 | Período | 10º Período |
-| Pré-requisitos | CSECBJI.67 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.67 - Projeto Final de Curso I](pt-br/classes/9-periodo/projeto-final-de-curso-i) |
 
 ## Ementa
 

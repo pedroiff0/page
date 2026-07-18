@@ -13,7 +13,10 @@ tags:
 | Carga Horária | 60 |
 | Período | 5º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.42 |
+
+## Trancas
+
+- [CSECBJI.42 - Análise de Software Orientada a Objetos](pt-br/classes/6-periodo/analise-de-software-orientada-a-objetos)
 
 ## Ementa
 

@@ -13,7 +13,6 @@ tags:
 | Carga Horária | 60 |
 | Período | 6º Período |
 | Pré-requisitos | — |
-| Trancas | — |
 
 ## Ementa
 

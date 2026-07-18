@@ -12,8 +12,12 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 4º Período |
-| Pré-requisitos | CSECBJI.22 |
-| Trancas | CSECBJI.34, CSECBJI.77 |
+| Pré-requisitos | [CSECBJI.22 - Algoritmos e Estruturas de Dados I](pt-br/classes/3-periodo/algoritmos-e-estruturas-de-dados-i) |
+
+## Trancas
+
+- [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/classes/5-periodo/projeto-e-analise-de-algoritmos)
+- [CSECBJI.77 - Computação Gráfica](pt-br/classes/eletivas/computacao-grafica)
 
 ## Ementa
 

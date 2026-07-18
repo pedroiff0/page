@@ -12,8 +12,11 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos | CSECBJI.17 |
-| Trancas | CSECBJI.83 |
+| Pré-requisitos | [CSECBJI.17 - Cálculo III](pt-br/classes/3-periodo/calculo-iii) |
+
+## Trancas
+
+- [CSECBJI.83 - Processamento de Sinais](pt-br/classes/eletivas/processamento-de-sinais)
 
 ## Ementa
 

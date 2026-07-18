@@ -12,8 +12,13 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 2º Período |
-| Pré-requisitos | CSECBJI.5 |
-| Trancas | CSECBJI.77, CSECBJI.85, CSECBJI.88 |
+| Pré-requisitos | [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](pt-br/classes/1-periodo/algebra-linear-e-geometria-analitica-i) |
+
+## Trancas
+
+- [CSECBJI.77 - Computação Gráfica](pt-br/classes/eletivas/computacao-grafica)
+- [CSECBJI.85 - Modelagem Ambiental](pt-br/classes/eletivas/modelagem-ambiental)
+- [CSECBJI.88 - Pesquisa Operacional I](pt-br/classes/eletivas/pesquisa-operacional-i)
 
 ## Ementa
 

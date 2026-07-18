@@ -13,7 +13,10 @@ tags:
 | Carga Horária | — |
 | Período | 5º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.45 |
+
+## Trancas
+
+- [CSECBJI.45 - Programação Orientada a Objetos I](pt-br/classes/6-periodo/programacao-orientada-a-objetos-i)
 
 ## Ementa
 

@@ -12,8 +12,7 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | CSECBJI.33 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.33 - Eletricidade Aplicada](pt-br/classes/5-periodo/eletricidade-aplicada) |
 
 ## Ementa
 

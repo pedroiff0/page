@@ -13,7 +13,12 @@ tags:
 | Carga Horária | 60 |
 | Período | 1º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.14, CSECBJI.35, CSECBJI.46 |
+
+## Trancas
+
+- [CSECBJI.14 - Matemática Discreta](pt-br/classes/2-periodo/matematica-discreta)
+- [CSECBJI.35 - Modelagem de Dados](pt-br/classes/5-periodo/modelagem-de-dados)
+- [CSECBJI.46 - Eletrônica Digital](pt-br/classes/6-periodo/eletronica-digital)
 
 ## Ementa
 

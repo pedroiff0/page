@@ -13,7 +13,11 @@ tags:
 | Carga Horária | — |
 | Período | 1º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.52, CSECBJI.56 |
+
+## Trancas
+
+- [CSECBJI.52 - Organização de Computadores](pt-br/classes/7-periodo/organizacao-de-computadores)
+- [CSECBJI.56 - Sistemas Operacionais I](pt-br/classes/7-periodo/sistemas-operacionais-i)
 
 ## Ementa
 

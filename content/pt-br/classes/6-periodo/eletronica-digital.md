@@ -12,8 +12,11 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos | CSECBJI.3, CSECBJI.37 |
-| Trancas | CSECBJI.53 |
+| Pré-requisitos | [CSECBJI.3 - Lógica para Computação](pt-br/classes/1-periodo/logica-para-computacao), [CSECBJI.37 - Eletrônica Analógica](pt-br/classes/5-periodo/eletronica-analogica) |
+
+## Trancas
+
+- [CSECBJI.53 - Sistemas Digitais](pt-br/classes/7-periodo/sistemas-digitais)
 
 ## Ementa
 

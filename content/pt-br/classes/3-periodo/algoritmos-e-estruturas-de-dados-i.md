@@ -12,8 +12,11 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 3º Período |
-| Pré-requisitos | CSECBJI.13 |
-| Trancas | CSECBJI.30 |
+| Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](pt-br/classes/2-periodo/algoritmos-e-tecnicas-de-programacao) |
+
+## Trancas
+
+- [CSECBJI.30 - Algoritmos e Estruturas de Dados II](pt-br/classes/4-periodo/algoritmos-e-estruturas-de-dados-ii)
 
 ## Ementa
 

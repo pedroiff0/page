@@ -12,8 +12,11 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 3º Período |
-| Pré-requisitos | CSECBJI.4, CSECBJI.5 |
-| Trancas | CSECBJI.85 |
+| Pré-requisitos | [CSECBJI.4 - Cálculo I](pt-br/classes/1-periodo/calculo-i), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](pt-br/classes/1-periodo/algebra-linear-e-geometria-analitica-i) |
+
+## Trancas
+
+- [CSECBJI.85 - Modelagem Ambiental](pt-br/classes/eletivas/modelagem-ambiental)
 
 ## Ementa
 

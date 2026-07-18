@@ -13,7 +13,13 @@ tags:
 | Carga Horária | 120 |
 | Período | 1º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.9, CSECBJI.11, CSECBJI.18, CSECBJI.28 |
+
+## Trancas
+
+- [CSECBJI.9 - Cálculo II](pt-br/classes/2-periodo/calculo-ii)
+- [CSECBJI.11 - Física I](pt-br/classes/2-periodo/fisica-i)
+- [CSECBJI.18 - Equações Diferenciais](pt-br/classes/3-periodo/equacoes-diferenciais)
+- [CSECBJI.28 - Fenômenos de Transporte](pt-br/classes/4-periodo/fenomenos-de-transporte)
 
 ## Ementa
 

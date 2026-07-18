@@ -12,8 +12,12 @@ tags:
 | Núcleo | Básica |
 | Carga Horária | 60 |
 | Período | 2º Período |
-| Pré-requisitos | CSECBJI.3 |
-| Trancas | CSECBJI.34, CSECBJI.40 |
+| Pré-requisitos | [CSECBJI.3 - Lógica para Computação](pt-br/classes/1-periodo/logica-para-computacao) |
+
+## Trancas
+
+- [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/classes/5-periodo/projeto-e-analise-de-algoritmos)
+- [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/classes/5-periodo/linguagens-formais-e-automatos)
 
 ## Ementa
 

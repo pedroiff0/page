@@ -12,8 +12,7 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos | CSECBJI.40 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/classes/5-periodo/linguagens-formais-e-automatos) |
 
 ## Ementa
 

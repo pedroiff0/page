@@ -12,8 +12,7 @@ tags:
 | Núcleo | Específico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | CSECBJI.34 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/classes/5-periodo/projeto-e-analise-de-algoritmos) |
 
 ## Ementa
 

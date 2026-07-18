@@ -12,8 +12,7 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 9º Período |
-| Pré-requisitos | CSECBJI.62 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.62 - Microcontroladores](pt-br/classes/8-periodo/microcontroladores) |
 
 ## Ementa
 

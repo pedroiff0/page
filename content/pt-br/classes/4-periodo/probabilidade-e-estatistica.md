@@ -13,7 +13,10 @@ tags:
 | Carga Horária | 60 |
 | Período | 4º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.41 |
+
+## Trancas
+
+- [CSECBJI.41 - Avaliação e Desempenho de Sistemas](pt-br/classes/5-periodo/avaliacao-e-desempenho-de-sistemas)
 
 ## Ementa
 

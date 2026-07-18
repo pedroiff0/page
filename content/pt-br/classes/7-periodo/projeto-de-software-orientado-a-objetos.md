@@ -12,8 +12,7 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | CSECBJI.42 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.42 - Análise de Software Orientada a Objetos](pt-br/classes/6-periodo/analise-de-software-orientada-a-objetos) |
 
 ## Ementa
 

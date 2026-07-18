@@ -12,8 +12,7 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos | CSECBJI.35 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.35 - Modelagem de Dados](pt-br/classes/5-periodo/modelagem-de-dados) |
 
 ## Ementa
 

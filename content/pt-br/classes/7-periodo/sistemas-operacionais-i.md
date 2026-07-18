@@ -12,8 +12,13 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | CSECBJI.1 |
-| Trancas | CSECBJI.63, CSECBJI.71, CSECBJI.86 |
+| Pré-requisitos | [CSECBJI.1 - Fundamentos de Computação](pt-br/classes/1-periodo/fundamentos-de-computacao) |
+
+## Trancas
+
+- [CSECBJI.63 - Sistemas Operacionais II](pt-br/classes/8-periodo/sistemas-operacionais-ii)
+- [CSECBJI.71 - Sistemas Distribuídos](pt-br/classes/9-periodo/sistemas-distribuidos)
+- [CSECBJI.86 - Algoritmos Distribuídos](pt-br/classes/eletivas/algoritmos-distribuidos)
 
 ## Ementa
 

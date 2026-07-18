@@ -12,8 +12,11 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos | CSECBJI.13, CSECBJI.38 |
-| Trancas | CSECBJI.51 |
+| Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](pt-br/classes/2-periodo/algoritmos-e-tecnicas-de-programacao), [CSECBJI.38 - Paradigmas de Linguagem de Programação](pt-br/classes/5-periodo/paradigmas-de-linguagem-de-programacao) |
+
+## Trancas
+
+- [CSECBJI.51 - Programação Orientada a Objetos II](pt-br/classes/7-periodo/programacao-orientada-a-objetos-ii)
 
 ## Ementa
 

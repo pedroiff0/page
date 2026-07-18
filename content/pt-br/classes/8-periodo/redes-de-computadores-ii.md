@@ -12,8 +12,7 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos | CSECBJI.55 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.55 - Redes de Computadores I](pt-br/classes/7-periodo/redes-de-computadores-i) |
 
 ## Ementa
 

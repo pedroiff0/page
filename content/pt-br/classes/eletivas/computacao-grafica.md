@@ -12,8 +12,11 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | CSECBJI.10, CSECBJI.30 |
-| Trancas | CSECBJI.78 |
+| Pré-requisitos | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/classes/2-periodo/algebra-linear-e-geometria-analitica-ii), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](pt-br/classes/4-periodo/algoritmos-e-estruturas-de-dados-ii) |
+
+## Trancas
+
+- [CSECBJI.78 - Processamento de Imagens](pt-br/classes/eletivas/processamento-de-imagens)
 
 ## Ementa
 

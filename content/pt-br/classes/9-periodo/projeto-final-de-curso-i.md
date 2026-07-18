@@ -12,8 +12,11 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 80 |
 | Período | 9º Período |
-| Pré-requisitos | CSECBJI.64 |
-| Trancas | CSECBJI.74 |
+| Pré-requisitos | [CSECBJI.64 - Metodologia Científica e Tecnológica](pt-br/classes/8-periodo/metodologia-cientifica-e-tecnologica) |
+
+## Trancas
+
+- [CSECBJI.74 - Projeto Final de Curso II](pt-br/classes/10-periodo/projeto-final-de-curso-ii)
 
 ## Ementa
 

@@ -13,7 +13,13 @@ tags:
 | Carga Horária | — |
 | Período | 2º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.22, CSECBJI.25, CSECBJI.38, CSECBJI.45 |
+
+## Trancas
+
+- [CSECBJI.22 - Algoritmos e Estruturas de Dados I](pt-br/classes/3-periodo/algoritmos-e-estruturas-de-dados-i)
+- [CSECBJI.25 - Cálculo Numérico](pt-br/classes/4-periodo/calculo-numerico)
+- [CSECBJI.38 - Paradigmas de Linguagem de Programação](pt-br/classes/5-periodo/paradigmas-de-linguagem-de-programacao)
+- [CSECBJI.45 - Programação Orientada a Objetos I](pt-br/classes/6-periodo/programacao-orientada-a-objetos-i)
 
 ## Ementa
 

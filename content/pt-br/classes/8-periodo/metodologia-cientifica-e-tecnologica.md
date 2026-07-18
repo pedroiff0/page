@@ -13,7 +13,10 @@ tags:
 | Carga Horária | — |
 | Período | 8º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.67 |
+
+## Trancas
+
+- [CSECBJI.67 - Projeto Final de Curso I](pt-br/classes/9-periodo/projeto-final-de-curso-i)
 
 ## Ementa
 

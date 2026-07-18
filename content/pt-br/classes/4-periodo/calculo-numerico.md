@@ -12,8 +12,7 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos | CSECBJI.13 |
-| Trancas | — |
+| Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](pt-br/classes/2-periodo/algoritmos-e-tecnicas-de-programacao) |
 
 ## Ementa
 

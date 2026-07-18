@@ -13,7 +13,11 @@ tags:
 | Carga Horária | 60 |
 | Período | 6º Período |
 | Pré-requisitos | — |
-| Trancas | CSECBJI.55, CSECBJI.83 |
+
+## Trancas
+
+- [CSECBJI.55 - Redes de Computadores I](pt-br/classes/7-periodo/redes-de-computadores-i)
+- [CSECBJI.83 - Processamento de Sinais](pt-br/classes/eletivas/processamento-de-sinais)
 
 ## Ementa
 

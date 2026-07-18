@@ -12,8 +12,11 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | CSECBJI.45 |
-| Trancas | CSECBJI.79 |
+| Pré-requisitos | [CSECBJI.45 - Programação Orientada a Objetos I](pt-br/classes/6-periodo/programacao-orientada-a-objetos-i) |
+
+## Trancas
+
+- [CSECBJI.79 - Desenvolvimento Web](pt-br/classes/eletivas/desenvolvimento-web)
 
 ## Ementa
 

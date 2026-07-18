@@ -12,8 +12,11 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | CSECBJI.26 |
-| Trancas | CSECBJI.46 |
+| Pré-requisitos | [CSECBJI.26 - Física III](pt-br/classes/4-periodo/fisica-iii) |
+
+## Trancas
+
+- [CSECBJI.46 - Eletrônica Digital](pt-br/classes/6-periodo/eletronica-digital)
 
 ## Ementa
 

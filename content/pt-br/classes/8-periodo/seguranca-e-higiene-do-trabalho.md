@@ -13,7 +13,6 @@ tags:
 | Carga Horária | — |
 | Período | 8º Período |
 | Pré-requisitos | — |
-| Trancas | — |
 
 ## Ementa
 

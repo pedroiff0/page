@@ -158,8 +158,8 @@ plugins:
         }
       sortFn: |
         (a, b) => {
-          let orderA = a.file?.frontmatter?.order ?? 100
-          let orderB = b.file?.frontmatter?.order ?? 100
+          let orderA = a.data?.frontmatter?.order ?? 100
+          let orderB = b.data?.frontmatter?.order ?? 100
           if (orderA !== orderB) return orderA - orderB
           return a.displayName.localeCompare(b.displayName)
         }

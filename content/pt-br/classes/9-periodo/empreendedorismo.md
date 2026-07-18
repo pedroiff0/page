@@ -13,7 +13,6 @@ tags:
 | Carga Horária | 40 |
 | Período | 9º Período |
 | Pré-requisitos | — |
-| Trancas | — |
 
 ## Ementa
 
