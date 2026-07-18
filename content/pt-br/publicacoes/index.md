@@ -8,4 +8,4 @@ Artigos acadêmicos, anais e preprints, listados abaixo conforme são publicados
 
 ## Preprints & Manuscritos
 
-- [Propriedades estelares e características químicas do Catálogo Gaia de Estrelas Próximas observadas por GALAH DR4](./deAndrade2025) — Preprint no arXiv, 2025.
+- [Propriedades estelares e características químicas do Catálogo Gaia de Estrelas Próximas observadas por GALAH DR4](pt-br/publicacoes/deAndrade2025) — Preprint no arXiv, 2025.

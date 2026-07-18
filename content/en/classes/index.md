@@ -8,4 +8,4 @@ A collection of notes, assignments, and materials from courses I've taken or ass
 
 ## Courses
 
-- [Introduction to Scientific Computing](./class-a) — Full syllabus and weekly lecture materials.
+- [Introduction to Scientific Computing](en/classes/class-a) — Full syllabus and weekly lecture materials.

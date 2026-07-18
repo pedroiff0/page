@@ -20,4 +20,4 @@ My work sits at the intersection of **computational methods** and **astrophysica
 
 ## Projects
 
-- [Anomaly Detection in Gaia Data](./anomaly-detection) — Building a machine learning pipeline to spot rare stellar objects across Gaia and complementary surveys.
+- [Anomaly Detection in Gaia Data](en/research/anomaly-detection) — Building a machine learning pipeline to spot rare stellar objects across Gaia and complementary surveys.

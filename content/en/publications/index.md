@@ -8,4 +8,4 @@ Academic papers, proceedings, and preprints, listed below as they are published.
 
 ## Preprints & Manuscripts
 
-- [Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4](./deAndrade2025) — arXiv preprint, 2025.
+- [Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4](en/publications/deAndrade2025) — arXiv preprint, 2025.

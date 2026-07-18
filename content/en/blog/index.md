@@ -8,4 +8,4 @@ Random thoughts, tutorials, and reflections on science, technology, and the rese
 
 ## Posts
 
-- [Welcome to the Website!](./welcome) — December 22, 2025
+- [Welcome to the Website!](en/blog/welcome) — December 22, 2025

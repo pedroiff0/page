@@ -10,7 +10,7 @@ A curated collection of tools, materials, and recommendations gathered throughou
 
 ### 🔧 Tools & Workflows
 
-- [Astronomy Data Toolkit](./astronomy-data-toolkit) — Essential tools for astronomical data analysis: Astropy, TOPCAT, Aladin Lite, and reproducible Jupyter workflows.
+- [Astronomy Data Toolkit](en/resource/astronomy-data-toolkit) — Essential tools for astronomical data analysis: Astropy, TOPCAT, Aladin Lite, and reproducible Jupyter workflows.
 
 ### 📖 Course Materials
 

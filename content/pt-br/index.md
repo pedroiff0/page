@@ -22,9 +22,9 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 ### 3️⃣ Terceiro passo: Explorar o conteúdo
 Para navegar pelo meu trabalho, explore as seções deste site:
 
-- [Pesquisa](./pesquisa/) — Conheça meus projetos atuais e publicações.
-- [Recursos](./recursos/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
-- [Disciplinas](./disciplinas/) — Minhas anotações e trabalhos de faculdade.
-- [Mídia](./midia/) — Participações em eventos, feiras e apresentações.
-- [Publicações](./publicacoes/) — Meus artigos e preprints publicados.
-- [Blog](./blog/) — Pensamentos aleatórios, tutoriais e reflexões sobre a jornada de pesquisa.
+- [Pesquisa](pt-br/pesquisa/) — Conheça meus projetos atuais e publicações.
+- [Recursos](pt-br/recursos/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
+- [Disciplinas](pt-br/disciplinas/) — Minhas anotações e trabalhos de faculdade.
+- [Mídia](pt-br/midia/) — Participações em eventos, feiras e apresentações.
+- [Publicações](pt-br/publicacoes/) — Meus artigos e preprints publicados.
+- [Blog](pt-br/blog/) — Pensamentos aleatórios, tutoriais e reflexões sobre a jornada de pesquisa.

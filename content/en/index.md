@@ -22,9 +22,9 @@ My passion lies at the intersection of **computational methods** and **astrophys
 ### 3️⃣ Third step: Explore the content
 To navigate my work, explore the sections of this site:
 
-- [Research](./research/) — Learn about my current projects and publications.
-- [Resources](./resource/) — Materials, scripts, and useful tools I've developed or use.
-- [Classes](./classes/) — My college notes and assignments.
-- [Media](./media/) — Participations in events, fairs, and presentations.
-- [Publications](./publications/) — My published papers and preprints.
-- [Blog](./blog/) — Random thoughts, tutorials, and reflections on the research journey.
+- [Research](en/research/) — Learn about my current projects and publications.
+- [Resources](en/resource/) — Materials, scripts, and useful tools I've developed or use.
+- [Classes](en/classes/) — My college notes and assignments.
+- [Media](en/media/) — Participations in events, fairs, and presentations.
+- [Publications](en/publications/) — My published papers and preprints.
+- [Blog](en/blog/) — Random thoughts, tutorials, and reflections on the research journey.
