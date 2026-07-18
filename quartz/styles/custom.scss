@@ -276,6 +276,12 @@ details.author-details[open] .author-summary {
   }
 }
 
+/* Hide the auto-generated "N items in this folder" listing that folder-page
+   appends below every folder index page's own content (in every locale). */
+.page-listing {
+  display: none !important;
+}
+
 /* --- Media Carousel --- */
 .media-carousel {
   display: flex;
