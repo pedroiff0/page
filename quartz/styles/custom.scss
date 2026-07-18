@@ -1,0 +1,327 @@
+@use "./variables.scss" as *;
+
+
+// Enhancing Explorer (Aba lateral) to look more separated/clean
+.explorer ul {
+  padding-left: 0.5rem;
+}
+.explorer li {
+  margin-bottom: 0.8rem;
+}
+
+/* Hide top-level language folders (pt-br, en) so their children look like top-level items */
+.explorer-ul > li > .folder-container {
+  display: none !important;
+}
+.explorer-ul > li > .folder-outer {
+  display: block !important; /* Override JS collapsing */
+  visibility: visible !important;
+}
+.explorer-ul > li > .folder-outer > ul {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+.explorer-ul > li > .folder-outer > ul > li {
+  margin-top: 0.5rem;
+}
+
+/* Fix Explorer scrollbar issues */
+.explorer-content {
+  overflow-x: hidden !important;
+  overflow-y: visible !important;
+}
+.explorer {
+  max-height: none !important;
+}
+.explorer .folder-button {
+  font-weight: 600;
+  color: var(--secondary);
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
+.explorer .folder-button:hover {
+  color: var(--dark);
+}
+
+
+
+
+/* --- Explorer Language Flattening --- */
+
+/* Hide EN root folder entirely on PT-BR pages */
+body[data-slug^="pt-br"] .explorer-ul > li > .folder-container[data-folderpath="en"],
+body[data-slug^="pt-br"] .explorer-ul > li > .folder-container[data-folderpath="en"] + .folder-outer {
+  display: none !important;
+}
+
+/* Hide PT-BR root folder entirely on EN pages */
+body:not([data-slug^="pt-br"]) .explorer-ul > li > .folder-container[data-folderpath="pt-br"],
+body:not([data-slug^="pt-br"]) .explorer-ul > li > .folder-container[data-folderpath="pt-br"] + .folder-outer {
+  display: none !important;
+}
+
+/* For the active language folder, hide the folder name/button itself */
+.explorer-ul > li > .folder-container[data-folderpath="en"],
+.explorer-ul > li > .folder-container[data-folderpath="pt-br"] {
+  display: none !important;
+}
+
+/* For the active language folder, forcefully show and un-indent its children */
+.explorer-ul > li > .folder-container[data-folderpath="en"] + .folder-outer,
+.explorer-ul > li > .folder-container[data-folderpath="pt-br"] + .folder-outer {
+  display: block !important;
+  height: auto !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  border-left: none !important;
+}
+
+.explorer-ul > li > .folder-container[data-folderpath="en"] + .folder-outer > ul,
+.explorer-ul > li > .folder-container[data-folderpath="pt-br"] + .folder-outer > ul {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+/* Hide the root index files (like 'About Me') from showing up in Explorer root */
+.explorer-ul > li:has(> a[href$="/"]) {
+  display: none !important;
+}
+
+/* Language Toggle CSS */
+.nav-lang {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.nav-lang a {
+  font-size: 0.9rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 6px;
+  background: var(--lightgray);
+  color: var(--dark) !important;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.nav-lang a:hover {
+  transform: scale(1.05);
+  background: var(--gray);
+}
+
+/* Author Profile CSS */
+.author-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--light);
+  padding: 1.5rem 1rem;
+  border-radius: 12px;
+  border: 1px solid var(--lightgray);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.author-avatar {
+  width: 120px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 3px solid var(--secondary);
+}
+
+.author-bio {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--dark);
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+.author-detail {
+  font-size: 0.85rem;
+  color: var(--gray);
+  margin: 0.3rem 0;
+}
+
+.author-detail a {
+  color: var(--tertiary);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.author-detail a:hover {
+  text-decoration: underline;
+}
+
+details.author-details {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background-color: var(--light);
+  padding: 0.5rem;
+  margin-top: 2rem;
+}
+
+summary.author-summary {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+  color: var(--dark);
+}
+
+summary.author-summary::-webkit-details-marker {
+  display: none;
+}
+
+.author-avatar-small {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+details.author-details[open] .author-summary {
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Custom Footer CSS */
+.custom-footer {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  color: var(--gray);
+}
+
+.custom-footer hr {
+  margin-bottom: 2rem;
+  border-color: var(--lightgray);
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.footer-info h4, .footer-links h4 {
+  color: var(--dark);
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.footer-info p {
+  margin: 0.3rem 0;
+  font-size: 0.9rem;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin: 0.4rem 0;
+}
+
+.footer-links a {
+  color: var(--secondary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  font-size: 0.95rem;
+}
+
+.footer-links a:hover {
+  color: var(--dark);
+}
+
+.footer-bottom {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+/* Reader Mode overrides */
+:root[reader-mode="on"] {
+  & .page {
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 100%;
+    @media all and (min-width: 1200px) {
+      grid-template-columns: 1fr;
+      grid-template-areas:
+        "grid-header"
+        "grid-center"
+        "grid-footer";
+    }
+  }
+
+  & .center {
+    max-width: 100% !important;
+  }
+
+  & .sidebar.left,
+  & .sidebar.right {
+    display: none !important;
+  }
+}
+
+/* --- Media Carousel --- */
+.media-carousel {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  gap: 1rem;
+  padding-bottom: 1rem;
+  margin: 2rem 0;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.media-carousel::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
+}
+
+.carousel-slide {
+  flex: 0 0 85%;
+  scroll-snap-align: center;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.carousel-slide:hover {
+  transform: scale(1.02);
+}
+
+.carousel-slide img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  display: block;
+}
+
+.slide-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+  color: white;
+  padding: 1.5rem 1rem 1rem;
+  font-weight: bold;
+  font-size: 1.1rem;
+}

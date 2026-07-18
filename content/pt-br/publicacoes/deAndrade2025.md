@@ -1,0 +1,8 @@
+---
+title: "Propriedades estelares e características químicas do Catálogo Gaia de Estrelas Próximas observadas por GALAH DR4"
+date: 2025-12-12
+---
+
+## Resumo
+
+O Catálogo Gaia de Estrelas Próximas (GCNS) compreende aproximadamente 330 000 estrelas dentro de 100 pc do Sol, como observado pela versão 3 dos dados do Gaia (Gaia DR3). Enquanto isso, a pesquisa GALAH DR4 caracterizou espectroscopicamente quase um milhão de estrelas, entregando abundâncias químicas detalhadas (até 30 elementos). Apresentamos uma análise conjunta de aproximadamente 6 000 estrelas comuns aos dois catálogos, oferecendo insights iniciais sobre as propriedades estelares e químicas da vizinhança solar. Nossos resultados preliminares indicam que a maioria dessas estrelas são objetos da sequência principal FGK, com alguns interlopes do tipo A (com temperaturas efetivas variando entre 3 000 e 8 000 K), com idades medianas de ≈ 1,6 Gyr (variando de 0,10 a 14,79 Gyr), e mais pobres em metais quando comparadas ao Sol: [Fe/H] ≈ -0,19 dex. Além disso, a maioria das estrelas são membros do disco, com algumas estrelas halo (alta velocidade) identificadas. Com base nessa fundamentação, trabalhos futuros explorarão mais profundamente as informações espectroscópicas completas e parâmetros orbitais de catálogos com valor agregado para refinar as classificações de componentes galácticos (disco fino versus halo), realizar análise química detalhada e entregar uma caracterização químico-dinâmica abrangente da vizinhança solar. Isso fornecerá novos insights sobre a formação e evolução de populações estelares próximas.
