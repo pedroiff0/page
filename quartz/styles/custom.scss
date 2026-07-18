@@ -1,5 +1,54 @@
 @use "./variables.scss" as *;
 
+// --- Mobile layout fixes ---
+
+// The site title ("Bem-Vindo! / Welcome!") was fighting the explorer toggle,
+// language buttons, search and dark-mode icons for space in the same row,
+// wrapping onto 3 lines and pushing all page content down. Give it its own
+// full-width row below the icons instead of shrinking to fit alongside them.
+@media all and ($mobile) {
+  .sidebar.left {
+    flex-wrap: wrap;
+    row-gap: 0.5rem;
+
+    .page-title {
+      order: 10;
+      flex: 1 1 100%;
+      font-size: 1.3rem;
+      line-height: 1.25;
+      text-align: center;
+    }
+  }
+}
+
+// Graph View and Backlinks default to a two-column row below (max-width:
+// 1200px), which is fine on tablets but too cramped on phones. Stack them
+// on true mobile widths only.
+@media all and ($mobile) {
+  #quartz-body .sidebar.right {
+    flex-direction: column;
+
+    & > * {
+      max-height: none;
+    }
+  }
+}
+
+// The pre-footer <hr>'s default 2rem/2rem margin, plus .custom-footer's own
+// inline marginTop:"2rem" (CustomFooter.tsx) and 2rem/0 padding, stack up to
+// ~145px of empty space before any footer text — a lot on a short mobile
+// screen. Tighten both. The inline style on .custom-footer needs !important
+// to actually lose to a stylesheet rule.
+@media all and ($mobile) {
+  .center hr {
+    margin: 1rem auto;
+  }
+
+  .custom-footer {
+    margin-top: 1rem !important;
+    padding: 1rem 0 !important;
+  }
+}
 
 // Enhancing Explorer (Aba lateral) to look more separated/clean
 .explorer ul {
