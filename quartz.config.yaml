@@ -145,7 +145,6 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
-      title: "Explorar"
       folderClickBehavior: "link"
       filterFn: |
         (node) => {
@@ -181,7 +180,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
