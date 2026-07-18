@@ -13,6 +13,7 @@ Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao l
 ### 🔧 Ferramentas & Fluxos de Trabalho
 
 - [Kit de Ferramentas para Dados em Astronomia](pt-br/resource/astronomy-data-toolkit) — Ferramentas essenciais para análise de dados astronômicos: Astropy, TOPCAT, Aladin Lite e fluxos reprodutíveis com Jupyter.
+- [Computação](pt-br/resource/computacao) — Arquivo curado de materiais de estudo em Ciência da Computação, organizado por tópico.
 
 ### 📖 Materiais de Cursos
 
