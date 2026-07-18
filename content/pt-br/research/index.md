@@ -25,3 +25,7 @@ Meu trabalho está na interseção entre **métodos computacionais** e **problem
 ## Projetos
 
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — Construindo um pipeline de aprendizado de máquina para encontrar objetos estelares raros no Gaia e em levantamentos complementares.
+
+## Leituras
+
+- [Artigos](pt-br/research/articles) — Anotações de leitura sobre artigos científicos relevantes para minha pesquisa.

@@ -1,0 +1,37 @@
+---
+publish: true
+title: "The GALAH survey: new diffuse interstellar bands found in residuals of 872 000 stellar spectra"
+tags:
+  - artigo
+  - pesquisa
+---
+
+*Vogrin\vc, i\vc, Rok. (2023)*
+
+## Síntese
+
+Usa >872.000 espectros do GALAH para isolar Bandas Difusas Interestelares (DIBs), gerando catálogo de 183 features. Menos central ao seu tema, mas mostra uso de big data espectroscópico do GALAH.
+
+[Ver artigo original](https://doi.org/10.1093/mnras/stad678)
+
+## Citação
+
+```bibtex
+@ARTICLE{Vogrini2023,
+       author = {{Vogrin{\v{c}}i{\v{c}}}, Rok and {Kos}, Janez and {Zwitter}, Toma{\v{z}} and {Traven}, Gregor and {Beeson}, Kevin L. and {{\v{C}}otar}, Klemen and {Munari}, Ulisse and {Buder}, Sven and {Martell}, Sarah L. and {Lewis}, Geraint F. and {De Silva}, Gayandhi M. and {Hayden}, Michael R. and {Bland-Hawthorn}, Joss and {D'Orazi}, Valentina},
+        title = "{The GALAH survey: new diffuse interstellar bands found in residuals of 872 000 stellar spectra}",
+      journal = {\mnras},
+     keywords = {methods: data analysis, catalogues, surveys, dust, extinction, Astrophysics - Astrophysics of Galaxies, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2023,
+        month = may,
+       volume = {521},
+       number = {3},
+        pages = {3727-3748},
+          doi = {10.1093/mnras/stad678},
+archivePrefix = {arXiv},
+       eprint = {2303.14016},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3727V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
