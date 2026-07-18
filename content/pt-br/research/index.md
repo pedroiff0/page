@@ -1,7 +1,9 @@
 ---
 publish: true
-title: "Pesquisa"
+title: Pesquisa
 order: 1
+created: 2026-07-18T14:50:18.101-03:00
+modified: 2026-07-18T14:50:18.101-03:00
 ---
 
 Meu trabalho está na interseção entre **métodos computacionais** e **problemas astrofísicos**, com foco em arqueologia galáctica, populações estelares e a estrutura da Via Láctea.
@@ -9,11 +11,13 @@ Meu trabalho está na interseção entre **métodos computacionais** e **problem
 ## Áreas de Interesse
 
 **Astrofísica**
+
 - Arqueologia galáctica e populações estelares
 - Estrutura e evolução química da Via Láctea
 - Análise de grandes volumes de dados astronômicos
 
 **Ciência da Computação**
+
 - Computação científica e pipelines de dados
 - Aplicações de aprendizado de máquina em astronomia
 - Fluxos de trabalho computacionais reprodutíveis

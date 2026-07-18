@@ -1,7 +1,8 @@
 ---
 publish: true
-title: "Kit de Ferramentas para Dados em Astronomia"
-date: 2025-12-22
+title: Kit de Ferramentas para Dados em Astronomia
+created: 2025-12-22
+modified: 2026-07-18T13:40:36.894-03:00
 ---
 
 Ferramentas selecionadas para fluxos de trabalho em astronomia: visualização, inspeção de catálogos e notebooks reprodutíveis.
