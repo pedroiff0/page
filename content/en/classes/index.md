@@ -1,7 +1,8 @@
 ---
 publish: true
-title: "Classes"
-order: 3
+title: Classes
+created: 2026-07-18T14:25:13.277-03:00
+modified: 2026-07-18T14:25:13.277-03:00
 ---
 
 A collection of notes, assignments, and materials from courses I've taken or assisted with during my degree. This section is a work in progress — more classes will be added over time.

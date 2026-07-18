@@ -1,7 +1,6 @@
 ---
 publish: true
 title: Disciplinas
-order: 3
 created: 2026-07-18T14:50:18.101-03:00
 modified: 2026-07-18T14:50:18.101-03:00
 ---

@@ -1,6 +1,8 @@
 ---
 publish: true
-title: "Introduction to Scientific Computing"
+title: Introduction to Scientific Computing
+created: 2026-07-18T13:40:36.890-03:00
+modified: 2026-07-18T13:40:36.890-03:00
 tags:
   - teaching
   - course
