@@ -1,7 +1,8 @@
 ---
 publish: true
-title: "Welcome to the Website!"
-date: 2025-12-22
+title: Welcome to the Website!
+created: 2025-12-22
+modified: 2026-07-18T13:40:36.890-03:00
 tags:
   - engineering
   - computing

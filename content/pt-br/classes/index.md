@@ -2,6 +2,8 @@
 publish: true
 title: Disciplinas
 order: 3
+created: 2026-07-18T14:50:18.101-03:00
+modified: 2026-07-18T14:50:18.101-03:00
 ---
 
 Grade curricular completa do curso de Engenharia de Computação do Instituto Federal Fluminense (IFF), organizada por período — 83 disciplinas ao todo. Cada disciplina traz ementa, objetivos, conteúdo programático e bibliografia oficiais do PPC.

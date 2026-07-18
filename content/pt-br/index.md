@@ -1,6 +1,8 @@
 ---
 publish: true
-title: "Sobre Mim"
+title: Sobre Mim
+created: 2026-07-18T14:50:18.601-03:00
+modified: 2026-07-18T15:19:39.596-03:00
 ---
 
 > [!info] Bem-vindo(a)!
@@ -9,6 +11,7 @@ title: "Sobre Mim"
 ## 📚 Por onde começar?
 
 ### 1️⃣ Primeiro passo: Sobre mim
+
 <img src="../assets/profilepic.jpeg" alt="Pedro Henrique" width="160" style="border-radius: 50%; float: right; margin-left: 1.5rem; margin-bottom: 1rem; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 Sou Pedro Henrique, estudante de Engenharia de Computação no [Instituto Federal Fluminense](https://portal1.iff.edu.br/), no Rio de Janeiro, Brasil. Desde 2022, venho construindo uma ponte entre **ciência da computação** e **astronomia**, trabalhando em projetos de pesquisa que exploram populações estelares e a estrutura da Via Láctea.
@@ -16,11 +19,15 @@ Sou Pedro Henrique, estudante de Engenharia de Computação no [Instituto Federa
 Minha paixão está na interseção entre **métodos computacionais** e **problemas astrofísicos**. Acredito que ferramentas de código aberto e fluxos de trabalho reprodutíveis são essenciais para avançar a ciência e torná-la mais acessível a todos.
 
 ### 2️⃣ Segundo passo: Áreas de Interesse
+
 - **Astrofísica**: Arqueologia galáctica, populações estelares, estrutura e evolução química da Via Láctea, análise de grandes volumes de dados astronômicos.
 - **Ciência da Computação**: Computação científica, pipelines de dados, aprendizado de máquina em astronomia, desenvolvimento open-source.
 
 ### 3️⃣ Terceiro passo: Explorar o conteúdo
+
 Para navegar pelo meu trabalho, explore as seções deste site:
+
+You can test me befoe
 
 - [Pesquisa](pt-br/research/) — Conheça meus projetos atuais e publicações.
 - [Recursos](pt-br/resource/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.

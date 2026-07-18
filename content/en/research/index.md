@@ -1,7 +1,9 @@
 ---
 publish: true
-title: "Research"
+title: Research
 order: 1
+created: 2026-07-18T14:24:43.861-03:00
+modified: 2026-07-18T14:24:43.861-03:00
 ---
 
 My work sits at the intersection of **computational methods** and **astrophysical problems**, focused on galactic archaeology, stellar populations, and the structure of the Milky Way.
@@ -9,11 +11,13 @@ My work sits at the intersection of **computational methods** and **astrophysica
 ## Areas of Interest
 
 **Astrophysics**
+
 - Galactic archaeology and stellar populations
 - Milky Way structure and chemical evolution
 - Large-scale astronomical data analysis
 
 **Computer Science**
+
 - Scientific computing and data pipelines
 - Machine learning applications in astronomy
 - Reproducible computational workflows

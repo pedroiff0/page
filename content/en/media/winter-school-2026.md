@@ -1,6 +1,8 @@
 ---
 publish: true
-title: "Winter School - 2026"
+title: Winter School - 2026
+created: 2026-07-18T13:50:21.240-03:00
+modified: 2026-07-18T13:50:21.240-03:00
 tags:
   - en
 ---
@@ -32,7 +34,7 @@ Page dedicated to the participation in **Winter School 2026** at National Observ
 
 Hello and Welcome to this page! I believe you achieved here by scanning the QRCODE at my poster... So, let's talk a little about it!
 
-This poster was actually used first time at the Annual Meeting of Brazilian Astronomical Society in Caxambu (MG) last year. There are few important things, the main one is that we have already made progress, so I need to update that to be with the t-SNE and Machine Learning. 
+This poster was actually used first time at the Annual Meeting of Brazilian Astronomical Society in Caxambu (MG) last year. There are few important things, the main one is that we have already made progress, so I need to update that to be with the t-SNE and Machine Learning.
 
 Yes, i Know you are expecting me to bring the Machine Learning version, but I decided to share a new version online, which is available below:
 
@@ -45,4 +47,4 @@ Now let's discuss what i couldn't bring in the poster:
 
 Our data-set
 
-![MOSTRATEC 2023](/assets/mostratec2023/mostratec.jpeg)
+![MOSTRATEC 2023](assets/mostratec2023/mostratec.jpeg)

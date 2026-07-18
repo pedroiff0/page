@@ -1,7 +1,9 @@
 ---
 publish: true
-title: "Blog"
+title: Blog
 order: 6
+created: 2026-07-18T14:50:18.101-03:00
+modified: 2026-07-18T14:50:18.101-03:00
 ---
 
 Pensamentos aleatórios, tutoriais e reflexões sobre ciência, tecnologia e a jornada de pesquisa.

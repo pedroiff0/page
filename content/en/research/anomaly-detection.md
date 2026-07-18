@@ -1,7 +1,8 @@
 ---
 publish: true
-title: "Anomaly Detection in Gaia Data"
-date: 2025-09-01
+title: Anomaly Detection in Gaia Data
+created: 2025-09-01
+modified: 2026-07-18T13:40:36.890-03:00
 ---
 
 ## Overview

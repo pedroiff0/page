@@ -1,7 +1,9 @@
 ---
 publish: true
-title: "Media"
+title: Media
 order: 4
+created: 2026-07-18T13:51:45.596-03:00
+modified: 2026-07-18T13:51:45.596-03:00
 ---
 
 Participations in science fairs and congresses. Swipe to see the photos!
