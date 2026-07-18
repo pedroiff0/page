@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Classes"
 order: 3
 ---

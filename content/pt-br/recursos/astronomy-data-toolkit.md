@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Kit de Ferramentas para Dados em Astronomia"
 date: 2025-12-22
 ---

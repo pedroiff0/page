@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Mídia"
 order: 4
 ---

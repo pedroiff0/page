@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Recursos"
 order: 2
 ---

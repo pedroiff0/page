@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Propriedades estelares e características químicas do Catálogo Gaia de Estrelas Próximas observadas por GALAH DR4"
 date: 2025-12-12
 ---

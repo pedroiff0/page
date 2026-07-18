@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "MOSTRATEC 2023"
 date: 2023-10-23
 ---

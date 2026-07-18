@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Disciplinas"
 order: 3
 ---

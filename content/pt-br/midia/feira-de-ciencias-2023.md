@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Feira de Ciências 2023"
 tags:
   - ptbr

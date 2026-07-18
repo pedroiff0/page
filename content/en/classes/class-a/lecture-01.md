@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Lecture 01: Python Fundamentals and Virtual Environments"
 date: 2026-08-01
 ---

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4"
 date: 2025-12-12
 ---

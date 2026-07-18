@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Pesquisa"
 order: 1
 ---

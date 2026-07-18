@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Publications"
 order: 5
 ---

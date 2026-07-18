@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Research"
 order: 1
 ---

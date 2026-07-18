@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "MCTIA 2025"
 date: 2025-12-01
 ---

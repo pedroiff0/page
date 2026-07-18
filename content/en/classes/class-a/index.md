@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Introduction to Scientific Computing"
 tags:
   - teaching

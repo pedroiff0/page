@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Science Fair 2023"
 tags:
   - en

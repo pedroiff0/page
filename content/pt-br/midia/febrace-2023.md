@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "FEBRACE 2023"
 date: 2023-03-20
 ---

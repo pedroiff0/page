@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Blog"
 order: 6
 ---

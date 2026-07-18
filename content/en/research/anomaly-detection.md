@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Anomaly Detection in Gaia Data"
 date: 2025-09-01
 ---

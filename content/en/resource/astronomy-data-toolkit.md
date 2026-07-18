@@ -1,4 +1,5 @@
 ---
+publish: true
 title: "Astronomy Data Toolkit"
 date: 2025-12-22
 ---
