@@ -276,6 +276,13 @@ details.author-details[open] .author-summary {
   }
 }
 
+/* Created date, shown next to ContentMeta's modified date + reading time */
+.created-date {
+  margin-top: -0.5rem;
+  color: var(--darkgray);
+  font-size: 0.9rem;
+}
+
 /* Hide the auto-generated "N items in this folder" listing that folder-page
    appends below every folder index page's own content (in every locale). */
 .page-listing {

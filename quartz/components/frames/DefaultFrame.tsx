@@ -2,10 +2,12 @@ import { PageFrame, PageFrameProps } from "./types"
 import HeaderConstructor from "../Header"
 import LanguageToggleConstructor from "../LanguageToggle"
 import CustomFooterConstructor from "../CustomFooter"
+import CreatedDateConstructor from "../CreatedDate"
 
 const Header = HeaderConstructor()
 const LanguageToggle = LanguageToggleConstructor()
 const CustomFooter = CustomFooterConstructor()
+const CreatedDate = CreatedDateConstructor()
 
 /**
  * The default page frame — three-column layout with left sidebar, center
@@ -44,6 +46,7 @@ export const DefaultFrame: PageFrame = {
                 <BodyComponent {...componentData} />
               ))}
             </div>
+            <CreatedDate {...componentData} />
           </div>
           <Content {...componentData} />
           <hr />
