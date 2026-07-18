@@ -8,4 +8,4 @@ Pensamentos aleatórios, tutoriais e reflexões sobre ciência, tecnologia e a j
 
 ## Postagens
 
-- [Bem Vindo ao Site!](pt-br/blog/bem-vindo) — 22 de dezembro de 2025
+- [Bem Vindo ao Site!](pt-br/blog/welcome) — 22 de dezembro de 2025

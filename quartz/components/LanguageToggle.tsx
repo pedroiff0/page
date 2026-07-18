@@ -11,15 +11,9 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
       <script dangerouslySetInnerHTML={{
         __html: `
           if (!window.translatePath) {
-            window.langDict = {
-              'pt-br': 'en', 'en': 'pt-br',
-              'pesquisa': 'research', 'research': 'pesquisa',
-              'recursos': 'resource', 'resource': 'recursos',
-              'disciplinas': 'classes', 'classes': 'disciplinas',
-              'midia': 'media', 'media': 'midia',
-              'publicacoes': 'publications', 'publications': 'publicacoes'
-            };
-
+            // Content slugs are identical across locales (content/en/x mirrors
+            // content/pt-br/x), so switching language is just swapping that one
+            // path segment — no per-folder dictionary to keep in sync.
             window.translatePath = function(path, targetLang) {
               const parts = path.split('/').filter(p => p);
               const langIdx = parts.findIndex(p => p === 'en' || p === 'pt-br');
@@ -27,11 +21,6 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
               // Everything before the language segment is the base path (e.g. GitHub Pages project prefix)
               const prefix = langIdx === -1 ? parts : parts.slice(0, langIdx);
               const rest = langIdx === -1 ? [] : parts.slice(langIdx + 1);
-
-              // Translate the first folder after the language segment, if it has a known counterpart
-              if (rest.length > 0 && window.langDict[rest[0]]) {
-                rest[0] = window.langDict[rest[0]];
-              }
 
               return '/' + [...prefix, targetLang, ...rest].join('/') + '/';
             };

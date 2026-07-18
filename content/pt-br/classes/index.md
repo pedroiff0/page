@@ -8,4 +8,4 @@ Uma coleção de anotações, trabalhos e materiais de disciplinas que cursei ou
 
 ## Disciplinas
 
-- [Introdução à Computação Científica](pt-br/disciplinas/disciplina-A) — Ementa completa e materiais de aula atualizados semanalmente.
+- [Introdução à Computação Científica](pt-br/classes/disciplina-A) — Ementa completa e materiais de aula atualizados semanalmente.
