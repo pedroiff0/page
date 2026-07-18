@@ -6,8 +6,8 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
 
   return (
     <div class={classNames(displayClass, "nav-lang")}>
-      <a href={`${basePath}/en/`} title="English" data-lang="en" onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'en')">🇺🇸 EN</a>
-      <a href={`${basePath}/pt-br/`} title="Português" data-lang="pt-br" onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'pt-br')">🇧🇷 PT</a>
+      <a href={`${basePath}/en/`} title="English" data-lang="en" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'en')">🇺🇸 EN</a>
+      <a href={`${basePath}/pt-br/`} title="Português" data-lang="pt-br" data-router-ignore onclick="event.preventDefault(); window.location.href = window.translatePath(window.location.pathname, 'pt-br')">🇧🇷 PT</a>
       <script dangerouslySetInnerHTML={{
         __html: `
           if (!window.translatePath) {
