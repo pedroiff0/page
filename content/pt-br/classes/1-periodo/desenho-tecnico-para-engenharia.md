@@ -65,13 +65,13 @@ Utilização de instrumentos de desenho; Normas para desenho; Desenho geométric
 
 ## Bibliografia Básica
 
-- 1. PEREIRA, Patrícia; MICELI M.T. Desenho Técnico Básico. Rio de Janeiro: LTC, 2008.
-- 2. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. São Paulo: Pearson, 2013.
-- 3. SILVA, A., RIBEIRO, C. T., DIAS, J., SOUZA, L. Desenho Técnico Moderno. 4ª Edição. Rio de Janeiro: LTC,
+1. PEREIRA, Patrícia; MICELI M.T. Desenho Técnico Básico. Rio de Janeiro: LTC, 2008.
+2. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. São Paulo: Pearson, 2013.
+3. SILVA, A., RIBEIRO, C. T., DIAS, J., SOUZA, L. Desenho Técnico Moderno. 4ª Edição. Rio de Janeiro: LTC,
 
 ## Bibliografia Complementar
 
-- 1. LEAKE, J. M., BORGERSON, J. L. Manual de Desenho Técnico para Engenharia: Desenho, Modelagem e Visualização. 2ª Edição. Rio de Janeiro: LTC, 2014.
-- 2. MORIOKA, C. A., CRUZ, M. D., CRUZ, E. C. Desenho Técnico: Medidas e Representação Gráfica. São Paulo: Editora Érica, 2014.
-- 3. NETTO, C. C. Estudo Dirigido Autodesk: AutoCAD 2018 para Windows. São Paulo: Érica, 2017.
-- 4. NORTON, R. L. Projeto de Máquinas: Uma Abordagem Integrada. 4ª Edição. Porto Alegre: Bookman, RODRIGUES, A. R., SOUZA, A. F., JUNIOR, A. B., BRANDÃO, L. C., SILVEIRA, Z. C. Desenho Técnico Mecânico. Rio de Janeiro: Elsevier, 2015.
+1. LEAKE, J. M., BORGERSON, J. L. Manual de Desenho Técnico para Engenharia: Desenho, Modelagem e Visualização. 2ª Edição. Rio de Janeiro: LTC, 2014.
+2. MORIOKA, C. A., CRUZ, M. D., CRUZ, E. C. Desenho Técnico: Medidas e Representação Gráfica. São Paulo: Editora Érica, 2014.
+3. NETTO, C. C. Estudo Dirigido Autodesk: AutoCAD 2018 para Windows. São Paulo: Érica, 2017.
+4. NORTON, R. L. Projeto de Máquinas: Uma Abordagem Integrada. 4ª Edição. Porto Alegre: Bookman, RODRIGUES, A. R., SOUZA, A. F., JUNIOR, A. B., BRANDÃO, L. C., SILVEIRA, Z. C. Desenho Técnico Mecânico. Rio de Janeiro: Elsevier, 2015.

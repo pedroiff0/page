@@ -57,14 +57,14 @@ Aplicações da integral definida; Integrais impróprias; Funções de várias v
 
 ## Bibliografia Básica
 
-- 1. GUIDORIZZI, H. Um Curso de Cálculo Diferencial e Integral: Volume II. Rio de Janeiro: LTC, 2018.
-- 2. LEITHOLD, L. Cálculo com Geometria Analítica. 3ª Edição. São Paulo: Harbra, 1994. Vol.
-- 3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol.
+1. GUIDORIZZI, H. Um Curso de Cálculo Diferencial e Integral: Volume II. Rio de Janeiro: LTC, 2018.
+2. LEITHOLD, L. Cálculo com Geometria Analítica. 3ª Edição. São Paulo: Harbra, 1994. Vol.
+3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol.
 
 ## Bibliografia Complementar
 
-- 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I. 10ª Edição. Porto Alegre: Bookman, 2014 FLEMMING, D. M., GONÇALVES, M. B. Cálculo B: Funções de Várias Variáveis, Integrais Múltiplas, Integrais Curvilíneas e de Superfície. 2ª Edição. São Paulo: Pearson, 2007.
-- 2. STEWART, J. Cálculo. 8ª Edição. São Paulo: Cengage Learning, 2017. Vol.
-- 3. YAMASHIRO, S., SOUZA, S. A. O. Matemática com Aplicações Tecnológica: Cálculo II. São Paulo:
-- 4. Blucher, 2018.
-- 5. ZEGARELLI, M. Cálculo II para Leigos. Rio de Janeiro: Alta Books, 2012.
+1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I. 10ª Edição. Porto Alegre: Bookman, 2014 FLEMMING, D. M., GONÇALVES, M. B. Cálculo B: Funções de Várias Variáveis, Integrais Múltiplas, Integrais Curvilíneas e de Superfície. 2ª Edição. São Paulo: Pearson, 2007.
+2. STEWART, J. Cálculo. 8ª Edição. São Paulo: Cengage Learning, 2017. Vol.
+3. YAMASHIRO, S., SOUZA, S. A. O. Matemática com Aplicações Tecnológica: Cálculo II. São Paulo:
+4. Blucher, 2018.
+5. ZEGARELLI, M. Cálculo II para Leigos. Rio de Janeiro: Alta Books, 2012.

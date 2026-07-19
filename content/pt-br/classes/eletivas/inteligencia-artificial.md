@@ -57,14 +57,14 @@ Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos d
 
 ## Bibliografia Básica
 
-- 1. COPPIN, B. Inteligência Artificial. Rio de Janeiro: LTC, 2010.
-- 2. LUGER, G. Inteligência Artificial. 6ª Edição. São Paulo: Pearson, 2013.
-- 3. LIMA, I., PINHEIRO, C., SANTOS, F. O. Inteligência Artificial. São Paulo: Elsevier, 2014.
+1. COPPIN, B. Inteligência Artificial. Rio de Janeiro: LTC, 2010.
+2. LUGER, G. Inteligência Artificial. 6ª Edição. São Paulo: Pearson, 2013.
+3. LIMA, I., PINHEIRO, C., SANTOS, F. O. Inteligência Artificial. São Paulo: Elsevier, 2014.
 
 ## Bibliografia Complementar
 
-- 1. BRAGA, A. P., CARVALHO, A. P. L., LUDEMIR, T. B. Redes Neurais Artificiais: Teoria e Aplicações. 2ª Edição. Rio de Janeiro: LTC, 2007.
-- 2. FACELLI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. Rio de Janeiro: LTC, 2011.
-- 3. LINDEN, R. Algoritmos Genéticos. 3ª Edição. Rio de Janeiro: Ciência Moderna, 2012.
-- 4. LUDWIG JR, O., MONTGOMERY, E. Redes Neurais: Fundamentos e Aplicações com Programas em C. Rio de Janeiro: Ciência Moderna, 2009.
-- 5. SIMÕES, M. G., SHAW, I. S. Controle e Modelagem Fuzzy. 2ª Edição. São Paulo: Blucher, 2007.
+1. BRAGA, A. P., CARVALHO, A. P. L., LUDEMIR, T. B. Redes Neurais Artificiais: Teoria e Aplicações. 2ª Edição. Rio de Janeiro: LTC, 2007.
+2. FACELLI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. Rio de Janeiro: LTC, 2011.
+3. LINDEN, R. Algoritmos Genéticos. 3ª Edição. Rio de Janeiro: Ciência Moderna, 2012.
+4. LUDWIG JR, O., MONTGOMERY, E. Redes Neurais: Fundamentos e Aplicações com Programas em C. Rio de Janeiro: Ciência Moderna, 2009.
+5. SIMÕES, M. G., SHAW, I. S. Controle e Modelagem Fuzzy. 2ª Edição. São Paulo: Blucher, 2007.

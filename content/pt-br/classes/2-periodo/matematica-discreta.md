@@ -73,15 +73,15 @@ Teoria dos conjuntos, relações e funções, indução e recursão, análise co
 
 ## Bibliografia Básica
 
-- 1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016.
-- 2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013.
-- 3. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning.
+1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016.
+2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013.
+3. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning.
 
 ## Bibliografia Complementar
 
-- 1. HUNTER, D. J. Fundamentos da Matemática Discreta. Rio de Janeiro: LTC, 2011.
-- 2. LIPSCHUTZ, S; LIPSON, M. Matemática Discreta. 3ª Edição. São Paulo: Bookman, 2013.
-- 3. MENEZES, P. B., TOSCANI, L. V., LÓPEZ, J. G. Aprendendo Matemática Discreta com Exercícios.
-- 4. Bookman, 2009.
-- 5. ROSEN, K. H. Matemática Discreta e Suas Aplicações. 6ª Edição. Mc Graw Hill, 2009.
-- 6. STEIN, C., DRYSDALE, R. L., BOGART, K. Matemática Discreta para Ciência da Computação. São Paulo: Pearson, 2013.
+1. HUNTER, D. J. Fundamentos da Matemática Discreta. Rio de Janeiro: LTC, 2011.
+2. LIPSCHUTZ, S; LIPSON, M. Matemática Discreta. 3ª Edição. São Paulo: Bookman, 2013.
+3. MENEZES, P. B., TOSCANI, L. V., LÓPEZ, J. G. Aprendendo Matemática Discreta com Exercícios.
+4. Bookman, 2009.
+5. ROSEN, K. H. Matemática Discreta e Suas Aplicações. 6ª Edição. Mc Graw Hill, 2009.
+6. STEIN, C., DRYSDALE, R. L., BOGART, K. Matemática Discreta para Ciência da Computação. São Paulo: Pearson, 2013.

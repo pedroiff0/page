@@ -50,15 +50,15 @@ Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprime
 
 ## Bibliografia Básica
 
-- 1. GOLDEMBERG, J., PALETTA, F. C. Energias renováveis. São Paulo: Blucher, 2012.
-- 2. HINRICHS, R., KLEINBACH, M. H. Energia e meio ambiente. São Paulo: Cengage, 2013.
-- 3. REIS, L. B., FADIGAS, E. A. A., CARVALHO, C. E. Energia, recursos naturais e a prática do desenvolvimento sustentável. 2ª Edição. São Paulo: Manole, 2011.
+1. GOLDEMBERG, J., PALETTA, F. C. Energias renováveis. São Paulo: Blucher, 2012.
+2. HINRICHS, R., KLEINBACH, M. H. Energia e meio ambiente. São Paulo: Cengage, 2013.
+3. REIS, L. B., FADIGAS, E. A. A., CARVALHO, C. E. Energia, recursos naturais e a prática do desenvolvimento sustentável. 2ª Edição. São Paulo: Manole, 2011.
 
 ## Bibliografia Complementar
 
-- 1. ABREU, F. V. Biogás: Economia, Regulação e Sustentabilidade. Rio de Janeiro: Interciência,
-- 2. BALFOUR, J., SHAW, M., NASH, N. B. Introdução de Sistemas Fotovoltaicos. Rio de Janeiro:
-- 3. LTC, 2016.
-- 4. FILHO, G. F. Gestão da Energia: Fundamentos e Aplicações. São Paulo: Erica, 2018.
-- 5. MOREIRA, J. R. S. Energias Renováveis, Geração Distribuída e Eficiência Energética. Rio de Janeiro: LTC, 2017.
-- 6. REIS, L. B. Geração de energia elétrica: tecnologia, inserção ambiental, planejamento, peração e análise de viabilidade. 3ª Edição. São Paulo: Manole, 2017.
+1. ABREU, F. V. Biogás: Economia, Regulação e Sustentabilidade. Rio de Janeiro: Interciência,
+2. BALFOUR, J., SHAW, M., NASH, N. B. Introdução de Sistemas Fotovoltaicos. Rio de Janeiro:
+3. LTC, 2016.
+4. FILHO, G. F. Gestão da Energia: Fundamentos e Aplicações. São Paulo: Erica, 2018.
+5. MOREIRA, J. R. S. Energias Renováveis, Geração Distribuída e Eficiência Energética. Rio de Janeiro: LTC, 2017.
+6. REIS, L. B. Geração de energia elétrica: tecnologia, inserção ambiental, planejamento, peração e análise de viabilidade. 3ª Edição. São Paulo: Manole, 2017.

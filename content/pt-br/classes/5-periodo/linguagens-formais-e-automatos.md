@@ -48,16 +48,16 @@ Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. M
 
 ## Bibliografia Básica
 
-- 1. DIVERIO, T. A., MENEZES, Paulo. B. Teoria da Computação: máquinas universais e computabilidade. 3ª Edição. Porto Alegre: Bookman. 2011.
-- 2. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição.
-- 3. LTC, 2016.
-- 4. ROSEN, Kenneth H. Matemática Discreta e suas Aplicações. 6ª Edição. São Paulo: McGraw-Hill Brasil.
+1. DIVERIO, T. A., MENEZES, Paulo. B. Teoria da Computação: máquinas universais e computabilidade. 3ª Edição. Porto Alegre: Bookman. 2011.
+2. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição.
+3. LTC, 2016.
+4. ROSEN, Kenneth H. Matemática Discreta e suas Aplicações. 6ª Edição. São Paulo: McGraw-Hill Brasil.
 
 ## Bibliografia Complementar
 
-- 1. HOPCROFT, J. E., ULLMAN, J. D., MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 2ª Edição. Rio de Janeiro: Campus. 2003.
-- 2. MENEZES, P. B. Linguagens Formais e Autômatos. 6ª Edição. Porto Alegre: Bookman. 2011.
-- 3. PAPADIMITRIOU, C. H., LEWIS, H. R. Elementos da Teoria da Computação. 2ª Edição. Porto Alegre:
-- 4. Bookman.
-- 5. SIPSER, M. Introdução à Teoria da Computação. 2ª Edição. São Paulo: Thomson Learning. 2007.
-- 6. VIEIRA, N. J. Introdução aos fundamentos da computação: linguagens e máquinas. São Paulo: Thomson,
+1. HOPCROFT, J. E., ULLMAN, J. D., MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 2ª Edição. Rio de Janeiro: Campus. 2003.
+2. MENEZES, P. B. Linguagens Formais e Autômatos. 6ª Edição. Porto Alegre: Bookman. 2011.
+3. PAPADIMITRIOU, C. H., LEWIS, H. R. Elementos da Teoria da Computação. 2ª Edição. Porto Alegre:
+4. Bookman.
+5. SIPSER, M. Introdução à Teoria da Computação. 2ª Edição. São Paulo: Thomson Learning. 2007.
+6. VIEIRA, N. J. Introdução aos fundamentos da computação: linguagens e máquinas. São Paulo: Thomson,

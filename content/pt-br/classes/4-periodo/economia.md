@@ -64,14 +64,14 @@ Apresentar elementos de cálculos financeiros básicos, fundamentais para o dese
 
 ## Bibliografia Básica
 
-- 1. PUCCINI, A. L. Matemática financeira: objetiva e aplicada. 9.ª Edição. São Paulo: Elsevier, 2011.
-- 2. VASCONCELLOS, M. A. S.; ENRIQUEZ, M. Fundamentos de economia. 6.ª Edição. São Paulo: Saraiva,
-- 3. VASCONCELLOS, M. A. S. Economia: micro e macro. 6.ª Edição. São Paulo: Atlas, 2015.
+1. PUCCINI, A. L. Matemática financeira: objetiva e aplicada. 9.ª Edição. São Paulo: Elsevier, 2011.
+2. VASCONCELLOS, M. A. S.; ENRIQUEZ, M. Fundamentos de economia. 6.ª Edição. São Paulo: Saraiva,
+3. VASCONCELLOS, M. A. S. Economia: micro e macro. 6.ª Edição. São Paulo: Atlas, 2015.
 
 ## Bibliografia Complementar
 
-- 1. CAMLOFFSKI, R. Análise de Investimentos e Viabilidade as Empresas. São Paulo: Atlas, 2014.
-- 2. FILHO, N. C., KOPITTKE, B. H. Análise de Investimentos. 11ª Edição. São Paulo: Atlas, 2010.
-- 3. MANKIW, N. G. Introdução à Economia. 6ª Edição. São Paulo: Cengage, 2013.
-- 4. NETO, A. A. Matemática Financeira e suas Aplicações. 13ª Edição. São Paulo: Atlas, 2016.
-- 5. SOBRINHO, J. D. V. Matemática Financeira. 8ª Edição. São Paulo: Atlas, 2018.
+1. CAMLOFFSKI, R. Análise de Investimentos e Viabilidade as Empresas. São Paulo: Atlas, 2014.
+2. FILHO, N. C., KOPITTKE, B. H. Análise de Investimentos. 11ª Edição. São Paulo: Atlas, 2010.
+3. MANKIW, N. G. Introdução à Economia. 6ª Edição. São Paulo: Cengage, 2013.
+4. NETO, A. A. Matemática Financeira e suas Aplicações. 13ª Edição. São Paulo: Atlas, 2016.
+5. SOBRINHO, J. D. V. Matemática Financeira. 8ª Edição. São Paulo: Atlas, 2018.

@@ -76,17 +76,17 @@ Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Re
 
 ## Bibliografia Básica
 
-- 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre:
-- 2. Bookman, 2015.
-- 3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem TopDown. 6ª Edição. Pearson, 2013.
-- 4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre:
+2. Bookman, 2015.
+3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem TopDown. 6ª Edição. Pearson, 2013.
+4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
 
 ## Bibliografia Complementar
 
-- 1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books, 2009.
-- 2. CARISSIMI, A. S., ROCHOL, J.
-- 3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman, 2017.
-- 4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 4.
-- 5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo:
-- 6. Novatec, 2015.
-- 7. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books, 2009.
+2. CARISSIMI, A. S., ROCHOL, J.
+3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman, 2017.
+4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 4.
+5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo:
+6. Novatec, 2015.
+7. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.

@@ -83,15 +83,15 @@ Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para S
 
 ## Bibliografia Básica
 
-- 1. COCIAN, L.F. E. Introdução à Engenharia. Bookman, 2016.
-- 2. DYM, C. L., LITLE, P., ORWIN, E., SPJUT, E. Introdução à Engenharia Baseada em Projeto. 3ª Edição.
-- 3. Bookman, 2010.
-- 4. HOLTZAPPLE, M., REECE, W. D. Introdução à Engenharia. LTC, 2006.
+1. COCIAN, L.F. E. Introdução à Engenharia. Bookman, 2016.
+2. DYM, C. L., LITLE, P., ORWIN, E., SPJUT, E. Introdução à Engenharia Baseada em Projeto. 3ª Edição.
+3. Bookman, 2010.
+4. HOLTZAPPLE, M., REECE, W. D. Introdução à Engenharia. LTC, 2006.
 
 ## Bibliografia Complementar
 
-- 1. BROCKMAN, J. B. Introdução à Engenharia: Modelagem e Solução de Problemas. LTC, 2010.
-- 2. CHAPMAN, S. Programação em Matlab para Engenheiros. 3ª Edição. Cengage Learning, 2016.
-- 3. CHAPRA, S. C., CANALE, R. P. Métodos Numéricos para Engenharia. 3ª Edição. AMGH, 2016.
-- 4. LEITE, M. SciLab: Uma Abordagem Prática e Didática. Ciência Moderna, 2015.
-- 5. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. Pearson, 2013
+1. BROCKMAN, J. B. Introdução à Engenharia: Modelagem e Solução de Problemas. LTC, 2010.
+2. CHAPMAN, S. Programação em Matlab para Engenheiros. 3ª Edição. Cengage Learning, 2016.
+3. CHAPRA, S. C., CANALE, R. P. Métodos Numéricos para Engenharia. 3ª Edição. AMGH, 2016.
+4. LEITE, M. SciLab: Uma Abordagem Prática e Didática. Ciência Moderna, 2015.
+5. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. Pearson, 2013

@@ -56,16 +56,16 @@ Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores au
 
 ## Bibliografia Básica
 
-- 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear.
-- 2. ª Edição. São Paulo: Harbra, 1984.
-- 3. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
-- 4. STEINBRUCH, A., WINTERLE, P. Álgebra Linear.
-- 5. ª Edição. São Paulo: Pearson, 1995.
+1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear.
+2. ª Edição. São Paulo: Harbra, 1984.
+3. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
+4. STEINBRUCH, A., WINTERLE, P. Álgebra Linear.
+5. ª Edição. São Paulo: Pearson, 1995.
 
 ## Bibliografia Complementar
 
-- 1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
-- 2. LAY, D. C., LAY, S. R.
-- 3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC, LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018.
-- 4. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011.
-- 5. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.
+1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
+2. LAY, D. C., LAY, S. R.
+3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC, LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018.
+4. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011.
+5. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.

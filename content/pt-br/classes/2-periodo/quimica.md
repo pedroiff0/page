@@ -78,15 +78,15 @@ Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Q
 
 ## Bibliografia Básica
 
-- 1. ATKINS, P., JONES, L., LAVERMANM L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 7ª Edição. Porto Alegre: Bookman, 2018.
-- 2. KOTZ, J., TREICHEL, P. M., TOWNSEND, J., TREICHEL, D. Química Geral e Reações Químicas: Volume 1 e 2. 3ª Edição. São Paulo: Cengage Learning, 2015.
-- 3. RUSSEL, J. B. Química Geral: Volume 1 e 2. 2ª Edição. São Paulo: Pearson, 1994.
+1. ATKINS, P., JONES, L., LAVERMANM L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 7ª Edição. Porto Alegre: Bookman, 2018.
+2. KOTZ, J., TREICHEL, P. M., TOWNSEND, J., TREICHEL, D. Química Geral e Reações Químicas: Volume 1 e 2. 3ª Edição. São Paulo: Cengage Learning, 2015.
+3. RUSSEL, J. B. Química Geral: Volume 1 e 2. 2ª Edição. São Paulo: Pearson, 1994.
 
 ## Bibliografia Complementar
 
-- 1. BRADY, J. E., RUSSEL, J. W., HOLUM, J. R. Química: A Matéria e Suas Transformações.
-- 2. ª ed., vol. 1 e 2, Rio de Janeiro: LTC, 2009 BROWN, T. L., LEMAY, H. E., BURSTEN, B. E., BURDGE, J. R. Química: A Ciência Central. 10ª Edição.
-- 3. São Paulo: Pearson, 2016.
-- 4. BROWN, L., HOLME, T. Química Geral Aplicada à Engenharia. 2ª Edição. São Paulo: Cengage Learning, 2014.
-- 5. ROSENBERG, J. L., EPSTEIN, L. M., KRIEGER, P. J. Química Geral. 9ª Edição. Porto Alegre: Bookman, SOLOMONS, T. W. G, FRYHLE, C. B.
-- 6. SNYDER, S. A. Química Orgânica: Volume 1 e 2. 12ª Edição. Rio de Janeiro: LTC, 2018.
+1. BRADY, J. E., RUSSEL, J. W., HOLUM, J. R. Química: A Matéria e Suas Transformações.
+2. ª ed., vol. 1 e 2, Rio de Janeiro: LTC, 2009 BROWN, T. L., LEMAY, H. E., BURSTEN, B. E., BURDGE, J. R. Química: A Ciência Central. 10ª Edição.
+3. São Paulo: Pearson, 2016.
+4. BROWN, L., HOLME, T. Química Geral Aplicada à Engenharia. 2ª Edição. São Paulo: Cengage Learning, 2014.
+5. ROSENBERG, J. L., EPSTEIN, L. M., KRIEGER, P. J. Química Geral. 9ª Edição. Porto Alegre: Bookman, SOLOMONS, T. W. G, FRYHLE, C. B.
+6. SNYDER, S. A. Química Orgânica: Volume 1 e 2. 12ª Edição. Rio de Janeiro: LTC, 2018.

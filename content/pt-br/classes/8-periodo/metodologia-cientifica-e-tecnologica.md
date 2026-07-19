@@ -48,16 +48,16 @@ Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboraç�
 
 ## Bibliografia Básica
 
-- 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo:
-- 2. Atlas, 2017.
-- 3. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
-- 4. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
+1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo:
+2. Atlas, 2017.
+3. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
+4. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
 
 ## Bibliografia Complementar
 
-- 1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto.
-- 2. 3ª Edição. Porto Alegre: São Paulo, 2010.
-- 3. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
-- 4. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 4. ______. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
-- 5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição.
-- 6. São Paulo: Penso, 2013.
+1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto.
+2. 3ª Edição. Porto Alegre: São Paulo, 2010.
+3. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
+4. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 4. ______. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
+5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição.
+6. São Paulo: Penso, 2013.

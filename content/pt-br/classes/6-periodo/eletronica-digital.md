@@ -65,15 +65,15 @@ Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise
 
 ## Bibliografia Básica
 
-- 1. BIGNELL, J., DONOVAN, J. Eletrônica Digital. São Paulo: Cengage, 2009.
-- 2. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
-- 3. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 1: Sistemas Combinacionais. Porto Alegre:
-- 4. Bookman, 2013.
+1. BIGNELL, J., DONOVAN, J. Eletrônica Digital. São Paulo: Cengage, 2009.
+2. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
+3. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 1: Sistemas Combinacionais. Porto Alegre:
+4. Bookman, 2013.
 
 ## Bibliografia Complementar
 
-- 1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
-- 2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
-- 3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
-- 4. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo: Elsevier,
-- 5. SZAJNBERG, M. Eletrônica Digital: Teoria, Componentes e Aplicações. Rio de janeiro: LTC, 2014.
+1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
+2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
+3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
+4. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo: Elsevier,
+5. SZAJNBERG, M. Eletrônica Digital: Teoria, Componentes e Aplicações. Rio de janeiro: LTC, 2014.

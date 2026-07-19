@@ -35,16 +35,16 @@ Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fi
 
 ## Bibliografia Básica
 
-- 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
-- 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
-- 3. Pearson, 2013.
-- 4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
+2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+3. Pearson, 2013.
+4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
 
 ## Bibliografia Complementar
 
-- 1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
-- 2. CARISSIMI, A. S., ROCHOL, J.
-- 3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman,
-- 4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013.
-- 5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015.
-- 6. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.
+1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
+2. CARISSIMI, A. S., ROCHOL, J.
+3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman,
+4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013.
+5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015.
+6. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.

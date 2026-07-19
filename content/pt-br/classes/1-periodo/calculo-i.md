@@ -96,15 +96,15 @@ Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplic
 
 ## Bibliografia Básica
 
-- 1. LEITHOLD, L. O. O cálculo com Geometria Analítica. São Paulo: Habra, 1994. Vol.
-- 2. GUIDORIZZI, H. L. Um Curso de Cálculo Diferencial e Integral. 6ª Edição. Rio de Janeiro: LTC, 2018.
-- 3. Vol.
-- 4. HOWARD, A., BIVENS, I. C., DAVIS, S. L. Cálculo. 10ª Edição. Porto Alegre: Bookman, 2014. Vol.
+1. LEITHOLD, L. O. O cálculo com Geometria Analítica. São Paulo: Habra, 1994. Vol.
+2. GUIDORIZZI, H. L. Um Curso de Cálculo Diferencial e Integral. 6ª Edição. Rio de Janeiro: LTC, 2018.
+3. Vol.
+4. HOWARD, A., BIVENS, I. C., DAVIS, S. L. Cálculo. 10ª Edição. Porto Alegre: Bookman, 2014. Vol.
 
 ## Bibliografia Complementar
 
-- 1. FLEMMING, D. M., GONÇALVES, M. B. Cálculo A: Funções, Limites, Derivação e Integração. 6ª Edição. São Paulo: Pearson, 2006.
-- 2. LARSON, R., HOSTETLER, R., EDWARDS, B. H. Cálculo. 8ª Edição. São Paulo: AMGH, 2006. Vol.
-- 3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol.
-- 4. STWEART, J. Cálculo. 4ª Edição. São Paulo: Cengage Learning, 2017. Vol.
-- 5. WEIER, M., HASS, J., THOMAS, G. B. Cálculo 1. 12ª Edição. São Paulo: Pearson, 2012. Vol.
+1. FLEMMING, D. M., GONÇALVES, M. B. Cálculo A: Funções, Limites, Derivação e Integração. 6ª Edição. São Paulo: Pearson, 2006.
+2. LARSON, R., HOSTETLER, R., EDWARDS, B. H. Cálculo. 8ª Edição. São Paulo: AMGH, 2006. Vol.
+3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol.
+4. STWEART, J. Cálculo. 4ª Edição. São Paulo: Cengage Learning, 2017. Vol.
+5. WEIER, M., HASS, J., THOMAS, G. B. Cálculo 1. 12ª Edição. São Paulo: Pearson, 2012. Vol.

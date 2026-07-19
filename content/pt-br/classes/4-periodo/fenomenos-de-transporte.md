@@ -54,17 +54,17 @@ Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmic
 
 ## Bibliografia Básica
 
-- 1. FOX, R. W., MCDONALD, A.T. Introdução à Mecânica dos Fluidos. 9.ª Edição. Rio de Janeiro: LTC,
-- 2. WASHINGTON, B. F. Fenômenos de Transporte para Engenharia. Rio de Janeiro: LTC, 2012.
-- 3. FRANCO, B. Mecânica dos Fluidos. 2.ª Edição. São Paulo: Pearson, 2008.
+1. FOX, R. W., MCDONALD, A.T. Introdução à Mecânica dos Fluidos. 9.ª Edição. Rio de Janeiro: LTC,
+2. WASHINGTON, B. F. Fenômenos de Transporte para Engenharia. Rio de Janeiro: LTC, 2012.
+3. FRANCO, B. Mecânica dos Fluidos. 2.ª Edição. São Paulo: Pearson, 2008.
 
 ## Bibliografia Complementar
 
-- 1. BIRD, R. B., STEWART, W.
-- 2. LIGHTFOOT, E. N. Fenômenos de Transporte. 2ª Edição. Rio de Janeiro:
-- 3. LTC, 2004.
-- 4. CANEDO, E. L. Fenômenos de Transporte. Rio de Janeiro: LTC, 2010.
-- 5. LIVI, C. P. Fundamentos de Fenômenos de Transporte: Um Texto para Cursos Básicos. 2ª Edição. Rio de Janeiro: LTC, 2012.
-- 6. GIORGETTI, M. Fundamentos de Fenômenos de Transporte para Estudantes de Engenharia. São Paulo: Elsevier, 2014.
-- 7. ZADABAL, J. R. S., RIBEIRO, V. G. Fenômenos de Transportes: Fundamentos e Métodos. São Paulo:
-- 8. Elsevier, 2016.
+1. BIRD, R. B., STEWART, W.
+2. LIGHTFOOT, E. N. Fenômenos de Transporte. 2ª Edição. Rio de Janeiro:
+3. LTC, 2004.
+4. CANEDO, E. L. Fenômenos de Transporte. Rio de Janeiro: LTC, 2010.
+5. LIVI, C. P. Fundamentos de Fenômenos de Transporte: Um Texto para Cursos Básicos. 2ª Edição. Rio de Janeiro: LTC, 2012.
+6. GIORGETTI, M. Fundamentos de Fenômenos de Transporte para Estudantes de Engenharia. São Paulo: Elsevier, 2014.
+7. ZADABAL, J. R. S., RIBEIRO, V. G. Fenômenos de Transportes: Fundamentos e Métodos. São Paulo:
+8. Elsevier, 2016.

@@ -77,15 +77,15 @@ Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Sing
 
 ## Bibliografia Básica
 
-- 1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 10.ª Edição Rio de Janeiro: LTC, 2015.
-- 2. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 4. 3ª Edição. Rio de Janeiro: LTC, 2018
-- 3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
+1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 10.ª Edição Rio de Janeiro: LTC, 2015.
+2. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 4. 3ª Edição. Rio de Janeiro: LTC, 2018
+3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
 
 ## Bibliografia Complementar
 
-- 1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
-- 2. BROWN, J. W., CHURCHIL, R. V. Variáveis Complexas e Aplicações. 9ª Edição. São Paulo: McGraw Hill, 2015.
-- 3. MCMAHON, D. Variáveis Complexas Desmitificadas: Um Guia para o Autoaprendizado. São Paulo:
-- 4. Ciência Moderna, 2009.
-- 5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman.
-- 6. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
+1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
+2. BROWN, J. W., CHURCHIL, R. V. Variáveis Complexas e Aplicações. 9ª Edição. São Paulo: McGraw Hill, 2015.
+3. MCMAHON, D. Variáveis Complexas Desmitificadas: Um Guia para o Autoaprendizado. São Paulo:
+4. Ciência Moderna, 2009.
+5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman.
+6. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.

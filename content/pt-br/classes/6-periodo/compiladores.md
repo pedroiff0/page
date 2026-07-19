@@ -69,20 +69,20 @@ Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de c�
 
 ## Bibliografia Básica
 
-- 1. liveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo:
-- 2. Atlas, 2011;
-- 3. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004.
-- 4. CHENG, L. C.; QFD: Desdobramento da Função Qualidade na Gestão de Desenvolvimento de Produto.
-- 5. CHENG, L. C.; MELO FILHO, L. D. R de. São Paulo, SP. 2ª Ed. Blucher, 2010.
+1. liveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo:
+2. Atlas, 2011;
+3. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004.
+4. CHENG, L. C.; QFD: Desdobramento da Função Qualidade na Gestão de Desenvolvimento de Produto.
+5. CHENG, L. C.; MELO FILHO, L. D. R de. São Paulo, SP. 2ª Ed. Blucher, 2010.
 
 ## Bibliografia Complementar
 
-- 1. PAIVA, C.
-- 2. VIAN, C. E.; PELLEGRINO, A. C. G. T. Economia. Fundamentos e prática aplicados à realidade brasileira. Campinas SP. 2ªEd. Ed. Alinea, 2014;
-- 3. KOTLER, P. Administração de marketing.
-- 4. KOTLER, P; KELLER, K.L.; Tradução YAMAMOTO, S. M.;
-- 5. Revisão técnica CRESCITELLI, E. 14ª ed. Pearson Education do Brasil. São Paulo, SP.
-- 6. ZUGMAM, F. Administração para profissionais liberais. 2ª edição revista e ampliada. ALTA BOOKS Editora, 2017.
-- 7. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014.
-- 8. DORNELAS, J, C. Empreendedorismo: transformando ideias em negócios. 2.ed. Rio de Janeiro:
-- 9. Elsevier, 2001.
+1. PAIVA, C.
+2. VIAN, C. E.; PELLEGRINO, A. C. G. T. Economia. Fundamentos e prática aplicados à realidade brasileira. Campinas SP. 2ªEd. Ed. Alinea, 2014;
+3. KOTLER, P. Administração de marketing.
+4. KOTLER, P; KELLER, K.L.; Tradução YAMAMOTO, S. M.;
+5. Revisão técnica CRESCITELLI, E. 14ª ed. Pearson Education do Brasil. São Paulo, SP.
+6. ZUGMAM, F. Administração para profissionais liberais. 2ª edição revista e ampliada. ALTA BOOKS Editora, 2017.
+7. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014.
+8. DORNELAS, J, C. Empreendedorismo: transformando ideias em negócios. 2.ed. Rio de Janeiro:
+9. Elsevier, 2001.

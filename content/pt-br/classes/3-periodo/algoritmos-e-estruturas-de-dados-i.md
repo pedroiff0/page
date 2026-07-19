@@ -67,14 +67,14 @@ Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de
 
 ## Bibliografia Básica
 
-- 1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,
-- 2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014.
-- 3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C São Paulo: Cengage, 2010
+1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,
+2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014.
+3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C São Paulo: Cengage, 2010
 
 ## Bibliografia Complementar
 
-- 4. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo: McGrall Hill, 2007.
-- 5. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015.
-- 6. BACKES, A. Estrutura de Dados Descomplicada em Linguagem C. São Paulo: Elsevier, 2016.
-- 7. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016.
-- 8. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
+4. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo: McGrall Hill, 2007.
+5. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015.
+6. BACKES, A. Estrutura de Dados Descomplicada em Linguagem C. São Paulo: Elsevier, 2016.
+7. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016.
+8. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.

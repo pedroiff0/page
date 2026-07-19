@@ -49,17 +49,17 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 
 ## Bibliografia Básica
 
-- 1. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012.
-- 2. MARTINS, D. S., ZILBERKNOP, L. S. Português Instrumental: De Acordo com as Normas Atuais da ABNT.
-- 3. Ed. Rio de Janeiro: Atlas, 2019.
-- 4. MATTOSO, C. J. G. Manual de Expressão Oral e Escrita. 23. Ed. Rio de janeiro: Editora Vozes, 2012
+1. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012.
+2. MARTINS, D. S., ZILBERKNOP, L. S. Português Instrumental: De Acordo com as Normas Atuais da ABNT.
+3. Ed. Rio de Janeiro: Atlas, 2019.
+4. MATTOSO, C. J. G. Manual de Expressão Oral e Escrita. 23. Ed. Rio de janeiro: Editora Vozes, 2012
 
 ## Bibliografia Complementar
 
-- 5. DEMAI, F. M. Português Instrumental. São Paulo: Editora Érica, 2014.
-- 6. DINTEL, F. Como Escrever Textos Técnicos e Profissionais: Todas as Orientações para Elaborar Relatórios, Cartas e Documentos Eficazes. São Paulo: Gutenberg, 2011.
-- 7. MEDEIROS, J. B. Português Instrumental: Contém Técnicas de Elaboração de Trabalho de Conclusão de Curso.
-- 8. Ed. Rio de Janeiro, Atlas, 2013.
-- 9. LIVEIRA, J. P. M., MOTTA, C. A. P. Como Escrever Textos Técnicos. 2. Ed. São Paulo: Cengage Learning, 10.
-- 10. LIVEIRA, J. L. Texto Acadêmico: Técnicas de Redação e de Pesquisa Científica. 9. Ed.. Rio de Janeiro:
-- 11. Editora Vozes, 2012
+5. DEMAI, F. M. Português Instrumental. São Paulo: Editora Érica, 2014.
+6. DINTEL, F. Como Escrever Textos Técnicos e Profissionais: Todas as Orientações para Elaborar Relatórios, Cartas e Documentos Eficazes. São Paulo: Gutenberg, 2011.
+7. MEDEIROS, J. B. Português Instrumental: Contém Técnicas de Elaboração de Trabalho de Conclusão de Curso.
+8. Ed. Rio de Janeiro, Atlas, 2013.
+9. LIVEIRA, J. P. M., MOTTA, C. A. P. Como Escrever Textos Técnicos. 2. Ed. São Paulo: Cengage Learning, 10.
+10. LIVEIRA, J. L. Texto Acadêmico: Técnicas de Redação e de Pesquisa Científica. 9. Ed.. Rio de Janeiro:
+11. Editora Vozes, 2012

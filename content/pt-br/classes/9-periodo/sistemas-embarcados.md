@@ -49,17 +49,17 @@ Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementaçã
 
 ## Bibliografia Básica
 
-- 1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
-- 2. DENARDIN, G. W. Sistemas Operacionais de Tempo Real e sua Aplicação em Sistemas Embarcados.
-- 3. São Paulo: 2019.
-- 4. SHAW, A. C. Sistemas e Software de Tempo Real. Porto Alegre: Bookman, 2003.
+1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
+2. DENARDIN, G. W. Sistemas Operacionais de Tempo Real e sua Aplicação em Sistemas Embarcados.
+3. São Paulo: 2019.
+4. SHAW, A. C. Sistemas e Software de Tempo Real. Porto Alegre: Bookman, 2003.
 
 ## Bibliografia Complementar
 
-- 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
-- 2. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.
-- 3. São Paulo: Erica, 2010.
-- 4. STEVAN JR., S. L., SILVA, R. A. A. Automação e Instrumentação Industrial com Arduino: Teoria e Projetos. São Paulo: Erica, 2015.
-- 5. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
-- 6. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
-- 7. Porto Alegre: Bookman, 2018.
+1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
+2. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.
+3. São Paulo: Erica, 2010.
+4. STEVAN JR., S. L., SILVA, R. A. A. Automação e Instrumentação Industrial com Arduino: Teoria e Projetos. São Paulo: Erica, 2015.
+5. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+6. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+7. Porto Alegre: Bookman, 2018.

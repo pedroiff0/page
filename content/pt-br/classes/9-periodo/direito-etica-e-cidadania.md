@@ -53,30 +53,30 @@ Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação 
 
 ## Bibliografia Básica
 
-- 1. DI FELICE, M. A Cidadania Digital: a crise da ideia ocidental de democracia e a participação nas redes sociais São Paulo; Paulus, 2021.
-- 2. QUARESMA, R. A. Ética, direito e cidadania: Brasil sociopolítico e jurídico atual. Curitiba:Juruá Editora, 2008.
-- 3. MASIERO, P. C. Ética em Computação. São Paulo: EDUSP, 2008.
-- 4. PAESANI, L. M. Direito e Internet – Liberdade de Informação, Privacidade e Responsabilidade Civil.
-- 5. São Paulo: Atlas, 2014.
-- 6. ____________. Manual de Propriedade Intelectual: Direito de Autor, Direito da Propriedade Industrial, Direitos Intelectuais Sui Generes. São Paulo: Atlas, 2012.
-- 7. PINHEIRO, P. P. Direito Digital.
-- 8. ª ed. São Paulo: Saraiva, 2021.
-- 9. ROVER, A. J. (org). Direito e Informática. São Paulo: Manole, 2004.
+1. DI FELICE, M. A Cidadania Digital: a crise da ideia ocidental de democracia e a participação nas redes sociais São Paulo; Paulus, 2021.
+2. QUARESMA, R. A. Ética, direito e cidadania: Brasil sociopolítico e jurídico atual. Curitiba:Juruá Editora, 2008.
+3. MASIERO, P. C. Ética em Computação. São Paulo: EDUSP, 2008.
+4. PAESANI, L. M. Direito e Internet – Liberdade de Informação, Privacidade e Responsabilidade Civil.
+5. São Paulo: Atlas, 2014.
+6. ____________. Manual de Propriedade Intelectual: Direito de Autor, Direito da Propriedade Industrial, Direitos Intelectuais Sui Generes. São Paulo: Atlas, 2012.
+7. PINHEIRO, P. P. Direito Digital.
+8. ª ed. São Paulo: Saraiva, 2021.
+9. ROVER, A. J. (org). Direito e Informática. São Paulo: Manole, 2004.
 
 ## Bibliografia Complementar
 
-- 1. BARCELLOS, A. P. A eficácia jurídica dos princípios constitucionais: o princípio da dignidade da pessoa humana. Rio de Janeiro: Renovar, 2002.
-- 2. BARROS FILHO, Clóvis de; POMPEU, Júlio. A Filosofia Explica as Grandes Questões da Humanidade.
-- 3. Rio de Janeiro/São Paulo: Casa do Saber/Casa da Palavra, 2013.
-- 4. CASTELLS, M. Redes de indignação e esperança: movimentos sociais na era da internet. Rio de Janeiro: Zahar, 2013.
-- 5. COMPARATO, F. C. Ética: Direito, Moral e Religião no Mundo Moderno. São Paulo: Companhia das Letras, 2006.
-- 6. LEAL, S. R. C. S. Contratos Eletrônicos: Validade Jurídica dos Contratos Via Internet. São Paulo:
-- 7. Atlas. 2009 MARCONDES, D. Textos Básicos de Ética: De Platão a Foucault. Rio de Janeiro: Zahar, 2007.
-- 8. PAESANI, L. M. Direito e Internet – Liberdade de Informação, Privacidade e Responsabilidade Civil.
-- 9. São Paulo: Atlas, 2014.
-- 10. PEKKA, H. A Ética dos Hackers e o espírito da era da informação: a diferença entre o bom e o mau hacker. Rio de Janeiro: Campus, 2001.
-- 11. PINHEIRO, Patricia Peck (org.). Direito Digital Aplicado. São Paulo: Intelligence, 2012.
-- 12. PINSKY, J; PINSKY, C. História da Cidadania. São Paulo: Contexto, 2003.
-- 13. SILVA, R. B. T.; SANTOS, M. J. P. Responsabilidade Civil na Internet e Nos Demais Meios de Comunicação. São Paulo: Saraiva, 2012.
-- 14. TARTUCE, Flávio. Manual de Direito Civil – volume único. São Paulo: Método, 2013.
-- 15. VALLS, Álvaro L. M. O que é Ética. São Paulo: Brasiliense, 2002.
+1. BARCELLOS, A. P. A eficácia jurídica dos princípios constitucionais: o princípio da dignidade da pessoa humana. Rio de Janeiro: Renovar, 2002.
+2. BARROS FILHO, Clóvis de; POMPEU, Júlio. A Filosofia Explica as Grandes Questões da Humanidade.
+3. Rio de Janeiro/São Paulo: Casa do Saber/Casa da Palavra, 2013.
+4. CASTELLS, M. Redes de indignação e esperança: movimentos sociais na era da internet. Rio de Janeiro: Zahar, 2013.
+5. COMPARATO, F. C. Ética: Direito, Moral e Religião no Mundo Moderno. São Paulo: Companhia das Letras, 2006.
+6. LEAL, S. R. C. S. Contratos Eletrônicos: Validade Jurídica dos Contratos Via Internet. São Paulo:
+7. Atlas. 2009 MARCONDES, D. Textos Básicos de Ética: De Platão a Foucault. Rio de Janeiro: Zahar, 2007.
+8. PAESANI, L. M. Direito e Internet – Liberdade de Informação, Privacidade e Responsabilidade Civil.
+9. São Paulo: Atlas, 2014.
+10. PEKKA, H. A Ética dos Hackers e o espírito da era da informação: a diferença entre o bom e o mau hacker. Rio de Janeiro: Campus, 2001.
+11. PINHEIRO, Patricia Peck (org.). Direito Digital Aplicado. São Paulo: Intelligence, 2012.
+12. PINSKY, J; PINSKY, C. História da Cidadania. São Paulo: Contexto, 2003.
+13. SILVA, R. B. T.; SANTOS, M. J. P. Responsabilidade Civil na Internet e Nos Demais Meios de Comunicação. São Paulo: Saraiva, 2012.
+14. TARTUCE, Flávio. Manual de Direito Civil – volume único. São Paulo: Método, 2013.
+15. VALLS, Álvaro L. M. O que é Ética. São Paulo: Brasiliense, 2002.

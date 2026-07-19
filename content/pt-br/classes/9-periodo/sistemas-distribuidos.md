@@ -64,18 +64,18 @@ Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sinc
 
 ## Bibliografia Básica
 
-- 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
-- 2. Porto Alegre: Bookman, 2007.
-- 3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
-- 4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
+1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
+2. Porto Alegre: Bookman, 2007.
+3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
+4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
 
 ## Bibliografia Complementar
 
-- 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
-- 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
-- 3. Pearson, 2013.
-- 4. RHODES, B.
-- 5. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015.
-- 6. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
-- 7. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
-- 8. Porto Alegre: Bookman, 2018.
+1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
+2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+3. Pearson, 2013.
+4. RHODES, B.
+5. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015.
+6. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+7. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+8. Porto Alegre: Bookman, 2018.

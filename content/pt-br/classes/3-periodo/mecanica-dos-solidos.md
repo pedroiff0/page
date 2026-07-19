@@ -73,19 +73,19 @@ Conceito de tensão, Forças distribuídas, Carregamentos axiais, Torção, Flex
 
 ## Bibliografia Básica
 
-- 1. BEER, F. P.; JOHNSTON Jr, E. R.; DEWOLF, J. T.; MASUREK, D. F. Mecânica dos Materiais. Tradução José Benaque Rubert. 7. ed. Porto Alegre: AMGH, 2015. 840 p.
-- 2. CRAIG Jr, R. R. Mecânica dos Materiais. T adução Jos Ro e to Mo aes d’Al eida, “id ei Pa io ik, Verônica Calado. ed. [Reimp]. Rio de Janeiro: LTC, 2017. 552 p.
-- 4. HIBBELLER, R. C. Resistencia dos Materiais. Tradução Sérgio Nascimento, Revisão técnica Sebastião Simões da Cunha. 10. ed. São Paulo: Pearson Education do Brasil, 2018. 754 p.
+1. BEER, F. P.; JOHNSTON Jr, E. R.; DEWOLF, J. T.; MASUREK, D. F. Mecânica dos Materiais. Tradução José Benaque Rubert. 7. ed. Porto Alegre: AMGH, 2015. 840 p.
+2. CRAIG Jr, R. R. Mecânica dos Materiais. T adução Jos Ro e to Mo aes d’Al eida, “id ei Pa io ik, Verônica Calado. ed. [Reimp]. Rio de Janeiro: LTC, 2017. 552 p.
+4. HIBBELLER, R. C. Resistencia dos Materiais. Tradução Sérgio Nascimento, Revisão técnica Sebastião Simões da Cunha. 10. ed. São Paulo: Pearson Education do Brasil, 2018. 754 p.
 
 ## Bibliografia Complementar
 
-- 1. BEER, F. P.; JOHNSTO JR, E. R.; MASUREK, D. F. Mecânica vetorial para engenheiros: estática.
-- 2. Tradução Clara Állyergra Lyra Peter. ed. Porto Alegre: AMGH, 2019. 634 p.
-- 4. DOWLING, N. Comportamento Mecânico dos Materiais. São Paulo: Cengage Learning, 2017.
-- 5. GERE, J., GOODNO, B. Mecânica dos Materiais. Tradução Roberto Henrique Torrejon. 8. ed. São Paulo:
-- 6. Cengage Learning, 2017.
-- 7. PHILPOT, T. A. Mecânica dos Materiais: Um Sistema Integrado de Ensino. ed. [Reimp]. Rio de Janeiro: LTC, 2019.
-- 9. RILEY, W. P., STURGES, L. D., MORRIS, D. H. Mecânica dos Materiais. ed. Rio de Janeiro: LTC, 2003.
-- 11. SCHÖN, C. G. Mecânica dos Materiais: Fundamentos e Tecnologia do Comportamento. São Paulo:
-- 12. Elsevier, 2013.
-- 13. UGURAL, A. C. Mecânica dos Materiais. Tradução Fernando Ribeiro da Silva. Rio de Janeiro: LTC, 2009.
+1. BEER, F. P.; JOHNSTO JR, E. R.; MASUREK, D. F. Mecânica vetorial para engenheiros: estática.
+2. Tradução Clara Állyergra Lyra Peter. ed. Porto Alegre: AMGH, 2019. 634 p.
+4. DOWLING, N. Comportamento Mecânico dos Materiais. São Paulo: Cengage Learning, 2017.
+5. GERE, J., GOODNO, B. Mecânica dos Materiais. Tradução Roberto Henrique Torrejon. 8. ed. São Paulo:
+6. Cengage Learning, 2017.
+7. PHILPOT, T. A. Mecânica dos Materiais: Um Sistema Integrado de Ensino. ed. [Reimp]. Rio de Janeiro: LTC, 2019.
+9. RILEY, W. P., STURGES, L. D., MORRIS, D. H. Mecânica dos Materiais. ed. Rio de Janeiro: LTC, 2003.
+11. SCHÖN, C. G. Mecânica dos Materiais: Fundamentos e Tecnologia do Comportamento. São Paulo:
+12. Elsevier, 2013.
+13. UGURAL, A. C. Mecânica dos Materiais. Tradução Fernando Ribeiro da Silva. Rio de Janeiro: LTC, 2009.

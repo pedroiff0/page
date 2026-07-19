@@ -34,14 +34,14 @@ Dinâmica de sistemas lineares e não-lineares. Hierarquia de sistemas. Modelage
 
 ## Bibliografia Básica
 
-- 1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
-- 2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.
-- 3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher,
+1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
+2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.
+3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher,
 
 ## Bibliografia Complementar
 
-- 4. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017.
-- 5. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos,
-- 6. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015.
-- 7. PONZONI, F. J., SHIMABUKURO, Y. E., KUPLICH, T. M. Sensoriamento Remoto da Vegetação. 2ª Edição. São Paulo: Oficina de Textos, 2012.
-- 8. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013.
+4. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017.
+5. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos,
+6. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015.
+7. PONZONI, F. J., SHIMABUKURO, Y. E., KUPLICH, T. M. Sensoriamento Remoto da Vegetação. 2ª Edição. São Paulo: Oficina de Textos, 2012.
+8. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013.

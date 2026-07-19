@@ -74,15 +74,15 @@ Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explí
 
 ## Bibliografia Básica
 
-- 1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno.
-- 2. ª Edição Rio de Janeiro: LTC, 2015.
-- 3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
-- 4. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
+1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno.
+2. ª Edição Rio de Janeiro: LTC, 2015.
+3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
+4. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
 
 ## Bibliografia Complementar
 
-- 1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
-- 2. ÇENGEL, Y. A., PALM III, W. J. Equações Diferenciais. São Paulo: McGrall Hill, 2014.
-- 3. DIACU, F. Introdução à Equações Diferenciais: Teoria e Aplicações. Rio de Janeiro, 2004.
-- 4. KREYSZIG, E. Matemática Superior para Engenharia: Volume 1. 9ª Edição. São Paulo, LTC, 2008.
-- 5. NAGLE, K. R., SAFF, E. B., SNYDER, A. D. Equações Diferenciais. 8ª Edição. São Paulo: Pearson, 2012.
+1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
+2. ÇENGEL, Y. A., PALM III, W. J. Equações Diferenciais. São Paulo: McGrall Hill, 2014.
+3. DIACU, F. Introdução à Equações Diferenciais: Teoria e Aplicações. Rio de Janeiro, 2004.
+4. KREYSZIG, E. Matemática Superior para Engenharia: Volume 1. 9ª Edição. São Paulo, LTC, 2008.
+5. NAGLE, K. R., SAFF, E. B., SNYDER, A. D. Equações Diferenciais. 8ª Edição. São Paulo: Pearson, 2012.

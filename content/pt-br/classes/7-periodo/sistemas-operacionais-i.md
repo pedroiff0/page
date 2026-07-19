@@ -77,16 +77,16 @@ Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Me
 
 ## Bibliografia Básica
 
-- 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
-- 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
-- 3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
-- 4. Porto Alegre: Bookman, 2018.
+1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
+2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+4. Porto Alegre: Bookman, 2018.
 
 ## Bibliografia Complementar
 
-- 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
-- 2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
-- 3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição. Rio de Janeiro: LTC, 2015.
-- 4. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo:
-- 5. Novatec, 2015.
-- 6. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013.
+1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
+2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
+3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição. Rio de Janeiro: LTC, 2015.
+4. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo:
+5. Novatec, 2015.
+6. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013.

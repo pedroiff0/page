@@ -48,14 +48,14 @@ Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico
 
 ## Bibliografia Básica
 
-- 1. CAPRA, F. O ponto de mutação. 25ª Edição. São Paulo: Cultrix, 1982.
-- 2. CUCHE, D. A noção de cultura nas ciências sociais. Bauru: EDUSC, 2002.
-- 3. LARAIA, R. B. Cultura: Um conceito antropológico. 11 ed. Rio de Janeiro: Jorge Zahar Editor, 2007
+1. CAPRA, F. O ponto de mutação. 25ª Edição. São Paulo: Cultrix, 1982.
+2. CUCHE, D. A noção de cultura nas ciências sociais. Bauru: EDUSC, 2002.
+3. LARAIA, R. B. Cultura: Um conceito antropológico. 11 ed. Rio de Janeiro: Jorge Zahar Editor, 2007
 
 ## Bibliografia Complementar
 
-- 4. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2009.
-- 5. CATTANI, A. D. Dicionário de Trabalho e Tecnologia. 2ª edição. Porto Alegre: Zouk, 2011.
-- 6. CAVALCANTE, J. Q. P. Sociedade, tecnologia e a Luta pelo Emprego. Rio de Janeiro: LTR, 2018.
-- 7. FREIRE, E., BATISTA, S. S. S. Sociedade e na Era Digital. São Paulo: Erica, 2014.
-- 8. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. Porto Alegre: Arquipélago Editorial, 2018
+4. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2009.
+5. CATTANI, A. D. Dicionário de Trabalho e Tecnologia. 2ª edição. Porto Alegre: Zouk, 2011.
+6. CAVALCANTE, J. Q. P. Sociedade, tecnologia e a Luta pelo Emprego. Rio de Janeiro: LTR, 2018.
+7. FREIRE, E., BATISTA, S. S. S. Sociedade e na Era Digital. São Paulo: Erica, 2014.
+8. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. Porto Alegre: Arquipélago Editorial, 2018

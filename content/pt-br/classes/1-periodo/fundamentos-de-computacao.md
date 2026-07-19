@@ -68,15 +68,15 @@ História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Softwa
 
 ## Bibliografia Básica
 
-- 1. BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 11ª Edição, Bookman, 2013.
-- 2. CARVALHO, C. P. L. F, LORENA, A. C. Introdução à Computação: Hardware, Software e Dados.
-- 3. LTC, WAZLAWICK, R. S. História da Computação. Elsevier, 2016.
+1. BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 11ª Edição, Bookman, 2013.
+2. CARVALHO, C. P. L. F, LORENA, A. C. Introdução à Computação: Hardware, Software e Dados.
+3. LTC, WAZLAWICK, R. S. História da Computação. Elsevier, 2016.
 
 ## Bibliografia Complementar
 
-- 1. DALE, N., LEWIS, J. Ciência da Computação. 4ª Edição. LTC, 2010.
-- 2. FAROUZAN, B., MOSHARRAF, F. Fundamentos da Ciência da Computação. Cengage Learning, 2011.
-- 3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
-- 4. Pearson, 2013.
-- 5. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
-- 6. ______. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+1. DALE, N., LEWIS, J. Ciência da Computação. 4ª Edição. LTC, 2010.
+2. FAROUZAN, B., MOSHARRAF, F. Fundamentos da Ciência da Computação. Cengage Learning, 2011.
+3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+4. Pearson, 2013.
+5. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
+6. ______. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.

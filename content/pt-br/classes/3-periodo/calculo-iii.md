@@ -68,18 +68,18 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 
 ## Bibliografia Básica
 
-- 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
-- 2. ______. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
-- 3. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 3. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
-- 4. ______. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
-- 5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
+1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
+2. ______. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
+3. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 3. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
+4. ______. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
+5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
 
 ## Bibliografia Complementar
 
-- 1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro:
-- 2. Ciência Moderna, 2013.
-- 3. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013.
-- 4. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 3. Rio de Janeiro: Ciência Moderna, 2013.
-- 5. FLEMMING, M. B., GONÇALVES, D. M. Cálculo C: Funções Vetoriais, Integrais Curvilíneas e Integrais de Superfície. 3ª Edição. São Paulo: Pearson, 2000.
-- 6. VALADARES, R. J. C. Cálculo e Aplicações II: Funções Vetoriais. Rio de Janeiro: Ciência Moderna, WEIR, M. D., HASS, J.
-- 7. THOMAS, G. B. Cálculo: Volume 2. 12ª Edição. São Paulo: Pearson Learning, ______. Cálculo: Volume 1. 12ª Edição. São Paulo: Pearson Learning, 2012.
+1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro:
+2. Ciência Moderna, 2013.
+3. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013.
+4. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 3. Rio de Janeiro: Ciência Moderna, 2013.
+5. FLEMMING, M. B., GONÇALVES, D. M. Cálculo C: Funções Vetoriais, Integrais Curvilíneas e Integrais de Superfície. 3ª Edição. São Paulo: Pearson, 2000.
+6. VALADARES, R. J. C. Cálculo e Aplicações II: Funções Vetoriais. Rio de Janeiro: Ciência Moderna, WEIR, M. D., HASS, J.
+7. THOMAS, G. B. Cálculo: Volume 2. 12ª Edição. São Paulo: Pearson Learning, ______. Cálculo: Volume 1. 12ª Edição. São Paulo: Pearson Learning, 2012.

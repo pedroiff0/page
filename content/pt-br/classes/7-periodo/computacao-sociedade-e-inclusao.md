@@ -60,20 +60,20 @@ Apropriações da computação e relações de poder: o espaço público, o priv
 
 ## Bibliografia Básica
 
-- 1. HALL, S. A Identidade Cultural na Pós-Modernidade. Rio de Janeiro: Lamparina, 2019.
-- 2. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. São Paulo: Arquipélago, 2018.
-- 3. SOUZA, J. (et. al). A Sociedade de Controle: manipulação e modulação nas redes sociais. São Paulo:
-- 4. Hedra, 2021.
+1. HALL, S. A Identidade Cultural na Pós-Modernidade. Rio de Janeiro: Lamparina, 2019.
+2. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. São Paulo: Arquipélago, 2018.
+3. SOUZA, J. (et. al). A Sociedade de Controle: manipulação e modulação nas redes sociais. São Paulo:
+4. Hedra, 2021.
 
 ## Bibliografia Complementar
 
-- 1. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2013.
-- 2. ______. O Poder da Identidade. São Paulo: Paz e Terra, 2018.
-- 3. CAZELOTO, E. Inclusão Digital: uma visão crítica. São Paulo: Senac, 2019.
-- 4. FREIRE, P. Extensão ou Comunicação?. 8ª Edição. Rio de Janeiro: Paz e Terra, 2021.
-- 5. FREIRE, E., BATISTA, S. S. S. Sociedade e Tecnologia na Era Digital. São Paulo: Erica, 2014.
-- 6. HOOKS, B. Ensinando a Transgredir: A Educação como Prática da Liberdade. 2ª Edição. São Paulo:
-- 7. WMF Martins Fontes, 2017.
-- 8. PISCHETOLA, M. Inclusão digital e educação: a nova cultura da sala de aula.
-- 9. Petrópolis: Vozes, 2016.
-- 10. VALLEJO, A. P., ZWIEREWICZ, M., COPPETE, M. C., BORGES, M. K., PEREIRA, C. D. Sociedade da Informação, Educação Digital e Inclusão. Santa Catarina: Insular, 2007.
+1. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2013.
+2. ______. O Poder da Identidade. São Paulo: Paz e Terra, 2018.
+3. CAZELOTO, E. Inclusão Digital: uma visão crítica. São Paulo: Senac, 2019.
+4. FREIRE, P. Extensão ou Comunicação?. 8ª Edição. Rio de Janeiro: Paz e Terra, 2021.
+5. FREIRE, E., BATISTA, S. S. S. Sociedade e Tecnologia na Era Digital. São Paulo: Erica, 2014.
+6. HOOKS, B. Ensinando a Transgredir: A Educação como Prática da Liberdade. 2ª Edição. São Paulo:
+7. WMF Martins Fontes, 2017.
+8. PISCHETOLA, M. Inclusão digital e educação: a nova cultura da sala de aula.
+9. Petrópolis: Vozes, 2016.
+10. VALLEJO, A. P., ZWIEREWICZ, M., COPPETE, M. C., BORGES, M. K., PEREIRA, C. D. Sociedade da Informação, Educação Digital e Inclusão. Santa Catarina: Insular, 2007.

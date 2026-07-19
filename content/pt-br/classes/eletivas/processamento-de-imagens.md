@@ -55,14 +55,14 @@ Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração
 
 ## Bibliografia Básica
 
-- 1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
-- 2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003
-- 3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
+1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
+2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003
+3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
 
 ## Bibliografia Complementar
 
-- 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
-- 2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
-- 3. GONZALEZ, R. C., WOODS, R. E. Processamento Digital de Imagens. 3ª Edição. São Paulo: Pearson, 4.
-- 4. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997 5.
-- 5. SOLOMON, C., BRECKON, T. Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab. Rio de Janeiro: LTC, 2013.
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
+2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
+3. GONZALEZ, R. C., WOODS, R. E. Processamento Digital de Imagens. 3ª Edição. São Paulo: Pearson, 4.
+4. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997 5.
+5. SOLOMON, C., BRECKON, T. Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab. Rio de Janeiro: LTC, 2013.

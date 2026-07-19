@@ -36,14 +36,14 @@ Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceit
 
 ## Bibliografia Básica
 
-- 1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
-- 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
-- 3. LTC, 2016. Vol.
+1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
+2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
+3. LTC, 2016. Vol.
 
 ## Bibliografia Complementar
 
-- 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
-- 2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.
-- 3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014.
-- 4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009.
-- 5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Mecânica. São Paulo: AMGH, 2012.
+1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
+2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.
+3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014.
+4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009.
+5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Mecânica. São Paulo: AMGH, 2012.

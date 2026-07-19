@@ -109,13 +109,13 @@ Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de M
 
 ## Bibliografia Básica
 
-- 1. BEZERRA, E. Princípios de Análise e Projetos de Sistemas com UML. 3ª Edição. São Paulo: Elsevier, 2014.
-- 2. LARMAN, G. Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientado a Objetos e ao Desenvolvimento Iterativo. 3ª Edição. Porto Alegre: Bookman, 2006.
-- 3. WAZLAWICK, R. Análise e Design Orientados a Objetos para Sistemas de Informação: Modelagem com UML, OCL e IFML. 3ª Edição. São Paulo: Elsevier, 2014.
+1. BEZERRA, E. Princípios de Análise e Projetos de Sistemas com UML. 3ª Edição. São Paulo: Elsevier, 2014.
+2. LARMAN, G. Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientado a Objetos e ao Desenvolvimento Iterativo. 3ª Edição. Porto Alegre: Bookman, 2006.
+3. WAZLAWICK, R. Análise e Design Orientados a Objetos para Sistemas de Informação: Modelagem com UML, OCL e IFML. 3ª Edição. São Paulo: Elsevier, 2014.
 
 ## Bibliografia Complementar
 
-- 1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017.
-- 2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier, 2006.
-- 3. DENNIS, A., WIXOM, B. H., ROTH, R. H. Análise e Projeto de Sistemas. 5ª Edição. Rio de Janeiro: LTC, ENGHOLM JR., H. Análise e Design Orientados a Objetos. São Paulo: Novatec, 2013.
-- 4. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014.
+1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017.
+2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier, 2006.
+3. DENNIS, A., WIXOM, B. H., ROTH, R. H. Análise e Projeto de Sistemas. 5ª Edição. Rio de Janeiro: LTC, ENGHOLM JR., H. Análise e Design Orientados a Objetos. São Paulo: Novatec, 2013.
+4. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014.

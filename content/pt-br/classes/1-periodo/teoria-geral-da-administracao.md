@@ -50,15 +50,15 @@ Campo da Administração; Estruturas Administrativas; Importância das Estrutura
 
 ## Bibliografia Básica
 
-- 1. MOTTA, F. C. P.; VASCONCELOS, I. F. G. Teoria Geral da Administração. 3ª Edição. São Paulo:
-- 2. Cengage Learning, 2006.
-- 3. MAXIMIANO, A. C. A. Teoria Geral da Administração – Da revolução Urbana à Revolução Digital. 8ª Edição. São Paulo: Atlas, 2017.
-- 4. CHIAVENATO, I. Introdução à Teoria Geral da Administração. 9ª Edição. São Paulo: Editora Manole,
+1. MOTTA, F. C. P.; VASCONCELOS, I. F. G. Teoria Geral da Administração. 3ª Edição. São Paulo:
+2. Cengage Learning, 2006.
+3. MAXIMIANO, A. C. A. Teoria Geral da Administração – Da revolução Urbana à Revolução Digital. 8ª Edição. São Paulo: Atlas, 2017.
+4. CHIAVENATO, I. Introdução à Teoria Geral da Administração. 9ª Edição. São Paulo: Editora Manole,
 
 ## Bibliografia Complementar
 
-- 1. CHIAVENATO, I., SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3ª Edição. Rio de Janeiro: Elsevier, 2015.
-- 2. MÜLLER, C. J. Planejamento Estratégico, Indicadores e Processos: Uma Integração Necessária. Rio de Janeiro: Atlas, 2013.
-- 3. TAKEUCHI, H., NONAKA, I. Gestão do Conhecimento. Porto Alegre: Bookman, 2008.
-- 4. GOVINDARAJAM, V., TRIMBLE, C. O Desafio da Inovação. Rio de Janeiro: Elsevier, 2013.
-- 5. TIDD, J., BESSANT, J. Gestão da Inovação: Integrando Tecnologia. 5ª Edição. Porto Alegre: Bookman,
+1. CHIAVENATO, I., SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3ª Edição. Rio de Janeiro: Elsevier, 2015.
+2. MÜLLER, C. J. Planejamento Estratégico, Indicadores e Processos: Uma Integração Necessária. Rio de Janeiro: Atlas, 2013.
+3. TAKEUCHI, H., NONAKA, I. Gestão do Conhecimento. Porto Alegre: Bookman, 2008.
+4. GOVINDARAJAM, V., TRIMBLE, C. O Desafio da Inovação. Rio de Janeiro: Elsevier, 2013.
+5. TIDD, J., BESSANT, J. Gestão da Inovação: Integrando Tecnologia. 5ª Edição. Porto Alegre: Bookman,

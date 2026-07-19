@@ -82,16 +82,16 @@ Análise e síntese de circuitos digitais sequenciais; contadores e registradore
 
 ## Bibliografia Básica
 
-- 1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
-- 2. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo:
-- 3. Elsevier, 2016.
-- 4. TOCCI, R. J., WIDMER, N. S., MOSS, G. L. Sistemas Digitais: Princípios e Aplicações. 11ª Edição. São Paulo: Pearson, 2011.
+1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
+2. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo:
+3. Elsevier, 2016.
+4. TOCCI, R. J., WIDMER, N. S., MOSS, G. L. Sistemas Digitais: Princípios e Aplicações. 11ª Edição. São Paulo: Pearson, 2011.
 
 ## Bibliografia Complementar
 
-- 1. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
-- 2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
-- 3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
-- 4. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 2: Sistemas Sequenciais. São Paulo:
-- 5. Bookman, 2013.
-- 6. VAHID, F. Sistemas Digitais: Projeto, Otimização e HDLs. Porto Alegre: Bookman, 2008.
+1. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
+2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
+3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
+4. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 2: Sistemas Sequenciais. São Paulo:
+5. Bookman, 2013.
+6. VAHID, F. Sistemas Digitais: Projeto, Otimização e HDLs. Porto Alegre: Bookman, 2008.

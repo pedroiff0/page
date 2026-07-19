@@ -61,14 +61,14 @@ Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (
 
 ## Bibliografia Básica
 
-- 1. BARSANO, P. R., BARBOSA, R. P. Higiene e Segurança do Trabalho. 2ª Edição. São Paulo: Erica, 2018.
-- 2. ______. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018.
-- 3. CAMISASSA, M. Q. Segurança e Saúde no Trabalho: NRs 1 a 36 Comentadas e Descomplicadas. 5ª Edição. São Paulo: Método, 2018.
+1. BARSANO, P. R., BARBOSA, R. P. Higiene e Segurança do Trabalho. 2ª Edição. São Paulo: Erica, 2018.
+2. ______. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018.
+3. CAMISASSA, M. Q. Segurança e Saúde no Trabalho: NRs 1 a 36 Comentadas e Descomplicadas. 5ª Edição. São Paulo: Método, 2018.
 
 ## Bibliografia Complementar
 
-- 1. BARBOSA, R. P. Avaliação de Risco e Impacto Ambiental. São Paulo: Erica, 2014.
-- 2. CARDELLA, B. Segurança no Trabalho e Prevenção de Acidentes: Uma Abordagem Holística. 2ª Edição. Rio de Janeiro: LTC, 2016.
-- 3. MATTOS, U. Higiene e Segurança do Trabalho. São Paulo: Elsevier, 2011.
-- 4. PAOLESCHI. B. CIPA: Guia Prático de Segurança do Trabalho. São Paulo: Erica, 2009.
-- 5. PONTE JR, G. P. Gerenciamento de Riscos Baseado em Fatores Humanos e Cultura de Segurança. São Paulo: Elsevier, 2013.
+1. BARBOSA, R. P. Avaliação de Risco e Impacto Ambiental. São Paulo: Erica, 2014.
+2. CARDELLA, B. Segurança no Trabalho e Prevenção de Acidentes: Uma Abordagem Holística. 2ª Edição. Rio de Janeiro: LTC, 2016.
+3. MATTOS, U. Higiene e Segurança do Trabalho. São Paulo: Elsevier, 2011.
+4. PAOLESCHI. B. CIPA: Guia Prático de Segurança do Trabalho. São Paulo: Erica, 2009.
+5. PONTE JR, G. P. Gerenciamento de Riscos Baseado em Fatores Humanos e Cultura de Segurança. São Paulo: Elsevier, 2013.

@@ -56,15 +56,15 @@ Distribuições de Probabilidades.
 
 ## Bibliografia Básica
 
-- 1. LARSON, R., FARBER, B. Estatística Aplicada. 6ª Edição. São Paulo: Pearson, 2015.
-- 2. MONTGOMERY, D. C., RUNGE, G. C. Estatística Aplicada e Probabilidade para Engenheiros. 6.ª Edição. Rio de Janeiro: LTC, 2016.
-- 3. WALPOLE R., MYERS, R., MYERS, S., YE K., Probabilidade & Estatística para Engenharia e Ciências. 8ª Edição. São Paulo: Pearson, 2008.
+1. LARSON, R., FARBER, B. Estatística Aplicada. 6ª Edição. São Paulo: Pearson, 2015.
+2. MONTGOMERY, D. C., RUNGE, G. C. Estatística Aplicada e Probabilidade para Engenheiros. 6.ª Edição. Rio de Janeiro: LTC, 2016.
+3. WALPOLE R., MYERS, R., MYERS, S., YE K., Probabilidade & Estatística para Engenharia e Ciências. 8ª Edição. São Paulo: Pearson, 2008.
 
 ## Bibliografia Complementar
 
-- 1. BUSSAB, W. O., MORETTIN, P. A. Estatística Básica. 9ª Edição. São Paulo: Saraiva, 2017.
-- 2. DEVORE, J. L. Probabilidade e Estatística para Engenharia e Ciências. 2ª Edição. São Paulo: Cengage,
-- 3. ROSS, S. Probabilidade: Um Curso Moderno com Aplicações. 8ª Edição. Porto Alegre: Bookman, 4.
-- 4. SPIEGEL, M., SCHILER, J., SRINIVASAN, R. A. Probabilidade e Estatística. 3ª Edição. Porto Alegre:
-- 5. Bookman, 2012.
-- 6. YATES, R. D., GOODMAN, D. J. Probabilidade e Processos Estocásticos: Uma Introdução Amigável para Engenheiros Eletricistas e da Computação. 3ª Edição. Rio de Janeiro: LTC, 2016.
+1. BUSSAB, W. O., MORETTIN, P. A. Estatística Básica. 9ª Edição. São Paulo: Saraiva, 2017.
+2. DEVORE, J. L. Probabilidade e Estatística para Engenharia e Ciências. 2ª Edição. São Paulo: Cengage,
+3. ROSS, S. Probabilidade: Um Curso Moderno com Aplicações. 8ª Edição. Porto Alegre: Bookman, 4.
+4. SPIEGEL, M., SCHILER, J., SRINIVASAN, R. A. Probabilidade e Estatística. 3ª Edição. Porto Alegre:
+5. Bookman, 2012.
+6. YATES, R. D., GOODMAN, D. J. Probabilidade e Processos Estocásticos: Uma Introdução Amigável para Engenheiros Eletricistas e da Computação. 3ª Edição. Rio de Janeiro: LTC, 2016.

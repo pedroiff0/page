@@ -76,16 +76,16 @@ Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em 
 
 ## Bibliografia Básica
 
-- 1. ASKELAND, D., WRIGHT, W. Ciência e Engenharia dos Materiais. 2ª Edição. São Paulo: Cengage,
-- 2. CALLISTER, W. D., RETHWISCH, D. Ciência e Engenharia dos Materiais: Uma Introdução. 9ª Edição.
-- 3. Rio de Janeiro: LTC, 2016.
-- 4. VAN VLACK, L. H. Princípios de Ciência e Tecnologia dos Materiais. São Paulo: Editora Campus,
+1. ASKELAND, D., WRIGHT, W. Ciência e Engenharia dos Materiais. 2ª Edição. São Paulo: Cengage,
+2. CALLISTER, W. D., RETHWISCH, D. Ciência e Engenharia dos Materiais: Uma Introdução. 9ª Edição.
+3. Rio de Janeiro: LTC, 2016.
+4. VAN VLACK, L. H. Princípios de Ciência e Tecnologia dos Materiais. São Paulo: Editora Campus,
 
 ## Bibliografia Complementar
 
-- 5. BOTELHO, M. H. C. Resistência dos Materiais: Para Entender e Gostar. 4ª Edição. São Paulo:
-- 6. Blucher, 2017.
-- 7. GARCIA, A.
-- 8. SPIM, J. A., SANTOS, C. A. Ensaio dos Materiais. 2ª Edição. Rio de Janeiro: LTC, 2012.
-- 9. NEWELL, J. Fundamentos da Moderna Engenharia e Ciência dos Materiais. Rio de Janeiro: LTC, SHACKELFORD, J. F., Ciência dos Materiais. 6ª Edição. São Paulo: Pearson, 2008.
-- 10. SMITH, W. F., HASHEMI, J. Fundamentos de Engenharia e Ciência dos Materiais. 5ª Edição. São Paulo: McGraw Hill, 2012.
+5. BOTELHO, M. H. C. Resistência dos Materiais: Para Entender e Gostar. 4ª Edição. São Paulo:
+6. Blucher, 2017.
+7. GARCIA, A.
+8. SPIM, J. A., SANTOS, C. A. Ensaio dos Materiais. 2ª Edição. Rio de Janeiro: LTC, 2012.
+9. NEWELL, J. Fundamentos da Moderna Engenharia e Ciência dos Materiais. Rio de Janeiro: LTC, SHACKELFORD, J. F., Ciência dos Materiais. 6ª Edição. São Paulo: Pearson, 2008.
+10. SMITH, W. F., HASHEMI, J. Fundamentos de Engenharia e Ciência dos Materiais. 5ª Edição. São Paulo: McGraw Hill, 2012.

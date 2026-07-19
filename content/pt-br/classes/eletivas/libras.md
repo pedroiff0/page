@@ -50,15 +50,15 @@ Línguas de sinais e minoria linguística; as diferentes línguas de sinais; sta
 
 ## Bibliografia Básica
 
-- 1. ANDREIS, S. Educação de surdos e preconceito. 1. ed. Curitiba: CRV, 2012.
-- 2. ______. Educação de surdos pelos próprios surdos: uma questão de direitos. ed. Curitiba: CRV,
-- 4. QUADROS, R. M., KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos. Porto Alegre, RS:
-- 5. Artmed, 2004.
+1. ANDREIS, S. Educação de surdos e preconceito. 1. ed. Curitiba: CRV, 2012.
+2. ______. Educação de surdos pelos próprios surdos: uma questão de direitos. ed. Curitiba: CRV,
+4. QUADROS, R. M., KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos. Porto Alegre, RS:
+5. Artmed, 2004.
 
 ## Bibliografia Complementar
 
-- 1. GESSER, A. Libras? que língua é essa?: crenças e preconceitos em torno da língua de sinais e da realidade surda. 1. ed. São Paulo, SP: Parábola, 2009.
-- 2. SACKS, O. W. Vendo vozes: uma viagem ao mundo dos surdos. São Paulo, SP: Companhia de Bolso,
-- 3. SKLIAR, C. A surdez: um olhar sobre as diferenças. 6. ed. Porto Alegre: Mediação, 2012.
-- 4. ______. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 1.
-- 5. ______. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 2.
+1. GESSER, A. Libras? que língua é essa?: crenças e preconceitos em torno da língua de sinais e da realidade surda. 1. ed. São Paulo, SP: Parábola, 2009.
+2. SACKS, O. W. Vendo vozes: uma viagem ao mundo dos surdos. São Paulo, SP: Companhia de Bolso,
+3. SKLIAR, C. A surdez: um olhar sobre as diferenças. 6. ed. Porto Alegre: Mediação, 2012.
+4. ______. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 1.
+5. ______. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 2.

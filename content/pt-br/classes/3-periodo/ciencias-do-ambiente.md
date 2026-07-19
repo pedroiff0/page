@@ -59,19 +59,19 @@ Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; 
 
 ## Bibliografia Básica
 
-- 1. BRAGA, B., HESPANHOL, I., CONEJO, J. G. L., MIERZWA, J. C., BARROS, M. T. L., CAPAZ, R. S., NOGUEIRA, L. H. Ciências Ambientais para Engenharia. São Paulo: Elsevier, 2014.
-- 2. FANTINATTI, P., ZUFFO, A., ARGOLLO, A. F. Indicadores de Sustentabilidade em Engenharia. São Paulo: Elsevier, 2014.
-- 3. SPENCER, M.
-- 4. NUCCI, N.
-- 5. JULIANO, N.
-- 6. ELGER, S. Introdução à engenharia ambiental: O Desafio do Desenvolvimento Sustentável. São Paulo: Pearson, 2005.
+1. BRAGA, B., HESPANHOL, I., CONEJO, J. G. L., MIERZWA, J. C., BARROS, M. T. L., CAPAZ, R. S., NOGUEIRA, L. H. Ciências Ambientais para Engenharia. São Paulo: Elsevier, 2014.
+2. FANTINATTI, P., ZUFFO, A., ARGOLLO, A. F. Indicadores de Sustentabilidade em Engenharia. São Paulo: Elsevier, 2014.
+3. SPENCER, M.
+4. NUCCI, N.
+5. JULIANO, N.
+6. ELGER, S. Introdução à engenharia ambiental: O Desafio do Desenvolvimento Sustentável. São Paulo: Pearson, 2005.
 
 ## Bibliografia Complementar
 
-- 1. BOTKIN, D. B., KELLER, E. A. Ciência Ambiental: Terra, um Planeta Vivo. 7ª Edição. Rio de Janeiro, LTC, 2011.
-- 2. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
-- 3. Elsevier, 2012.
-- 4. CHRISTOFOLETTI, A. Modelagem de Sistemas Ambientais. São Paulo: Blucher, 1999.
-- 5. DAVIS, M. L., MASTEN, S. Princípios de Engenharia Ambiental. 3ª Edição. São Paulo: Mc Graw Hill, 5.
-- 6. MILLER, G. T., SPOOLMAN, S. Ciência Ambiental. 2ª Edição. São Paulo: Cengage, 2015.
-- 7. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto. Rio de Janeiro: LTC, 2017.
+1. BOTKIN, D. B., KELLER, E. A. Ciência Ambiental: Terra, um Planeta Vivo. 7ª Edição. Rio de Janeiro, LTC, 2011.
+2. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
+3. Elsevier, 2012.
+4. CHRISTOFOLETTI, A. Modelagem de Sistemas Ambientais. São Paulo: Blucher, 1999.
+5. DAVIS, M. L., MASTEN, S. Princípios de Engenharia Ambiental. 3ª Edição. São Paulo: Mc Graw Hill, 5.
+6. MILLER, G. T., SPOOLMAN, S. Ciência Ambiental. 2ª Edição. São Paulo: Cengage, 2015.
+7. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto. Rio de Janeiro: LTC, 2017.

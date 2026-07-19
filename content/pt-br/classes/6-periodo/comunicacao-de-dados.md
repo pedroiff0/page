@@ -73,15 +73,15 @@ Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. C
 
 ## Bibliografia Básica
 
-- 1. CAMPOS, A. L. P. S. Laboratório de Princípios de Telecomunicações. Rio de Janeiro: LTC, 2015.
-- 2. FOROUZAN, B. A. Comunicação de dados e redes de computadores. 4ª. Ed. Porto Alegre: Bookman,
-- 3. ROCHOL, J. Comunicação de Dados. Porto Alegre: Bookman, 2011.
+1. CAMPOS, A. L. P. S. Laboratório de Princípios de Telecomunicações. Rio de Janeiro: LTC, 2015.
+2. FOROUZAN, B. A. Comunicação de dados e redes de computadores. 4ª. Ed. Porto Alegre: Bookman,
+3. ROCHOL, J. Comunicação de Dados. Porto Alegre: Bookman, 2011.
 
 ## Bibliografia Complementar
 
-- 1. HAYKIN, S.
-- 2. MOHER, M. Sistemas modernos de comunicação wireless. Porto Alegre: Bookman, 2008.
-- 3. HAYKIN, S. Sistemas de comunicação: analógicos e digitais. 5ª Edição. Porto Alegre: Bookman, 2010.
-- 4. LATHI, E., DING, Z. Sistemas de Comunicações Analógicos e Digitais Modernos. 4ª Edição. Rio de Janeiro: LTC, 2012.
-- 5. HSU, H. P. Comunicação Analógica e Digital. 2ª Edição. Porto Alegre, 2006.
-- 6. CARVALHO ROCHOL, J. Sistemas de Comunicação Sem Fio: Conceitos e Aplicações. Porto Alegre: Bookman, 2018.
+1. HAYKIN, S.
+2. MOHER, M. Sistemas modernos de comunicação wireless. Porto Alegre: Bookman, 2008.
+3. HAYKIN, S. Sistemas de comunicação: analógicos e digitais. 5ª Edição. Porto Alegre: Bookman, 2010.
+4. LATHI, E., DING, Z. Sistemas de Comunicações Analógicos e Digitais Modernos. 4ª Edição. Rio de Janeiro: LTC, 2012.
+5. HSU, H. P. Comunicação Analógica e Digital. 2ª Edição. Porto Alegre, 2006.
+6. CARVALHO ROCHOL, J. Sistemas de Comunicação Sem Fio: Conceitos e Aplicações. Porto Alegre: Bookman, 2018.

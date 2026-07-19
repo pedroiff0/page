@@ -72,17 +72,17 @@ Desenvolvimento de software de complexidade média utilizando o paradigma de ori
 
 ## Bibliografia Básica
 
-- 1. JUNIOR, P. J. Java: Guia do Programador. 3ª Edição. São Paulo: Novatec, 2015.
-- 2. SANTOS, R. Introdução à programação orientada a objetos usando Java. 2ª Edição. Rio de Janeiro:
-- 3. Elsevier: Campus, 2013.
-- 4. SIERRA, K.
-- 5. BATES, B. Use a cabeça! Java. 2ª Edição. Rio de Janeiro: Alta Books, 2007.
+1. JUNIOR, P. J. Java: Guia do Programador. 3ª Edição. São Paulo: Novatec, 2015.
+2. SANTOS, R. Introdução à programação orientada a objetos usando Java. 2ª Edição. Rio de Janeiro:
+3. Elsevier: Campus, 2013.
+4. SIERRA, K.
+5. BATES, B. Use a cabeça! Java. 2ª Edição. Rio de Janeiro: Alta Books, 2007.
 
 ## Bibliografia Complementar
 
-- 1. BLOCH, J. Java Efetivo: As Melhores Práticas para a Plataforma Java. Rio de Janeiro: Alta Books, 2019.
-- 2. DEITEL, P. J., DEITEL, H. M. Java, como programar. 10ª Edição. São Paulo: Pearson, 2016.
-- 3. FREEMAN, E.; FREEMAN, E. Use a cabeça! padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books,
-- 4. FURGIERI, S. Java 8 Ensino Didático: Desenvolvimento e Implementação de Aplicações. São Paulo:
-- 5. Érica, 2015.
-- 6. SILVEIRA, P. Introdução à arquitetura e design de software: uma visão sobre a plataforma Java. Rio de Janeiro: Elsevier, 2012.
+1. BLOCH, J. Java Efetivo: As Melhores Práticas para a Plataforma Java. Rio de Janeiro: Alta Books, 2019.
+2. DEITEL, P. J., DEITEL, H. M. Java, como programar. 10ª Edição. São Paulo: Pearson, 2016.
+3. FREEMAN, E.; FREEMAN, E. Use a cabeça! padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books,
+4. FURGIERI, S. Java 8 Ensino Didático: Desenvolvimento e Implementação de Aplicações. São Paulo:
+5. Érica, 2015.
+6. SILVEIRA, P. Introdução à arquitetura e design de software: uma visão sobre a plataforma Java. Rio de Janeiro: Elsevier, 2012.

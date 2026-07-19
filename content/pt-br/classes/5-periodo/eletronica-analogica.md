@@ -81,18 +81,18 @@ Transistores bipolares e circuitos polarizados com transistor; Fonte de alimenta
 
 ## Bibliografia Básica
 
-- 1. MALVINO, A. P., BATES, D. J. Eletrônica: Volume 1. 8ª Edição. Porto Alegre: Bookman, 2016.
-- 2. ______. Eletrônica: Volume 2. 8ª Edição. Porto Alegre: Bookman, 2016.
-- 3. PERTENCE, Antônio Jr. Amplificadores Operacionais e Filtros Ativos. 8ª Edição. Porto Alegre:
-- 4. Bookman, 2014.
+1. MALVINO, A. P., BATES, D. J. Eletrônica: Volume 1. 8ª Edição. Porto Alegre: Bookman, 2016.
+2. ______. Eletrônica: Volume 2. 8ª Edição. Porto Alegre: Bookman, 2016.
+3. PERTENCE, Antônio Jr. Amplificadores Operacionais e Filtros Ativos. 8ª Edição. Porto Alegre:
+4. Bookman, 2014.
 
 ## Bibliografia Complementar
 
-- 1. BOYLESTAD, R., NASHELSKY, L. Dispositivos Eletrônicos e Teoria dos Circuitos. 11ª Edição. São Paulo:
-- 2. Pearson, 2013.
-- 3. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:
-- 4. LTC, 2013.
-- 5. HART, D. W. Eletrônica de Potência: Análise e Projeto de Circuitos. Porto Alegre: Bookman, 2011.
-- 6. HOROWITZ, P. A Arte da Eletrônica: Circuitos Eletrônicos e Microeletrônica. 3ª Edição. Porto Alegre:
-- 7. Bookman, 2017.
-- 8. PLATT, C. Eletrônica para Makers: Um Manual Prático para o Novo Entusiasta de Eletrônica. São Paulo: Novatec, 2016.
+1. BOYLESTAD, R., NASHELSKY, L. Dispositivos Eletrônicos e Teoria dos Circuitos. 11ª Edição. São Paulo:
+2. Pearson, 2013.
+3. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:
+4. LTC, 2013.
+5. HART, D. W. Eletrônica de Potência: Análise e Projeto de Circuitos. Porto Alegre: Bookman, 2011.
+6. HOROWITZ, P. A Arte da Eletrônica: Circuitos Eletrônicos e Microeletrônica. 3ª Edição. Porto Alegre:
+7. Bookman, 2017.
+8. PLATT, C. Eletrônica para Makers: Um Manual Prático para o Novo Entusiasta de Eletrônica. São Paulo: Novatec, 2016.

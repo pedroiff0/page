@@ -42,15 +42,15 @@ Normas de conduta e procedimentos de segurança em laboratórios de análise qu�
 
 ## Bibliografia Básica
 
-- 1. BACCAN, N.; ANDRADE, J. C.; GODINHO, O. E. S.; BARONE, J. S. Química Analítica Quantitativa e Elementar. São Paulo: Edgard Blüche, 1998.
-- 2. MENDHAM, J.; DENNEY, R. C.; BARNES, J. D.; THOMAS, M. J. K. Vogel - Análise Química Quantitativa. 6 ed. Rio de Janeiro: LTC, 2002.
-- 4. VOGEL, A. I. Química Analítica Qualitativa. ed., São Paulo: Editora Mestre Jou, 1981.
+1. BACCAN, N.; ANDRADE, J. C.; GODINHO, O. E. S.; BARONE, J. S. Química Analítica Quantitativa e Elementar. São Paulo: Edgard Blüche, 1998.
+2. MENDHAM, J.; DENNEY, R. C.; BARNES, J. D.; THOMAS, M. J. K. Vogel - Análise Química Quantitativa. 6 ed. Rio de Janeiro: LTC, 2002.
+4. VOGEL, A. I. Química Analítica Qualitativa. ed., São Paulo: Editora Mestre Jou, 1981.
 
 ## Bibliografia Complementar
 
-- 1. ATKINS, P. Princípios de Química: questionando a vida moderna e o meio ambiente, 5ª ed. Porto Alegre: Bookman, 2012.
-- 2. FIOROTTO, N. R. Técnicas Experimentais em Química – Normas e Procedimentos. 1 ed. São Paulo:
-- 3. Erica, 2014.
-- 4. HARRIS, D. 1948 - Análise Química Quantitativa/; Tradução Jairo Bordinhão..[et al.], - [Reimpr.], -Rio de Janeiro:LTC, 2011.
-- 5. ROCHA-FILHO, R. C.; SILVA, R. R. Cálculos Básicos da Química. 4ª ed. São Carlos: EdUFSCar, 2017.
-- 6. SILVA, R. R., BOCCHI, N., ROCHA-FILHO, R. C.; MACHADO, P. F. L. Introdução à Química Experimental. 3 ed. São Carlos: EdUFSCar, 2019.
+1. ATKINS, P. Princípios de Química: questionando a vida moderna e o meio ambiente, 5ª ed. Porto Alegre: Bookman, 2012.
+2. FIOROTTO, N. R. Técnicas Experimentais em Química – Normas e Procedimentos. 1 ed. São Paulo:
+3. Erica, 2014.
+4. HARRIS, D. 1948 - Análise Química Quantitativa/; Tradução Jairo Bordinhão..[et al.], - [Reimpr.], -Rio de Janeiro:LTC, 2011.
+5. ROCHA-FILHO, R. C.; SILVA, R. R. Cálculos Básicos da Química. 4ª ed. São Carlos: EdUFSCar, 2017.
+6. SILVA, R. R., BOCCHI, N., ROCHA-FILHO, R. C.; MACHADO, P. F. L. Introdução à Química Experimental. 3 ed. São Carlos: EdUFSCar, 2019.

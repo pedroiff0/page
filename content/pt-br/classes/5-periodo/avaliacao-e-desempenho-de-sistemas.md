@@ -51,16 +51,16 @@ Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilíst
 
 ## Bibliografia Básica
 
-- 1. FOGLIATTI, M. C., MATTOS, N. M. C. Teoria de Filas. Rio de Janeiro, 2006.
-- 2. PRADO, D. Teoria de Filas e da Simulação – Volume 2. 5ª Edição. São Paulo: Falconi, 2017.
-- 3. ______. Usando o Arena em Simulação – Volume 3. 5ª Edição. São Paulo: Falconi, 2014.
+1. FOGLIATTI, M. C., MATTOS, N. M. C. Teoria de Filas. Rio de Janeiro, 2006.
+2. PRADO, D. Teoria de Filas e da Simulação – Volume 2. 5ª Edição. São Paulo: Falconi, 2017.
+3. ______. Usando o Arena em Simulação – Volume 3. 5ª Edição. São Paulo: Falconi, 2014.
 
 ## Bibliografia Complementar
 
-- 1. BATEMAN, R., BOWDEN, R. D., GOGG, T. J., HARREL, C. R., MOTT, J. R. A., MONTEVECHI, J.
-- 2. A. B. Simulação de Sistemas: Aprimorando Processos de Logística, Serviços e Manufatura.
-- 3. São Paulo: Elsevier, 2013.
-- 4. CHWIF, L., MEDINA, A. Modelagem e Simulação de Eventos Discretos: Teoria e Aplicações.
-- 5. 4ª Edição. São Paulo: Elsevier, 2014.
-- 6. SPIEGEL, M., SCHILER, J., SRINIVASAN, R. A. Probabilidade e Estatística. 3ª Edição. Porto Alegre: Bookman, 2012.
-- 7. YATES, R. D., GOODMAN, D. J. Probabilidade e Processos Estocásticos: Uma Introdução Amigável para Engenheiros Eletricistas e da Computação. 3ª Edição. Rio de Janeiro: LTC,
+1. BATEMAN, R., BOWDEN, R. D., GOGG, T. J., HARREL, C. R., MOTT, J. R. A., MONTEVECHI, J.
+2. A. B. Simulação de Sistemas: Aprimorando Processos de Logística, Serviços e Manufatura.
+3. São Paulo: Elsevier, 2013.
+4. CHWIF, L., MEDINA, A. Modelagem e Simulação de Eventos Discretos: Teoria e Aplicações.
+5. 4ª Edição. São Paulo: Elsevier, 2014.
+6. SPIEGEL, M., SCHILER, J., SRINIVASAN, R. A. Probabilidade e Estatística. 3ª Edição. Porto Alegre: Bookman, 2012.
+7. YATES, R. D., GOODMAN, D. J. Probabilidade e Processos Estocásticos: Uma Introdução Amigável para Engenheiros Eletricistas e da Computação. 3ª Edição. Rio de Janeiro: LTC,

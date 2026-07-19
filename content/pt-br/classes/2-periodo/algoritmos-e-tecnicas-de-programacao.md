@@ -76,13 +76,13 @@ Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exempl
 
 ## Bibliografia Básica
 
-- 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
-- 2. PIVA JR, D., NAKAMITI, G. S., ENGELBRECHT, A. M., BIANCHI, F. Algoritmos e Programação de Computadores. São Paulo: Elsevier, 2012.
-- 3. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997.
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
+2. PIVA JR, D., NAKAMITI, G. S., ENGELBRECHT, A. M., BIANCHI, F. Algoritmos e Programação de Computadores. São Paulo: Elsevier, 2012.
+3. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997.
 
 ## Bibliografia Complementar
 
-- 1. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
-- 2. FORBELLONE, A. L., EBERSPACHER, H. Lógica de Programação: A Construção de Algoritmos e Estrutura de dados. 3ª Edição. São Paulo: Pearson, 2005.
-- 3. LOPES, A., GARCIA, G. Introdução à Programação: 500 Algoritmos Resolvidos. São Paulo: Campus, MANZANO, J. A. Estudo Dirigido de Linguagem C. 17ª Edição. São Paulo: Editora Érica,2002.
-- 4. MANZANO, J. A., OLIVEIRA, J. F. Algoritmos: Lógica para Desenvolvimento de Programação de Computadores. 28º Edição. São Paulo: Editora Érica, 2016.
+1. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
+2. FORBELLONE, A. L., EBERSPACHER, H. Lógica de Programação: A Construção de Algoritmos e Estrutura de dados. 3ª Edição. São Paulo: Pearson, 2005.
+3. LOPES, A., GARCIA, G. Introdução à Programação: 500 Algoritmos Resolvidos. São Paulo: Campus, MANZANO, J. A. Estudo Dirigido de Linguagem C. 17ª Edição. São Paulo: Editora Érica,2002.
+4. MANZANO, J. A., OLIVEIRA, J. F. Algoritmos: Lógica para Desenvolvimento de Programação de Computadores. 28º Edição. São Paulo: Editora Érica, 2016.

@@ -62,17 +62,17 @@ Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. 
 
 ## Bibliografia Básica
 
-- 1. ALEXANDER, C. K., SADIKU, M. Fundamentos de Circuitos Elétricos. 5ª Edição. Porto Alegre:
-- 2. Bookman, 2013.
-- 3. NILSSON, J. W., RIEDEL, S. A. Circuitos Elétricos. 10ª Edição. São Paulo: Pearson, 2015.
-- 4. NAHVI, M., EDMINISTER, J. Circuitos Elétricas. 5ª Edição. Porto Alegre: Bookman, 2014.
+1. ALEXANDER, C. K., SADIKU, M. Fundamentos de Circuitos Elétricos. 5ª Edição. Porto Alegre:
+2. Bookman, 2013.
+3. NILSSON, J. W., RIEDEL, S. A. Circuitos Elétricos. 10ª Edição. São Paulo: Pearson, 2015.
+4. NAHVI, M., EDMINISTER, J. Circuitos Elétricas. 5ª Edição. Porto Alegre: Bookman, 2014.
 
 ## Bibliografia Complementar
 
-- 1. GUSSOW, M. Eletricidade Básica. 2ª Edição. Porto Alegre: Bookman, 2008.
-- 2. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:
-- 3. LTC, 2013.
-- 4. O’MALLEY, J. Análise de Circuitos. 2ª Edição. Porto Alegre: Bookman, 2014.
-- 5. SADIKU, M., MUSA, S., ALEXANDER, C. Análise de Circuitos Elétricos com Aplicações. Porto Alegre:
-- 6. Bookman, 2013.
-- 7. SVOBODA, J. A, DORF, R. C. Introdução aos Circuitos Elétricos. 9ª Edição. Rio de Janeiro: LTC, 2016.
+1. GUSSOW, M. Eletricidade Básica. 2ª Edição. Porto Alegre: Bookman, 2008.
+2. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:
+3. LTC, 2013.
+4. O’MALLEY, J. Análise de Circuitos. 2ª Edição. Porto Alegre: Bookman, 2014.
+5. SADIKU, M., MUSA, S., ALEXANDER, C. Análise de Circuitos Elétricos com Aplicações. Porto Alegre:
+6. Bookman, 2013.
+7. SVOBODA, J. A, DORF, R. C. Introdução aos Circuitos Elétricos. 9ª Edição. Rio de Janeiro: LTC, 2016.

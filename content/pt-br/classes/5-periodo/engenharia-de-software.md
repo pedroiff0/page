@@ -83,15 +83,15 @@ Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto
 
 ## Bibliografia Básica
 
-- 1. PRESSMAN, R. S., MAXIM, B. R. Engenharia de Software: Uma Abordagem Profissional. 8ª Edição. Porto Alegre: Bookman, 2016.
-- 2. SOMMERVILLE, I. Engenharia de Software. 9ª Edição. São Paulo: Pearson, 2011.
-- 3. WAZLAWICK, R. S. Engenharia de Software: Conceitos e Práticas. São Paulo: Elsevier, 2013.
+1. PRESSMAN, R. S., MAXIM, B. R. Engenharia de Software: Uma Abordagem Profissional. 8ª Edição. Porto Alegre: Bookman, 2016.
+2. SOMMERVILLE, I. Engenharia de Software. 9ª Edição. São Paulo: Pearson, 2011.
+3. WAZLAWICK, R. S. Engenharia de Software: Conceitos e Práticas. São Paulo: Elsevier, 2013.
 
 ## Bibliografia Complementar
 
-- 1. DELAMARO, M. E., MALDONADO, J. C., JINO, M. Introdução ao Teste de Software. 2ª Edição. São Paulo: Elsevier, 2016.
-- 2. FERNANDES, J. M., MACHADO, R. J. Requisitos em Projetos de Software e de Sistemas de Informação.
-- 3. São Paulo: Novatec, 2017.
-- 4. HIRAMA, K. Engenharia de Software: Qualidade e Produtividade com Tecnologia. São Paulo: Elsevier, 4.
-- 5. MACHADO, F. N. R., Análise e Gestão de Requisitos de Software: Onde Nascem os Sistemas. 3ª Edição. São Paulo: Érica, 2015.
-- 6. SAMPAIO, C. Qualidade de Software na Prática: Como Reduzir o Custo de Manutenção de Software com a Análise de Código. São Paulo: Ciência Moderna, 2014.
+1. DELAMARO, M. E., MALDONADO, J. C., JINO, M. Introdução ao Teste de Software. 2ª Edição. São Paulo: Elsevier, 2016.
+2. FERNANDES, J. M., MACHADO, R. J. Requisitos em Projetos de Software e de Sistemas de Informação.
+3. São Paulo: Novatec, 2017.
+4. HIRAMA, K. Engenharia de Software: Qualidade e Produtividade com Tecnologia. São Paulo: Elsevier, 4.
+5. MACHADO, F. N. R., Análise e Gestão de Requisitos de Software: Onde Nascem os Sistemas. 3ª Edição. São Paulo: Érica, 2015.
+6. SAMPAIO, C. Qualidade de Software na Prática: Como Reduzir o Custo de Manutenção de Software com a Análise de Código. São Paulo: Ciência Moderna, 2014.

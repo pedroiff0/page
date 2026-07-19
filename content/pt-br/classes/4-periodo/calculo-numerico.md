@@ -71,16 +71,16 @@ Solução de equações não lineares; Interpolação e ajuste de curvas; Integr
 
 ## Bibliografia Básica
 
-- 1. BURIAN, R.; LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC, 2007.
-- 2. RUGGIERO, M. A. G.; LOPES, V. L. da R. Cálculo Numérico: Aspectos Teóricos e Computacionais.
-- 3. ª Edição. São Paulo: Pearson, 2000.
-- 4. SPERANDIO, D., MENDES, J. T., SILVA, L. H. M. Cálculo Numérico: Características Matemáticas e Computacionais dos Métodos Numéricos. São Paulo: Prentice Hall, 2003.
+1. BURIAN, R.; LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC, 2007.
+2. RUGGIERO, M. A. G.; LOPES, V. L. da R. Cálculo Numérico: Aspectos Teóricos e Computacionais.
+3. ª Edição. São Paulo: Pearson, 2000.
+4. SPERANDIO, D., MENDES, J. T., SILVA, L. H. M. Cálculo Numérico: Características Matemáticas e Computacionais dos Métodos Numéricos. São Paulo: Prentice Hall, 2003.
 
 ## Bibliografia Complementar
 
-- 1. ARENALES, S., DAREZZO, A. Cálculo Numérico – Aprendizagem com apoio de software. 2ª Edição.
-- 2. São Paulo: Cengage, 2015.
-- 3. FILHO, F. F. Algoritmos Numéricos: Uma Abordagem Moderna de Cálculo Numérico. 3ª Edição. Rio de Janeiro, 2018.
-- 4. FRANCO, N. B. Cálculo Numérico. São Paulo: Pearson, 2006.
-- 5. PIRES, A. A. Cálculo Numérico: Prática com Algoritmos e Planilhas. São Paulo: Atlas, 2015.
-- 6. VARGAS, J. V. C., ARAKI, L. K. Cálculo Numérico Aplicado. São Paulo: Manole, 2016.
+1. ARENALES, S., DAREZZO, A. Cálculo Numérico – Aprendizagem com apoio de software. 2ª Edição.
+2. São Paulo: Cengage, 2015.
+3. FILHO, F. F. Algoritmos Numéricos: Uma Abordagem Moderna de Cálculo Numérico. 3ª Edição. Rio de Janeiro, 2018.
+4. FRANCO, N. B. Cálculo Numérico. São Paulo: Pearson, 2006.
+5. PIRES, A. A. Cálculo Numérico: Prática com Algoritmos e Planilhas. São Paulo: Atlas, 2015.
+6. VARGAS, J. V. C., ARAKI, L. K. Cálculo Numérico Aplicado. São Paulo: Manole, 2016.

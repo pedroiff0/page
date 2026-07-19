@@ -53,14 +53,14 @@ Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; 
 
 ## Bibliografia Básica
 
-- 1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
-- 2. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
-- 3. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
+1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
+2. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
+3. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
 
 ## Bibliografia Complementar
 
-- 1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
-- 2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.
-- 3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017.
-- 4. HENESSY, J. L., PATTERSON, D. A. Arquitetura de Computadores. Uma Abordagem Quantitativa. 5ª Edição. São Paulo: Elsevier, 2013.
-- 5. WEBER, R. F. Fundamentos de Arquitetura de Computadores. 4ª Edição. Porto Alegre: Bookman,
+1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
+2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.
+3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017.
+4. HENESSY, J. L., PATTERSON, D. A. Arquitetura de Computadores. Uma Abordagem Quantitativa. 5ª Edição. São Paulo: Elsevier, 2013.
+5. WEBER, R. F. Fundamentos de Arquitetura de Computadores. 4ª Edição. Porto Alegre: Bookman,

@@ -77,15 +77,15 @@ Principais características; Tipos de arquiteturas; Memórias internas; Registra
 
 ## Bibliografia Básica
 
-- 1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
-- 2. GIMENEZ, S. P. Microcontroladores 8051: Teoria e Prática. São Paulo: Erica, 2010.
-- 3. NICOLOSI, D. E. Microcontrolador 8051: Detalhado. São Paulo: Erica, 2013.
+1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
+2. GIMENEZ, S. P. Microcontroladores 8051: Teoria e Prática. São Paulo: Erica, 2010.
+3. NICOLOSI, D. E. Microcontrolador 8051: Detalhado. São Paulo: Erica, 2013.
 
 ## Bibliografia Complementar
 
-- 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
-- 2. GIMENEZ, S. P. Microcontroladores 8051. São Paulo: Pearson, 2002.
-- 3. NICOLOSI, D. E. C. Laboratório de Microcontroladores Família 8051: Treino de Instruções, Hardware e Software. 6ª Edição. São Paulo: Erica, 2014.
-- 4. NICOLOSI, D. E. C., BRONZERI, R. B. Microcontrolador 8051 com Linguagem C: Prático e Didático. 2ª Edição. São Paulo: Erica, 2008.
-- 5. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.
-- 6. São Paulo: Erica, 2010.
+1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
+2. GIMENEZ, S. P. Microcontroladores 8051. São Paulo: Pearson, 2002.
+3. NICOLOSI, D. E. C. Laboratório de Microcontroladores Família 8051: Treino de Instruções, Hardware e Software. 6ª Edição. São Paulo: Erica, 2014.
+4. NICOLOSI, D. E. C., BRONZERI, R. B. Microcontrolador 8051 com Linguagem C: Prático e Didático. 2ª Edição. São Paulo: Erica, 2008.
+5. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.
+6. São Paulo: Erica, 2010.

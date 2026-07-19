@@ -49,15 +49,15 @@ Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Prime
 
 ## Bibliografia Básica
 
-- 1. FILHO, E. A. Iniciação à Lógica Matemática. Nobel, 1999.
-- 2. SILVA, F. S. C., FINGER, M., MELO, A. C. V. Lógica para Computação. Cengage Learning, 2017.
-- 3. SOUZA, J. N. Lógica para Ciência da Computação e Áreas Afins. 3ª Edição. Elsevier, 2014.
+1. FILHO, E. A. Iniciação à Lógica Matemática. Nobel, 1999.
+2. SILVA, F. S. C., FINGER, M., MELO, A. C. V. Lógica para Computação. Cengage Learning, 2017.
+3. SOUZA, J. N. Lógica para Ciência da Computação e Áreas Afins. 3ª Edição. Elsevier, 2014.
 
 ## Bibliografia Complementar
 
-- 1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016.
-- 2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013.
-- 3. MENEZES, P. B., TOSCANI, L. V., LÓPEZ, J. G. Aprendendo Matemática Discreta com Exercícios.
-- 4. Bookman, 2009.
-- 5. ROSEN, K. H. Matemática Discreta e Suas Aplicações. 6ª Edição. Mc Graw Hill, 2009.
-- 6. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning. 2016.
+1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016.
+2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013.
+3. MENEZES, P. B., TOSCANI, L. V., LÓPEZ, J. G. Aprendendo Matemática Discreta com Exercícios.
+4. Bookman, 2009.
+5. ROSEN, K. H. Matemática Discreta e Suas Aplicações. 6ª Edição. Mc Graw Hill, 2009.
+6. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning. 2016.

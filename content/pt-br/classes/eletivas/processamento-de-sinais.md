@@ -50,16 +50,16 @@ Introdução ao processamento digital de sinais. Fundamentos matemáticos de sin
 
 ## Bibliografia Básica
 
-- 1. DINIZ, P. S. R., SILVA, E. A. B., NETTO, S. L. Processamento Digital de Sinais: Projeto e Análise de Sistemas. 2ª Edição. Porto Alegre: Bookman, 2014.
-- 2. GURJÃO, E., CARVALHO, J., VELOSO, L. R. Introdução à Análise de Sinais e Sistemas. São Paulo:
-- 3. Elsevier, 2015.
-- 4. PPENHEIM, A., SCHAFER, R. W. Processamento em Tempo Discreto de Sinais. 3ª Edição. São Paulo:
-- 5. Pearson, 2013.
+1. DINIZ, P. S. R., SILVA, E. A. B., NETTO, S. L. Processamento Digital de Sinais: Projeto e Análise de Sistemas. 2ª Edição. Porto Alegre: Bookman, 2014.
+2. GURJÃO, E., CARVALHO, J., VELOSO, L. R. Introdução à Análise de Sinais e Sistemas. São Paulo:
+3. Elsevier, 2015.
+4. PPENHEIM, A., SCHAFER, R. W. Processamento em Tempo Discreto de Sinais. 3ª Edição. São Paulo:
+5. Pearson, 2013.
 
 ## Bibliografia Complementar
 
-- 1. ALCAIN, A. Fundamentos de Processamento de Sinais Voz e Imagem. Rio de Janeiro: Interciência,
-- 2. COSTA, C. Processamento de Sinais para Engenheiros: Teoria e Prática. Rio de Janeiro: Bonecker,
-- 3. NALON, J. A. Introdução ao Processamento Digital de Sinais. Rio de Janeiro: LTC, 2009.
-- 4. ROBERTS, M. J. Fundamentos em Sinais e Sistemas. Porto Alegre: Bookman, 2009.
-- 5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman. 2003.
+1. ALCAIN, A. Fundamentos de Processamento de Sinais Voz e Imagem. Rio de Janeiro: Interciência,
+2. COSTA, C. Processamento de Sinais para Engenheiros: Teoria e Prática. Rio de Janeiro: Bonecker,
+3. NALON, J. A. Introdução ao Processamento Digital de Sinais. Rio de Janeiro: LTC, 2009.
+4. ROBERTS, M. J. Fundamentos em Sinais e Sistemas. Porto Alegre: Bookman, 2009.
+5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman. 2003.

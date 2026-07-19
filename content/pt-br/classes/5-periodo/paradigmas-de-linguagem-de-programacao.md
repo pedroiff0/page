@@ -69,15 +69,15 @@ Visão geral de linguagens de programação: valores e tipos; variáveis e coman
 
 ## Bibliografia Básica
 
-- 1. SEBESTA, R. W. Conceitos de Linguagens de Programação. 11ª Edição. Porto Alegre: Bookman, 2018.
-- 2. TUCKER, A. B., NOOMAN, R. Linguagens de Programação: Princípios e Paradigmas. 2ª Edição. São Paulo: McGraw Hill, 2009.
-- 3. WAMPLER, D. Programação Funcional para Desenvolvedores Java. São Paulo: Novatec, 2012.
+1. SEBESTA, R. W. Conceitos de Linguagens de Programação. 11ª Edição. Porto Alegre: Bookman, 2018.
+2. TUCKER, A. B., NOOMAN, R. Linguagens de Programação: Princípios e Paradigmas. 2ª Edição. São Paulo: McGraw Hill, 2009.
+3. WAMPLER, D. Programação Funcional para Desenvolvedores Java. São Paulo: Novatec, 2012.
 
 ## Bibliografia Complementar
 
-- 1. DONOVAN, A. A. A., KERNIGHAN, B. W. A Linguagem de Programação GO. São Paulo: Novatec, 2017.
-- 2. DOSXEY, C. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis. São Paulo:
-- 3. Novatec: 2016.
-- 4. IERUSALIMSCHY, R. Programando em LUA. 3ª Edição. Rio de Janeiro: LTC, 2014.
-- 5. MANZANO, J. A. N. Primeiros Passos com a Linguagem Rust. São Paulo, Novatec, 2018.
-- 6. RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz. São Paulo: Novatec, 2015.
+1. DONOVAN, A. A. A., KERNIGHAN, B. W. A Linguagem de Programação GO. São Paulo: Novatec, 2017.
+2. DOSXEY, C. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis. São Paulo:
+3. Novatec: 2016.
+4. IERUSALIMSCHY, R. Programando em LUA. 3ª Edição. Rio de Janeiro: LTC, 2014.
+5. MANZANO, J. A. N. Primeiros Passos com a Linguagem Rust. São Paulo, Novatec, 2018.
+6. RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz. São Paulo: Novatec, 2015.
