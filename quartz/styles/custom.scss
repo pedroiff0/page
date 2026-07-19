@@ -300,36 +300,57 @@ details.author-details[open] .author-summary {
   font-size: 0.85rem;
 }
 
-/* Reader Mode overrides */
+/* Reader Mode overrides.
+   The previous version hid BOTH sidebars — which removed the very toolbar
+   holding the reader-mode toggle (no way back) and the Explorer navigation,
+   while the grid kept reserving fixed side columns (content never filled
+   the screen). New behavior: keep the left sidebar (nav + exit button),
+   hide only the right one (graph/backlinks), give the freed columns to the
+   content, and let the page span the full viewport width. */
 :root[reader-mode="on"] {
   & .page {
-    max-width: 1000px;
-    margin: 0 auto;
-    width: 100%;
-    @media all and (min-width: 1200px) {
-      grid-template-columns: 1fr;
-      grid-template-areas:
-        "grid-header"
-        "grid-center"
-        "grid-footer";
-    }
+    max-width: 100%;
+  }
+
+  & .sidebar.right {
+    display: none !important;
   }
 
   & .center {
     max-width: 100% !important;
   }
 
-  & .sidebar.left,
-  & .sidebar.right {
-    display: none !important;
+  & .page > #quartz-body,
+  & #quartz-body {
+    @media all and ($desktop) {
+      grid-template-columns: #{$sidePanelWidth} auto;
+      grid-template-rows: auto auto auto;
+      grid-template-areas:
+        "grid-sidebar-left grid-header"
+        "grid-sidebar-left grid-center"
+        "grid-sidebar-left grid-footer";
+    }
+    @media all and ($tablet) {
+      grid-template-rows: auto auto auto;
+      grid-template-areas:
+        "grid-sidebar-left grid-header"
+        "grid-sidebar-left grid-center"
+        "grid-sidebar-left grid-footer";
+    }
   }
 }
 
-/* Created date, shown next to ContentMeta's modified date + reading time */
+/* Labeled dates line ("Criado em: X · Modificado em: Y"). The unlabeled
+   modified date that ContentMeta prepends to the reading time is hidden so
+   the same date doesn't show twice — reading time stays. */
 .created-date {
   margin-top: -0.5rem;
   color: var(--darkgray);
   font-size: 0.9rem;
+}
+
+.content-meta > time {
+  display: none;
 }
 
 /* Hide the auto-generated "N items in this folder" listing that folder-page

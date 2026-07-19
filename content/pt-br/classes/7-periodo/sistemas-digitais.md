@@ -14,22 +14,22 @@ tags:
 | Período | 7º Período |
 | Pré-requisitos | [CSECBJI.46 - Eletrônica Digital](pt-br/classes/6-periodo/eletronica-digital) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.61 - Arquitetura de Computadores](pt-br/classes/8-periodo/arquitetura-de-computadores)
 
-## Ementa
+## 📋 Ementa
 
 Análise e síntese de circuitos digitais sequenciais; contadores e registradores; famílias lógicas, circuitos integrados; conversores: analógico / digital e digital/ analógico; dispositivos de memórias; noções de dispositivos programáveis.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Dimensionar e interpretar circuitos eletrônicos digitais. Analisar e sintetizar circuitos sequenciais;
 - Caracterizar as diferentes famílias lógicas aplicadas em circuitos digitais;
 - Compreender as técnicas de conversão digital analógica e analógico-digital;
 - Analisar e projetar sistemas digitais lógicos e programáveis.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Análise e Síntese de Circuitos Digitais
  - Contadores Síncronos e Assíncronos
@@ -80,14 +80,14 @@ Análise e síntese de circuitos digitais sequenciais; contadores e registradore
 
 - **[Circuitos Digitais](assets/biblioteca/computacao/circuitos-digitais-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
 2. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo:
 3. Elsevier, 2016.
 4. TOCCI, R. J., WIDMER, N. S., MOSS, G. L. Sistemas Digitais: Princípios e Aplicações. 11ª Edição. São Paulo: Pearson, 2011.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
 2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.

@@ -14,21 +14,21 @@ tags:
 | Período | 6º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.55 - Redes de Computadores I](pt-br/classes/7-periodo/redes-de-computadores-i)
 - [CSECBJI.83 - Processamento de Sinais](pt-br/classes/eletivas/processamento-de-sinais)
 
-## Ementa
+## 📋 Ementa
 
 Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. Controle de Enlace. Multiplexação. Espalhamento Espectral.
 
-## Objetivos
+## 🎯 Objetivos
 
 - ● Apresentar ao aluno as definições básicas e os principais problemas relacionados com comunicação de dados ponto a ponto.
 - ● Apresentar conceitos básicos de capacidade de canal, relação entre taxa de transmissão e largura de faixa, modulação analógica e digital, controle de erros, multiplexação e espalhamento espectral devem ser dominados pelo aluno
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Transmissão de Dados
  - Conceitos e Terminologias de Transmissão de Dados
@@ -71,13 +71,13 @@ Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. C
 
 - **[Protocolos e Serviços de Redes](assets/biblioteca/computacao/protocolos-servicos-redes-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. CAMPOS, A. L. P. S. Laboratório de Princípios de Telecomunicações. Rio de Janeiro: LTC, 2015.
 2. FOROUZAN, B. A. Comunicação de dados e redes de computadores. 4ª. Ed. Porto Alegre: Bookman,
 3. ROCHOL, J. Comunicação de Dados. Porto Alegre: Bookman, 2011.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. HAYKIN, S.
 2. MOHER, M. Sistemas modernos de comunicação wireless. Porto Alegre: Bookman, 2008.

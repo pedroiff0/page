@@ -14,15 +14,15 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.33 - Eletricidade Aplicada](pt-br/classes/5-periodo/eletricidade-aplicada) |
 
-## Ementa
+## 📋 Ementa
 
 Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprimento de energia – estrutura brasileira. Energia e desenvolvimento. Fontes convencionais. Fontes não convencionais. Energia - Recursos naturais. Usos da energia, conservação. Recursos renováveis – Desenvolvimento sustentável.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Analisar as possíveis alternativas energéticas (renováveis e não renováveis) com base nas diferentes tecnologias aplicáveis e nos respectivos impactos ambientais, visando à minoração de problemas ambientais e sociais.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Energia x Recursos Naturais
  - Introdução
@@ -48,13 +48,13 @@ Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprime
  - Papel da Política Energética Nacional
 5. Perspectivas Energéticas
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. GOLDEMBERG, J., PALETTA, F. C. Energias renováveis. São Paulo: Blucher, 2012.
 2. HINRICHS, R., KLEINBACH, M. H. Energia e meio ambiente. São Paulo: Cengage, 2013.
 3. REIS, L. B., FADIGAS, E. A. A., CARVALHO, C. E. Energia, recursos naturais e a prática do desenvolvimento sustentável. 2ª Edição. São Paulo: Manole, 2011.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ABREU, F. V. Biogás: Economia, Regulação e Sustentabilidade. Rio de Janeiro: Interciência,
 2. BALFOUR, J., SHAW, M., NASH, N. B. Introdução de Sistemas Fotovoltaicos. Rio de Janeiro:

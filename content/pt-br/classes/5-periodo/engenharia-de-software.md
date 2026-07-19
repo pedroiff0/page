@@ -14,15 +14,15 @@ tags:
 | Período | 5º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.42 - Análise de Software Orientada a Objetos](pt-br/classes/6-periodo/analise-de-software-orientada-a-objetos)
 
-## Ementa
+## 📋 Ementa
 
 Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto de software. Arquitetura de software. Testes. Visão geral sobre manutenção de software.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Desenvolver a visão de software como um sistema e parte de um sistema;
 - Conhecer processos de desenvolvimento de software
@@ -33,7 +33,7 @@ Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto
 - Reconhecer as categorias e atividades da manutenção de software;
 - Trabalhar com ambientes e ferramentas de suporte ao desenvolvimento de software
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Teoria dos Sistemas
  - Sistemas naturais e sistemas automatizados
@@ -81,13 +81,13 @@ Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto
 - **[Análise de Sistemas](assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Projeto de Sistemas](assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. PRESSMAN, R. S., MAXIM, B. R. Engenharia de Software: Uma Abordagem Profissional. 8ª Edição. Porto Alegre: Bookman, 2016.
 2. SOMMERVILLE, I. Engenharia de Software. 9ª Edição. São Paulo: Pearson, 2011.
 3. WAZLAWICK, R. S. Engenharia de Software: Conceitos e Práticas. São Paulo: Elsevier, 2013.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. DELAMARO, M. E., MALDONADO, J. C., JINO, M. Introdução ao Teste de Software. 2ª Edição. São Paulo: Elsevier, 2016.
 2. FERNANDES, J. M., MACHADO, R. J. Requisitos em Projetos de Software e de Sistemas de Informação.

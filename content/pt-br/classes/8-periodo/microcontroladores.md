@@ -14,20 +14,20 @@ tags:
 | Período | 8º Período |
 | Pré-requisitos | [CSECBJI.52 - Organização de Computadores](pt-br/classes/7-periodo/organizacao-de-computadores) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.70 - Sistemas Embarcados](pt-br/classes/9-periodo/sistemas-embarcados)
 
-## Ementa
+## 📋 Ementa
 
 Principais características; Tipos de arquiteturas; Memórias internas; Registradores; Modos de endereçamento; Instruções; Linguagem assembly; Compiladores e ferramentas de desenvolvimento; Sistema de interrupções; Dispositivos de entrada e saída (I/O); Estudo dos conversores A/D; Estudo dos conversores D/A; Dispositivos periféricos; Desenvolvimento de projetos utilizando microcontroladores; Projetos com microcontrolador empregando conversores A/D e D/A; Atividades de laboratório.
 
-## Objetivos
+## 🎯 Objetivos
 
 - ●
 - Fornecer conhecimentos necessários para analisar e projetar hardware e software de sistemas microcontrolados e suas interfaces
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Principais Características
  - Histórico dos Microcontroladores e Microprocessadores
@@ -75,13 +75,13 @@ Principais características; Tipos de arquiteturas; Memórias internas; Registra
  - iv. Sensores
  - v. Outros Dispositivos
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
 2. GIMENEZ, S. P. Microcontroladores 8051: Teoria e Prática. São Paulo: Erica, 2010.
 3. NICOLOSI, D. E. Microcontrolador 8051: Detalhado. São Paulo: Erica, 2013.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
 2. GIMENEZ, S. P. Microcontroladores 8051. São Paulo: Pearson, 2002.

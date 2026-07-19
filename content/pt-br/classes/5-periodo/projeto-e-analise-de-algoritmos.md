@@ -14,20 +14,20 @@ tags:
 | Período | 5º Período |
 | Pré-requisitos | [CSECBJI.14 - Matemática Discreta](pt-br/classes/2-periodo/matematica-discreta), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](pt-br/classes/4-periodo/algoritmos-e-estruturas-de-dados-ii) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.84 - Geoprocessamento](pt-br/classes/eletivas/geoprocessamento)
 - [CSECBJI.90 - Inteligência Artificial](pt-br/classes/eletivas/inteligencia-artificial)
 
-## Ementa
+## 📋 Ementa
 
 Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limites de Complexidade. Análise de algoritmos iterativos e recursivos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Conhecer as técnicas e formalismos fundamentais para analisar algoritmos
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. [ ] Medidas de Complexidade
 2. [ ] Notação Assintótica
@@ -69,13 +69,13 @@ Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limit
 - **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,
 2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014.
 3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C. São Paulo: Cengage, 2010.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo:
 2. McGrall Hill, 2007.

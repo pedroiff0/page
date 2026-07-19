@@ -14,19 +14,19 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/classes/2-periodo/algebra-linear-e-geometria-analitica-ii), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](pt-br/classes/4-periodo/algoritmos-e-estruturas-de-dados-ii) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.78 - Processamento de Imagens](pt-br/classes/eletivas/processamento-de-imagens)
 
-## Ementa
+## 📋 Ementa
 
 Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de coordenadas e transformações 2D, 3D. Algoritmos de projeção e recorte/visibilidade. Implementação de algoritmos. Tópicos avançados.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar uma visão geral das técnicas de computação gráfica. Capacitar os alunos a projetar soluções envolvendo o uso dessas técnicas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Dispositivos Gráficos
  - Apresentação de Imagens Usando Monitores ou Impressoras
@@ -58,13 +58,13 @@ Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de
  - Iluminação
  - Textura, sombras, reflexão e partículas
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
 2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003
 3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
 2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.

@@ -14,15 +14,15 @@ tags:
 | Período | 2º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais. Ferramentas profissionais na área de química experimental. Teste de chama. Medidas de massa e de volume. Soluções. Reações químicas. Estequiometria. Titulação ácido-base. Termoquímica. Equilíbrio Químico. Cinética Química. Eletroquímica. Grupos funcionais orgânicos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Relacionar as práticas envolvidas nesta disciplina com a teoria abordada na disciplina de Química, de tal forma a contribuir para a aquisição do aprendizado teórico. Somado a isso, adquirir o conhecimento básico sobre as principais ferramentas profissionais utilizadas em um laboratório de química e compreender como a metodologia científica está envolvida desde o planejamento do experimento até a interpretação dos resultados.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Estrutura, funcionamento e noções básicas de segurança em laboratório de química.
 2. Erros e medidas (precisão e exatidão). Incerteza nos resultados experimentais.
@@ -40,13 +40,13 @@ Normas de conduta e procedimentos de segurança em laboratórios de análise qu�
 14. Pilhas eletroquímicas. Eletrólise. Corrosão.
 15. Identificação de grupos funcionais orgânicos. Reatividade de álcoois, aldeídos, cetonas, ácidos carboxílicos e aminas.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BACCAN, N.; ANDRADE, J. C.; GODINHO, O. E. S.; BARONE, J. S. Química Analítica Quantitativa e Elementar. São Paulo: Edgard Blüche, 1998.
 2. MENDHAM, J.; DENNEY, R. C.; BARNES, J. D.; THOMAS, M. J. K. Vogel - Análise Química Quantitativa. 6 ed. Rio de Janeiro: LTC, 2002.
 4. VOGEL, A. I. Química Analítica Qualitativa. ed., São Paulo: Editora Mestre Jou, 1981.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ATKINS, P. Princípios de Química: questionando a vida moderna e o meio ambiente, 5ª ed. Porto Alegre: Bookman, 2012.
 2. FIOROTTO, N. R. Técnicas Experimentais em Química – Normas e Procedimentos. 1 ed. São Paulo:

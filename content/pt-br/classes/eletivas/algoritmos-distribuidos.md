@@ -14,19 +14,19 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.55 - Redes de Computadores I](pt-br/classes/7-periodo/redes-de-computadores-i), [CSECBJI.56 - Sistemas Operacionais I](pt-br/classes/7-periodo/sistemas-operacionais-i) |
 
-## Trancas
+## 🔒 Trancas
 
 - CSECBJI.87
 
-## Ementa
+## 📋 Ementa
 
 Sistemas de troca de mensagens. Processadores de comunicação. Roteamento e controle de fluxo. Programas reativos. Alocação de "buffers". Alocação de processadores. Modelos síncrono e assíncrono de computação. Computações em sistemas anônimos; limitações intrínsecas. Noções de conhecimento em sistemas distribuídos. Eventos, ordens e estados globais. A complexidade de computações distribuídas. Algoritmos para propagação de informação. Algoritmos simples sobre grafos: teste de conectividade e distâncias mais curtas. Eleição de um líder. Técnicas para registrar estados globais. Sincronizadores. Introdução à auto-estabilização. Detecção de terminação. Detecção de "deadlocks". Outros algoritmos sobre grafos: árvores geradoras mínimas e fluxos em redes. Algoritmos para exclusão mútua. "Dining philosophers" e "drinking philosophers". Reexecução determinística de programas. Detecção de "breakpoints". Introdução à simulação distribuída.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Familiarizar o discente com os conceitos, termos e técnicas básicas de algoritmos distribuídos.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução à Computação Paralela e Distribuída
  - Histórico
@@ -50,14 +50,14 @@ Sistemas de troca de mensagens. Processadores de comunicação. Roteamento e con
  - Técnicas Básicas de Otimização
  - Algoritmos Paralelos para Problemas de Busca, Ordenação e Grafos
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
 2. Porto Alegre: Bookman, 2007.
 3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
 4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.

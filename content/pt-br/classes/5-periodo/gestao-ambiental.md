@@ -14,16 +14,16 @@ tags:
 | Período | 5º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo, reciclagem e reaproveitamento. Definição de lixo e poluição. Externalidades negativas. Responsabilidade ambiental. Noções de engenharia de materiais. Gestão de recursos hídricos. Gestão da energia. Certificado ISO 14001. Licenciamento ambiental. Estratégias ambientais para os negócios.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Introduzir conceitos de gestão ambiental com intuito de levar o aluno a pensar sistemicamente e considerar os fatores externos ambientais que influenciam o ambiente interno e os reflexos no meio ambiente em função da ação do homem nas atividades produtivas;
 - Capacitar o aluno para avaliar os empreendimentos do ponto de vista ambiental e compreender a importância da consciência ambiental como estratégia de negócios.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Conceito de Meio Ambiente
 2. Fundamentos de Teoria Geral dos Sistemas
@@ -63,14 +63,14 @@ Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo,
 11. Licenciamento ambiental
 12. Estratégias ambientais para os negócios
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BARBIERI, J.C. Gestão Ambiental Empresarial.
 2. Conceitos, Modelos e Instrumentos. 4ª Edição. São Paulo: Saraiva. 2015.
 3. DIAS, R. Gestão Ambiental: Responsabilidade Social e Sustentabilidade. 3ª Edição. São Paulo: Atlas, 6.
 4. DONAIRE, D., OLIVEIRA, E. C. Gestão Ambiental na Empresa. 3ª Edição. São Paulo: Atlas, 2018.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
 2. Elsevier, 2012.

@@ -14,19 +14,19 @@ tags:
 | Período | 4º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.41 - Avaliação e Desempenho de Sistemas](pt-br/classes/5-periodo/avaliacao-e-desempenho-de-sistemas)
 
-## Ementa
+## 📋 Ementa
 
 Distribuições de Probabilidades.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar ao aluno os conceitos básicos de probabilidades e estatística descritiva que possibilitem a aplicação de métodos estatísticos na análise de problemas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução à Estatística
  - Coleta de Dados em Engenharia
@@ -54,13 +54,13 @@ Distribuições de Probabilidades.
 - **[Estatística I](assets/biblioteca/matematica/estatistica-1-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Estatística Aplicada](assets/biblioteca/matematica/estatistica-aplicada-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. LARSON, R., FARBER, B. Estatística Aplicada. 6ª Edição. São Paulo: Pearson, 2015.
 2. MONTGOMERY, D. C., RUNGE, G. C. Estatística Aplicada e Probabilidade para Engenheiros. 6.ª Edição. Rio de Janeiro: LTC, 2016.
 3. WALPOLE R., MYERS, R., MYERS, S., YE K., Probabilidade & Estatística para Engenharia e Ciências. 8ª Edição. São Paulo: Pearson, 2008.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BUSSAB, W. O., MORETTIN, P. A. Estatística Básica. 9ª Edição. São Paulo: Saraiva, 2017.
 2. DEVORE, J. L. Probabilidade e Estatística para Engenharia e Ciências. 2ª Edição. São Paulo: Cengage,

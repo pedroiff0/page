@@ -14,15 +14,15 @@ tags:
 | Período | 7º Período |
 | Pré-requisitos | [CSECBJI.42 - Análise de Software Orientada a Objetos](pt-br/classes/6-periodo/analise-de-software-orientada-a-objetos) |
 
-## Ementa
+## 📋 Ementa
 
 Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Aprofundar os conhecimentos acerca de projetos de software orientado à objetos;
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Princípios de Projeto Orientado a Objetos
  - Single Responsibility Principle
@@ -65,13 +65,13 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
 - **[Projeto de Sistemas](assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Análise e Projeto de Sistemas](assets/biblioteca/computacao/analise-projeto-sistemas-ifb.pdf)** — IFB, licença Creative Commons.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books,
 2. GAMMA, E., HELM, R., JHONSON, R., VLISSIDES, J. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Porto Alegre: Bookman, 2000.
 3. SILVEIRA, P., SILVEIRA, G., LOPES, S., MOREIRA, G., STEPPAT, N., KUNG, F. Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java. São Paulo: Elsevier, 2011.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017.
 2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier,

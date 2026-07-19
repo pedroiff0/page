@@ -14,18 +14,18 @@ tags:
 | Período | 2º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.22 - Algoritmos e Estruturas de Dados I](pt-br/classes/3-periodo/algoritmos-e-estruturas-de-dados-i)
 - [CSECBJI.25 - Cálculo Numérico](pt-br/classes/4-periodo/calculo-numerico)
 - [CSECBJI.38 - Paradigmas de Linguagem de Programação](pt-br/classes/5-periodo/paradigmas-de-linguagem-de-programacao)
 - [CSECBJI.45 - Programação Orientada a Objetos I](pt-br/classes/6-periodo/programacao-orientada-a-objetos-i)
 
-## Ementa
+## 📋 Ementa
 
 Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exemplos informais de algoritmos. Tipos primitivos de dados. Variáveis e constantes. Expressões aritméticas e operadores aritméticos. Expressões lógicas. Operadores relacionais e lógicos. Tabelas verdade. Comando de atribuição. Comandos de entrada e saída. Seleção simples, composta, encadeada e de múltipla escolha. Estruturas de repetição.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Identificar as diferenças entre algoritmo e programa de computador;
 - Distinguir as etapas necessárias para elaboração de um algoritmo e de um programa de computador;
@@ -34,7 +34,7 @@ Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exempl
 - Relacionar problemas com estruturas semelhantes;
 - Aplicar o raciocínio lógico-dedutivo na criação de programas computacionais em linguagem de Programação C.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução a Algoritmos e Linguagens de Programação:
  - Introdução à organização de computadores;
@@ -74,13 +74,13 @@ Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exempl
 - **[Fundamentos de Lógica e Algoritmo](assets/biblioteca/computacao/fundamentos-logica-algoritmo-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Linguagem C Descomplicada](assets/biblioteca/computacao/linguagem-c-descomplicada-backes.pdf)** (apostila) — Prof. André Backes/UFU, distribuição gratuita.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
 2. PIVA JR, D., NAKAMITI, G. S., ENGELBRECHT, A. M., BIANCHI, F. Algoritmos e Programação de Computadores. São Paulo: Elsevier, 2012.
 3. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
 2. FORBELLONE, A. L., EBERSPACHER, H. Lógica de Programação: A Construção de Algoritmos e Estrutura de dados. 3ª Edição. São Paulo: Pearson, 2005.

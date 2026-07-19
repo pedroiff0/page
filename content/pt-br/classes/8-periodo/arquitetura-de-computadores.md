@@ -14,15 +14,15 @@ tags:
 | Período | 8º Período |
 | Pré-requisitos | [CSECBJI.52 - Organização de Computadores](pt-br/classes/7-periodo/organizacao-de-computadores), [CSECBJI.53 - Sistemas Digitais](pt-br/classes/7-periodo/sistemas-digitais) |
 
-## Ementa
+## 📋 Ementa
 
 Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; Barramentos de computadores pessoais; Interfaceamento via rede; Práticas de laboratório.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Capacitar o aluno, através do conhecimento básico da arquitetura IA-32/IA-64, a interfacear e integrar novos projetos e produtos dentro dessa arquitetura que é a base da maioria dos computadores pessoais modernos.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Arquitetura IA-32 / IA-64
  - Operação em Modelo Real
@@ -51,13 +51,13 @@ Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; 
 
 - **[Organização e Arquitetura de Computadores](assets/biblioteca/computacao/organizacao-arquitetura-computadores-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
 2. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
 3. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
 2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.

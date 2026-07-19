@@ -14,21 +14,21 @@ tags:
 | Período | 5º Período |
 | Pré-requisitos | [CSECBJI.3 - Lógica para Computação](pt-br/classes/1-periodo/logica-para-computacao) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.44 - Banco de Dados](pt-br/classes/6-periodo/banco-de-dados)
 
-## Ementa
+## 📋 Ementa
 
 Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenciador de Banco de Dados. Modelo Entidade Relacionamento. Normalização e Dependências Funcionais. Modelo Relacional. Álgebra Relacional e Cálculo Relacional. Projeto e Implementação de Bancos de Dados.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Modelar conceitualmente os requisitos informacionais de um sistema de informação;
 - Conhecer e aplicar modelos e técnicas de projeto e implementação de banco de dados;
 - .
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. [x] Evolução Histórica dos Sistemas de Informação
 2. [x] Conceitos Básicos de um Sistema Gerenciador de Banco de Dados (SGBDs)
@@ -64,7 +64,7 @@ Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenc
 
 - **[Introdução a Banco de Dados](assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004.
 2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008.
@@ -72,7 +72,7 @@ Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenc
 4. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ:
 5. Elsevier, 2012.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012.
 2. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015.

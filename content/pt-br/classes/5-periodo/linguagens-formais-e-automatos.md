@@ -14,21 +14,21 @@ tags:
 | Período | 5º Período |
 | Pré-requisitos | [CSECBJI.14 - Matemática Discreta](pt-br/classes/2-periodo/matematica-discreta) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.48 - Compiladores](pt-br/classes/6-periodo/compiladores)
 
-## Ementa
+## 📋 Ementa
 
 Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. Máquina de turing. Problema da parada. Noções de cálculo lambda e funções recursivas.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Aprender a formalizar problemas computacionais através de linguagens formais, autômatos e máquina de Turing;
 - Compreender o funcionamento de tais sistemas e modelos formais;
 - Estudar e compreender conceitos de teoria da computação.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Linguagens Regulares
 2. Linguagens Livres de Contexto
@@ -46,14 +46,14 @@ Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. M
 7. Noções de Cálculo-Lambda
 8. Funções Recursivas
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. DIVERIO, T. A., MENEZES, Paulo. B. Teoria da Computação: máquinas universais e computabilidade. 3ª Edição. Porto Alegre: Bookman. 2011.
 2. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição.
 3. LTC, 2016.
 4. ROSEN, Kenneth H. Matemática Discreta e suas Aplicações. 6ª Edição. São Paulo: McGraw-Hill Brasil.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. HOPCROFT, J. E., ULLMAN, J. D., MOTWANI, R. Introdução à teoria de autômatos, linguagens e computação. 2ª Edição. Rio de Janeiro: Campus. 2003.
 2. MENEZES, P. B. Linguagens Formais e Autômatos. 6ª Edição. Porto Alegre: Bookman. 2011.

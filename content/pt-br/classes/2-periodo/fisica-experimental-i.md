@@ -14,15 +14,15 @@ tags:
 | Período | 2º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Conservação da Energia Mecânica.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Algarismos Significativos – cálculo do valor de $\pi$;
 2. Softwares de tratamento de dados;
@@ -34,13 +34,13 @@ Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceit
 8. Energia Mecânica e sua Conservação;
 9. Conservação de momento.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
 3. LTC, 2016. Vol.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
 2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.

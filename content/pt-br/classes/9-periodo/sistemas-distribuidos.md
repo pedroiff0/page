@@ -14,15 +14,15 @@ tags:
 | Período | 9º Período |
 | Pré-requisitos | [CSECBJI.55 - Redes de Computadores I](pt-br/classes/7-periodo/redes-de-computadores-i), [CSECBJI.56 - Sistemas Operacionais I](pt-br/classes/7-periodo/sistemas-operacionais-i) |
 
-## Ementa
+## 📋 Ementa
 
 Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança; Middewares para Aplicações Distribuídas; Transações Distribuídas e Controle de Concorrência.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Conhecer e aplicar conceitos e tecnologias de Sistemas Distribuídos
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Conceito de Sistemas Distribuídos
  - Definição e Principais Características de Sistemas Distribuídos
@@ -62,14 +62,14 @@ Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sinc
 13. Controle de concorrência
 14. Impasses
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
 2. Porto Alegre: Bookman, 2007.
 3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
 4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.

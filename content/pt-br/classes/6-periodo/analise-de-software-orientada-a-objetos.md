@@ -14,21 +14,21 @@ tags:
 | Período | 6º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.50 - Projeto de Software Orientado a Objetos](pt-br/classes/7-periodo/projeto-de-software-orientado-a-objetos)
 
-## Ementa
+## 📋 Ementa
 
 Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de Modelagem Unificada; Modelagem de Negócio; Análise de Requisitos; Modelagem de Casos de Uso; Modelagem Conceitual; Modelagem Funcional; Projeto de Software Orientado a Objetos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender os conceitos da Análise e Projeto Orientado a Objetos;
 - Analisar problemas reais e produzir modelos orientados a objetos utilizando UML;
 - Projetar soluções computacionais criando modelos orientados a objetos utilizando UML.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução
  - Desenvolvimento de Sistemas Orientados a Objetos
@@ -107,13 +107,13 @@ Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de M
 - **[Análise e Projeto de Sistemas](assets/biblioteca/computacao/analise-projeto-sistemas-ifb.pdf)** — IFB, licença Creative Commons.
 - **[Análise de Sistemas](assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BEZERRA, E. Princípios de Análise e Projetos de Sistemas com UML. 3ª Edição. São Paulo: Elsevier, 2014.
 2. LARMAN, G. Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientado a Objetos e ao Desenvolvimento Iterativo. 3ª Edição. Porto Alegre: Bookman, 2006.
 3. WAZLAWICK, R. Análise e Design Orientados a Objetos para Sistemas de Informação: Modelagem com UML, OCL e IFML. 3ª Edição. São Paulo: Elsevier, 2014.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017.
 2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier, 2006.

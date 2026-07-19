@@ -14,20 +14,20 @@ tags:
 | Período | 2º Período |
 | Pré-requisitos | [CSECBJI.4 - Cálculo I](pt-br/classes/1-periodo/calculo-i), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](pt-br/classes/1-periodo/algebra-linear-e-geometria-analitica-i) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.19 - Física II](pt-br/classes/3-periodo/fisica-ii)
 - [CSECBJI.21 - Mecânica dos Sólidos](pt-br/classes/3-periodo/mecanica-dos-solidos)
 
-## Ementa
+## 📋 Ementa
 
 Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar aos alunos os conceitos fundamentais do estudo da mecânica.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Movimento em uma dimensão
  - Velocidade média e instantânea – modelos de análise;
@@ -83,13 +83,13 @@ Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conserva
 
 - **[Fundamentos de Física](assets/biblioteca/fisica/fundamentos-de-fisica-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALLIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
 3. LTC, 2016. Vol.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
 2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.

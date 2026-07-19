@@ -14,20 +14,20 @@ tags:
 | Período | 7º Período |
 | Pré-requisitos | [CSECBJI.1 - Fundamentos de Computação](pt-br/classes/1-periodo/fundamentos-de-computacao) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.61 - Arquitetura de Computadores](pt-br/classes/8-periodo/arquitetura-de-computadores)
 - [CSECBJI.62 - Microcontroladores](pt-br/classes/8-periodo/microcontroladores)
 
-## Ementa
+## 📋 Ementa
 
 Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dispositivos de Entrada/Saída
 
-## Objetivos
+## 🎯 Objetivos
 
 - Proporcionar conhecimentos introdutórios e essenciais de teoria e prática em Arquitetura e Organização de Computadores, bem como possibilitar ao aluno embasamento para as disciplinas seguintes do curso.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Arquitetura Básica de Processador
  - Unidade Central de Processamento
@@ -55,13 +55,13 @@ Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dis
 
 - **[Organização e Arquitetura de Computadores](assets/biblioteca/computacao/organizacao-arquitetura-computadores-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
 2. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
 3. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
 2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.

@@ -14,16 +14,16 @@ tags:
 | Período | 9º Período |
 | Pré-requisitos | [CSECBJI.62 - Microcontroladores](pt-br/classes/8-periodo/microcontroladores) |
 
-## Ementa
+## 📋 Ementa
 
 Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementação. Programação concorrente. Núcleos operacionais. Escalonamento.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar os conceitos, problemas e soluções típicas no desenvolvimento de sistemas computacionais embarcados, incluindo os que operam em tempo real.
 - Realizar o processo de desenvolvimento de um sistema em tempo real, em laboratório, desde a sua especificação até o teste final.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Sistemas de Tempo Real
  - Caracterização de Sistemas Embarcados Operando em Tempo Real;
@@ -47,14 +47,14 @@ Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementaçã
  - Escalonamento em Taxa Monotônica
  - Modelagem Matemática de Escalonadores
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
 2. DENARDIN, G. W. Sistemas Operacionais de Tempo Real e sua Aplicação em Sistemas Embarcados.
 3. São Paulo: 2019.
 4. SHAW, A. C. Sistemas e Software de Tempo Real. Porto Alegre: Bookman, 2003.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
 2. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.

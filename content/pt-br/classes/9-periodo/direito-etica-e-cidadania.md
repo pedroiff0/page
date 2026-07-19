@@ -14,11 +14,11 @@ tags:
 | Período | 9º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação dos novos aspectos e relações jurídicas da sociedade da informação. Análise das principais manifestações do direito digital e eletrônico nos ramos do direito. Introdução aos mecanismos de governança da internet no Brasil e no mundo. Regulação do ambiente online e o Marco Civil da Internet. Direitos e deveres no ciberespaço. Responsabilidade de usuários, provedores e governo. Inovação nas tecnologias de informação e comunicação. Propriedade intelectual na era digital. Acessibilidade, inclusão digital e ciberativismo. Profissional de computação. Princípios de conduta ética e profissional do engenheiro de software. Propriedade intelectual e pirataria. Privacidade. Responsabilidade social. O que é ética; Código de ética da ACM e IEEE. Direitos autorais e estudos de casos sobre ética na computação. Ética na internet: liberdade de informação, privacidade e censura.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Correlacionar, de forma interdisciplinar, o Direito com a Engenharia de Computação, levando o estudante a compreender a presença do Direito em sua vida pessoal e profissional, assim como em questões contemporâneas que envolvem ética e cidadania;
 - Aprofundar a reflexão sobre a ética, dedicando-se aos estudos sobre valores morais e princípios ideais do comportamento humano, abordando o caráter e a conduta humana, bem como a ética enquanto instrumento mediador das questões de relacionamento entre cidadãos;
@@ -27,7 +27,7 @@ Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação 
 - Tratar de leis e códigos de ética no âmbito da Engenharia de Computação, destacando os aspectos jurídicos (legais e jurisprudenciais) pertinentes, em consonância com as diretrizes constitucionais e seus princípios norteadores;
 - Realizar palestras, rodas de conversa e seminários sobre situações concretas que envolvem Direito, ética, cidadania e computação.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução ao Direito, Estado Democrático de Direito e Cidadania:
  - Concepções de Direito; Teoria Tridimensional do Direito; Direito Positivo e Direito Consuetudinário; Hermenêutica.
@@ -51,7 +51,7 @@ Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação 
  - Breve História do Brasil: desigualdades e luta por direitos; mitigação das desigualdades sociais e políticas afirmativas; cultura e relações étnico-raciais no Brasil.
  - Internet, redes sociais, globalização e cultura no viés da cidadania; inclusão digital; software livre x software proprietário; educação e ferramentas tecnológicas; conceitos de cultura, multiculturalismo, identidade, pertencimento, etnia, racismo, etnocentrismo e preconceito racial; formas de preconceito e discriminação étnico-raciais socialmente construídas, assim como busca de estratégias que permitam eliminá-las das representações sociais e coletivas.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. DI FELICE, M. A Cidadania Digital: a crise da ideia ocidental de democracia e a participação nas redes sociais São Paulo; Paulus, 2021.
 2. QUARESMA, R. A. Ética, direito e cidadania: Brasil sociopolítico e jurídico atual. Curitiba:Juruá Editora, 2008.
@@ -63,7 +63,7 @@ Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação 
 8. ª ed. São Paulo: Saraiva, 2021.
 9. ROVER, A. J. (org). Direito e Informática. São Paulo: Manole, 2004.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BARCELLOS, A. P. A eficácia jurídica dos princípios constitucionais: o princípio da dignidade da pessoa humana. Rio de Janeiro: Renovar, 2002.
 2. BARROS FILHO, Clóvis de; POMPEU, Júlio. A Filosofia Explica as Grandes Questões da Humanidade.

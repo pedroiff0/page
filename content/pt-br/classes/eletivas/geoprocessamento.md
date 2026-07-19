@@ -14,16 +14,16 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/classes/5-periodo/projeto-e-analise-de-algoritmos) |
 
-## Ementa
+## 📋 Ementa
 
 Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Métodos de abstração, conversão e estruturação em SIG. Potencial das técnicas de geoprocessamento para a representação de fenômenos e modelos ambientais. Instrumentalização de técnicas do geoprocessamento. Atividades práticas.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Entender as diferenças entre os tipos de dados georreferenciados e como integrá-los em uma base de dados geográfica.
 - Conhecer e aplicar as técnicas de geoprocessamento a fim de realizar análises ambientais com o apoio de sistemas computacionais.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Bases Conceituais e Teóricas
  - Fundamentos Teóricos de Geoprocessamento
@@ -59,13 +59,13 @@ Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Mé
  - Delimitação de bacias
  - Análises multitemporais
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
 2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.
 3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher,
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017.
 2. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos,

@@ -14,19 +14,19 @@ tags:
 | Período | 5º Período |
 | Pré-requisitos | [CSECBJI.26 - Física III](pt-br/classes/4-periodo/fisica-iii) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.82 - Energia e Eficiência Energética](pt-br/classes/eletivas/energia-e-eficiencia-energetica)
 
-## Ementa
+## 📋 Ementa
 
 Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. Fornecimento de energia elétrica. Normas técnicas e órgãos reguladores. Automação e controle de processos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Proporcionar ao aluno conhecimentos básicos sobre energia elétrica objetivando melhor utilizá-las no meio industrial, bem como estudar os equipamentos elétricos e eletrônicos e iluminação na indústria.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. [ ] Análise de Circuitos Em Corrente Alternada
  - [x] Padrões Elétricos e Convenções;
@@ -60,14 +60,14 @@ Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. 
 - **[Fundamentos de Eletricidade](assets/biblioteca/eletroeletronica/fundamentos-eletricidade-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Noções Básicas de Eletrotécnica](assets/biblioteca/eletroeletronica/nocoes-eletrotecnica-ifpa.pdf)** — e-Tec Brasil/IFPA. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ALEXANDER, C. K., SADIKU, M. Fundamentos de Circuitos Elétricos. 5ª Edição. Porto Alegre:
 2. Bookman, 2013.
 3. NILSSON, J. W., RIEDEL, S. A. Circuitos Elétricos. 10ª Edição. São Paulo: Pearson, 2015.
 4. NAHVI, M., EDMINISTER, J. Circuitos Elétricas. 5ª Edição. Porto Alegre: Bookman, 2014.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. GUSSOW, M. Eletricidade Básica. 2ª Edição. Porto Alegre: Bookman, 2008.
 2. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:

@@ -14,21 +14,21 @@ tags:
 | Período | 2º Período |
 | Pré-requisitos | [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](pt-br/classes/1-periodo/algebra-linear-e-geometria-analitica-i) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.77 - Computação Gráfica](pt-br/classes/eletivas/computacao-grafica)
 - [CSECBJI.85 - Modelagem Ambiental](pt-br/classes/eletivas/modelagem-ambiental)
 - [CSECBJI.88 - Pesquisa Operacional I](pt-br/classes/eletivas/pesquisa-operacional-i)
 
-## Ementa
+## 📋 Ementa
 
 Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores autoadjuntos e ortogonais. Valores e vetores próprios. Formas Quadráticas, Cônicas e Quadráticas.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Aprofundar os estudos em transformações lineares, abordando a mudança de base, matrizes semelhantes, autovalores, autovetores e diagonalização de matrizes. Na geometria analítica é auxílio para encontrar formas canônicas de cônicas e quádricas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Transformações Lineares
  - Transformações lineares;
@@ -54,7 +54,7 @@ Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores au
  - Forma quadrática no espaço;
  - Classificação de quádricas.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear.
 2. ª Edição. São Paulo: Harbra, 1984.
@@ -62,7 +62,7 @@ Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores au
 4. STEINBRUCH, A., WINTERLE, P. Álgebra Linear.
 5. ª Edição. São Paulo: Pearson, 1995.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
 2. LAY, D. C., LAY, S. R.

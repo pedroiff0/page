@@ -14,18 +14,18 @@ tags:
 | Período | 1º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Utilização de instrumentos de desenho; Normas para desenho; Desenho geométrico; Projeções ortogonais; Perspectiva isométrica; Dimensionamento e cotagem; Cortes e secções.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Capacitar os alunos para interpretação e confecção de desenhos técnicos;
 - Desenvolver raciocínio espacial;
 - Adquirir conhecimentos e normas, técnicos, para confecção e leitura de desenhos;
 - Introduzir conceitos de computação gráfica.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Utilização de instrumentos de desenho;
 2. Normas para desenho;
@@ -63,13 +63,13 @@ Utilização de instrumentos de desenho; Normas para desenho; Desenho geométric
  - Linha de corte AB e CD;
  - Identificação de hachuras pela ABNT.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. PEREIRA, Patrícia; MICELI M.T. Desenho Técnico Básico. Rio de Janeiro: LTC, 2008.
 2. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. São Paulo: Pearson, 2013.
 3. SILVA, A., RIBEIRO, C. T., DIAS, J., SOUZA, L. Desenho Técnico Moderno. 4ª Edição. Rio de Janeiro: LTC,
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. LEAKE, J. M., BORGERSON, J. L. Manual de Desenho Técnico para Engenharia: Desenho, Modelagem e Visualização. 2ª Edição. Rio de Janeiro: LTC, 2014.
 2. MORIOKA, C. A., CRUZ, M. D., CRUZ, E. C. Desenho Técnico: Medidas e Representação Gráfica. São Paulo: Editora Érica, 2014.

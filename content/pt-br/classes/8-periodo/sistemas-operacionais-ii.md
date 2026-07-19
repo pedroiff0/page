@@ -14,15 +14,15 @@ tags:
 | Período | 8º Período |
 | Pré-requisitos | [CSECBJI.56 - Sistemas Operacionais I](pt-br/classes/7-periodo/sistemas-operacionais-i) |
 
-## Ementa
+## 📋 Ementa
 
 Sistemas de Arquivos; Entrada/Saída; Deadlocks.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Aprofundar os conhecimentos acerca das estruturas de um sistema operacional.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Sistemas de Arquivos
  - Arquivos
@@ -52,13 +52,13 @@ Sistemas de Arquivos; Entrada/Saída; Deadlocks.
 
 - **[Sistemas Operacionais II](assets/biblioteca/computacao/sistemas-operacionais-2-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
 3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
 2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.

@@ -14,15 +14,15 @@ tags:
 | Período | 3º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; Desenvolvimento Sustentável.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Desenvolver a compreensão sobre os principais conceitos envolvidos e fundamentos ecológicos relacionados ao estudo da disciplina ciências do ambiente, mostrando a importância do estudo ao futuro profissional, capacitando-o de forma contextualizada com a profissão.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Conceitos Básicos
  - A crise ambiental
@@ -57,7 +57,7 @@ Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; 
 
 - **[Ciências Ambientais para Engenharia](assets/biblioteca/ciencias/ciencias-ambientais-para-engenharia.pdf)** — distribuído pelos autores no [ResearchGate](https://www.researchgate.net/publication/267034760).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BRAGA, B., HESPANHOL, I., CONEJO, J. G. L., MIERZWA, J. C., BARROS, M. T. L., CAPAZ, R. S., NOGUEIRA, L. H. Ciências Ambientais para Engenharia. São Paulo: Elsevier, 2014.
 2. FANTINATTI, P., ZUFFO, A., ARGOLLO, A. F. Indicadores de Sustentabilidade em Engenharia. São Paulo: Elsevier, 2014.
@@ -66,7 +66,7 @@ Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; 
 5. JULIANO, N.
 6. ELGER, S. Introdução à engenharia ambiental: O Desafio do Desenvolvimento Sustentável. São Paulo: Pearson, 2005.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BOTKIN, D. B., KELLER, E. A. Ciência Ambiental: Terra, um Planeta Vivo. 7ª Edição. Rio de Janeiro, LTC, 2011.
 2. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:

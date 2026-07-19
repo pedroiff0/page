@@ -14,15 +14,15 @@ tags:
 | Período | 4º Período |
 | Pré-requisitos | [CSECBJI.17 - Cálculo III](pt-br/classes/3-periodo/calculo-iii) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.83 - Processamento de Sinais](pt-br/classes/eletivas/processamento-de-sinais)
 
-## Ementa
+## 📋 Ementa
 
 Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Singularidades e séries de Laurent. Resíduos e polos. Integração complexa. Teorema de Cauchy-Goursat. Teorema do resíduo. Transformada de Laplace. Séries de Fourier. Transformada de Fourier.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender e aplicar os principais resultados sobre séries de potências que representam funções reais;
 - Adquirir noções de funções de variável complexa;
@@ -30,7 +30,7 @@ Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Sing
 - Classificar singularidades e calcular resíduos de funções de variável complexa;
 - Aplicar o cálculo de resíduos à obtenção da transformada inversa de Laplace;
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Sequências e séries
  - Definições e notações;
@@ -75,13 +75,13 @@ Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Sing
  - Definição e propriedades;
  - Aplicações.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 10.ª Edição Rio de Janeiro: LTC, 2015.
 2. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 4. 3ª Edição. Rio de Janeiro: LTC, 2018
 3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
 2. BROWN, J. W., CHURCHIL, R. V. Variáveis Complexas e Aplicações. 9ª Edição. São Paulo: McGraw Hill, 2015.

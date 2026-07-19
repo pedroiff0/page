@@ -14,15 +14,15 @@ tags:
 | Período | 6º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O progresso científico. O progresso tecnológico. Civilização tecnológica. Ciência, Tecnologia e Humanismo.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Problematizar e contextualizar a crise da Ciência Moderna e das concepções dominantes de tecnologia, fazendo a crítica ao paradigma científico dominante.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Teoria do conhecimento: arte, técnica, ciência e engenharia
  - Definição e contextualização sobre a condição humana
@@ -38,14 +38,14 @@ Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O p
  - O questionamento do paradigma científico e as polêmicas emergentes
  - O Contexto do século XXI
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. CHAUI, M. S. Convite à filosofia. 14. ed. São Paulo: Ática, 2011.
 2. LATOUR, Bruno. Ciência em ação: como seguir cientistas e engenheiros sociedade afora. São Paulo:
 3. Ed. UNESP, 2000.
 4. MORIN, E. Ciência com consciência. 11. ed. Rio de Janeiro: Bertrand Brasil, 2008.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ARANHA, M. L. A.; MARTINS, M. H. P. Filosofando: introdução à filosofia. 4. ed. rev. São Paulo:
 2. Moderna, 2009.

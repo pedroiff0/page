@@ -14,19 +14,19 @@ tags:
 | Período | 2º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.23 - Introdução à Ciência dos Materiais](pt-br/classes/3-periodo/introducao-a-ciencia-dos-materiais)
 
-## Ementa
+## 📋 Ementa
 
 Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Químicas. Introdução à Termodinâmica Química. Termoquímica, Combustíveis e Combustão. Equilíbrio Químico. Cinética Química. Eletroquímica. Noções de Química Orgânica.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Rever e aprofundar os conceitos relativos aos constituintes básicos da matéria permitindo uma avaliação das características físicas e químicas das substâncias e dos materiais, de tal forma a capacitar o aluno para reconhecer a importância da química na vida cotidiana, como também sua aplicação em outros domínios.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Estrutura da matéria:
  - Esquemas básicos da química: sistema, matéria, propriedades, energia e transformações;
@@ -76,13 +76,13 @@ Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Q
  - As funções orgânicas;
  - Introdução aos polímeros.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ATKINS, P., JONES, L., LAVERMANM L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 7ª Edição. Porto Alegre: Bookman, 2018.
 2. KOTZ, J., TREICHEL, P. M., TOWNSEND, J., TREICHEL, D. Química Geral e Reações Químicas: Volume 1 e 2. 3ª Edição. São Paulo: Cengage Learning, 2015.
 3. RUSSEL, J. B. Química Geral: Volume 1 e 2. 2ª Edição. São Paulo: Pearson, 1994.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BRADY, J. E., RUSSEL, J. W., HOLUM, J. R. Química: A Matéria e Suas Transformações.
 2. ª ed., vol. 1 e 2, Rio de Janeiro: LTC, 2009 BROWN, T. L., LEMAY, H. E., BURSTEN, B. E., BURDGE, J. R. Química: A Ciência Central. 10ª Edição.

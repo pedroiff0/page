@@ -14,16 +14,16 @@ tags:
 | Período | 8º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (NR-5), Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho – Sesmt (NR-4), Equipamento de Proteção Individual (NR-6), Programa de Controle Médico de Saúde Ocupacional – Pcmso (NR-7), Programa de Prevenção de Riscos Ambientais – Ppra (NR-9), Segurança em Instalações e Serviços em Eletricidade (NR-10), Atividades e Operações Insalubres (NR-15), Atividades e Operações Perigosas (NR-16), Proteção Contra Incêndio (NR23).
 
-## Objetivos
+## 🎯 Objetivos
 
 - Identificar os conceitos básicos de Higiene e Segurança do Trabalho, bem como sua aplicação tanto em estudo de casos como em situações cotidianas;
 - Demonstrar a importância das Normas e Legislações pertinentes à HST.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução à Segurança no Trabalho
 2. Comissão Interna de Prevenção de Acidentes – CIPA (NR-5)
@@ -59,13 +59,13 @@ Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (
  - Classe de Incêndio
  - Agentes e tipos de Extintores
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BARSANO, P. R., BARBOSA, R. P. Higiene e Segurança do Trabalho. 2ª Edição. São Paulo: Erica, 2018.
 2. ______. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018.
 3. CAMISASSA, M. Q. Segurança e Saúde no Trabalho: NRs 1 a 36 Comentadas e Descomplicadas. 5ª Edição. São Paulo: Método, 2018.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BARBOSA, R. P. Avaliação de Risco e Impacto Ambiental. São Paulo: Erica, 2014.
 2. CARDELLA, B. Segurança no Trabalho e Prevenção de Acidentes: Uma Abordagem Holística. 2ª Edição. Rio de Janeiro: LTC, 2016.

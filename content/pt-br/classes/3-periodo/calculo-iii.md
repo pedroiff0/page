@@ -14,23 +14,23 @@ tags:
 | Período | 3º Período |
 | Pré-requisitos | [CSECBJI.9 - Cálculo II](pt-br/classes/2-periodo/calculo-ii) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.26 - Física III](pt-br/classes/4-periodo/fisica-iii)
 - [CSECBJI.31 - Cálculo IV](pt-br/classes/4-periodo/calculo-iv)
 
-## Ementa
+## 📋 Ementa
 
 Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss;
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender os conceitos, procedimentos e técnicas do Cálculo III, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação;
 - Utilizar os conhecimentos e técnicas do Cálculo III na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários;
 - Desenvolver a capacidade de interpretar e criticar resultados obtidos;
 - Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Funções a valores vetoriais
  - Definições, limite e continuidade
@@ -66,7 +66,7 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 
 - **[Cálculo III](assets/biblioteca/matematica/calculo-3-livro-aberto.pdf)** — livro aberto (licença Creative Commons).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
 2. ______. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
@@ -74,7 +74,7 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 4. ______. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
 5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro:
 2. Ciência Moderna, 2013.

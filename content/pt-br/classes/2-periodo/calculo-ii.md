@@ -14,23 +14,23 @@ tags:
 | Período | 2º Período |
 | Pré-requisitos | [CSECBJI.4 - Cálculo I](pt-br/classes/1-periodo/calculo-i) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.17 - Cálculo III](pt-br/classes/3-periodo/calculo-iii)
 - [CSECBJI.19 - Física II](pt-br/classes/3-periodo/fisica-ii)
 
-## Ementa
+## 📋 Ementa
 
 Aplicações da integral definida; Integrais impróprias; Funções de várias variáveis; Derivadas parciais; Aplicações das derivadas parciais; Integração múltipla.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender os conceitos, procedimentos e técnicas do Cálculo II, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação;
 - Utilizar os conhecimentos e técnicas do Cálculo II na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários;
 - Desenvolver a capacidade de interpretar e criticar resultados obtidos;
 - Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Aplicações da Integral Definida
  - Cálculo de área;
@@ -55,13 +55,13 @@ Aplicações da integral definida; Integrais impróprias; Funções de várias v
  - Integrais duplas;
  - Integrais triplas.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. GUIDORIZZI, H. Um Curso de Cálculo Diferencial e Integral: Volume II. Rio de Janeiro: LTC, 2018.
 2. LEITHOLD, L. Cálculo com Geometria Analítica. 3ª Edição. São Paulo: Harbra, 1994. Vol.
 3. MUNEM, M. A.; FOULIS, D.J. Cálculo. Rio de Janeiro: LTC, 1982. Vol.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I. 10ª Edição. Porto Alegre: Bookman, 2014 FLEMMING, D. M., GONÇALVES, M. B. Cálculo B: Funções de Várias Variáveis, Integrais Múltiplas, Integrais Curvilíneas e de Superfície. 2ª Edição. São Paulo: Pearson, 2007.
 2. STEWART, J. Cálculo. 8ª Edição. São Paulo: Cengage Learning, 2017. Vol.

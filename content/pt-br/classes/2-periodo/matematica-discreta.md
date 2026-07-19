@@ -14,20 +14,20 @@ tags:
 | Período | 2º Período |
 | Pré-requisitos | [CSECBJI.3 - Lógica para Computação](pt-br/classes/1-periodo/logica-para-computacao) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/classes/5-periodo/projeto-e-analise-de-algoritmos)
 - [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/classes/5-periodo/linguagens-formais-e-automatos)
 
-## Ementa
+## 📋 Ementa
 
 Teoria dos conjuntos, relações e funções, indução e recursão, análise combinatória, teoria dos números, teoria dos grafos e árvores.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Fornecer aos alunos conhecimento das principais técnicas de matemática discreta e sua relação com a Computação.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Teoria dos Conjuntos:
  - Tipos de Conjuntos;
@@ -71,13 +71,13 @@ Teoria dos conjuntos, relações e funções, indução e recursão, análise co
 
 - **[Fundamentos de Lógica Matemática](assets/biblioteca/computacao/fundamentos-logica-matematica-uab.pdf)** — UAB.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016.
 2. MENEZES, P. B. Matemática Discreta para Computação e Informática. 4ª Edição. Bookman, 2013.
 3. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. HUNTER, D. J. Fundamentos da Matemática Discreta. Rio de Janeiro: LTC, 2011.
 2. LIPSCHUTZ, S; LIPSON, M. Matemática Discreta. 3ª Edição. São Paulo: Bookman, 2013.

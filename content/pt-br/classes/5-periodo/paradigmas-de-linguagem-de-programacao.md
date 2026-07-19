@@ -14,19 +14,19 @@ tags:
 | Período | 5º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.45 - Programação Orientada a Objetos I](pt-br/classes/6-periodo/programacao-orientada-a-objetos-i)
 
-## Ementa
+## 📋 Ementa
 
 Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros; encapsulamento; sistema de tipos; sequenciadores; concorrência. Paradigmas: imperativo, funcional, lógico, orientado a objetos e paradigmas híbridos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender os principais conceitos e paradigmas das linguagens de programação permitindo a seleção de uma linguagem mais adequada para solução de um dado problema.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Visão Geral de Linguagens de Programação
  - Conceito e Paradigmas
@@ -67,13 +67,13 @@ Visão geral de linguagens de programação: valores e tipos; variáveis e coman
  - Programação Lógico
  - Paradigmas híbridos
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. SEBESTA, R. W. Conceitos de Linguagens de Programação. 11ª Edição. Porto Alegre: Bookman, 2018.
 2. TUCKER, A. B., NOOMAN, R. Linguagens de Programação: Princípios e Paradigmas. 2ª Edição. São Paulo: McGraw Hill, 2009.
 3. WAMPLER, D. Programação Funcional para Desenvolvedores Java. São Paulo: Novatec, 2012.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. DONOVAN, A. A. A., KERNIGHAN, B. W. A Linguagem de Programação GO. São Paulo: Novatec, 2017.
 2. DOSXEY, C. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis. São Paulo:

@@ -14,15 +14,15 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fio; Solução Problemas de OSPF de Área Única; OSPF Multiárea; EIGRP; Solução de Problemas de EIGRP
 
-## Objetivos
+## 🎯 Objetivos
 
 - Desenvolver o conhecimento e as habilidades necessárias para implementar operações de redes complexas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Dimensionamento de Redes
 2. Redundância de LAN
@@ -33,14 +33,14 @@ Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fi
 7. EIGRP
 8. Solução de Problemas de EIGRP
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
 3. Pearson, 2013.
 4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
 2. CARISSIMI, A. S., ROCHOL, J.

@@ -14,20 +14,20 @@ tags:
 | Período | 3º Período |
 | Pré-requisitos | [CSECBJI.9 - Cálculo II](pt-br/classes/2-periodo/calculo-ii), [CSECBJI.11 - Física I](pt-br/classes/2-periodo/fisica-i) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.26 - Física III](pt-br/classes/4-periodo/fisica-iii)
 - [CSECBJI.28 - Fenômenos de Transporte](pt-br/classes/4-periodo/fenomenos-de-transporte)
 
-## Ementa
+## 📋 Ementa
 
 Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da termodinâmica; Teoria cinética dos gases; Entropia; 2.ª lei da termodinâmica.
 
-## Objetivos
+## 🎯 Objetivos
 
 - ● Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas;
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Oscilações
  - Equação diferencial de um MHS, método de solução;
@@ -63,14 +63,14 @@ Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da ter
  - Entropia e reversibilidade;
  - Uma interpretação estatística para entropia.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. RESNICK, R., WALKER, J.
 2. HALLIDAY, D. Fundamentos de Física – Volume 2 – Gravitação, Ondas e Termodinâmica. 10ª Edição. Rio de Janeiro, LTC, 2016.
 3. SERWAY, R., JEWETT, J. Princípios de Física – Volume II – Oscilações, Ondas e Termodinâmica. 2ª Edição. São Paulo: Cengage Learning, 2014.
 4. YOUNG, H. D., FREEDMAN, R.A. Física II: Termodinâmica e Ondas. 14ª Edição. São Paulo: Pearson, 2015. Vol. 2.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 2: Oscilações, Ondas e Termodinâmica. 9ª Edição. São Paulo: Cengage Learning, 2017.
 2. NUSSENZVEIG, H. M. Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor. 5ª Edição. São Paulo: Blucher, 2014.

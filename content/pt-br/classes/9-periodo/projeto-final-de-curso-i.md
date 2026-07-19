@@ -14,19 +14,19 @@ tags:
 | Período | 9º Período |
 | Pré-requisitos | [CSECBJI.64 - Metodologia Científica e Tecnológica](pt-br/classes/8-periodo/metodologia-cientifica-e-tecnologica) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.74 - Projeto Final de Curso II](pt-br/classes/10-periodo/projeto-final-de-curso-ii)
 
-## Ementa
+## 📋 Ementa
 
 Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de Elaboração de Documentos Técnicos; Técnicas de Criatividade; Orientação sobre Preparação e Apresentação de Palestra; Técnicas de Subdivisão de Trabalho; Estabelecimento de Cronograma; Orçamento de Projeto; Desenvolvimento do Projeto de Fim de Curso.
 
-## Objetivos
+## 🎯 Objetivos
 
 - rientar o aluno no desenvolvimento do projeto final
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Metodologia de Planejamento;
 2. Orientação de Pesquisa Bibliográfica;
@@ -45,14 +45,14 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 - **[Orientação à Prática Profissional e Pesquisa](assets/biblioteca/computacao/orientacao-pratica-profissional-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **Guias de normalização ABNT** — bibliotecas da [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e da [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf), distribuição gratuita.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo: Atlas, 2017.
 2. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
 3. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo:
 4. Elsevier, 2014.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto. 3ª Edição. Porto Alegre: São Paulo, 2010.
 2. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.

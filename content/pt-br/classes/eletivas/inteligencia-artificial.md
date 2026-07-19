@@ -14,16 +14,16 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/classes/5-periodo/projeto-e-analise-de-algoritmos) |
 
-## Ementa
+## 📋 Ementa
 
 Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos de busca. Heurísticas. Conhecimento e raciocínio. Tópicos avançados.Aplicações de IA-Inteligência Artificial.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender os diferentes paradigmas que embasam as aplicações da IA. Entender os principais
 - bjetivos e as limitações da Inteligência Artificial (IA). Aplicar os conceitos e técnicas da Inteligência Artificial.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Histórico e Princípios de Inteligência Artificial (IA)
  - Definições de IA
@@ -55,13 +55,13 @@ Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos d
  - Exemplos de Aplicações
  - Implementação
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. COPPIN, B. Inteligência Artificial. Rio de Janeiro: LTC, 2010.
 2. LUGER, G. Inteligência Artificial. 6ª Edição. São Paulo: Pearson, 2013.
 3. LIMA, I., PINHEIRO, C., SANTOS, F. O. Inteligência Artificial. São Paulo: Elsevier, 2014.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BRAGA, A. P., CARVALHO, A. P. L., LUDEMIR, T. B. Redes Neurais Artificiais: Teoria e Aplicações. 2ª Edição. Rio de Janeiro: LTC, 2007.
 2. FACELLI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. Rio de Janeiro: LTC, 2011.

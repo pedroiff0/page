@@ -14,18 +14,18 @@ tags:
 | Período | 1º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação. Redação científica: resumo, resenha.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Capacitar o aluno a melhorar a compreensão, organização e a redação de textos narrativos, descritivos e dissertativos e elaborar textos relacionados com o curso;
 - Instrumentar os estudantes a se expressarem tanto verbalmente quanto por escrito.
 - rientar a leitura de textos diversos, especialmente os acadêmicos.
 - Estimular os estudantes a participar de eventos científicos.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Noções de texto
  - Linguagem verbal e não verbal;
@@ -47,14 +47,14 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 
 - **Guias de normalização ABNT** — bibliotecas da [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e da [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf), distribuição gratuita.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012.
 2. MARTINS, D. S., ZILBERKNOP, L. S. Português Instrumental: De Acordo com as Normas Atuais da ABNT.
 3. Ed. Rio de Janeiro: Atlas, 2019.
 4. MATTOSO, C. J. G. Manual de Expressão Oral e Escrita. 23. Ed. Rio de janeiro: Editora Vozes, 2012
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 5. DEMAI, F. M. Português Instrumental. São Paulo: Editora Érica, 2014.
 6. DINTEL, F. Como Escrever Textos Técnicos e Profissionais: Todas as Orientações para Elaborar Relatórios, Cartas e Documentos Eficazes. São Paulo: Gutenberg, 2011.

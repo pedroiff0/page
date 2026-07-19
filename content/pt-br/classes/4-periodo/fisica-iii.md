@@ -14,20 +14,20 @@ tags:
 | Período | 4º Período |
 | Pré-requisitos | [CSECBJI.17 - Cálculo III](pt-br/classes/3-periodo/calculo-iii), [CSECBJI.19 - Física II](pt-br/classes/3-periodo/fisica-ii) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.33 - Eletricidade Aplicada](pt-br/classes/5-periodo/eletricidade-aplicada)
 - [CSECBJI.37 - Eletrônica Analógica](pt-br/classes/5-periodo/eletronica-analogica)
 
-## Ementa
+## 📋 Ementa
 
 Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais, força magnética, momento magnético, efeito Hall, campo magnético em cargas móveis, Lei de Biot-Savart, Lei de Faraday, Lei de Ampère, indutância, circuitos RL e RLC.
 
-## Objetivos
+## 🎯 Objetivos
 
 - ● Dar subsídios físicos sobre os conceitos da Teoria Eletromagnética da natureza, assim como aplicá-los nas atividades profissionais do engenheiro.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Eletrostática
  - Conceitos fundamentais;
@@ -63,7 +63,7 @@ Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais
  - Lei de Indução de Faraday;
  - Circuitos RL e RLC.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. RESNICK, R., WALKER, J.
 2. HALLIDAY, D. Fundamentos de Física – Volume 3 – Eletromagnetismo. 10ª Edição. Rio de Janeiro, LTC, 2016.
@@ -72,7 +72,7 @@ Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais
 5. YOUNG, H. D., FREEDMAN, R.A. Física III: Eletromagnetismo. 14ª Edição. São Paulo: Pearson, 2015.
 6. Vol.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Eletricidade e Magnetismo. São Paulo: AMGH, 2013.
 2. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 3: Eletricidade e Magnetismo. 9ª Edição. São Paulo: Cengage Learning, 2017.

@@ -14,16 +14,16 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Línguas de sinais e minoria linguística; as diferentes línguas de sinais; status da língua de sinais no Brasil; cultura surda; organização linguística da Libras para usos informais e cotidianos: vocabulário; morfologia; sintaxe e semântica; a expressão corporal como elemento linguístico
 
-## Objetivos
+## 🎯 Objetivos
 
 - Instrumentalizar os alunos para o estabelecimento de uma comunicação funcional com pessoas surdas. Favorecer a inclusão da pessoa surda no contexto escolar. Difusão e valorização da Libras na comunidade escolar e sociedade em geral;
 - Reconhecer os diferentes profissionais que atuam na educação de surdos: Professor de Libras, Instrutor, Tradutor e Intérprete de Libras/Língua Portuguesa e Professor Bilíngüe Libras/Língua Portuguesa.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Línguas de Sinais e Minoria Línguistica
  - As diferentes línguas de sinais.
@@ -48,14 +48,14 @@ Línguas de sinais e minoria linguística; as diferentes línguas de sinais; sta
  - Sintaxe e semântica.
  - A expressão corporal como elemento linguístico
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ANDREIS, S. Educação de surdos e preconceito. 1. ed. Curitiba: CRV, 2012.
 2. ______. Educação de surdos pelos próprios surdos: uma questão de direitos. ed. Curitiba: CRV,
 4. QUADROS, R. M., KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos. Porto Alegre, RS:
 5. Artmed, 2004.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. GESSER, A. Libras? que língua é essa?: crenças e preconceitos em torno da língua de sinais e da realidade surda. 1. ed. São Paulo, SP: Parábola, 2009.
 2. SACKS, O. W. Vendo vozes: uma viagem ao mundo dos surdos. São Paulo, SP: Companhia de Bolso,

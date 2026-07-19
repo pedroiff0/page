@@ -14,16 +14,16 @@ tags:
 | Período | 4º Período |
 | Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](pt-br/classes/2-periodo/algoritmos-e-tecnicas-de-programacao) |
 
-## Ementa
+## 📋 Ementa
 
 Solução de equações não lineares; Interpolação e ajuste de curvas; Integração numérica; Soluções numéricas de equações diferenciais ordinárias.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Utilizar métodos iterativos para se obter a solução de problemas matemáticos de forma aproximada;
 - Apresentar ao aluno maneiras práticas de se desenvolver e utilizar métodos numéricos, isso significa mostrar como usar esses métodos numéricos na calculadora e em um computador.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Números Binários e Análise de Erros
  - Representação de números em diversas bases
@@ -69,14 +69,14 @@ Solução de equações não lineares; Interpolação e ajuste de curvas; Integr
 
 - **[Cálculo Numérico Aplicado à Engenharia com Python](assets/biblioteca/matematica/calculo-numerico-python-ifsc.pdf)** — IFSC.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BURIAN, R.; LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC, 2007.
 2. RUGGIERO, M. A. G.; LOPES, V. L. da R. Cálculo Numérico: Aspectos Teóricos e Computacionais.
 3. ª Edição. São Paulo: Pearson, 2000.
 4. SPERANDIO, D., MENDES, J. T., SILVA, L. H. M. Cálculo Numérico: Características Matemáticas e Computacionais dos Métodos Numéricos. São Paulo: Prentice Hall, 2003.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ARENALES, S., DAREZZO, A. Cálculo Numérico – Aprendizagem com apoio de software. 2ª Edição.
 2. São Paulo: Cengage, 2015.

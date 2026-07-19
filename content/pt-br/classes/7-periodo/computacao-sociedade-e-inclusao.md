@@ -14,15 +14,15 @@ tags:
 | Período | 7º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Apropriações da computação e relações de poder: o espaço público, o privado e o sujeito. Recursos e repositórios educacionais abertos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Capacitar o aluno para entender as questões sociais, éticas, econômicas, culturais e políticas associadas ao uso do computador.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Fundamentação e Discussão Crítica acerca de Computação e Sociedade:
  - Aspectos Sociais;
@@ -58,14 +58,14 @@ Apropriações da computação e relações de poder: o espaço público, o priv
  - Tecnologia no Mundo
 8. Relevância Social e Investimento em Tecnologia Social
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. HALL, S. A Identidade Cultural na Pós-Modernidade. Rio de Janeiro: Lamparina, 2019.
 2. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. São Paulo: Arquipélago, 2018.
 3. SOUZA, J. (et. al). A Sociedade de Controle: manipulação e modulação nas redes sociais. São Paulo:
 4. Hedra, 2021.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2013.
 2. ______. O Poder da Identidade. São Paulo: Paz e Terra, 2018.

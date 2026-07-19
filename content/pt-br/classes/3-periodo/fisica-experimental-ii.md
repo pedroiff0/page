@@ -14,16 +14,16 @@ tags:
 | Período | 3º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O Pêndulo simples. Os princípios da Termodinâmica: características de substâncias simples e sua relação com as mudanças de temperatura. Dilatação linear. Calor Específico. Entropia e os processos reversíveis.
 
-## Objetivos
+## 🎯 Objetivos
 
 - ● Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas;
 - ● Reconhecer ondas mecânicas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Oscilações e ondas mecânicas;
 2. Ondas estacionárias e onda numa corda;
@@ -32,14 +32,14 @@ Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O P�
 5. Princípios da termodinâmica: conceitos de temperatura e calor;
 6. Entropia e os processos irreversíveis.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. RESNICK, R., WALKER, J.
 2. HALLIDAY, D. Fundamentos de Física – Volume 2 – Gravitação, Ondas e Termodinâmica. 10ª Edição. Rio de Janeiro, LTC, 2016.
 3. SERWAY, R., JEWETT, J. Princípios de Física – Volume II – Oscilações, Ondas e Termodinâmica. 2ª Edição. São Paulo: Cengage Learning, 2014.
 4. YOUNG, H. D., FREEDMAN, R.A. Física II: Termodinâmica e Ondas. 14ª Edição. São Paulo: Pearson, 2015. Vol. 2.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 2: Oscilações, Ondas e Termodinâmica. 9ª Edição. São Paulo: Cengage Learning, 2017.
 2. NUSSENZVEIG, H. M. Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor. 5ª Edição. São Paulo: Blucher, 2014.

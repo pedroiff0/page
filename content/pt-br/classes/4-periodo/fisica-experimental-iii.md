@@ -14,16 +14,16 @@ tags:
 | Período | 4º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja, experimentos de eletrostática; Eletrodinâmica; Campo magnético; Eletromagnetismo; Capacitância, indutância, Circuitos Elétricos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - ●
 - Dar subsídios físicos sobre os conceitos da Teoria Eletromagnética da natureza, assim como aplicá-los nas atividades profissionais do engenheiro.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Eletrostática
  - Processos de eletrização;
@@ -42,7 +42,7 @@ Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja,
  - Campo magnético de correntes;
  - Transformadores.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. RESNICK, R., WALKER, J.
 2. HALLIDAY, D. Fundamentos de Física – Volume 3 – Eletromagnetismo. 10ª Edição. Rio de Janeiro, LTC, 2016.
@@ -51,7 +51,7 @@ Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja,
 5. YOUNG, H. D., FREEDMAN, R.A. Física III: Eletromagnetismo. 14ª Edição. São Paulo: Pearson, 2015.
 6. Vol.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Eletricidade e Magnetismo. São Paulo: AMGH, 2013.
 2. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 3: Eletricidade e Magnetismo. 9ª Edição. São Paulo: Cengage Learning, 2017.

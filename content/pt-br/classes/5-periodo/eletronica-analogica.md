@@ -14,19 +14,19 @@ tags:
 | Período | 5º Período |
 | Pré-requisitos | [CSECBJI.26 - Física III](pt-br/classes/4-periodo/fisica-iii) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.46 - Eletrônica Digital](pt-br/classes/6-periodo/eletronica-digital)
 
-## Ementa
+## 📋 Ementa
 
 Transistores bipolares e circuitos polarizados com transistor; Fonte de alimentação regulada; Osciladores e temporizadores; Tiristores; Amplificadores Operacionais (circuitos lineares e não-lineares).
 
-## Objetivos
+## 🎯 Objetivos
 
 - ● Compreender o funcionamento dos componentes eletrônicos básicos abordados e de como eles funcionam ● Compreender o funcionamento dos CIs e dos sistemas eletrônicos atuais e suas aplicações no campo da Engenharia de Computação.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Teoria dos Diodos [[260324-Aula-Aula01-1]]
  - Teoria do semicondutor
@@ -79,14 +79,14 @@ Transistores bipolares e circuitos polarizados com transistor; Fonte de alimenta
 - **[Princípios Básicos de Eletrônica](assets/biblioteca/eletroeletronica/principios-basicos-eletronica-etec.pdf)** — e-Tec Brasil. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Eletrônica I](assets/biblioteca/eletroeletronica/eletronica-1-cetam.pdf)**, **[Eletrônica III](assets/biblioteca/eletroeletronica/eletronica-3-cetam.pdf)** e **[Eletrônica V](assets/biblioteca/eletroeletronica/eletronica-5-cetam.pdf)** — CETAM/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. MALVINO, A. P., BATES, D. J. Eletrônica: Volume 1. 8ª Edição. Porto Alegre: Bookman, 2016.
 2. ______. Eletrônica: Volume 2. 8ª Edição. Porto Alegre: Bookman, 2016.
 3. PERTENCE, Antônio Jr. Amplificadores Operacionais e Filtros Ativos. 8ª Edição. Porto Alegre:
 4. Bookman, 2014.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BOYLESTAD, R., NASHELSKY, L. Dispositivos Eletrônicos e Teoria dos Circuitos. 11ª Edição. São Paulo:
 2. Pearson, 2013.

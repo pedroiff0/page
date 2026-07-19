@@ -14,15 +14,15 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame Relay; NAT; Soluções de Banda Larga; Protegendo a Conectividade de Site para Site; Monitorando a Rede Solucionando Problemas de Rede
 
-## Objetivos
+## 🎯 Objetivos
 
 - Desenvolver o conhecimento e as habilidades necessários para executar operações IPsec e VPN (Virtual Private Network, Rede Virtual Privada) em uma rede complexa.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Projeto de Rede Hierárquico
 2. Conexão à WAN
@@ -34,14 +34,14 @@ Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame R
 8. Monitorando a Rede
 9. Solucionando Problemas de Rede
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
 3. Pearson, 2013.
 4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
 2. CARISSIMI, A. S., ROCHOL, J.

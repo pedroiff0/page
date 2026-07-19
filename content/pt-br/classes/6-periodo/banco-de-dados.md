@@ -14,15 +14,15 @@ tags:
 | Período | 6º Período |
 | Pré-requisitos | [CSECBJI.35 - Modelagem de Dados](pt-br/classes/5-periodo/modelagem-de-dados) |
 
-## Ementa
+## 📋 Ementa
 
 Recuperação de falhas. Controle de concorrência. Noções básicas de bancos de dados distribuídos. Aspectos de segurança e privacidade. Implementação de visões, stored procedures e triggers.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Proporcionar aos alunos conhecimentos teóricos e práticos em Banco de Dados, envolvendo o estudo de conceitos fundamentais de Projeto de Sistemas de Banco de Dados, além da sua aplicação através do ensino de uma linguagem de programação de banco de dados e do desenvolvimento de aplicações de bancos de dados.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Linguagem de Definição e Manipulação de Dados
 2. Processamento e Otimização de Consultas
@@ -53,7 +53,7 @@ Recuperação de falhas. Controle de concorrência. Noções básicas de bancos 
 - **[Introdução a Banco de Dados](assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Banco de Dados I](assets/biblioteca/computacao/banco-de-dados-1-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004.
 2. HEUSER, C. A. Projeto de Banco de Dados. 6ª Edição. Porto Alegre: Bookman, 2008.
@@ -61,7 +61,7 @@ Recuperação de falhas. Controle de concorrência. Noções básicas de bancos 
 4. SUDARSHAN, S. Sistema de banco de dados. 6. ed. Rio de Janeiro, RJ:
 5. Elsevier, 2012.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CARDOSO, V., CARDOSO, G. Sistemas de Banco de Dados. São Paulo, 2012.
 2. DATE, C. J., Projeto de Banco de Dados e Teoria Relacional: Formas Normais e Tudo Mais. São Paulo: Novatec, 2015.

@@ -14,15 +14,15 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.88 - Pesquisa Operacional I](pt-br/classes/eletivas/pesquisa-operacional-i) |
 
-## Ementa
+## 📋 Ementa
 
 Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. Teoria Clássica da Otimização. Programação Não-linear.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Desenvolver a capacidade de formular, modelar, solucionar e analisar modelos matemáticos para tomada de decisão em gestão e planejamento de processos produtivos.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Programação Linear Inteira (PLI)
  - Conceitos Fundamentais da PLI
@@ -54,13 +54,13 @@ Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. T
  - Programação Separável
  - Programação Convexa
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015.
 2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. ed. São Paulo, SP: Atlas, 2004.
 4. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman,
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 5. ANDRADE, E. L. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise de Decisões.
 6. 5ª Edição. Rio de Janeiro: Atlas, 2014.

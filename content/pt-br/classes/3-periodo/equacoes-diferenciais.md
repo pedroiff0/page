@@ -14,20 +14,20 @@ tags:
 | Período | 3º Período |
 | Pré-requisitos | [CSECBJI.4 - Cálculo I](pt-br/classes/1-periodo/calculo-i), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](pt-br/classes/1-periodo/algebra-linear-e-geometria-analitica-i) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.85 - Modelagem Ambiental](pt-br/classes/eletivas/modelagem-ambiental)
 
-## Ementa
+## 📋 Ementa
 
 Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explícitas. Equações lineares de 2.ª ordem. Equações diferenciais lineares de ordem superior. O método da variação dos parâmetros. Solução de equações diferenciais ordinárias. Introdução a equações diferenciais parciais.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar ao aluno os conceitos básicos de equações diferenciais ordinárias e parciais;
 - Resolver problemas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Conceitos fundamentais em equações diferenciais
  - Definição de Equação Diferencial Ordinária
@@ -72,14 +72,14 @@ Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explí
 
 - **[Equações Diferenciais](assets/biblioteca/matematica/equacoes-diferenciais-ufba.pdf)** (e-book) — UFBA/UAB.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno.
 2. ª Edição Rio de Janeiro: LTC, 2015.
 3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
 4. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
 2. ÇENGEL, Y. A., PALM III, W. J. Equações Diferenciais. São Paulo: McGrall Hill, 2014.

@@ -14,21 +14,21 @@ tags:
 | Período | 8º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.67 - Projeto Final de Curso I](pt-br/classes/9-periodo/projeto-final-de-curso-i)
 
-## Ementa
+## 📋 Ementa
 
 Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Desenvolver conhecimentos teórico-práticos necessários para estudo e pesquisa, na perspectiva de subsidiar a realização de trabalhos acadêmicos e de educação continuada;
 - 2. Construir um referencial teórico capaz de fundamentar a elaboração de trabalhos monográficos;
 - Redigir um projeto de pesquisa, de acordo com as normas técnicas de apresentação de trabalhos científicos.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. As Explicações Teleológicas
 2. Iluminismo e a Razão – Descartes – Kant
@@ -46,14 +46,14 @@ Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboraç�
 - **[Orientação à Prática Profissional e Pesquisa](assets/biblioteca/computacao/orientacao-pratica-profissional-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **Guias de normalização ABNT** — bibliotecas da [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e da [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf), distribuição gratuita.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo:
 2. Atlas, 2017.
 3. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
 4. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto.
 2. 3ª Edição. Porto Alegre: São Paulo, 2010.

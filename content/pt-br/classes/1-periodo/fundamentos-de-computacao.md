@@ -14,20 +14,20 @@ tags:
 | Período | 1º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.52 - Organização de Computadores](pt-br/classes/7-periodo/organizacao-de-computadores)
 - [CSECBJI.56 - Sistemas Operacionais I](pt-br/classes/7-periodo/sistemas-operacionais-i)
 
-## Ementa
+## 📋 Ementa
 
 História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Software; Unidades de Medida; Linguagens de Programação; Sistemas Operacionais; Redes de Computadores.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar os principais conceitos acerca da informática e da computação, possibilitando que o discente compreenda, inicialmente, a organização e o funcionamento de sistemas computação.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. História da Computação:
  - Introdução;
@@ -66,13 +66,13 @@ História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Softwa
 - **[Fundamentos da Computação](assets/biblioteca/computacao/fundamentos-computacao-cc.pdf)** — livro aberto (licença Creative Commons).
 - **[Introdução à Computação](assets/biblioteca/computacao/introducao-a-computacao-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 11ª Edição, Bookman, 2013.
 2. CARVALHO, C. P. L. F, LORENA, A. C. Introdução à Computação: Hardware, Software e Dados.
 3. LTC, WAZLAWICK, R. S. História da Computação. Elsevier, 2016.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. DALE, N., LEWIS, J. Ciência da Computação. 4ª Edição. LTC, 2010.
 2. FAROUZAN, B., MOSHARRAF, F. Fundamentos da Ciência da Computação. Cengage Learning, 2011.

@@ -14,19 +14,19 @@ tags:
 | Período | 7º Período |
 | Pré-requisitos | [CSECBJI.45 - Programação Orientada a Objetos I](pt-br/classes/6-periodo/programacao-orientada-a-objetos-i) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.79 - Desenvolvimento Web](pt-br/classes/eletivas/desenvolvimento-web)
 
-## Ementa
+## 📋 Ementa
 
 Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Aprofundar os conhecimentos acerca de programação orientado à objetos;
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. -
 
@@ -36,13 +36,13 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
 
 - **[Introdução à Programação Orientada a Objetos (Java)](assets/biblioteca/computacao/intro-poo-java-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books, 5.
 2. GAMMA, E., HELM, R., JHONSON, R., VLISSIDES, J. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos. Porto Alegre: Bookman, 2000.
 3. SILVEIRA, P., SILVEIRA, G., LOPES, S., MOREIRA, G., STEPPAT, N., KUNG, F. Introdução à Arquitetura e Design de Software: Uma Visão Sobre a Plataforma Java. São Paulo: Elsevier, 2011.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ALVES, W. P. Análise e Projeto de Sistemas: Estudo Prático. São Paulo: Erica, 2017.
 2. BOOCH, G., RUMBAUGH, J., JACOBSON, I. UML: Guia do Usuário. 2ª Edição. São Paulo: Elsevier,

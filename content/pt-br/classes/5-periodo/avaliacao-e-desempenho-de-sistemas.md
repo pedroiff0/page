@@ -14,15 +14,15 @@ tags:
 | Período | 5º Período |
 | Pré-requisitos | [CSECBJI.29 - Probabilidade e Estatística](pt-br/classes/4-periodo/probabilidade-e-estatistica) |
 
-## Ementa
+## 📋 Ementa
 
 Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilísticos. Benchmarking e Planejamento de capacidade. Teoria de Filas. Leis Fundamentais. Modelos simples baseados em Fila única, do tipo M/M/1. Lei de Little. Estudos de Casos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar os principais conceitos e técnicas de análise de desempenho cobrindo tópicos nas áreas de modelagem, simulação e experimentação.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Visão Geral
  - Motivação
@@ -49,13 +49,13 @@ Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilíst
 - **[Análise de Sistemas](assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Projeto de Sistemas](assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. FOGLIATTI, M. C., MATTOS, N. M. C. Teoria de Filas. Rio de Janeiro, 2006.
 2. PRADO, D. Teoria de Filas e da Simulação – Volume 2. 5ª Edição. São Paulo: Falconi, 2017.
 3. ______. Usando o Arena em Simulação – Volume 3. 5ª Edição. São Paulo: Falconi, 2014.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BATEMAN, R., BOWDEN, R. D., GOGG, T. J., HARREL, C. R., MOTT, J. R. A., MONTEVECHI, J.
 2. A. B. Simulação de Sistemas: Aprimorando Processos de Logística, Serviços e Manufatura.

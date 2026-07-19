@@ -14,22 +14,22 @@ tags:
 | Período | 1º Período |
 | Pré-requisitos | — |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/classes/2-periodo/algebra-linear-e-geometria-analitica-ii)
 - [CSECBJI.11 - Física I](pt-br/classes/2-periodo/fisica-i)
 - [CSECBJI.18 - Equações Diferenciais](pt-br/classes/3-periodo/equacoes-diferenciais)
 
-## Ementa
+## 📋 Ementa
 
 Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Introduzir e desenvolver em termos teóricos um conjunto de conceitos fundamentais da álgebra linear, que serão ferramentas essenciais para apoio às unidades curriculares mais específicas da engenharia;
 - Abordar estudo de matrizes, determinantes, sistemas de equações lineares, vetores no plano e no espaço com aplicações na geometria analítica e ainda introduz conceitos básicos sobre espaços vetoriais e subespaços.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Matrizes:
 2. Definição e Tipos Especiais;
@@ -83,13 +83,13 @@ Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espa�
  - Processo de Ortogonalização de Gram Schmidt;
  - Complemento Ortogonal.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear. 3.ª Edição. São Paulo: Harbra, 1984.
 2. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
 3. STEINBRUCH, A., WINTERLE, P. Álgebra Linear. 2.ª Edição. São Paulo: Pearson, 1995.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
 2. LAY, D. C., LAY, S. R.

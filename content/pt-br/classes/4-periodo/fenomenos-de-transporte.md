@@ -14,15 +14,15 @@ tags:
 | Período | 4º Período |
 | Pré-requisitos | [CSECBJI.4 - Cálculo I](pt-br/classes/1-periodo/calculo-i), [CSECBJI.19 - Física II](pt-br/classes/3-periodo/fisica-ii) |
 
-## Ementa
+## 📋 Ementa
 
 Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmica. Hidráulica técnica – Bombas e Medidores de Vazão. Perda de carga em tubulações. Transmissão de Calor – Conceitos fundamentais. Trocadores de Calor – Aplicação.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Analisar os fenômenos que envolvem Mecânica dos Fluidos e Transmissão de Calor e relacioná-los com os princípios da física e com suas situações práticas.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Mecânica dos Fluidos
  - Princípios básicos e definições;
@@ -52,13 +52,13 @@ Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmic
  - Aletas e trocadores de calor – aplicação;
  - Transporte de massa: difusão.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. FOX, R. W., MCDONALD, A.T. Introdução à Mecânica dos Fluidos. 9.ª Edição. Rio de Janeiro: LTC,
 2. WASHINGTON, B. F. Fenômenos de Transporte para Engenharia. Rio de Janeiro: LTC, 2012.
 3. FRANCO, B. Mecânica dos Fluidos. 2.ª Edição. São Paulo: Pearson, 2008.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BIRD, R. B., STEWART, W.
 2. LIGHTFOOT, E. N. Fenômenos de Transporte. 2ª Edição. Rio de Janeiro:

@@ -5,12 +5,24 @@ import { classNames } from "../util/lang"
 
 const CreatedDate: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
   const created = fileData.dates?.created
-  if (!created) return null
+  const modified = fileData.dates?.modified
+  if (!created && !modified) return null
   const locale = cfg.locale ?? "en-US"
+  const labels = i18n(locale).components.contentMeta
 
   return (
     <p class={classNames(displayClass, "created-date")}>
-      {i18n(locale).components.contentMeta.created}: <DateComponent date={created} locale={locale} />
+      {created && (
+        <span>
+          {labels.created}: <DateComponent date={created} locale={locale} />
+        </span>
+      )}
+      {created && modified && <span class="date-separator"> · </span>}
+      {modified && (
+        <span>
+          {labels.modified}: <DateComponent date={modified} locale={locale} />
+        </span>
+      )}
     </p>
   )
 }

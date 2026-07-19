@@ -14,11 +14,11 @@ tags:
 | Período | 1º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para Solução dos Problemas de Engenharia; Modelos e Modelagem na Engenharia; Busca da Solução Ótima; Desenho Universal e Engenharia; Análise de Engenharia; Mundo Quantificado de Engenheiros.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender a importância da profissão de engenheiro;
 - Conhecer as regulamentações relacionadas à profissão de engenheiro;
@@ -27,7 +27,7 @@ Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para S
 - Conhecer as etapas de desenvolvimento de soluções de engenharia;
 - Compreender a importância do desenho universal em soluções de engenharia.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução à Engenharia
  - A engenharia como profissão;
@@ -81,14 +81,14 @@ Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para S
  - Unidades fora do SI;
  - A escrita das unidades e suas unidades;
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. COCIAN, L.F. E. Introdução à Engenharia. Bookman, 2016.
 2. DYM, C. L., LITLE, P., ORWIN, E., SPJUT, E. Introdução à Engenharia Baseada em Projeto. 3ª Edição.
 3. Bookman, 2010.
 4. HOLTZAPPLE, M., REECE, W. D. Introdução à Engenharia. LTC, 2006.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BROCKMAN, J. B. Introdução à Engenharia: Modelagem e Solução de Problemas. LTC, 2010.
 2. CHAPMAN, S. Programação em Matlab para Engenheiros. 3ª Edição. Cengage Learning, 2016.

@@ -14,18 +14,18 @@ tags:
 | Período | 6º Período |
 | Pré-requisitos | [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/classes/5-periodo/linguagens-formais-e-automatos) |
 
-## Ementa
+## 📋 Ementa
 
 Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de código. Otimização. Ambientes de tempo de execução.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender a teoria de compilação.
 - Conhecer as diferentes etapas da compilação de programas.
 - Entender e implementar os mecanismos da construção de um compilador.
 - Manipular as ferramentas de compilação.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Compiladores e Interpretadores
  - Definições Básicas de Compiladores e Interpretadores
@@ -67,7 +67,7 @@ Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de c�
  - Alocação de espaço de pilha
  - Coleta de lixo
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. liveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo:
 2. Atlas, 2011;
@@ -75,7 +75,7 @@ Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de c�
 4. CHENG, L. C.; QFD: Desdobramento da Função Qualidade na Gestão de Desenvolvimento de Produto.
 5. CHENG, L. C.; MELO FILHO, L. D. R de. São Paulo, SP. 2ª Ed. Blucher, 2010.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. PAIVA, C.
 2. VIAN, C. E.; PELLEGRINO, A. C. G. T. Economia. Fundamentos e prática aplicados à realidade brasileira. Campinas SP. 2ªEd. Ed. Alinea, 2014;

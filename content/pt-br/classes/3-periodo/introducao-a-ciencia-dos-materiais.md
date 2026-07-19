@@ -14,16 +14,16 @@ tags:
 | Período | 3º Período |
 | Pré-requisitos | [CSECBJI.15 - Química](pt-br/classes/2-periodo/quimica) |
 
-## Ementa
+## 📋 Ementa
 
 Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em Sólidos; Difusão; Propriedades Mecânicas dos Metais; Mecanismo de Aumento de Resistência; Falha; Diagrama de Fase; Ligas Metálicas; Corrosão e Degradação dos Materiais; Ensaios não Destrutivos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Desenvolver habilidade para seleção e utilização de materiais na engenharia;
 - Proporcionar aos alunos a aquisição de conhecimentos em ciência e tecnologia de materiais, capacitando-o a reconhecer, classificar e selecionar materiais aplicados a equipamentos e processos no campo da tecnologia de automação.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Ciência e engenharia dos materiais
  - Importância científica e tecnológica dos materiais
@@ -74,14 +74,14 @@ Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em 
 10. Corrosão e degradação dos materiais
 11. Ensaios não destrutivos
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ASKELAND, D., WRIGHT, W. Ciência e Engenharia dos Materiais. 2ª Edição. São Paulo: Cengage,
 2. CALLISTER, W. D., RETHWISCH, D. Ciência e Engenharia dos Materiais: Uma Introdução. 9ª Edição.
 3. Rio de Janeiro: LTC, 2016.
 4. VAN VLACK, L. H. Princípios de Ciência e Tecnologia dos Materiais. São Paulo: Editora Campus,
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 5. BOTELHO, M. H. C. Resistência dos Materiais: Para Entender e Gostar. 4ª Edição. São Paulo:
 6. Blucher, 2017.

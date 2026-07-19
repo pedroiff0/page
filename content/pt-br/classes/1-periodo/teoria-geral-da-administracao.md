@@ -14,15 +14,15 @@ tags:
 | Período | 1º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas; Planejamento da Ação Empresarial; Ambiente Organizacional.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Capacitar o aluno a conhecer o contexto organizacional definindo as funções e estruturas administrativas bem como as ações que envolvem um planejamento empresarial.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. O Campo da Administração
  - Administração: Conceito, Importância e Campos de Atuação.
@@ -48,14 +48,14 @@ Campo da Administração; Estruturas Administrativas; Importância das Estrutura
  - Desenvolvimento Organizacional;
  - Gestão do Conhecimento.
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. MOTTA, F. C. P.; VASCONCELOS, I. F. G. Teoria Geral da Administração. 3ª Edição. São Paulo:
 2. Cengage Learning, 2006.
 3. MAXIMIANO, A. C. A. Teoria Geral da Administração – Da revolução Urbana à Revolução Digital. 8ª Edição. São Paulo: Atlas, 2017.
 4. CHIAVENATO, I. Introdução à Teoria Geral da Administração. 9ª Edição. São Paulo: Editora Manole,
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CHIAVENATO, I., SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3ª Edição. Rio de Janeiro: Elsevier, 2015.
 2. MÜLLER, C. J. Planejamento Estratégico, Indicadores e Processos: Uma Integração Necessária. Rio de Janeiro: Atlas, 2013.

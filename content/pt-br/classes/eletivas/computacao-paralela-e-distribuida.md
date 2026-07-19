@@ -14,15 +14,15 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.86 - Algoritmos Distribuídos](pt-br/classes/eletivas/algoritmos-distribuidos) |
 
-## Ementa
+## 📋 Ementa
 
 Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralela e distribuída. Tópicos emergentes em computação paralela e distribuída.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Prover conhecimento e experiência em programação paralela para o desenvolvimento de software que tenha como requisito a sua execução em um ambiente paralelo e distribuído.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Sistemas de Trocas de Mensagens
 2. Processadores de Comunicação
@@ -54,14 +54,14 @@ Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralel
  - Dinning Philosopers
  - Drinking Philosopers
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
 2. Porto Alegre: Bookman, 2007.
 3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
 4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.

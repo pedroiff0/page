@@ -14,15 +14,15 @@ tags:
 | Período | 6º Período |
 | Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](pt-br/classes/2-periodo/algoritmos-e-tecnicas-de-programacao), [CSECBJI.38 - Paradigmas de Linguagem de Programação](pt-br/classes/5-periodo/paradigmas-de-linguagem-de-programacao) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.51 - Programação Orientada a Objetos II](pt-br/classes/7-periodo/programacao-orientada-a-objetos-ii)
 
-## Ementa
+## 📋 Ementa
 
 Desenvolvimento de software de complexidade média utilizando o paradigma de orientação a objetos. Estudo e análise dos conceitos de herança e polimorfismo. Discussão de aspectos avançados sobre classes. Discussão sobre empacotamento e distribuição de aplicações. Implementação de estruturas de dados encadeadas. Uso de bibliotecas de coleções. Projeto de sistemas orientados a objetos.
 
-## Objetivos
+## 🎯 Objetivos
 
 - ● Conhecer e utilizar de forma precisa conceitos e termos relacionados ao paradigma de orientação a
 - bjetos.
@@ -30,7 +30,7 @@ Desenvolvimento de software de complexidade média utilizando o paradigma de ori
 - ● Descrever sistemas utilizando diagramas e código.
 - ● Construir abstrações para tipos de dados, usando os conceitos de classe, objeto, mensagem, herança e interface.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Classes e Objetos
  - Conceito
@@ -70,7 +70,7 @@ Desenvolvimento de software de complexidade média utilizando o paradigma de ori
 
 - **[Introdução à Programação Orientada a Objetos (Java)](assets/biblioteca/computacao/intro-poo-java-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. JUNIOR, P. J. Java: Guia do Programador. 3ª Edição. São Paulo: Novatec, 2015.
 2. SANTOS, R. Introdução à programação orientada a objetos usando Java. 2ª Edição. Rio de Janeiro:
@@ -78,7 +78,7 @@ Desenvolvimento de software de complexidade média utilizando o paradigma de ori
 4. SIERRA, K.
 5. BATES, B. Use a cabeça! Java. 2ª Edição. Rio de Janeiro: Alta Books, 2007.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BLOCH, J. Java Efetivo: As Melhores Práticas para a Plataforma Java. Rio de Janeiro: Alta Books, 2019.
 2. DEITEL, P. J., DEITEL, H. M. Java, como programar. 10ª Edição. São Paulo: Pearson, 2016.

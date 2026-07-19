@@ -14,15 +14,15 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.77 - Computação Gráfica](pt-br/classes/eletivas/computacao-grafica) |
 
-## Ementa
+## 📋 Ementa
 
 Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração de imagens. Fundamentos para um sistema de análise de imagens. Segmentação de imagens.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar os fundamentos gerais sobre processamento de imagens e vídeos digitais. Desenvolver rotinas de processamento de imagens para diversas aplicações.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Fundamentação, aplicações, representação e modelagem de imagens digitais
  - Conceitos básicos das áreas de processamento e análise de imagens
@@ -53,13 +53,13 @@ Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração
  - Morfologia para Correção da Segmentação
  - Erosão, Dilatação, Abertura e Fechamento
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. AZEVEDO, E., CONCI, A., VASCONCELOS, C. Computação Gráfica: Teoria e Prática – Volume 1. 2ª Edição. São Paulo: Elsevier, 2018.
 2. AZEVEDO, E., CONCI, A. Computação Gráfica: Geração de Imagem – Volume 1. São Paulo, 2003
 3. CONCI, A., AZEVEDO, E. Computação Gráfica: Teoria e Prática – Volume 2. São Paulo: Elsevier, 2007.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
 2. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.

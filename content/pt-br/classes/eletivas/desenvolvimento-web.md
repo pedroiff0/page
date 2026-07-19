@@ -14,15 +14,15 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web. Engenharia Web
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar diferentes maneiras de desenvolver sistemas e ferramentas web com tecnologias mais relevantes para o mercado.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Programação para Web
  - História da Internet e da World Wide Web.
@@ -43,13 +43,13 @@ Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web.
 - **[Web Design](assets/biblioteca/computacao/web-design-utfpr.pdf)** — Rede e-Tec Brasil/UTFPR. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Projeto de Sistemas Web](assets/biblioteca/computacao/projeto-sistemas-web-ifro.pdf)** — e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. DALL’OGLIO, P. PHP: Programando com Orientação a Objetos. 4ª Edição. São Paulo: Novatec, 2018.
 2. DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books, 2016.
 3. KRUG, S. Não me Faça Pensar: Uma Abordagem de Bom Senso à Usabilidade Mobile e na Web. Rio de Janeiro: Alta Books, 2014.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BASSET, L. Introdução ao JSON: Um Guia para JSON que vai Direto ao Ponto. São Paulo: Novatec,
 2. DUCKETT, J. Javascript e JQuery: Desenvolvimento de Interfaces Web Interativas. Rio de Janeiro:

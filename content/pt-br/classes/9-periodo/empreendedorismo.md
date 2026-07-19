@@ -14,15 +14,15 @@ tags:
 | Período | 9º Período |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor e medidas de qualidade. Startups.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Proporcionar aos acadêmicos o conhecimento das características empreendedoras, a busca das oportunidades de negócios e o desenvolvimento do plano de negócios de empresas, bem como prepará-los para empreender e avaliar os riscos em atividades voltadas a sua atuação na área da engenharia de computação.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Empreendedor e os Fatores de Sucesso
  - Conceito de Empreendedorismo
@@ -59,13 +59,13 @@ Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor
  - Aspectos e Medidas da Qualidade
  - Simulação de um Plano de Negócios
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004.
 2. CHÉR, R. Empreendedorismo na veia: um aprendizado constante. Rio de Janeiro: Elsevier: SEBRAE,
 3. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. DRUCKER, P. F. Inovação e espírito empreendedor: prática e princípios. São Paulo: Pioneira, 2005. liveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo:
 3. Atlas, 2011;

@@ -14,15 +14,15 @@ tags:
 | Período | 3º Período |
 | Pré-requisitos | [CSECBJI.11 - Física I](pt-br/classes/2-periodo/fisica-i) |
 
-## Ementa
+## 📋 Ementa
 
 Conceito de tensão, Forças distribuídas, Carregamentos axiais, Torção, Flexão, Cisalhamento, Carregamento combinado, Análise de tensões, transformação de tensão e Flambagem de colunas.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar os conceitos, as teorias e os métodos de soluções de problemas de vigas submetidas a deformações em virtude de cargas externas, efeitos térmicos e esforços internos.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução ao conceito de tensão
  - Métodos da estática
@@ -71,13 +71,13 @@ Conceito de tensão, Forças distribuídas, Carregamentos axiais, Torção, Flex
  - Estabilidade de estruturas
  - Projeto de colunas
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. BEER, F. P.; JOHNSTON Jr, E. R.; DEWOLF, J. T.; MASUREK, D. F. Mecânica dos Materiais. Tradução José Benaque Rubert. 7. ed. Porto Alegre: AMGH, 2015. 840 p.
 2. CRAIG Jr, R. R. Mecânica dos Materiais. T adução Jos Ro e to Mo aes d’Al eida, “id ei Pa io ik, Verônica Calado. ed. [Reimp]. Rio de Janeiro: LTC, 2017. 552 p.
 4. HIBBELLER, R. C. Resistencia dos Materiais. Tradução Sérgio Nascimento, Revisão técnica Sebastião Simões da Cunha. 10. ed. São Paulo: Pearson Education do Brasil, 2018. 754 p.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. BEER, F. P.; JOHNSTO JR, E. R.; MASUREK, D. F. Mecânica vetorial para engenheiros: estática.
 2. Tradução Clara Állyergra Lyra Peter. ed. Porto Alegre: AMGH, 2019. 634 p.

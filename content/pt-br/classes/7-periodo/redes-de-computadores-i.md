@@ -14,24 +14,24 @@ tags:
 | Período | 7º Período |
 | Pré-requisitos | [CSECBJI.47 - Comunicação de Dados](pt-br/classes/6-periodo/comunicacao-de-dados) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.59 - Redes de Computadores II](pt-br/classes/8-periodo/redes-de-computadores-ii)
 - [CSECBJI.71 - Sistemas Distribuídos](pt-br/classes/9-periodo/sistemas-distribuidos)
 - [CSECBJI.86 - Algoritmos Distribuídos](pt-br/classes/eletivas/algoritmos-distribuidos)
 
-## Ementa
+## 📋 Ementa
 
 Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Redes; Qualidade de Serviço; Segurança; Protocolo IP.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar os princípios básicos de redes de computadores.
 - Estudar os fundamentos de redes para que o acadêmico consiga estruturar, planejar, e configurar uma estrutura básica de redes;
 - Compreender as camadas de referência das estruturas de redes;
 - Entender endereçamento IP para configuração e planejamento de redes.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução as Redes de Computadores
  - Conceituação
@@ -74,14 +74,14 @@ Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Re
 - **[Redes de Computadores](assets/biblioteca/computacao/redes-de-computadores-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Protocolos e Serviços de Redes](assets/biblioteca/computacao/protocolos-servicos-redes-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre:
 2. Bookman, 2015.
 3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem TopDown. 6ª Edição. Pearson, 2013.
 4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books, 2009.
 2. CARISSIMI, A. S., ROCHOL, J.

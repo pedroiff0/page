@@ -14,15 +14,15 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.31 - Cálculo IV](pt-br/classes/4-periodo/calculo-iv), [CSECBJI.47 - Comunicação de Dados](pt-br/classes/6-periodo/comunicacao-de-dados) |
 
-## Ementa
+## 📋 Ementa
 
 Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais. Transformada discreta de Fourier (DFT) e transformada rápida de Fourier (FFT). Filtros digitais: análise, estruturas, técnicas de projeto e aspectos práticos
 
-## Objetivos
+## 🎯 Objetivos
 
 - Apresentar os conceitos básicos de Processamento Digital de Sinais nos domínios do tempo e da frequência.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução ao Processamento Digital de Sinais
  - Domínios de Tempo Contínuo e Discreto
@@ -48,7 +48,7 @@ Introdução ao processamento digital de sinais. Fundamentos matemáticos de sin
  - Filtros Analógicos de Referência
  - Quantização de Coeficientes e Impacto
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. DINIZ, P. S. R., SILVA, E. A. B., NETTO, S. L. Processamento Digital de Sinais: Projeto e Análise de Sistemas. 2ª Edição. Porto Alegre: Bookman, 2014.
 2. GURJÃO, E., CARVALHO, J., VELOSO, L. R. Introdução à Análise de Sinais e Sistemas. São Paulo:
@@ -56,7 +56,7 @@ Introdução ao processamento digital de sinais. Fundamentos matemáticos de sin
 4. PPENHEIM, A., SCHAFER, R. W. Processamento em Tempo Discreto de Sinais. 3ª Edição. São Paulo:
 5. Pearson, 2013.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. ALCAIN, A. Fundamentos de Processamento de Sinais Voz e Imagem. Rio de Janeiro: Interciência,
 2. COSTA, C. Processamento de Sinais para Engenheiros: Teoria e Prática. Rio de Janeiro: Bonecker,

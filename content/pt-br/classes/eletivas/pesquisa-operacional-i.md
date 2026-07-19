@@ -14,19 +14,19 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/classes/2-periodo/algebra-linear-e-geometria-analitica-ii) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.89 - Pesquisa Operacional II](pt-br/classes/eletivas/pesquisa-operacional-ii)
 
-## Ementa
+## 📋 Ementa
 
 Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema do Transporte; Otimização de Redes; Modelos determinísticos de estoque; Tópicos em PL.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Desenvolver habilidades de modelagem e análise de problemas decisórios relacionados à produção, transporte e estocagem de materiais; com o apoio de recursos de informática.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução à Pesquisa Operacional
  - Definição de Pesquisa Operacional
@@ -56,13 +56,13 @@ Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema d
  - O Problema do Transbordo
  - Modelos Determinístico de Estoque
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015.
 2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. ed. São Paulo, SP: Atlas, 2004.
 4. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman,
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 5. ANDRADE, E. L. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise de Decisões.
 6. 5ª Edição. Rio de Janeiro: Atlas, 2014.

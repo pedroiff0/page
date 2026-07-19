@@ -14,21 +14,21 @@ tags:
 | Período | 7º Período |
 | Pré-requisitos | [CSECBJI.1 - Fundamentos de Computação](pt-br/classes/1-periodo/fundamentos-de-computacao) |
 
-## Trancas
+## 🔒 Trancas
 
 - [CSECBJI.63 - Sistemas Operacionais II](pt-br/classes/8-periodo/sistemas-operacionais-ii)
 - [CSECBJI.71 - Sistemas Distribuídos](pt-br/classes/9-periodo/sistemas-distribuidos)
 - [CSECBJI.86 - Algoritmos Distribuídos](pt-br/classes/eletivas/algoritmos-distribuidos)
 
-## Ementa
+## 📋 Ementa
 
 Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Memória.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender o funcionamento dos mecanismos internos de Sistemas Operacionais.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Introdução
  - O que é um Sistema Operacional?
@@ -75,14 +75,14 @@ Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Me
 - **[Sistemas Operacionais](assets/biblioteca/computacao/sistemas-operacionais-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 - **[Introdução ao Linux](assets/biblioteca/computacao/introducao-ao-linux-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
 3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
 4. Porto Alegre: Bookman, 2018.
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
 2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.

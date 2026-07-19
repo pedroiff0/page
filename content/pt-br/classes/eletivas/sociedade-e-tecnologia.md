@@ -14,15 +14,15 @@ tags:
 | Período | Eletivas (optativas) |
 | Pré-requisitos | — |
 
-## Ementa
+## 📋 Ementa
 
 Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico e Tecnológico. Trabalho. Processos Produtivos e Relações de Trabalho na sociedade capitalista. Técnica e Tecnologia na sociedade contemporânea. Cultura e Diversidade Cultural
 
-## Objetivos
+## 🎯 Objetivos
 
 - Compreender as relações sociais, analisando a relação do homem com a natureza, do homem com o homem e com os grupos sociais, enfatizando as relações que se estruturam em torno do trabalho, da tecnologia e da cultura, como dimensões significativas na vida humana.
 
-## Conteúdo Programático
+## 📖 Conteúdo Programático
 
 1. Distinção das Ciências Sociais e Ciências Naturais
  - Distinção das Ciências Sociais e Ciências Naturais
@@ -46,13 +46,13 @@ Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico
  - Gênero
  - Tecnologia e Sociedade da Informação: Uma Questão de Inclusão
 
-## Bibliografia Básica
+## 📕 Bibliografia Básica
 
 1. CAPRA, F. O ponto de mutação. 25ª Edição. São Paulo: Cultrix, 1982.
 2. CUCHE, D. A noção de cultura nas ciências sociais. Bauru: EDUSC, 2002.
 3. LARAIA, R. B. Cultura: Um conceito antropológico. 11 ed. Rio de Janeiro: Jorge Zahar Editor, 2007
 
-## Bibliografia Complementar
+## 📗 Bibliografia Complementar
 
 4. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2009.
 5. CATTANI, A. D. Dicionário de Trabalho e Tecnologia. 2ª edição. Porto Alegre: Zouk, 2011.
