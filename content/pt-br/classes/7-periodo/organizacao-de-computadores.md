@@ -2,8 +2,8 @@
 publish: true
 title: "Organização de Computadores"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -30,30 +30,30 @@ Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dis
 ## Conteúdo Programático
 
 1. Arquitetura Básica de Processador
-   - Unidade Central de Processamento
-   - i. Unidade de Controle
-   - ii. Unidade Lógica e Aritmética
-   - iii. Registradores
-   - Barramento Internos
-   - Ciclo Básico de Instrução (Busca-Decodifica-Executa)
+ - Unidade Central de Processamento
+ - i. Unidade de Controle
+ - ii. Unidade Lógica e Aritmética
+ - iii. Registradores
+ - Barramento Internos
+ - Ciclo Básico de Instrução (Busca-Decodifica-Executa)
 2. Memórias i. Endereços de Memória ii. Códigos de Correção de Erros iii. Memória Cache iv. Empacotamento e Tipos de Memória
-   - Memória Primária
-   - Memória Secundária
-   - i. Discos Magnéticos
-   - ii. Discos Flexíveis
-   - iii. Discos Óticos
+ - Memória Primária
+ - Memória Secundária
+ - i. Discos Magnéticos
+ - ii. Discos Flexíveis
+ - iii. Discos Óticos
 3. Entrada/Saída
-   - Barramentos
-   - Terminais
-   - Dispositivos Apontadores
-   - Impressoras
-   - Equipamentos de Telecomunicações
+ - Barramentos
+ - Terminais
+ - Dispositivos Apontadores
+ - Impressoras
+ - Equipamentos de Telecomunicações
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Organização e Arquitetura de Computadores** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Organização e Arquitetura de Computadores](assets/biblioteca/computacao/organizacao-arquitetura-computadores-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

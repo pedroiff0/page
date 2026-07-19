@@ -2,8 +2,8 @@
 publish: true
 title: "Eletrônica Analógica"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -29,55 +29,55 @@ Transistores bipolares e circuitos polarizados com transistor; Fonte de alimenta
 ## Conteúdo Programático
 
 1. Teoria dos Diodos [[260324-Aula-Aula01-1]]
-   - Teoria do semicondutor
-   - Dopagem
-   - Diodo não polarizado; polarização direta e reversa
-   - Gráfico do diodo; linhas de carga
-   - O diodo Zener e o regulador Zener
+ - Teoria do semicondutor
+ - Dopagem
+ - Diodo não polarizado; polarização direta e reversa
+ - Gráfico do diodo; linhas de carga
+ - O diodo Zener e o regulador Zener
 2. Circuitos com Diodos
-   - A Onda Senoidal
-   - O transformador
-   - Circuitos Retificadores
-   - Filtros com capacitor de entrada
-   - Outros diodos com finalidades específicas (Schottky, varactor)
-   - Componentes optoeletrônicos
-   - A transferência de elétrons, em regime de avalanche e tempo de trânsito.
+ - A Onda Senoidal
+ - O transformador
+ - Circuitos Retificadores
+ - Filtros com capacitor de entrada
+ - Outros diodos com finalidades específicas (Schottky, varactor)
+ - Componentes optoeletrônicos
+ - A transferência de elétrons, em regime de avalanche e tempo de trânsito.
 3. Transistores Bipolares
-   - Polarização Direta e Reversa
-   - O transistor como chave
-   - O transistor como fonte de corrente
-   - Circuitos polarizados com transistor
+ - Polarização Direta e Reversa
+ - O transistor como chave
+ - O transistor como fonte de corrente
+ - Circuitos polarizados com transistor
 4. Fonte de Alimentação Regulada
-   - Regulador por realimentação da tensão;
-   - Limitação da corrente
-   - Característica da fonte de alimentação
-   - Reguladores por chaveamento
+ - Regulador por realimentação da tensão;
+ - Limitação da corrente
+ - Característica da fonte de alimentação
+ - Reguladores por chaveamento
 5. Osciladores e Temporizadores
-   - Teoria da oscilação senoidal
-   - Oscilador (Ponte de Wien)
-   - Outros osciladores;
+ - Teoria da oscilação senoidal
+ - Oscilador (Ponte de Wien)
+ - Outros osciladores;
 6. Tiristores
-   - A Trava Ideal
-   - O Diodo de Quatro Camadas
-   - O Retificador Controlado de Silício e Variações do SCR
-   - Tiristores Bidirecionais
-   - Transistor de Unijunção
+ - A Trava Ideal
+ - O Diodo de Quatro Camadas
+ - O Retificador Controlado de Silício e Variações do SCR
+ - Tiristores Bidirecionais
+ - Transistor de Unijunção
 7. Amplificadores Operacionais
-   - Amplificador Operacional ideal e não ideal
-   - Terminologia e símbolos
-   - Circuitos básicos com Amplificador Operacional
-   - Considerações sobre o Amplificador Operacional não-ideal
-   - Circuito Integrador e diferenciador com Amplificador Operacional.
-   - Os geradores de sinais com Amplificador Operacional.
+ - Amplificador Operacional ideal e não ideal
+ - Terminologia e símbolos
+ - Circuitos básicos com Amplificador Operacional
+ - Considerações sobre o Amplificador Operacional não-ideal
+ - Circuito Integrador e diferenciador com Amplificador Operacional.
+ - Os geradores de sinais com Amplificador Operacional.
 8. Estudo de Caso
-   - Análise e Compreensão de Circuitos Eletrônicos
+ - Análise e Compreensão de Circuitos Eletrônicos
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Princípios Básicos de Eletrônica** — e-Tec Brasil. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Eletrônica I, III e V** — CETAM/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Princípios Básicos de Eletrônica](assets/biblioteca/eletroeletronica/principios-basicos-eletronica-etec.pdf)** — e-Tec Brasil. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Eletrônica I](assets/biblioteca/eletroeletronica/eletronica-1-cetam.pdf)**, **[Eletrônica III](assets/biblioteca/eletroeletronica/eletronica-3-cetam.pdf)** e **[Eletrônica V](assets/biblioteca/eletroeletronica/eletronica-5-cetam.pdf)** — CETAM/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

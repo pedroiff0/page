@@ -2,8 +2,8 @@
 publish: true
 title: "Química Experimental"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |

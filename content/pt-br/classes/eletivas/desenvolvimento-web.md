@@ -2,8 +2,8 @@
 publish: true
 title: "Desenvolvimento Web"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |
@@ -25,23 +25,23 @@ Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web.
 ## Conteúdo Programático
 
 1. Programação para Web
-   - História da Internet e da World Wide Web.
-   - Desenvolvimento Front-End
-   - Desenvolvimento Back-End
+ - História da Internet e da World Wide Web.
+ - Desenvolvimento Front-End
+ - Desenvolvimento Back-End
 2. Frameworks Web
-   - Introdução à frameworks para desenvolvimento web
+ - Introdução à frameworks para desenvolvimento web
 3. Acesso a banco de dados em sistemas Web
-   - Conexão com Sistema de Gerenciamento de Banco de Dados
-   - Engenharia Web
+ - Conexão com Sistema de Gerenciamento de Banco de Dados
+ - Engenharia Web
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Programação Web** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Aplicativos para Web II** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Web Design** — Rede e-Tec Brasil/UTFPR. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Projeto de Sistemas Web** — e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Programação Web](assets/biblioteca/computacao/programacao-web-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Aplicativos para Web II](assets/biblioteca/computacao/aplicativos-web-2-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Web Design](assets/biblioteca/computacao/web-design-utfpr.pdf)** — Rede e-Tec Brasil/UTFPR. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Projeto de Sistemas Web](assets/biblioteca/computacao/projeto-sistemas-web-ifro.pdf)** — e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

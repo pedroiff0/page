@@ -2,8 +2,8 @@
 publish: true
 title: "Comunicação de Dados"
 tags:
-  - disciplina
-  - especifica
+ - disciplina
+ - especifica
 ---
 
 | Campo | Valor |
@@ -31,45 +31,45 @@ Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. C
 ## Conteúdo Programático
 
 1. Transmissão de Dados
-   - Conceitos e Terminologias de Transmissão de Dados
-   - Transmissão de Dados Analógica
-   - Transmissão de Dados Digital
-   - Problemas de Transmissão
-   - Capacidade de Canal
+ - Conceitos e Terminologias de Transmissão de Dados
+ - Transmissão de Dados Analógica
+ - Transmissão de Dados Digital
+ - Problemas de Transmissão
+ - Capacidade de Canal
 2. Meios de Transmissão
-   - Transmissão Guiada e Meios de Transmissão Guiada
-   - Transmissão Sem Fio
-   - Conceitos de Propagação
-   - Linha de Visada
+ - Transmissão Guiada e Meios de Transmissão Guiada
+ - Transmissão Sem Fio
+ - Conceitos de Propagação
+ - Linha de Visada
 3. Comunicação de Dados Digitais
-   - Técnicas de Codificação de Sinais
-   - Técnicas de Comunicação de Dados Digitais
-   - Transmissão Síncrona
-   - Transmissão Assíncrona
-   - Detecção e Controle de Erros
-   - Códigos de Linha
-   - Interfaceamento
+ - Técnicas de Codificação de Sinais
+ - Técnicas de Comunicação de Dados Digitais
+ - Transmissão Síncrona
+ - Transmissão Assíncrona
+ - Detecção e Controle de Erros
+ - Códigos de Linha
+ - Interfaceamento
 4. Comunicação de Dados Analógica
-   - Modulação de Dados Digitais
-   - Modens Modulação de Sinais Analógicos
-   - AM
-   - FM
-   - PM
+ - Modulação de Dados Digitais
+ - Modens Modulação de Sinais Analógicos
+ - AM
+ - FM
+ - PM
 5. Controle de Enlace de Dados
-   - Controle de Fluxo e de Erros
-   - Controle de Enlace Lógico
-   - Questões de Desempenho
+ - Controle de Fluxo e de Erros
+ - Controle de Enlace Lógico
+ - Questões de Desempenho
 6. Multiplexação
-   - FDM
-   - TDM Síncrono e Estatístico
-   - Característica de Comunicação de Última Milha.
+ - FDM
+ - TDM Síncrono e Estatístico
+ - Característica de Comunicação de Última Milha.
 7. Espalhamento Espectral
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Protocolos e Serviços de Redes** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Protocolos e Serviços de Redes](assets/biblioteca/computacao/protocolos-servicos-redes-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

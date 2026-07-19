@@ -2,8 +2,8 @@
 publish: true
 title: "Cálculo III"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |
@@ -33,29 +33,29 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 ## Conteúdo Programático
 
 1. Funções a valores vetoriais
-   - Definições, limite e continuidade
-   - Curvas no plano e no espaço: forma vetorial
-   - Limites de funções a valores vetoriais
-   - Continuidade de funções a valores vetoriais
-   - Diferenciação e integração
-   - Derivadas de funções a valores vetoriais
-   - Integrais de funções a valores vetoriais
-   - Velocidade vetorial e escalar, aceleração vetorial
-   - Comprimento de arco
-   - Cálculo do comprimento de arco
-   - A função comprimento de arco
-   - O parâmetro comprimento de arco Análise vetorial
+ - Definições, limite e continuidade
+ - Curvas no plano e no espaço: forma vetorial
+ - Limites de funções a valores vetoriais
+ - Continuidade de funções a valores vetoriais
+ - Diferenciação e integração
+ - Derivadas de funções a valores vetoriais
+ - Integrais de funções a valores vetoriais
+ - Velocidade vetorial e escalar, aceleração vetorial
+ - Comprimento de arco
+ - Cálculo do comprimento de arco
+ - A função comprimento de arco
+ - O parâmetro comprimento de arco Análise vetorial
 2. Campos vetoriais
-   - Definição
-   - Campos conservativos
-   - Função potencial
-   - Condição para campos conservativos no plano
-   - Rotacional de campos tridimensionais
-   - Condição para campos conservativos tridimensionais
-   - Divergência - Integrais de linha
-   - Integrais de linha de campos escalares
-   - Integrais de linha de campos vetoriais
-   - Campos conservativos e independência de caminhos
+ - Definição
+ - Campos conservativos
+ - Função potencial
+ - Condição para campos conservativos no plano
+ - Rotacional de campos tridimensionais
+ - Condição para campos conservativos tridimensionais
+ - Divergência - Integrais de linha
+ - Integrais de linha de campos escalares
+ - Integrais de linha de campos vetoriais
+ - Campos conservativos e independência de caminhos
 3. Teorema de Green
 4. Teorema de Stokes
 5. Teorema da Divergência
@@ -64,7 +64,7 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Cálculo III** — livro aberto (licença Creative Commons). Em breve na biblioteca deste site.
+- **[Cálculo III](assets/biblioteca/matematica/calculo-3-livro-aberto.pdf)** — livro aberto (licença Creative Commons).
 
 ## Bibliografia Básica
 

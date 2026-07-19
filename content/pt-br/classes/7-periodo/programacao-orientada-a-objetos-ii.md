@@ -2,8 +2,8 @@
 publish: true
 title: "Programação Orientada a Objetos II"
 tags:
-  - disciplina
-  - especifica
+ - disciplina
+ - especifica
 ---
 
 | Campo | Valor |
@@ -34,7 +34,7 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Introdução à Programação Orientada a Objetos (Java)** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Introdução à Programação Orientada a Objetos (Java)](assets/biblioteca/computacao/intro-poo-java-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

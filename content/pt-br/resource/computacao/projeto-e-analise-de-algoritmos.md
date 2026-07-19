@@ -2,8 +2,8 @@
 publish: true
 title: "Projeto e Análise de Algoritmos"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] O que é este tópico
@@ -56,7 +56,7 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 
 ### Livros e apostilas abertas
 
-- **Estrutura de Dados** (Rede e-Tec, 2 volumes) — a base necessária antes desta trilha: as estruturas sobre as quais os algoritmos operam. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br). *PDFs em breve na biblioteca deste site.*
+- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)** (Rede e-Tec, 2 volumes) — a base necessária antes desta trilha: as estruturas sobre as quais os algoritmos operam. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
 
 ### Bibliografia clássica (consultar na biblioteca)
 

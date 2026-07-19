@@ -2,8 +2,8 @@
 publish: true
 title: "Modelagem de Dados"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] Modelagem de dados é a etapa de projeto que vem antes de qualquer `CREATE TABLE`: entender o domínio do problema, identificar entidades e relacionamentos, e desenhar uma estrutura que represente a realidade sem redundância nem ambiguidade. É a planta baixa do banco de dados.
@@ -54,7 +54,7 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 
 **Livros abertos (licença pública):**
 
-- **Introdução a Banco de Dados** (Rede e-Tec Brasil) — os capítulos de modelo ER e normalização cobrem o núcleo desta trilha, em português e com exemplos acessíveis. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec. _PDF em breve na biblioteca deste site._
+- **[Introdução a Banco de Dados](assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** (Rede e-Tec Brasil) — os capítulos de modelo ER e normalização cobrem o núcleo desta trilha, em português e com exemplos acessíveis. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 

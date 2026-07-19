@@ -2,8 +2,8 @@
 publish: true
 title: "Redes"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] Redes de computadores é o estudo de como máquinas trocam informação: dos bits no cabo até o navegador carregando uma página. É a infraestrutura invisível de praticamente tudo que você usa — e uma das áreas com mais oferta de trabalho em infraestrutura, cloud e DevOps.
@@ -53,9 +53,9 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 
 **Livros abertos (licença pública):**
 
-- **Redes de Computadores** (Rede e-Tec Brasil / IFRO) — apostila introdutória em português, ótima primeira leitura. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec. _PDF em breve na biblioteca deste site._
-- **Redes de Computadores II** (Rede e-Tec Brasil) — continuação cobrindo roteamento e serviços de rede. Também no [Proedu](https://proedu.rnp.br). _PDF em breve na biblioteca deste site._
-- **Protocolos e Serviços de Redes** (Escola Técnica Aberta) — foco na pilha TCP/IP e nos serviços do dia a dia (DNS, DHCP, HTTP). No [Proedu](https://proedu.rnp.br). _PDF em breve na biblioteca deste site._
+- **[Redes de Computadores](assets/biblioteca/computacao/redes-de-computadores-ifro.pdf)** (Rede e-Tec Brasil / IFRO) — apostila introdutória em português, ótima primeira leitura. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Redes de Computadores II](assets/biblioteca/computacao/redes-de-computadores-2-etec.pdf)** (Rede e-Tec Brasil) — continuação cobrindo roteamento e serviços de rede. Também no [Proedu](https://proedu.rnp.br).
+- **[Protocolos e Serviços de Redes](assets/biblioteca/computacao/protocolos-servicos-redes-etec.pdf)** (Escola Técnica Aberta) — foco na pilha TCP/IP e nos serviços do dia a dia (DNS, DHCP, HTTP). No [Proedu](https://proedu.rnp.br).
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 

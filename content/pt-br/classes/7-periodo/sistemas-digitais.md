@@ -2,8 +2,8 @@
 publish: true
 title: "Sistemas Digitais"
 tags:
-  - disciplina
-  - especifica
+ - disciplina
+ - especifica
 ---
 
 | Campo | Valor |
@@ -32,53 +32,53 @@ Análise e síntese de circuitos digitais sequenciais; contadores e registradore
 ## Conteúdo Programático
 
 1. Análise e Síntese de Circuitos Digitais
-   - Contadores Síncronos e Assíncronos
-   - Projetos de Máquinas Sequenciais Síncronas
-   - i. Tabela de Transição
-   - ii. Diagramas de Estado
-   - Geradores e Detectores de Sequências
-   - Registradores Série-Paralelo
-   - Registradores de deslocamento
-   - Aplicação de Simbologia IEC
-   - Circuitos Integrados Comerciais
+ - Contadores Síncronos e Assíncronos
+ - Projetos de Máquinas Sequenciais Síncronas
+ - i. Tabela de Transição
+ - ii. Diagramas de Estado
+ - Geradores e Detectores de Sequências
+ - Registradores Série-Paralelo
+ - Registradores de deslocamento
+ - Aplicação de Simbologia IEC
+ - Circuitos Integrados Comerciais
 2. Características das Famílias Lógicas Digitais
-   - Estrutura Interna
-   - Características
-   - Parâmetros Elétricos
-   - Limitações
-   - Aplicações das Tecnologias RTL, TTL, ETL, CMOS e BiCMOS
-   - Subfamílias ou Séries
-   - Restrições de Carregamento e Interfaceamento de Diferentes Famílias Tecnológicas em Circuitos Digitais
+ - Estrutura Interna
+ - Características
+ - Parâmetros Elétricos
+ - Limitações
+ - Aplicações das Tecnologias RTL, TTL, ETL, CMOS e BiCMOS
+ - Subfamílias ou Séries
+ - Restrições de Carregamento e Interfaceamento de Diferentes Famílias Tecnológicas em Circuitos Digitais
 3. Conversores Analógico-Digital e Digital-Analógica
-   - Conversores DA
-   - i. Em Rede Resistiva Ponderada
-   - ii. Em Rede R-2R
-   - Conversores AD
-   - i. Paralelo
-   - ii. Rampa Simples
-   - iii. Rampa Dupla
-   - iv. Aproximação Sucessiva
-   - v. Modulador delta
-   - vi. Circuitos de Amostragem
-   - vii. Retenção, Quantização e Codificação Digital
+ - Conversores DA
+ - i. Em Rede Resistiva Ponderada
+ - ii. Em Rede R-2R
+ - Conversores AD
+ - i. Paralelo
+ - ii. Rampa Simples
+ - iii. Rampa Dupla
+ - iv. Aproximação Sucessiva
+ - v. Modulador delta
+ - vi. Circuitos de Amostragem
+ - vii. Retenção, Quantização e Codificação Digital
 4. Dispositivos de Memórias
-   - Memórias Semicondutoras
-   - i. ROM
-   - ii. PROM
-   - iii. EPROM
-   - iv. EEPROM
-   - v. Flash
-   - vi. SRAM
-   - vii. DRAM
-   - Características Elétricas e Pinagem de Circuitos Integrados Comerciais
-   - Saídas de Alta Impedância, Barramentos de I/O, Endereçamento e Sinais de Controle
-   - Associação de Memórias
+ - Memórias Semicondutoras
+ - i. ROM
+ - ii. PROM
+ - iii. EPROM
+ - iv. EEPROM
+ - v. Flash
+ - vi. SRAM
+ - vii. DRAM
+ - Características Elétricas e Pinagem de Circuitos Integrados Comerciais
+ - Saídas de Alta Impedância, Barramentos de I/O, Endereçamento e Sinais de Controle
+ - Associação de Memórias
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Circuitos Digitais** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Circuitos Digitais](assets/biblioteca/computacao/circuitos-digitais-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

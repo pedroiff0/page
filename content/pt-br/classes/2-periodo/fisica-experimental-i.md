@@ -2,8 +2,8 @@
 publish: true
 title: "Física Experimental I"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |

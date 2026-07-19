@@ -2,8 +2,8 @@
 publish: true
 title: "Prática Profissional"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] O que é este tópico
@@ -48,8 +48,8 @@ O que dominar: currículo Lattes completo e atualizado, ORCID vinculado, e a hab
 
 ## 📚 Materiais recomendados
 
-- **Orientação à Prática Profissional e Pesquisa** (Rede e-Tec/IFRO) — apostila aberta que cobre método científico e postura profissional, via [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
-- **Guias de normalização ABNT** (bibliotecas da PUC Minas e da UNIP) — resumos práticos e gratuitos das normas pra trabalhos acadêmicos. *Em breve na biblioteca deste site.*
+- **[Orientação à Prática Profissional e Pesquisa](assets/biblioteca/computacao/orientacao-pratica-profissional-ifro.pdf)** (Rede e-Tec/IFRO) — apostila aberta que cobre método científico e postura profissional, via [proedu.rnp.br](https://proedu.rnp.br).
+- **Guias de normalização ABNT** — [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf): resumos práticos e gratuitos das normas pra trabalhos acadêmicos.
 - Para LaTeX, abnTeX2 e escrita: veja a página completa de [LaTeX e Escrita Acadêmica](pt-br/resource/latex-escrita).
 
 ## 🔗 Referências externas

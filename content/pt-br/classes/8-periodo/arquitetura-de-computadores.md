@@ -2,8 +2,8 @@
 publish: true
 title: "Arquitetura de Computadores"
 tags:
-  - disciplina
-  - especifica
+ - disciplina
+ - especifica
 ---
 
 | Campo | Valor |
@@ -25,31 +25,31 @@ Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; 
 ## Conteúdo Programático
 
 1. Arquitetura IA-32 / IA-64
-   - Operação em Modelo Real
-   - Operação em Modo Protegido
-   - Paginação de Memória
-   - Comutação de Tarefas em Ambiente Multitarefa
-   - Mecanismos de Interrupção
+ - Operação em Modelo Real
+ - Operação em Modo Protegido
+ - Paginação de Memória
+ - Comutação de Tarefas em Ambiente Multitarefa
+ - Mecanismos de Interrupção
 2. Memórias Dinâmicas e Subsistemas Cache
-   - Memórias Dinâmicas
-   - Subsistemas Cache
+ - Memórias Dinâmicas
+ - Subsistemas Cache
 3. Processamento Numérico e de Sinais
-   - Processamento de Números Inteiros
-   - Processamento de Números Reais
-   - Processamento de Sinais em Computador com SIMD
+ - Processamento de Números Inteiros
+ - Processamento de Números Reais
+ - Processamento de Sinais em Computador com SIMD
 4. Barramentos Utilizados nos Computadores Pessoais
-   - Barramento PCI e PCI-Express
-   - Barramento USB
-   - Outros Barramentos
+ - Barramento PCI e PCI-Express
+ - Barramento USB
+ - Outros Barramentos
 5. Interfaceamento Via Rede:
-   - Protocolo TCP/IP
-   - Acesso à rede por software
+ - Protocolo TCP/IP
+ - Acesso à rede por software
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Organização e Arquitetura de Computadores** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Organização e Arquitetura de Computadores](assets/biblioteca/computacao/organizacao-arquitetura-computadores-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

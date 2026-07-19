@@ -2,8 +2,8 @@
 publish: true
 title: "Banco de Dados"
 tags:
-  - disciplina
-  - especifica
+ - disciplina
+ - especifica
 ---
 
 | Campo | Valor |
@@ -27,31 +27,31 @@ Recuperação de falhas. Controle de concorrência. Noções básicas de bancos 
 1. Linguagem de Definição e Manipulação de Dados
 2. Processamento e Otimização de Consultas
 3. Transações
-   - Conceito
-   - Propriedades
-   - i. Atomicidade
-   - ii. Consistência
-   - iii. Isolamento
-   - iv. Durabilidade
-   - Controle e Falhas em Transações
-   - Concorrência
+ - Conceito
+ - Propriedades
+ - i. Atomicidade
+ - ii. Consistência
+ - iii. Isolamento
+ - iv. Durabilidade
+ - Controle e Falhas em Transações
+ - Concorrência
 4. Programação em Bancos de Dados
-   - PL/SQL
-   - i. Conceitos
-   - ii. Comandos
-   - Procedimentos Armazenados
-   - Gatilhos
+ - PL/SQL
+ - i. Conceitos
+ - ii. Comandos
+ - Procedimentos Armazenados
+ - Gatilhos
 5. Segurança
-   - Privilégios de Acesso
-   - Visões
-   - Criptografia de Dados
+ - Privilégios de Acesso
+ - Visões
+ - Criptografia de Dados
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Introdução a Banco de Dados** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Banco de Dados I** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Introdução a Banco de Dados](assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Banco de Dados I](assets/biblioteca/computacao/banco-de-dados-1-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

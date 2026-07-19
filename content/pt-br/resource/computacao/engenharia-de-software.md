@@ -2,8 +2,8 @@
 publish: true
 title: "Engenharia de Software"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] Engenharia de software é a disciplina de construir sistemas que sobrevivem ao mundo real: requisitos que mudam, equipes que crescem, código que precisa ser mantido por anos. É a diferença entre programar e construir software que dura.
@@ -55,9 +55,9 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 
 **Livros abertos (licença pública):**
 
-- **Análise e Projeto de Sistemas** (IFB, licença Creative Commons) — livro aberto de instituto federal cobrindo o ciclo de análise e projeto com notação UML. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec. _PDF em breve na biblioteca deste site._
-- **Análise de Sistemas** (Rede e-Tec Brasil / MEC) — apostila introdutória de levantamento de requisitos e análise. Também no [Proedu](https://proedu.rnp.br). _PDF em breve na biblioteca deste site._
-- **Projeto de Sistemas** (Rede e-Tec Brasil / MEC) — a continuação: do modelo de análise ao projeto implementável. No [Proedu](https://proedu.rnp.br). _PDF em breve na biblioteca deste site._
+- **[Análise e Projeto de Sistemas](assets/biblioteca/computacao/analise-projeto-sistemas-ifb.pdf)** (IFB, licença Creative Commons) — livro aberto de instituto federal cobrindo o ciclo de análise e projeto com notação UML. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Análise de Sistemas](assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** (Rede e-Tec Brasil / MEC) — apostila introdutória de levantamento de requisitos e análise. Também no [Proedu](https://proedu.rnp.br).
+- **[Projeto de Sistemas](assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** (Rede e-Tec Brasil / MEC) — a continuação: do modelo de análise ao projeto implementável. No [Proedu](https://proedu.rnp.br).
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 

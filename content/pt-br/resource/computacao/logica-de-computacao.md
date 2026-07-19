@@ -2,8 +2,8 @@
 publish: true
 title: "Lógica de Computação"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] O que é este tópico
@@ -56,8 +56,8 @@ O que dominar: a ponte entre a teoria e o código — álgebra booleana em circu
 
 ### Livros e apostilas abertas
 
-- **Fundamentos de Lógica Matemática** (UAB — Universidade Aberta do Brasil) — material aberto que cobre proposicional, predicados e técnicas de demonstração em português, no ritmo certo pra graduação.
-- **Lógica de Programação** (Rede e-Tec/MEC) — apostila do portal público [proedu.rnp.br](https://proedu.rnp.br); faz a ponte entre a lógica formal e a construção de algoritmos, útil pra ver a teoria virando prática. *PDF em breve na biblioteca deste site.*
+- **[Fundamentos de Lógica Matemática](assets/biblioteca/computacao/fundamentos-logica-matematica-uab.pdf)** (UAB — Universidade Aberta do Brasil) — material aberto que cobre proposicional, predicados e técnicas de demonstração em português, no ritmo certo pra graduação.
+- **[Lógica de Programação](assets/biblioteca/computacao/logica-de-programacao-etec.pdf)** (Rede e-Tec/MEC) — apostila do portal público [proedu.rnp.br](https://proedu.rnp.br); faz a ponte entre a lógica formal e a construção de algoritmos, útil pra ver a teoria virando prática.
 
 ### Bibliografia clássica (consultar na biblioteca)
 

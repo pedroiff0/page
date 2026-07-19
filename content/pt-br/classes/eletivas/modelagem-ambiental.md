@@ -2,8 +2,8 @@
 publish: true
 title: "Modelagem Ambiental"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |

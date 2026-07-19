@@ -2,8 +2,8 @@
 publish: true
 title: "Redes de Computadores II"
 tags:
-  - disciplina
-  - especifica
+ - disciplina
+ - especifica
 ---
 
 | Campo | Valor |
@@ -40,8 +40,8 @@ Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com S
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Redes de Computadores II** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Segurança da Informação** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Redes de Computadores II](assets/biblioteca/computacao/redes-de-computadores-2-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Segurança da Informação](assets/biblioteca/computacao/seguranca-da-informacao-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

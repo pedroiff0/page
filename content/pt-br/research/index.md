@@ -29,4 +29,4 @@ Meu trabalho está na interseção entre **métodos computacionais** e **problem
 ## Leituras
 
 - [Artigos](pt-br/research/articles) — Anotações de leitura sobre artigos científicos relevantes para minha pesquisa.
-- **Fundamentos de Evolução Química da Galáxia** (W. Maciel, IAG/USP) — livro de referência da minha área, distribuído gratuitamente pelo autor. Em breve na biblioteca deste site.
+- **[Fundamentos de Evolução Química da Galáxia](assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)** (W. Maciel, IAG/USP) — livro de referência da minha área, distribuído gratuitamente pelo autor.

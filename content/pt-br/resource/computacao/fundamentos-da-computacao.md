@@ -2,8 +2,8 @@
 publish: true
 title: "Fundamentos da Computação"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] O que é este tópico
@@ -56,8 +56,8 @@ O que dominar: uma primeira noção de sistema operacional, de redes e de como a
 
 ### Livros e apostilas abertas
 
-- **Fundamentos da Computação** (livro aberto, licença Creative Commons) — cobre representação de informação, hardware e uma introdução a algoritmos. Bom primeiro contato em português.
-- **Introdução à Computação** (Rede e-Tec/MEC) — apostila do sistema Rede e-Tec Brasil, disponível no portal público [proedu.rnp.br](https://proedu.rnp.br). Linguagem acessível, pensada pra quem está começando do zero. *PDF em breve na biblioteca deste site.*
+- **[Fundamentos da Computação](assets/biblioteca/computacao/fundamentos-computacao-cc.pdf)** (livro aberto, licença Creative Commons) — cobre representação de informação, hardware e uma introdução a algoritmos. Bom primeiro contato em português.
+- **[Introdução à Computação](assets/biblioteca/computacao/introducao-a-computacao-etec.pdf)** (Rede e-Tec/MEC) — apostila do sistema Rede e-Tec Brasil, disponível no portal público [proedu.rnp.br](https://proedu.rnp.br). Linguagem acessível, pensada pra quem está começando do zero.
 
 ### Bibliografia clássica (consultar na biblioteca)
 

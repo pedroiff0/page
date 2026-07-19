@@ -2,8 +2,8 @@
 publish: true
 title: "Programação"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] O que é este tópico
@@ -56,13 +56,13 @@ O que dominar: classes, encapsulamento, herança, polimorfismo e interfaces (em 
 
 ### Livros e apostilas abertas
 
-- **Lógica de Programação** e **Técnicas de Programação** (Rede e-Tec/MEC) — a dupla de apostilas do portal público [proedu.rnp.br](https://proedu.rnp.br) pra fase inicial: algoritmos, pseudocódigo e primeiras estruturas. *PDFs em breve na biblioteca deste site.*
-- **Fundamentos de Lógica e Algoritmo** (Escola Técnica Aberta) — alternativa/complemento pra etapa 1, também via [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
-- **Linguagem C Descomplicada** (Prof. André Backes, UFU) — apostila gratuita que virou referência nacional pra aprender C; didática forte em ponteiros e alocação dinâmica, exatamente onde os livros tradicionais são áridos.
-- **Apostila C++** (Prof. Alan Panosso, UNESP) — material gratuito pra transição de C pra C++.
-- **Notas de Aula C++** (Prof. Armando Delgado, UFPR) — notas de curso abertas, boas como segunda referência de C++.
-- **Estrutura de Dados**, 2 volumes (Rede e-Tec) — cobre as estruturas fundamentais da etapa 3 em português acessível, via [proedu.rnp.br](https://proedu.rnp.br). *PDFs em breve na biblioteca deste site.*
-- **Introdução à POO com Java** (Rede e-Tec) — apoio direto às disciplinas de orientação a objetos, via [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
+- **[Lógica de Programação](assets/biblioteca/computacao/logica-de-programacao-etec.pdf)** e **[Técnicas de Programação](assets/biblioteca/computacao/tecnicas-de-programacao-ifro.pdf)** (Rede e-Tec/MEC) — a dupla de apostilas do portal público [proedu.rnp.br](https://proedu.rnp.br) pra fase inicial: algoritmos, pseudocódigo e primeiras estruturas.
+- **[Fundamentos de Lógica e Algoritmo](assets/biblioteca/computacao/fundamentos-logica-algoritmo-etec.pdf)** (Escola Técnica Aberta) — alternativa/complemento pra etapa 1, também via [proedu.rnp.br](https://proedu.rnp.br).
+- **[Linguagem C Descomplicada](assets/biblioteca/computacao/linguagem-c-descomplicada-backes.pdf)** (Prof. André Backes, UFU) — apostila gratuita que virou referência nacional pra aprender C; didática forte em ponteiros e alocação dinâmica, exatamente onde os livros tradicionais são áridos.
+- **[Apostila C++](assets/biblioteca/computacao/apostila-cpp-unesp.pdf)** (Prof. Alan Panosso, UNESP) — material gratuito pra transição de C pra C++.
+- **[Notas de Aula C++](assets/biblioteca/computacao/notas-aula-cpp-ufpr.pdf)** (Prof. Armando Delgado, UFPR) — notas de curso abertas, boas como segunda referência de C++.
+- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)**, 2 volumes (Rede e-Tec) — cobre as estruturas fundamentais da etapa 3 em português acessível, via [proedu.rnp.br](https://proedu.rnp.br).
+- **[Introdução à POO com Java](assets/biblioteca/computacao/intro-poo-java-etec.pdf)** (Rede e-Tec) — apoio direto às disciplinas de orientação a objetos, via [proedu.rnp.br](https://proedu.rnp.br).
 
 ## 🔗 Referências externas
 

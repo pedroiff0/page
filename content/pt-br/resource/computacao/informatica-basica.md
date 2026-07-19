@@ -2,8 +2,8 @@
 publish: true
 title: "Informática Básica"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] O que é este tópico
@@ -56,7 +56,7 @@ O que dominar: abrir o terminal sem medo, navegar (`cd`, `ls`/`dir`), criar e mo
 
 ### Livros e apostilas abertas
 
-- **Periféricos e Suprimentos** (Escola Técnica Aberta/MEC) — apostila aberta sobre os componentes e periféricos do computador, boa base pra etapa 1 da trilha. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
+- **[Periféricos e Suprimentos](assets/biblioteca/computacao/perifericos-e-suprimentos-etec.pdf)** (Escola Técnica Aberta/MEC) — apostila aberta sobre os componentes e periféricos do computador, boa base pra etapa 1 da trilha. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
 - O acervo do [proedu.rnp.br](https://proedu.rnp.br) (repositório público da Rede e-Tec) tem diversas outras apostilas introdutórias de informática — vale explorar a busca do portal pelo tema que você precisar reforçar.
 
 ## 🔗 Referências externas

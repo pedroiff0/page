@@ -2,8 +2,8 @@
 publish: true
 title: "Projeto e Análise de Algoritmos"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -36,38 +36,38 @@ Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limit
 5. [ ] Algoritmos de Divisão e Conquista
 6. [ ] Algoritmos Gulosos
 7. [ ] Teoria dos Grafos
-   - [ ] Conceitos Básicos
-   - [ ] Grafos e Digrafos
-   - [ ] Extensões de Grafos
-   - [ ] Planaridade
-   - [ ] Conectividade
-   - [ ] Conectividade de Nós e Grafos
-   - [ ] Árvores e Grafos
-   - [ ] Algoritmo de Conectividade
-   - [ ] Coloração
-   - [ ] Algoritmos de Coloração de Grafos
-   - [ ] Busca em Largura e Profundidade
-   - [ ] Algoritmos de Menor Caminho
-   - [ ] Algoritmo de Belman-Ford
-   - [ ] Algoritmo de Dijkstra
-   - [ ] Árvore Geradora
-   - [ ] Algoritmo de Kruskal
-   - [ ] Algoritmo de Prim
-   - [ ] Ordenação Topológica em Grafos
-   - [ ] Fluxo de Rede
-   - [ ] Algoritmo de Ford-Fulkerson
+ - [ ] Conceitos Básicos
+ - [ ] Grafos e Digrafos
+ - [ ] Extensões de Grafos
+ - [ ] Planaridade
+ - [ ] Conectividade
+ - [ ] Conectividade de Nós e Grafos
+ - [ ] Árvores e Grafos
+ - [ ] Algoritmo de Conectividade
+ - [ ] Coloração
+ - [ ] Algoritmos de Coloração de Grafos
+ - [ ] Busca em Largura e Profundidade
+ - [ ] Algoritmos de Menor Caminho
+ - [ ] Algoritmo de Belman-Ford
+ - [ ] Algoritmo de Dijkstra
+ - [ ] Árvore Geradora
+ - [ ] Algoritmo de Kruskal
+ - [ ] Algoritmo de Prim
+ - [ ] Ordenação Topológica em Grafos
+ - [ ] Fluxo de Rede
+ - [ ] Algoritmo de Ford-Fulkerson
 8. [ ] Classes de Problema
-   - [ ] P
-   - [ ] NP
-   - [ ] NP-Completo
-   - [ ] NP-Difícil
+ - [ ] P
+ - [ ] NP
+ - [ ] NP-Completo
+ - [ ] NP-Difícil
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Estrutura de Dados** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Estrutura de Dados** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

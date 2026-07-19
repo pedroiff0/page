@@ -2,8 +2,8 @@
 publish: true
 title: "Algoritmos e Estruturas de Dados I"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -29,41 +29,41 @@ Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de
 ## Conteúdo Programático
 
 1. Estruturas de Dados Homogêneas:
-   - Vetores;
-   - Marizes.
+ - Vetores;
+ - Marizes.
 2. Estruturas de Dados Heterogêneas:
-   - Registro.
+ - Registro.
 3. Passagem de Parâmetros:
-   - Passagem de parâmetros por valor;
-   - Passagem de parâmetros por referência.
+ - Passagem de parâmetros por valor;
+ - Passagem de parâmetros por referência.
 4. Alocação Dinâmica de Memória
-   - Ponteiros
+ - Ponteiros
 5. Estruturas de Dados Lineares:
-   - Listas Lineares;
-   - Listas Simplesmente Encadeadas;
-   - Listas Duplamente Encadeada;
-   - Listas Circulares;
-   - Pilhas;
-   - Filas;
-   - Listas Ordenadas.
+ - Listas Lineares;
+ - Listas Simplesmente Encadeadas;
+ - Listas Duplamente Encadeada;
+ - Listas Circulares;
+ - Pilhas;
+ - Filas;
+ - Listas Ordenadas.
 6. Recursividade
 7. Algoritmos para Pesquisa e Ordenação
-   - Busca Sequencial;
-   - Busca Binária;
-   - Buble-Sort;
-   - Merge-Sort;
-   - Heap-Sort;
-   - Quick-Sort.
+ - Busca Sequencial;
+ - Busca Binária;
+ - Buble-Sort;
+ - Merge-Sort;
+ - Heap-Sort;
+ - Quick-Sort.
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Estrutura de Dados** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Estrutura de Dados** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Linguagem C Descomplicada** (apostila) — Prof. André Backes/UFU, distribuição gratuita. Em breve na biblioteca deste site.
-- **Linguagem de Programação C++** (apostila) — UNESP/Prof. Alan Panosso. Em breve na biblioteca deste site.
-- **Linguagem C++ — Notas de Aula** — Prof. Armando Delgado/UFPR. Em breve na biblioteca deste site.
+- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Linguagem C Descomplicada](assets/biblioteca/computacao/linguagem-c-descomplicada-backes.pdf)** (apostila) — Prof. André Backes/UFU, distribuição gratuita.
+- **[Linguagem de Programação C++](assets/biblioteca/computacao/apostila-cpp-unesp.pdf)** (apostila) — UNESP/Prof. Alan Panosso.
+- **[Linguagem C++ — Notas de Aula](assets/biblioteca/computacao/notas-aula-cpp-ufpr.pdf)** — Prof. Armando Delgado/UFPR.
 
 ## Bibliografia Básica
 

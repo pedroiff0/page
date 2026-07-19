@@ -2,8 +2,8 @@
 publish: true
 title: "Segurança da Informação"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] Segurança da informação é a disciplina de proteger sistemas e dados contra acesso, alteração e destruição indevidos — da criptografia que protege sua senha ao pentest que encontra a falha antes do atacante. Hoje é responsabilidade de todo desenvolvedor, não só de especialistas.
@@ -57,7 +57,7 @@ Consolide atacando (legalmente): capture-the-flag no [picoCTF](https://picoctf.o
 
 **Livros abertos (licença pública):**
 
-- **Segurança da Informação** (Rede e-Tec Brasil / IFRO) — apostila em português cobrindo fundamentos, políticas de segurança e proteção de sistemas; boa porta de entrada no vocabulário da área. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec. _PDF em breve na biblioteca deste site._
+- **[Segurança da Informação](assets/biblioteca/computacao/seguranca-da-informacao-ifro.pdf)** (Rede e-Tec Brasil / IFRO) — apostila em português cobrindo fundamentos, políticas de segurança e proteção de sistemas; boa porta de entrada no vocabulário da área. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
 
 ## 🔗 Referências externas
 

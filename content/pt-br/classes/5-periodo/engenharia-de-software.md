@@ -2,8 +2,8 @@
 publish: true
 title: "Engenharia de Software"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -36,50 +36,50 @@ Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto
 ## Conteúdo Programático
 
 1. Teoria dos Sistemas
-   - Sistemas naturais e sistemas automatizados
-   - Software x Sistemas
-   - Categorias de Software
+ - Sistemas naturais e sistemas automatizados
+ - Software x Sistemas
+ - Categorias de Software
 2. Processo de Desenvolvimento de Software
-   - Histórico da Evolução do Software
-   - Etapas do Processo de Desenvolvimento de Software: Análise, Projeto, Implementação, Testes, Implantação e Manutenção.
-   - Modelo Clássico
-   - Modelo em Espiral
-   - Processo Unificado
-   - Métodos Ágeis
-   - Papeis no desenvolvimento de software (stakeholders).
+ - Histórico da Evolução do Software
+ - Etapas do Processo de Desenvolvimento de Software: Análise, Projeto, Implementação, Testes, Implantação e Manutenção.
+ - Modelo Clássico
+ - Modelo em Espiral
+ - Processo Unificado
+ - Métodos Ágeis
+ - Papeis no desenvolvimento de software (stakeholders).
 3. Análise e Projeto de Software
-   - Técnicas de Coleta e Especificação de Requisitos
-   - Métodos de Análise: Estruturada, Essencial e Orientada a Objetos
-   - Paralelo entre as diferentes metodologias
-   - A Etapa de Projeto
-   - Princípios de Qualidade em Projeto: Coesão e Acoplamento
-   - Métodos de Projeto
+ - Técnicas de Coleta e Especificação de Requisitos
+ - Métodos de Análise: Estruturada, Essencial e Orientada a Objetos
+ - Paralelo entre as diferentes metodologias
+ - A Etapa de Projeto
+ - Princípios de Qualidade em Projeto: Coesão e Acoplamento
+ - Métodos de Projeto
 4. Arquitetura de Software
-   - Arquitetura em camadas
-   - Arquitetura MVC
-   - Microserviços
-   - Arquitetura Orientada a Mensagens
-   - Arquitetura Publish/Subscribe
+ - Arquitetura em camadas
+ - Arquitetura MVC
+ - Microserviços
+ - Arquitetura Orientada a Mensagens
+ - Arquitetura Publish/Subscribe
 5. Testes
-   - Teste de unidade
-   - Testabilidade
-   - Teste de integração
-   - Testes de sistema
+ - Teste de unidade
+ - Testabilidade
+ - Teste de integração
+ - Testes de sistema
 6. Visão Geral sobre Manutenção de Software
-   - Conceito, motivações e dificuldades
-   - Tipos de Manutenção
-   - Processo de Manutenção de Software
-   - Gerência de Configuração
-   - Reengenharia
+ - Conceito, motivações e dificuldades
+ - Tipos de Manutenção
+ - Processo de Manutenção de Software
+ - Gerência de Configuração
+ - Reengenharia
 7. Ferramentas e Ambientes de Suporte ao Desenvolvimento de Software
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Análise e Projeto de Sistemas** — IFB, licença Creative Commons. Em breve na biblioteca deste site.
-- **Análise de Sistemas** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Projeto de Sistemas** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Análise e Projeto de Sistemas](assets/biblioteca/computacao/analise-projeto-sistemas-ifb.pdf)** — IFB, licença Creative Commons.
+- **[Análise de Sistemas](assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Projeto de Sistemas](assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

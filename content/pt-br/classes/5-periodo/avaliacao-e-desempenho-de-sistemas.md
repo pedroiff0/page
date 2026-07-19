@@ -2,8 +2,8 @@
 publish: true
 title: "Avaliação e Desempenho de Sistemas"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -25,29 +25,29 @@ Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilíst
 ## Conteúdo Programático
 
 1. Visão Geral
-   - Motivação
-   - Técnicas de Avaliação de Desempenho
-   - Metodologia Geral para Estudo de Modelagem
+ - Motivação
+ - Técnicas de Avaliação de Desempenho
+ - Metodologia Geral para Estudo de Modelagem
 2. Modelos Determinísticos de Desempenho
-   - Leis Fundamentais
-   - Lei de Litle
-   - Leis Operacionais
-   - Limites Assintóticos
-   - Análise do Valor Médio
+ - Leis Fundamentais
+ - Lei de Litle
+ - Leis Operacionais
+ - Limites Assintóticos
+ - Análise do Valor Médio
 3. Introdução a Modelos Probabilísticos de Desempenho
-   - Filas M/M/1
+ - Filas M/M/1
 4. Modelos de Carga
-   - Caracterização de Cargas
-   - Benchmarking
-   - Modelos de Comportamento de Usuários
-   - Planejamento e Gerenciamento de Capacidade
+ - Caracterização de Cargas
+ - Benchmarking
+ - Modelos de Comportamento de Usuários
+ - Planejamento e Gerenciamento de Capacidade
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Análise de Sistemas** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Projeto de Sistemas** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Análise de Sistemas](assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Projeto de Sistemas](assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

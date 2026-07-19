@@ -2,8 +2,8 @@
 publish: true
 title: "Banco de Dados"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] Banco de dados é a área que estuda como armazenar, organizar e recuperar dados de forma confiável e eficiente. SQL e o modelo relacional dominam a indústria há mais de 40 anos — e continuam sendo a habilidade técnica mais universalmente cobrada em vagas de tecnologia.
@@ -55,8 +55,8 @@ Backup e recuperação, controle de acesso, replicação e noções de bancos n�
 
 **Livros abertos (licença pública):**
 
-- **Introdução a Banco de Dados** (Rede e-Tec Brasil / MEC) — apostila introdutória em português: modelo relacional, modelagem e primeiros passos de SQL. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec. _PDF em breve na biblioteca deste site._
-- **Banco de Dados I** (Rede e-Tec Brasil / MEC) — sequência natural da anterior, aprofundando SQL e projeto de banco. Também no [Proedu](https://proedu.rnp.br). _PDF em breve na biblioteca deste site._
+- **[Introdução a Banco de Dados](assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** (Rede e-Tec Brasil / MEC) — apostila introdutória em português: modelo relacional, modelagem e primeiros passos de SQL. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Banco de Dados I](assets/biblioteca/computacao/banco-de-dados-1-etec.pdf)** (Rede e-Tec Brasil / MEC) — sequência natural da anterior, aprofundando SQL e projeto de banco. Também no [Proedu](https://proedu.rnp.br).
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 

@@ -2,8 +2,8 @@
 publish: true
 title: "Linguagens Formais e Autômatos"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -34,14 +34,14 @@ Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. M
 2. Linguagens Livres de Contexto
 3. Linguagens Sensíveis ao Contexto
 4. Autômatos
-   - Autômato Finito
-   - Autômato Determinístico
-   - Autômato Não-Determinístico
-   - Autômato de Pilha
+ - Autômato Finito
+ - Autômato Determinístico
+ - Autômato Não-Determinístico
+ - Autômato de Pilha
 5. Máquina de Turing
-   - Definição do Modelo Computacional de Máquina de Estados e da Máquina de Turing
-   - Variações e Extensões da Máquina de Turing
-   - Aplicações da Máquina de Turing
+ - Definição do Modelo Computacional de Máquina de Estados e da Máquina de Turing
+ - Variações e Extensões da Máquina de Turing
+ - Aplicações da Máquina de Turing
 6. Computabilidade
 7. Noções de Cálculo-Lambda
 8. Funções Recursivas

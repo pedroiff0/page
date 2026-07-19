@@ -2,8 +2,8 @@
 publish: true
 title: "Eletrônica Digital"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -31,37 +31,37 @@ Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise
 ## Conteúdo Programático
 
 1. Sistema de Numeração
-   - Notação Posicional
-   - Sistemas Numéricos
-   - i. Decimal
-   - ii. Octal
-   - iii. Binário
-   - iv. Hexadecimal
-   - Conversão entre Bases
+ - Notação Posicional
+ - Sistemas Numéricos
+ - i. Decimal
+ - ii. Octal
+ - iii. Binário
+ - iv. Hexadecimal
+ - Conversão entre Bases
 2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole
-   - Funções Lógicas
-   - Tabelas Verdade
-   - Álgebra Booleana
-   - Teoremas de De Morgan
-   - Teorema da Dualidade
-   - Mintermos e Maxtermos
-   - Simplificação de Equações e Circuitos Lógicos
-   - Mapas de Karnaugh
+ - Funções Lógicas
+ - Tabelas Verdade
+ - Álgebra Booleana
+ - Teoremas de De Morgan
+ - Teorema da Dualidade
+ - Mintermos e Maxtermos
+ - Simplificação de Equações e Circuitos Lógicos
+ - Mapas de Karnaugh
 3. Circuitos Combinacionais
-   - Multiplexadores
-   - Demultiplexadores
-   - Codificadores
-   - Decodificadores
-   - Conversores de Código
-   - Circuitos Aritméticos
-   - Latches
-   - Flip-Flops
+ - Multiplexadores
+ - Demultiplexadores
+ - Codificadores
+ - Decodificadores
+ - Conversores de Código
+ - Circuitos Aritméticos
+ - Latches
+ - Flip-Flops
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Circuitos Digitais** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Circuitos Digitais](assets/biblioteca/computacao/circuitos-digitais-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

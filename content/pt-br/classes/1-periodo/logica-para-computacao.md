@@ -2,8 +2,8 @@
 publish: true
 title: "Lógica para Computação"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -33,19 +33,19 @@ Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Prime
 
 1. Introdução à Lógica para Computação;
 2. Lógica Proposicional
-   - Linguagem, Sintaxe, Semântica e Propriedades Semânticas;
-   - Métodos para Determinação da Validade de Fórmulas;
-   - Sistemas de Dedução de Lógica Proposicional.
+ - Linguagem, Sintaxe, Semântica e Propriedades Semânticas;
+ - Métodos para Determinação da Validade de Fórmulas;
+ - Sistemas de Dedução de Lógica Proposicional.
 3. Lógica de Predicados de Primeira Ordem:
-   - Linguagem, Quantificadores, Sintaxe, Semântica e Propriedades Semânticas;
-   - Sistemas de Dedução na Lógica de Predicados.
+ - Linguagem, Quantificadores, Sintaxe, Semântica e Propriedades Semânticas;
+ - Sistemas de Dedução na Lógica de Predicados.
 4. Aplicações de Lógica na Computação.
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Fundamentos de Lógica Matemática** — UAB. Em breve na biblioteca deste site.
+- **[Fundamentos de Lógica Matemática](assets/biblioteca/computacao/fundamentos-logica-matematica-uab.pdf)** — UAB.
 
 ## Bibliografia Básica
 

@@ -2,9 +2,9 @@
 publish: true
 title: "LaTeX e Escrita Acadêmica"
 tags:
-  - recursos
-  - latex
-  - escrita
+ - recursos
+ - latex
+ - escrita
 ---
 
 > [!info] LaTeX é o sistema de preparação de documentos padrão da comunidade científica — artigos, monografias, pôsteres e apresentações. Aqui estão os materiais que uso e recomendo, mais o essencial de normalização ABNT.
@@ -29,10 +29,10 @@ TikZ para diagramas vetoriais direto no documento, e Beamer para slides. É o n�
 
 ## 📚 Materiais recomendados
 
-- **Apostila LaTeX — do básico ao avançado** — PET Mecânica/UFES, distribuição gratuita. Em breve na biblioteca deste site.
-- **Figuras e Diagramas com TikZ** — Prof. Lenimar Andrade/UFPB. Em breve na biblioteca deste site.
-- **BibLaTeX Cheat Sheet** e **Manual do biblatex-abnt** — documentação livre ([CTAN](https://ctan.org/pkg/biblatex-abnt)).
-- **Guias de normalização ABNT** — bibliotecas da PUC Minas e da UNIP, gratuitos. Em breve na biblioteca deste site.
+- **[Apostila LaTeX — do básico ao avançado](assets/biblioteca/latex-escrita/apostila-latex-ufes.pdf)** — PET Mecânica/UFES, distribuição gratuita.
+- **[Figuras e Diagramas com TikZ](assets/biblioteca/latex-escrita/figuras-diagramas-tikz-ufpb.pdf)** — Prof. Lenimar Andrade/UFPB.
+- **[BibLaTeX Cheat Sheet](assets/biblioteca/latex-escrita/biblatex-cheatsheet.pdf)** e **[Manual do biblatex-abnt](assets/biblioteca/latex-escrita/biblatex-abnt-manual.pdf)** — documentação livre ([CTAN](https://ctan.org/pkg/biblatex-abnt)).
+- **Guias de normalização ABNT** — [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf), gratuitos.
 
 ## 🔗 Referências externas
 

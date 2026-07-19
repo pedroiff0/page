@@ -2,8 +2,8 @@
 publish: true
 title: "Modelagem de Dados"
 tags:
-  - disciplina
-  - especifica
+ - disciplina
+ - especifica
 ---
 
 | Campo | Valor |
@@ -32,37 +32,37 @@ Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenc
 
 1. [x] Evolução Histórica dos Sistemas de Informação
 2. [x] Conceitos Básicos de um Sistema Gerenciador de Banco de Dados (SGBDs)
-   - [x] Diferença entre Utilização de Arquivos e SGBDs
-   - [x] Vantagens de um SGDB
-   - [x] Arquitetura de SGBD
+ - [x] Diferença entre Utilização de Arquivos e SGBDs
+ - [x] Vantagens de um SGDB
+ - [x] Arquitetura de SGBD
 3. [x] Modelo Entidade Relacionamento
-   - [x] Entidade
-   - [x] Atributos
-   - [x] Relacionamentos
-   - [x] Generalização
-   - [x] Diagrama Entidade-Relacionamento
+ - [x] Entidade
+ - [x] Atributos
+ - [x] Relacionamentos
+ - [x] Generalização
+ - [x] Diagrama Entidade-Relacionamento
 4. [ ] Normalização e Dependências Funcionais
-   - [ ] Primeira Forma Normal
-   - [ ] Segunda Forma Normal
-   - [ ] Terceira Forma Normal
-   - [ ] Quarta Forma Normal
-   - [ ] Quinta Forma Normal
+ - [ ] Primeira Forma Normal
+ - [ ] Segunda Forma Normal
+ - [ ] Terceira Forma Normal
+ - [ ] Quarta Forma Normal
+ - [ ] Quinta Forma Normal
 5. [x] Modelo Relacional
-   - [x] Conceitos
-   - [x] Restrições de integridade
+ - [x] Conceitos
+ - [x] Restrições de integridade
 6. [ ] Álgebra Relacional
-   - [ ] Álgebra Relacional
-   - [ ] Cálculo Relacional de Tupla
-   - [ ] Cálculo Relacional de Domínio
+ - [ ] Álgebra Relacional
+ - [ ] Cálculo Relacional de Tupla
+ - [ ] Cálculo Relacional de Domínio
 7. [ ] Projeto e Implementação de Banco de Dados
-   - [ ] Diagrama de Estrutura de Dados
-   - [ ] Linguagem de Definição de Dados
+ - [ ] Diagrama de Estrutura de Dados
+ - [ ] Linguagem de Definição de Dados
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Introdução a Banco de Dados** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Introdução a Banco de Dados](assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

@@ -2,8 +2,8 @@
 publish: true
 title: "Projeto Final de Curso II"
 tags:
-  - disciplina
-  - especifica
+ - disciplina
+ - especifica
 ---
 
 | Campo | Valor |
@@ -38,8 +38,8 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Orientação à Prática Profissional e Pesquisa** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Guias de normalização ABNT** — bibliotecas da PUC Minas e da UNIP, distribuição gratuita. Em breve na biblioteca deste site.
+- **[Orientação à Prática Profissional e Pesquisa](assets/biblioteca/computacao/orientacao-pratica-profissional-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **Guias de normalização ABNT** — bibliotecas da [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e da [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf), distribuição gratuita.
 
 ## Bibliografia Básica
 

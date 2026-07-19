@@ -2,8 +2,8 @@
 publish: true
 title: "Cálculo Numérico"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |
@@ -26,48 +26,48 @@ Solução de equações não lineares; Interpolação e ajuste de curvas; Integr
 ## Conteúdo Programático
 
 1. Números Binários e Análise de Erros
-   - Representação de números em diversas bases
-   - Conversão de números nos sistemas decimal e binário
-   - Aritmética de ponto flutuante
-   - Erros absolutos e relativos
-   - Erros de arredondamento e truncamento em um sistema de aritmética de ponto flutuante
+ - Representação de números em diversas bases
+ - Conversão de números nos sistemas decimal e binário
+ - Aritmética de ponto flutuante
+ - Erros absolutos e relativos
+ - Erros de arredondamento e truncamento em um sistema de aritmética de ponto flutuante
 2. Solução de Equações não Lineares
-   - Isolamento de raízes, refinamento e critérios de parada
-   - Método da bisseção
-   - Método do ponto fixo
-   - Método de Newton-Raphson
-   - Método da secante
-   - Comparação entre os métodos
+ - Isolamento de raízes, refinamento e critérios de parada
+ - Método da bisseção
+ - Método do ponto fixo
+ - Método de Newton-Raphson
+ - Método da secante
+ - Comparação entre os métodos
 3. Interpolação
-   - Interpolação polinomial
-   - Formas de se obter o polinômio interpolador: resolução do sistema linear, forma de Lagrange e forma de Newton
-   - Estudo do erro na interpolação
-   - Fenômeno de Runge
-   - Funções spline: spline linear interpolante e spline cúbica interpolante
+ - Interpolação polinomial
+ - Formas de se obter o polinômio interpolador: resolução do sistema linear, forma de Lagrange e forma de Newton
+ - Estudo do erro na interpolação
+ - Fenômeno de Runge
+ - Funções spline: spline linear interpolante e spline cúbica interpolante
 4. Ajuste de Curvas
-   - Caso discreto
-   - Caso contínuo
-   - Método dos quadrados mínimos
-   - Caso não linear
+ - Caso discreto
+ - Caso contínuo
+ - Método dos quadrados mínimos
+ - Caso não linear
 5. Integração Numérica
-   - Regra dos trapézios
-   - Regra dos trapézios repetida
-   - Regra 1/3 de Simpson
-   - Regra 1/3 de Simpson repetida
-   - Teorema geral do erro
+ - Regra dos trapézios
+ - Regra dos trapézios repetida
+ - Regra 1/3 de Simpson
+ - Regra 1/3 de Simpson repetida
+ - Teorema geral do erro
 6. Soluções Numéricas de Equações Diferenciais Ordinárias
-   - Problemas de valor inicial
-   - Método de Euler, métodos de série de Taylor
-   - Métodos de Runge-Kutta de 2.ª ordem
-   - Métodos de Runge-Kutta de ordens superiores
-   - Equações de ordem superior, problemas de valor de contorno
-   - Método das diferenças finitas
+ - Problemas de valor inicial
+ - Método de Euler, métodos de série de Taylor
+ - Métodos de Runge-Kutta de 2.ª ordem
+ - Métodos de Runge-Kutta de ordens superiores
+ - Equações de ordem superior, problemas de valor de contorno
+ - Método das diferenças finitas
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Cálculo Numérico Aplicado à Engenharia com Python** — IFSC. Em breve na biblioteca deste site.
+- **[Cálculo Numérico Aplicado à Engenharia com Python](assets/biblioteca/matematica/calculo-numerico-python-ifsc.pdf)** — IFSC.
 
 ## Bibliografia Básica
 

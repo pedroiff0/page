@@ -2,8 +2,8 @@
 publish: true
 title: "Eletricidade Aplicada"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |
@@ -29,36 +29,36 @@ Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. 
 ## Conteúdo Programático
 
 1. [ ] Análise de Circuitos Em Corrente Alternada
-   - [x] Padrões Elétricos e Convenções;
-   - [x] Circuitos em Corrente Alternada;
-   - [x] Representação Senoidal, Retangular e Polar;
-   - [x] Valor Eficaz de uma Onda Senoidal;
-   - [x] Triângulos de Impedâncias;
-   - [x] Reatância indutiva;
-   - [x] Reatância capacitiva;
-   - [x] Triângulo de Potência;
-   - [x] Potência Ativa;
-   - [x] Potência Reativa;
-   - [x] Potência Aparente;
-   - [x] Fator de Potência;
-   - [x] Noções de Circuitos Trifásicos;
-   - [ ] Transformadores;
-   - [x] Relação de transformação, ligação de triângulo e estrela;
+ - [x] Padrões Elétricos e Convenções;
+ - [x] Circuitos em Corrente Alternada;
+ - [x] Representação Senoidal, Retangular e Polar;
+ - [x] Valor Eficaz de uma Onda Senoidal;
+ - [x] Triângulos de Impedâncias;
+ - [x] Reatância indutiva;
+ - [x] Reatância capacitiva;
+ - [x] Triângulo de Potência;
+ - [x] Potência Ativa;
+ - [x] Potência Reativa;
+ - [x] Potência Aparente;
+ - [x] Fator de Potência;
+ - [x] Noções de Circuitos Trifásicos;
+ - [ ] Transformadores;
+ - [x] Relação de transformação, ligação de triângulo e estrela;
 2. [ ] Fornecimento de Energia
-   - [x] Visão Geral do Sistema Elétrico;
-   - [x] Modalidades de Ligações dos Consumidores;
-   - [x] Monofásica;
-   - [x] Bifásica;
-   - [x] Trifásica;
-   - [ ] Instalação para Iluminação e Aparelhos Eletrodomésticos;
-   - [ ] Normas, Símbolos e Convenções.
+ - [x] Visão Geral do Sistema Elétrico;
+ - [x] Modalidades de Ligações dos Consumidores;
+ - [x] Monofásica;
+ - [x] Bifásica;
+ - [x] Trifásica;
+ - [ ] Instalação para Iluminação e Aparelhos Eletrodomésticos;
+ - [ ] Normas, Símbolos e Convenções.
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Fundamentos de Eletricidade** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Noções Básicas de Eletrotécnica** — e-Tec Brasil/IFPA. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Fundamentos de Eletricidade](assets/biblioteca/eletroeletronica/fundamentos-eletricidade-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Noções Básicas de Eletrotécnica](assets/biblioteca/eletroeletronica/nocoes-eletrotecnica-ifpa.pdf)** — e-Tec Brasil/IFPA. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

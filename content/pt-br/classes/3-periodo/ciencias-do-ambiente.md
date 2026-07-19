@@ -2,8 +2,8 @@
 publish: true
 title: "Ciências do Ambiente"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |
@@ -25,37 +25,37 @@ Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; 
 ## Conteúdo Programático
 
 1. Conceitos Básicos
-   - A crise ambiental
-   - Recursos Naturais
-   - Poluição
+ - A crise ambiental
+ - Recursos Naturais
+ - Poluição
 2. Ecossistemas
-   - Definição e estrutura
-   - Reciclagem de matéria e fluxo de energia
-   - Cadeias alimentares
-   - Produtividade primária
-   - Sucessão ecológica
-   - Amplificação biológica
-   - Biomas
+ - Definição e estrutura
+ - Reciclagem de matéria e fluxo de energia
+ - Cadeias alimentares
+ - Produtividade primária
+ - Sucessão ecológica
+ - Amplificação biológica
+ - Biomas
 3. Ciclos Biogeoquímicos
-   - O ciclo do carbono
-   - O ciclo do nitrogênio
-   - O ciclo do fósforo
-   - O ciclo do enxofre
-   - O ciclo hidrológico
+ - O ciclo do carbono
+ - O ciclo do nitrogênio
+ - O ciclo do fósforo
+ - O ciclo do enxofre
+ - O ciclo hidrológico
 4. Poluição Ambiental
-   - A energia e o meio ambiente
-   - O meio aquático
-   - O meio terrestre
-   - O meio atmosférico
+ - A energia e o meio ambiente
+ - O meio aquático
+ - O meio terrestre
+ - O meio atmosférico
 5. Desenvolvimento Sustentável
-   - Economia e Meio ambiente
-   - Avaliação de impactos ambientais
+ - Economia e Meio ambiente
+ - Avaliação de impactos ambientais
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Ciências Ambientais para Engenharia** — distribuído pelos autores no [ResearchGate](https://www.researchgate.net/publication/267034760).
+- **[Ciências Ambientais para Engenharia](assets/biblioteca/ciencias/ciencias-ambientais-para-engenharia.pdf)** — distribuído pelos autores no [ResearchGate](https://www.researchgate.net/publication/267034760).
 
 ## Bibliografia Básica
 

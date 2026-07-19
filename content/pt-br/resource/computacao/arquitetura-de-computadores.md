@@ -2,8 +2,8 @@
 publish: true
 title: "Arquitetura de Computadores"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] O que é este tópico
@@ -56,7 +56,7 @@ O que dominar: superescalar, multicore, coerência de cache em alto nível; e do
 
 ### Livros e apostilas abertas
 
-- **Organização e Arquitetura de Computadores** (Escola Técnica Aberta/MEC) — apostila aberta em português que cobre a etapa 1 e parte da 2 desta trilha. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
+- **[Organização e Arquitetura de Computadores](assets/biblioteca/computacao/organizacao-arquitetura-computadores-etec.pdf)** (Escola Técnica Aberta/MEC) — apostila aberta em português que cobre a etapa 1 e parte da 2 desta trilha. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
 
 ### Bibliografia clássica (consultar na biblioteca)
 

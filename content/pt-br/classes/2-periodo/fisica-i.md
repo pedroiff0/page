@@ -2,8 +2,8 @@
 publish: true
 title: "Física I"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |
@@ -30,58 +30,58 @@ Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conserva
 ## Conteúdo Programático
 
 1. Movimento em uma dimensão
-   - Velocidade média e instantânea – modelos de análise;
-   - Aceleração;
-   - Diagramas de movimento;
-   - A partícula com aceleração constante;
-   - Corpos em queda livre.
+ - Velocidade média e instantânea – modelos de análise;
+ - Aceleração;
+ - Diagramas de movimento;
+ - A partícula com aceleração constante;
+ - Corpos em queda livre.
 2. Movimento em duas dimensões:
-   - Os vetores posição, velocidade e aceleração;
-   - Movimento bidimensional com aceleração constante;
-   - Movimento projétil;
-   - A partícula com movimento circular uniforme;
-   - Aceleração tangencial e radial;
-   - Velocidade relativa;
-   - Órbitas circulares.
+ - Os vetores posição, velocidade e aceleração;
+ - Movimento bidimensional com aceleração constante;
+ - Movimento projétil;
+ - A partícula com movimento circular uniforme;
+ - Aceleração tangencial e radial;
+ - Velocidade relativa;
+ - Órbitas circulares.
 3. As Leis do Movimento:
-   - O conceito de força;
-   - A Primeira Lei de Newton;
-   - Massa inercial;
-   - A Segunda Lei de Newton – Ação de uma força resultante;
-   - A força gravitacional e o peso;
-   - A Terceira Lei de Newton;
-   - Aplicações das Leis de Newton
+ - O conceito de força;
+ - A Primeira Lei de Newton;
+ - Massa inercial;
+ - A Segunda Lei de Newton – Ação de uma força resultante;
+ - A força gravitacional e o peso;
+ - A Terceira Lei de Newton;
+ - Aplicações das Leis de Newton
 4. Aplicações Adicionais das Leis de Newton:
-   - Forças de atrito;
-   - A Segunda Lei de Newton aplicada a uma partícula em movimento circular uniforme;
-   - Movimento circular não uniforme;
-   - Movimento na presença de forças resistivas dependentes da velocidade;
-   - O campo gravitacional.
+ - Forças de atrito;
+ - A Segunda Lei de Newton aplicada a uma partícula em movimento circular uniforme;
+ - Movimento circular não uniforme;
+ - Movimento na presença de forças resistivas dependentes da velocidade;
+ - O campo gravitacional.
 5. Energia e Transferência de Energia:
-   - Trabalho feito por uma força constante;
-   - Trabalho feito por uma força variável;
-   - Potência;
-   - Sistemas conservativos;
-   - Sistemas não conservativos.
+ - Trabalho feito por uma força constante;
+ - Trabalho feito por uma força variável;
+ - Potência;
+ - Sistemas conservativos;
+ - Sistemas não conservativos.
 6. Momento e Colisões:
-   - Movimento linear e sua conservação;
-   - Impulso e momento;
-   - Colisões;
-   - Colisões bidimensionais;
-   - O centro de massa;
-   - O movimento de um centro de partículas.
+ - Movimento linear e sua conservação;
+ - Impulso e momento;
+ - Colisões;
+ - Colisões bidimensionais;
+ - O centro de massa;
+ - O movimento de um centro de partículas.
 7. Movimento Rotacional:
-   - Velocidade angular e aceleração angular;
-   - O corpo rígido em aceleração angular constante;
-   - Energia cinética rotacional;
-   - Torque e o produto vetorial;
-   - Momento angular e sua conservação.
+ - Velocidade angular e aceleração angular;
+ - O corpo rígido em aceleração angular constante;
+ - Energia cinética rotacional;
+ - Torque e o produto vetorial;
+ - Momento angular e sua conservação.
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Fundamentos de Física** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Fundamentos de Física](assets/biblioteca/fisica/fundamentos-de-fisica-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

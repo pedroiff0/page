@@ -2,8 +2,8 @@
 publish: true
 title: "Dimensionamento de Redes de Computadores"
 tags:
-  - disciplina
-  - eletivo
+ - disciplina
+ - eletivo
 ---
 
 | Campo | Valor |

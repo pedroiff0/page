@@ -2,8 +2,8 @@
 publish: true
 title: "Sistemas Operacionais I"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -31,49 +31,49 @@ Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Me
 ## Conteúdo Programático
 
 1. Introdução
-   - O que é um Sistema Operacional?
-   - Revisão sobre Hardware de Computadores
-   - Tipos de Sistemas Operacionais
-   - Conceitos sobre Sistemas Operacionais
-   - i. Processos
-   - ii. Espaços de Endereçamento
-   - iii. Arquivos
-   - iv. Entrada e Saída
-   - v. Segurança
-   - vi. Interpretador de Comandos
-   - Chamadas de Sistemas
-   - i. Chamadas de Gerenciamento de Processos
-   - ii. Chamadas de Gerenciamento de Gerenciamento de Arquivos
-   - iii. Chamadas de Gerenciamento de Diretórios
-   - iv. Outras Chamadas de Sistema
-   - Estrutura de Sistemas Operacionais
-   - i. Sistemas Monolíticos
-   - ii. Sistemas em Camadas
-   - iii. Micronúcleo
-   - iv. Modelo Cliente-Servidor
-   - v. Máquinas Virtuais
-   - vi. Exonúcleo
+ - O que é um Sistema Operacional?
+ - Revisão sobre Hardware de Computadores
+ - Tipos de Sistemas Operacionais
+ - Conceitos sobre Sistemas Operacionais
+ - i. Processos
+ - ii. Espaços de Endereçamento
+ - iii. Arquivos
+ - iv. Entrada e Saída
+ - v. Segurança
+ - vi. Interpretador de Comandos
+ - Chamadas de Sistemas
+ - i. Chamadas de Gerenciamento de Processos
+ - ii. Chamadas de Gerenciamento de Gerenciamento de Arquivos
+ - iii. Chamadas de Gerenciamento de Diretórios
+ - iv. Outras Chamadas de Sistema
+ - Estrutura de Sistemas Operacionais
+ - i. Sistemas Monolíticos
+ - ii. Sistemas em Camadas
+ - iii. Micronúcleo
+ - iv. Modelo Cliente-Servidor
+ - v. Máquinas Virtuais
+ - vi. Exonúcleo
 2. Processos e Threads
-   - Processos
-   - Threads
-   - Comunicação entre Processos
-   - Escalonamento
-   - Problemas Básicos de IPC
+ - Processos
+ - Threads
+ - Comunicação entre Processos
+ - Escalonamento
+ - Problemas Básicos de IPC
 3. Gerenciamento de Memória
-   - Sem Abstração de Memória
-   - Abstração de Memória: Espaços de Endereçamento
-   - Memória Virtual
-   - Algoritmos de Substituição de Páginas
-   - Questões de Projeto para Sistemas de Paginação
-   - Questões de Implementação
-   - Segmentação
+ - Sem Abstração de Memória
+ - Abstração de Memória: Espaços de Endereçamento
+ - Memória Virtual
+ - Algoritmos de Substituição de Páginas
+ - Questões de Projeto para Sistemas de Paginação
+ - Questões de Implementação
+ - Segmentação
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Sistemas Operacionais** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Introdução ao Linux** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Sistemas Operacionais](assets/biblioteca/computacao/sistemas-operacionais-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Introdução ao Linux](assets/biblioteca/computacao/introducao-ao-linux-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

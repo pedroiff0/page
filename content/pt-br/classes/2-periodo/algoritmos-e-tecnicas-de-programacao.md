@@ -2,8 +2,8 @@
 publish: true
 title: "Algoritmos e Técnicas de Programação"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -37,42 +37,42 @@ Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exempl
 ## Conteúdo Programático
 
 1. Introdução a Algoritmos e Linguagens de Programação:
-   - Introdução à organização de computadores;
-   - Algoritmos, estruturas de dados e programas;
-   - Função dos algoritmos na Computação;
-   - Exemplos informais de algoritmos;
-   - Notações gráficas e descritivas de algoritmos;
-   - Paradigmas de linguagens de programação;
-   - Evolução das linguagens de programação.
+ - Introdução à organização de computadores;
+ - Algoritmos, estruturas de dados e programas;
+ - Função dos algoritmos na Computação;
+ - Exemplos informais de algoritmos;
+ - Notações gráficas e descritivas de algoritmos;
+ - Paradigmas de linguagens de programação;
+ - Evolução das linguagens de programação.
 2. Conceitos de Programação em Linguagem de Programação C:
-   - Apresentação da linguagem de Programação C;
-   - Tipos primitivos de dados;
-   - Identificadores, constantes e variáveis;
-   - Comando de atribuição;
-   - Entrada e saída de dados;
-   - Operadores aritméticos, relacionais e lógicos;
-   - Blocos de instruções e linhas de comentários
+ - Apresentação da linguagem de Programação C;
+ - Tipos primitivos de dados;
+ - Identificadores, constantes e variáveis;
+ - Comando de atribuição;
+ - Entrada e saída de dados;
+ - Operadores aritméticos, relacionais e lógicos;
+ - Blocos de instruções e linhas de comentários
 3. Estruturas de Seleção:
-   - Conceito de estruturas de seleção;
-   - Seleção simples (IF);
-   - Seleção composta (IF-ELSE);
-   - Seleção encadeada (IF's encadeados);
-   - Seleção de múltipla escolha (SWITCH-CASE);
-   - Utilização de funções e estruturas de seleção na resolução de problemas.
+ - Conceito de estruturas de seleção;
+ - Seleção simples (IF);
+ - Seleção composta (IF-ELSE);
+ - Seleção encadeada (IF's encadeados);
+ - Seleção de múltipla escolha (SWITCH-CASE);
+ - Utilização de funções e estruturas de seleção na resolução de problemas.
 4. Estruturas de Repetição:
-   - Conceito de estruturas de repetição;
-   - Repetição com teste no início (WHILE);
-   - Repetição com teste no final (DO-WHILE);
-   - Repetição com variável de controle (FOR).
+ - Conceito de estruturas de repetição;
+ - Repetição com teste no início (WHILE);
+ - Repetição com teste no final (DO-WHILE);
+ - Repetição com variável de controle (FOR).
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Lógica de Programação** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Técnicas de Programação** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Fundamentos de Lógica e Algoritmo** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Linguagem C Descomplicada** (apostila) — Prof. André Backes/UFU, distribuição gratuita. Em breve na biblioteca deste site.
+- **[Lógica de Programação](assets/biblioteca/computacao/logica-de-programacao-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Técnicas de Programação](assets/biblioteca/computacao/tecnicas-de-programacao-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Fundamentos de Lógica e Algoritmo](assets/biblioteca/computacao/fundamentos-logica-algoritmo-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Linguagem C Descomplicada](assets/biblioteca/computacao/linguagem-c-descomplicada-backes.pdf)** (apostila) — Prof. André Backes/UFU, distribuição gratuita.
 
 ## Bibliografia Básica
 

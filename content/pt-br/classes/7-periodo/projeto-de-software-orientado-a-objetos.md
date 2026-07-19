@@ -2,8 +2,8 @@
 publish: true
 title: "Projeto de Software Orientado a Objetos"
 tags:
-  - disciplina
-  - especifica
+ - disciplina
+ - especifica
 ---
 
 | Campo | Valor |
@@ -25,45 +25,45 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
 ## Conteúdo Programático
 
 1. Princípios de Projeto Orientado a Objetos
-   - Single Responsibility Principle
-   - Open/Closed Principle
-   - Liskov Substitution Principle
-   - Interface Segregation Principle
-   - Dependency Inversion Principle
+ - Single Responsibility Principle
+ - Open/Closed Principle
+ - Liskov Substitution Principle
+ - Interface Segregation Principle
+ - Dependency Inversion Principle
 2. Padrões de Projeto
-   - Padrões de Criação
-   - i. Abstract Factory
-   - ii. Builder
-   - iii. Factory Method
-   - iv. Prototype
-   - v. Singleton
-   - Padrões Estruturais
-   - i. Adapter
-   - ii. Bridge
-   - iii. Composite
-   - iv. Decorator
-   - v. Façade
-   - vi. Flyweight
-   - vii. Proxy
-   - Padrões Comportamentais
-   - i. Chain of Responsability
-   - ii. Command
-   - iii. Interpreter
-   - iv. Iterator
-   - v. Mediator
-   - vi. Memento
-   - vii. Observer
-   - viii. State
-   - ix. Strategy
-   - x. Template Method
-   - xi. Visitor
+ - Padrões de Criação
+ - i. Abstract Factory
+ - ii. Builder
+ - iii. Factory Method
+ - iv. Prototype
+ - v. Singleton
+ - Padrões Estruturais
+ - i. Adapter
+ - ii. Bridge
+ - iii. Composite
+ - iv. Decorator
+ - v. Façade
+ - vi. Flyweight
+ - vii. Proxy
+ - Padrões Comportamentais
+ - i. Chain of Responsability
+ - ii. Command
+ - iii. Interpreter
+ - iv. Iterator
+ - v. Mediator
+ - vi. Memento
+ - vii. Observer
+ - viii. State
+ - ix. Strategy
+ - x. Template Method
+ - xi. Visitor
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Projeto de Sistemas** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Análise e Projeto de Sistemas** — IFB, licença Creative Commons. Em breve na biblioteca deste site.
+- **[Projeto de Sistemas](assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Análise e Projeto de Sistemas](assets/biblioteca/computacao/analise-projeto-sistemas-ifb.pdf)** — IFB, licença Creative Commons.
 
 ## Bibliografia Básica
 

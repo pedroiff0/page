@@ -2,8 +2,8 @@
 publish: true
 title: "Álgebra Linear e Geometria Analítica II"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |
@@ -31,28 +31,28 @@ Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores au
 ## Conteúdo Programático
 
 1. Transformações Lineares
-   - Transformações lineares;
-   - Núcleo e imagem de uma transformação linear;
-   - Matriz de uma transformação linear;
-   - Operações com transformações lineares;
-   - Transformações lineares no plano;
-   - Transformações lineares no espaço;
+ - Transformações lineares;
+ - Núcleo e imagem de uma transformação linear;
+ - Matriz de uma transformação linear;
+ - Operações com transformações lineares;
+ - Transformações lineares no plano;
+ - Transformações lineares no espaço;
 2. Operadores Lineares
-   - Operadores Inversíveis;
-   - Mudança de base;
-   - Matrizes Semelhantes;
-   - Operadores auto-adjuntos;
-   - Operadores ortogonais.
+ - Operadores Inversíveis;
+ - Mudança de base;
+ - Matrizes Semelhantes;
+ - Operadores auto-adjuntos;
+ - Operadores ortogonais.
 3. Valores e Vetores Próprios
-   - Determinação dos valores próprios e dos vetores próprios;
-   - Propriedades;
-   - Diagonalização de operadores;
-   - Diagonalização de matrizes simétricas;
+ - Determinação dos valores próprios e dos vetores próprios;
+ - Propriedades;
+ - Diagonalização de operadores;
+ - Diagonalização de matrizes simétricas;
 4. Formas Quadráticas
-   - Forma quadrática no plano;
-   - Classificação de cônicas;
-   - Forma quadrática no espaço;
-   - Classificação de quádricas.
+ - Forma quadrática no plano;
+ - Classificação de cônicas;
+ - Forma quadrática no espaço;
+ - Classificação de quádricas.
 
 ## Bibliografia Básica
 

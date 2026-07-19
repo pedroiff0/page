@@ -2,8 +2,8 @@
 publish: true
 title: "Circuitos"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] O que é este tópico
@@ -56,9 +56,9 @@ O que dominar: latches e flip-flops (a célula de memória de 1 bit), registrado
 
 ### Livros e apostilas abertas
 
-- **Fundamentos de Eletricidade** (Escola Técnica Aberta) — base da etapa 1: grandezas elétricas, Lei de Ohm e análise de circuitos resistivos. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
-- **Princípios Básicos de Eletrônica** (e-Tec) — apoio à etapa 2: diodos, transistores e circuitos analógicos introdutórios. Também via [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
-- **Circuitos Digitais** (Rede e-Tec/MEC) — cobre as etapas 3 e 4: portas, Karnaugh, flip-flops e contadores, em português didático. Também via [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
+- **[Fundamentos de Eletricidade](assets/biblioteca/eletroeletronica/fundamentos-eletricidade-etec.pdf)** (Escola Técnica Aberta) — base da etapa 1: grandezas elétricas, Lei de Ohm e análise de circuitos resistivos. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
+- **[Princípios Básicos de Eletrônica](assets/biblioteca/eletroeletronica/principios-basicos-eletronica-etec.pdf)** (e-Tec) — apoio à etapa 2: diodos, transistores e circuitos analógicos introdutórios. Também via [proedu.rnp.br](https://proedu.rnp.br).
+- **[Circuitos Digitais](assets/biblioteca/computacao/circuitos-digitais-etec.pdf)** (Rede e-Tec/MEC) — cobre as etapas 3 e 4: portas, Karnaugh, flip-flops e contadores, em português didático. Também via [proedu.rnp.br](https://proedu.rnp.br).
 
 ### Bibliografia clássica (consultar na biblioteca)
 

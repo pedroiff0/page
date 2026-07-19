@@ -2,8 +2,8 @@
 publish: true
 title: "Matemática Discreta"
 tags:
-  - disciplina
-  - basica
+ - disciplina
+ - basica
 ---
 
 | Campo | Valor |
@@ -30,46 +30,46 @@ Teoria dos conjuntos, relações e funções, indução e recursão, análise co
 ## Conteúdo Programático
 
 1. Teoria dos Conjuntos:
-   - Tipos de Conjuntos;
-   - Igualdade de Conjuntos;
-   - Subconjuntos;
-   - Operações entre Conjuntos;
-   - Produto Cartesiano;
-   - Identidade de Conjuntos.
+ - Tipos de Conjuntos;
+ - Igualdade de Conjuntos;
+ - Subconjuntos;
+ - Operações entre Conjuntos;
+ - Produto Cartesiano;
+ - Identidade de Conjuntos.
 2. Relações e Funções:
-   - Definição;
-   - Tipos de Relações;
-   - Relação de Equivalência;
-   - Função;
-   - Propriedades das Funções;
+ - Definição;
+ - Tipos de Relações;
+ - Relação de Equivalência;
+ - Função;
+ - Propriedades das Funções;
 3. Indução e Recursão:
-   - O Princípio da Indução Finita;
-   - Provas por Indução;
-   - Recursividade;
-   - Problemas Recursivos.
+ - O Princípio da Indução Finita;
+ - Provas por Indução;
+ - Recursividade;
+ - Problemas Recursivos.
 4. Análise Combinatória:
-   - Princípios Básicos da Contagem;
-   - Arranjos;
-   - Permutações;
-   - Combinações.
+ - Princípios Básicos da Contagem;
+ - Arranjos;
+ - Permutações;
+ - Combinações.
 5. Teoria dos Números:
-   - Introdução;
-   - Algoritmo da Divisão;
-   - MDC;
-   - Aritmética Modular;
-   - Números Primos;
-   - Algoritmo Usual de Números Primos e sua Eficiência;
+ - Introdução;
+ - Algoritmo da Divisão;
+ - MDC;
+ - Aritmética Modular;
+ - Números Primos;
+ - Algoritmo Usual de Números Primos e sua Eficiência;
 6. Teoria dos grafos e árvores.
-   - Definição;
-   - Propriedades;
-   - Formas de Representação;
-   - Árvores.
+ - Definição;
+ - Propriedades;
+ - Formas de Representação;
+ - Árvores.
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Fundamentos de Lógica Matemática** — UAB. Em breve na biblioteca deste site.
+- **[Fundamentos de Lógica Matemática](assets/biblioteca/computacao/fundamentos-logica-matematica-uab.pdf)** — UAB.
 
 ## Bibliografia Básica
 

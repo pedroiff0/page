@@ -2,8 +2,8 @@
 publish: true
 title: "Comunicação de Dados"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] Comunicação de dados é a camada mais fundamental das redes: como transformar informação em sinais elétricos, ópticos ou de rádio, transmiti-los por um meio físico cheio de ruído e recuperá-los do outro lado sem erro. É a ponte entre a engenharia elétrica e a computação.
@@ -53,7 +53,7 @@ Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, pr
 
 **Livros abertos (licença pública):**
 
-- **Protocolos e Serviços de Redes** (Escola Técnica Aberta) — cobre a transição da transmissão de dados para os protocolos de rede; útil como leitura de ligação entre esta disciplina e Redes I. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec. _PDF em breve na biblioteca deste site._
+- **[Protocolos e Serviços de Redes](assets/biblioteca/computacao/protocolos-servicos-redes-etec.pdf)** (Escola Técnica Aberta) — cobre a transição da transmissão de dados para os protocolos de rede; útil como leitura de ligação entre esta disciplina e Redes I. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 

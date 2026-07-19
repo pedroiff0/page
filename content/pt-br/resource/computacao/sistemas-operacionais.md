@@ -2,8 +2,8 @@
 publish: true
 title: "Sistemas Operacionais"
 tags:
-  - recursos
-  - computacao
+ - recursos
+ - computacao
 ---
 
 > [!info] O que é este tópico
@@ -56,9 +56,9 @@ O que dominar: memória virtual e paginação (agora do lado da política: algor
 
 ### Livros e apostilas abertas
 
-- **Sistemas Operacionais** (Rede e-Tec/IFRO) — apostila aberta em português cobrindo processos, memória e arquivos no nível introdutório. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
-- **Sistemas Operacionais II** (Rede e-Tec) — continuação, avançando em gerência de memória e estudo de casos. Também via [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
-- **Introdução ao Linux** (Escola Técnica Aberta) — apoio direto à etapa 1 da trilha: terminal, comandos e administração básica. Também via [proedu.rnp.br](https://proedu.rnp.br). *PDF em breve na biblioteca deste site.*
+- **[Sistemas Operacionais](assets/biblioteca/computacao/sistemas-operacionais-ifro.pdf)** (Rede e-Tec/IFRO) — apostila aberta em português cobrindo processos, memória e arquivos no nível introdutório. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
+- **[Sistemas Operacionais II](assets/biblioteca/computacao/sistemas-operacionais-2-etec.pdf)** (Rede e-Tec) — continuação, avançando em gerência de memória e estudo de casos. Também via [proedu.rnp.br](https://proedu.rnp.br).
+- **[Introdução ao Linux](assets/biblioteca/computacao/introducao-ao-linux-etec.pdf)** (Escola Técnica Aberta) — apoio direto à etapa 1 da trilha: terminal, comandos e administração básica. Também via [proedu.rnp.br](https://proedu.rnp.br).
 
 ### Bibliografia clássica (consultar na biblioteca)
 

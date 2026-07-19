@@ -2,8 +2,8 @@
 publish: true
 title: "Sistemas Operacionais II"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -25,32 +25,32 @@ Sistemas de Arquivos; Entrada/Saída; Deadlocks.
 ## Conteúdo Programático
 
 1. Sistemas de Arquivos
-   - Arquivos
-   - Diretórios
-   - Implementação do Sistema de Arquivos
-   - Gerenciamento e Otimização dos Sistemas
-   - Exemplos de Sistemas de Arquivos
+ - Arquivos
+ - Diretórios
+ - Implementação do Sistema de Arquivos
+ - Gerenciamento e Otimização dos Sistemas
+ - Exemplos de Sistemas de Arquivos
 2. Entrada/Saída
-   - Princípios do Hardware de E/S
-   - Princípios do Software E/S
-   - Camadas do Software E/S
-   - Discos
-   - Relógios
-   - Interfaces com o usuário g. Gerenciamento de Energia
+ - Princípios do Hardware de E/S
+ - Princípios do Software E/S
+ - Camadas do Software E/S
+ - Discos
+ - Relógios
+ - Interfaces com o usuário g. Gerenciamento de Energia
 3. Deadlocks
-   - Recursos
-   - Introdução a Deadlocks
-   - Algoritmo do Avestruz
-   - Detecção e Recuperação de Deadlocks
-   - Evitando Deadlocks
-   - Prevenção de Deadlocks
-   - Outras Questões
+ - Recursos
+ - Introdução a Deadlocks
+ - Algoritmo do Avestruz
+ - Detecção e Recuperação de Deadlocks
+ - Evitando Deadlocks
+ - Prevenção de Deadlocks
+ - Outras Questões
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Sistemas Operacionais II** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Sistemas Operacionais II](assets/biblioteca/computacao/sistemas-operacionais-2-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

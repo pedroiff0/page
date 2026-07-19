@@ -2,8 +2,8 @@
 publish: true
 title: "Algoritmos e Estruturas de Dados II"
 tags:
-  - disciplina
-  - profissionalizante
+ - disciplina
+ - profissionalizante
 ---
 
 | Campo | Valor |
@@ -31,35 +31,35 @@ tags:
 ## Conteúdo Programático
 
 1. Ordenação Externa
-   - Manipulação de arquivos
+ - Manipulação de arquivos
 2. Tabela Hash
-   - Funções Hash
-   - Tratamento de Colisões
-   - Algoritmos para Tabelas Hash
+ - Funções Hash
+ - Tratamento de Colisões
+ - Algoritmos para Tabelas Hash
 3. Árvores Binárias
-   - Percurso em Árvores
-   - Árvores Binárias
-   - Árvores Binárias de Busca
-   - Operações de Árvores Binárias de Busca
-   - Balanceamento de Árvores
-   - Árvores AVL
-   - Inserção
-   - Remoção
-   - Busca
-   - Rebalanceamento
-   - Árvores B e B+
-   - Inserção
-   - Remoção
-   - Busca
-   - Rebalanceamento
+ - Percurso em Árvores
+ - Árvores Binárias
+ - Árvores Binárias de Busca
+ - Operações de Árvores Binárias de Busca
+ - Balanceamento de Árvores
+ - Árvores AVL
+ - Inserção
+ - Remoção
+ - Busca
+ - Rebalanceamento
+ - Árvores B e B+
+ - Inserção
+ - Remoção
+ - Busca
+ - Rebalanceamento
 4. Estruturas de Dados Eficientes em Disco
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Estrutura de Dados** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Estrutura de Dados** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 

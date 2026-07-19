@@ -2,8 +2,8 @@
 publish: true
 title: "Expressão Oral e Escrita"
 tags:
-  - disciplina
-  - basica
+ - disciplina
+ - basica
 ---
 
 | Campo | Valor |
@@ -28,24 +28,24 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 ## Conteúdo Programático
 
 1. Noções de texto
-   - Linguagem verbal e não verbal;
-   - Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
-   - Variações linguísticas.
+ - Linguagem verbal e não verbal;
+ - Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
+ - Variações linguísticas.
 2. Organização textual
-   - Coerência e Coesão.
+ - Coerência e Coesão.
 3. Tipologia Textual
-   - Estrutura e características do texto descritivo;
-   - Estrutura e características do texto narrativo;
-   - Estrutura e características do texto dissertativo.
+ - Estrutura e características do texto descritivo;
+ - Estrutura e características do texto narrativo;
+ - Estrutura e características do texto dissertativo.
 4. Linguagem e argumentação
 5. Redação científica
-   - Elaboração de resumo, resenha e fichamento.
+ - Elaboração de resumo, resenha e fichamento.
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Guias de normalização ABNT** — bibliotecas da PUC Minas e da UNIP, distribuição gratuita. Em breve na biblioteca deste site.
+- **Guias de normalização ABNT** — bibliotecas da [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e da [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf), distribuição gratuita.
 
 ## Bibliografia Básica
 

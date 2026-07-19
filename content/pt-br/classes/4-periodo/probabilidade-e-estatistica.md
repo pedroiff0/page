@@ -2,8 +2,8 @@
 publish: true
 title: "Probabilidade e Estatística"
 tags:
-  - disciplina
-  - basico
+ - disciplina
+ - basico
 ---
 
 | Campo | Valor |
@@ -29,30 +29,30 @@ Distribuições de Probabilidades.
 ## Conteúdo Programático
 
 1. Introdução à Estatística
-   - Coleta de Dados em Engenharia
-   - Modelos Mecanicistas e Empíricos
-   - Planejamento de Experimentos
+ - Coleta de Dados em Engenharia
+ - Modelos Mecanicistas e Empíricos
+ - Planejamento de Experimentos
 2. Estatística Descritiva
-   - Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
-   - Medidas de Posição: Médias, Mediana e Moda
-   - Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
+ - Apresentação de Dados Isolados e Agrupados: Tabelas e Gráficos
+ - Medidas de Posição: Médias, Mediana e Moda
+ - Medidas de Dispersão: Amplitude, Desvios, Variância e Desvio-padrão. Separatrizes
 3. Probabilidade
-   - Definição
-   - Eventos Independentes
-   - Probabilidade condicional
-   - Leis da Probabilidade
-   - Teorema de Bayes
-   - Variáveis Aleatórias
+ - Definição
+ - Eventos Independentes
+ - Probabilidade condicional
+ - Leis da Probabilidade
+ - Teorema de Bayes
+ - Variáveis Aleatórias
 4. Distribuições de Probabilidades
-   - Discretas
-   - Contínuas
+ - Discretas
+ - Contínuas
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
 > [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
 
-- **Estatística I** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
-- **Estatística Aplicada** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **[Estatística I](assets/biblioteca/matematica/estatistica-1-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
+- **[Estatística Aplicada](assets/biblioteca/matematica/estatistica-aplicada-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
 
 ## Bibliografia Básica
 
