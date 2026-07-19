@@ -59,6 +59,13 @@ História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Softwa
    - Meios de Comunicação: Cabo Metálico; Sem Fio; Óptico.
 10. Equipamentos de Rede.
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Fundamentos da Computação** — livro aberto (licença Creative Commons). Em breve na biblioteca deste site.
+- **Introdução à Computação** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 11ª Edição, Bookman, 2013.

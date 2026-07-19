@@ -57,6 +57,12 @@ Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise
    - Latches
    - Flip-Flops
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Circuitos Digitais** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. BIGNELL, J., DONOVAN, J. Eletrônica Digital. São Paulo: Cengage, 2009.

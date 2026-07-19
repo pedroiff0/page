@@ -64,6 +64,12 @@ Desenvolvimento de software de complexidade média utilizando o paradigma de ori
    - Conjuntos
    - Mapas
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Introdução à Programação Orientada a Objetos (Java)** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. JUNIOR, P. J. Java: Guia do Programador. 3ª Edição. São Paulo: Novatec, 2015.

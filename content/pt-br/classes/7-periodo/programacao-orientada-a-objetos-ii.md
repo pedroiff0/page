@@ -30,6 +30,12 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
 
 1. -
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Introdução à Programação Orientada a Objetos (Java)** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books, 5.

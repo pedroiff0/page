@@ -72,6 +72,13 @@ Transistores bipolares e circuitos polarizados com transistor; Fonte de alimenta
 8. Estudo de Caso
    - Análise e Compreensão de Circuitos Eletrônicos
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Princípios Básicos de Eletrônica** — e-Tec Brasil. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Eletrônica I, III e V** — CETAM/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. MALVINO, A. P., BATES, D. J. Eletrônica: Volume 1. 8ª Edição. Porto Alegre: Bookman, 2016.

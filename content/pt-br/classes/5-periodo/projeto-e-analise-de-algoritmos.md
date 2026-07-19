@@ -62,6 +62,13 @@ Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limit
    - [ ] NP-Completo
    - [ ] NP-Difícil
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Estrutura de Dados** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Estrutura de Dados** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,

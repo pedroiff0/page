@@ -58,6 +58,12 @@ Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenc
    - [ ] Diagrama de Estrutura de Dados
    - [ ] Linguagem de Definição de Dados
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Introdução a Banco de Dados** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. DATE, C. J. Introdução a Sistemas de Banco de Dados. 8ª Edição. São Paulo: Campus, 2004.

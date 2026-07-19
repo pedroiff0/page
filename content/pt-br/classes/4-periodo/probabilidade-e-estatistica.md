@@ -47,6 +47,13 @@ Distribuições de Probabilidades.
    - Discretas
    - Contínuas
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Estatística I** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Estatística Aplicada** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. LARSON, R., FARBER, B. Estatística Aplicada. 6ª Edição. São Paulo: Pearson, 2015.

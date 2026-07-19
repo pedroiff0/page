@@ -65,6 +65,12 @@ Teoria dos conjuntos, relações e funções, indução e recursão, análise co
    - Formas de Representação;
    - Árvores.
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Fundamentos de Lógica Matemática** — UAB. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. GERSTING, J. L. Fundamentos Matemáticos para Ciência da Computação e suas Aplicações. 7ª Edição. LTC, 2016.

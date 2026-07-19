@@ -67,6 +67,13 @@ Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Re
    - Conceituação do Protocolo IP
    - Endereçamento IP
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Redes de Computadores** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Protocolos e Serviços de Redes** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre:

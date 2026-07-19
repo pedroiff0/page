@@ -14,14 +14,15 @@ Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao l
 
 - [Kit de Ferramentas para Dados em Astronomia](pt-br/resource/astronomy-data-toolkit) — Ferramentas essenciais para análise de dados astronômicos: Astropy, TOPCAT, Aladin Lite e fluxos reprodutíveis com Jupyter.
 - [Computação](pt-br/resource/computacao) — Arquivo curado de materiais de estudo em Ciência da Computação, organizado por tópico.
+- [LaTeX e Escrita Acadêmica](pt-br/resource/latex-escrita) — Trilha de LaTeX, normas ABNT e escrita científica, com apostilas abertas.
 
 ### 📖 Materiais de Cursos
 
 _(Em breve)_ Notas de aula, listas de exercícios e materiais de cursos que lecionei ou auxiliei.
 
-### 🎨 Templates LaTeX
+### 🎨 LaTeX e Escrita
 
-_(Em breve)_ Templates profissionais para artigos, teses, apresentações e pôsteres.
+Veja a página dedicada de [LaTeX e Escrita Acadêmica](pt-br/resource/latex-escrita) — trilha de estudo, apostilas abertas e guias ABNT.
 
 ### 💻 Projetos Open-Source
 

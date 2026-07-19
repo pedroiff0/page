@@ -42,6 +42,13 @@ Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilíst
    - Modelos de Comportamento de Usuários
    - Planejamento e Gerenciamento de Capacidade
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Análise de Sistemas** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Projeto de Sistemas** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. FOGLIATTI, M. C., MATTOS, N. M. C. Teoria de Filas. Rio de Janeiro, 2006.

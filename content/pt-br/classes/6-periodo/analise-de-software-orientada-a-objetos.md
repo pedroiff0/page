@@ -100,6 +100,13 @@ Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de M
    - Delegação e Acoplamento Baixo
 10. Diagrama de Classe de Projeto
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Análise e Projeto de Sistemas** — IFB, licença Creative Commons. Em breve na biblioteca deste site.
+- **Análise de Sistemas** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. BEZERRA, E. Princípios de Análise e Projetos de Sistemas com UML. 3ª Edição. São Paulo: Elsevier, 2014.

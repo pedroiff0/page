@@ -36,6 +36,13 @@ Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com S
 10. NAT para IPv4
 11. Descoberta, Gerenciamento e Manutenção de Dispositivos
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Redes de Computadores II** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Segurança da Informação** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.

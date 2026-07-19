@@ -34,6 +34,15 @@ Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web.
    - Conexão com Sistema de Gerenciamento de Banco de Dados
    - Engenharia Web
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Programação Web** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Aplicativos para Web II** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Web Design** — Rede e-Tec Brasil/UTFPR. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Projeto de Sistemas Web** — e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. DALL’OGLIO, P. PHP: Programando com Orientação a Objetos. 4ª Edição. São Paulo: Novatec, 2018.

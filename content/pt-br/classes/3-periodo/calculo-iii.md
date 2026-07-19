@@ -60,6 +60,12 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 4. Teorema de Stokes
 5. Teorema da Divergência
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Cálculo III** — livro aberto (licença Creative Commons). Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.

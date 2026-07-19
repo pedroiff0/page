@@ -51,6 +51,12 @@ Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; 
    - Economia e Meio ambiente
    - Avaliação de impactos ambientais
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Ciências Ambientais para Engenharia** — distribuído pelos autores no [ResearchGate](https://www.researchgate.net/publication/267034760).
+
 ## Bibliografia Básica
 
 - 1. BRAGA, B., HESPANHOL, I., CONEJO, J. G. L., MIERZWA, J. C., BARROS, M. T. L., CAPAZ, R. S., NOGUEIRA, L. H. Ciências Ambientais para Engenharia. São Paulo: Elsevier, 2014.

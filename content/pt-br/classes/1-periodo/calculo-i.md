@@ -88,6 +88,12 @@ Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplic
    - Teorema Fundamental do Cálculo;
    - Cálculo de Áreas;
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Formulário de Matemática Básica** e **Revisão de Cálculo** — material próprio. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. LEITHOLD, L. O. O cálculo com Geometria Analítica. São Paulo: Habra, 1994. Vol.

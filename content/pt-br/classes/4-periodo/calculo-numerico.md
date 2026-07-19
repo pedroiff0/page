@@ -63,6 +63,12 @@ Solução de equações não lineares; Interpolação e ajuste de curvas; Integr
    - Equações de ordem superior, problemas de valor de contorno
    - Método das diferenças finitas
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Cálculo Numérico Aplicado à Engenharia com Python** — IFSC. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. BURIAN, R.; LIMA, A. C. Cálculo Numérico. Rio de Janeiro: LTC, 2007.

@@ -65,6 +65,12 @@ Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. C
    - Característica de Comunicação de Última Milha.
 7. Espalhamento Espectral
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Protocolos e Serviços de Redes** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. CAMPOS, A. L. P. S. Laboratório de Princípios de Telecomunicações. Rio de Janeiro: LTC, 2015.

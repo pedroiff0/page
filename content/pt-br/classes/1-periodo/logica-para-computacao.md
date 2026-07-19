@@ -41,6 +41,12 @@ Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Prime
    - Sistemas de Dedução na Lógica de Predicados.
 4. Aplicações de Lógica na Computação.
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Fundamentos de Lógica Matemática** — UAB. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. FILHO, E. A. Iniciação à Lógica Matemática. Nobel, 1999.

@@ -73,6 +73,14 @@ Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto
    - Reengenharia
 7. Ferramentas e Ambientes de Suporte ao Desenvolvimento de Software
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Análise e Projeto de Sistemas** — IFB, licença Creative Commons. Em breve na biblioteca deste site.
+- **Análise de Sistemas** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Projeto de Sistemas** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. PRESSMAN, R. S., MAXIM, B. R. Engenharia de Software: Uma Abordagem Profissional. 8ª Edição. Porto Alegre: Bookman, 2016.

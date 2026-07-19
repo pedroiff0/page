@@ -65,6 +65,15 @@ Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exempl
    - Repetição com teste no final (DO-WHILE);
    - Repetição com variável de controle (FOR).
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Lógica de Programação** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Técnicas de Programação** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Fundamentos de Lógica e Algoritmo** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Linguagem C Descomplicada** (apostila) — Prof. André Backes/UFU, distribuição gratuita. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.

@@ -77,6 +77,12 @@ Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conserva
    - Torque e o produto vetorial;
    - Momento angular e sua conservação.
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Fundamentos de Física** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.

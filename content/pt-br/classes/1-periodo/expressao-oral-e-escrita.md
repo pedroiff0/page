@@ -41,6 +41,12 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 5. Redação científica
    - Elaboração de resumo, resenha e fichamento.
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Guias de normalização ABNT** — bibliotecas da PUC Minas e da UNIP, distribuição gratuita. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012.

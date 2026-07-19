@@ -55,6 +55,16 @@ Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de
    - Heap-Sort;
    - Quick-Sort.
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Estrutura de Dados** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Estrutura de Dados** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Linguagem C Descomplicada** (apostila) — Prof. André Backes/UFU, distribuição gratuita. Em breve na biblioteca deste site.
+- **Linguagem de Programação C++** (apostila) — UNESP/Prof. Alan Panosso. Em breve na biblioteca deste site.
+- **Linguagem C++ — Notas de Aula** — Prof. Armando Delgado/UFPR. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,

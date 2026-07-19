@@ -58,6 +58,13 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
    - x. Template Method
    - xi. Visitor
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Projeto de Sistemas** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Análise e Projeto de Sistemas** — IFB, licença Creative Commons. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. FREEMAN, E.; FREEMAN, E. Use a cabeça! Padrões e projetos. 2ª Edição. Rio de Janeiro: Alta Books,

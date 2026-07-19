@@ -53,6 +53,13 @@ Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. 
    - [ ] Instalação para Iluminação e Aparelhos Eletrodomésticos;
    - [ ] Normas, Símbolos e Convenções.
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Fundamentos de Eletricidade** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Noções Básicas de Eletrotécnica** — e-Tec Brasil/IFPA. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. ALEXANDER, C. K., SADIKU, M. Fundamentos de Circuitos Elétricos. 5ª Edição. Porto Alegre:

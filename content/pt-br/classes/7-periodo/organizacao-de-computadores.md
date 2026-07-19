@@ -49,6 +49,12 @@ Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dis
    - Impressoras
    - Equipamentos de Telecomunicações
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Organização e Arquitetura de Computadores** — Escola Técnica Aberta/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.

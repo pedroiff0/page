@@ -66,6 +66,12 @@ Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explí
    - Soluções de Equações Diferenciais Parciais
    - Problemas com Condições Iniciais/de Contorno
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Equações Diferenciais** (e-book) — UFBA/UAB. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno.

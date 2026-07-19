@@ -74,6 +74,12 @@ Análise e síntese de circuitos digitais sequenciais; contadores e registradore
    - Saídas de Alta Impedância, Barramentos de I/O, Endereçamento e Sinais de Controle
    - Associação de Memórias
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Circuitos Digitais** — Rede e-Tec Brasil/MEC. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+
 ## Bibliografia Básica
 
 - 1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.

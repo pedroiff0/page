@@ -39,6 +39,13 @@ Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboraç�
 7. O Registro da Pesquisa Científica
 8. Normas Técnicas
 
+## 📚 Materiais de Apoio (acesso aberto)
+
+> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
+
+- **Orientação à Prática Profissional e Pesquisa** — Rede e-Tec Brasil/IFRO. Disponível no [ProEdu](https://proedu.rnp.br), repositório público da Rede e-Tec/MEC.
+- **Guias de normalização ABNT** — bibliotecas da PUC Minas e da UNIP, distribuição gratuita. Em breve na biblioteca deste site.
+
 ## Bibliografia Básica
 
 - 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo:
