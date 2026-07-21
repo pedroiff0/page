@@ -44,6 +44,6 @@ TikZ para diagramas vetoriais direto no documento, e Beamer para slides. É o n�
 
 ## Conexão com as disciplinas do curso
 
-- [Expressão Oral e Escrita](pt-br/classes/1-periodo/expressao-oral-e-escrita) — a base de redação técnica.
-- [Metodologia Científica e Tecnológica](pt-br/classes/8-periodo/metodologia-cientifica-e-tecnologica) — onde as normas ABNT viram obrigação.
-- [Projeto Final de Curso I](pt-br/classes/9-periodo/projeto-final-de-curso-i) e [II](pt-br/classes/10-periodo/projeto-final-de-curso-ii) — o TCC inteiro em LaTeX + abnTeX2.
+- [Expressão Oral e Escrita](expressao-oral-e-escrita.md) — a base de redação técnica.
+- [Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica.md) — onde as normas ABNT viram obrigação.
+- [Projeto Final de Curso I](projeto-final-de-curso-i.md) e [II](projeto-final-de-curso-ii.md) — o TCC inteiro em LaTeX + abnTeX2.

@@ -72,4 +72,4 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 
 ## Conexão com as disciplinas do curso
 
-- [Projeto e Análise de Algoritmos](pt-br/classes/5-periodo/projeto-e-analise-de-algoritmos) — a disciplina do 5º período que cobre exatamente esta trilha; chegue nela com as estruturas de dados frescas na cabeça.
+- [Projeto e Análise de Algoritmos](pt-br/classes/Engenharia%20de%20Computação/5-periodo/projeto-e-analise-de-algoritmos.md) — a disciplina do 5º período que cobre exatamente esta trilha; chegue nela com as estruturas de dados frescas na cabeça.

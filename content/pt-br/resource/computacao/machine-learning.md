@@ -68,5 +68,5 @@ Não há livro aberto em português no acervo local para este tópico — a boa 
 
 ## Conexão com as disciplinas do curso
 
-- [Inteligência Artificial](pt-br/classes/eletivas/inteligencia-artificial) — a eletiva que cobre os fundamentos de IA e aprendizado de máquina dentro da grade.
+- [Inteligência Artificial](inteligencia-artificial.md) — a eletiva que cobre os fundamentos de IA e aprendizado de máquina dentro da grade.
 - [Pesquisa: Detecção de Anomalias](pt-br/research/anomaly-detection) — a aplicação real: ML para encontrar objetos atípicos em levantamentos astronômicos, com os artigos e métodos que uso na pesquisa.

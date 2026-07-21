@@ -74,5 +74,5 @@ O que dominar: memória virtual e paginação (agora do lado da política: algor
 
 ## Conexão com as disciplinas do curso
 
-- [Sistemas Operacionais I](pt-br/classes/7-periodo/sistemas-operacionais-i) — etapas 1 a 3 da trilha: processos, threads, escalonamento e sincronização.
-- [Sistemas Operacionais II](pt-br/classes/8-periodo/sistemas-operacionais-ii) — etapa 4: memória virtual, sistemas de arquivos e E/S.
+- [Sistemas Operacionais I](sistemas-operacionais-i.md) — etapas 1 a 3 da trilha: processos, threads, escalonamento e sincronização.
+- [Sistemas Operacionais II](sistemas-operacionais-ii.md) — etapa 4: memória virtual, sistemas de arquivos e E/S.

@@ -71,8 +71,8 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 
 ## Conexão com as disciplinas do curso
 
-- [Comunicação de Dados](pt-br/classes/6-periodo/comunicacao-de-dados) — a base física e de enlace: como os bits realmente viajam.
-- [Redes de Computadores I](pt-br/classes/7-periodo/redes-de-computadores-i) — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
-- [Redes de Computadores II](pt-br/classes/8-periodo/redes-de-computadores-ii) — roteamento, serviços e tópicos avançados.
-- [Interconexão de Redes de Computadores](pt-br/classes/eletivas/interconexao-de-redes-de-computadores) — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
-- [Dimensionamento de Redes de Computadores](pt-br/classes/eletivas/dimensionamento-de-redes-de-computadores) — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.
+- [Comunicação de Dados](pt-br/classes/Engenharia%20de%20Computação/6-periodo/comunicacao-de-dados.md) — a base física e de enlace: como os bits realmente viajam.
+- [Redes de Computadores I](redes-de-computadores-i.md) — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
+- [Redes de Computadores II](redes-de-computadores-ii.md) — roteamento, serviços e tópicos avançados.
+- [Interconexão de Redes de Computadores](interconexao-de-redes-de-computadores.md) — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
+- [Dimensionamento de Redes de Computadores](dimensionamento-de-redes-de-computadores.md) — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.

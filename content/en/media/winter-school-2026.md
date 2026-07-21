@@ -40,7 +40,7 @@ Yes, i Know you are expecting me to bring the Machine Learning version, but I de
 
 (put here the new banner version, including the t-SNE approach).
 
-Now let's discuss what i couldn't bring in the poster:
+Now let's discuss   what i couldn't bring in the poster:
 
 1. t-SNE projections
 2. UMAP projections

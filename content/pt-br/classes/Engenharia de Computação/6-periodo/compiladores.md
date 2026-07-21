@@ -1,0 +1,88 @@
+---
+publish: true
+title: "Compiladores"
+tags:
+ - disciplina
+ - profissionalizante
+---
+
+| Campo | Valor |
+| --- | --- |
+| Código | CSECBJI.48 |
+| Núcleo | Profissionalizante |
+| Carga Horária | 60 |
+| Período | 6º Período |
+| Pré-requisitos | [CSECBJI.40 - Linguagens Formais e Autômatos](linguagens-formais-e-automatos.md) |
+
+## 📋 Ementa
+
+Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de código. Otimização. Ambientes de tempo de execução.
+
+## 🎯 Objetivos
+
+- Compreender a teoria de compilação.
+- Conhecer as diferentes etapas da compilação de programas.
+- Entender e implementar os mecanismos da construção de um compilador.
+- Manipular as ferramentas de compilação.
+
+## 📖 Conteúdo Programático
+
+1. Compiladores e Interpretadores
+ - Definições Básicas de Compiladores e Interpretadores
+ - Etapas de Tradução de Programas
+2. Análise Léxica e Sintática
+ - Tradução Simples Dirigida por Sintaxe
+ - Reconhecimento de Tokens
+ - Gerador de analisador léxico
+ - Expressões regulares e autômatos
+ - Gramática livre de contexto
+ - Análise sintática descendente e ascendente
+ - Análise LR
+ - Gerador de analisador sintático
+3. Tabelas de Símbolo
+ - Estrutura
+ - Atributos
+ - Gerenciamento da Tabela de Símbolos
+ - Técnicas de Implementação de Tabelas de Símbolos
+4. Análise Semântica
+ - Tipos de Dados e Verificação de Tipos
+ - Analisador Semântico
+5. Recuperação de Erro
+ - Recuperação de Erros na Análise LL
+ - Recuperação de Erros na Análise de Precedência de Operadores
+ - Recuperação de Erros na Análise
+6. Geração de Código
+ - Geração de Código Intermediário
+ - Variantes das árvores de Sintaxe
+ - Código de Três Endereços
+ - Verificação de Tipo
+ - Fluxo de Controle
+7. Otimização
+ - Otimização de Código
+ - Otimização de Código Intermediário
+ - Otimização de Código para Expressões Aritméticas
+ - Análise de Fluxos
+8. Ambiente de Tempo de Execução
+ - Organização de memória
+ - Alocação de espaço de pilha
+ - Coleta de lixo
+
+## 📕 Bibliografia Básica
+
+1. liveira, D. P. R. de , Sistemas, organização e métodos: Uma abordagem gerencial - 20 ed. - São Paulo:
+2. Atlas, 2011;
+3. CLEMENTE. A (org.). Planejamento do negócio: como transformar ideias em realizações. Rio de Janeiro: Lacerda; Brasília, DF: SEBRAE, 2004.
+4. CHENG, L. C.; QFD: Desdobramento da Função Qualidade na Gestão de Desenvolvimento de Produto.
+5. CHENG, L. C.; MELO FILHO, L. D. R de. São Paulo, SP. 2ª Ed. Blucher, 2010.
+
+## 📗 Bibliografia Complementar
+
+1. PAIVA, C.
+2. VIAN, C. E.; PELLEGRINO, A. C. G. T. Economia. Fundamentos e prática aplicados à realidade brasileira. Campinas SP. 2ªEd. Ed. Alinea, 2014;
+3. KOTLER, P. Administração de marketing.
+4. KOTLER, P; KELLER, K.L.; Tradução YAMAMOTO, S. M.;
+5. Revisão técnica CRESCITELLI, E. 14ª ed. Pearson Education do Brasil. São Paulo, SP.
+6. ZUGMAM, F. Administração para profissionais liberais. 2ª edição revista e ampliada. ALTA BOOKS Editora, 2017.
+7. TAJRA, S. F. Empreendedorismo: Conceitos e Práticas Inovadoras. 1 Ed. São Paulo. Érica, 2014.
+8. DORNELAS, J, C. Empreendedorismo: transformando ideias em negócios. 2.ed. Rio de Janeiro:
+9. Elsevier, 2001.
