@@ -1,4 +1,5 @@
 .DS_Store
+*.sync-conflict-*
 node_modules
 public
 prof

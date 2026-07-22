@@ -18,7 +18,7 @@ const CustomFooter: QuartzComponent = ({ displayClass, fileData }: QuartzCompone
   return (
     <footer class={classNames(displayClass, "custom-footer")} style={{ marginTop: "2rem", textAlign: "center" }}>
       <hr />
-      <p style={{ margin: "1rem 0" }}>© {year} Pedro H. R. de Andrade. {content.builtWith} <a href="https://quartz.jzhao.xyz/" target="_blank">Quartz</a>.</p>
+      <p style={{ margin: "1rem 0" }}>© {year} <a href="https://github.com/pedroiff0" target="_blank">Pedro H. R. de Andrade</a>. {content.builtWith} <a href="https://quartz.jzhao.xyz/" target="_blank">Quartz</a>.</p>
     </footer>
   )
 }

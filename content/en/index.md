@@ -18,6 +18,14 @@ I am Pedro Henrique, an undergraduate Computer Engineering student at the [Flumi
 
 My passion lies at the intersection of **computational methods** and **astrophysical problems**. I believe that open-source tools and reproducible workflows are essential to advancing science and making it more accessible to everyone.
 
+### 🌐 Social Media
+
+- 💻 [GitHub](https://github.com/pedroiff0)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
+- 📸 [Instagram](https://instagram.com/fckpeeh)
+- 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
+- ✉️ [Email](mailto:pedroiff0@gmail.com)
+
 ### 2️⃣ Second step: Areas of Interest
 
 - **Astrophysics**: Galactic archaeology, stellar populations, Milky Way structure and chemical evolution, large-scale astronomical data analysis.

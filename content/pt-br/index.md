@@ -18,6 +18,14 @@ Sou Pedro Henrique, estudante de Engenharia de Computação no [Instituto Federa
 
 Minha paixão está na interseção entre **métodos computacionais** e **problemas astrofísicos**. Acredito que ferramentas de código aberto e fluxos de trabalho reprodutíveis são essenciais para avançar a ciência e torná-la mais acessível a todos.
 
+### 🌐 Redes Sociais
+
+- 💻 [GitHub](https://github.com/pedroiff0)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
+- 📸 [Instagram](https://instagram.com/fckpeeh)
+- 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
+- ✉️ [E-mail](mailto:pedroiff0@gmail.com)
+
 ### 2️⃣ Segundo passo: Áreas de Interesse
 
 - **Astrofísica**: Arqueologia galáctica, populações estelares, estrutura e evolução química da Via Láctea, análise de grandes volumes de dados astronômicos.

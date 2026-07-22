@@ -19,11 +19,11 @@ Este diretório (`content/`) é o vault Obsidian de verdade (`.obsidian/` na rai
 
 ## Localização física e múltiplos dispositivos
 
-Este repositório vive fisicamente em `hardcore-life/10 - site/` — dentro do vault de anotações privadas do Pedro, que já é sincronizado via Syncthing entre os dispositivos dele. Existe um symlink de compatibilidade em `~/Documentos/repositorios/quartz-site` apontando pra lá.
+Este repositório vive fisicamente em `~/Documentos/quartz-site` (standalone, fora do vault `hardcore-life`). Existe um symlink de compatibilidade em `~/Documentos/repositorios/quartz-site` apontando pra lá.
 
-- `hardcore-life/.gitignore` ignora `10 - site/`: o git do hardcore-life nunca gerencia este repo — ele tem histórico e `origin` (pedroiff0/page) totalmente independentes.
-- `hardcore-life/.stignore` tem `(?d).git` (padrão não ancorado, cobre `.git` em qualquer profundidade, incluindo `10 - site/.git`): Syncthing nunca sincroniza pastas `.git`. Ou seja, o Syncthing só carrega os **arquivos** de `10 - site/` entre dispositivos — o `.git` (histórico, remote) tem que ser configurado à parte em cada dispositivo novo.
-- Em um dispositivo novo (ex: Mac) que já recebe `hardcore-life` via Syncthing: depois que `10 - site/` aparecer lá com os arquivos sincronizados, dentro dessa pasta rodar `git init && git remote add origin https://github.com/pedroiff0/page.git && git fetch origin && git checkout main` — **não** `git clone` (a pasta já não estará vazia).
+- O Syncthing sincroniza `content/` (a pasta do vault Obsidian) como uma pasta própria (`quartz-content`, ver `.stfolder` em `content/`), independente do vault `hardcore-life` — não há mais aninhamento entre os dois.
+- O `.git` deste repo **não** é sincronizado pelo Syncthing (a pasta `content/` é a unidade sincronizada, e `.git` fica na raiz do repo, fora dela) — histórico e `origin` (pedroiff0/page) são geridos por git normalmente em cada dispositivo.
+- Conflitos de sincronização (arquivos `*.sync-conflict-*`) podem aparecer dentro de `content/` quando o Obsidian fica aberto simultaneamente em dois dispositivos — o `.gitignore` já ignora esse padrão, mas vale checar e resolver manualmente de vez em quando (comparar timestamps, escolher a versão certa, apagar a perdedora).
 - Edições locais (Obsidian, ou uma sessão de Claude Code rodando de qualquer um dos dispositivos) chegam nos outros dispositivos quase instantaneamente via Syncthing, mas isso **não publica nada**. Publicar (disparar o deploy) sempre exige um `git push` de fato — via Quartz Syncer, `npx quartz sync`, ou push manual.
 
 ## Material de `hardcore-life` (outro vault)
