@@ -41,3 +41,5 @@ To navigate my work, explore the sections of this site:
 - [Media](en/media/) — Participations in events, fairs, and presentations.
 - [Publications](en/publications/) — My published papers and preprints.
 - [Blog](en/blog/) — Random thoughts, tutorials, and reflections on the research journey.
+
+This site is written in two languages: all content is first written in **Portuguese (Brazil)** and translated to English as time allows — so not every page has an English version yet. If you noticed something missing or outdated in translation, feel free to open an [issue in the repository](https://github.com/pedroiff0/page/issues), or [click here to open one pre-filled from the translation template](https://github.com/pedroiff0/page/issues/new?template=traducao.yml).

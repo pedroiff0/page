@@ -44,4 +44,6 @@ Para navegar pelo meu trabalho, explore as seções deste site:
 - [Mídia](pt-br/media/) — Participações em eventos, feiras e apresentações.
 - [Publicações](pt-br/publications/) — Meus artigos e preprints publicados.
 
-O enfoque deste site é um grande repositório de informações minhas. Perceba que possui dois idiomas disponíveis, com minha escrita. Você pode optar, mas preferencialmente o conteúdo é inserido em **Português - Brasil**, e traduzido assim que possível para inglês (nem todos os recursos são traduzidos). Você pode requerer indo em ISSUES no repositório, ou clicando aqui para enviar um a partir do template!
+O enfoque deste site é ser um grande repositório de informações minhas. Ele está disponível em dois idiomas: todo o conteúdo é escrito primeiro em **Português (Brasil)** e traduzido para o inglês assim que possível — por isso, nem todas as páginas têm uma versão em inglês ainda.
+
+Se você notou algo sem tradução (ou traduzido de forma desatualizada), pode abrir uma [issue no repositório](https://github.com/pedroiff0/page/issues) contando o que falta, ou [clicar aqui para abrir uma já preenchida a partir do template de tradução](https://github.com/pedroiff0/page/issues/new?template=traducao.yml).

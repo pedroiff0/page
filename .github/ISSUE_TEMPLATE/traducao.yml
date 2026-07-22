@@ -1,0 +1,33 @@
+name: "📖 Solicitar tradução / Translation request"
+description: "Peça a tradução de uma página para inglês, ou aponte uma tradução desatualizada / faltando. Ask for a page to be translated to English, or flag an outdated/missing translation."
+title: "[Tradução]: "
+labels:
+  - translation
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Página ou seção / Page or section
+      description: Cole o link da página no site, ou o caminho do arquivo (ex. pt-br/resource/escolainverno/...). Paste the page link or file path.
+      placeholder: "https://pedroiff0.github.io/page/pt-br/..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Tipo de solicitação / Request type
+      options:
+        - Página ainda não traduzida / Page not translated yet
+        - Tradução desatualizada (o conteúdo original mudou) / Outdated translation (source content changed)
+        - Erro na tradução existente / Error in the existing translation
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Detalhes / Details
+      description: Contexto adicional, trecho específico ou sugestão de tradução, se tiver. Any extra context, specific excerpt, or suggested translation.
+    validations:
+      required: false
