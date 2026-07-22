@@ -19,18 +19,44 @@ cssclasses:
 > [!info] Sobre este arquivo
 > Panorama de todas as áreas cobertas até agora na Escola de Inverno. Cada seção resume a nota detalhada correspondente — clique nos links para ver a aula completa, com explicações, fórmulas e imagens.
 
+Confira aqui a [programação completa](#-programação-completa-20-a-2407) da semana e o [site oficial da Escola de Inverno em Astrofísica 2026 do Observatório Nacional](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026).
+
 ---
 
-## 🗺️ Mapa geral das disciplinas
+## 🗺️ Mapa geral das disciplinas (minicursos)
 
-| Área                             | Professor(a)              | Do que trata                                                   | Nota completa                                              |
-| -------------------------------- | ------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- |
-| 🌐 Aglomerados de Galáxias       | Rogério Monteiro-Oliveira | As maiores estruturas gravitacionalmente ligadas do Universo   | [[260720-Aglomerados-Aula01]]                              |
-| ⭐ Arqueologia Galáctica          | João Victor               | História da Via Láctea lida na composição química das estrelas | [[260720-Arqueologia-Galactica-Aula01]]                    |
-| 💻 Computação de Alto Desempenho | Fernando Roig             | Programação paralela (OpenMP/MPI) para ciência de dados        | [[260721-Computacao-Aula01]]                               |
-| 🌀 Cosmologia                    | Carlos Bengaly            | O modelo padrão ΛCDM e suas sondas observacionais              | [[260721-Cosmologia-Aula01]]                               |
-| 👻 Neutrinos (Palestra)          | Gabriel Rodrigues         | Física de partículas + cosmologia dos neutrinos                | [[260720-Neutrinos]]                                       |
-| 🪐 Ciências Planetárias          | —                         | Sistema Solar: inventário, arquitetura e dinâmica orbital      | [[260720-Planetaria-Aula01]], [[260721-Planetaria-Aula02]] |
+| Área                             | Professor(a)                      | Do que trata                                                   | Notas completas                                                                                                                                        |
+| -------------------------------- | --------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🌐 Aglomerados de Galáxias       | Rogério Monteiro-Oliveira         | As maiores estruturas gravitacionalmente ligadas do Universo   | [[260720-Aglomerados-Aula01\|Aula 01]] · [[Aglomerados-Aula02\|Aula 02]]                                                                                 |
+| ⭐ Arqueologia Galáctica          | João Victor Sales Silva           | História da Via Láctea lida na composição química das estrelas | [[260720-Arqueologia-Galactica-Aula01\|Aula 01]] · [[ArqueologiaGalactica-Aula02\|Aula 02]]                                                              |
+| 💻 Computação de Alto Desempenho | Fernando Roig e Lilianne Nakazono | Programação paralela (OpenMP/MPI) e aprendizado de máquina     | [[260721-Computacao-Aula01\|Aula 01]] · [[Computacao-Aula02\|Aula 02]]                                                                                   |
+| 🌀 Cosmologia                    | Carlos Bengaly                    | O modelo padrão ΛCDM e suas sondas observacionais              | [[260721-Cosmologia-Aula01\|Aula 01]]                                                                                                                    |
+| 🪐 Ciências Planetárias          | Filipe Monteiro e Gustavo Madeira | Sistema Solar: inventário, arquitetura e dinâmica orbital      | [[260720-Planetaria-Aula01\|Aula 01]] · [[260721-Planetaria-Aula02\|Aula 02]]                                                                            |
+
+## 🎤 Palestras
+
+| Palestra | Palestrante | Tema | Data | Nota |
+|---|---|---|---|---|
+| P1 | Gabriel Rodrigues | Neutrinos e a Cosmologia | 20/07 | [[260720-Neutrinos\|Neutrinos]] |
+| P2 | Daniela Lazzaro | 15 anos do OASI | 21/07 | *(a preencher)* |
+| P3 | Rebeca Batalha | De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo | 23/07 | *(a preencher)* |
+| P4 | Marília Carlos | Composições químicas estelares com alta precisão e acurácia | 24/07 | *(a preencher)* |
+
+---
+
+## 📅 Programação completa (20 a 24/07)
+
+| Horário | 20/07 (seg) | 21/07 (ter) | 22/07 (qua) | 23/07 (qui) | 24/07 (sex) |
+|---|---|---|---|---|---|
+| 9:15–10:30 | Arqueologia Gal. (Aula 1) | Cosmologia (Aula 1) | Arqueologia Gal. (Aula 2) | Arqueologia Gal. (Aula 3) | Aglomerados (Aula 3) |
+| 11:00–12:15 | Planetárias (Aula 1) | Planetárias (Aula 2) | Aglomerados (Aula 2) | Cosmologia (Aula 2) | Cosmologia (Aula 3) |
+| 14:00–15:15 | Computação (Aula 1) | Aglomerados (Aula 1) | Computação (Aula 2) | Planetárias (Aula 3) | Computação (Aula 3) |
+| 15:45–17:00 | P1 — Neutrinos | P2 — 15 anos do OASI | Sessão PG/PIBIC | P3 — Rebeca Batalha | P4 — Marília Carlos |
+
+> [!info] Sessões de pôsteres
+> Todos os dias há intervalos com **sessão de pôsteres** (grupo I nos dias 20–22/07, grupo II nos dias 22–24/07). Meu próprio pôster está na sessão II: **"Unveiling the Solar vicinity: unsupervised mapping stellar populations with GCNS and GALAH DR4 using t-SNE"** — ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]].
+
+Programação e lista completa de pôsteres: ver o [site oficial da Escola de Inverno em Astrofísica 2026 (Observatório Nacional)](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026).
 
 ---
 
@@ -82,12 +108,13 @@ O Sistema Solar se formou a partir do colapso gravitacional de uma nuvem molecul
 ---
 
 ## 🔗 Notas completas
-- [[260720-Aglomerados-Aula01]]
-- [[260720-Arqueologia-Galactica-Aula01]]
-- [[260721-Computacao-Aula01]]
+- [[260720-Aglomerados-Aula01]] · [[Aglomerados-Aula02]]
+- [[260720-Arqueologia-Galactica-Aula01]] · [[ArqueologiaGalactica-Aula02]]
+- [[260721-Computacao-Aula01]] · [[Computacao-Aula02]]
 - [[260721-Cosmologia-Aula01]]
 - [[260720-Neutrinos]]
 - [[260720-Planetaria-Aula01]] · [[260721-Planetaria-Aula02]]
+- [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]
 
 > [!note] Próximos passos
 > Este resumo e as notas de aula serão atualizados conforme novas aulas acontecem e conforme os **PDFs oficiais das aulas** ficarem disponíveis — o que deve permitir preencher os pontos ainda marcados como "a preencher" e corrigir/expandir qualquer detalhe.

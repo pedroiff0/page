@@ -4,7 +4,7 @@ title: "Aula 01"
 titulo: 260720-Arqueologia-Galactica-Aula01
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas
-professor:
+professor: João Victor Sales Silva
 criado: segunda-feira 20/07/2026 09:19
 modificado: 22/07/2026
 tags:
@@ -21,6 +21,7 @@ cssclasses:
 
 > [!info] Informações da aula
 > **Tema:** Arqueologia Galáctica — usar a composição química e a cinemática das estrelas como "fósseis" para reconstruir a história de formação da Via Láctea.
+> **Professor:** João Victor Sales Silva
 > **Referência:** Solar dynamics
 
 ---

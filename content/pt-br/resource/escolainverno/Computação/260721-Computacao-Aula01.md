@@ -4,8 +4,8 @@ title: "Aula 01"
 titulo: 260721-Computacao-Aula01
 disciplina: Computação Científica de Alto Desempenho
 conteudo: Introdução à Computação de Alto Desempenho (HPC) — paralelismo com OpenMP e MPI
-professor: Fernando Roig
-criado: terça-feira 21/07/2026 14:00
+professor: Fernando Roig e Lilianne Nakazono
+criado: segunda-feira 20/07/2026 14:00
 modificado: 22/07/2026
 tags:
   - escola-de-inverno-on
@@ -21,7 +21,7 @@ cssclasses:
 
 > [!info] Informações da aula
 > **Título:** Computação de Alto Desempenho (HPC)
-> **Professor:** Prof. Dr. Fernando Roig
+> **Professores:** Prof. Dr. Fernando Roig e Prof.ª Dr.ª Lilianne Nakazono
 
 ---
 

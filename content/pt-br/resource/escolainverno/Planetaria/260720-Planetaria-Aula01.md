@@ -4,7 +4,7 @@ title: "Aula 01"
 titulo: 260720-Planetaria-Aula01
 disciplina: Ciências Planetárias
 conteudo: Sistema Solar — inventário, arquitetura e dinâmica orbital
-professor:
+professor: Filipe Monteiro e Gustavo Madeira
 criado: segunda-feira 20/07/2026 11:05
 modificado: 22/07/2026
 tags:
@@ -20,6 +20,7 @@ cssclasses:
 
 > [!info] Informações da aula
 > **Tema:** O Sistema Solar — inventário, arquitetura e dinâmica orbital
+> **Professores:** Filipe Monteiro e Gustavo Madeira
 
 ---
 
