@@ -1,5 +1,5 @@
 ---
-titulo: 00-Resumo-Escola-de-Inverno
+titulo: Escola de Inverno 2026
 disciplina: Resumo Geral
 conteudo: Panorama de tudo o que foi visto na Escola de Inverno do Observatório Nacional (ON) 2026
 professor:
@@ -21,14 +21,14 @@ cssclasses:
 
 ## 🗺️ Mapa geral das disciplinas
 
-| Área | Professor(a) | Do que trata | Nota completa |
-|---|---|---|---|
-| 🌐 Aglomerados de Galáxias | Rogério Monteiro-Oliveira | As maiores estruturas gravitacionalmente ligadas do Universo | [[260720-Aglomerados-Aula01]] |
-| ⭐ Arqueologia Galáctica | — | História da Via Láctea lida na composição química das estrelas | [[260720-Arqueologia-Galactica-Aula01]] |
-| 💻 Computação de Alto Desempenho | Fernando Roig | Programação paralela (OpenMP/MPI) para ciência de dados | [[260721-Computacao-Aula01]] |
-| 🌀 Cosmologia | Carlos Bengaly | O modelo padrão ΛCDM e suas sondas observacionais | [[260721-Cosmologia-Aula01]] |
-| 👻 Neutrinos (Palestra) | Gabriel Rodrigues | Física de partículas + cosmologia dos neutrinos | [[260720-Neutrinos]] |
-| 🪐 Ciências Planetárias | — | Sistema Solar: inventário, arquitetura e dinâmica orbital | [[260720-Planetaria-Aula01]], [[260721-Planetaria-Aula02]] |
+| Área                             | Professor(a)              | Do que trata                                                   | Nota completa                                              |
+| -------------------------------- | ------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- |
+| 🌐 Aglomerados de Galáxias       | Rogério Monteiro-Oliveira | As maiores estruturas gravitacionalmente ligadas do Universo   | [[260720-Aglomerados-Aula01]]                              |
+| ⭐ Arqueologia Galáctica          | João Victor               | História da Via Láctea lida na composição química das estrelas | [[260720-Arqueologia-Galactica-Aula01]]                    |
+| 💻 Computação de Alto Desempenho | Fernando Roig             | Programação paralela (OpenMP/MPI) para ciência de dados        | [[260721-Computacao-Aula01]]                               |
+| 🌀 Cosmologia                    | Carlos Bengaly            | O modelo padrão ΛCDM e suas sondas observacionais              | [[260721-Cosmologia-Aula01]]                               |
+| 👻 Neutrinos (Palestra)          | Gabriel Rodrigues         | Física de partículas + cosmologia dos neutrinos                | [[260720-Neutrinos]]                                       |
+| 🪐 Ciências Planetárias          | —                         | Sistema Solar: inventário, arquitetura e dinâmica orbital      | [[260720-Planetaria-Aula01]], [[260721-Planetaria-Aula02]] |
 
 ---
 

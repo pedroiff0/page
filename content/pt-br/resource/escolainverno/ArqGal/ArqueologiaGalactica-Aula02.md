@@ -45,12 +45,37 @@ cssclasses:
 + Idades maiores que 10 bilhões 
 + 168 Aglomerados Globulares
 + Bojo Galáctico
-+ 
++ Múltiplas populações
++ O/H e Na/H, Al/H e Mg/H
++ Tipo I e Tipo II
++ Tipo I: He, C, N, Na (Maioria da VL - 80%)
++ Tipo II: He, C, N, Na e Tbm em elementos pesados (Fe, captura de Neutrôns) - 20%, provável origem extragalática
+
+### Omega Centauri 
+* Alvarez-Garay+2024
+* Gaia Sausage Enceladus
+
+### J-PAS
+
+
+### Revoluções Arq. Galáctica
+
+* Asterosismologia
+* GAIA
+* Grandes Surveys (APOGEE, GALAH...)
+
+### Asterosismologia
+
+Bowman&Bugnet2026 - Fig. 2 (Inserir)
+
+
+
 ---
 
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 2)
-> *(nenhuma pergunta registrada ainda)*
+> 1. Observações sobre o GALAH DR4 (idades, parâmetros e etc;)
+> 2. 
 
 ---

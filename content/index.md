@@ -13,6 +13,4 @@ No painel superior esquerdo, selecione PT (Português Brasil).
 
 On the left upper panel, select EN (English United States).
 
-TESTEEEEE
-
 ---

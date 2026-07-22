@@ -18,8 +18,9 @@ Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao l
 
 ### 📖 Materiais de Cursos
 
-_(Em breve)_ Notas de aula, listas de exercícios e materiais de cursos que lecionei ou auxiliei.
+_(Em Construção)_ Notas de aula, listas de exercícios e materiais de cursos que lecionei ou auxiliei.
 
+* [[00-Resumo-Escola-de-Inverno]]
 ### 🎨 LaTeX e Escrita
 
 Veja a página dedicada de [LaTeX e Escrita Acadêmica](pt-br/resource/latex-escrita) — trilha de estudo, apostilas abertas e guias ABNT.
