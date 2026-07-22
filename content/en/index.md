@@ -35,6 +35,29 @@ My passion lies at the intersection of **computational methods** and **astrophys
 
 To navigate my work, explore the sections of this site:
 
+<div class="media-carousel">
+  <a href="/en/research" class="carousel-slide">
+    <img src="/assets/illustrations/research.svg" alt="Research" />
+    <div class="slide-caption">Research</div>
+  </a>
+  <a href="/en/resource" class="carousel-slide">
+    <img src="/assets/illustrations/resource.svg" alt="Resources" />
+    <div class="slide-caption">Resources</div>
+  </a>
+  <a href="/en/classes" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Classes" />
+    <div class="slide-caption">Classes</div>
+  </a>
+  <a href="/en/media" class="carousel-slide">
+    <img src="/assets/febic2024/febic.jpeg" alt="Media" />
+    <div class="slide-caption">Media</div>
+  </a>
+  <a href="/en/publications" class="carousel-slide">
+    <img src="/assets/illustrations/publications.svg" alt="Publications" />
+    <div class="slide-caption">Publications</div>
+  </a>
+</div>
+
 - [Research](en/research/) — Learn about my current projects and publications.
 - [Resources](en/resource/) — Materials, scripts, and useful tools I've developed or use.
 - [Classes](en/classes/) — My college notes and assignments.
