@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "20260722-Resumo-Escola-de-Inverno"
+title: "Resumo Geral"
 titulo: Escola de Inverno 2026
 disciplina: Resumo Geral
 conteudo: Panorama de tudo o que foi visto na Escola de Inverno do Observatório Nacional (ON) 2026

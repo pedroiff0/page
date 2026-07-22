@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "20260722-Aglomerados-Aula02"
+title: "Aula 02"
 titulo: Aglomerados-Aula02
 disciplina: Astrofísica Extragaláctica
 conteudo: Aglomerados de Galáxias (continuação — conteúdo a ser preenchido)
@@ -43,7 +43,20 @@ cssclasses:
 - Parâmetro de Contraste de Densidade ($\delta(x,t)$); 
 - Sobredensidades > 0
 - Subdensidades < 0
+- Galaxia 10^5 - 10^6 
+- Aglomerado 100
+- Superaglomerado 1
+- Matéria Escura Fria (CDM) -> pq tao importante?
+- Interações Hidrostática
+- Grupos infall (Velocidade infall)
+- Hubble Galaxy Classification Scheme (buscar foto) NÃO é evolutivo
+- Evolução: Cor Cor (razão de fluxo) por massa estelar: Red Sequence, Green Valley e Blue Cloud;
+- Pressão de Arraste (RAM Pressure)
+- Queenching ($P_{ram} = \rho_{icm}\nu^2$)
+- Gunn & Goll 1975;
+- Jellyfish Galaxies
 - 
+
 
 ---
 

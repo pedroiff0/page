@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "20260722-Computacao-Aula01"
+title: "Aula 01"
 titulo: 260721-Computacao-Aula01
 disciplina: Computação Científica de Alto Desempenho
 conteudo: Introdução à Computação de Alto Desempenho (HPC) — paralelismo com OpenMP e MPI

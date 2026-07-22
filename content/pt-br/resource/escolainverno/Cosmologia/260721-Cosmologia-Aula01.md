@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "20260722-Cosmologia-Aula01"
+title: "Aula 01"
 titulo: 260721-Cosmologia-Aula01
 disciplina: Cosmologia
 conteudo: O modelo cosmológico padrão (ΛCDM) e suas sondas observacionais

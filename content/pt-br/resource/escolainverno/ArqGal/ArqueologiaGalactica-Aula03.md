@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "20260722-ArqueologiaGalactica-Aula03"
+title: "Aula 03"
 titulo: ArqueologiaGalactica-Aula03
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Arqueologia Galáctica (continuação — conteúdo a ser preenchido)

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "20260722-ArqueologiaGalactica-Aula02"
+title: "Aula 02"
 titulo: ArqueologiaGalactica-Aula02
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Arqueologia Galáctica — Aglomerados Globulares (conteúdo a ser preenchido)

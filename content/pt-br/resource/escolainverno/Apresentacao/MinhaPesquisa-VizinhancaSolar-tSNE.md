@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "20260722-MinhaPesquisa-VizinhancaSolar-tSNE"
+title: "Vizinhança Solar com t-SNE"
 titulo: MinhaPesquisa-VizinhancaSolar-tSNE
 disciplina: Apresentação de Pesquisa
 conteudo: Mapeamento não supervisionado da vizinhança solar com GCNS + GALAH DR4 usando t-SNE (Banner SBPC e Banner Escola de Inverno)
@@ -25,16 +25,11 @@ cssclasses:
 
 ---
 
-## 📎 Banners (anexar aqui como referência)
+## 📎 Banners
 
-> [!example]- 📄 Banner SBPC 2026 — "Unveiling the Solar vicinity..." (clique para expandir)
-> ![[BannerSBPC.pdf]]
-> *Coloque aqui o PDF exportado do Overleaf (projeto `BannerSBPC`). Basta arrastar o arquivo para esta mesma pasta (`Apresentacao/`) com o nome `BannerSBPC.pdf` que o embed acima passa a funcionar sozinho no Obsidian.*
-
-> [!example]- 📄 Banner Escola de Inverno — versão em português (clique para expandir)
+> [!example]- 📄 Banner Escola de Inverno — versão em português
 > ![[BannerEscolaInverno.pdf]]
-> *Mesma ideia: arraste o PDF exportado do projeto `BannerEscolaInverno` para esta pasta com esse nome.*
-
+> 
 ---
 
 ## 🎯 Do que se trata a pesquisa, em uma frase
@@ -45,13 +40,14 @@ Estou tentando entender **quem são as estrelas perto do Sol** — de onde viera
 
 ## 🧑‍🤝‍🧑 Quem fez
 
-O trabalho é assinado por mim (**Pedro Henrique Rocha de Andrade**, IFF – Campus Bom Jesus do Itabapoana), pela **Ana Cecília Soja** (também IFF) e pela minha orientadora **Maria Luiza Linhares Dantas** (Instituto de Astrofísica da Pontificia Universidad Católica de Chile). O projeto tem apoio do CNPq, do IFF e, do lado da Maria Luiza, da ANID (agência chilena de pesquisa).
-
+* Autor: [Pedro Henrique Rocha de Andrade](http://lattes.cnpq.br/6818168089966785)
+* Orientadora: [Prof. Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)
+* Co-orientadora: [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com)
 ---
 
 ## 🌌 Por que olhar para a "vizinhança solar"?
 
-Essa ideia de usar a composição química das estrelas como pista da história da Galáxia é exatamente a **arqueologia galáctica** que discuti na nota da Escola de Inverno (ver [[260720-Arqueologia-Galactica-Aula01]]): cada estrela "carrega" no espectro dela a assinatura química do gás de que se formou, então olhar abundâncias + movimento (cinemática) das estrelas funciona como pistas químio-dinâmicas para reconstruir de onde vieram, quais nasceram juntas (grupos coetâneos) e como o enriquecimento químico local aconteceu ao longo do tempo. O problema é que descrever uma estrela direito envolve muita coisa ao mesmo tempo — posição e movimento no espaço (astrometria/cinemática), temperatura, gravidade superficial, e até **dezenas de abundâncias químicas diferentes**. Isso é um espaço de parâmetros gigante e cheio de relações não lineares, difícil de visualizar com os diagramas tradicionais (um par de eixos de cada vez). Por isso a ideia de usar uma técnica de **redução de dimensionalidade não supervisionada**, que olha tudo de uma vez e organiza sozinha.
+Essa ideia de usar a composição química das estrelas como pista da história da Galáxia é exatamente a **arqueologia galáctica** que discuti na nota da Escola de Inverno (ver [[260720-Arqueologia-Galactica-Aula01|Arqueologia Galáctica]]): cada estrela "carrega" no espectro dela a assinatura química do gás de que se formou, então olhar abundâncias + movimento (cinemática) das estrelas funciona como pistas químio-dinâmicas para reconstruir de onde vieram, quais nasceram juntas (grupos coetâneos) e como o enriquecimento químico local aconteceu ao longo do tempo. O problema é que descrever uma estrela direito envolve muita coisa ao mesmo tempo — posição e movimento no espaço (astrometria/cinemática), temperatura, gravidade superficial, e até **dezenas de abundâncias químicas diferentes**. Isso é um espaço de parâmetros gigante e cheio de relações não lineares, difícil de visualizar com os diagramas tradicionais (um par de eixos de cada vez). Por isso a ideia de usar uma técnica de **redução de dimensionalidade não supervisionada**, que olha tudo de uma vez e organiza sozinha.
 
 ---
 
@@ -59,16 +55,16 @@ Essa ideia de usar a composição química das estrelas como pista da história 
 
 Dois catálogos entram nessa história:
 
-- **GCNS (Gaia Catalogue of Nearby Stars):** vem da missão espacial *Gaia* e reúne astrometria e fotometria de altíssima precisão para cerca de **330 mil estrelas** dentro de 100 parsecs do Sol — basicamente o "censo" de quem mora no nosso quintal galáctico.
-- **GALAH DR4:** um levantamento espectroscópico terrestre (*GALactic Archaeology with HERMES*) que observou quase **1 milhão de estrelas** e fornece, para cada uma, até **30 abundâncias químicas diferentes**, além do espectro reduzido e normalizado.
+- **[GCNS](https://www.cosmos.esa.int/web/gaia/edr3-gcns) (Gaia Catalogue of Nearby Stars):** vem da missão espacial *Gaia* e reúne astrometria e fotometria de altíssima precisão para cerca de **330 mil estrelas** dentro de 100 parsecs do Sol — basicamente o "censo" de quem mora no nosso quintal galáctico.
+- **[GALAH DR4](https://www.galah-survey.org/dr4/overview/):** um levantamento espectroscópico terrestre (*GALactic Archaeology with HERMES*) que observou quase **1 milhão de estrelas** e fornece, para cada uma, até **30 abundâncias químicas diferentes**, além do espectro reduzido e normalizado.
 
-Cruzando esses dois catálogos por identificação segura de cada estrela, sobra uma amostra de **cerca de 5 a 6 mil estrelas** que têm tanto a posição/movimento precisos do Gaia quanto a "ficha química" completa do GALAH. É nessa amostra combinada que a análise inteira acontece.
+Cruzando esses dois catálogos por identificação segura de cada estrela (`sobject_id` do *Gaia*), sobra uma amostra de **cerca de 5 a 6 mil estrelas** que têm tanto a posição/movimento precisos do Gaia quanto a "ficha química" completa do GALAH. É nessa amostra combinada que a análise inteira acontece.
 
 ---
 
 ## 🧠 A ideia central: deixar o t-SNE "descobrir" sozinho
 
-Aqui está a virada de chave dos dois banners: em vez de já entrar calculando `[Fe/H]` ou `[Mg/Fe]` e jogando num gráfico (o jeito clássico), eu alimento o algoritmo **diretamente com o fluxo espectral normalizado** — ou seja, o espectro bruto (já tratado) de cada estrela, que tem milhares de pontos (dimensões). O algoritmo usado é o **t-SNE** (*t-distributed Stochastic Neighbor Embedding*): ele pega esse espaço de altíssima dimensão e "achata" numa projeção 2D, tentando preservar ao máximo quem estava perto de quem originalmente — estrelas com espectros parecidos acabam próximas no mapa final, mesmo sem eu ter dito ao algoritmo o que procurar.
+Aqui está a virada de chave dos trabalho: em vez de já entrar calculando `[Fe/H]` ou `[Mg/Fe]` e jogando num gráfico (o jeito clássico), eu alimento o algoritmo **diretamente com o fluxo espectral normalizado** — ou seja, o espectro bruto (já tratado) de cada estrela, que tem milhares de pontos (dimensões). O algoritmo usado é o **t-SNE** (*t-distributed Stochastic Neighbor Embedding*): ele pega esse espaço de altíssima dimensão e "achata" numa projeção 2D, tentando preservar ao máximo quem estava perto de quem originalmente — estrelas com espectros parecidos acabam próximas no mapa final, mesmo sem eu ter dito ao algoritmo o que procurar.
 
 Só **depois** de gerar essa projeção 2D é que eu volto e coloro cada ponto pelos parâmetros físicos já conhecidos (temperatura efetiva `Teff`, gravidade superficial `logg`, metalicidade `[Fe/H]`) — isso funciona como um teste de honestidade do método: se o algoritmo realmente capturou física de verdade (e não só ruído), esses parâmetros deveriam variar suavemente pelo mapa, em vez de aparecerem espalhados ao acaso.
 
