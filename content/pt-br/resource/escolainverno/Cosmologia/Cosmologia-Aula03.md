@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Cosmologia-Aula03"
 titulo: Cosmologia-Aula03
 disciplina: Cosmologia
 conteudo: Cosmologia — Estrutura em Grande Escala (conteúdo a ser preenchido)

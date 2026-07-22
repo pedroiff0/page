@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Aglomerados-Aula01"
 titulo: 260720-Aglomerados-Aula01
 disciplina: Astrofísica Extragaláctica
 conteudo: Aglomerados de Galáxias — as maiores estruturas gravitacionalmente ligadas do Universo

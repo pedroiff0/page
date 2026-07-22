@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Neutrinos"
 titulo: 260720-Neutrinos
 disciplina: Palestra — Física de Partículas e Cosmologia
 conteudo: Neutrinos e a Cosmologia — da física de partículas ao Universo em grande escala

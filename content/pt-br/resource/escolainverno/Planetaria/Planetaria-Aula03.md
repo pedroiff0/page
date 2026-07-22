@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Planetaria-Aula03"
 titulo: Planetaria-Aula03
 disciplina: Ciências Planetárias
 conteudo: Ciências Planetárias (continuação — conteúdo a ser preenchido)

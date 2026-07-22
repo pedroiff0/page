@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Cosmologia-Aula02"
 titulo: Cosmologia-Aula02
 disciplina: Cosmologia
 conteudo: Cosmologia — Radiação Cósmica de Fundo (conteúdo a ser preenchido)

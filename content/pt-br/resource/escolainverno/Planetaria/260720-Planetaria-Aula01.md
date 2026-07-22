@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Planetaria-Aula01"
 titulo: 260720-Planetaria-Aula01
 disciplina: Ciências Planetárias
 conteudo: Sistema Solar — inventário, arquitetura e dinâmica orbital

@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Planetaria-Aula02"
 titulo: 260721-Planetaria-Aula02
 disciplina: Ciências Planetárias
 conteudo: Continuação de Ciências Planetárias (conteúdo a ser preenchido)

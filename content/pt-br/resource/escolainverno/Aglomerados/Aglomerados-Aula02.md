@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Aglomerados-Aula02"
 titulo: Aglomerados-Aula02
 disciplina: Astrofísica Extragaláctica
 conteudo: Aglomerados de Galáxias (continuação — conteúdo a ser preenchido)
@@ -25,7 +27,7 @@ cssclasses:
 *Conteúdo desta aula ainda não registrado. Preencher após a aula (ou a partir do PDF, quando disponível) seguindo o mesmo padrão da [[260720-Aglomerados-Aula01|Aula 01]].*
 
 ### 📑 Tópicos abordados
-1. *(a preencher)*
+1. 
 
 ---
 
@@ -38,7 +40,10 @@ cssclasses:
 
 ## 📌 Conceitos-chave
 
-- *(a preencher)*
+- Parâmetro de Contraste de Densidade ($\delta(x,t)$); 
+- Sobredensidades > 0
+- Subdensidades < 0
+- 
 
 ---
 

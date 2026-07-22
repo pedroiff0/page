@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Computacao-Aula03"
 titulo: Computacao-Aula03
 disciplina: Computação Científica de Alto Desempenho
 conteudo: HPC (continuação — conteúdo a ser preenchido)

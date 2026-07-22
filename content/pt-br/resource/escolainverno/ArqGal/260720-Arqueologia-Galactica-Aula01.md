@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Arqueologia-Galactica-Aula01"
 titulo: 260720-Arqueologia-Galactica-Aula01
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas

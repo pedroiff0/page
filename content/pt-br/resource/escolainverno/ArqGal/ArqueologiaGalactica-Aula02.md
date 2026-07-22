@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-ArqueologiaGalactica-Aula02"
 titulo: ArqueologiaGalactica-Aula02
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Arqueologia Galáctica — Aglomerados Globulares (conteúdo a ser preenchido)
@@ -32,7 +34,7 @@ cssclasses:
 ## ⚠️ Pontos de atenção
 
 > [!important] Atenção
-> *(nenhuma anotação registrada ainda)*
+> Plotar gráfico MgFe x Age (Grisoni+2024) - Estrelas jovens e ricas em alfa
 
 ---
 
@@ -66,16 +68,31 @@ cssclasses:
 
 ### Asterosismologia
 
-Bowman&Bugnet2026 - Fig. 2 (Inserir)
+* Bowman&Bugnet2026 - Fig. 2 (Inserir)
+* Transformada de Fourier
+* Frequências de Oscilações
+* Logg bem definido
+* Idades mais precisas pra estrelas gigantes (ordem de 10%) Pinsonneault+2025
 
+## Estrelas Jovens
 
+* Jovens e ricas em elementos alfa
+* Grisoni+2024
+* Possíveis Binárias
+
+## Segunda Rev. GAIA precisão Fotometria
+
+* StarHorse (Apogee + APASS, 2MASS, WISE, GAIA)
+
+## APOGEE
+* 
 
 ---
-
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 2)
 > 1. Observações sobre o GALAH DR4 (idades, parâmetros e etc;)
-> 2. 
+> 2. Grafico de separação de disco Idades, Montalban+2021
+> 3. StarHorse 
 
 ---

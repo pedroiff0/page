@@ -1,4 +1,6 @@
 ---
+publish: true
+title: "20260722-Aglomerados-Aula03"
 titulo: Aglomerados-Aula03
 disciplina: Astrofísica Extragaláctica
 conteudo: Aglomerados de Galáxias (continuação — conteúdo a ser preenchido)
