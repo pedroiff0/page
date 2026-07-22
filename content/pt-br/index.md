@@ -20,6 +20,8 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 
 ### 🌐 Redes Sociais
 
+Caso queira entrar em contato, mande um email!
+
 - 💻 [GitHub](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
 - 📸 [Instagram](https://instagram.com/fckpeeh)
@@ -34,8 +36,6 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 ### 3️⃣ Terceiro passo: Explorar o conteúdo
 
 Para navegar pelo meu trabalho, explore as seções deste site:
-
-You can test me befoe
 
 - [Pesquisa](pt-br/research/) — Conheça meus projetos atuais e publicações.
 - [Recursos](pt-br/resource/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
