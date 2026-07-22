@@ -4,6 +4,29 @@ title: "9º Período"
 order: 9
 ---
 
+<div class="media-carousel">
+  <a href="/pt-br/classes/engenharia-de-computação/9-periodo/direito-etica-e-cidadania" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Direito, Ética e Cidadania" />
+    <div class="slide-caption">Direito, Ética e Cidadania</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/9-periodo/empreendedorismo" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Empreendedorismo" />
+    <div class="slide-caption">Empreendedorismo</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/9-periodo/projeto-final-de-curso-i" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Projeto Final de Curso I" />
+    <div class="slide-caption">Projeto Final de Curso I</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/9-periodo/sistemas-distribuidos" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Sistemas Distribuídos" />
+    <div class="slide-caption">Sistemas Distribuídos</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/9-periodo/sistemas-embarcados" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Sistemas Embarcados" />
+    <div class="slide-caption">Sistemas Embarcados</div>
+  </a>
+</div>
+
 Disciplinas do 9º período do curso de Engenharia de Computação.
 
 ## Disciplinas

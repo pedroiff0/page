@@ -4,6 +4,41 @@ title: "3º Período"
 order: 3
 ---
 
+<div class="media-carousel">
+  <a href="/pt-br/classes/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Estruturas de Dados I" />
+    <div class="slide-caption">Algoritmos e Estruturas de Dados I</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/3-periodo/calculo-iii" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Cálculo III" />
+    <div class="slide-caption">Cálculo III</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/3-periodo/ciencias-do-ambiente" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Ciências do Ambiente" />
+    <div class="slide-caption">Ciências do Ambiente</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/3-periodo/equacoes-diferenciais" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Equações Diferenciais" />
+    <div class="slide-caption">Equações Diferenciais</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/3-periodo/fisica-experimental-ii" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Física Experimental II" />
+    <div class="slide-caption">Física Experimental II</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/3-periodo/fisica-ii" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Física II" />
+    <div class="slide-caption">Física II</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/3-periodo/introducao-a-ciencia-dos-materiais" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Introdução à Ciência dos Materiais" />
+    <div class="slide-caption">Introdução à Ciência dos Materiais</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/3-periodo/mecanica-dos-solidos" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Mecânica dos Sólidos" />
+    <div class="slide-caption">Mecânica dos Sólidos</div>
+  </a>
+</div>
+
 Disciplinas do 3º período do curso de Engenharia de Computação.
 
 ## Disciplinas

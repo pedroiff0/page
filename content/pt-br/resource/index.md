@@ -6,6 +6,25 @@ created: 2026-07-18T14:50:18.101-03:00
 modified: 2026-07-18T14:50:18.101-03:00
 ---
 
+<div class="media-carousel">
+  <a href="/pt-br/resource/astronomy-data-toolkit" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="Kit de Ferramentas para Dados em Astronomia" />
+    <div class="slide-caption">Kit de Ferramentas para Dados em Astronomia</div>
+  </a>
+  <a href="/pt-br/resource/computacao" class="carousel-slide">
+    <img src="/assets/illustrations/computacao.svg" alt="Computação" />
+    <div class="slide-caption">Computação</div>
+  </a>
+  <a href="/pt-br/resource/escolainverno" class="carousel-slide">
+    <img src="/assets/illustrations/escolainverno.svg" alt="Escola de Inverno (ON 2026)" />
+    <div class="slide-caption">Escola de Inverno (ON 2026)</div>
+  </a>
+  <a href="/pt-br/resource/latex-escrita" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="LaTeX e Escrita Acadêmica" />
+    <div class="slide-caption">LaTeX e Escrita Acadêmica</div>
+  </a>
+</div>
+
 ## 📚 Meu Arquivo Público da Mente (PAM)
 
 Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao longo da minha jornada acadêmica — uma base de conhecimento pessoal, aberta para qualquer um explorar e usar.

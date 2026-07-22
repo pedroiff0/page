@@ -6,6 +6,17 @@ created: 2026-07-18T14:50:18.101-03:00
 modified: 2026-07-18T14:50:18.101-03:00
 ---
 
+<div class="media-carousel">
+  <a href="/pt-br/research/anomaly-detection" class="carousel-slide">
+    <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Detecção de Anomalias em Dados do Gaia" />
+    <div class="slide-caption">Detecção de Anomalias em Dados do Gaia</div>
+  </a>
+  <a href="/pt-br/research/articles" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="Artigos" />
+    <div class="slide-caption">Artigos</div>
+  </a>
+</div>
+
 Meu trabalho está na interseção entre **métodos computacionais** e **problemas astrofísicos**, com foco em arqueologia galáctica, populações estelares e a estrutura da Via Láctea.
 
 ## Áreas de Interesse

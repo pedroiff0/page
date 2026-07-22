@@ -4,6 +4,41 @@ title: "4º Período"
 order: 4
 ---
 
+<div class="media-carousel">
+  <a href="/pt-br/classes/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Estruturas de Dados II" />
+    <div class="slide-caption">Algoritmos e Estruturas de Dados II</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/4-periodo/calculo-iv" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Cálculo IV" />
+    <div class="slide-caption">Cálculo IV</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/4-periodo/calculo-numerico" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Cálculo Numérico" />
+    <div class="slide-caption">Cálculo Numérico</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/4-periodo/economia" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Economia" />
+    <div class="slide-caption">Economia</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/4-periodo/fenomenos-de-transporte" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Fenômenos de Transporte" />
+    <div class="slide-caption">Fenômenos de Transporte</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/4-periodo/fisica-experimental-iii" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Física Experimental III" />
+    <div class="slide-caption">Física Experimental III</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/4-periodo/fisica-iii" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Física III" />
+    <div class="slide-caption">Física III</div>
+  </a>
+  <a href="/pt-br/classes/engenharia-de-computação/4-periodo/probabilidade-e-estatistica" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Probabilidade e Estatística" />
+    <div class="slide-caption">Probabilidade e Estatística</div>
+  </a>
+</div>
+
 Disciplinas do 4º período do curso de Engenharia de Computação.
 
 ## Disciplinas

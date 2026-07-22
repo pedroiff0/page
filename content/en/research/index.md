@@ -6,6 +6,13 @@ created: 2026-07-18T14:24:43.861-03:00
 modified: 2026-07-18T14:24:43.861-03:00
 ---
 
+<div class="media-carousel">
+  <a href="/en/research/anomaly-detection" class="carousel-slide">
+    <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Anomaly Detection in Gaia Data" />
+    <div class="slide-caption">Anomaly Detection in Gaia Data</div>
+  </a>
+</div>
+
 My work sits at the intersection of **computational methods** and **astrophysical problems**, focused on galactic archaeology, stellar populations, and the structure of the Milky Way.
 
 ## Areas of Interest

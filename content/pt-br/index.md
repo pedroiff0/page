@@ -38,6 +38,29 @@ Caso queira entrar em contato, mande um email!
 
 Para navegar pelo meu trabalho, explore as seções deste site:
 
+<div class="media-carousel">
+  <a href="/pt-br/research" class="carousel-slide">
+    <img src="/assets/illustrations/research.svg" alt="Pesquisa" />
+    <div class="slide-caption">Pesquisa</div>
+  </a>
+  <a href="/pt-br/resource" class="carousel-slide">
+    <img src="/assets/illustrations/resource.svg" alt="Recursos" />
+    <div class="slide-caption">Recursos</div>
+  </a>
+  <a href="/pt-br/classes" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Disciplinas" />
+    <div class="slide-caption">Disciplinas</div>
+  </a>
+  <a href="/pt-br/media" class="carousel-slide">
+    <img src="/assets/febic2024/febic.jpeg" alt="Mídia" />
+    <div class="slide-caption">Mídia</div>
+  </a>
+  <a href="/pt-br/publications" class="carousel-slide">
+    <img src="/assets/illustrations/publications.svg" alt="Publicações" />
+    <div class="slide-caption">Publicações</div>
+  </a>
+</div>
+
 - [Pesquisa](pt-br/research/) — Conheça meus projetos atuais.
 - [Recursos](pt-br/resource/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
 - [Disciplinas](pt-br/classes/) — Minhas anotações e trabalhos de faculdade.

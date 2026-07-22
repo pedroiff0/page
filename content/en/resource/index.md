@@ -6,6 +6,13 @@ created: 2026-07-18T14:25:13.277-03:00
 modified: 2026-07-18T14:25:13.277-03:00
 ---
 
+<div class="media-carousel">
+  <a href="/en/resource/astronomy-data-toolkit" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="Astronomy Data Toolkit" />
+    <div class="slide-caption">Astronomy Data Toolkit</div>
+  </a>
+</div>
+
 ## 📚 My Public Archive of Mind (PAM)
 
 A curated collection of tools, materials, and recommendations gathered throughout my academic journey — a personal knowledge base, open for anyone to explore and use.
