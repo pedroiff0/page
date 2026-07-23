@@ -41,4 +41,8 @@ Participações em feiras e congressos. Arraste para o lado para ver as fotos!
     <img src="/assets/mctia2025/mctia2025.jpeg" alt="MCTIA 2025" />
     <div class="slide-caption">MCTIA 2025</div>
   </a>
+  <a href="/pt-br/media/escolainverno-2026" class="carousel-slide">
+    <img src="/assets/illustrations/escolainverno.svg" alt="Escola de Inverno ON - 2026" />
+    <div class="slide-caption">Escola de Inverno ON - 2026</div>
+  </a>
 </div>
