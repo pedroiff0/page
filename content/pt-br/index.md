@@ -55,6 +55,10 @@ Para navegar pelo meu trabalho, explore as seções deste site:
     <img src="/assets/febic2024/febic.jpeg" alt="Mídia" />
     <div class="slide-caption">Mídia</div>
   </a>
+  <a href="/pt-br/projects" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="Projetos" />
+    <div class="slide-caption">Projetos</div>
+  </a>
   <a href="/pt-br/publications" class="carousel-slide">
     <img src="/assets/illustrations/publications.svg" alt="Publicações" />
     <div class="slide-caption">Publicações</div>
@@ -65,6 +69,7 @@ Para navegar pelo meu trabalho, explore as seções deste site:
 - [Recursos](pt-br/resource/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
 - [Disciplinas](pt-br/classes/) — Minhas anotações e trabalhos de faculdade.
 - [Mídia](pt-br/media/) — Participações em eventos, feiras e apresentações.
+- [Projetos](pt-br/projects/) — Ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
 - [Publicações](pt-br/publications/) — Meus artigos e preprints publicados.
 
 O enfoque deste site é ser um grande repositório de informações minhas. Ele está disponível em dois idiomas: todo o conteúdo é escrito primeiro em **Português (Brasil)** e traduzido para o inglês assim que possível — por isso, nem todas as páginas têm uma versão em inglês ainda.
