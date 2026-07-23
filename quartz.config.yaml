@@ -165,7 +165,7 @@ plugins:
           let orderA = a.data?.frontmatter?.order ?? 100
           let orderB = b.data?.frontmatter?.order ?? 100
           if (orderA !== orderB) return orderA - orderB
-          return a.displayName.localeCompare(b.displayName)
+          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
         }
     layout:
       position: left
@@ -250,6 +250,7 @@ plugins:
     layout:
       position: afterBody
       priority: 10
+      condition: is-blog
 
   - source: github:quartz-community/recent-notes
     enabled: false

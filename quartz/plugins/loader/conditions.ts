@@ -16,6 +16,7 @@ const builtinConditions: Record<string, ConditionPredicate> = {
     const toc = (props.fileData as Record<string, unknown>).toc
     return Array.isArray(toc) && toc.length > 0
   },
+  "is-blog": (props) => props.fileData.frontmatter?.type === "blog",
 }
 
 const customConditions = new Map<string, ConditionPredicate>()
