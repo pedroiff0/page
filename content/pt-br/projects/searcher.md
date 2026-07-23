@@ -1,12 +1,18 @@
 ---
 publish: true
-title: Searcher
+title: "arXiv Searcher"
 created: 2026-03-13
 ---
 
 > [!note] Em uma frase
-> Ferramenta, em **planejamento**, para buscar e organizar automaticamente artigos do arXiv por assunto/palavra-chave, gerando saída diária em Markdown (tabela com data, título, autor principal, área e link) e citações prontas em LaTeX.
+> Ferramenta, em **planejamento**, para buscar e organizar automaticamente artigos do arXiv por assunto/palavra-chave.
 
-Ferramenta, em **planejamento**, para buscar e organizar automaticamente artigos do arXiv por assunto/palavra-chave, gerando saída diária em Markdown (tabela com data, título, autor principal, área e link) e citações prontas em LaTeX.
+Pensada para rodar como daemon (talvez dockerizado), consultando a API do arXiv periodicamente e gerando:
 
-Inspirado em ferramentas como o [dailyarxiv](https://dailyarxiv.com), com execução programada (cronjob) e configuração de área padrão de busca.
+- Saída diária em **Markdown**: tabela com data, título, primeiro autor, área e link do arXiv.
+- **Citações prontas em LaTeX**, com a mesma estrutura de referência já usada nos meus artigos.
+- Configuração via planilha `.csv` — área de busca padrão configurável, com opção de busca por palavra-chave avulsa sem alterar essa configuração.
+
+Referências de projetos abertos parecidos que uso como inspiração: [biblio.el](https://github.com/cpitclaudel/biblio.el), [bibcure](https://github.com/bibcure/bibcure) e [dailyarxiv](https://dailyarxiv.com).
+
+**Status:** em planejamento — desenho da estrutura de dados (Markdown/LaTeX) e do menu de configuração (assunto padrão via cronjob, escolha manual de assunto, ou combinação assunto+palavra-chave) já esboçados.

@@ -20,7 +20,7 @@ tags:
 
 ## 🔒 Trancas
 
-- [CSECBJI.44 - Banco de Dados](pt-br/classes/Engenharia%20de%20Computação/6-periodo/banco-de-dados.md)
+- [CSECBJI.44 - Banco de Dados](pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados.md)
 
 ## 📋 Ementa
 

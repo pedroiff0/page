@@ -32,7 +32,7 @@ Transistores bipolares e circuitos polarizados com transistor; Fonte de alimenta
 
 ## 📖 Conteúdo Programático
 
-1. Teoria dos Diodos [[260324-Aula-Aula01-1]]
+1. Teoria dos Diodos
  - Teoria do semicondutor
  - Dopagem
  - Diodo não polarizado; polarização direta e reversa

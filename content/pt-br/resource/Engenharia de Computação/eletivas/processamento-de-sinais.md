@@ -16,7 +16,7 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | [CSECBJI.31 - Cálculo IV](calculo-iv.md), [CSECBJI.47 - Comunicação de Dados](pt-br/classes/Engenharia%20de%20Computação/6-periodo/comunicacao-de-dados.md) |
+| Pré-requisitos | [CSECBJI.31 - Cálculo IV](calculo-iv.md), [CSECBJI.47 - Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) |
 
 ## 📋 Ementa
 

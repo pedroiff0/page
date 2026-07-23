@@ -20,7 +20,7 @@ tags:
 
 ## 🔒 Trancas
 
-- [CSECBJI.41 - Avaliação e Desempenho de Sistemas](pt-br/classes/5-periodo/avaliacao-e-desempenho-de-sistemas)
+- [CSECBJI.41 - Avaliação e Desempenho de Sistemas](pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas)
 
 ## 📋 Ementa
 

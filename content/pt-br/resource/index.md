@@ -5,6 +5,9 @@ order: 2
 created: 2026-07-18T14:50:18.101-03:00
 ---
 
+> [!note] Resumo
+> Ferramentas, materiais e recomendações acumuladas ao longo da minha jornada acadêmica.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Engenharia de Computação" />

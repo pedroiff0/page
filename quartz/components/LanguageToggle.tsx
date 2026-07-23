@@ -22,7 +22,11 @@ const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentP
               const prefix = langIdx === -1 ? parts : parts.slice(0, langIdx);
               const rest = langIdx === -1 ? [] : parts.slice(langIdx + 1);
 
-              return '/' + [...prefix, targetLang, ...rest].join('/') + '/';
+              // Only add a trailing slash if the current URL already has one
+              // (folder/index pages) -- leaf pages have no trailing slash and
+              // a spurious one 404s instead of resolving.
+              const trailingSlash = path.endsWith('/') ? '/' : '';
+              return '/' + [...prefix, targetLang, ...rest].join('/') + trailingSlash;
             };
           }
         `

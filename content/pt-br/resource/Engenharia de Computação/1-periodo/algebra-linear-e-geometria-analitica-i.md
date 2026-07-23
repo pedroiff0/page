@@ -20,9 +20,9 @@ tags:
 
 ## 🔒 Trancas
 
-- [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/classes/2-periodo/algebra-linear-e-geometria-analitica-ii)
-- [CSECBJI.11 - Física I](pt-br/classes/2-periodo/fisica-i)
-- [CSECBJI.18 - Equações Diferenciais](pt-br/classes/3-periodo/equacoes-diferenciais)
+- [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii)
+- [CSECBJI.11 - Física I](pt-br/resource/engenharia-de-computação/2-periodo/fisica-i)
+- [CSECBJI.18 - Equações Diferenciais](pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais)
 
 ## 📋 Ementa
 

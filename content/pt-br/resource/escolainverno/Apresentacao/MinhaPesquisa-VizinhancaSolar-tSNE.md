@@ -27,8 +27,7 @@ cssclasses:
 ## 📎 Banners
 
 > [!example]- 📄 Banner Escola de Inverno — versão em português
-> ![[BannerEscolaInverno.pdf]]
-> 
+> _(PDF ainda não anexado — falta adicionar `BannerEscolaInverno.pdf` em `content/assets/`)_ 
 ---
 
 ## 🎯 Do que se trata a pesquisa, em uma frase

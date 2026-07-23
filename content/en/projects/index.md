@@ -17,24 +17,24 @@ order: 5
     <div class="slide-caption">HardCoreLife</div>
   </a>
   <a href="/en/projects/livrocalculo" class="carousel-slide">
-    <img src="/assets/illustrations/projects.svg" alt="Calculus Book" />
-    <div class="slide-caption">Calculus Book</div>
+    <img src="/assets/illustrations/projects.svg" alt="Calculus Textbook" />
+    <div class="slide-caption">Calculus Textbook</div>
   </a>
   <a href="/en/projects/searcher" class="carousel-slide">
-    <img src="/assets/illustrations/projects.svg" alt="Searcher" />
-    <div class="slide-caption">Searcher</div>
+    <img src="/assets/illustrations/projects.svg" alt="arXiv Searcher" />
+    <div class="slide-caption">arXiv Searcher</div>
   </a>
   <a href="/en/projects/apostilas" class="carousel-slide">
     <img src="/assets/illustrations/projects.svg" alt="Course Guides" />
     <div class="slide-caption">Course Guides</div>
   </a>
   <a href="/en/projects/guiagithub" class="carousel-slide">
-    <img src="/assets/illustrations/projects.svg" alt="GitHub Guide" />
-    <div class="slide-caption">GitHub Guide</div>
+    <img src="/assets/illustrations/projects.svg" alt="Git & GitHub Guide" />
+    <div class="slide-caption">Git & GitHub Guide</div>
   </a>
   <a href="/en/projects/academicoweb" class="carousel-slide">
-    <img src="/assets/illustrations/projects.svg" alt="AcademicoWeb" />
-    <div class="slide-caption">AcademicoWeb</div>
+    <img src="/assets/illustrations/projects.svg" alt="AcademicoWeb (archived)" />
+    <div class="slide-caption">AcademicoWeb (archived)</div>
   </a>
 </div>
 
@@ -43,15 +43,15 @@ Personal development projects — tools, applications and course material I buil
 ## In progress
 
 - [VerdeMenta](en/projects/verdementa) — cash flow and register control system, in production.
-- [Calculus Book](en/projects/livrocalculo) — my own Calculus course material, from the fundamentals to linear systems.
+- [Calculus Textbook](en/projects/livrocalculo) — my own Calculus course material, from the fundamentals to linear systems.
 
 ## Planned
 
 - [HardCoreLife](en/projects/hardcorelife) — personal modular platform (finances, tasks, family sharing).
-- [Searcher](en/projects/searcher) — tool to search and automatically organize arXiv papers.
+- [arXiv Searcher](en/projects/searcher) — tool to search and automatically organize arXiv papers.
 - [Course Guides](en/projects/apostilas) — my own course guides covering the whole Computer Engineering curriculum.
-- [GitHub Guide](en/projects/guiagithub) — guide to Git and version control best practices.
+- [Git & GitHub Guide](en/projects/guiagithub) — guide to Git and version control best practices.
 
 ## Archived
 
-- [AcademicoWeb](en/projects/academicoweb) — automation tool for IFF's academic system.
+- [AcademicoWeb (archived)](en/projects/academicoweb) — automation tool for IFF's academic system.

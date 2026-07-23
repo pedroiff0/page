@@ -66,8 +66,7 @@ Estrelas nascem em berçários estelares — regiões densas e frias de nuvens m
 ![Nebulosa de Carina: um dos maiores berçários estelares conhecidos, onde nuvens densas e frias colapsam gravitacionalmente para formar novas estrelas (NASA/ESA/Hubble).](https://commons.wikimedia.org/wiki/Special:FilePath/Carina_Nebula.jpg)
 
 > [!info]- 📷 Imagem pendente
-> Diagrama "Chandra Stellar Fate" (tipos de morte estelar conforme a massa inicial) — referência: repositório **Kepler** da UFRGS.
-> ![[Pasted image 20260720094718.png]]
+> Diagrama "Chandra Stellar Fate" (tipos de morte estelar conforme a massa inicial) — referência: repositório **Kepler** da UFRGS. _(imagem ainda não anexada)_
 
 ### O que cada tipo de evento produz
 

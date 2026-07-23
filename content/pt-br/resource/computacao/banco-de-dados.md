@@ -72,5 +72,5 @@ Backup e recuperação, controle de acesso, replicação e noções de bancos n�
 
 ## Conexão com as disciplinas do curso
 
-- [Modelagem de Dados](pt-br/classes/Engenharia%20de%20Computação/5-periodo/modelagem-de-dados.md) — o projeto conceitual que antecede o banco: entidades, relacionamentos e normalização.
-- [Banco de Dados](pt-br/classes/Engenharia%20de%20Computação/6-periodo/banco-de-dados.md) — a disciplina central: SQL, transações, índices e a prática com SGBDs reais.
+- [Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md) — o projeto conceitual que antecede o banco: entidades, relacionamentos e normalização.
+- [Banco de Dados](pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados.md) — a disciplina central: SQL, transações, índices e a prática com SGBDs reais.

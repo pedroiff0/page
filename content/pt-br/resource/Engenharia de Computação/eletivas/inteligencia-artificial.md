@@ -16,7 +16,7 @@ tags:
 | Núcleo | Específico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/classes/Engenharia%20de%20Computação/5-periodo/projeto-e-analise-de-algoritmos.md) |
+| Pré-requisitos | [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos.md) |
 
 ## 📋 Ementa
 

@@ -21,7 +21,7 @@ tags:
 ## 🔒 Trancas
 
 - [CSECBJI.14 - Matemática Discreta](matematica-discreta.md)
-- [CSECBJI.35 - Modelagem de Dados](pt-br/classes/Engenharia%20de%20Computação/5-periodo/modelagem-de-dados.md)
+- [CSECBJI.35 - Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md)
 - [CSECBJI.46 - Eletrônica Digital](eletronica-digital.md)
 
 ## 📋 Ementa

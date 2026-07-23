@@ -23,10 +23,6 @@ title: "Escola de Inverno (ON 2026)"
     <img src="/assets/illustrations/arqgal.svg" alt="Arqueologia Galáctica" />
     <div class="slide-caption">Arqueologia Galáctica</div>
   </a>
-  <a href="/pt-br/resource/escolainverno/complemento" class="carousel-slide">
-    <img src="/assets/illustrations/escolainverno.svg" alt="Complemento" />
-    <div class="slide-caption">Complemento</div>
-  </a>
   <a href="/pt-br/resource/escolainverno/computação" class="carousel-slide">
     <img src="/assets/illustrations/escolainverno.svg" alt="Computação de Alto Desempenho" />
     <div class="slide-caption">Computação de Alto Desempenho</div>

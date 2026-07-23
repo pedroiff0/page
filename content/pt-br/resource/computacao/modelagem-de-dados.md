@@ -68,5 +68,5 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 
 ## Conexão com as disciplinas do curso
 
-- [Modelagem de Dados](pt-br/classes/Engenharia%20de%20Computação/5-periodo/modelagem-de-dados.md) — a disciplina que este guia acompanha diretamente: ER, mapeamento e normalização.
-- [Banco de Dados](pt-br/classes/Engenharia%20de%20Computação/6-periodo/banco-de-dados.md) — onde o modelo vira sistema: SQL, transações e a implementação de tudo que foi projetado aqui.
+- [Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md) — a disciplina que este guia acompanha diretamente: ER, mapeamento e normalização.
+- [Banco de Dados](pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados.md) — onde o modelo vira sistema: SQL, transações e a implementação de tudo que foi projetado aqui.

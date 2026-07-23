@@ -27,6 +27,53 @@ Caso queira entrar em contato, mande um email!
 - 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
 - ✉️ [E-mail](mailto:pedroiff0@gmail.com)
 
+### 📬 Fale comigo
+
+Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensagem cai direto na minha caixa de entrada.
+
+<form id="contact-form" class="contact-form">
+  <input type="text" name="from_name" placeholder="Seu nome" required>
+  <input type="email" name="reply_to" placeholder="Seu e-mail" required>
+  <textarea name="message" placeholder="Sua mensagem" rows="5" required></textarea>
+  <button type="submit">Enviar</button>
+  <p id="contact-form-status"></p>
+</form>
+
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script>
+(function() {
+  // TODO(Pedro): substitua pelas suas credenciais de https://dashboard.emailjs.com
+  // (crie uma conta grátis, um Email Service e um Email Template com as variáveis
+  // from_name / reply_to / message usadas no formulário acima).
+  var EMAILJS_PUBLIC_KEY = "SUA_PUBLIC_KEY_AQUI";
+  var EMAILJS_SERVICE_ID = "SEU_SERVICE_ID_AQUI";
+  var EMAILJS_TEMPLATE_ID = "SEU_TEMPLATE_ID_AQUI";
+
+  var form = document.getElementById("contact-form");
+  var status = document.getElementById("contact-form-status");
+  if (!form || window.emailjs === undefined) return;
+  emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
+
+  form.addEventListener("submit", function(e) {
+    e.preventDefault();
+    if (EMAILJS_PUBLIC_KEY.indexOf("AQUI") !== -1) {
+      status.textContent = "Formulário ainda não configurado — envie por e-mail direto por enquanto.";
+      return;
+    }
+    status.textContent = "Enviando…";
+    emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, form).then(
+      function() {
+        status.textContent = "Mensagem enviada — obrigado pelo contato!";
+        form.reset();
+      },
+      function(err) {
+        status.textContent = "Não deu pra enviar agora. Tenta de novo ou manda um e-mail direto.";
+      }
+    );
+  });
+})();
+</script>
+
 ### 2️⃣ Segundo passo: Áreas de Interesse
 
 - **Astrofísica**: Arqueologia galáctica, populações estelares, estrutura e evolução química da Via Láctea, análise de grandes volumes de dados astronômicos.
@@ -58,9 +105,9 @@ Para navegar pelo meu trabalho, explore as seções deste site:
     <img src="/assets/illustrations/projects.svg" alt="Projetos" />
     <div class="slide-caption">Projetos</div>
   </a>
-  <a href="/pt-br/publications" class="carousel-slide">
-    <img src="/assets/illustrations/publications.svg" alt="Publicações" />
-    <div class="slide-caption">Publicações</div>
+  <a href="/pt-br/blog" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="Blog" />
+    <div class="slide-caption">Blog</div>
   </a>
 </div>
 
@@ -69,7 +116,7 @@ Para navegar pelo meu trabalho, explore as seções deste site:
 - [Disciplinas](pt-br/resource/engenharia-de-computação/) — Minhas anotações e trabalhos de faculdade.
 - [Mídia](pt-br/media/) — Participações em eventos, feiras e apresentações.
 - [Projetos](pt-br/projects/) — Ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
-- [Publicações](pt-br/publications/) — Meus artigos e preprints publicados.
+- [Blog](pt-br/blog/) — Pensamentos aleatórios, tutoriais e reflexões sobre a jornada de pesquisa.
 
 O enfoque deste site é ser um grande repositório de informações minhas. Ele está disponível em dois idiomas: todo o conteúdo é escrito primeiro em **Português (Brasil)** e traduzido para o inglês assim que possível — por isso, nem todas as páginas têm uma versão em inglês ainda.
 

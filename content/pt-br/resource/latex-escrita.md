@@ -11,7 +11,7 @@ tags:
 
 ## Por que LaTeX?
 
-Editores visuais funcionam até o dia em que você precisa numerar 40 equações, manter referências cruzadas consistentes e formatar a bibliografia no padrão da revista — aí eles viram inimigos. LaTeX separa conteúdo de formatação: você escreve texto puro com marcações, e o sistema cuida de numeração, sumário, citações e layout com qualidade tipográfica profissional. Todo artigo que submeto (incluindo o [preprint no arXiv](pt-br/publications/deAndrade2025)) é escrito em LaTeX.
+Editores visuais funcionam até o dia em que você precisa numerar 40 equações, manter referências cruzadas consistentes e formatar a bibliografia no padrão da revista — aí eles viram inimigos. LaTeX separa conteúdo de formatação: você escreve texto puro com marcações, e o sistema cuida de numeração, sumário, citações e layout com qualidade tipográfica profissional. Todo artigo que submeto (incluindo o trabalho descrito em [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection)) é escrito em LaTeX.
 
 ## Trilha de estudo
 

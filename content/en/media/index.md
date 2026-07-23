@@ -40,7 +40,7 @@ Participations in science fairs and congresses. Swipe to see the photos!
     <div class="slide-caption">SAB 2025</div>
   </a>
   <a href="/en/media/mctia-2025" class="carousel-slide">
-    <img src="/assets/mctia2025/mctia2025.jpeg" alt="MCTIA 2025" />
+    <img src="/assets/mctia2025/mctia2025-01.jpeg" alt="MCTIA 2025" />
     <div class="slide-caption">MCTIA 2025</div>
   </a>
   <a href="/en/media/escolainverno-2026" class="carousel-slide">
@@ -48,3 +48,27 @@ Participations in science fairs and congresses. Swipe to see the photos!
     <div class="slide-caption">Winter School ON - 2026</div>
   </a>
 </div>
+
+## 2026
+
+- [Winter School ON - 2026](en/media/escolainverno-2026)
+
+## 2025
+
+- [MCTIA 2025](en/media/mctia-2025)
+- [SAB 2025](en/media/sab-2025)
+
+## 2024
+
+- [4th SCEG 2024](en/media/4-sceg)
+- [IX FEBIC 2024](en/media/febic-2024)
+- [e-JINIFF 2024](en/media/e-jiniff-2024)
+
+## 2023
+
+- [MOSTRATEC 2023](en/media/mostratec-2023)
+- [FEBRACE 2023](en/media/febrace-2023)
+
+## 2022
+
+- [LNCC 2022](en/media/lncc-2022)

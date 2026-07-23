@@ -1,10 +1,16 @@
 ---
 publish: true
-title: GitHub Guide
+title: "Git & GitHub Guide"
 created: 2026-03-13
 ---
 
 > [!note] In one line
-> My own guide to Git and version control best practices, in **early planning**, with modules on dockerization, microservice architecture and documentation standards.
+> My own guide to Git and version control best practices, in **early planning**.
 
-My own guide to Git and version control best practices, in **early planning**, with modules on dockerization, microservice architecture and documentation standards.
+Designed as a practical guide (not another generic command manual), with modules on:
+
+- **Dockerization** — packaging applications reproducibly
+- **Microservice architecture** — versioning in multi-service projects
+- Repository **documentation standards**
+
+**Status:** early planning — module structure defined, content still to be written.

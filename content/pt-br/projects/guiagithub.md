@@ -1,10 +1,16 @@
 ---
 publish: true
-title: Guia GitHub
+title: "Guia de Git & GitHub"
 created: 2026-03-13
 ---
 
 > [!note] Em uma frase
-> Guia próprio de Git e boas práticas de versionamento, em **planejamento inicial**, com módulos sobre dockerização, arquitetura de microsserviços e padrões de documentação.
+> Guia próprio de Git e boas práticas de versionamento, em **planejamento inicial**.
 
-Guia próprio de Git e boas práticas de versionamento, em **planejamento inicial**, com módulos sobre dockerização, arquitetura de microsserviços e padrões de documentação.
+Pensado como um guia prático (não mais um manual genérico de comandos), com módulos sobre:
+
+- **Dockerização** — empacotar aplicações de forma reprodutível
+- **Arquitetura de microsserviços** — versionamento em projetos multi-serviço
+- **Padrões de documentação** de repositório
+
+**Status:** planejamento inicial — estrutura dos módulos definida, conteúdo ainda a escrever.

@@ -1,12 +1,19 @@
 ---
 publish: true
-title: HardCoreLife
+title: "HardCoreLife — Plataforma de Vida Modular"
 created: 2026-03-13
 ---
 
 > [!note] Em uma frase
-> Plataforma pessoal modular, em **planejamento**, pensada para reunir diferentes áreas da vida em um só lugar: controle financeiro, investimentos, veículos, tarefas, assinaturas de streaming e compartilhamento entre familiares — com acesso web (global ou restrito) e, futuramente, aplicativo.
+> Plataforma pessoal modular, em **planejamento**, para reunir controle financeiro, investimentos, veículos, tarefas e compartilhamento familiar em um só lugar.
 
-Plataforma pessoal modular, em **planejamento**, pensada para reunir diferentes áreas da vida em um só lugar: controle financeiro, investimentos, veículos, tarefas, assinaturas de streaming e compartilhamento entre familiares — com acesso web (global ou restrito) e, futuramente, aplicativo.
+A ideia central é ter **um único sistema, vários módulos**, cada um cuidando de uma área da vida pessoal, mas todos integrados entre si — em vez de espalhar essas informações em planilhas e apps soltos. Módulos planejados:
 
-Ainda na fase de desenho: arquitetura modular, autenticação e organização de dados.
+- **Controle Financeiro** e **Controle de Investimentos**
+- **Controle Automotivo** e **Controle de Tarefas**
+- **Controle de Streamings** (assinaturas)
+- **Compartilhamento Familiar** — acesso restrito para quem eu decidir dar entrada
+
+Acesso pensado em duas camadas: web (aberta ou restrita, dependendo do módulo) e, futuramente, um aplicativo com acesso restrito ao usuário.
+
+**Status:** ainda na fase de desenho — arquitetura modular, autenticação e organização de dados. Metodologia ágil (Kanban/SCRUM via GitHub) e boas práticas de UI/UX e documentação fazem parte do planejamento desde o início.

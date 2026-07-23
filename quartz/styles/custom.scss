@@ -408,3 +408,53 @@ details.author-details[open] .author-summary {
   font-weight: bold;
   font-size: 1.1rem;
 }
+
+/* --- Contact form --- */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-width: 480px;
+  margin: 1.5rem 0;
+}
+
+.contact-form input,
+.contact-form textarea {
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--light);
+  color: var(--dark);
+  resize: vertical;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: var(--secondary);
+}
+
+.contact-form button {
+  align-self: flex-start;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.6rem 1.4rem;
+  border: none;
+  border-radius: 6px;
+  background: var(--secondary);
+  color: var(--light);
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+}
+
+.contact-form button:hover {
+  opacity: 0.85;
+}
+
+#contact-form-status {
+  font-size: 0.9rem;
+  color: var(--gray);
+  margin: 0;
+}

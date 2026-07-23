@@ -16,7 +16,7 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | [CSECBJI.47 - Comunicação de Dados](pt-br/classes/Engenharia%20de%20Computação/6-periodo/comunicacao-de-dados.md) |
+| Pré-requisitos | [CSECBJI.47 - Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) |
 
 ## 🔒 Trancas
 

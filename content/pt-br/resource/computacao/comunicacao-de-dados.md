@@ -67,5 +67,5 @@ Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, pr
 
 ## Conexão com as disciplinas do curso
 
-- [Comunicação de Dados](pt-br/classes/Engenharia%20de%20Computação/6-periodo/comunicacao-de-dados.md) — a disciplina que este guia acompanha diretamente: sinais, meios, modulação e enlace.
+- [Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) — a disciplina que este guia acompanha diretamente: sinais, meios, modulação e enlace.
 - [Processamento de Sinais](processamento-de-sinais.md) — eletiva que aprofunda a matemática dos sinais (Fourier, filtragem, amostragem) por trás de tudo que se estuda aqui.

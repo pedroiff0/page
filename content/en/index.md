@@ -25,6 +25,53 @@ My passion lies at the intersection of **computational methods** and **astrophys
 - 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
 - ✉️ [Email](mailto:pedroiff0@gmail.com)
 
+### 📬 Get in touch
+
+Prefer not to open your email client? Fill in the fields below and the message lands straight in my inbox.
+
+<form id="contact-form" class="contact-form">
+  <input type="text" name="from_name" placeholder="Your name" required>
+  <input type="email" name="reply_to" placeholder="Your email" required>
+  <textarea name="message" placeholder="Your message" rows="5" required></textarea>
+  <button type="submit">Send</button>
+  <p id="contact-form-status"></p>
+</form>
+
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script>
+(function() {
+  // TODO(Pedro): replace with your credentials from https://dashboard.emailjs.com
+  // (create a free account, an Email Service and an Email Template using the
+  // from_name / reply_to / message variables from the form above).
+  var EMAILJS_PUBLIC_KEY = "YOUR_PUBLIC_KEY_HERE";
+  var EMAILJS_SERVICE_ID = "YOUR_SERVICE_ID_HERE";
+  var EMAILJS_TEMPLATE_ID = "YOUR_TEMPLATE_ID_HERE";
+
+  var form = document.getElementById("contact-form");
+  var status = document.getElementById("contact-form-status");
+  if (!form || window.emailjs === undefined) return;
+  emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
+
+  form.addEventListener("submit", function(e) {
+    e.preventDefault();
+    if (EMAILJS_PUBLIC_KEY.indexOf("HERE") !== -1) {
+      status.textContent = "Form not configured yet — please email me directly for now.";
+      return;
+    }
+    status.textContent = "Sending…";
+    emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, form).then(
+      function() {
+        status.textContent = "Message sent — thanks for reaching out!";
+        form.reset();
+      },
+      function(err) {
+        status.textContent = "Couldn't send it right now. Try again or email me directly.";
+      }
+    );
+  });
+})();
+</script>
+
 ### 2️⃣ Second step: Areas of Interest
 
 - **Astrophysics**: Galactic archaeology, stellar populations, Milky Way structure and chemical evolution, large-scale astronomical data analysis.
@@ -51,9 +98,9 @@ To navigate my work, explore the sections of this site:
     <img src="/assets/illustrations/projects.svg" alt="Projects" />
     <div class="slide-caption">Projects</div>
   </a>
-  <a href="/en/publications" class="carousel-slide">
-    <img src="/assets/illustrations/publications.svg" alt="Publications" />
-    <div class="slide-caption">Publications</div>
+  <a href="/en/blog" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="Blog" />
+    <div class="slide-caption">Blog</div>
   </a>
 </div>
 
@@ -61,6 +108,6 @@ To navigate my work, explore the sections of this site:
 - [Resources](en/resource/) — Materials, scripts, and useful tools I've developed or use.
 - [Media](en/media/) — Participations in events, fairs, and presentations.
 - [Projects](en/projects/) — Tools and applications I build outside of academic research.
-- [Publications](en/publications/) — My published papers and preprints.
+- [Blog](en/blog/) — Random thoughts, tutorials, and reflections on the research journey.
 
 This site is written in two languages: all content is first written in **Portuguese (Brazil)** and translated to English as time allows — so not every page has an English version yet. If you noticed something missing or outdated in translation, feel free to open an [issue in the repository](https://github.com/pedroiff0/page/issues), or [click here to open one pre-filled from the translation template](https://github.com/pedroiff0/page/issues/new?template=traducao.yml).

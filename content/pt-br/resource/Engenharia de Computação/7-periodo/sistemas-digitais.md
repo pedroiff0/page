@@ -20,7 +20,7 @@ tags:
 
 ## 🔒 Trancas
 
-- [CSECBJI.61 - Arquitetura de Computadores](pt-br/classes/Engenharia%20de%20Computação/8-periodo/arquitetura-de-computadores.md)
+- [CSECBJI.61 - Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md)
 
 ## 📋 Ementa
 
