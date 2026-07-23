@@ -21,6 +21,10 @@ created: 2026-07-18T14:50:18.101-03:00
     <img src="/assets/illustrations/escolainverno.svg" alt="Escola de Inverno (ON 2026)" />
     <div class="slide-caption">Escola de Inverno (ON 2026)</div>
   </a>
+  <a href="/pt-br/resource/curso-on" class="carousel-slide">
+    <img src="/assets/illustrations/arqgal.svg" alt="Arqueologia Galáctica e Populações Estelares (ON)" />
+    <div class="slide-caption">Arqueologia Galáctica (ON)</div>
+  </a>
   <a href="/pt-br/resource/latex" class="carousel-slide">
     <img src="/assets/illustrations/toolkit.svg" alt="LaTeX e Escrita Acadêmica" />
     <div class="slide-caption">LaTeX e Escrita Acadêmica</div>
@@ -40,6 +44,7 @@ Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao l
 
 - [Engenharia de Computação](pt-br/resource/engenharia-de-computação) — Grade curricular completa, organizada por período.
 - [Escola de Inverno (ON 2026)](pt-br/resource/escolainverno) — Notas de aula por minicurso.
+- [Arqueologia Galáctica e Populações Estelares (ON)](pt-br/resource/curso-on) — Disciplina completa de pós-graduação, 8 aulas, Prof. Hélio Dotto Perottoni.
 
 ### 🎨 LaTeX e Escrita
 
