@@ -21,7 +21,7 @@ created: 2026-07-18T14:50:18.101-03:00
     <img src="/assets/illustrations/escolainverno.svg" alt="Escola de Inverno (ON 2026)" />
     <div class="slide-caption">Escola de Inverno (ON 2026)</div>
   </a>
-  <a href="/pt-br/resource/latex-escrita" class="carousel-slide">
+  <a href="/pt-br/resource/latex" class="carousel-slide">
     <img src="/assets/illustrations/toolkit.svg" alt="LaTeX e Escrita Acadêmica" />
     <div class="slide-caption">LaTeX e Escrita Acadêmica</div>
   </a>
@@ -34,7 +34,7 @@ Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao l
 ### 🔧 Ferramentas & Fluxos de Trabalho
 
 - [Computação](pt-br/resource/computacao) — Arquivo curado de materiais de estudo em Ciência da Computação, organizado por tópico.
-- [LaTeX e Escrita Acadêmica](pt-br/resource/latex-escrita) — Trilha de LaTeX, normas ABNT e escrita científica, com apostilas abertas.
+- [LaTeX e Escrita Acadêmica](pt-br/resource/latex) — Trilha de LaTeX, normas ABNT e escrita científica, com apostilas abertas.
 
 ### 📖 Materiais de Cursos
 
@@ -43,7 +43,7 @@ Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao l
 
 ### 🎨 LaTeX e Escrita
 
-Veja a página dedicada de [LaTeX e Escrita Acadêmica](pt-br/resource/latex-escrita) — trilha de estudo, apostilas abertas e guias ABNT.
+Veja a página dedicada de [LaTeX e Escrita Acadêmica](pt-br/resource/latex) — trilha de estudo, apostilas abertas e guias ABNT.
 
 ### 💻 Projetos Open-Source
 
