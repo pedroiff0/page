@@ -52,7 +52,7 @@ O projeto foi planejado em 5 fases: (1) revisão sistemática do problema e de c
 - Milazzo et al. (2021) — *The Growing Digital Divide and its Negative Impacts on NASA's Future Workforce*, BAAS 53, 436
 - Rawls et al. (2020) — *Satellite Constellation Internet Affordability and Need*, RNAAS 4, 189
 - Venkatesan et al. (2020) — *The Impact of Satellite Constellations on Space as an Ancestral Global Commons*, Nature Astronomy 4, 1043
-- [FEBIC 2024](pt-br/media/febic-2024) — cobertura da apresentação e do 3º lugar
-- [MCTIA 2025](pt-br/media/mctia-2025) — cobertura da apresentação e do 1º lugar
+- [FEBIC 2024](pt-br/media/2024/febic-2024) — cobertura da apresentação e do 3º lugar
+- [MCTIA 2025](pt-br/media/2025/mctia-2025) — cobertura da apresentação e do 1º lugar
 - [Entendendo a Matéria Escura a partir de Choques Extragalácticos](pt-br/research/dark-matter-shocks) — projeto anterior, mesma orientadora
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — outro projeto com foco em aprendizado de máquina aplicado a dados astronômicos

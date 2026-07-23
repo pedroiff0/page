@@ -59,14 +59,14 @@ O método de Dawson (2013) mostrou-se **confiável dentro das incertezas** para 
 
 ## 🏆 Apresentações e prêmios
 
-Este projeto foi apresentado na **FEBRACE 2023** e na **MOSTRATEC 2023** (Novo Hamburgo, RS) — ver [cobertura da MOSTRATEC](pt-br/media/mostratec-2023).
+Este projeto foi apresentado na **FEBRACE 2023** e na **MOSTRATEC 2023** (Novo Hamburgo, RS) — ver [cobertura da MOSTRATEC](pt-br/media/2023/mostratec-2023).
 
 ## 🔗 Referências e correlatos
 
 - Dawson, W. A. (2013) — *The Dynamics of Merging Clusters: A Monte Carlo Solution Applied to the Bullet and Musket Ball Clusters*, ApJ 772, 131. [Código MCMAC](https://github.com/MCTwo/MCMAC).
 - ZuHone, J. et al. (2018) — *The Galaxy Cluster Merger Catalog: An Online Repository of Mock Observations from Simulated Galaxy Cluster Mergers*, ApJS 234, 4.
 - Clowe, D. et al. — Aglomerado da Bala, evidência clássica de separação espacial entre matéria escura e gás.
-- [MOSTRATEC 2023](pt-br/media/mostratec-2023) — cobertura da apresentação deste projeto
+- [MOSTRATEC 2023](pt-br/media/2023/mostratec-2023) — cobertura da apresentação deste projeto
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — outro projeto de pesquisa em Astronomia, também orientado por dinâmica/cinemática de sistemas gravitacionais
 - [Simulando o Impacto de Satélites em Observações Astronômicas](pt-br/research/satellite-trail-removal) — projeto seguinte, também com foco computacional aplicado a dados astronômicos
 - [Curso ON — Aula 05](pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf) — outro contexto de massa não-luminosa/matéria escura na Galáxia

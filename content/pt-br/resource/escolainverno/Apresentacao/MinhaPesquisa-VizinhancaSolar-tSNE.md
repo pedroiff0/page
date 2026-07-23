@@ -124,4 +124,4 @@ A ideia daqui pra frente é usar **clusterização baseada em densidade** (como 
 - [Computação — Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02) — aprendizado de máquina não supervisionado (t-SNE)
 - [Resumo Geral](pt-br/resource/escolainverno/00-resumo-escola-de-inverno) — panorama geral da Escola de Inverno
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — estado atual e completo desta pesquisa
-- [Escola de Inverno ON - 2026](pt-br/media/escolainverno-2026) — página de mídia desta participação
+- [Escola de Inverno ON - 2026](pt-br/media/2026/escolainverno-2026) — página de mídia desta participação
