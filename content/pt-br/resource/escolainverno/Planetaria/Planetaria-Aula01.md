@@ -17,6 +17,9 @@ cssclasses:
 ---
 # 🪐 Notas de Aula — Ciências Planetárias (Aula 01)
 
+> [!note] Resumo
+> O Sistema Solar em perspectiva: inventário de corpos, arquitetura orbital e a dinâmica que organiza planetas, luas e pequenos corpos.
+
 > [!info] Informações da aula
 > **Tema:** O Sistema Solar — inventário, arquitetura e dinâmica orbital
 > **Professores:** Filipe Monteiro e Gustavo Madeira

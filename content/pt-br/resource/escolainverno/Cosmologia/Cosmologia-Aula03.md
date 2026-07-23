@@ -15,6 +15,9 @@ cssclasses:
 ---
 # 🌠 Notas de Aula — Cosmologia (Aula 03)
 
+> [!note] Resumo
+> A Estrutura em Grande Escala (EGE) do Universo, terceira e última sonda observacional do cronograma iniciado na Aula 01.
+
 > [!info] Informações da aula
 > **Tema:** Estrutura em Grande Escala (EGE), terceira sonda observacional do cronograma anunciado na [[Cosmologia-Aula01|Aula 01]].
 > **Professor:** Prof. Dr. Carlos Bengaly

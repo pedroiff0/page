@@ -18,6 +18,9 @@ cssclasses:
 ---
 # ⚛️ Notas de Palestra — Neutrinos e a Cosmologia
 
+> [!note] Resumo
+> Da física de partículas ao Universo em grande escala: o papel dos neutrinos como sonda cosmológica.
+
 > [!info] Informações da palestra
 > **Tema:** Neutrinos e a Cosmologia
 > **Palestrante:** Prof. Gabriel Rodrigues

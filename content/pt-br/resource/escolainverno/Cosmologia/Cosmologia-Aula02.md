@@ -15,6 +15,9 @@ cssclasses:
 ---
 # 🌠 Notas de Aula — Cosmologia (Aula 02)
 
+> [!note] Resumo
+> A Radiação Cósmica de Fundo (RCF), segunda sonda observacional do modelo cosmológico padrão — continuação do cronograma Supernovas Ia → RCF → Estrutura em Grande Escala.
+
 > [!info] Informações da aula
 > **Tema:** Radiação Cósmica de Fundo (RCF), segunda sonda observacional do cronograma anunciado na [[Cosmologia-Aula01|Aula 01]] (Supernovas Ia → **RCF** → EGE).
 > **Professor:** Prof. Dr. Carlos Bengaly

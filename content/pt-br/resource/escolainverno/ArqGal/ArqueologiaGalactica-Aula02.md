@@ -18,6 +18,9 @@ cssclasses:
 ---
 # 🏛️ Notas de Aula — Arqueologia Galáctica (Aula 02)
 
+> [!note] Resumo
+> Aglomerados globulares — sistemas de $10^5$ a $10^6$ estrelas — e as três revoluções recentes (Gaia, grandes levantamentos espectroscópicos, computação de alto desempenho) que transformaram a arqueologia galáctica em uma ciência de big data.
+
 > [!info] Informações da aula
 > **Tema:** Aglomerados Globulares — sistemas com $10^5$ a $10^6$ estrelas, conforme anunciado ao final da [[ArqueologiaGalactica-Aula01|Aula 01]] — e as três revoluções recentes que transformaram a arqueologia galáctica em uma ciência de "big data".
 > **Professor:** João Victor Sales Silva

@@ -14,6 +14,9 @@ cssclasses:
 ---
 # 🏛️ Notas de Aula — Arqueologia Galáctica (Aula 03)
 
+> [!note] Resumo
+> Continuação de [[ArqueologiaGalactica-Aula02|Aula 02]] — conteúdo ainda não registrado (a preencher a partir do PDF, quando disponível).
+
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[ArqueologiaGalactica-Aula02|Aula 02]])*
 > **Professor:** João Victor Sales Silva

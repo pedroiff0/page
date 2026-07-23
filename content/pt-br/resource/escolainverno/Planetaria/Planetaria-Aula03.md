@@ -15,6 +15,9 @@ cssclasses:
 ---
 # 🪐 Notas de Aula — Ciências Planetárias (Aula 03)
 
+> [!note] Resumo
+> Continuação da Aula 02 — conteúdo ainda não registrado (a preencher a partir do PDF, quando disponível).
+
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[Planetaria-Aula02|Aula 02]])*
 > **Professores:** Filipe Monteiro e Gustavo Madeira

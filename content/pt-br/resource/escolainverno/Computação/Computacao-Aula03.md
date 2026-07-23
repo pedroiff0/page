@@ -15,6 +15,9 @@ cssclasses:
 ---
 # 💻 Notas de Aula — Computação de Alto Desempenho (Aula 03)
 
+> [!note] Resumo
+> Continuação da Aula 02 — conteúdo ainda não registrado (a preencher a partir do PDF, quando disponível).
+
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[Computacao-Aula02|Aula 02]])*
 > **Professores:** Prof. Dr. Fernando Roig e Prof.ª Dr.ª Lilianne Nakazono

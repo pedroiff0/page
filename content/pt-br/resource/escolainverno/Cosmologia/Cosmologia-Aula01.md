@@ -18,6 +18,9 @@ cssclasses:
 ---
 # 🌠 Notas de Aula — Cosmologia (Aula 01)
 
+> [!note] Resumo
+> O modelo cosmológico padrão (ΛCDM) e as sondas observacionais que o sustentam — abrindo com Supernovas Ia como velas padrão, primeira de um cronograma de três sondas.
+
 > [!info] Informações da aula
 > **Tema:** O modelo cosmológico padrão e suas sondas observacionais
 > **Professor:** Prof. Dr. Carlos Bengaly

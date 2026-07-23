@@ -15,6 +15,9 @@ cssclasses:
 ---
 # 🌌 Notas de Aula — Aglomerados de Galáxias (Aula 03)
 
+> [!note] Resumo
+> Continuação de [[Aglomerados-Aula02|Aula 02]] — conteúdo ainda não registrado (a preencher a partir do PDF, quando disponível).
+
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[Aglomerados-Aula02|Aula 02]])*
 > **Professor:** Prof. Dr. Rogério Monteiro-Oliveira

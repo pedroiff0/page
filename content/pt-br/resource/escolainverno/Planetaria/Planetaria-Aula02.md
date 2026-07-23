@@ -18,6 +18,9 @@ cssclasses:
 ---
 # 🪐 Notas de Aula — Ciências Planetárias (Aula 02)
 
+> [!note] Resumo
+> Pequenos corpos do Sistema Solar — asteroides, cometas e objetos transnetunianos — continuação da Aula 01.
+
 > [!info] Informações da aula
 > **Tema:** Pequenos corpos do Sistema Solar — continuação de [[Planetaria-Aula01|Aula 01]]
 > **Professores:** Filipe Monteiro e Gustavo Madeira

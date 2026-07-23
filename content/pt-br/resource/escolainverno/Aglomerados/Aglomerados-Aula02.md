@@ -17,6 +17,9 @@ cssclasses:
 ---
 # 🌌 Notas de Aula — Aglomerados de Galáxias (Aula 02)
 
+> [!note] Resumo
+> Como aglomerados colapsam hierarquicamente a partir de flutuações de densidade primordiais, e o catálogo de mecanismos físicos que "matam" a formação estelar de uma galáxia ao cair nesse ambiente — terminando na BCG, a galáxia mais extrema desse processo.
+
 > [!info] Informações da aula
 > **Tema:** Formação hierárquica de estruturas e como o ambiente de um aglomerado transforma as galáxias que caem nele — continuação de [[Aglomerados-Aula01|Aula 01]]
 > **Professor:** Prof. Dr. Rogério Monteiro-Oliveira

@@ -18,6 +18,9 @@ cssclasses:
 ---
 # 💻 Notas de Aula — Computação de Alto Desempenho (Aula 01)
 
+> [!note] Resumo
+> Fundamentos de Computação de Alto Desempenho (HPC) aplicados à astronomia — por que grandes levantamentos precisam de paralelismo, e os conceitos básicos que sustentam clusters como o Santos Dumont.
+
 > [!info] Informações da aula
 > **Tema:** Computação de Alto Desempenho (HPC)
 > **Professores:** Prof. Dr. Fernando Roig e Prof.ª Dr.ª Lilianne Nakazono

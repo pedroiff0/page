@@ -18,6 +18,9 @@ cssclasses:
 ---
 # 🌌 Notas de Aula — Aglomerados de Galáxias
 
+> [!note] Resumo
+> Aglomerados de galáxias são as maiores estruturas gravitacionalmente ligadas do Universo, dominadas por matéria escura — esta aula cobre suas propriedades observacionais e o papel central que ocupam na cosmologia.
+
 > [!info] Informações da aula
 > **Tema:** Aglomerados de Galáxias: as maiores estruturas do Universo
 > **Professor:** Prof. Dr. Rogério Monteiro-Oliveira

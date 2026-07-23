@@ -9,6 +9,10 @@ cssclasses:
   - page-grid
   - center-images
 ---
+# 🎤 Palestra — OASI
+
+> [!note] Resumo
+> Notas em construção — tema e palestrante ainda a definir.
 
 > [!info] Informações da palestra
 > **Tema:** *(a definir)*

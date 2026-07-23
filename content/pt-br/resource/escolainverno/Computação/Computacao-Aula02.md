@@ -18,6 +18,9 @@ cssclasses:
 ---
 # 💻 Notas de Aula — Computação de Alto Desempenho (Aula 02)
 
+> [!note] Resumo
+> Duas partes: desempenho e arquitetura de MPI (continuação da Aula 01), e uma introdução a dados e aprendizado de máquina aplicados à astronomia.
+
 > [!info] Informações da aula
 > **Tema:** Duas partes — desempenho e arquitetura de MPI (continuação da [[Computacao-Aula01|Aula 01]]) e introdução a dados e aprendizado de máquina em astronomia.
 > **Professores:** Prof. Dr. Fernando Roig (parte 1) e Prof.ª Dr.ª Lilianne Nakazono (parte 2)

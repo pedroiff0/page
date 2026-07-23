@@ -18,6 +18,9 @@ cssclasses:
 ---
 # 🏛️ Notas de Aula — Arqueologia Galáctica
 
+> [!note] Resumo
+> Como usar a composição química e a cinemática das estrelas como "fósseis" para reconstruir a história de formação da Via Láctea, da classificação espectral à nucleossíntese e às populações estelares.
+
 > [!info] Informações da aula
 > **Tema:** Arqueologia Galáctica — usar a composição química e a cinemática das estrelas como "fósseis" para reconstruir a história de formação da Via Láctea.
 > **Professor:** João Victor Sales Silva
