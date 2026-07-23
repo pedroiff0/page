@@ -5,8 +5,7 @@ titulo: Planetaria-Aula01
 disciplina: Ciências Planetárias
 conteudo: Sistema Solar — inventário, arquitetura e dinâmica orbital
 professor: Filipe Monteiro e Gustavo Madeira
-criado: segunda-feira 20/07/2026 11:05
-modificado: 22/07/2026
+created: 2026-07-20T11:05:00-03:00
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias

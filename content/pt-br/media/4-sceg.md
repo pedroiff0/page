@@ -3,7 +3,6 @@ publish: true
 title: 4ª SCEG 2024
 photoFolder: 4sceg2024
 created: 2024-10-22
-modified: 2026-07-22
 ---
 
 ## Sobre o evento

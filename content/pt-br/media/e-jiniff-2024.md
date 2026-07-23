@@ -3,7 +3,6 @@ publish: true
 title: e-JINIFF 2024
 photoFolder: ejiniff2024
 created: 2024-08-23
-modified: 2026-07-22
 ---
 
 ## Sobre o evento

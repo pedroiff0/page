@@ -5,8 +5,7 @@ titulo: ArqueologiaGalactica-Aula02
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Aglomerados Globulares e as três revoluções recentes da arqueologia galáctica
 professor: João Victor Sales Silva
-criado: quarta-feira 22/07/2026 09:15
-modificado: 22/07/2026
+created: 2026-07-22T09:15:00-03:00
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica

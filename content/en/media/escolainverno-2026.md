@@ -3,7 +3,6 @@ publish: true
 title: Winter School ON - 2026
 photoFolder: escolainverno2026
 created: 2026-07-18T13:50:21.240-03:00
-modified: 2026-07-23
 ---
 
 ## About the event

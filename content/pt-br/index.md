@@ -2,7 +2,6 @@
 publish: true
 title: Sobre Mim
 created: 2026-07-18T14:50:18.601-03:00
-modified: 2026-07-18T15:19:39.596-03:00
 ---
 
 > [!info] Bem-vindo(a)!

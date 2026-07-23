@@ -3,9 +3,8 @@ publish: true
 title: 4th SCEG 2024
 photoFolder: 4sceg2024
 created: 2024-10-22
-modified: 2026-07-23
 ---
-
+ 
 ## About the event
 
 Page dedicated to the **4th Computing, Engineering and Management Week (SCEG)**, at IFF Bom Jesus do Itabapoana, in October 2024, part of the XII Knowledge Exhibition programming.

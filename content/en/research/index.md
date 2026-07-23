@@ -3,7 +3,6 @@ publish: true
 title: Research
 order: 1
 created: 2026-07-18T14:24:43.861-03:00
-modified: 2026-07-18T14:24:43.861-03:00
 ---
 
 <div class="media-carousel">

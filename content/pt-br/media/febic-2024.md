@@ -3,7 +3,6 @@ publish: true
 title: IX FEBIC 2024
 photoFolder: febic2024
 created: 2024-09-15
-modified: 2026-07-22
 ---
 
 ## Sobre o evento

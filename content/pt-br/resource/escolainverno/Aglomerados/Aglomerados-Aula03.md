@@ -5,8 +5,6 @@ titulo: Aglomerados-Aula03
 disciplina: Astrofísica Extragaláctica
 conteudo: Aglomerados de Galáxias (continuação — conteúdo a ser preenchido)
 professor: Rogério Monteiro-Oliveira
-criado:
-modificado: 22/07/2026
 tags:
   - escola-de-inverno-on
   - astrofisica-extragalactica

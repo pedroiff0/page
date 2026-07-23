@@ -5,8 +5,6 @@ titulo: Cosmologia-Aula02
 disciplina: Cosmologia
 conteudo: Cosmologia — Radiação Cósmica de Fundo (conteúdo a ser preenchido)
 professor: Carlos Bengaly
-criado:
-modificado: 22/07/2026
 tags:
   - escola-de-inverno-on
   - cosmologia

@@ -5,8 +5,7 @@ titulo: Computacao-Aula02
 disciplina: Computação Científica de Alto Desempenho
 conteudo: Desempenho e arquitetura em MPI, e introdução a dados e aprendizado de máquina em astronomia
 professor: Fernando Roig e Lilianne Nakazono
-criado: quarta-feira 22/07/2026 14:00
-modificado: 22/07/2026
+created: 2026-07-22T14:00:00-03:00
 tags:
   - escola-de-inverno-on
   - hpc

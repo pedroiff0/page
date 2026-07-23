@@ -5,8 +5,7 @@ titulo: Aglomerados-Aula02
 disciplina: Astrofísica Extragaláctica
 conteudo: Formação hierárquica de estruturas e evolução de galáxias em ambientes de aglomerado
 professor: Rogério Monteiro-Oliveira
-criado: quarta-feira 22/07/2026 11:00
-modificado: 22/07/2026
+created: 2026-07-22T11:00:00-03:00
 tags:
   - escola-de-inverno-on
   - astrofisica-extragalactica

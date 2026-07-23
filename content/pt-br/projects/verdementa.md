@@ -2,7 +2,6 @@
 publish: true
 title: VerdeMenta
 created: 2026-04-01
-modified: 2026-07-23
 ---
 
 Sistema de controle de caixa e fluxo financeiro, atualmente **em produção**.

@@ -5,8 +5,7 @@ titulo: Planetaria-Aula02
 disciplina: Ciências Planetárias
 conteudo: Pequenos corpos do Sistema Solar — o que a distribuição orbital revela sobre a formação do Sistema Solar
 professor: Filipe Monteiro e Gustavo Madeira
-criado: terça-feira 21/07/2026 11:06
-modificado: 22/07/2026
+created: 2026-07-21T11:06:00-03:00
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias

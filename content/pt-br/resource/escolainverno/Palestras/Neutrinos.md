@@ -5,8 +5,7 @@ titulo: Neutrinos
 disciplina: Palestra — Física de Partículas e Cosmologia
 conteudo: Neutrinos e a Cosmologia — da física de partículas ao Universo em grande escala
 professor: Gabriel Rodrigues
-criado: segunda-feira 20/07/2026 15:50
-modificado: 22/07/2026
+created: 2026-07-20T15:50:00-03:00
 tags:
   - escola-de-inverno-on
   - palestra

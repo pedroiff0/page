@@ -2,7 +2,6 @@
 publish: true
 title: Detecção de Anomalias em Dados do Gaia
 created: 2025-09-01
-modified: 2026-07-22
 ---
 
 ## Visão geral

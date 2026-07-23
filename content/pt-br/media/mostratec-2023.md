@@ -3,7 +3,6 @@ publish: true
 title: MOSTRATEC 2023
 photoFolder: mostratec2023
 created: 2023-10-23
-modified: 2026-07-22
 ---
 
 ## Sobre o evento

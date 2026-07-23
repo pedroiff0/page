@@ -2,7 +2,6 @@
 publish: true
 title: VerdeMenta
 created: 2026-04-01
-modified: 2026-07-23
 ---
 
 Cash flow and register control system, currently **in production**.

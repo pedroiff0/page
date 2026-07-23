@@ -2,7 +2,6 @@
 publish: true
 title: About Me
 created: 2026-07-18T14:25:13.277-03:00
-modified: 2026-07-18T14:25:13.277-03:00
 ---
 
 > [!info] Welcome!

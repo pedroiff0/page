@@ -3,7 +3,6 @@ publish: true
 title: MCTIA 2025
 photoFolder: mctia2025
 created: 2025-12-01
-modified: 2026-07-22
 ---
 
 ## Sobre o evento
