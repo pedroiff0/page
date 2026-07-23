@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Escola de Inverno ON - 2026","created":"2026-07-18T13:50:21.240-03:00","modified":"2026-07-23T11:32:04.495-03:00"}
+{"publish":true,"title":"Mostra do Conhecimento - 2026","created":"2026-07-18T13:50:21.240-03:00","modified":"2026-07-23T11:32:34.950-03:00"}
 ---
 
 # ❄️ Escola de Inverno ON - 2026

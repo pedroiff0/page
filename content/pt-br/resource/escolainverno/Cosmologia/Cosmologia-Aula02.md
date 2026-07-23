@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Aula 02","created":"2026-07-23T00:52:46.283-03:00","modified":"2026-07-23T00:52:46.283-03:00","tags":["escola-de-inverno-on","cosmologia","radiacao-cosmica-de-fundo"],"cssclasses":["page-grid","center-images"]}
+{"publish":true,"title":"Aula 02","created":"2026-07-23T00:52:46.283-03:00","modified":"2026-07-23T11:29:08.631-03:00","tags":["escola-de-inverno-on","cosmologia","radiacao-cosmica-de-fundo"],"cssclasses":["page-grid","center-images"]}
 ---
 
 # 🌠 Notas de Aula — Cosmologia (Aula 02)
@@ -19,7 +19,8 @@ _Conteúdo desta aula ainda não registrado._ Ponto de partida já registrado na
 
 ### 📑 Tópicos abordados
 
-1. _(a preencher)_
+1. Teoria da Relatividade Geral
+2.
 
 ---
 
@@ -32,7 +33,21 @@ _Conteúdo desta aula ainda não registrado._ Ponto de partida já registrado na
 
 ## 📌 Conceitos-chave
 
-- _(a preencher)_
+- $G_{\mu \nu} = R_{\mu \nu} - \frac{1}{2}Rg_{\mu \nu} = 8\pi G_{\mu} T_{\mu \nu}$
+- Principio Equivalencia
+- Aplicações
+  - Soluções de Buracos Negros
+  - Soluções Cosmologicas
+  - Universo de Godel
+- Consequências:
+  - Dilatação e atraso do tempo grav.
+  - Redshift grav.
+  - Deflexão da Luz (Sobral 1919)
+  - Ondas Gravitacionais (2015)
+- Principio Cosmológico
+  - Andrew Liddle
+  - O universo é o mesmo pra todos e em qq lugar.
+  -
 
 ---
 

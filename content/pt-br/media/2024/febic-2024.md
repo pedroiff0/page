@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"IX FEBIC 2024","created":"2024-09-15","modified":"2026-07-23T00:38:29.548-03:00"}
+{"publish":true,"title":"IX FEBIC 2024","created":"2024-09-15","modified":"2026-07-23T11:47:12.382-03:00"}
 ---
 
 # 🛰️ IX FEBIC 2024

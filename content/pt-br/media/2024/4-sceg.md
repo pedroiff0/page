@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"4ª SCEG 2024","created":"2024-10-22","modified":"2026-07-23T00:38:07.284-03:00"}
+{"publish":true,"title":"4ª SCEG 2024","created":"2024-10-22","modified":"2026-07-23T11:47:12.382-03:00"}
 ---
 
 # 💻 4ª SCEG 2024

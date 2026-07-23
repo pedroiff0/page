@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Winter School ON - 2026","created":"2026-07-18T13:50:21.240-03:00","modified":"2026-07-23T00:40:42.400-03:00"}
+{"publish":true,"title":"Winter School ON - 2026","created":"2026-07-18T13:50:21.240-03:00","modified":"2026-07-23T11:47:12.382-03:00"}
 ---
 
 # ❄️ Winter School ON - 2026

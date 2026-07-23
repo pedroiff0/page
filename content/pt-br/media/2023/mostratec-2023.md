@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"MOSTRATEC 2023","created":"2023-10-23","modified":"2026-07-23T00:37:56.703-03:00"}
+{"publish":true,"title":"MOSTRATEC 2023","created":"2023-10-23","modified":"2026-07-23T11:47:12.382-03:00"}
 ---
 
 # 🌎 MOSTRATEC 2023
