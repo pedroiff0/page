@@ -1,32 +1,41 @@
 ---
 publish: true
-# password: "defina-uma-senha-se-necessário"
-title: "RaioX"
+titulo: RaioX
+disciplina: Palestra — Astrofísica Extragaláctica
+conteudo: De supernovas a aglomerados de galáxias — o que os raios-X revelam sobre o enriquecimento químico do Universo
+professor: Rebeca Batalha
 created: 2026-07-23
+tags:
+  - escola-de-inverno-on
+  - palestra
+  - aglomerados-de-galaxias
+  - supernovas
+  - raio-x
+cssclasses:
+  - page-grid
+  - center-images
 ---
-
-# 📚 RaioX
-
-> [!note] Resumo
-> 
-
-# 🌠 Notas de Aula — Raio-X e Enriquecimento Químico
+# 🌠 Notas de Palestra — Raios-X e Enriquecimento Químico
 
 > [!note] Resumo
+> Como as assinaturas químicas de Supernovas Tipo Ia e de Colapso do Núcleo, observadas em raios-X no meio intra-aglomerado (ICM), revelam a história de enriquecimento químico dos aglomerados de galáxias — e como "grupos fósseis" desafiam os modelos padrão.
 
-
-> [!info] Informações da aula
+> [!info] Informações da palestra
 > **Tema:** De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo
-> **Professora:** Dr. Rebecca
+> **Palestrante:** Rebeca Batalha
 
 ---
 
 ## 🎯 Visão geral
 
-
+Como reconstruir a história de enriquecimento químico do Universo a partir de raios-X? A palestra conecta dois tipos de supernova — **Tipo Ia (SNIa)**, que produzem majoritariamente elementos do grupo do ferro (Si, Fe, Mn, Ni, Cr, Ca, Ar), e de **Colapso do Núcleo (SNcc)**, que produzem majoritariamente elementos-$\alpha$ (O, Ne, Mg) — às abundâncias químicas observadas no **meio intra-aglomerado (ICM)**, o gás quente (10–100 milhões K), tênue e opticamente fino que permeia aglomerados de galáxias e emite em raios-X. Comparando modelos teóricos de nucleossíntese com dados observados (via testes estatísticos como Kolmogorov-Smirnov), é possível estimar a contribuição relativa de cada tipo de supernova ao enriquecimento de cada aglomerado — revelando casos atípicos, como os **grupos fósseis**, que parecem ter sido enriquecidos mais cedo e por populações distintas de supernovas.
 
 ### 📑 Tópicos abordados
-1. Origem dos Elementos Químicos (Pesados)
+1. Origem dos elementos químicos pesados: Supernovas Ia vs. Colapso do Núcleo
+2. Observando o meio intra-aglomerado (ICM) em raios-X
+3. Comparando modelos de enriquecimento com dados observados (teste de Kolmogorov-Smirnov)
+4. Grupos fósseis: sistemas peculiares e enriquecimento antecipado
+5. Perspectivas futuras: satélites XRISM e NewAthena
 
 ---
 
@@ -63,7 +72,7 @@ created: 2026-07-23
 		- Tenue (1 partc/cm^3 )
 		- Opticamente fino
 		- Equilibro de ionização colisional
-		- 80% Bariônica (Oq não é Matéria Escura)
+		- 80% Bariônica (o que não é Matéria Escura)
 		- Mitchel et al 1976
 		- XMM-Newton
 		- XRISM/Resolve
@@ -89,7 +98,7 @@ created: 2026-07-23
 		- dentro dos pares, 21% é completamente rejeitado (7192 -> 229)
 	- Grupos Fósseis 
 		- Sistemas de galáxias peculiares
-		- Nãoo tem núcleos frios (algumas)
+		- Não têm núcleos frios (algumas)
 		- Galáxia central dominante (2 mag. mais brilhante)
 		- NGC 1132
 		- XMM-Newton
@@ -104,7 +113,7 @@ created: 2026-07-23
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## ❓ Perguntas e discussões da palestra
 
 > [!question] Perguntas
 > 1. Estudo de quasares no ICM? 
@@ -113,4 +122,6 @@ created: 2026-07-23
 ---
 ## 🔗 Referências e correlatos
 
-- 
+- [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — detecção de aglomerados via raio-X (ICM) e as outras 3 vias complementares
+- [Neutrinos](pt-br/resource/escolainverno/palestras/neutrinos) — outra palestra conectando física de partículas/nucleossíntese à escala cosmológica
+- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](pt-br/research/dark-matter-shocks) — minha própria pesquisa sobre colisões de aglomerados, mesmo objeto de estudo (ICM, matéria escura) por outro método

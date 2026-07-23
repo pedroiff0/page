@@ -3,7 +3,7 @@ publish: true
 title: Aula 03
 titulo: ArqueologiaGalactica-Aula03
 disciplina: Astrofísica Estelar / Via Láctea
-conteudo: Arqueologia Galáctica (continuação — conteúdo a ser preenchido)
+conteudo: Estrutura química e cinemática da Via Láctea — halo, disco fino/espesso, bojo e o merger Gaia-Sausage-Enceladus
 professor: João Victor Sales Silva
 tags:
   - escola-de-inverno-on
@@ -15,10 +15,10 @@ cssclasses:
 # 🏛️ Notas de Aula — Arqueologia Galáctica (Aula 03)
 
 > [!note] Resumo
-> Continuação de [[ArqueologiaGalactica-Aula02|Aula 02]] — conteúdo ainda não registrado (a preencher a partir do PDF, quando disponível).
+> Como a composição química e a cinemática das estrelas revelam a estrutura em camadas da Via Láctea (halo, disco fino, disco espesso, bojo) — e como o merger Gaia-Sausage-Enceladus (GSE), ocorrido há ~10 bilhões de anos, deixou uma assinatura química e cinemática ainda visível hoje.
 
 > [!info] Informações da aula
-> **Tema:** *(a definir — continuação de [[ArqueologiaGalactica-Aula02|Aula 02]])*
+> **Tema:** Estrutura química e cinemática da Via Láctea — halo, disco fino/espesso, bojo e o merger Gaia-Sausage-Enceladus (continuação de [[ArqueologiaGalactica-Aula02|Aula 02]])
 > **Professor:** João Victor Sales Silva
 > **Email**: joaovictor@on.br
 
@@ -26,11 +26,17 @@ cssclasses:
 
 ## 🎯 Visão geral
 
-*Conteúdo desta aula ainda não registrado.*
+Reconstruir a história da Via Láctea depende de olhar simultaneamente para a **idade cinemática e química** de estrelas individuais — algo mais difícil do que em galáxias externas justamente porque estamos "de dentro", sem conseguir visualizar a estrutura completa da Galáxia de uma vez. A Via Láctea é massiva em boa parte por causa de fusões sucessivas, que deixam **correntes estelares** e explosões de supernovas que moldam a evolução química (taxa de formação estelar, função de massa inicial/IMF, fluxo de gás entrando e saindo do sistema).
+
+Essa arqueologia revela uma estrutura em camadas: um **halo** dividido entre uma componente interna mais achatada (metalicidade $\text{[Fe/H]} \approx -1{,}6$ dex, órbitas mais excêntricas) e uma externa mais esférica ($\text{[Fe/H]} \approx -2{,}2$ dex), com subpopulações identificáveis (Sagittarius, Helmi, e o **Gaia-Sausage-Enceladus**, um merger ocorrido há ~10 bilhões de anos, cinematicamente identificado no diagrama de Toomre e quimicamente distinto do resto do halo). O **disco** se divide em fino (mais jovem, onde está o Sol) e espesso (formado mais cedo, junto com o halo), diferenciáveis tanto cinematicamente quanto por gradientes químicos radiais (razões como O/Fe e Mg/Fe vs. Fe/H). O **bojo galáctico**, de observação particularmente difícil, tem formato de amendoim e parece conter uma mistura de componentes in situ e acretadas (barra, disco e halo internos, aglomerados globulares e estrelas CEMP).
 
 ### 📑 Tópicos abordados
-1. Estrutura da Galáctica
-2. Formação de Galáxias
+1. Por que arqueologia galáctica é mais difícil "de dentro" da própria Galáxia
+2. Evolução química: taxa de formação estelar, IMF e fluxo de gás
+3. O halo: componente interna vs. externa, correntes estelares e subpopulações
+4. O merger Gaia-Sausage-Enceladus (GSE): cinemática, química e trabalhos-chave
+5. Disco fino vs. disco espesso: cinemática e gradientes químicos radiais
+6. O bojo galáctico: formato de amendoim e origem mista (in situ/acretada)
 
 ---
 
@@ -43,12 +49,12 @@ cssclasses:
 
 ## 📌 Conceitos-chave
 
-- Papel central da compreensão da formação e evolução;
+- Papel central na compreensão da formação e evolução;
 - Vantagem: Idade cinematica e quimica p estrelas individuais;
 - Dificuldade de visualização completo da galáxia;
 - VL - massiva (decorrente de varias fusões);
 - Correntes Estelares
-- Explosões de Suprnovas influenciam;
+- Explosões de supernovas influenciam;
 - Evolução Química das galáxias
 	- Taxa de formação estelar (velocidade q o gás é convertido em estrelas)
 	- IMF (Função de massa inicial): 
@@ -99,7 +105,6 @@ cssclasses:
 	* Miglio+2021
 	* Gaia NIR (future)
 	* JAXA Jasmine
-* 
 ---
 
 ## ❓ Perguntas e discussões da aula
@@ -113,3 +118,5 @@ cssclasses:
 ## 🔗 Referências e correlatos
 - [Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01)
 - [Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02)
+- [Cosmologia — Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — o princípio cosmológico (homogeneidade/isotropia) que contrasta com a estrutura em camadas da própria Via Láctea
+- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — minha própria pesquisa aplica aprendizado não supervisionado à vizinhança solar, mesmo tipo de arqueologia galáctica discutido aqui

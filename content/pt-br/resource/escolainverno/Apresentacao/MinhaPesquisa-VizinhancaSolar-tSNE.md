@@ -28,11 +28,21 @@ cssclasses:
 ---
 ## 📎 Banners
 
->[[BannerSBPC26.pdf]]- 📄 Banner Escola de Inverno — versão em português
+> [[BannerSBPC26.pdf]]
+> 📄 Banner Escola de Inverno — versão em português
+
 ---
->[[BannerSAB25.pdf]]- 📄 Banner Escola de Inverno — versão em Inglês
+
+> [[BannerSAB25.pdf]]
+> 📄 Banner Escola de Inverno — versão em Inglês
+
 ---
->[[BannerEscolaInverno.pdf]]- 📄 Banner Escola de Inverno — versão Avançada
+
+> [[BannerEscolaInverno.pdf]]
+> 📄 Banner Escola de Inverno — versão Avançada
+
+---
+
 ## 🎯 Do que se trata a pesquisa, em uma frase
 	
 Estou tentando entender **quem são as estrelas perto do Sol** — de onde vieram, que idade têm, que "sotaque químico" carregam — só que, em vez de plotar diagramas prontos escolhidos à mão, deixo um algoritmo de **aprendizado não supervisionado (t-SNE)** encontrar sozinho os agrupamentos diretamente nos espectros das estrelas, e só depois eu confiro se esses agrupamentos fazem sentido físico.

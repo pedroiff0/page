@@ -26,11 +26,11 @@ Confira aqui a [programação completa](#-programação-completa-20-a-2407) da s
 
 | Área                             | Professor(a)                      | Do que trata                                                   | Notas completas                                                                                                                                        |
 | -------------------------------- | --------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🌐 Aglomerados de Galáxias       | Rogério Monteiro-Oliveira         | As maiores estruturas gravitacionalmente ligadas do Universo   | [[Aglomerados-Aula01\|Aula 01]] · [[Aglomerados-Aula02\|Aula 02]]                                                                                 |
-| ⭐ Arqueologia Galáctica          | João Victor Sales Silva           | História da Via Láctea lida na composição química das estrelas | [[ArqueologiaGalactica-Aula01\|Aula 01]] · [[ArqueologiaGalactica-Aula02\|Aula 02]]                                                              |
-| 💻 Computação de Alto Desempenho | Fernando Roig e Lilianne Nakazono | Programação paralela (OpenMP/MPI) e aprendizado de máquina     | [[Computacao-Aula01\|Aula 01]] · [[Computacao-Aula02\|Aula 02]]                                                                                   |
-| 🌀 Cosmologia                    | Carlos Bengaly                    | O modelo padrão ΛCDM e suas sondas observacionais              | [[Cosmologia-Aula01\|Aula 01]]                                                                                                                    |
-| 🪐 Ciências Planetárias          | Filipe Monteiro e Gustavo Madeira | Sistema Solar: inventário, arquitetura e dinâmica orbital      | [[Planetaria-Aula01\|Aula 01]] · [[Planetaria-Aula02\|Aula 02]]                                                                            |
+| 🌐 Aglomerados de Galáxias       | Rogério Monteiro-Oliveira         | As maiores estruturas gravitacionalmente ligadas do Universo   | [[Aglomerados-Aula01\|Aula 01]] · [[Aglomerados-Aula02\|Aula 02]] · [[Aglomerados-Aula03\|Aula 03 (24/07)]]                                                                                 |
+| ⭐ Arqueologia Galáctica          | João Victor Sales Silva           | História da Via Láctea lida na composição química das estrelas | [[ArqueologiaGalactica-Aula01\|Aula 01]] · [[ArqueologiaGalactica-Aula02\|Aula 02]] · [[ArqueologiaGalactica-Aula03\|Aula 03]]                                                              |
+| 💻 Computação de Alto Desempenho | Fernando Roig e Lilianne Nakazono | Programação paralela (OpenMP/MPI) e aprendizado de máquina     | [[Computacao-Aula01\|Aula 01]] · [[Computacao-Aula02\|Aula 02]] · [[Computacao-Aula03\|Aula 03 (24/07)]]                                                                                   |
+| 🌀 Cosmologia                    | Carlos Bengaly                    | O modelo padrão ΛCDM e suas sondas observacionais              | [[Cosmologia-Aula01\|Aula 01]] · [[Cosmologia-Aula02\|Aula 02]] · [[Cosmologia-Aula03\|Aula 03 (24/07)]]                                                                                                                    |
+| 🪐 Ciências Planetárias          | Filipe Monteiro e Gustavo Madeira | Sistema Solar: inventário, arquitetura e dinâmica orbital      | [[Planetaria-Aula01\|Aula 01]] · [[Planetaria-Aula02\|Aula 02]] · [[Planetaria-Aula03\|Aula 03]]                                                                            |
 
 ## 🎤 Palestras
 
@@ -90,16 +90,19 @@ Por trás de tudo isso está a **Computação de Alto Desempenho**: a ferramenta
 Os aglomerados são os maiores objetos já **virializados** do Universo ($10^{14}$–$10^{15}\,M_\odot$), compostos majoritariamente por **matéria escura (~80%)**, com gás quente (ICM, ~15%) e galáxias (~5%). Zwicky, em 1933, foi o primeiro a notar essa discrepância de massa usando o **teorema do virial** no Aglomerado de Coma. Hoje detectamos aglomerados por 4 vias complementares: óptico (galáxias, sequência vermelha), raio-X (gás do ICM), micro-ondas (efeito Sunyaev-Zel'dovich) e lentes gravitacionais fracas (mapeando a matéria escura diretamente).
 
 ### ⭐ Arqueologia Galáctica
-Estrelas são classificadas pela sequência espectral **OBAFGKM** (temperatura decrescente). Ao longo da vida e, principalmente, ao morrer (supernovas, nebulosas planetárias, colisões de estrelas de nêutrons), as estrelas produzem e espalham elementos químicos pelo espaço — os processos **s** (lento, em estrelas AGB) e **r** (rápido, em fusões de estrelas de nêutrons) explicam a origem de praticamente toda a tabela periódica além do ferro. Comparando a composição química de estrelas antigas e novas (populações I, II e III), reconstruímos a história de formação da Via Láctea.
+Estrelas são classificadas pela sequência espectral **OBAFGKM** (temperatura decrescente). Ao longo da vida e, principalmente, ao morrer (supernovas, nebulosas planetárias, colisões de estrelas de nêutrons), as estrelas produzem e espalham elementos químicos pelo espaço — os processos **s** (lento, em estrelas AGB) e **r** (rápido, em fusões de estrelas de nêutrons) explicam a origem de praticamente toda a tabela periódica além do ferro. Comparando a composição química de estrelas antigas e novas (populações I, II e III), reconstruímos a história de formação da Via Láctea — revelando uma estrutura em camadas (halo interno/externo, disco fino/espesso, bojo) e assinaturas de mergers antigos, como o **Gaia-Sausage-Enceladus** (há ~10 bilhões de anos).
 
 ### 💻 Computação de Alto Desempenho
 Para simular os fenômenos acima (N-corpos, hidrodinâmica, aprendizado de máquina), astrônomos usam **clusters de supercomputadores**. Dois paradigmas principais: **OpenMP** (memória compartilhada, paraleliza laços dentro de um mesmo nó) e **MPI** (memória distribuída, troca mensagens entre muitos nós via broadcast/reduce/scatter/gather).
 
 ### 🌀 Cosmologia
-O modelo padrão **ΛCDM** descreve um Universo composto por ~68% energia escura, ~27% matéria escura fria e ~5% matéria comum. Ele é testado por três sondas principais: **supernovas Ia** (expansão acelerada, descoberta em 1998), a **Radiação Cósmica de Fundo** (fóssil térmico do Universo primordial, a 2,725 K) e a **Estrutura em Grande Escala** (a teia cósmica de filamentos e aglomerados).
+O modelo padrão **ΛCDM** descreve um Universo composto por ~68% energia escura, ~27% matéria escura fria e ~5% matéria comum. Ele é testado por três sondas principais: **supernovas Ia** (expansão acelerada, descoberta em 1998), a **Radiação Cósmica de Fundo** (fóssil térmico do Universo primordial, a 2,725 K) e a **Estrutura em Grande Escala** (a teia cósmica de filamentos e aglomerados). A base teórica por trás desse modelo é a **Relatividade Geral** (equação de campo de Einstein) combinada ao **Princípio Cosmológico** — a suposição de que o Universo é homogêneo e isotrópico em grande escala, o que permite simplificar as equações de Einstein até chegar aos modelos cosmológicos testáveis.
 
 ### 👻 Neutrinos
 Previstos por Pauli (1930) para salvar a conservação de energia no decaimento beta, os neutrinos só foram detectados em 1956. Em 1998, a descoberta da **oscilação de neutrinos** provou que eles têm massa — um dado que hoje é comparado diretamente com limites obtidos da própria cosmologia (RCF + estrutura em grande escala), unindo física de partículas e o Universo em grande escala.
+
+### 🌠 Raios-X e Enriquecimento Químico
+As assinaturas químicas de **Supernovas Tipo Ia** (elementos do grupo do ferro) e de **Colapso do Núcleo** (elementos-$\alpha$) ficam impressas no **meio intra-aglomerado (ICM)**, o gás quente observável em raios-X que permeia aglomerados de galáxias. Comparando modelos de nucleossíntese com dados observados, é possível estimar a contribuição de cada tipo de supernova ao enriquecimento de cada aglomerado — revelando casos atípicos como os **grupos fósseis**, enriquecidos mais cedo que o esperado.
 
 ### 🪐 Ciências Planetárias
 O Sistema Solar se formou a partir do colapso gravitacional de uma nuvem molecular, passando por um disco protoplanetário. Sua dinâmica é regida pela gravitação newtoniana e pelas **leis de Kepler**, com órbitas descritas por 6 elementos orbitais constantes (no problema de 2 corpos). Modelos dinâmicos como o **Grand Tack** e o **modelo de Nice** explicam características hoje observadas, como a baixa massa de Marte e o Bombardeio Intenso Tardio da Lua.
@@ -107,13 +110,40 @@ O Sistema Solar se formou a partir do colapso gravitacional de uma nuvem molecul
 ---
 
 ## 🔗 Notas completas
-- [[Aglomerados-Aula01]] · [[Aglomerados-Aula02]]
-- [[ArqueologiaGalactica-Aula01]] · [[ArqueologiaGalactica-Aula02]]
-- [[Computacao-Aula01]] · [[Computacao-Aula02]]
-- [[Cosmologia-Aula01]]
-- [[Neutrinos]]
-- [[Planetaria-Aula01]] · [[Planetaria-Aula02]]
+- [[Aglomerados-Aula01]] · [[Aglomerados-Aula02]] · [[Aglomerados-Aula03]]
+- [[ArqueologiaGalactica-Aula01]] · [[ArqueologiaGalactica-Aula02]] · [[ArqueologiaGalactica-Aula03]]
+- [[Computacao-Aula01]] · [[Computacao-Aula02]] · [[Computacao-Aula03]]
+- [[Cosmologia-Aula01]] · [[Cosmologia-Aula02]] · [[Cosmologia-Aula03]]
+- [[Planetaria-Aula01]] · [[Planetaria-Aula02]] · [[Planetaria-Aula03]]
+- [[Neutrinos]] · [[OASI]] · [[Bolsas]] · [[RaioX]] · [[Composicoes]]
 - [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]
 
+## 📎 Indicativo de materiais
+
+Status das notas de cada aula/palestra e se já existe material oficial (slides/PDF) anexado — nenhum PDF oficial foi disponibilizado até agora, então essa coluna serve para lembrar de voltar aqui assim que sair.
+
+| Nota | Status das notas | Slides/PDF oficial |
+| --- | --- | --- |
+| [[Aglomerados-Aula01\|Aglomerados — Aula 01]] | ✅ Completa | ⏳ Não disponível |
+| [[Aglomerados-Aula02\|Aglomerados — Aula 02]] | ✅ Completa | ⏳ Não disponível |
+| [[Aglomerados-Aula03\|Aglomerados — Aula 03]] | 🕐 Ainda não aconteceu (24/07) | ⏳ Não disponível |
+| [[ArqueologiaGalactica-Aula01\|Arqueologia Galáctica — Aula 01]] | ✅ Completa | ⏳ Não disponível |
+| [[ArqueologiaGalactica-Aula02\|Arqueologia Galáctica — Aula 02]] | ✅ Completa | ⏳ Não disponível |
+| [[ArqueologiaGalactica-Aula03\|Arqueologia Galáctica — Aula 03]] | ✅ Completa | ⏳ Não disponível |
+| [[Computacao-Aula01\|Computação — Aula 01]] | ✅ Completa | ⏳ Não disponível |
+| [[Computacao-Aula02\|Computação — Aula 02]] | ✅ Completa | ⏳ Não disponível |
+| [[Computacao-Aula03\|Computação — Aula 03]] | 🕐 Ainda não aconteceu (24/07) | ⏳ Não disponível |
+| [[Cosmologia-Aula01\|Cosmologia — Aula 01]] | ✅ Completa | ⏳ Não disponível |
+| [[Cosmologia-Aula02\|Cosmologia — Aula 02]] | ✅ Completa | ⏳ Não disponível |
+| [[Cosmologia-Aula03\|Cosmologia — Aula 03]] | 🕐 Ainda não aconteceu (24/07) | ⏳ Não disponível |
+| [[Planetaria-Aula01\|Planetária — Aula 01]] | ✅ Completa | ⏳ Não disponível |
+| [[Planetaria-Aula02\|Planetária — Aula 02]] | ✅ Completa | ⏳ Não disponível |
+| [[Planetaria-Aula03\|Planetária — Aula 03]] | ⚠️ Aconteceu (23/07), notas pendentes | ⏳ Não disponível |
+| [[Neutrinos\|Neutrinos (P1)]] | ✅ Completa | ⏳ Não disponível |
+| [[OASI\|OASI (P2)]] | ⚠️ Aconteceu (21/07), notas pendentes | ⏳ Não disponível |
+| [[Bolsas\|Sessão PG/PIBIC]] | ⚠️ Aconteceu (22/07), notas pendentes | ⏳ Não disponível |
+| [[RaioX\|Raio-X (P3)]] | ✅ Completa | ⏳ Não disponível |
+| [[Composicoes\|Composições (P4)]] | 🕐 Ainda não aconteceu (24/07) | ⏳ Não disponível |
+
 > [!note] Próximos passos
-> Este resumo e as notas de aula serão atualizados conforme novas aulas acontecem e conforme os **PDFs oficiais das aulas** ficarem disponíveis — o que deve permitir preencher os pontos ainda marcados como "a preencher" e corrigir/expandir qualquer detalhe.
+> Este resumo e as notas de aula serão atualizados conforme novas aulas acontecem e conforme os **PDFs oficiais das aulas** ficarem disponíveis — o que deve permitir preencher os pontos ainda marcados como "a preencher" e corrigir/expandir qualquer detalhe. O indicativo de materiais acima ajuda a saber rapidamente onde ainda falta registrar notas (Planetária Aula 03, OASI, Sessão PG/PIBIC).

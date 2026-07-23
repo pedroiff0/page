@@ -160,5 +160,7 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 
 ## 🔗 Referências e correlatos
 - [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o modelo $\Lambda$CDM e os candidatos a matéria escura citados aqui
+- [Cosmologia — Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — a mesma métrica FLRW, motivada pelo Princípio Cosmológico
 - [OASI](pt-br/resource/escolainverno/palestras/oasi)
 - [Bolsas](pt-br/resource/escolainverno/palestras/bolsas)
+- [Raio-X](pt-br/resource/escolainverno/palestras/raiox) — outra palestra que conecta física fundamental (nucleossíntese) à escala de aglomerados de galáxias
