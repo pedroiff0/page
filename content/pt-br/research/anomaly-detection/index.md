@@ -126,7 +126,7 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 - da Silva & Smiljanic (2023) — t-SNE em espaço quimiodinâmico (base para a comparação colunas vs. pixels).
 - Hughes et al. (2022) — descoberta de estrelas extremamente pobres em metais no GALAH DR3 via ML supervisionado.
 - Pettee et al. (2023) — detecção fracamente supervisionada de streams estelares no Gaia (CWoLa).
-- Ver [Artigos](pt-br/research/articles) para as anotações completas de leitura de todos os papers usados nesta pesquisa.
+- Ver [Artigos](pt-br/research/anomaly-detection/articles) para as anotações completas de leitura de todos os papers usados nesta pesquisa.
 
 ---
 

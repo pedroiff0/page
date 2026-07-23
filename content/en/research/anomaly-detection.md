@@ -126,7 +126,7 @@ Summary of the main methodological decisions made throughout the project, from m
 - da Silva & Smiljanic (2023) — t-SNE in chemodynamical space (basis for the columns-vs-pixels comparison).
 - Hughes et al. (2022) — discovery of extremely metal-poor stars in GALAH DR3 via supervised ML.
 - Pettee et al. (2023) — weakly-supervised detection of stellar streams in Gaia (CWoLa).
-- See [Articles](pt-br/research/articles) (Portuguese) for the complete reading notes on every paper used in this research.
+- See [Articles](pt-br/research/anomaly-detection/articles) (Portuguese) for the complete reading notes on every paper used in this research.
 
 ---
 

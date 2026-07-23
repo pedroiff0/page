@@ -21,7 +21,7 @@ created: 2026-07-18T14:50:18.101-03:00
     <img src="/assets/illustrations/informatica.svg" alt="Simulando o Impacto de Satélites em Observações Astronômicas" />
     <div class="slide-caption">Impacto de Satélites em Observações</div>
   </a>
-  <a href="/pt-br/research/articles" class="carousel-slide">
+  <a href="/pt-br/research/anomaly-detection/articles" class="carousel-slide">
     <img src="/assets/illustrations/articles.svg" alt="Artigos" />
     <div class="slide-caption">Artigos</div>
   </a>
@@ -51,5 +51,5 @@ Meu trabalho está na interseção entre **métodos computacionais** e **problem
 
 ## Leituras
 
-- [Artigos](pt-br/research/articles) — Anotações de leitura sobre artigos científicos relevantes para minha pesquisa.
+- [Artigos](pt-br/research/anomaly-detection/articles) — Anotações de leitura sobre artigos científicos relevantes para minha pesquisa.
 - **[Fundamentos de Evolução Química da Galáxia](assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)** (W. Maciel, IAG/USP) — livro de referência da minha área, distribuído gratuitamente pelo autor.
