@@ -125,6 +125,8 @@ plugins:
       display: all
   - source: github:quartz-community/alias-redirects
     enabled: true
+    options:
+      enableCaseRedirects: false
   - source: github:quartz-community/content-index
     enabled: true
     options:

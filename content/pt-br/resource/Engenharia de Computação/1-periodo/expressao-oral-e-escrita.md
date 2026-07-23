@@ -63,3 +63,15 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 9. LIVEIRA, J. P. M., MOTTA, C. A. P. Como Escrever Textos Técnicos. 2. Ed. São Paulo: Cengage Learning, 10.
 10. LIVEIRA, J. L. Texto Acadêmico: Técnicas de Redação e de Pesquisa Científica. 9. Ed.. Rio de Janeiro:
 11. Editora Vozes, 2012
+
+## 📎 Meu material da disciplina
+
+_(anotações, listas e trabalhos próprios — não são material oficial do curso)_
+
+- [Fich deu PLÁGIO! E AGORA - UM GUIA DINÂMICO PARA ELABORAÇÃO DE TRABALHOS DE FINAL DE CURSO](assets/disciplinas/1-periodo/expressao-oral-e-escrita/Fich%20deu%20PLÁGIO!%20E%20AGORA%20-%20UM%20GUIA%20DINÂMICO%20PARA%20ELABORAÇÃO%20DE%20TRABALHOS%20DE%20FINAL%20DE%20CURSO.pdf)
+- [Fichamento, Expressão Oral e Escrita](assets/disciplinas/1-periodo/expressao-oral-e-escrita/Fichamento,%20Expressão%20Oral%20e%20Escrita.pdf)
+- [Lugar de fala](assets/disciplinas/1-periodo/expressao-oral-e-escrita/Lugar%20de%20fala.pdf)
+- [Notas](assets/disciplinas/1-periodo/expressao-oral-e-escrita/Notas.pdf)
+- [PEQUENO MANUAL ANTIRRACISTA](assets/disciplinas/1-periodo/expressao-oral-e-escrita/PEQUENO%20MANUAL%20ANTIRRACISTA.pdf)
+- [Relatório Mostra](assets/disciplinas/1-periodo/expressao-oral-e-escrita/Relatório%20Mostra.pdf)
+- [f3286f_d5f6ef4be4654efba7d4b771eaf7b9ac](assets/disciplinas/1-periodo/expressao-oral-e-escrita/f3286f_d5f6ef4be4654efba7d4b771eaf7b9ac.pdf)

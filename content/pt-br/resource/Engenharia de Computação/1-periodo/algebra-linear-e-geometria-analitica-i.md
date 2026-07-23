@@ -97,3 +97,14 @@ Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espa�
 4. LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018.
 5. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011.
 6. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.
+
+## 📎 Meu material da disciplina
+
+_(anotações, listas e trabalhos próprios — não são material oficial do curso)_
+
+- [Atividade A1](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Atividade%20A1.pdf)
+- [Atividade A2 Algebra](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Atividade%20A2%20Algebra.pdf)
+- [Lista_de_exercícios_1](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Lista_de_exercícios_1.pdf)
+- [Matrizes](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Matrizes.pdf)
+- [Vetores](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Vetores.pdf)
+- [lista_de_exercícos_2_2023](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/lista_de_exercícos_2_2023.pdf)

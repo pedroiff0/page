@@ -51,3 +51,10 @@ Disciplinas do 1º período do curso de Engenharia de Computação.
 - [Desenho Técnico para Engenharia](desenho-tecnico-para-engenharia.md) — 80h, núcleo Básica.
 - [Expressão Oral e Escrita](expressao-oral-e-escrita.md) — 40h, núcleo Básica.
 - [Fundamentos de Computação](fundamentos-de-computacao.md) — —h, núcleo Básica.
+
+## 📎 Documentos do período
+
+- [PPC 1º Semestre](assets/disciplinas/1-periodo/PPC%201º%20Semestre.pdf)
+- [Horário 1º Período](assets/disciplinas/1-periodo/Horario%201º%20Período.pdf)
+- [Horário Geral - 2º Semestre](assets/disciplinas/1-periodo/Horario%20Geral%20-%202º%20Semestre.pdf)
+- [Matérias 1º Semestre](assets/disciplinas/1-periodo/Materias%201º%20Semestre.pdf)

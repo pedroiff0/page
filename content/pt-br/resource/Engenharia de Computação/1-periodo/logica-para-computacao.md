@@ -61,3 +61,28 @@ Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Prime
 4. Bookman, 2009.
 5. ROSEN, K. H. Matemática Discreta e Suas Aplicações. 6ª Edição. Mc Graw Hill, 2009.
 6. SCHEINERMAN, E. Matemática Discreta: Uma Introdução. 3ª Edição. Cengage Learning. 2016.
+
+## 📎 Meu material da disciplina
+
+_(anotações, listas e trabalhos próprios — não são material oficial do curso)_
+
+- [Atividade 13_09](assets/disciplinas/1-periodo/logica-para-computacao/Atividade%2013_09.pdf)
+- [Aula1e2-LógicaParaComputaçao](assets/disciplinas/1-periodo/logica-para-computacao/Aula1e2-LógicaParaComputaçao.pdf)
+- [Aula3-LógicaParaComputaçao](assets/disciplinas/1-periodo/logica-para-computacao/Aula3-LógicaParaComputaçao.pdf)
+- [Aula3e4-LógicaParaComputaçao](assets/disciplinas/1-periodo/logica-para-computacao/Aula3e4-LógicaParaComputaçao.pdf)
+- [Aula4-LógicaParaComputaçao](assets/disciplinas/1-periodo/logica-para-computacao/Aula4-LógicaParaComputaçao.pdf)
+- [Aula5-LógicaparaComputação](assets/disciplinas/1-periodo/logica-para-computacao/Aula5-LógicaparaComputação.pdf)
+- [Aula6-LógicaparaComputação](assets/disciplinas/1-periodo/logica-para-computacao/Aula6-LógicaparaComputação.pdf)
+- [Aula7-LógicaparaComputaçãoInferencia](assets/disciplinas/1-periodo/logica-para-computacao/Aula7-LógicaparaComputaçãoInferencia.pdf)
+- [Listaex2LPC](assets/disciplinas/1-periodo/logica-para-computacao/Listaex2LPC.pdf)
+- [LógicaInicial](assets/disciplinas/1-periodo/logica-para-computacao/LógicaInicial.pdf)
+- [Resumo EQuivalencias](assets/disciplinas/1-periodo/logica-para-computacao/Resumo%20EQuivalencias.pdf)
+- [SI_Alexandre_FundamentosLogicaMatCap5](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatCap5.pdf)
+- [SI_Alexandre_FundamentosLogicaMatExCap5](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatExCap5.pdf)
+- [SI_Alexandre_FundamentosLogicaMatcap2Exercícios](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatcap2Exercícios.pdf)
+- [SI_Alexandre_FundamentosLogicaMatcap4](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatcap4.pdf)
+- [SI_Alexandre_FundamentosLogicaMatex1](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatex1.pdf)
+- [SI_Alexandre_FundamentosLogicaMatexcap4](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatexcap4.pdf)
+- [Teste Lógica para computaçãoa2](assets/disciplinas/1-periodo/logica-para-computacao/Teste%20Lógica%20para%20computaçãoa2.pdf)
+- [atvInferencialogica Correção](assets/disciplinas/1-periodo/logica-para-computacao/atvInferencialogica%20Correção.pdf)
+- [atvInferencialogica](assets/disciplinas/1-periodo/logica-para-computacao/atvInferencialogica.pdf)

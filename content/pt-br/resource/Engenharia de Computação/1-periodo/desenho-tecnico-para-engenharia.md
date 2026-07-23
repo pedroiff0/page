@@ -75,3 +75,16 @@ Utilização de instrumentos de desenho; Normas para desenho; Desenho geométric
 2. MORIOKA, C. A., CRUZ, M. D., CRUZ, E. C. Desenho Técnico: Medidas e Representação Gráfica. São Paulo: Editora Érica, 2014.
 3. NETTO, C. C. Estudo Dirigido Autodesk: AutoCAD 2018 para Windows. São Paulo: Érica, 2017.
 4. NORTON, R. L. Projeto de Máquinas: Uma Abordagem Integrada. 4ª Edição. Porto Alegre: Bookman, RODRIGUES, A. R., SOUZA, A. F., JUNIOR, A. B., BRANDÃO, L. C., SILVEIRA, Z. C. Desenho Técnico Mecânico. Rio de Janeiro: Elsevier, 2015.
+
+## 📎 Meu material da disciplina
+
+_(anotações, listas e trabalhos próprios — não são material oficial do curso)_
+
+- [01_-_Introdução_ao_CAD_Interface](assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/01_-_Introdução_ao_CAD_Interface.pdf)
+- [01_-_Sistema_de_coordenadas](assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/01_-_Sistema_de_coordenadas.pdf)
+- [02_-_Ferramentas_de_visualização_(1)_](assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/02_-_Ferramentas_de_visualização_(1)_.pdf)
+- [02_-_Objetos_gráficos_(1)_](assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/02_-_Objetos_gráficos_(1)_.pdf)
+- [EXECICIO_DE_FIXAÇÃO_1](assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/EXECICIO_DE_FIXAÇÃO_1.pdf)
+- [Modificação_de_objetos_gráficos_(1)_](assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/Modificação_de_objetos_gráficos_(1)_.pdf)
+- [Roteiro de Apoio - Oficina Desenho Técnico 4ª SCEG](assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/Roteiro%20de%20Apoio%20-%20Oficina%20Desenho%20Técnico%204ª%20SCEG.pdf)
+- [Roteiro de orientações para oficinas (semana da engenharia)](assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/Roteiro%20de%20orientações%20para%20oficinas%20(semana%20da%20engenharia).pdf)

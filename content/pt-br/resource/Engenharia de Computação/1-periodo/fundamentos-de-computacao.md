@@ -80,3 +80,9 @@ História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Softwa
 4. Pearson, 2013.
 5. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
 6. ______. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+
+## 📎 Meu material da disciplina
+
+_(anotações, listas e trabalhos próprios — não são material oficial do curso)_
+
+- [Trabalho Redes Final](assets/disciplinas/1-periodo/fundamentos-de-computacao/Trabalho%20Redes%20Final.pdf)
