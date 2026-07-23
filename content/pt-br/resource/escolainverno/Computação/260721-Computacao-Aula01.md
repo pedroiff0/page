@@ -20,7 +20,7 @@ cssclasses:
 # Notas de Aula — Computação de Alto Desempenho (Aula 01)
 
 > [!info] Informações da aula
-> **Título:** Computação de Alto Desempenho (HPC)
+> **Tema:** Computação de Alto Desempenho (HPC)
 > **Professores:** Prof. Dr. Fernando Roig e Prof.ª Dr.ª Lilianne Nakazono
 
 ---
@@ -158,4 +158,8 @@ Quando o problema é grande demais para caber (ou processar) em um único nó co
 > *(nenhuma pergunta registrada nesta aula)*
 
 ---
+
+## 🔗 Referências e correlatos
+- [Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02) — desempenho de MPI e introdução a dados/ML em astronomia
+- [Aula 03](pt-br/resource/escolainverno/computação/computacao-aula03)
 

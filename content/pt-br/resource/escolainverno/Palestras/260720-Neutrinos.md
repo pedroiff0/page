@@ -20,7 +20,7 @@ cssclasses:
 # Notas de Palestra — Neutrinos e a Cosmologia
 
 > [!info] Informações da palestra
-> **Título:** Neutrinos e a Cosmologia
+> **Tema:** Neutrinos e a Cosmologia
 > **Palestrante:** Prof. Gabriel Rodrigues
 
 ---
@@ -155,3 +155,8 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 > *(nenhuma pergunta registrada nesta palestra)*
 
 ---
+
+## 🔗 Referências e correlatos
+- [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/260721-cosmologia-aula01) — o modelo $\Lambda$CDM e os candidatos a matéria escura citados aqui
+- [OASI](pt-br/resource/escolainverno/palestras/260721-oasi)
+- [Bolsas](pt-br/resource/escolainverno/palestras/260722-bolsas)

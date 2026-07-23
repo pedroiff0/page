@@ -173,3 +173,9 @@ Uma órbita fechada completa é definida por **6 parâmetros** (os *elementos or
 
 ---
 
+## 🔗 Referências e correlatos
+- [Aula 02](pt-br/resource/escolainverno/planetaria/260721-planetaria-aula02) — pequenos corpos do Sistema Solar
+- [Aula 03](pt-br/resource/escolainverno/planetaria/planetaria-aula03)
+- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/260720-arqueologia-galactica-aula01) — classificação espectral (o Sol como anã amarela tipo G)
+- [Computação — Aula 01](pt-br/resource/escolainverno/computação/260721-computacao-aula01) — simulações de N-corpos via HPC
+

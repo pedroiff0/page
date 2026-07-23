@@ -19,6 +19,7 @@ cssclasses:
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[Aglomerados-Aula02|Aula 02]])*
+> **Professor:** Prof. Dr. Rogério Monteiro-Oliveira
 
 ---
 
@@ -50,3 +51,7 @@ cssclasses:
 > *(nenhuma pergunta registrada ainda)*
 
 ---
+
+## 🔗 Referências e correlatos
+- [Aula 01](pt-br/resource/escolainverno/aglomerados/260720-aglomerados-aula01)
+- [Aula 02](pt-br/resource/escolainverno/aglomerados/aglomerados-aula02)

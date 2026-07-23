@@ -81,3 +81,7 @@ A ideia-chave desta aula é que a **distribuição orbital atual** (excentricida
 > *(nenhuma pergunta registrada ainda)*
 
 ---
+
+## 🔗 Referências e correlatos
+- [Aula 01](pt-br/resource/escolainverno/planetaria/260720-planetaria-aula01)
+- [Aula 03](pt-br/resource/escolainverno/planetaria/planetaria-aula03)

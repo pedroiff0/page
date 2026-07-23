@@ -138,3 +138,9 @@ O gás do ICM no núcleo do aglomerado é denso o suficiente para que seu **temp
 > 1. **O que são subdensidades?** R.: Regiões onde o contraste de densidade é negativo ($\delta < 0$), ou seja, menos densas que a média do Universo — correspondem aos *voids* da teia cósmica (Aula 01). Como $\delta \geq -1$ por definição, elas nunca "esvaziam" totalmente: apenas se expandem mais rápido que a média cósmica.
 
 ---
+
+## 🔗 Referências e correlatos
+- [Aula 01](pt-br/resource/escolainverno/aglomerados/260720-aglomerados-aula01) — teorema do virial, ICM e detecção de aglomerados
+- [Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03)
+- [Cosmologia — Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — teia cósmica e estrutura em grande escala
+- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/260720-arqueologia-galactica-aula01) — diagrama cor-magnitude estelar, análogo ao diagrama cor × massa de galáxias visto aqui

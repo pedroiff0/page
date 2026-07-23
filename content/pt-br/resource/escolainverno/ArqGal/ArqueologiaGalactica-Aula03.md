@@ -18,6 +18,7 @@ cssclasses:
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[ArqueologiaGalactica-Aula02|Aula 02]])*
+> **Professor:** João Victor Sales Silva
 
 ---
 
@@ -49,3 +50,7 @@ cssclasses:
 > *(nenhuma pergunta registrada ainda)*
 
 ---
+
+## 🔗 Referências e correlatos
+- [Aula 01](pt-br/resource/escolainverno/arqgal/260720-arqueologia-galactica-aula01)
+- [Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02)

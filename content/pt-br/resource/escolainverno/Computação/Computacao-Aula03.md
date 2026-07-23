@@ -19,6 +19,7 @@ cssclasses:
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[Computacao-Aula02|Aula 02]])*
+> **Professores:** Prof. Dr. Fernando Roig e Prof.ª Dr.ª Lilianne Nakazono
 
 ---
 
@@ -50,3 +51,7 @@ cssclasses:
 > *(nenhuma pergunta registrada ainda)*
 
 ---
+
+## 🔗 Referências e correlatos
+- [Aula 01](pt-br/resource/escolainverno/computação/260721-computacao-aula01)
+- [Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02)

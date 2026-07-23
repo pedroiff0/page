@@ -18,7 +18,8 @@ cssclasses:
 # Notas de Aula — Cosmologia (Aula 02)
 
 > [!info] Informações da aula
-> **Tema esperado:** Radiação Cósmica de Fundo (RCF), segunda sonda observacional do cronograma anunciado na [[260721-Cosmologia-Aula01|Aula 01]] (Supernovas Ia → **RCF** → EGE).
+> **Tema:** Radiação Cósmica de Fundo (RCF), segunda sonda observacional do cronograma anunciado na [[260721-Cosmologia-Aula01|Aula 01]] (Supernovas Ia → **RCF** → EGE).
+> **Professor:** Prof. Dr. Carlos Bengaly
 
 ---
 
@@ -50,3 +51,7 @@ cssclasses:
 > *(nenhuma pergunta registrada ainda)*
 
 ---
+
+## 🔗 Referências e correlatos
+- [Aula 01](pt-br/resource/escolainverno/cosmologia/260721-cosmologia-aula01)
+- [Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03)

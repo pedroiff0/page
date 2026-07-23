@@ -20,9 +20,8 @@ cssclasses:
 # Notas de Aula — Aglomerados de Galáxias
 
 > [!info] Informações da aula
-> **Título:** Aglomerados de Galáxias: as maiores estruturas do Universo
+> **Tema:** Aglomerados de Galáxias: as maiores estruturas do Universo
 > **Professor:** Prof. Dr. Rogério Monteiro-Oliveira
-> **Material:** [Aula 01](https://www.monteiro-oliveira.com/talks)
 
 ---
 
@@ -209,6 +208,10 @@ Mapeia a massa **total** (incluindo matéria escura) de forma independente do g�
 
 ---
 
-## 🔗 Referências
+## 🔗 Referências e correlatos
 - [Página do Prof. Rogério Monteiro-Oliveira — Aula 01](https://www.monteiro-oliveira.com/talks)
 - Simulação **Millennium Run**
+- [Aula 02](pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — formação hierárquica e transformação ambiental de galáxias em aglomerados
+- [Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03)
+- [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/260721-cosmologia-aula01) — a mesma matéria escura vista aqui em escala cosmológica
+- [Arqueologia Galáctica — Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — aglomerados globulares, a contraparte estelar dos aglomerados de galáxias

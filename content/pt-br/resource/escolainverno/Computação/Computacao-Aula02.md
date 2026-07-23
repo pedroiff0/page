@@ -116,3 +116,10 @@ Isto é: primeiro os dados brutos são reduzidos a **atributos** (as variáveis 
 > *(nenhuma pergunta registrada ainda)*
 
 ---
+
+## 🔗 Referências e correlatos
+- [Aula 01](pt-br/resource/escolainverno/computação/260721-computacao-aula01)
+- [Aula 03](pt-br/resource/escolainverno/computação/computacao-aula03)
+- [Recursos — Machine Learning](pt-br/resource/computacao/machine-learning)
+- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — a pesquisa citada nesta aula como exemplo de ML não supervisionado
+- [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao)

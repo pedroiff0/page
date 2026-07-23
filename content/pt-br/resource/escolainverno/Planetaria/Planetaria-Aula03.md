@@ -19,6 +19,7 @@ cssclasses:
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[260721-Planetaria-Aula02|Aula 02]])*
+> **Professores:** Filipe Monteiro e Gustavo Madeira
 
 ---
 
@@ -50,3 +51,7 @@ cssclasses:
 > *(nenhuma pergunta registrada ainda)*
 
 ---
+
+## 🔗 Referências e correlatos
+- [Aula 01](pt-br/resource/escolainverno/planetaria/260720-planetaria-aula01)
+- [Aula 02](pt-br/resource/escolainverno/planetaria/260721-planetaria-aula02)

@@ -115,11 +115,15 @@ O **J-PAS** (*Javalambre Physics of the Accelerating Universe Astrophysical Surv
 
 ---
 
-## 🔗 Referências
+## 🔗 Referências e correlatos
 - Alvarez-Garay et al. (2024) — Omega Centauri como núcleo remanescente de galáxia anã
 - Grisoni et al. (2024) — estrelas jovens ricas em elementos-$\alpha$
 - Pinsonneault et al. (2025) — precisão de idades astrossismológicas para gigantes
 - Montalbán et al. (2021) — separação de disco fino/espesso por idade astrossismológica
 - Missão **Gaia**; levantamentos **APOGEE**, **GALAH**, **J-PAS**; método **StarHorse**
+- [Aula 01](pt-br/resource/escolainverno/arqgal/260720-arqueologia-galactica-aula01)
+- [Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03)
+- [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) — uso o GALAH DR4 citado aqui na minha própria pesquisa
+- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection)
 
 ---

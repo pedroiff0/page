@@ -22,7 +22,6 @@ cssclasses:
 > [!info] Informações da aula
 > **Tema:** Arqueologia Galáctica — usar a composição química e a cinemática das estrelas como "fósseis" para reconstruir a história de formação da Via Láctea.
 > **Professor:** João Victor Sales Silva
-> **Referência:** Solar dynamics
 
 ---
 
@@ -157,11 +156,16 @@ Estudos da vizinhança solar (razão $\alpha$/Fe vs. [Fe/H]) — ex.: **Adibekya
 
 ---
 
-## 🔗 Referências
+## 🔗 Referências e correlatos
 - Hunt & Reffert (2024) — catálogo de 5647 aglomerados abertos
 - Adibekyan et al. (2012); Haywood et al. (2013) — química da vizinhança solar
 - Kobayashi et al. (2020) — modelos de nucleossíntese de elementos pesados
 - Watson et al. (2019) — processo-r em fusões de estrelas de nêutrons
 - Levantamento **GALAH**
 - [Reportagem: de onde vieram os átomos do seu corpo](https://super.abril.com.br/ciencia/esta-tabela-periodica-revela-de-onde-veio-cada-atomo-do-seu-corpo/)
+- [Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — aglomerados globulares e as três revoluções da área
+- [Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03)
+- [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/260721-cosmologia-aula01) — supernovas Ia como velas padrão, citadas aqui como marcadoras de nucleossíntese
+- [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/260720-aglomerados-aula01) — equilíbrio hidrostático, o mesmo princípio físico visto aqui para estrelas
+- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — minha pesquisa usa exatamente o espectro GALAH DR4 introduzido aqui
 
