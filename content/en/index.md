@@ -47,7 +47,7 @@ Prefer not to open your email client? Fill in the fields below and the message l
   // from_name / reply_to / message variables from the form above).
   var EMAILJS_PUBLIC_KEY = "fh5Z3HcsBAXFKJ-Jd";
   var EMAILJS_SERVICE_ID = "service_myxxjn7";
-  var EMAILJS_TEMPLATE_ID = "template_3k4q1lu";
+  var EMAILJS_TEMPLATE_ID = "template_1baqk12";
 
   var form = document.getElementById("contact-form");
   var status = document.getElementById("contact-form-status");
