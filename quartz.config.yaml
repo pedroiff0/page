@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: pt-BR
-  baseUrl: pedroiff0.github.io/page
+  baseUrl: www.phrandrade.com
   ignorePatterns:
     - private
     - templates
@@ -207,7 +207,7 @@ plugins:
       position: beforeBody
       priority: 25
       display: all
-  - source: github:quartz-community/page-title
+  - source: ./local-plugins/page-title-i18n
     enabled: true
     layout:
       position: left

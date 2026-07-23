@@ -2,7 +2,13 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 const LanguageToggle: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-  const basePath = cfg.baseUrl ? "/" + cfg.baseUrl.split("/").slice(1).join("/") : ""
+  // pathname already starts with "/" (or is just "/" with nothing after it),
+  // so stripping a trailing slash gives "" for a bare-domain baseUrl and
+  // "/subpath" for a project-page baseUrl -- either way `${basePath}/en/`
+  // below ends up with exactly one slash between them, never "//en/".
+  const basePath = cfg.baseUrl
+    ? new URL(`https://${cfg.baseUrl}`).pathname.replace(/\/$/, "")
+    : ""
 
   return (
     <div class={classNames(displayClass, "nav-lang")}>
