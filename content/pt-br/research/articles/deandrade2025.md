@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4"
+title: "GCNS × GALAH DR4"
 tags:
   - artigo
   - pesquisa

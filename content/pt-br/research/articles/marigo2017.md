@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "A New Generation of PARSEC-COLIBRI Stellar Isochrones Including the TP-AGB Phase"
+title: "PARSEC-COLIBRI — Isócronas com Fase TP-AGB"
 tags:
   - artigo
   - pesquisa

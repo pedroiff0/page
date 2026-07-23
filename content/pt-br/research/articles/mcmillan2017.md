@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The mass distribution and gravitational potential of the Milky Way"
+title: "Distribuição de Massa e Potencial da Via Láctea"
 tags:
   - artigo
   - pesquisa

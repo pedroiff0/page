@@ -1,6 +1,6 @@
 ---
 publish: true
-title: ""
+title: "da Silva & Smiljanic (2023) — t-SNE Quimiodinâmico"
 tags:
   - artigo
   - pesquisa

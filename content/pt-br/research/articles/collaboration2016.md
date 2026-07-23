@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The Gaia mission"
+title: "A Missão Gaia"
 tags:
   - artigo
   - pesquisa

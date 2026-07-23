@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "PARSEC: stellar tracks and isochrones with the PAdova and TRieste Stellar Evolution Code"
+title: "PARSEC — Isócronas Estelares"
 tags:
   - artigo
   - pesquisa

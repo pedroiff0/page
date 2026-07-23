@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The Apache Point Observatory Galactic Evolution Experiment (APOGEE)"
+title: "APOGEE"
 tags:
   - artigo
   - pesquisa

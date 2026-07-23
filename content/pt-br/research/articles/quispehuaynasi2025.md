@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 Data"
+title: "S-PLUS DR4 — Outliers de SED"
 tags:
   - artigo
   - pesquisa

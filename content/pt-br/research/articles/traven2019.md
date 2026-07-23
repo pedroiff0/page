@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Machine learning techniques meet binaries"
+title: "Machine Learning para Binárias"
 tags:
   - artigo
   - pesquisa

@@ -6,116 +6,116 @@ order: 1
 
 <div class="media-carousel">
   <a href="/pt-br/research/articles/borbolato2025" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Early Coformation of the Milky Way's Thin and Thick Disks at Redshift z > 2" />
-    <div class="slide-caption">Early Coformation of the Milky Way's Thin and Thick Disks at Redshift z > 2</div>
+    <img src="/assets/illustrations/articles.svg" alt="Coformação dos Discos Fino/Espesso (z>2)" />
+    <div class="slide-caption">Coformação dos Discos Fino/Espesso (z>2)</div>
   </a>
   <a href="/pt-br/research/articles/bovy2015" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="galpy: A python Library for Galactic Dynamics" />
-    <div class="slide-caption">galpy: A python Library for Galactic Dynamics</div>
+    <img src="/assets/illustrations/articles.svg" alt="galpy" />
+    <div class="slide-caption">galpy</div>
   </a>
   <a href="/pt-br/research/articles/bressan2012" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="PARSEC: stellar tracks and isochrones with the PAdova and TRieste Stellar Evolution Code" />
-    <div class="slide-caption">PARSEC: stellar tracks and isochrones with the PAdova and TRieste Stellar Evolution Code</div>
+    <img src="/assets/illustrations/articles.svg" alt="PARSEC — Isócronas Estelares" />
+    <div class="slide-caption">PARSEC — Isócronas Estelares</div>
   </a>
   <a href="/pt-br/research/articles/buder2025" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The GALAH survey: Data release 4" />
-    <div class="slide-caption">The GALAH survey: Data release 4</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH DR4" />
+    <div class="slide-caption">GALAH DR4</div>
   </a>
   <a href="/pt-br/research/articles/collaboration2016" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The Gaia mission" />
-    <div class="slide-caption">The Gaia mission</div>
+    <img src="/assets/illustrations/articles.svg" alt="A Missão Gaia" />
+    <div class="slide-caption">A Missão Gaia</div>
   </a>
   <a href="/pt-br/research/articles/collaboration2021" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Gaia Early Data Release 3. The Gaia Catalogue of Nearby Stars" />
-    <div class="slide-caption">Gaia Early Data Release 3. The Gaia Catalogue of Nearby Stars</div>
+    <img src="/assets/illustrations/articles.svg" alt="Gaia EDR3 — Gaia Catalogue of Nearby Stars" />
+    <div class="slide-caption">Gaia EDR3 — Gaia Catalogue of Nearby Stars</div>
   </a>
   <a href="/pt-br/research/articles/dasilva2023" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Dasilva2023" />
-    <div class="slide-caption">Dasilva2023</div>
+    <img src="/assets/illustrations/articles.svg" alt="da Silva & Smiljanic (2023) — t-SNE Quimiodinâmico" />
+    <div class="slide-caption">da Silva & Smiljanic (2023) — t-SNE Quimiodinâmico</div>
   </a>
   <a href="/pt-br/research/articles/deandrade2025" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4" />
-    <div class="slide-caption">Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4</div>
+    <img src="/assets/illustrations/articles.svg" alt="GCNS × GALAH DR4" />
+    <div class="slide-caption">GCNS × GALAH DR4</div>
   </a>
   <a href="/pt-br/research/articles/hayden2020" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The GALAH survey: chemodynamics of the solar neighbourhood" />
-    <div class="slide-caption">The GALAH survey: chemodynamics of the solar neighbourhood</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Quimiodinâmica da Vizinhança Solar" />
+    <div class="slide-caption">GALAH — Quimiodinâmica da Vizinhança Solar</div>
   </a>
   <a href="/pt-br/research/articles/hayden2022" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The GALAH survey: chemical clocks" />
-    <div class="slide-caption">The GALAH survey: chemical clocks</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Relógios Químicos" />
+    <div class="slide-caption">GALAH — Relógios Químicos</div>
   </a>
   <a href="/pt-br/research/articles/hughes2022" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The GALAH Survey: A New Sample of Extremely Metal-poor Stars Using a Machine-learning Classification Algorithm" />
-    <div class="slide-caption">The GALAH Survey: A New Sample of Extremely Metal-poor Stars Using a Machine-learning Classification Algorithm</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Estrelas Extremamente Pobres em Metais" />
+    <div class="slide-caption">GALAH — Estrelas Extremamente Pobres em Metais</div>
   </a>
   <a href="/pt-br/research/articles/ishida2021" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Active anomaly detection for time-domain discoveries" />
-    <div class="slide-caption">Active anomaly detection for time-domain discoveries</div>
+    <img src="/assets/illustrations/articles.svg" alt="Detecção Ativa de Anomalias (Time-Domain)" />
+    <div class="slide-caption">Detecção Ativa de Anomalias (Time-Domain)</div>
   </a>
   <a href="/pt-br/research/articles/kos2017" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The GALAH survey: the data reduction pipeline" />
-    <div class="slide-caption">The GALAH survey: the data reduction pipeline</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Pipeline de Redução de Dados" />
+    <div class="slide-caption">GALAH — Pipeline de Redução de Dados</div>
   </a>
   <a href="/pt-br/research/articles/lochner2021" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="ASTRONOMALY: Personalised active anomaly detection in astronomical data" />
-    <div class="slide-caption">ASTRONOMALY: Personalised active anomaly detection in astronomical data</div>
+    <img src="/assets/illustrations/articles.svg" alt="ASTRONOMALY" />
+    <div class="slide-caption">ASTRONOMALY</div>
   </a>
   <a href="/pt-br/research/articles/majewski2017" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The Apache Point Observatory Galactic Evolution Experiment (APOGEE)" />
-    <div class="slide-caption">The Apache Point Observatory Galactic Evolution Experiment (APOGEE)</div>
+    <img src="/assets/illustrations/articles.svg" alt="APOGEE" />
+    <div class="slide-caption">APOGEE</div>
   </a>
   <a href="/pt-br/research/articles/marigo2017" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="A New Generation of PARSEC-COLIBRI Stellar Isochrones Including the TP-AGB Phase" />
-    <div class="slide-caption">A New Generation of PARSEC-COLIBRI Stellar Isochrones Including the TP-AGB Phase</div>
+    <img src="/assets/illustrations/articles.svg" alt="PARSEC-COLIBRI — Isócronas com Fase TP-AGB" />
+    <div class="slide-caption">PARSEC-COLIBRI — Isócronas com Fase TP-AGB</div>
   </a>
   <a href="/pt-br/research/articles/mcmillan2017" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The mass distribution and gravitational potential of the Milky Way" />
-    <div class="slide-caption">The mass distribution and gravitational potential of the Milky Way</div>
+    <img src="/assets/illustrations/articles.svg" alt="Distribuição de Massa e Potencial da Via Láctea" />
+    <div class="slide-caption">Distribuição de Massa e Potencial da Via Láctea</div>
   </a>
   <a href="/pt-br/research/articles/otar2021" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The GALAH survey: characterization of emission-line stars with spectral modelling using autoencoders" />
-    <div class="slide-caption">The GALAH survey: characterization of emission-line stars with spectral modelling using autoencoders</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Estrelas de Linhas de Emissão" />
+    <div class="slide-caption">GALAH — Estrelas de Linhas de Emissão</div>
   </a>
   <a href="/pt-br/research/articles/quispehuaynasi2025" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 Data" />
-    <div class="slide-caption">An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 Data</div>
+    <img src="/assets/illustrations/articles.svg" alt="S-PLUS DR4 — Outliers de SED" />
+    <div class="slide-caption">S-PLUS DR4 — Outliers de SED</div>
   </a>
   <a href="/pt-br/research/articles/recioblanco2014" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The Gaia-ESO Survey: the Galactic thick to thin disc transition" />
-    <div class="slide-caption">The Gaia-ESO Survey: the Galactic thick to thin disc transition</div>
+    <img src="/assets/illustrations/articles.svg" alt="Gaia-ESO — Transição Disco Fino/Espesso" />
+    <div class="slide-caption">Gaia-ESO — Transição Disco Fino/Espesso</div>
   </a>
   <a href="/pt-br/research/articles/thomas2024" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="SpectroTranslator: Deep-neural network algorithm for homogenising spectroscopic parameters" />
-    <div class="slide-caption">SpectroTranslator: Deep-neural network algorithm for homogenising spectroscopic parameters</div>
+    <img src="/assets/illustrations/articles.svg" alt="SpectroTranslator" />
+    <div class="slide-caption">SpectroTranslator</div>
   </a>
   <a href="/pt-br/research/articles/tinsley1979" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Stellar lifetimes and abundance ratios in chemical evolution." />
-    <div class="slide-caption">Stellar lifetimes and abundance ratios in chemical evolution.</div>
+    <img src="/assets/illustrations/articles.svg" alt="Tempos de Vida Estelares e Razões de Abundância" />
+    <div class="slide-caption">Tempos de Vida Estelares e Razões de Abundância</div>
   </a>
   <a href="/pt-br/research/articles/traven2017" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The Galah Survey: Classification and Diagnostics with t-SNE Reduction of Spectral Information" />
-    <div class="slide-caption">The Galah Survey: Classification and Diagnostics with t-SNE Reduction of Spectral Information</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Classificação via t-SNE" />
+    <div class="slide-caption">GALAH — Classificação via t-SNE</div>
   </a>
   <a href="/pt-br/research/articles/traven2019" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Machine learning techniques meet binaries" />
-    <div class="slide-caption">Machine learning techniques meet binaries</div>
+    <img src="/assets/illustrations/articles.svg" alt="Machine Learning para Binárias" />
+    <div class="slide-caption">Machine Learning para Binárias</div>
   </a>
   <a href="/pt-br/research/articles/traven2020" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The GALAH survey: multiple stars and our Galaxy. I. A comprehensive method for deriving properties of FGK binary stars" />
-    <div class="slide-caption">The GALAH survey: multiple stars and our Galaxy. I. A comprehensive method for deriving properties of FGK binary stars</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Binárias FGK" />
+    <div class="slide-caption">GALAH — Binárias FGK</div>
   </a>
   <a href="/pt-br/research/articles/vogrini2023" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="The GALAH survey: new diffuse interstellar bands found in residuals of 872 000 stellar spectra" />
-    <div class="slide-caption">The GALAH survey: new diffuse interstellar bands found in residuals of 872 000 stellar spectra</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Bandas Interestelares Difusas" />
+    <div class="slide-caption">GALAH — Bandas Interestelares Difusas</div>
   </a>
   <a href="/pt-br/research/articles/wallerstein1962" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Abundances in G. Dwarfs.VI. a Survey of Field Stars." />
-    <div class="slide-caption">Abundances in G. Dwarfs.VI. a Survey of Field Stars.</div>
+    <img src="/assets/illustrations/articles.svg" alt="Abundâncias em Anãs G VI" />
+    <div class="slide-caption">Abundâncias em Anãs G VI</div>
   </a>
   <a href="/pt-br/research/articles/xiang2019" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Abundance Estimates for 16 Elements in 6 Million Stars from LAMOST DR5 Low-Resolution Spectra" />
-    <div class="slide-caption">Abundance Estimates for 16 Elements in 6 Million Stars from LAMOST DR5 Low-Resolution Spectra</div>
+    <img src="/assets/illustrations/articles.svg" alt="LAMOST DR5 — Abundâncias de 16 Elementos" />
+    <div class="slide-caption">LAMOST DR5 — Abundâncias de 16 Elementos</div>
   </a>
 </div>
 
@@ -123,31 +123,31 @@ Anotações de leitura sobre artigos científicos relevantes para minha pesquisa
 
 ## Artigos
 
-- [](pt-br/research/articles/dasilva2023)
-- [A New Generation of PARSEC-COLIBRI Stellar Isochrones Including the TP-AGB Phase](pt-br/research/articles/marigo2017)
-- [ASTRONOMALY: Personalised active anomaly detection in astronomical data](pt-br/research/articles/lochner2021)
-- [Abundance Estimates for 16 Elements in 6 Million Stars from LAMOST DR5 Low-Resolution Spectra](pt-br/research/articles/xiang2019)
-- [Abundances in G. Dwarfs.VI. a Survey of Field Stars.](pt-br/research/articles/wallerstein1962)
-- [Active anomaly detection for time-domain discoveries](pt-br/research/articles/ishida2021)
-- [An Unsupervised Machine Learning Approach to Identify Spectral Energy Distribution Outliers: Application to the S-PLUS DR4 Data](pt-br/research/articles/quispehuaynasi2025)
-- [Early Coformation of the Milky Way's Thin and Thick Disks at Redshift z > 2](pt-br/research/articles/borbolato2025)
-- [Gaia Early Data Release 3. The Gaia Catalogue of Nearby Stars](pt-br/research/articles/collaboration2021)
-- [Machine learning techniques meet binaries](pt-br/research/articles/traven2019)
-- [PARSEC: stellar tracks and isochrones with the PAdova and TRieste Stellar Evolution Code](pt-br/research/articles/bressan2012)
-- [SpectroTranslator: Deep-neural network algorithm for homogenising spectroscopic parameters](pt-br/research/articles/thomas2024)
-- [Stellar lifetimes and abundance ratios in chemical evolution.](pt-br/research/articles/tinsley1979)
-- [Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4](pt-br/research/articles/deandrade2025)
-- [The Apache Point Observatory Galactic Evolution Experiment (APOGEE)](pt-br/research/articles/majewski2017)
-- [The GALAH Survey: A New Sample of Extremely Metal-poor Stars Using a Machine-learning Classification Algorithm](pt-br/research/articles/hughes2022)
-- [The GALAH survey: Data release 4](pt-br/research/articles/buder2025)
-- [The GALAH survey: characterization of emission-line stars with spectral modelling using autoencoders](pt-br/research/articles/otar2021)
-- [The GALAH survey: chemical clocks](pt-br/research/articles/hayden2022)
-- [The GALAH survey: chemodynamics of the solar neighbourhood](pt-br/research/articles/hayden2020)
-- [The GALAH survey: multiple stars and our Galaxy. I. A comprehensive method for deriving properties of FGK binary stars](pt-br/research/articles/traven2020)
-- [The GALAH survey: new diffuse interstellar bands found in residuals of 872 000 stellar spectra](pt-br/research/articles/vogrini2023)
-- [The GALAH survey: the data reduction pipeline](pt-br/research/articles/kos2017)
-- [The Gaia mission](pt-br/research/articles/collaboration2016)
-- [The Gaia-ESO Survey: the Galactic thick to thin disc transition](pt-br/research/articles/recioblanco2014)
-- [The Galah Survey: Classification and Diagnostics with t-SNE Reduction of Spectral Information](pt-br/research/articles/traven2017)
-- [The mass distribution and gravitational potential of the Milky Way](pt-br/research/articles/mcmillan2017)
-- [galpy: A python Library for Galactic Dynamics](pt-br/research/articles/bovy2015)
+- [A Missão Gaia](pt-br/research/articles/collaboration2016)
+- [Abundâncias em Anãs G VI](pt-br/research/articles/wallerstein1962)
+- [APOGEE](pt-br/research/articles/majewski2017)
+- [ASTRONOMALY](pt-br/research/articles/lochner2021)
+- [Coformação dos Discos Fino/Espesso (z>2)](pt-br/research/articles/borbolato2025)
+- [da Silva & Smiljanic (2023) — t-SNE Quimiodinâmico](pt-br/research/articles/dasilva2023)
+- [Detecção Ativa de Anomalias (Time-Domain)](pt-br/research/articles/ishida2021)
+- [Distribuição de Massa e Potencial da Via Láctea](pt-br/research/articles/mcmillan2017)
+- [Gaia EDR3 — Gaia Catalogue of Nearby Stars](pt-br/research/articles/collaboration2021)
+- [Gaia-ESO — Transição Disco Fino/Espesso](pt-br/research/articles/recioblanco2014)
+- [GALAH DR4](pt-br/research/articles/buder2025)
+- [GALAH — Bandas Interestelares Difusas](pt-br/research/articles/vogrini2023)
+- [GALAH — Binárias FGK](pt-br/research/articles/traven2020)
+- [GALAH — Classificação via t-SNE](pt-br/research/articles/traven2017)
+- [GALAH — Estrelas de Linhas de Emissão](pt-br/research/articles/otar2021)
+- [GALAH — Estrelas Extremamente Pobres em Metais](pt-br/research/articles/hughes2022)
+- [GALAH — Pipeline de Redução de Dados](pt-br/research/articles/kos2017)
+- [GALAH — Quimiodinâmica da Vizinhança Solar](pt-br/research/articles/hayden2020)
+- [GALAH — Relógios Químicos](pt-br/research/articles/hayden2022)
+- [galpy](pt-br/research/articles/bovy2015)
+- [GCNS × GALAH DR4](pt-br/research/articles/deandrade2025)
+- [LAMOST DR5 — Abundâncias de 16 Elementos](pt-br/research/articles/xiang2019)
+- [Machine Learning para Binárias](pt-br/research/articles/traven2019)
+- [PARSEC — Isócronas Estelares](pt-br/research/articles/bressan2012)
+- [PARSEC-COLIBRI — Isócronas com Fase TP-AGB](pt-br/research/articles/marigo2017)
+- [S-PLUS DR4 — Outliers de SED](pt-br/research/articles/quispehuaynasi2025)
+- [SpectroTranslator](pt-br/research/articles/thomas2024)
+- [Tempos de Vida Estelares e Razões de Abundância](pt-br/research/articles/tinsley1979)

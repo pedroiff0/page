@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Abundance Estimates for 16 Elements in 6 Million Stars from LAMOST DR5 Low-Resolution Spectra"
+title: "LAMOST DR5 — Abundâncias de 16 Elementos"
 tags:
   - artigo
   - pesquisa

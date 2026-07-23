@@ -1,14 +1,19 @@
 ---
 publish: true
 title: IX FEBIC 2024
+photoFolder: febic2024
 created: 2024-09-15
-modified: 2026-07-18T13:40:36.890-03:00
+modified: 2026-07-22
 ---
 
-Página dedicada à participação na **IX Feira Brasileira de Iniciação Científica (FEBIC)**, em Pomerode (SC).
+## Sobre o evento
 
-![IX FEBIC 2024](assets/febic2024/febic.jpeg)
+Página dedicada à participação na **IX Feira Brasileira de Iniciação Científica (FEBIC)**, em Pomerode (SC).
 
 Eu e o Maycon Jorge Deláqua da Silva representamos o IFF Bom Jesus do Itabapoana com o projeto **"Simulando o impacto de satélites em observações astronômicas"**, sobre como satélites artificiais causam poluição luminosa e prejudicam observações astronômicas. Ficamos em **3º lugar na categoria Graduação**, mesmo com o projeto ainda incompleto e competindo com aplicações mais avançadas e já patenteadas — resultado que também nos credenciou para o MCTIA 2025, em Belém (PA).
 
 Fonte: [IFF — Projeto do IFF Bom Jesus é premiado em evento nacional](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-premiado-em-evento-nacional)
+
+## Minha participação
+
+_(em construção)_

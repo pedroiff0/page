@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Active anomaly detection for time-domain discoveries"
+title: "Detecção Ativa de Anomalias (Time-Domain)"
 tags:
   - artigo
   - pesquisa

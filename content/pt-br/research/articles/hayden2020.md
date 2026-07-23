@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The GALAH survey: chemodynamics of the solar neighbourhood"
+title: "GALAH — Quimiodinâmica da Vizinhança Solar"
 tags:
   - artigo
   - pesquisa

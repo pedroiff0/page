@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Abundances in G. Dwarfs.VI. a Survey of Field Stars."
+title: "Abundâncias em Anãs G VI"
 tags:
   - artigo
   - pesquisa

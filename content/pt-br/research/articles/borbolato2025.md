@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Early Coformation of the Milky Way's Thin and Thick Disks at Redshift z > 2"
+title: "Coformação dos Discos Fino/Espesso (z>2)"
 tags:
   - artigo
   - pesquisa

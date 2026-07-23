@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The GALAH survey: multiple stars and our Galaxy. I. A comprehensive method for deriving properties of FGK binary stars"
+title: "GALAH — Binárias FGK"
 tags:
   - artigo
   - pesquisa

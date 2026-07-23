@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The GALAH survey: new diffuse interstellar bands found in residuals of 872 000 stellar spectra"
+title: "GALAH — Bandas Interestelares Difusas"
 tags:
   - artigo
   - pesquisa

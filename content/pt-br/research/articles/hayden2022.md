@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The GALAH survey: chemical clocks"
+title: "GALAH — Relógios Químicos"
 tags:
   - artigo
   - pesquisa

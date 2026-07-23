@@ -199,6 +199,12 @@ plugins:
     layout:
       position: beforeBody
       priority: 30
+  - source: ./local-plugins/photo-carousel
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 25
+      display: all
   - source: github:quartz-community/page-title
     enabled: true
     layout:

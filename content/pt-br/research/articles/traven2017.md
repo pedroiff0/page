@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The Galah Survey: Classification and Diagnostics with t-SNE Reduction of Spectral Information"
+title: "GALAH — Classificação via t-SNE"
 tags:
   - artigo
   - pesquisa

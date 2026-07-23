@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Stellar lifetimes and abundance ratios in chemical evolution."
+title: "Tempos de Vida Estelares e Razões de Abundância"
 tags:
   - artigo
   - pesquisa

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "SpectroTranslator: Deep-neural network algorithm for homogenising spectroscopic parameters"
+title: "SpectroTranslator"
 tags:
   - artigo
   - pesquisa

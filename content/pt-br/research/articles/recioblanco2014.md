@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The Gaia-ESO Survey: the Galactic thick to thin disc transition"
+title: "Gaia-ESO — Transição Disco Fino/Espesso"
 tags:
   - artigo
   - pesquisa

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The GALAH survey: Data release 4"
+title: "GALAH DR4"
 tags:
   - artigo
   - pesquisa

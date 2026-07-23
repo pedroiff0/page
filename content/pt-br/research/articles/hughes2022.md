@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "The GALAH Survey: A New Sample of Extremely Metal-poor Stars Using a Machine-learning Classification Algorithm"
+title: "GALAH — Estrelas Extremamente Pobres em Metais"
 tags:
   - artigo
   - pesquisa

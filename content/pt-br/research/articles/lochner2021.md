@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "ASTRONOMALY: Personalised active anomaly detection in astronomical data"
+title: "ASTRONOMALY"
 tags:
   - artigo
   - pesquisa

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Gaia Early Data Release 3. The Gaia Catalogue of Nearby Stars"
+title: "Gaia EDR3 — Gaia Catalogue of Nearby Stars"
 tags:
   - artigo
   - pesquisa
