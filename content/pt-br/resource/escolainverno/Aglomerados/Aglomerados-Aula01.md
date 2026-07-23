@@ -180,7 +180,7 @@ Detecta as galáxias membro diretamente. Problema principal: a **projeção** �
 - **Espectroscopia:** mede o redshift individual de cada galáxia, resolvendo o problema da projeção (galáxias com redshift muito diferente do aglomerado não são membros).
 
 ### Domínio do gás (raio-X)
-Como a massa bariônica do aglomerado está majoritariamente no gás quente do ICM, observações em **raio-X** (ex.: satélites **Chandra**, **XRISM**, **XMM-Newton**) detectam essa emissão diretamente. Vantagem importante: **não há problema de projeção**, pois o gás está fisicamente distribuído de forma suave por todo o aglomerado (ao contrário de galáxias individuais espalhadas ao acaso na linha de visada).
+Como a massa bariônica do aglomerado está majoritariamente no gás quente do ICM, observações em **raio-X** (ex.: satélites **Chandra**, **XRISM**, **XMM-Newton**) detectam essa emissão diretamente. O mecanismo físico é o **bremsstrahlung térmico**: elétrons livres do plasma são desacelerados e desviados por íons positivos, emitindo a energia cinética perdida como fótons de raio-X, numa taxa proporcional a $\epsilon_X \propto n_e^2\,T$ ($n_e$ = densidade de elétrons, $T$ = temperatura do gás). Essa dependência **quadrática** com a densidade é o que torna o raio-X uma ferramenta tão poderosa: a emissão fica fortemente concentrada no núcleo do aglomerado, e **não há problema de projeção** — diferente da sobreposição óptica (que pode ser acidental), o gás só emite raio-X se estiver de fato confinado num poço de potencial gravitacional real, profundo e tridimensional.
 
 ### Domínio de micro-ondas — Efeito Sunyaev-Zel'dovich (SZ)
 Fótons "frios" da **Radiação Cósmica de Fundo (CMB)**, ao atravessarem o gás extremamente quente do ICM, colidem com elétrons de alta energia e **ganham energia** no processo — um **efeito Compton inverso**. Isso distorce ligeiramente o espectro da CMB na direção do aglomerado, criando uma assinatura característica conhecida como **efeito Sunyaev-Zel'dovich (SZ)**, hoje usada para detectar aglomerados distantes independentemente do brilho óptico ou de raio-X.
@@ -211,6 +211,7 @@ Mapeia a massa **total** (incluindo matéria escura) de forma independente do g�
 ---
 
 ## 🔗 Referências e correlatos
+- [Slides oficiais da Aula 01 (PDF)](assets/escolainverno/aulas/mc4/L01.pdf)
 - [Página do Prof. Rogério Monteiro-Oliveira — Aula 01](https://www.monteiro-oliveira.com/talks)
 - Simulação **Millennium Run**
 - [Aula 02](pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — formação hierárquica e transformação ambiental de galáxias em aglomerados

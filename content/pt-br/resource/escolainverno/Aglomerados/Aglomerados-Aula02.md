@@ -142,6 +142,7 @@ O gás do ICM no núcleo do aglomerado é denso o suficiente para que seu **temp
 ---
 
 ## 🔗 Referências e correlatos
+- [Slides oficiais da Aula 02 (PDF)](assets/escolainverno/aulas/mc4/L02.pdf)
 - [Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — teorema do virial, ICM e detecção de aglomerados
 - [Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03)
 - [Cosmologia — Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — teia cósmica e estrutura em grande escala

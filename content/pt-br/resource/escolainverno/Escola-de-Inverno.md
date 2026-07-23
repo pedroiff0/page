@@ -120,12 +120,12 @@ O Sistema Solar se formou a partir do colapso gravitacional de uma nuvem molecul
 
 ## 📎 Indicativo de materiais
 
-Status das notas de cada aula/palestra e se já existe material oficial (slides/PDF) anexado — nenhum PDF oficial foi disponibilizado até agora, então essa coluna serve para lembrar de voltar aqui assim que sair.
+Status das notas de cada aula/palestra e se já existe material oficial (slides/PDF) anexado — os slides do minicurso de Aglomerados (Rogério) já chegaram, o resto ainda não.
 
 | Nota | Status das notas | Slides/PDF oficial |
 | --- | --- | --- |
-| [[Aglomerados-Aula01\|Aglomerados — Aula 01]] | ✅ Completa | ⏳ Não disponível |
-| [[Aglomerados-Aula02\|Aglomerados — Aula 02]] | ✅ Completa | ⏳ Não disponível |
+| [[Aglomerados-Aula01\|Aglomerados — Aula 01]] | ✅ Completa | ✅ [Disponível](assets/escolainverno/aulas/mc4/L01.pdf) |
+| [[Aglomerados-Aula02\|Aglomerados — Aula 02]] | ✅ Completa | ✅ [Disponível](assets/escolainverno/aulas/mc4/L02.pdf) |
 | [[Aglomerados-Aula03\|Aglomerados — Aula 03]] | 🕐 Ainda não aconteceu (24/07) | ⏳ Não disponível |
 | [[ArqueologiaGalactica-Aula01\|Arqueologia Galáctica — Aula 01]] | ✅ Completa | ⏳ Não disponível |
 | [[ArqueologiaGalactica-Aula02\|Arqueologia Galáctica — Aula 02]] | ✅ Completa | ⏳ Não disponível |
