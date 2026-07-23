@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "4º Período"
-order: 4
+{"publish":true,"title":"4º Período","created":"2026-07-22T23:28:38.634-03:00","modified":"2026-07-22T23:28:38.634-03:00"}
 ---
 
 > [!note] Sobre este período

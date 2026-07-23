@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Desenvolvimento Web"
-tags:
- - disciplina
- - basico
+{"publish":true,"title":"Desenvolvimento Web","created":"2026-07-22T23:18:58.779-03:00","modified":"2026-07-22T23:18:58.779-03:00","tags":["disciplina","basico"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -29,14 +25,19 @@ Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web.
 ## 📖 Conteúdo Programático
 
 1. Programação para Web
- - História da Internet e da World Wide Web.
- - Desenvolvimento Front-End
- - Desenvolvimento Back-End
+
+- História da Internet e da World Wide Web.
+- Desenvolvimento Front-End
+- Desenvolvimento Back-End
+
 2. Frameworks Web
- - Introdução à frameworks para desenvolvimento web
+
+- Introdução à frameworks para desenvolvimento web
+
 3. Acesso a banco de dados em sistemas Web
- - Conexão com Sistema de Gerenciamento de Banco de Dados
- - Engenharia Web
+
+- Conexão com Sistema de Gerenciamento de Banco de Dados
+- Engenharia Web
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

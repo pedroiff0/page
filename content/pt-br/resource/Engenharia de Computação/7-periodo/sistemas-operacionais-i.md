@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Sistemas Operacionais I"
-tags:
- - disciplina
- - profissionalizante
+{"publish":true,"title":"Sistemas Operacionais I","created":"2026-07-22T23:18:58.779-03:00","modified":"2026-07-22T23:18:58.779-03:00","tags":["disciplina","profissionalizante"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,42 +31,47 @@ Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Me
 ## 📖 Conteúdo Programático
 
 1. Introdução
- - O que é um Sistema Operacional?
- - Revisão sobre Hardware de Computadores
- - Tipos de Sistemas Operacionais
- - Conceitos sobre Sistemas Operacionais
- - i. Processos
- - ii. Espaços de Endereçamento
- - iii. Arquivos
- - iv. Entrada e Saída
- - v. Segurança
- - vi. Interpretador de Comandos
- - Chamadas de Sistemas
- - i. Chamadas de Gerenciamento de Processos
- - ii. Chamadas de Gerenciamento de Gerenciamento de Arquivos
- - iii. Chamadas de Gerenciamento de Diretórios
- - iv. Outras Chamadas de Sistema
- - Estrutura de Sistemas Operacionais
- - i. Sistemas Monolíticos
- - ii. Sistemas em Camadas
- - iii. Micronúcleo
- - iv. Modelo Cliente-Servidor
- - v. Máquinas Virtuais
- - vi. Exonúcleo
+
+- O que é um Sistema Operacional?
+- Revisão sobre Hardware de Computadores
+- Tipos de Sistemas Operacionais
+- Conceitos sobre Sistemas Operacionais
+- i. Processos
+- ii. Espaços de Endereçamento
+- iii. Arquivos
+- iv. Entrada e Saída
+- v. Segurança
+- vi. Interpretador de Comandos
+- Chamadas de Sistemas
+- i. Chamadas de Gerenciamento de Processos
+- ii. Chamadas de Gerenciamento de Gerenciamento de Arquivos
+- iii. Chamadas de Gerenciamento de Diretórios
+- iv. Outras Chamadas de Sistema
+- Estrutura de Sistemas Operacionais
+- i. Sistemas Monolíticos
+- ii. Sistemas em Camadas
+- iii. Micronúcleo
+- iv. Modelo Cliente-Servidor
+- v. Máquinas Virtuais
+- vi. Exonúcleo
+
 2. Processos e Threads
- - Processos
- - Threads
- - Comunicação entre Processos
- - Escalonamento
- - Problemas Básicos de IPC
+
+- Processos
+- Threads
+- Comunicação entre Processos
+- Escalonamento
+- Problemas Básicos de IPC
+
 3. Gerenciamento de Memória
- - Sem Abstração de Memória
- - Abstração de Memória: Espaços de Endereçamento
- - Memória Virtual
- - Algoritmos de Substituição de Páginas
- - Questões de Projeto para Sistemas de Paginação
- - Questões de Implementação
- - Segmentação
+
+- Sem Abstração de Memória
+- Abstração de Memória: Espaços de Endereçamento
+- Memória Virtual
+- Algoritmos de Substituição de Páginas
+- Questões de Projeto para Sistemas de Paginação
+- Questões de Implementação
+- Segmentação
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Algoritmos e Estruturas de Dados I"
-tags:
- - disciplina
- - profissionalizante
+{"publish":true,"title":"Algoritmos e Estruturas de Dados I","created":"2026-07-22T23:18:58.771-03:00","modified":"2026-07-22T23:18:58.771-03:00","tags":["disciplina","profissionalizante"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -33,31 +29,42 @@ Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de
 ## 📖 Conteúdo Programático
 
 1. Estruturas de Dados Homogêneas:
- - Vetores;
- - Marizes.
+
+- Vetores;
+- Marizes.
+
 2. Estruturas de Dados Heterogêneas:
- - Registro.
+
+- Registro.
+
 3. Passagem de Parâmetros:
- - Passagem de parâmetros por valor;
- - Passagem de parâmetros por referência.
+
+- Passagem de parâmetros por valor;
+- Passagem de parâmetros por referência.
+
 4. Alocação Dinâmica de Memória
- - Ponteiros
+
+- Ponteiros
+
 5. Estruturas de Dados Lineares:
- - Listas Lineares;
- - Listas Simplesmente Encadeadas;
- - Listas Duplamente Encadeada;
- - Listas Circulares;
- - Pilhas;
- - Filas;
- - Listas Ordenadas.
+
+- Listas Lineares;
+- Listas Simplesmente Encadeadas;
+- Listas Duplamente Encadeada;
+- Listas Circulares;
+- Pilhas;
+- Filas;
+- Listas Ordenadas.
+
 6. Recursividade
 7. Algoritmos para Pesquisa e Ordenação
- - Busca Sequencial;
- - Busca Binária;
- - Buble-Sort;
- - Merge-Sort;
- - Heap-Sort;
- - Quick-Sort.
+
+- Busca Sequencial;
+- Busca Binária;
+- Buble-Sort;
+- Merge-Sort;
+- Heap-Sort;
+- Quick-Sort.
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

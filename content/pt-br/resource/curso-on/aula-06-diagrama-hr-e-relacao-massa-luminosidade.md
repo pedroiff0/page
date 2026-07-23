@@ -1,20 +1,7 @@
 ---
-publish: true
-title: "📊 Aula 06 — Diagrama HR e Relação Massa-Luminosidade"
-titulo: CursoON-Aula06
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Como medir as propriedades físicas fundamentais das estrelas e como o diagrama HR revela a relação entre massa, luminosidade e tempo de vida
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - diagrama-hr
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"📊 Aula 06 — Diagrama HR e Relação Massa-Luminosidade","created":"2026-07-23","modified":"2026-07-23T00:20:40.242-03:00","tags":["curso-on","arqueologia-galactica","populacoes-estelares","diagrama-hr"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 📊 Aula 06 — Diagrama HR e Relação Massa-Luminosidade
 
 > [!note] Resumo
@@ -45,7 +32,7 @@ Três propriedades fundamentais controlam a evolução de uma estrela: **massa**
 
 ## 📈 O diagrama Hertzsprung-Russell
 
-O **Diagrama HR** organiza estrelas por temperatura/cor (eixo x, decrescente) vs. luminosidade/magnitude absoluta (eixo y) [Russell 1914]. Foi um esforço monumental de muitos astrônomos: a luminosidade só pode ser conhecida se a distância for medida. A evolução dos dados é dramática:
+O **Diagrama HR** organiza estrelas por temperatura/cor (eixo x, decrescente) vs. luminosidade/magnitude absoluta (eixo y) \[Russell 1914]. Foi um esforço monumental de muitos astrônomos: a luminosidade só pode ser conhecida se a distância for medida. A evolução dos dados é dramática:
 
 - **Russell (1914):** diagrama HR original, poucas estrelas.
 - **Hipparcos (1997):** ~50 mil estrelas com distâncias medidas por paralaxe.
@@ -70,9 +57,9 @@ O **Diagrama HR** organiza estrelas por temperatura/cor (eixo x, decrescente) vs
 
 ## ⚡ Relação massa-luminosidade
 
-Da relação empírica entre massa e luminosidade das estrelas [Reid 1987]: $\uparrow$ massa $\Rightarrow$ $\uparrow$ temperatura e $\uparrow$ luminosidade. Em escala log-log, essa relação é bem descrita por uma lei de potência:
+Da relação empírica entre massa e luminosidade das estrelas \[Reid 1987]: $\uparrow$ massa $\Rightarrow$ $\uparrow$ temperatura e $\uparrow$ luminosidade. Em escala log-log, essa relação é bem descrita por uma lei de potência:
 
-$$L \propto M^{\,\alpha}, \qquad \alpha \approx 4$$
+$L \propto M^{\,\alpha}, \qquad \alpha \approx 4$
 
 válida em um intervalo limitado de massas ($\sim0{,}1$ a $\sim10\,M_\odot$). Essa relação implica que a classificação espectral não é apenas uma sequência de temperaturas, mas também **uma sequência de massas** ao longo da Sequência Principal.
 
@@ -80,11 +67,11 @@ válida em um intervalo limitado de massas ($\sim0{,}1$ a $\sim10\,M_\odot$). Es
 
 Combinando a Lei de Stefan-Boltzmann ($L = 4\pi R^2 \sigma T^4$) com a equivalência massa-energia da fusão nuclear ($E = mc^2$, considerando que só $\sim$10% da massa total de uma estrela é de fato consumida no núcleo), o tempo de vida $t_{SP}$ é proporcional à razão entre massa de combustível disponível e a taxa de consumo (luminosidade):
 
-$$t_{SP} \propto \frac{M}{L}$$
+$t_{SP} \propto \frac{M}{L}$
 
 Combinando essa relação com a relação massa-luminosidade ($L\propto M^4$):
 
-$$t_{SP} \propto \frac{M}{M^4} = M^{-3}$$
+$t_{SP} \propto \frac{M}{M^4} = M^{-3}$
 
 ou seja, **o tempo de vida na Sequência Principal decresce fortemente com a massa** — uma estrela 10× mais massiva que o Sol vive, grosso modo, $10^3$ vezes menos. Esse resultado é a base quantitativa de por que estrelas massivas evoluem "rápido demais" apesar do maior reservatório de combustível, e conecta diretamente com o papel dos **turnoffs** de aglomerados como relógios de idade (Aula 02).
 

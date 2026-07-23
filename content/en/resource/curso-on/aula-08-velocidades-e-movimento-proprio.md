@@ -1,20 +1,7 @@
 ---
-publish: true
-title: "🚀 Lecture 08 — Velocities & Proper Motion"
-titulo: CursoON-Aula08
-disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
-conteudo: Radial and tangential velocity, the Local Standard of Rest, and stellar proper motion
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - galactic-archaeology
-  - stellar-populations
-  - stellar-kinematics
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"🚀 Lecture 08 — Velocities & Proper Motion","created":"2026-07-23","modified":"2026-07-23T00:27:28.393-03:00","tags":["curso-on","galactic-archaeology","stellar-populations","stellar-kinematics"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 🚀 Lecture 08 — Velocities & Proper Motion
 
 > [!note] Summary
@@ -34,7 +21,7 @@ A star's space velocity, relative to the Sun, decomposes into two vectors:
 - **Radial velocity ($v_R$):** along the line of sight, measured via the **Doppler shift** of spectral lines.
 - **Tangential velocity:** perpendicular to the line of sight, measured via **astrometric** techniques (proper motion + distance).
 
-$$v_R = c\,\frac{\Delta\lambda}{\lambda_0}$$
+$v_R = c\,\frac{\Delta\lambda}{\lambda_0}$
 
 where $\Delta\lambda$ is the Doppler shift and $\lambda_0$ the transition's rest wavelength. What's measured directly at the telescope is the **topocentric** $v_R$, which must be successively corrected to Earth's center (geocentric $v_R$) and then to the Sun's center (heliocentric $v_R$).
 
@@ -46,11 +33,11 @@ The reference frame for velocities in the Galaxy is based on the galactic Cartes
 
 The **LSR** is defined by the **average** velocity of stars in the solar neighborhood. Since the only global motion of that neighborhood is rotational, the LSR corresponds to the circular velocity at the Sun's position:
 
-$$(\Pi_{LSR}, \Theta_{LSR}, Z_{LSR}) = (0, \Theta_0, 0)$$
+$(\Pi_{LSR}, \Theta_{LSR}, Z_{LSR}) = (0, \Theta_0, 0)$
 
 The value of $\Theta_0$ is still poorly constrained — the literature uses values between 180 and 250 km/s, with **220 km/s** the most commonly adopted. A star's **peculiar** velocity relative to the LSR is the difference between its velocity and $\Theta_0$.
 
-The **Sun** itself has a peculiar velocity relative to the LSR — generally adopted as $(u,v,w)_\odot = (-9, 11, 6)\,$km/s [see Mihalas & Binney 1980, Ch. 6, for the measurement methods]. That is, the **Sun moves somewhat faster** than the strict LSR. Any nearby star's heliocentric velocity is therefore the difference between the star's and the Sun's peculiar velocities.
+The **Sun** itself has a peculiar velocity relative to the LSR — generally adopted as $(u,v,w)_\odot = (-9, 11, 6)\,$km/s \[see Mihalas & Binney 1980, Ch. 6, for the measurement methods]. That is, the **Sun moves somewhat faster** than the strict LSR. Any nearby star's heliocentric velocity is therefore the difference between the star's and the Sun's peculiar velocities.
 
 ### Radial velocity in other reference frames
 
@@ -65,7 +52,7 @@ The apparent shift of a star on the celestial sphere, caused by its **tangential
 
 To convert proper motion ($\mu$) into tangential velocity, the **distance** $d$ to the object must be known (see Lecture 07):
 
-$$v_{tan} = 4.74\,\mu\,[''/\text{yr}]\; \cdot\; d\,[\text{pc}] \quad \text{km/s}$$
+$v_{tan} = 4.74\,\mu\,[''/\text{yr}]\; \cdot\; d\,[\text{pc}] \quad \text{km/s}$
 
 The observed proper motion will be **large** when:
 

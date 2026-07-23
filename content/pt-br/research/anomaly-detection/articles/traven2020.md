@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "GALAH — Binárias FGK"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"GALAH — Binárias FGK","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Obtém uma grande amostra de binárias espectroscópicas de linha dupla (SB2) a partir do GALAH combinando espectros, fotometria e astrometria.
 
-*Traven, G. (2020)*
+_Traven, G. (2020)_
 
 ## Síntese
 

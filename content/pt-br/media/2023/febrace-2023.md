@@ -1,9 +1,7 @@
 ---
-publish: true
-title: FEBRACE 2023
-photoFolder: febrace2023
-created: 2023-03-20
+{"publish":true,"title":"FEBRACE 2023","created":"2023-03-20","modified":"2026-07-23T00:37:45.235-03:00"}
 ---
+
 # 🔬 FEBRACE 2023
 
 > [!note] Resumo

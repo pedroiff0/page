@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Física Experimental II"
-tags:
- - disciplina
- - basico
+{"publish":true,"title":"Física Experimental II","created":"2026-07-22T23:18:58.775-03:00","modified":"2026-07-22T23:18:58.775-03:00","tags":["disciplina","basico"]}
 ---
 
 > [!note] Sobre esta disciplina

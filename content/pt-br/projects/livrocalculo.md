@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "Livro-Texto de Cálculo"
-created: 2026-03-13
+{"publish":true,"title":"Livro-Texto de Cálculo","created":"2026-03-13","modified":"2026-07-22T23:33:53.660-03:00"}
 ---
 
 > [!note] Em uma frase

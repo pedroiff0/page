@@ -1,8 +1,5 @@
 ---
-publish: true
-title: "🔭 Galactic Archaeology and Stellar Populations (ON)"
-order: 5
-created: 2026-07-23
+{"publish":true,"title":"🔭 Galactic Archaeology and Stellar Populations (ON)","created":"2026-07-23","modified":"2026-07-23T00:24:05.407-03:00"}
 ---
 
 > [!note] Summary
@@ -50,7 +47,7 @@ Graduate course at the National Observatory (ON), with Stellar Evolution as prer
 1. [Concept & History](en/resource/curso-on/aula-01-conceito-e-historico) — what galactic archaeology is, SSPs, and the history from Herschel to Searle & Zinn.
 2. [HR Diagram & Star Clusters](en/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — open vs. globular clusters, IMF, isochrones, populations I/II/III.
 3. [Magnitudes, Colors & Spectral Classification](en/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral) — magnitude scale, absolute magnitude, OBAFGKM.
-4. [Spectroscopy & Metallicity](en/resource/curso-on/aula-04-espectroscopia-e-metalicidade) — Kirchhoff's laws, line formation, [Fe/H].
+4. [Spectroscopy & Metallicity](en/resource/curso-on/aula-04-espectroscopia-e-metalicidade) — Kirchhoff's laws, line formation, \[Fe/H].
 5. [Reddening, Extinction & IMF](en/resource/curso-on/aula-05-avermelhamento-extincao-e-imf) — the interstellar medium, extinction, $R_V$.
 6. [HR Diagram & Mass-Luminosity Relation](en/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade) — how to measure stellar properties, $L\propto M^4$.
 7. [Distances, Distance Scale & Coordinates](en/resource/curso-on/aula-07-distancias-e-coordenadas) — the full cosmic distance ladder, galactic coordinates.

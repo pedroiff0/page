@@ -1,18 +1,14 @@
 ---
-publish: true
-title: "Análise e Desempenho de Sistemas"
-tags:
- - recursos
- - computacao
+{"publish":true,"title":"Análise e Desempenho de Sistemas","created":"2026-07-21T21:10:23.712-03:00","modified":"2026-07-21T21:10:23.712-03:00","tags":["recursos","computacao"]}
 ---
 
 > [!info] Análise e desempenho de sistemas é a arte de responder, com números, à pergunta "esse sistema aguenta?": quantos usuários, com que tempo de resposta, até quando. Combina teoria das filas, medição, simulação e projeto de capacidade — a matemática por trás de sistemas que não caem.
 
 ## Por que estudar isso?
 
-Todo ano, na abertura das matrículas ou na Black Friday, algum sistema grande cai — e a manchete é sempre a mesma: "site não aguentou o volume de acessos". Isso não é azar: é falta de análise de desempenho. Quem domina esta área faz a conta *antes*: se chegam em média 200 requisições por segundo e cada uma leva 40 ms para ser atendida, qual a utilização do servidor? Qual o tempo de espera na fila? O que acontece se o tráfego dobrar? A teoria das filas responde com precisão — e revela um comportamento traiçoeiro: o tempo de resposta não cresce linearmente com a carga, ele explode quando a utilização se aproxima de 100%. Um sistema a 70% de uso parece folgado; a 95%, está a um pico de tráfego do colapso.
+Todo ano, na abertura das matrículas ou na Black Friday, algum sistema grande cai — e a manchete é sempre a mesma: "site não aguentou o volume de acessos". Isso não é azar: é falta de análise de desempenho. Quem domina esta área faz a conta _antes_: se chegam em média 200 requisições por segundo e cada uma leva 40 ms para ser atendida, qual a utilização do servidor? Qual o tempo de espera na fila? O que acontece se o tráfego dobrar? A teoria das filas responde com precisão — e revela um comportamento traiçoeiro: o tempo de resposta não cresce linearmente com a carga, ele explode quando a utilização se aproxima de 100%. Um sistema a 70% de uso parece folgado; a 95%, está a um pico de tráfego do colapso.
 
-Essas mesmas ferramentas alimentam o que o mercado chama de *system design* e planejamento de capacidade: dimensionar servidores, prever custos de nuvem, definir SLAs realistas. É conhecimento raro entre desenvolvedores — e por isso mesmo valorizado.
+Essas mesmas ferramentas alimentam o que o mercado chama de _system design_ e planejamento de capacidade: dimensionar servidores, prever custos de nuvem, definir SLAs realistas. É conhecimento raro entre desenvolvedores — e por isso mesmo valorizado.
 
 ## Trilha de estudo
 
@@ -34,7 +30,7 @@ Quando o sistema é complexo demais para fórmula fechada, entra a simulação d
 
 ## Conceitos que você precisa dominar
 
-- **Latência vs. vazão** — latência é quanto tempo *uma* requisição leva; vazão é quantas requisições o sistema processa *por unidade de tempo*. São coisas diferentes que muita gente mistura: um caminhão de HDs tem vazão altíssima e latência péssima. Otimizar uma frequentemente piora a outra.
+- **Latência vs. vazão** — latência é quanto tempo _uma_ requisição leva; vazão é quantas requisições o sistema processa _por unidade de tempo_. São coisas diferentes que muita gente mistura: um caminhão de HDs tem vazão altíssima e latência péssima. Otimizar uma frequentemente piora a outra.
 - **Utilização e o joelho da curva** — utilização é a fração do tempo que o recurso passa ocupado. A consequência central da teoria das filas: o tempo de espera cresce de forma não linear com a utilização e tende ao infinito quando ela se aproxima de 1. Por isso ninguém sério dimensiona servidor para rodar a 95%.
 - **Lei de Little (L = λW)** — o número médio de itens no sistema é igual à taxa de chegada vezes o tempo médio de permanência. Vale para praticamente qualquer sistema estável, sem hipóteses sobre distribuições — de fila de banco a pool de conexões. É a ferramenta de estimativa rápida mais poderosa da área.
 - **Modelos de fila (M/M/1 e a notação de Kendall)** — a formalização de chegadas aleatórias, um servidor, fila infinita. A notação A/S/c descreve a distribuição de chegadas, a de serviço e o número de servidores. Dominar o M/M/1 dá a intuição; as variações (M/M/c, filas em rede) generalizam para sistemas reais.

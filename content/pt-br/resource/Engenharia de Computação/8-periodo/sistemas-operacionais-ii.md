@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Sistemas Operacionais II"
-tags:
- - disciplina
- - profissionalizante
+{"publish":true,"title":"Sistemas Operacionais II","created":"2026-07-22T23:18:58.779-03:00","modified":"2026-07-22T23:18:58.779-03:00","tags":["disciplina","profissionalizante"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -29,26 +25,31 @@ Sistemas de Arquivos; Entrada/Saída; Deadlocks.
 ## 📖 Conteúdo Programático
 
 1. Sistemas de Arquivos
- - Arquivos
- - Diretórios
- - Implementação do Sistema de Arquivos
- - Gerenciamento e Otimização dos Sistemas
- - Exemplos de Sistemas de Arquivos
+
+- Arquivos
+- Diretórios
+- Implementação do Sistema de Arquivos
+- Gerenciamento e Otimização dos Sistemas
+- Exemplos de Sistemas de Arquivos
+
 2. Entrada/Saída
- - Princípios do Hardware de E/S
- - Princípios do Software E/S
- - Camadas do Software E/S
- - Discos
- - Relógios
- - Interfaces com o usuário g. Gerenciamento de Energia
+
+- Princípios do Hardware de E/S
+- Princípios do Software E/S
+- Camadas do Software E/S
+- Discos
+- Relógios
+- Interfaces com o usuário g. Gerenciamento de Energia
+
 3. Deadlocks
- - Recursos
- - Introdução a Deadlocks
- - Algoritmo do Avestruz
- - Detecção e Recuperação de Deadlocks
- - Evitando Deadlocks
- - Prevenção de Deadlocks
- - Outras Questões
+
+- Recursos
+- Introdução a Deadlocks
+- Algoritmo do Avestruz
+- Detecção e Recuperação de Deadlocks
+- Evitando Deadlocks
+- Prevenção de Deadlocks
+- Outras Questões
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

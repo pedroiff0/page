@@ -1,6 +1,5 @@
 ---
-publish: true
-title: "Palestras"
+{"publish":true,"title":"Palestras","created":"2026-07-22T23:20:33.760-03:00","modified":"2026-07-22T23:20:33.760-03:00"}
 ---
 
 > [!note] Resumo

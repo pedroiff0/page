@@ -1,7 +1,5 @@
 ---
-publish: true
-title: Projetos
-order: 5
+{"publish":true,"title":"Projetos","created":"2026-07-22T23:35:31.580-03:00","modified":"2026-07-22T23:35:31.580-03:00"}
 ---
 
 > [!note] Resumo

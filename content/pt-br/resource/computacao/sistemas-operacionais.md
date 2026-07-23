@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Sistemas Operacionais"
-tags:
- - recursos
- - computacao
+{"publish":true,"title":"Sistemas Operacionais","created":"2026-07-21T21:10:23.861-03:00","modified":"2026-07-21T21:10:23.861-03:00","tags":["recursos","computacao"]}
 ---
 
 > [!info] O que é este tópico
@@ -50,7 +46,7 @@ O que dominar: memória virtual e paginação (agora do lado da política: algor
 - **Achar que concorrência é tópico avançado ignorável** — Todo software moderno é concorrente: servidores web, interfaces gráficas, apps mobile. Quem adia o entendimento de condição de corrida e mutex escreve bugs intermitentes que não sabe nem reproduzir, quanto mais consertar.
 - **Testar programa concorrente "algumas vezes" e concluir que funciona** — Condição de corrida pode aparecer uma vez a cada dez mil execuções. Ausência de falha no teste não é prova de correção; a garantia vem do raciocínio sobre as seções críticas, não da repetição.
 - **Confundir memória virtual com swap** — Memória virtual é o mecanismo de tradução de endereços que existe sempre, mesmo com RAM sobrando; swap é só o transbordo pra disco. Misturar os dois impede de entender tanto o desempenho quanto as ferramentas de diagnóstico (`free`, `vmstat`).
-- **Tratar o "matar processo" como solução, não como sintoma** — `kill -9` resolve o momento, mas quem para aí nunca aprende. O hábito profissional é perguntar *por que* o processo travou: bloqueado em quê? esperando qual recurso? Os conceitos da disciplina são exatamente o vocabulário dessa pergunta.
+- **Tratar o "matar processo" como solução, não como sintoma** — `kill -9` resolve o momento, mas quem para aí nunca aprende. O hábito profissional é perguntar _por que_ o processo travou: bloqueado em quê? esperando qual recurso? Os conceitos da disciplina são exatamente o vocabulário dessa pergunta.
 
 ## 📚 Materiais recomendados
 
@@ -62,7 +58,7 @@ O que dominar: memória virtual e paginação (agora do lado da política: algor
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- TANENBAUM, A. S. *Sistemas Operacionais Modernos*. — A referência mundial da disciplina: processos, memória, arquivos, E/S e estudos de caso (Linux, Windows). É o livro pra aprofundar cada etapa desta trilha.
+- TANENBAUM, A. S. _Sistemas Operacionais Modernos_. — A referência mundial da disciplina: processos, memória, arquivos, E/S e estudos de caso (Linux, Windows). É o livro pra aprofundar cada etapa desta trilha.
 
 ## 🔗 Referências externas
 

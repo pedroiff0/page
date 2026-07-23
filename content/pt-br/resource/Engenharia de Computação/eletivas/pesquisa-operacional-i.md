@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Pesquisa Operacional I"
-tags:
- - disciplina
- - basico
+{"publish":true,"title":"Pesquisa Operacional I","created":"2026-07-22T23:18:58.783-03:00","modified":"2026-07-22T23:18:58.783-03:00","tags":["disciplina","basico"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -33,38 +29,47 @@ Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema d
 ## 📖 Conteúdo Programático
 
 1. Introdução à Pesquisa Operacional
- - Definição de Pesquisa Operacional
- - Metodologia da Pesquisa Operacional
- - Programação Matemática
- - Classificação dos Problemas de Programação Matemática
+
+- Definição de Pesquisa Operacional
+- Metodologia da Pesquisa Operacional
+- Programação Matemática
+- Classificação dos Problemas de Programação Matemática
+
 2. Programação Linear (PL)
- - Modelagem em PL
- - Manipulação de Problemas de PL
- - Formulação Canônica e Padrão
- - Representação Geométrica de um Problema de PL
+
+- Modelagem em PL
+- Manipulação de Problemas de PL
+- Formulação Canônica e Padrão
+- Representação Geométrica de um Problema de PL
+
 3. Método Simplex
- - Fundamentos Teóricos do Método Simplex
- - O Algoritmo Simplex
- - Casos Especiais para o Simplex
- - Adaptação de Outras Formas de Modelo
- - Dificuldades Computacionais
+
+- Fundamentos Teóricos do Método Simplex
+- O Algoritmo Simplex
+- Casos Especiais para o Simplex
+- Adaptação de Outras Formas de Modelo
+- Dificuldades Computacionais
+
 4. Dualidade e Análise de Sensibilidade
- - Forma Simétrica
- - Interpretação Econômica
- - Teoria de Folgas Complementares
- - Aplicações Computacionais
+
+- Forma Simétrica
+- Interpretação Econômica
+- Teoria de Folgas Complementares
+- Aplicações Computacionais
+
 5. Otimização de Redes
- - Modelos de Redes
- - Problemas de Transporte
- - O Problema da Designação
- - O Problema do Transbordo
- - Modelos Determinístico de Estoque
+
+- Modelos de Redes
+- Problemas de Transporte
+- O Problema da Designação
+- O Problema do Transbordo
+- Modelos Determinístico de Estoque
 
 ## 📕 Bibliografia Básica
 
 1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015.
 2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. ed. São Paulo, SP: Atlas, 2004.
-4. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman,
+3. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman,
 
 ## 📗 Bibliografia Complementar
 
@@ -72,5 +77,5 @@ Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema d
 6. 5ª Edição. Rio de Janeiro: Atlas, 2014.
 7. GOLDBARG, M., LUNA, H. Otimização Combinatória e Programação Linear: Modelos e Algoritmos.
 8. 2ª Edição. São Paulo: Elsevier, 2005.
-9. ______. Otimização Combinatória e Meta-Heurísticas: Algoritmos e Aplicações São Paulo: Elsevier, 4. ______. Programação Linear e Fluxos em Rede. São Paulo: Elsevier, 2014.
+9. \_\_\_\_\_\_. Otimização Combinatória e Meta-Heurísticas: Algoritmos e Aplicações São Paulo: Elsevier, 4. \_\_\_\_\_\_. Programação Linear e Fluxos em Rede. São Paulo: Elsevier, 2014.
 10. VIRGILLITO, S. B. Pesquisa Operacional: Métodos de Modelagem Quantitativa para a Tomada de Decisões. São Paulo: Saraiva, 2017.

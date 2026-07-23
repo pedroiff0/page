@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Informática Básica"
-tags:
- - recursos
- - computacao
+{"publish":true,"title":"Informática Básica","created":"2026-07-19T20:04:18.397-03:00","modified":"2026-07-19T20:04:18.397-03:00","tags":["recursos","computacao"]}
 ---
 
 > [!info] O que é este tópico

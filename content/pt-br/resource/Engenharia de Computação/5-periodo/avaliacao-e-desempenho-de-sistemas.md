@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Avaliação e Desempenho de Sistemas"
-tags:
- - disciplina
- - profissionalizante
+{"publish":true,"title":"Avaliação e Desempenho de Sistemas","created":"2026-07-22T23:18:58.775-03:00","modified":"2026-07-22T23:18:58.775-03:00","tags":["disciplina","profissionalizante"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -29,22 +25,29 @@ Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilíst
 ## 📖 Conteúdo Programático
 
 1. Visão Geral
- - Motivação
- - Técnicas de Avaliação de Desempenho
- - Metodologia Geral para Estudo de Modelagem
+
+- Motivação
+- Técnicas de Avaliação de Desempenho
+- Metodologia Geral para Estudo de Modelagem
+
 2. Modelos Determinísticos de Desempenho
- - Leis Fundamentais
- - Lei de Litle
- - Leis Operacionais
- - Limites Assintóticos
- - Análise do Valor Médio
+
+- Leis Fundamentais
+- Lei de Litle
+- Leis Operacionais
+- Limites Assintóticos
+- Análise do Valor Médio
+
 3. Introdução a Modelos Probabilísticos de Desempenho
- - Filas M/M/1
+
+- Filas M/M/1
+
 4. Modelos de Carga
- - Caracterização de Cargas
- - Benchmarking
- - Modelos de Comportamento de Usuários
- - Planejamento e Gerenciamento de Capacidade
+
+- Caracterização de Cargas
+- Benchmarking
+- Modelos de Comportamento de Usuários
+- Planejamento e Gerenciamento de Capacidade
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
@@ -57,7 +60,7 @@ Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilíst
 
 1. FOGLIATTI, M. C., MATTOS, N. M. C. Teoria de Filas. Rio de Janeiro, 2006.
 2. PRADO, D. Teoria de Filas e da Simulação – Volume 2. 5ª Edição. São Paulo: Falconi, 2017.
-3. ______. Usando o Arena em Simulação – Volume 3. 5ª Edição. São Paulo: Falconi, 2014.
+3. \_\_\_\_\_\_. Usando o Arena em Simulação – Volume 3. 5ª Edição. São Paulo: Falconi, 2014.
 
 ## 📗 Bibliografia Complementar
 

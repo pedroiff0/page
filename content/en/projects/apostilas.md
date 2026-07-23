@@ -1,7 +1,5 @@
 ---
-publish: true
-title: Course Guides
-created: 2026-04-05
+{"publish":true,"title":"Course Guides","created":"2026-04-05","modified":"2026-07-22T23:31:50.639-03:00"}
 ---
 
 > [!note] In one line

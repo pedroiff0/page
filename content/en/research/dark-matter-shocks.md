@@ -1,12 +1,7 @@
 ---
-publish: true
-title: "💥 Understanding Dark Matter through Extragalactic Shocks"
-created: 2023-03-01
-tags:
-  - dark-matter
-  - galaxy-clusters
-  - undergraduate-research
+{"publish":true,"title":"💥 Understanding Dark Matter through Extragalactic Shocks","created":"2023-03-01","modified":"2026-07-23T00:34:57.187-03:00","tags":["dark-matter","galaxy-clusters","undergraduate-research"]}
 ---
+
 # 💥 Understanding Dark Matter through Extragalactic Shocks
 
 > [!note] Summary
@@ -35,7 +30,7 @@ The work followed four stages:
 
 1. **Familiarization** with fundamental Astronomy concepts (parallax, OBAFGKM spectral classification, stellar evolution, Hubble's morphological galaxy classification — elliptical, spiral, irregular) and with the physics of colliding clusters.
 2. **Compiling and understanding Dawson's code** — first validated against the Bullet Cluster's own reference case (masses $1.5\times10^{14}$ and $1.5\times10^{15}\,M_\odot$, projected separation of 720 kpc), reproducing the original result. The core function, `MCEngine`, takes both clusters' masses, redshift, and projected distance, generating $10^4$ Monte Carlo samples (convergence already observed from $10^3$ iterations onward).
-3. **Obtaining ZuHone et al.'s (2018) data** — the *Galaxy Cluster Merger Catalog*, a repository of hydrodynamical cluster-merger simulations organized by mass ratio (1:1, 1:3, 1:10) and impact parameter (0, 500, 1000 kpc). The work focused on the 3 simulations with zero impact parameter (collision in the plane of the sky).
+3. **Obtaining ZuHone et al.'s (2018) data** — the _Galaxy Cluster Merger Catalog_, a repository of hydrodynamical cluster-merger simulations organized by mass ratio (1:1, 1:3, 1:10) and impact parameter (0, 500, 1000 kpc). The work focused on the 3 simulations with zero impact parameter (collision in the plane of the sky).
 4. **Applying Dawson's method** to each ZuHone simulation, comparing the code's estimated post-collision time against the simulation's known ground truth, with uncertainty estimated via `np.quantile` over the $10^4$ Monte Carlo samples.
 
 ## 📊 Results
@@ -63,8 +58,8 @@ This project was presented at **FEBRACE 2023** and **MOSTRATEC 2023** (Novo Hamb
 
 ## 🔗 References and related
 
-- Dawson, W. A. (2013) — *The Dynamics of Merging Clusters: A Monte Carlo Solution Applied to the Bullet and Musket Ball Clusters*, ApJ 772, 131. [MCMAC code](https://github.com/MCTwo/MCMAC).
-- ZuHone, J. et al. (2018) — *The Galaxy Cluster Merger Catalog: An Online Repository of Mock Observations from Simulated Galaxy Cluster Mergers*, ApJS 234, 4.
+- Dawson, W. A. (2013) — _The Dynamics of Merging Clusters: A Monte Carlo Solution Applied to the Bullet and Musket Ball Clusters_, ApJ 772, 131. [MCMAC code](https://github.com/MCTwo/MCMAC).
+- ZuHone, J. et al. (2018) — _The Galaxy Cluster Merger Catalog: An Online Repository of Mock Observations from Simulated Galaxy Cluster Mergers_, ApJS 234, 4.
 - Clowe, D. et al. — the Bullet Cluster, the classic evidence for spatial separation between dark matter and gas.
 - [MOSTRATEC 2023](pt-br/media/2023/mostratec-2023) — coverage of this project's presentation (Portuguese only)
 - [Anomaly Detection in Gaia Data](en/research/anomaly-detection) — another Astronomy research project, also grounded in the dynamics/kinematics of gravitational systems

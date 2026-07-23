@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Cálculo II"
-tags:
- - disciplina
- - basico
+{"publish":true,"title":"Cálculo II","created":"2026-07-22T23:18:58.771-03:00","modified":"2026-07-22T23:18:58.771-03:00","tags":["disciplina","basico"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -37,27 +33,38 @@ Aplicações da integral definida; Integrais impróprias; Funções de várias v
 ## 📖 Conteúdo Programático
 
 1. Aplicações da Integral Definida
- - Cálculo de área;
- - Volume de sólido de revolução;
- - Centro de massa;
- - Comprimento de arco.
+
+- Cálculo de área;
+- Volume de sólido de revolução;
+- Centro de massa;
+- Comprimento de arco.
+
 2. Integrais Impróprias
- - Formas indeterminadas;
- - Limites infinitos de integração.
+
+- Formas indeterminadas;
+- Limites infinitos de integração.
+
 3. Funções de Várias Variáveis
- - Funções de mais de uma variável;
- - Limites e continuidade.
+
+- Funções de mais de uma variável;
+- Limites e continuidade.
+
 4. Derivadas Parciais
- - Regra da cadeia;
- - Derivação implícita.
+
+- Regra da cadeia;
+- Derivação implícita.
+
 5. Aplicações das Derivadas Parciais
- - Derivada direcional e gradiente;
- - Planos tangentes e normais a superfícies;
- - Derivadas parciais de ordem superior.
+
+- Derivada direcional e gradiente;
+- Planos tangentes e normais a superfícies;
+- Derivadas parciais de ordem superior.
+
 6. Integração Múltipla
- - Integrais iteradas;
- - Integrais duplas;
- - Integrais triplas.
+
+- Integrais iteradas;
+- Integrais duplas;
+- Integrais triplas.
 
 ## 📕 Bibliografia Básica
 

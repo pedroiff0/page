@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Cálculo III"
-tags:
- - disciplina
- - basico
+{"publish":true,"title":"Cálculo III","created":"2026-07-22T23:18:58.775-03:00","modified":"2026-07-22T23:18:58.775-03:00","tags":["disciplina","basico"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -37,29 +33,33 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 ## 📖 Conteúdo Programático
 
 1. Funções a valores vetoriais
- - Definições, limite e continuidade
- - Curvas no plano e no espaço: forma vetorial
- - Limites de funções a valores vetoriais
- - Continuidade de funções a valores vetoriais
- - Diferenciação e integração
- - Derivadas de funções a valores vetoriais
- - Integrais de funções a valores vetoriais
- - Velocidade vetorial e escalar, aceleração vetorial
- - Comprimento de arco
- - Cálculo do comprimento de arco
- - A função comprimento de arco
- - O parâmetro comprimento de arco Análise vetorial
+
+- Definições, limite e continuidade
+- Curvas no plano e no espaço: forma vetorial
+- Limites de funções a valores vetoriais
+- Continuidade de funções a valores vetoriais
+- Diferenciação e integração
+- Derivadas de funções a valores vetoriais
+- Integrais de funções a valores vetoriais
+- Velocidade vetorial e escalar, aceleração vetorial
+- Comprimento de arco
+- Cálculo do comprimento de arco
+- A função comprimento de arco
+- O parâmetro comprimento de arco Análise vetorial
+
 2. Campos vetoriais
- - Definição
- - Campos conservativos
- - Função potencial
- - Condição para campos conservativos no plano
- - Rotacional de campos tridimensionais
- - Condição para campos conservativos tridimensionais
- - Divergência - Integrais de linha
- - Integrais de linha de campos escalares
- - Integrais de linha de campos vetoriais
- - Campos conservativos e independência de caminhos
+
+- Definição
+- Campos conservativos
+- Função potencial
+- Condição para campos conservativos no plano
+- Rotacional de campos tridimensionais
+- Condição para campos conservativos tridimensionais
+- Divergência - Integrais de linha
+- Integrais de linha de campos escalares
+- Integrais de linha de campos vetoriais
+- Campos conservativos e independência de caminhos
+
 3. Teorema de Green
 4. Teorema de Stokes
 5. Teorema da Divergência
@@ -73,17 +73,17 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 ## 📕 Bibliografia Básica
 
 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
-2. ______. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
+2. \_\_\_\_\_\_. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
 3. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 3. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
-4. ______. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
+4. \_\_\_\_\_\_. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
 5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
 
 ## 📗 Bibliografia Complementar
 
 1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro:
 2. Ciência Moderna, 2013.
-3. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013.
-4. ______. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 3. Rio de Janeiro: Ciência Moderna, 2013.
+3. \_\_\_\_\_\_. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013.
+4. \_\_\_\_\_\_. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 3. Rio de Janeiro: Ciência Moderna, 2013.
 5. FLEMMING, M. B., GONÇALVES, D. M. Cálculo C: Funções Vetoriais, Integrais Curvilíneas e Integrais de Superfície. 3ª Edição. São Paulo: Pearson, 2000.
 6. VALADARES, R. J. C. Cálculo e Aplicações II: Funções Vetoriais. Rio de Janeiro: Ciência Moderna, WEIR, M. D., HASS, J.
-7. THOMAS, G. B. Cálculo: Volume 2. 12ª Edição. São Paulo: Pearson Learning, ______. Cálculo: Volume 1. 12ª Edição. São Paulo: Pearson Learning, 2012.
+7. THOMAS, G. B. Cálculo: Volume 2. 12ª Edição. São Paulo: Pearson Learning, \_\_\_\_\_\_. Cálculo: Volume 1. 12ª Edição. São Paulo: Pearson Learning, 2012.

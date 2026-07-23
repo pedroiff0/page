@@ -1,8 +1,5 @@
 ---
-publish: true
-title: Pesquisa
-order: 1
-created: 2026-07-18T14:50:18.101-03:00
+{"publish":true,"title":"Pesquisa","created":"2026-07-18T14:50:18.101-03:00","modified":"2026-07-23T00:48:04.130-03:00"}
 ---
 
 > [!note] Resumo

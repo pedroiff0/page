@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Álgebra Linear e Geometria Analítica I"
-tags:
- - disciplina
- - basica
+{"publish":true,"title":"Álgebra Linear e Geometria Analítica I","created":"2026-07-22T23:28:38.634-03:00","modified":"2026-07-22T23:28:38.634-03:00","tags":["disciplina","basica"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -42,50 +38,61 @@ Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espa�
 5. Matriz Simétrica;
 6. Matriz Ortogonal;
 7. Determinantes
- - Determinante de uma Matriz;
- - Ordem e Representação;
- - Propriedades;
- - Cálculo do Determinante por uma Linha;
- - Cálculo do Determinante por Laplace;
- - Operações Elementares;
- - Cálculo do Determinante por Triangularização;
+
+- Determinante de uma Matriz;
+- Ordem e Representação;
+- Propriedades;
+- Cálculo do Determinante por uma Linha;
+- Cálculo do Determinante por Laplace;
+- Operações Elementares;
+- Cálculo do Determinante por Triangularização;
+
 8. Inversão de Matrizes:
- - Matriz Inversa;
- - Propriedades;
- - Inversão de Matrizes por Matriz Adjunta;
- - Inversão de Matrizes por Meio de Operações Elementares;
+
+- Matriz Inversa;
+- Propriedades;
+- Inversão de Matrizes por Matriz Adjunta;
+- Inversão de Matrizes por Meio de Operações Elementares;
+
 9. Sistemas de Equações Lineares:
- - Sistema Compatível;
- - Sistemas Equivalentes;
- - Operações Elementares e Sistemas Equivalentes;
- - Sistema Linear Homogêneo;
- - Classificação e Solução dos Sistemas de Equações Lineares;
- - Discussão de Sistemas em Função de Parâmetros Reais.
+
+- Sistema Compatível;
+- Sistemas Equivalentes;
+- Operações Elementares e Sistemas Equivalentes;
+- Sistema Linear Homogêneo;
+- Classificação e Solução dos Sistemas de Equações Lineares;
+- Discussão de Sistemas em Função de Parâmetros Reais.
+
 10. Vetores:
- - Vetores no R² e no R³, operações;
- - Vetor Definido por Dois Pontos;
- - Produto Escalar;
- - Módulo de um Vetor;
- - Ângulo entre Dois Vetores;
- - Paralelismo e Ortogonalidade de Dois Vetores;
- - Produto Vetorial;
- - Produto Misto;
- - Equação de Planos;
- - Área de Triângulos e Paralelogramos;
- - Volumes de Paralelepípedos.
+
+- Vetores no R² e no R³, operações;
+- Vetor Definido por Dois Pontos;
+- Produto Escalar;
+- Módulo de um Vetor;
+- Ângulo entre Dois Vetores;
+- Paralelismo e Ortogonalidade de Dois Vetores;
+- Produto Vetorial;
+- Produto Misto;
+- Equação de Planos;
+- Área de Triângulos e Paralelogramos;
+- Volumes de Paralelepípedos.
+
 11. Espaços Vetoriais:
- - Propriedades;
- - Subespaços Vetoriais;
- - Combinação Linear;
- - Dependência e Independência Linear;
- - Base e Dimensão.
+
+- Propriedades;
+- Subespaços Vetoriais;
+- Combinação Linear;
+- Dependência e Independência Linear;
+- Base e Dimensão.
+
 12. Espaços Vetoriais Euclidianos:
- - Produto Interno Não Usual;
- - Módulo de um Vetor e Normalização de Vetores;
- - Vetores Ortogonais;
- - Bases Ortogonais e Ortonormais;
- - Processo de Ortogonalização de Gram Schmidt;
- - Complemento Ortogonal.
+
+- Produto Interno Não Usual;
+- Módulo de um Vetor e Normalização de Vetores;
+- Vetores Ortogonais;
+- Bases Ortogonais e Ortonormais;
+- Processo de Ortogonalização de Gram Schmidt;
+- Complemento Ortogonal.
 
 ## 📕 Bibliografia Básica
 
@@ -108,7 +115,7 @@ _(anotações, listas e trabalhos próprios — não são material oficial do cu
 
 - [Atividade A1](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Atividade%20A1.pdf)
 - [Atividade A2 Algebra](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Atividade%20A2%20Algebra.pdf)
-- [Lista_de_exercícios_1](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Lista_de_exercícios_1.pdf)
+- [Lista\_de\_exercícios\_1](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Lista_de_exercícios_1.pdf)
 - [Matrizes](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Matrizes.pdf)
 - [Vetores](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Vetores.pdf)
-- [lista_de_exercícos_2_2023](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/lista_de_exercícos_2_2023.pdf)
+- [lista\_de\_exercícos\_2\_2023](assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/lista_de_exercícos_2_2023.pdf)

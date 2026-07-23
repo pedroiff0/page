@@ -1,9 +1,7 @@
 ---
-publish: true
-title: MCTIA 2025
-photoFolder: mctia2025
-created: 2025-12-01
+{"publish":true,"title":"MCTIA 2025","created":"2025-12-01","modified":"2026-07-23T00:40:32.544-03:00"}
 ---
+
 # 🛰️ MCTIA 2025
 
 > [!note] Summary

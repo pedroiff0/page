@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "Machine Learning para Binárias"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"Machine Learning para Binárias","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Revisa os diversos métodos de machine learning em astronomia e discute como aplicá-los a grandes levantamentos.
 
-*Traven, G. (2019)*
+_Traven, G. (2019)_
 
 ## Síntese
 

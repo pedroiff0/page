@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Circuitos"
-tags:
- - recursos
- - computacao
+{"publish":true,"title":"Circuitos","created":"2026-07-21T21:10:23.732-03:00","modified":"2026-07-21T21:10:23.732-03:00","tags":["recursos","computacao"]}
 ---
 
 > [!info] O que é este tópico
@@ -62,8 +58,8 @@ O que dominar: latches e flip-flops (a célula de memória de 1 bit), registrado
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- BOYLESTAD, R. *Introdução à Análise de Circuitos*. — Referência tradicional de análise de circuitos, com muitos exercícios resolvidos.
-- TOCCI, R. et al. *Sistemas Digitais: Princípios e Aplicações*. — O livro-texto clássico de eletrônica digital, da porta lógica à FSM.
+- BOYLESTAD, R. _Introdução à Análise de Circuitos_. — Referência tradicional de análise de circuitos, com muitos exercícios resolvidos.
+- TOCCI, R. et al. _Sistemas Digitais: Princípios e Aplicações_. — O livro-texto clássico de eletrônica digital, da porta lógica à FSM.
 
 ## 🔗 Referências externas
 

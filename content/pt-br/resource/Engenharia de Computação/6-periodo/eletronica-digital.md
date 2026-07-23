@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Eletrônica Digital"
-tags:
- - disciplina
- - profissionalizante
+{"publish":true,"title":"Eletrônica Digital","created":"2026-07-22T23:18:58.779-03:00","modified":"2026-07-22T23:18:58.779-03:00","tags":["disciplina","profissionalizante"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,31 +31,36 @@ Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise
 ## 📖 Conteúdo Programático
 
 1. Sistema de Numeração
- - Notação Posicional
- - Sistemas Numéricos
- - i. Decimal
- - ii. Octal
- - iii. Binário
- - iv. Hexadecimal
- - Conversão entre Bases
+
+- Notação Posicional
+- Sistemas Numéricos
+- i. Decimal
+- ii. Octal
+- iii. Binário
+- iv. Hexadecimal
+- Conversão entre Bases
+
 2. Conhecer as Funções Lógicas e Teoremas da Álgebra de Boole
- - Funções Lógicas
- - Tabelas Verdade
- - Álgebra Booleana
- - Teoremas de De Morgan
- - Teorema da Dualidade
- - Mintermos e Maxtermos
- - Simplificação de Equações e Circuitos Lógicos
- - Mapas de Karnaugh
+
+- Funções Lógicas
+- Tabelas Verdade
+- Álgebra Booleana
+- Teoremas de De Morgan
+- Teorema da Dualidade
+- Mintermos e Maxtermos
+- Simplificação de Equações e Circuitos Lógicos
+- Mapas de Karnaugh
+
 3. Circuitos Combinacionais
- - Multiplexadores
- - Demultiplexadores
- - Codificadores
- - Decodificadores
- - Conversores de Código
- - Circuitos Aritméticos
- - Latches
- - Flip-Flops
+
+- Multiplexadores
+- Demultiplexadores
+- Codificadores
+- Decodificadores
+- Conversores de Código
+- Circuitos Aritméticos
+- Latches
+- Flip-Flops
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

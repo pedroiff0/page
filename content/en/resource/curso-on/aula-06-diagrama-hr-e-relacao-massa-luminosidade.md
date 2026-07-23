@@ -1,20 +1,7 @@
 ---
-publish: true
-title: "📊 Lecture 06 — HR Diagram & Mass-Luminosity Relation"
-titulo: CursoON-Aula06
-disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
-conteudo: How to measure the fundamental physical properties of stars, and how the HR diagram reveals the relation between mass, luminosity, and lifetime
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - galactic-archaeology
-  - stellar-populations
-  - hr-diagram
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"📊 Lecture 06 — HR Diagram & Mass-Luminosity Relation","created":"2026-07-23","modified":"2026-07-23T00:26:34.476-03:00","tags":["curso-on","galactic-archaeology","stellar-populations","hr-diagram"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 📊 Lecture 06 — HR Diagram & Mass-Luminosity Relation
 
 > [!note] Summary
@@ -45,7 +32,7 @@ Three fundamental properties control a star's evolution: **mass**, **chemical co
 
 ## 📈 The Hertzsprung-Russell diagram
 
-The **HR Diagram** organizes stars by temperature/color (x-axis, decreasing) vs. luminosity/absolute magnitude (y-axis) [Russell 1914]. It was a monumental effort by many astronomers: luminosity can only be known if the distance is measured. The evolution of the data is dramatic:
+The **HR Diagram** organizes stars by temperature/color (x-axis, decreasing) vs. luminosity/absolute magnitude (y-axis) \[Russell 1914]. It was a monumental effort by many astronomers: luminosity can only be known if the distance is measured. The evolution of the data is dramatic:
 
 - **Russell (1914):** original HR diagram, few stars.
 - **Hipparcos (1997):** ~50,000 stars with parallax-measured distances.
@@ -70,9 +57,9 @@ The **HR Diagram** organizes stars by temperature/color (x-axis, decreasing) vs.
 
 ## ⚡ Mass-luminosity relation
 
-From the empirical relation between stellar mass and luminosity [Reid 1987]: $\uparrow$ mass $\Rightarrow$ $\uparrow$ temperature and $\uparrow$ luminosity. On a log-log scale, this relation is well described by a power law:
+From the empirical relation between stellar mass and luminosity \[Reid 1987]: $\uparrow$ mass $\Rightarrow$ $\uparrow$ temperature and $\uparrow$ luminosity. On a log-log scale, this relation is well described by a power law:
 
-$$L \propto M^{\,\alpha}, \qquad \alpha \approx 4$$
+$L \propto M^{\,\alpha}, \qquad \alpha \approx 4$
 
 valid over a limited mass range ($\sim0.1$ to $\sim10\,M_\odot$). This relation implies that spectral classification isn't just a temperature sequence, but also **a mass sequence** along the Main Sequence.
 
@@ -80,11 +67,11 @@ valid over a limited mass range ($\sim0.1$ to $\sim10\,M_\odot$). This relation 
 
 Combining the Stefan-Boltzmann Law ($L = 4\pi R^2 \sigma T^4$) with the mass-energy equivalence of nuclear fusion ($E = mc^2$, considering that only $\sim$10% of a star's total mass is actually consumed in the core), the lifetime $t_{MS}$ is proportional to the ratio between available fuel mass and the consumption rate (luminosity):
 
-$$t_{MS} \propto \frac{M}{L}$$
+$t_{MS} \propto \frac{M}{L}$
 
 Combining this with the mass-luminosity relation ($L\propto M^4$):
 
-$$t_{MS} \propto \frac{M}{M^4} = M^{-3}$$
+$t_{MS} \propto \frac{M}{M^4} = M^{-3}$
 
 i.e., **Main Sequence lifetime drops sharply with mass** — a star 10× more massive than the Sun lives, roughly, $10^3$ times shorter. This result is the quantitative basis for why massive stars evolve "too fast" despite their larger fuel reservoir, and connects directly with the role of cluster **turnoffs** as age clocks (Lecture 02).
 

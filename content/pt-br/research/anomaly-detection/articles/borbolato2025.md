@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "Coformação dos Discos Fino/Espesso (z>2)"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"Coformação dos Discos Fino/Espesso (z>2)","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Combina dados astrométricos do Gaia, abundâncias de APOGEE e LAMOST, e idades StarHorse para mapear a evolução da Via Láctea e o dilema entre disco grosso e fino (possível origem em fusão gasosa-rica …
 
-*Borbolato, Lais. (2025)*
+_Borbolato, Lais. (2025)_
 
 ## Síntese
 

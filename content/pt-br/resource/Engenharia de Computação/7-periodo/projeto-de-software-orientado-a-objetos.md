@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Projeto de Software Orientado a Objetos"
-tags:
- - disciplina
- - especifica
+{"publish":true,"title":"Projeto de Software Orientado a Objetos","created":"2026-07-22T23:18:58.779-03:00","modified":"2026-07-22T23:18:58.779-03:00","tags":["disciplina","especifica"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -29,38 +25,41 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
 ## 📖 Conteúdo Programático
 
 1. Princípios de Projeto Orientado a Objetos
- - Single Responsibility Principle
- - Open/Closed Principle
- - Liskov Substitution Principle
- - Interface Segregation Principle
- - Dependency Inversion Principle
+
+- Single Responsibility Principle
+- Open/Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle
+
 2. Padrões de Projeto
- - Padrões de Criação
- - i. Abstract Factory
- - ii. Builder
- - iii. Factory Method
- - iv. Prototype
- - v. Singleton
- - Padrões Estruturais
- - i. Adapter
- - ii. Bridge
- - iii. Composite
- - iv. Decorator
- - v. Façade
- - vi. Flyweight
- - vii. Proxy
- - Padrões Comportamentais
- - i. Chain of Responsability
- - ii. Command
- - iii. Interpreter
- - iv. Iterator
- - v. Mediator
- - vi. Memento
- - vii. Observer
- - viii. State
- - ix. Strategy
- - x. Template Method
- - xi. Visitor
+
+- Padrões de Criação
+- i. Abstract Factory
+- ii. Builder
+- iii. Factory Method
+- iv. Prototype
+- v. Singleton
+- Padrões Estruturais
+- i. Adapter
+- ii. Bridge
+- iii. Composite
+- iv. Decorator
+- v. Façade
+- vi. Flyweight
+- vii. Proxy
+- Padrões Comportamentais
+- i. Chain of Responsability
+- ii. Command
+- iii. Interpreter
+- iv. Iterator
+- v. Mediator
+- vi. Memento
+- vii. Observer
+- viii. State
+- ix. Strategy
+- x. Template Method
+- xi. Visitor
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

@@ -1,7 +1,5 @@
 ---
-publish: true
-title: Projects
-order: 5
+{"publish":true,"title":"Projects","created":"2026-07-22T23:35:44.556-03:00","modified":"2026-07-22T23:35:44.556-03:00"}
 ---
 
 > [!note] Summary

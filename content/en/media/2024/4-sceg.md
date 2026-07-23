@@ -1,9 +1,7 @@
 ---
-publish: true
-title: 4th SCEG 2024
-photoFolder: 4sceg2024
-created: 2024-10-22
+{"publish":true,"title":"4th SCEG 2024","created":"2024-10-22","modified":"2026-07-23T00:39:52.000-03:00"}
 ---
+
 # 💻 4th SCEG 2024
 
 > [!note] Summary

@@ -1,8 +1,5 @@
 ---
-publish: true
-title: Resource
-order: 2
-created: 2026-07-18T14:25:13.277-03:00
+{"publish":true,"title":"Resource","created":"2026-07-18T14:25:13.277-03:00","modified":"2026-07-23T00:27:36.797-03:00"}
 ---
 
 > [!note] Summary

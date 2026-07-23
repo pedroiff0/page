@@ -1,9 +1,7 @@
 ---
-publish: true
-type: blog
-title: "✍️ Bem-vindo ao blog"
-created: 2026-07-23
+{"publish":true,"title":"✍️ Bem-vindo ao blog","created":"2026-07-23","modified":"2026-07-23T00:45:05.773-03:00"}
 ---
+
 # ✍️ Bem-vindo ao blog
 
 > [!note] Resumo

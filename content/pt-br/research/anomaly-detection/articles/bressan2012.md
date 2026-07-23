@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "PARSEC — Isócronas Estelares"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"PARSEC — Isócronas Estelares","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > PARSEC: stellar tracks and isochrones with the PAdova & TRieste Stellar Evolution Code (PARSEC).
 
-*Bressan, Alessandro. (2012)*
+_Bressan, Alessandro. (2012)_
 
 ## Síntese
 

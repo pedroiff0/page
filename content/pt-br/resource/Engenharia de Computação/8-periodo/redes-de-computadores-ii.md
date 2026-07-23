@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Redes de Computadores II"
-tags:
- - disciplina
- - especifica
+{"publish":true,"title":"Redes de Computadores II","created":"2026-07-22T23:18:58.779-03:00","modified":"2026-07-22T23:18:58.779-03:00","tags":["disciplina","especifica"]}
 ---
 
 > [!note] Sobre esta disciplina

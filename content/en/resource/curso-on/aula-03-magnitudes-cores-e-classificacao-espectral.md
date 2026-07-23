@@ -1,20 +1,7 @@
 ---
-publish: true
-title: "✨ Lecture 03 — Magnitudes, Colors & Spectral Classification"
-titulo: CursoON-Aula03
-disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
-conteudo: The magnitude scale, absolute magnitude, photometric systems, color indices, and the OBAFGKM spectral classification
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - galactic-archaeology
-  - stellar-populations
-  - photometry
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"✨ Lecture 03 — Magnitudes, Colors & Spectral Classification","created":"2026-07-23","modified":"2026-07-23T00:25:25.152-03:00","tags":["curso-on","galactic-archaeology","stellar-populations","photometry"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # ✨ Lecture 03 — Magnitudes, Colors & Spectral Classification
 
 > [!note] Summary
@@ -35,7 +22,7 @@ Luminous flux (energy emitted per unit area) decreases with the square of the di
 
 **Hipparchus** (190–120 BC) established the first comparative scale of stellar brightness, from 1 (brightest) to 6 (limit of human vision). Between magnitudes 1 and 6 there's a 100× difference in flux — so each magnitude step corresponds to a factor of $100^{1/5} \approx 2.512$ in flux. The formal definition:
 
-$$m_1 - m_2 = -2.5 \log_{10}\left(\frac{F_1}{F_2}\right)$$
+$m_1 - m_2 = -2.5 \log_{10}\left(\frac{F_1}{F_2}\right)$
 
 The negative sign imposes the **inverse** relation between magnitude and brightness: the **smaller** the magnitude, the **brighter** the object.
 
@@ -43,7 +30,7 @@ The negative sign imposes the **inverse** relation between magnitude and brightn
 
 **Absolute magnitude ($M$)** is the magnitude a star would have if placed exactly **10 parsecs** from the Sun — a measure of intrinsic brightness, free from the distance degeneracy. The difference between apparent and absolute magnitude is the **distance modulus**:
 
-$$m - M = 5\log_{10}(d) - 5 \quad (d \text{ in parsecs})$$
+$m - M = 5\log_{10}(d) - 5 \quad (d \text{ in parsecs})$
 
 This is one of the fundamental equations of Astronomy. Example: knowing that the distance modulus of the Large Magellanic Cloud (LMC) is 18.5, and that the Sun's absolute magnitude is $\approx4.8$, a solar-type star in the LMC would have apparent magnitude $m = 18.5 + 4.8 = 23.3$.
 
@@ -54,7 +41,7 @@ This is one of the fundamental equations of Astronomy. Example: knowing that the
 - **griz / Gunn / Oke:** based on observational calibration, historically tied to standard stars (e.g., F subdwarfs).
 
 > [!warning] A magnitude system is not a filter system
-> You can use any filter within any magnitude system — the two are independent concepts. Several photometric systems have been developed for different applications and wavelength ranges [Almeida-Fernandes et al. 2021; Perottoni et al. 2024].
+> You can use any filter within any magnitude system — the two are independent concepts. Several photometric systems have been developed for different applications and wavelength ranges \[Almeida-Fernandes et al. 2021; Perottoni et al. 2024].
 
 ## 🌈 Color indices
 
@@ -91,7 +78,7 @@ The peak of the class M spectrum is shifted to longer wavelengths, while type O 
 
 ## 📷 Types of photometry
 
-- **Absolute photometry:** measures brightness on a calibrated, physical scale, allowing comparison of objects across different sky regions (*all sky*). Requires a photometric night and calibration with standard stars — more sensitive to atmospheric variation.
+- **Absolute photometry:** measures brightness on a calibrated, physical scale, allowing comparison of objects across different sky regions (_all sky_). Requires a photometric night and calibration with standard stars — more sensitive to atmospheric variation.
 - **Differential photometry:** measures brightness relative to other stars in the same field, observed simultaneously in the same image. Less affected by atmospheric conditions; works even without a perfectly photometric night.
 - **Time-domain photometry:** tracks brightness variations of the same object over time (essential for identifying variables, such as the Cepheids of Lecture 07).
 

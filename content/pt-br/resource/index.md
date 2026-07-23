@@ -1,8 +1,5 @@
 ---
-publish: true
-title: Recursos
-order: 2
-created: 2026-07-18T14:50:18.101-03:00
+{"publish":true,"title":"Recursos","created":"2026-07-18T14:50:18.101-03:00","modified":"2026-07-23T00:22:37.879-03:00"}
 ---
 
 > [!note] Resumo

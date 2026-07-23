@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "Abundâncias em Anãs G VI"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"Abundâncias em Anãs G VI","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Artigo histórico: deriva abundâncias de 21 estrelas de tipo solar a partir de curvas de crescimento, discutindo reações nucleares e estrutura galáctica.
 
-*Wallerstein, George. (1962)*
+_Wallerstein, George. (1962)_
 
 ## Síntese
 

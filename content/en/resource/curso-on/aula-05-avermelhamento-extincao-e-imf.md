@@ -1,21 +1,7 @@
 ---
-publish: true
-title: "🌫️ Lecture 05 — Reddening, Extinction & IMF"
-titulo: CursoON-Aula05
-disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
-conteudo: The interstellar medium, extinction and reddening of starlight by dust, and the initial mass function revisited
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - galactic-archaeology
-  - stellar-populations
-  - interstellar-medium
-  - interstellar-extinction
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"🌫️ Lecture 05 — Reddening, Extinction & IMF","created":"2026-07-23","modified":"2026-07-23T00:26:12.272-03:00","tags":["curso-on","galactic-archaeology","stellar-populations","interstellar-medium","interstellar-extinction"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 🌫️ Lecture 05 — Reddening, Extinction & IMF
 
 > [!note] Summary
@@ -36,7 +22,7 @@ The total gas + dust mass represents only 10–20% of the Milky Way's stellar ma
 
 ### Interstellar dust
 
-Grains with an iron/silicate/graphite core, wrapped in frozen materials (CO₂/H₂O/NH₂) [Jessberger et al. 2001]. Scale comparison: atoms $\sim0.1\,$nm, small molecules $\sim1\,$nm, dust grains $\sim100\,$nm. Its distribution is quite **filamentary** — substantial variations occur across regions separated by just a few arcminutes [Argonaut 3D map].
+Grains with an iron/silicate/graphite core, wrapped in frozen materials (CO₂/H₂O/NH₂) \[Jessberger et al. 2001]. Scale comparison: atoms $\sim0.1\,$nm, small molecules $\sim1\,$nm, dust grains $\sim100\,$nm. Its distribution is quite **filamentary** — substantial variations occur across regions separated by just a few arcminutes \[Argonaut 3D map].
 
 ### Forms of interstellar gas
 
@@ -59,7 +45,7 @@ Dust doesn't emit in the visible, but it **blocks** light — reflection nebulae
 
 - **Extinction ($A_\lambda$):** total light attenuation (absorption + scattering) at a given wavelength, measured in magnitudes. $A_V > 0$ always increases the observed apparent magnitude.
 - **Reddening (color excess):** $E(B-V) = A_B - A_V$ — quantifies the color change caused by greater attenuation of short wavelengths relative to long ones.
-- **Total-to-selective extinction ratio:** $A_V = R_V \cdot E(B-V)$, with $R_V \approx 3.1$ typical for the diffuse interstellar medium (ranges 2.7–6 in dense-cloud cores, an "anomalous" regime [Cardelli, Clayton & Mathis 1989]).
+- **Total-to-selective extinction ratio:** $A_V = R_V \cdot E(B-V)$, with $R_V \approx 3.1$ typical for the diffuse interstellar medium (ranges 2.7–6 in dense-cloud cores, an "anomalous" regime \[Cardelli, Clayton & Mathis 1989]).
 
 > [!warning] If you don't correct for extinction...
 > ...you'll **systematically underestimate distances**, because stars dimmed by dust appear more distant than they actually are (via the distance modulus, Lecture 03).
@@ -70,7 +56,7 @@ Extinction mainly affects low galactic latitudes (where dust concentrates), but 
 
 For a cluster, the intrinsic distance modulus $(m_V - M_V)_0$ is constant across all member stars. Observed variations in $(m_V - M_V)$ come from different amounts of extinction along each line of sight:
 
-$$m_V - M_V = C + A_V = C + R_V\, E(B-V)$$
+$m_V - M_V = C + A_V = C + R_V\, E(B-V)$
 
 where $C$ is constant for the cluster (depends only on distance) and $A_V$ varies star by star.
 
@@ -82,7 +68,7 @@ Basic practical correction: $\text{mag}_{x,0} = \text{mag}_x - \text{extinction 
 
 ## 🧮 IMF — revisited
 
-The **initial mass function** (see Lecture 02) describes the probability of star formation at each mass. It remains an active research object: uncertain in the very-high-mass limit ($\sim100\,M_\odot$), in the exact value of its characteristic peak, and regarding universality across different star-forming environments [Offner et al. 2014]. The IMF's exact shape is crucial for predicting timescales of chemical enrichment, supernova occurrence, and interstellar medium dynamics in a galaxy — directly connecting this lecture to the course's central theme.
+The **initial mass function** (see Lecture 02) describes the probability of star formation at each mass. It remains an active research object: uncertain in the very-high-mass limit ($\sim100\,M_\odot$), in the exact value of its characteristic peak, and regarding universality across different star-forming environments \[Offner et al. 2014]. The IMF's exact shape is crucial for predicting timescales of chemical enrichment, supernova occurrence, and interstellar medium dynamics in a galaxy — directly connecting this lecture to the course's central theme.
 
 ---
 

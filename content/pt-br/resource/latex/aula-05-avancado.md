@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "⚙️ Aula 05 — Avançado"
-created: 2026-03-16
+{"publish":true,"title":"⚙️ Aula 05 — Avançado","created":"2026-03-16","modified":"2026-07-23T00:06:34.792-03:00"}
 ---
 
 > [!note] Resumo

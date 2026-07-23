@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "arXiv Searcher"
-created: 2026-03-13
+{"publish":true,"title":"arXiv Searcher","created":"2026-03-13","modified":"2026-07-22T23:35:06.228-03:00"}
 ---
 
 > [!note] In one line

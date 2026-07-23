@@ -1,6 +1,5 @@
 ---
-publish: true
-title: "Apresentação de Pesquisa"
+{"publish":true,"title":"Apresentação de Pesquisa","created":"2026-07-22T23:20:25.460-03:00","modified":"2026-07-22T23:20:25.460-03:00"}
 ---
 
 > [!note] Resumo

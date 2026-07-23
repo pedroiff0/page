@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "⚙️ Lesson 05 — Advanced"
-created: 2026-03-16
+{"publish":true,"title":"⚙️ Lesson 05 — Advanced","created":"2026-03-16","modified":"2026-07-23T00:09:44.593-03:00"}
 ---
 
 > [!note] Summary

@@ -1,7 +1,5 @@
 ---
-publish: true
-title: Blog
-order: 7
+{"publish":true,"title":"Blog","created":"2026-07-22T23:29:52.219-03:00","modified":"2026-07-22T23:29:52.219-03:00"}
 ---
 
 > [!note] Resumo

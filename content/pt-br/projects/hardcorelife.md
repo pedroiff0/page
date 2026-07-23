@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "HardCoreLife — Plataforma de Vida Modular"
-created: 2026-03-13
+{"publish":true,"title":"HardCoreLife — Plataforma de Vida Modular","created":"2026-03-13","modified":"2026-07-22T23:33:25.624-03:00"}
 ---
 
 > [!note] Em uma frase

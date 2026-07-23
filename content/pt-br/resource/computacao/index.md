@@ -1,6 +1,5 @@
 ---
-publish: true
-title: "Computação"
+{"publish":true,"title":"Computação","created":"2026-07-22T19:38:25.799-03:00","modified":"2026-07-22T19:38:25.799-03:00"}
 ---
 
 <div class="media-carousel">

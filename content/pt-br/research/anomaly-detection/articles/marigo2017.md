@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "PARSEC-COLIBRI — Isócronas com Fase TP-AGB"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"PARSEC-COLIBRI — Isócronas com Fase TP-AGB","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Apresenta nova geração de isócronas PARSEC-COLIBRI incluindo fase TP-AGB detalhada e ampla faixa de metalicidade. Útil para estimar idades/parâmetros estelares que entram nas análises do seu projeto.
 
-*Marigo, Paola. (2017)*
+_Marigo, Paola. (2017)_
 
 ## Síntese
 

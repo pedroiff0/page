@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "GALAH — Classificação via t-SNE"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"GALAH — Classificação via t-SNE","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > GALAH: survey de alta resolução para desvendar a formação da Via Láctea.
 
-*Traven, G. (2017)*
+_Traven, G. (2017)_
 
 ## Síntese
 

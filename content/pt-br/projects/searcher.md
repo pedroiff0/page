@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "arXiv Searcher"
-created: 2026-03-13
+{"publish":true,"title":"arXiv Searcher","created":"2026-03-13","modified":"2026-07-22T23:34:09.840-03:00"}
 ---
 
 > [!note] Em uma frase

@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Filosofia da Ciência e Tecnologia"
-tags:
- - disciplina
- - especifica
+{"publish":true,"title":"Filosofia da Ciência e Tecnologia","created":"2026-07-22T23:18:58.779-03:00","modified":"2026-07-22T23:18:58.779-03:00","tags":["disciplina","especifica"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -29,18 +25,23 @@ Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O p
 ## 📖 Conteúdo Programático
 
 1. Teoria do conhecimento: arte, técnica, ciência e engenharia
- - Definição e contextualização sobre a condição humana
- - Definições ciência, técnica e tecnologia
- - O contexto do século XXI
+
+- Definição e contextualização sobre a condição humana
+- Definições ciência, técnica e tecnologia
+- O contexto do século XXI
+
 2. O Progresso Científico e o Progresso Tecnológico
- - Paradigma científico dominante
- - Definições sobre crise da Ciência, crise do paradigma científico
- - Contexto do século XXI
+
+- Paradigma científico dominante
+- Definições sobre crise da Ciência, crise do paradigma científico
+- Contexto do século XXI
+
 3. Civilização Tecnológica, Ciência, Tecnologia e Humanismo
- - O laboratório como ambiente de conflito e crise
- - O questionamento do paradigma científico
- - O questionamento do paradigma científico e as polêmicas emergentes
- - O Contexto do século XXI
+
+- O laboratório como ambiente de conflito e crise
+- O questionamento do paradigma científico
+- O questionamento do paradigma científico e as polêmicas emergentes
+- O Contexto do século XXI
 
 ## 📕 Bibliografia Básica
 

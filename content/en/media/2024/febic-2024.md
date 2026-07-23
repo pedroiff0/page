@@ -1,9 +1,7 @@
 ---
-publish: true
-title: IX FEBIC 2024
-photoFolder: febic2024
-created: 2024-09-15
+{"publish":true,"title":"IX FEBIC 2024","created":"2024-09-15","modified":"2026-07-23T00:40:11.848-03:00"}
 ---
+
 # 🛰️ IX FEBIC 2024
 
 > [!note] Summary

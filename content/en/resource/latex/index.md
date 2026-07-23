@@ -1,10 +1,5 @@
 ---
-publish: true
-title: "📄 LaTeX and Academic Writing"
-tags:
- - resources
- - latex
- - writing
+{"publish":true,"title":"📄 LaTeX and Academic Writing","created":"2026-07-23T00:08:52.669-03:00","modified":"2026-07-23T00:08:52.669-03:00","tags":["resources","latex","writing"]}
 ---
 
 > [!note] Summary

@@ -1,19 +1,15 @@
 ---
-publish: true
-title: "Tempos de Vida Estelares e Razões de Abundância"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"Tempos de Vida Estelares e Razões de Abundância","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Artigo clássico de evolução química: usa modelos da literatura para testar nucleossíntese de elementos.
 
-*Tinsley, B.~M. (1979)*
+_Tinsley, B.~M. (1979)_
 
 ## Síntese
 
-Artigo clássico de evolução química: usa modelos da literatura para testar nucleossíntese de elementos. Mostra que ferro vem de SN Ia (estrelas de vida longa) e carbono de estrelas de baixa massa, explicando [O/Fe] alto de estrelas de halo. Base teórica das abundâncias que você usa.
+Artigo clássico de evolução química: usa modelos da literatura para testar nucleossíntese de elementos. Mostra que ferro vem de SN Ia (estrelas de vida longa) e carbono de estrelas de baixa massa, explicando \[O/Fe] alto de estrelas de halo. Base teórica das abundâncias que você usa.
 
 [Ver artigo original](https://doi.org/10.1086/157039)
 

@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "S-PLUS DR4 — Outliers de SED"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"S-PLUS DR4 — Outliers de SED","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Usa abordagem de machine learning não-supervisionado (autoencoder para detecção de anomalias + t-SNE) nos dados fotométricos do S-PLUS para selecionar ~19.
 
-*Quispe-Huaynasi, F. (2050)*
+_Quispe-Huaynasi, F. (2050)_
 
 ## Síntese
 

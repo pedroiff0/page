@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Programação"
-tags:
- - recursos
- - computacao
+{"publish":true,"title":"Programação","created":"2026-07-21T21:10:23.835-03:00","modified":"2026-07-21T21:10:23.835-03:00","tags":["recursos","computacao"]}
 ---
 
 > [!info] O que é este tópico

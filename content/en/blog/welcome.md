@@ -1,9 +1,7 @@
 ---
-publish: true
-type: blog
-title: "✍️ Welcome to the blog"
-created: 2026-07-23
+{"publish":true,"title":"✍️ Welcome to the blog","created":"2026-07-23","modified":"2026-07-23T00:45:11.697-03:00"}
 ---
+
 # ✍️ Welcome to the blog
 
 > [!note] Summary

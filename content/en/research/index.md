@@ -1,8 +1,5 @@
 ---
-publish: true
-title: Research
-order: 1
-created: 2026-07-18T14:24:43.861-03:00
+{"publish":true,"title":"Research","created":"2026-07-18T14:24:43.861-03:00","modified":"2026-07-23T00:31:42.746-03:00"}
 ---
 
 > [!note] Summary

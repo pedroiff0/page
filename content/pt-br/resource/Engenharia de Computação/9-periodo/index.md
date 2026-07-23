@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "9º Período"
-order: 9
+{"publish":true,"title":"9º Período","created":"2026-07-22T23:19:18.779-03:00","modified":"2026-07-22T23:19:18.779-03:00"}
 ---
 
 > [!note] Sobre este período

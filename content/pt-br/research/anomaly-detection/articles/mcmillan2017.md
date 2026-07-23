@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "Distribuição de Massa e Potencial da Via Láctea"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"Distribuição de Massa e Potencial da Via Láctea","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Apresenta modelos de massa da Via Láctea ajustados a restrições observacionais.
 
-*McMillan, Paul J. (2017)*
+_McMillan, Paul J. (2017)_
 
 ## Síntese
 

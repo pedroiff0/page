@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "Arquivo de Apostilas"
-created: 2026-04-05
+{"publish":true,"title":"Arquivo de Apostilas","created":"2026-04-05","modified":"2026-07-22T23:34:21.124-03:00"}
 ---
 
 > [!note] Em uma frase

@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "Eletivas (optativas)"
-order: 11
+{"publish":true,"title":"Eletivas (optativas)","created":"2026-07-22T23:19:18.783-03:00","modified":"2026-07-22T23:19:18.783-03:00"}
 ---
 
 > [!note] Sobre as eletivas

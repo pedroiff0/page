@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Modelagem Ambiental"
-tags:
- - disciplina
- - basico
+{"publish":true,"title":"Modelagem Ambiental","created":"2026-07-22T23:18:58.783-03:00","modified":"2026-07-22T23:18:58.783-03:00","tags":["disciplina","basico"]}
 ---
 
 > [!note] Sobre esta disciplina

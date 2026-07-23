@@ -1,7 +1,5 @@
 ---
-publish: true
-title: About Me
-created: 2026-07-18T14:25:13.277-03:00
+{"publish":true,"title":"About Me","created":"2026-07-18T14:25:13.277-03:00","modified":"2026-07-22T23:31:35.055-03:00"}
 ---
 
 > [!info] Welcome!
@@ -38,6 +36,7 @@ Prefer not to open your email client? Fill in the fields below and the message l
 </form>
 
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
 <script>
 (function() {
   // TODO(Pedro): replace with your credentials from https://dashboard.emailjs.com

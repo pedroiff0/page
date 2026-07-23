@@ -1,20 +1,7 @@
 ---
-publish: true
-title: "🏛️ Lecture 01 — Concept & History"
-titulo: CursoON-Aula01
-disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
-conteudo: What galactic archaeology is, the simple stellar population concept, and the history behind the discovery of populations I and II
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - galactic-archaeology
-  - stellar-populations
-  - milky-way
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"🏛️ Lecture 01 — Concept & History","created":"2026-07-23","modified":"2026-07-23T00:24:37.179-03:00","tags":["curso-on","galactic-archaeology","stellar-populations","milky-way"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 🏛️ Lecture 01 — Concept & History
 
 > [!note] Summary
@@ -30,7 +17,7 @@ cssclasses:
 
 ## 🎯 The concept and scope of Galactic Archaeology
 
-The term is frequently applied to research on the formation and history of the Milky Way and its stellar populations, combining dynamics, chemistry, age, and position to reconstruct that history [Helmi 2020, *Streams, Substructures, and the Early History of the Milky Way*; Freeman & Bland-Hawthorn 2002, *The New Galaxy: Signatures of Its Formation*].
+The term is frequently applied to research on the formation and history of the Milky Way and its stellar populations, combining dynamics, chemistry, age, and position to reconstruct that history \[Helmi 2020, _Streams, Substructures, and the Early History of the Milky Way_; Freeman & Bland-Hawthorn 2002, _The New Galaxy: Signatures of Its Formation_].
 
 **The core premise:** stars carry a long-term memory of their origin in their chemical composition and (sometimes) their dynamics. Their position and age carry additional information. The field's four working axes are therefore:
 
@@ -66,11 +53,11 @@ The concept is greatly simplified by the **Simple Stellar Population (SSP)** app
 
 A typical galaxy can then be written as a sum of composite populations, each itself a sum of SSPs:
 
-$$\text{Galaxy} = \sum_n \text{population}_n, \qquad \text{population} = \sum_j \text{SSP}_j$$
+$\text{Galaxy} = \sum_n \text{population}_n, \qquad \text{population} = \sum_j \text{SSP}_j$
 
 The bulge, halo, and galactic disk are examples of **composite populations**. Each represents a complex grouping of stars with its own metallicity, velocity, and age distributions — presumably the result of mixing several SSPs. The **fewer** SSPs that make up a population, the more easily its history can be reconstructed; identifying SSPs in large galaxies is therefore a complex task, one that simplifies when an SSP has characteristic patterns (well-defined spatial distribution, kinematics, chemistry, and age).
 
-The SSP concept also allows the **integrated spectrum** of a galaxy to be reconstructed as a weighted sum of the spectra of its stellar populations [Conroy 2013].
+The SSP concept also allows the **integrated spectrum** of a galaxy to be reconstructed as a weighted sum of the spectra of its stellar populations \[Conroy 2013].
 
 ## 📜 History of galactic studies
 
@@ -107,7 +94,7 @@ Comparing the Milky Way with Andromeda allowed inferring the corresponding struc
 
 ## 🧩 The first model and the accretion signature
 
-The **Monolithic Model** [Eggen, Lynden-Bell & Sandage 1962] was the first quantitative attempt to explain the Galaxy's formation, proposing a fast, relatively uniform collapse of a primordial cloud.
+The **Monolithic Model** \[Eggen, Lynden-Bell & Sandage 1962] was the first quantitative attempt to explain the Galaxy's formation, proposing a fast, relatively uniform collapse of a primordial cloud.
 
 **Searle & Zinn (1978)** found the first crack in the model: halo clusters show an age spread **larger** than the free-fall timescale — indicating that independent galactic sub-fragments possibly fell onto the Galaxy **after** the bulk of the system had already formed. Isobe (1974), Saio & Yoshii (1979), and Mihalas & Binney (1980) had already pointed out selection effects in the Eggen-Lynden-Bell-Sandage (ELS) methodology: the monolithic model is too simplistic to account for populations such as retrograde stars. The halo's formation must therefore have been **slower and more complex** than the original proposal.
 
@@ -123,9 +110,9 @@ This is the historical seed of the modern hierarchical-formation paradigm that u
 
 ## 🔗 References and related
 
-- Helmi (2020) — *Streams, Substructures, and the Early History of the Milky Way*, ARA&A 58, 205
-- Freeman & Bland-Hawthorn (2002) — *The New Galaxy: Signatures of Its Formation*
-- Conroy (2013) — simple stellar population synthesis (ARA&A 51, 393)
+- Helmi (2020) — _Streams, Substructures, and the Early History of the Milky Way_, ARA\&A 58, 205
+- Freeman & Bland-Hawthorn (2002) — _The New Galaxy: Signatures of Its Formation_
+- Conroy (2013) — simple stellar population synthesis (ARA\&A 51, 393)
 - Baade (1944) — identification of populations I and II
 - Eggen, Lynden-Bell & Sandage (1962) — Monolithic Model
 - Searle & Zinn (1978) — accretion signature in the halo

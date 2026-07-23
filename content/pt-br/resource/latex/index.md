@@ -1,10 +1,5 @@
 ---
-publish: true
-title: "📄 LaTeX e Escrita Acadêmica"
-tags:
- - recursos
- - latex
- - escrita
+{"publish":true,"title":"📄 LaTeX e Escrita Acadêmica","created":"2026-07-23T00:05:26.063-03:00","modified":"2026-07-23T00:05:26.063-03:00","tags":["recursos","latex","escrita"]}
 ---
 
 > [!note] Resumo

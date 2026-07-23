@@ -1,9 +1,7 @@
 ---
-publish: true
-title: e-JINIFF 2024
-photoFolder: ejiniff2024
-created: 2024-08-23
+{"publish":true,"title":"e-JINIFF 2024","created":"2024-08-23","modified":"2026-07-23T00:38:19.080-03:00"}
 ---
+
 # 🎮 e-JINIFF 2024
 
 > [!note] Resumo

@@ -1,19 +1,15 @@
 ---
-publish: true
-title: "GALAH — Quimiodinâmica da Vizinhança Solar"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"GALAH — Quimiodinâmica da Vizinhança Solar","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Apresenta a estrutura quimiodinâmica da vizinhança solar com 62.814 estrelas (GALAH + Gaia DR2).
 
-*Hayden, Michael R. (2020)*
+_Hayden, Michael R. (2020)_
 
 ## Síntese
 
-Apresenta a estrutura quimiodinâmica da vizinhança solar com 62.814 estrelas (GALAH + Gaia DR2). Mostra que a dispersão de velocidade varia suavemente com [Fe/H] e [α/Fe], e discute migração (churning vs blurring) — conectando-se diretamente ao tema de origem/movimento estelar do seu projeto.
+Apresenta a estrutura quimiodinâmica da vizinhança solar com 62.814 estrelas (GALAH + Gaia DR2). Mostra que a dispersão de velocidade varia suavemente com \[Fe/H] e \[α/Fe], e discute migração (churning vs blurring) — conectando-se diretamente ao tema de origem/movimento estelar do seu projeto.
 
 [Ver artigo original](https://doi.org/10.1093/mnras/staa335)
 

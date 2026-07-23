@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Modelagem de Dados"
-tags:
- - recursos
- - computacao
+{"publish":true,"title":"Modelagem de Dados","created":"2026-07-22T23:28:19.526-03:00","modified":"2026-07-22T23:28:19.526-03:00","tags":["recursos","computacao"]}
 ---
 
 > [!info] Modelagem de dados é a etapa de projeto que vem antes de qualquer `CREATE TABLE`: entender o domínio do problema, identificar entidades e relacionamentos, e desenhar uma estrutura que represente a realidade sem redundância nem ambiguidade. É a planta baixa do banco de dados.
@@ -44,7 +40,7 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 
 ## Erros comuns de quem está começando
 
-- **Modelar pensando nas telas do sistema, não no domínio.** O formulário de cadastro muda toda hora; a natureza dos dados, não. Modele o que as coisas *são*, e as telas que se adaptem.
+- **Modelar pensando nas telas do sistema, não no domínio.** O formulário de cadastro muda toda hora; a natureza dos dados, não. Modele o que as coisas _são_, e as telas que se adaptem.
 - **Errar cardinalidade por não interrogar o domínio.** "Um aluno tem um endereço" — sempre? E histórico de endereços? E aluno com residência em duas cidades? Cardinalidade se descobre fazendo perguntas chatas, não assumindo o caso comum.
 - **Criar a tabela antes do diagrama.** Ir direto pro SQL parece produtivo, mas pula exatamente a etapa em que erros são baratos de corrigir. Diagrama se apaga com borracha; tabela em produção se migra com dor.
 - **Normalizar no automático, sem entender a anomalia que está evitando.** Isso leva tanto a subnormalizar (redundância escondida) quanto a hipernormalizar (JOINs infinitos para qualquer consulta trivial). A forma normal é meio, não fim.
@@ -58,7 +54,7 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
-- HEUSER, C. A. *Projeto de Banco de Dados*. O livro brasileiro de referência em modelagem — enxuto, direto e com a notação ER mais usada nas disciplinas do país. Se for ler um só, é este.
+- HEUSER, C. A. _Projeto de Banco de Dados_. O livro brasileiro de referência em modelagem — enxuto, direto e com a notação ER mais usada nas disciplinas do país. Se for ler um só, é este.
 
 ## 🔗 Referências externas
 

@@ -1,19 +1,15 @@
 ---
-publish: true
-title: "GALAH — Estrelas Extremamente Pobres em Metais"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"GALAH — Estrelas Extremamente Pobres em Metais","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
-> Usa ~600.000 espectros de alta resolução do GALAH + algoritmo de machine learning para encontrar 54 candidatos a estrelas extremamente pobres em metais (EMP, [Fe/H]<-3,0).
+> Usa ~600.000 espectros de alta resolução do GALAH + algoritmo de machine learning para encontrar 54 candidatos a estrelas extremamente pobres em metais (EMP, \[Fe/H]<-3,0).
 
-*Hughes, Arvind C.~N. (1907)*
+_Hughes, Arvind C.~N. (1907)_
 
 ## Síntese
 
-Usa ~600.000 espectros de alta resolução do GALAH + algoritmo de machine learning para encontrar 54 candidatos a estrelas extremamente pobres em metais (EMP, [Fe/H]<-3,0). Mostra que ML em grandes levantamentos espectroscópicos é poderoso para descoberta — direto ao tema de anomalias/detecção de raras.
+Usa ~600.000 espectros de alta resolução do GALAH + algoritmo de machine learning para encontrar 54 candidatos a estrelas extremamente pobres em metais (EMP, \[Fe/H]<-3,0). Mostra que ML em grandes levantamentos espectroscópicos é poderoso para descoberta — direto ao tema de anomalias/detecção de raras.
 
 [Ver artigo original](https://doi.org/10.3847/1538-4357/ac5fa7)
 

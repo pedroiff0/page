@@ -1,21 +1,7 @@
 ---
-publish: true
-title: "Neutrinos"
-titulo: Neutrinos
-disciplina: Palestra — Física de Partículas e Cosmologia
-conteudo: Neutrinos e a Cosmologia — da física de partículas ao Universo em grande escala
-professor: Gabriel Rodrigues
-created: 2026-07-20T15:50:00-03:00
-tags:
-  - escola-de-inverno-on
-  - palestra
-  - neutrinos
-  - cosmologia
-  - fisica-de-particulas
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"Neutrinos","created":"2026-07-20T15:50:00-03:00","modified":"2026-07-23T00:53:40.772-03:00","tags":["escola-de-inverno-on","palestra","neutrinos","cosmologia","fisica-de-particulas"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # ⚛️ Notas de Palestra — Neutrinos e a Cosmologia
 
 > [!note] Resumo
@@ -32,6 +18,7 @@ cssclasses:
 O **neutrino** é uma das partículas mais abundantes do Universo e, ao mesmo tempo, uma das mais difíceis de detectar — interage tão fracamente com a matéria que bilhões passam pelo seu corpo a cada segundo sem qualquer efeito perceptível. Esta palestra conecta duas escalas radicalmente diferentes: (1) a física de partículas do neutrino — sua descoberta, seus "sabores" e sua massa — e (2) seu papel na **cosmologia**, como parte do inventário de matéria/energia do Universo e como sonda da física fundamental. A ferramenta central que une as duas escalas é a **métrica de Friedmann** e as equações que descrevem a expansão do Universo.
 
 ### 📑 Tópicos abordados
+
 1. O que são neutrinos: história e descoberta
 2. O Modelo Padrão da física de partículas
 3. Neutrinos têm massa: hierarquia de massas
@@ -54,7 +41,7 @@ Em **1930**, **Wolfgang Pauli** propôs a existência do neutrino para resolver 
 
 Hoje sabemos que existem **três "sabores" de neutrinos**, cada um associado a um lépton carregado correspondente:
 
-![O Modelo Padrão da física de partículas: os neutrinos ($\nu_e, \nu_\mu, \nu_\tau$) aparecem na segunda linha, entre os léptons.](https://commons.wikimedia.org/wiki/Special:FilePath/Standard_Model_of_Elementary_Particles.svg)
+![O Modelo Padrão da física de partículas: os neutrinos (\nu\_e, \nu\_\mu, \nu\_\tau) aparecem na segunda linha, entre os léptons.](https://commons.wikimedia.org/wiki/Special:FilePath/Standard_Model_of_Elementary_Particles.svg)
 
 - **Quarks:** up, down, charm, strange, top, bottom (partículas que se combinam para formar prótons, nêutrons, etc. — o **glúon** é o bóson mediador da força forte que os une, não um quark).
 - **Léptons:** elétron, múon, tau — e seus respectivos neutrinos ($\nu_e$, $\nu_\mu$, $\nu_\tau$).
@@ -92,15 +79,16 @@ A cosmologia estuda a origem, evolução e composição do Universo assumindo qu
 
 Uma **métrica** descreve a geometria do espaço-tempo — como medir distâncias em um sistema de coordenadas de 4 dimensões (3 espaciais + tempo). Assumindo homogeneidade e isotropia, a solução geral das equações de Einstein para a Relatividade Geral é a **métrica de Friedmann-Lemaître-Robertson-Walker (FLRW)**:
 
-$$ds^2 = -c^2dt^2 + a(t)^2\left[\frac{dr^2}{1-kr^2} + r^2 d\Omega^2\right]$$
+$ds^2 = -c^2dt^2 + a(t)^2\left[\frac{dr^2}{1-kr^2} + r^2 d\Omega^2\right]$
 
 onde:
+
 - $ds$: intervalo de espaço-tempo entre dois eventos.
 - $a(t)$: **fator de escala** — descreve como as distâncias no Universo crescem (ou diminuem) com o tempo; por convenção, $a(t_{hoje}) = 1$.
 - $k = 0, \pm1$: **curvatura espacial** (plano, esférico ou hiperbólico).
 
 > [!tip] A intuição de Wheeler
-> O físico **John Archibald Wheeler** resumiu a Relatividade Geral numa frase: *"o espaço-tempo diz à matéria como se mover; a matéria diz ao espaço-tempo como se curvar."* As **equações de campo de Einstein** formalizam exatamente essa via de mão dupla entre geometria e conteúdo de matéria/energia.
+> O físico **John Archibald Wheeler** resumiu a Relatividade Geral numa frase: _"o espaço-tempo diz à matéria como se mover; a matéria diz ao espaço-tempo como se curvar."_ As **equações de campo de Einstein** formalizam exatamente essa via de mão dupla entre geometria e conteúdo de matéria/energia.
 
 ### As equações de Friedmann
 
@@ -130,14 +118,16 @@ Assim como existe uma Radiação Cósmica de Fundo em fótons (a **2,725 K** hoj
 - Densidade numérica: **~336 neutrinos/cm³** em todo o Universo — enorme, mas praticamente indetectável, pois interagem muito fracamente.
 
 ### Restrições cosmológicas sobre a massa dos neutrinos
+
 A soma das massas dos neutrinos deixa impressões sutis em duas observáveis cosmológicas principais:
+
 - **Espectro angular de potência da RCF** (medido pelo satélite **Planck**).
 - **Espectro de potência de matéria** (a distribuição estatística da matéria em grande escala, medida por levantamentos como o **DESI**).
 
 Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão numa faixa que já começa a **tensionar os limites inferiores** exigidos pelas oscilações de neutrino (hierarquia normal vs. invertida) — uma área ativa de pesquisa, pois cosmologia e física de partículas podem, em breve, se contradizer ou se confirmar mutuamente.
 
 > [!tip] "Energia escura fantasma"
-> Alguns modelos alternativos de energia escura (chamados de **"energia escura fantasma"**, *phantom dark energy*, com $w < -1$) alterariam a taxa de expansão de forma diferente do $\Lambda$CDM padrão — e podem, inclusive, afetar como interpretamos os limites cosmológicos sobre a massa dos neutrinos.
+> Alguns modelos alternativos de energia escura (chamados de **"energia escura fantasma"**, _phantom dark energy_, com $w < -1$) alterariam a taxa de expansão de forma diferente do $\Lambda$CDM padrão — e podem, inclusive, afetar como interpretamos os limites cosmológicos sobre a massa dos neutrinos.
 
 ---
 
@@ -154,11 +144,12 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 ## ❓ Perguntas e discussões da palestra
 
 > [!question] Perguntas
-> *(nenhuma pergunta registrada nesta palestra)*
+> _(nenhuma pergunta registrada nesta palestra)_
 
 ---
 
 ## 🔗 Referências e correlatos
+
 - [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o modelo $\Lambda$CDM e os candidatos a matéria escura citados aqui
 - [OASI](pt-br/resource/escolainverno/palestras/oasi)
 - [Bolsas](pt-br/resource/escolainverno/palestras/bolsas)

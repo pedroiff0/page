@@ -1,21 +1,7 @@
 ---
-publish: true
-title: "📐 Lecture 07 — Distances, Distance Scale & Coordinate Systems"
-titulo: CursoON-Aula07
-disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
-conteudo: The cosmic distance ladder — from radar to Type Ia supernovae — and the horizontal, equatorial, and galactic coordinate systems
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - galactic-archaeology
-  - stellar-populations
-  - distances
-  - galactic-coordinates
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"📐 Lecture 07 — Distances, Distance Scale & Coordinate Systems","created":"2026-07-23","modified":"2026-07-23T00:27:10.312-03:00","tags":["curso-on","galactic-archaeology","stellar-populations","distances","galactic-coordinates"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 📐 Lecture 07 — Distances, Distance Scale & Coordinate Systems
 
 > [!note] Summary
@@ -54,9 +40,9 @@ Each distance-measuring method is only valid within a range of scales, and the n
 
 Our eyes only perceive depth at short range because the baseline (interpupillary distance) is tiny — for distant objects, $\alpha$ becomes imperceptible. In Astronomy, we have access to much larger baselines: **Earth's diameter**, or better still, **Earth's orbital diameter** (2 AU), observing the same object 6 months apart.
 
-For small angles, $\tan p \approx p$, and defining $p$ in arcseconds leads to the **parsec** unit ("*parallax second*"): the distance of an object whose parallax is exactly 1 arcsecond:
+For small angles, $\tan p \approx p$, and defining $p$ in arcseconds leads to the **parsec** unit ("_parallax second_"): the distance of an object whose parallax is exactly 1 arcsecond:
 
-$$d\,[\text{pc}] = \frac{1}{p\,['']}$$
+$d\,[\text{pc}] = \frac{1}{p\,['']}$
 
 **Friedrich Bessel (1838)** was the first to successfully measure a stellar parallax, for the star **61 Cygni** ($p=0.314'' \Rightarrow d=3.18\,$pc).
 
@@ -75,11 +61,11 @@ Measured parallax: $p = 0.3564 \pm 0.1343\,$mas (high uncertainty, since the sta
 
 ## 🌌 Distances at the galactic scale — main-sequence fitting
 
-Star clusters are groups of stars born approximately together — this is reflected in the distribution of their member stars on the HR diagram. Since apparent brightness depends on distance, and **all** stars in a given cluster are at the same distance, it's possible to fit a single theoretical model (isochrone) to all of them simultaneously, with **four free parameters**: age, chemical composition, reddening, and distance modulus [e.g., Oliveira et al. 2020, for the globular cluster Messier 69]. This would be impossible for a single isolated star, but with a cluster's thousands of stars constraining the fit simultaneously, it becomes tractable.
+Star clusters are groups of stars born approximately together — this is reflected in the distribution of their member stars on the HR diagram. Since apparent brightness depends on distance, and **all** stars in a given cluster are at the same distance, it's possible to fit a single theoretical model (isochrone) to all of them simultaneously, with **four free parameters**: age, chemical composition, reddening, and distance modulus \[e.g., Oliveira et al. 2020, for the globular cluster Messier 69]. This would be impossible for a single isolated star, but with a cluster's thousands of stars constraining the fit simultaneously, it becomes tractable.
 
 ## 🌠 Distances to nearby galaxies — Cepheid variables
 
-**Henrietta Leavitt** (early 20th century), studying variable stars in the Magellanic Clouds, noticed a relation between **pulsation period** and **brightness** for these stars — the **period-luminosity relation** ("Leavitt's Law") [1912HarCi.173....1L]. Cepheids are highly luminous pulsating stars, bright enough to be observed in nearby galaxies.
+**Henrietta Leavitt** (early 20th century), studying variable stars in the Magellanic Clouds, noticed a relation between **pulsation period** and **brightness** for these stars — the **period-luminosity relation** ("Leavitt's Law") \[1912HarCi.173....1L]. Cepheids are highly luminous pulsating stars, bright enough to be observed in nearby galaxies.
 
 > [!warning] Calibration required
 > To apply this relation as a distance measurement, one first needs to know the distance of **some** Cepheids by another method (parallax, clusters) — only then can the period-luminosity relation be calibrated on an absolute scale. Once calibrated, a Cepheid becomes a **standard candle**: its luminosity is known from the observed period, allowing distance to be computed directly.
@@ -90,7 +76,7 @@ Star clusters are groups of stars born approximately together — this is reflec
 
 Stars with mass close to the Sun's end their lives as **white dwarfs** (after the asymptotic giant branch phase and planetary nebula ejection). A key property of white dwarfs is the **Chandrasekhar mass limit** ($\sim1.4\,M_\odot$). In a binary system, a white dwarf can accrete material from a companion star; if it reaches the Chandrasekhar limit, a **Type Ia supernova** occurs.
 
-Since all Type Ia SNe explode at nearly the same mass, they release very similar amounts of energy — their luminosities are well known and can be used as **standard candles** [K. Maguire 2017]. Unlike individual stars, supernovae can shine as bright as an entire galaxy, allowing distances to be measured accurately at scales far beyond any other method on the ladder.
+Since all Type Ia SNe explode at nearly the same mass, they release very similar amounts of energy — their luminosities are well known and can be used as **standard candles** \[K. Maguire 2017]. Unlike individual stars, supernovae can shine as bright as an entire galaxy, allowing distances to be measured accurately at scales far beyond any other method on the ladder.
 
 ### Full Hubble constant calibration chain
 

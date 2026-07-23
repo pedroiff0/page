@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "📅 2025"
-created: 2026-07-23
+{"publish":true,"title":"📅 2025","created":"2026-07-23","modified":"2026-07-23T00:33:58.895-03:00"}
 ---
 
 > [!note] Resumo

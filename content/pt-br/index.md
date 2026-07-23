@@ -1,7 +1,5 @@
 ---
-publish: true
-title: Sobre Mim
-created: 2026-07-18T14:50:18.601-03:00
+{"publish":true,"title":"Sobre Mim","created":"2026-07-18T14:50:18.601-03:00","modified":"2026-07-22T23:31:43.331-03:00"}
 ---
 
 > [!info] Bem-vindo(a)!
@@ -40,6 +38,7 @@ Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensa
 </form>
 
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
 <script>
 (function() {
   // TODO(Pedro): substitua pelas suas credenciais de https://dashboard.emailjs.com

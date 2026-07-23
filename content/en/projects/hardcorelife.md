@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "HardCoreLife — Modular Life Platform"
-created: 2026-03-13
+{"publish":true,"title":"HardCoreLife — Modular Life Platform","created":"2026-03-13","modified":"2026-07-22T23:34:49.784-03:00"}
 ---
 
 > [!note] In one line

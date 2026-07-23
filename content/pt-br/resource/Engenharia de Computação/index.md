@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "Engenharia de Computação"
-order: 1
+{"publish":true,"title":"Engenharia de Computação","created":"2026-07-22T23:19:18.783-03:00","modified":"2026-07-22T23:19:18.783-03:00"}
 ---
 
 > [!note] Sobre o curso

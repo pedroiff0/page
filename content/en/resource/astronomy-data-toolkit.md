@@ -1,7 +1,5 @@
 ---
-publish: true
-title: Astronomy Data Toolkit
-created: 2025-12-22
+{"publish":true,"title":"Astronomy Data Toolkit","created":"2025-12-22","modified":"2026-07-22T23:21:07.000-03:00"}
 ---
 
 > [!note] Summary

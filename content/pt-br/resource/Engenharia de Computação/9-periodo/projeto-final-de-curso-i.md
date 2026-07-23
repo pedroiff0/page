@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Projeto Final de Curso I"
-tags:
- - disciplina
- - especifica
+{"publish":true,"title":"Projeto Final de Curso I","created":"2026-07-22T23:18:58.779-03:00","modified":"2026-07-22T23:18:58.779-03:00","tags":["disciplina","especifica"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -52,7 +48,7 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 ## 📕 Bibliografia Básica
 
 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo: Atlas, 2017.
-2. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
+2. \_\_\_\_\_\_. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
 3. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo:
 4. Elsevier, 2014.
 
@@ -61,6 +57,6 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto. 3ª Edição. Porto Alegre: São Paulo, 2010.
 2. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
 3. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 2017.
-4. ______. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
+4. \_\_\_\_\_\_. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
 5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição. São Paulo:
 6. Penso, 2013.

@@ -1,25 +1,11 @@
 ---
-publish: true
-title: "🔭 Aula 04 — Espectroscopia e Metalicidade"
-titulo: CursoON-Aula04
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Leis de Kirchhoff, formação de linhas espectrais, a descoberta do hélio e a notação de metalicidade [Fe/H]
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - espectroscopia
-  - metalicidade
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"🔭 Aula 04 — Espectroscopia e Metalicidade","created":"2026-07-23","modified":"2026-07-23T00:19:29.294-03:00","tags":["curso-on","arqueologia-galactica","populacoes-estelares","espectroscopia","metalicidade"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 🔭 Aula 04 — Espectroscopia e Metalicidade
 
 > [!note] Resumo
-> A espectroscopia é o fundamento indispensável da astrofísica moderna: revela composição química, movimento e distância a partir de como a matéria emite e absorve radiação. Esta aula percorre a física da formação de linhas espectrais e chega à notação [Fe/H], usada em toda a arqueologia galáctica para medir metalicidade.
+> A espectroscopia é o fundamento indispensável da astrofísica moderna: revela composição química, movimento e distância a partir de como a matéria emite e absorve radiação. Esta aula percorre a física da formação de linhas espectrais e chega à notação \[Fe/H], usada em toda a arqueologia galáctica para medir metalicidade.
 
 > [!info] Informações da aula
 > **Disciplina:** Arqueologia Galáctica e Populações Estelares
@@ -54,7 +40,7 @@ Cada elemento químico possui um conjunto único e característico de linhas —
 
 Um elétron ligado a um núcleo tem um **estado fundamental** (energia mínima) e uma **energia de ionização** (acima da qual deixa de estar ligado — o átomo torna-se um íon). Entre esses dois limites, o elétron só pode ocupar **níveis discretos de energia** bem definidos. A energia do fóton emitido/absorvido numa transição é:
 
-$$\Delta E = h\nu = \frac{hc}{\lambda} = E_0\left(\frac{1}{n_1^2} - \frac{1}{n_2^2}\right)$$
+$\Delta E = h\nu = \frac{hc}{\lambda} = E_0\left(\frac{1}{n_1^2} - \frac{1}{n_2^2}\right)$
 
 onde $E_0 = -13{,}6\,$eV é o potencial de ionização do hidrogênio (fórmula de Rydberg).
 
@@ -74,26 +60,26 @@ Comparando espectros de estrelas de tipo espectral semelhante, um aumento na qua
 
 Os primeiros modelos de evolução estelar consideravam apenas três componentes de abundância: hidrogênio ($X$), hélio ($Y$) e metais ($Z$), com $X+Y+Z=1$. Espectroscopicamente, assume-se $Z \propto n(\text{Fe})$, dando origem à notação padrão:
 
-$$[\text{Fe/H}] = \log_{10}\left(\frac{N_{Fe}/N_H}{(N_{Fe}/N_H)_\odot}\right)$$
+$[\text{Fe/H}] = \log_{10}\left(\frac{N_{Fe}/N_H}{(N_{Fe}/N_H)_\odot}\right)$
 
 De forma equivalente, define-se uma razão de abundância entre dois elementos quaisquer, $[X/Y]$.
 
-### Interpretando [Fe/H]
+### Interpretando \[Fe/H]
 
 | Valor | Interpretação |
 |---|---|
-| $[\text{Fe/H}] > 0$ | *metal-rich* — mais rica em metais que o Sol |
-| $[\text{Fe/H}] < 0$ | *metal-poor* — mais pobre que o Sol |
+| $[\text{Fe/H}] > 0$ | _metal-rich_ — mais rica em metais que o Sol |
+| $[\text{Fe/H}] < 0$ | _metal-poor_ — mais pobre que o Sol |
 | $[\text{Fe/H}] = -1$ | 10× menos ferro que o Sol |
 | $[\text{Fe/H}] = -2$ | 100× menos ferro |
 | $[\text{Fe/H}] = -3$ | 1000× menos ferro |
 | $[\text{Fe/H}] = -4$ | 10000× menos ferro |
 
-[Beers & Christlieb 2005] é a referência clássica para a busca e caracterização de estrelas extremamente pobres em metais — os fósseis mais antigos acessíveis da arqueologia galáctica.
+\[Beers & Christlieb 2005] é a referência clássica para a busca e caracterização de estrelas extremamente pobres em metais — os fósseis mais antigos acessíveis da arqueologia galáctica.
 
 ### Metalicidade fotométrica
 
-Também é possível estimar metalicidade a partir de **fotometria** (cores), sem espectroscopia — uma alternativa mais barata para grandes levantamentos, ainda que menos precisa [Babusiaux et al. 2018].
+Também é possível estimar metalicidade a partir de **fotometria** (cores), sem espectroscopia — uma alternativa mais barata para grandes levantamentos, ainda que menos precisa \[Babusiaux et al. 2018].
 
 ---
 
@@ -101,7 +87,7 @@ Também é possível estimar metalicidade a partir de **fotometria** (cores), se
 
 - **Leis de Kirchhoff:** espectro contínuo (fonte densa quente) vs. emissão (gás quente rarefeito) vs. absorção (gás frio rarefeito na frente de fonte contínua).
 - **Séries de Balmer:** transições do H visíveis no óptico, responsáveis pelo pico de intensidade das linhas de H em estrelas tipo A.
-- **[Fe/H]:** notação logarítmica-relativa ao Sol; base quantitativa de toda a arqueologia química da Galáxia.
+- **\[Fe/H]:** notação logarítmica-relativa ao Sol; base quantitativa de toda a arqueologia química da Galáxia.
 
 ## 🔗 Referências e correlatos
 
@@ -110,5 +96,5 @@ Também é possível estimar metalicidade a partir de **fotometria** (cores), se
 - [Curso ON — visão geral](pt-br/resource/curso-on)
 - [Aula 03 — Magnitudes, Cores e Classificação Espectral](pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral)
 - [Aula 05 — Avermelhamento, Extinção e IMF](pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf)
-- [Escola de Inverno — Arqueologia Galáctica, Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — notação [Fe/H] e [α/Fe] aplicada à separação de populações
+- [Escola de Inverno — Arqueologia Galáctica, Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — notação \[Fe/H] e \[α/Fe] aplicada à separação de populações
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — minha pesquisa usa espectros GALAH DR4 processados com os mesmos princípios vistos aqui

@@ -1,20 +1,7 @@
 ---
-publish: true
-title: "🌟 Lecture 02 — HR Diagram & Star Clusters"
-titulo: CursoON-Aula02
-disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
-conteudo: Open vs. globular clusters, the initial mass function (IMF), isochrones, and the population I/II/III nomenclature
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - galactic-archaeology
-  - stellar-populations
-  - star-clusters
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"🌟 Lecture 02 — HR Diagram & Star Clusters","created":"2026-07-23","modified":"2026-07-23T00:25:01.872-03:00","tags":["curso-on","galactic-archaeology","stellar-populations","star-clusters"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 🌟 Lecture 02 — HR Diagram & Star Clusters
 
 > [!note] Summary
@@ -55,9 +42,10 @@ Dominated by old (redder) stars, occupying different evolutionary stages on the 
 
 ## 🧮 Initial Mass Function (IMF)
 
-The **IMF** describes the probability that a star of a given mass will form in a given environment [Offner et al. 2014]. The distribution shows that the probability of forming high-mass stars ($>10\,M_\odot$) is very low in all observed cases.
+The **IMF** describes the probability that a star of a given mass will form in a given environment \[Offner et al. 2014]. The distribution shows that the probability of forming high-mass stars ($>10\,M_\odot$) is very low in all observed cases.
 
 > [!warning] Open questions about the IMF
+>
 > - How does the IMF behave in the limit of very high masses ($\sim100\,M_\odot$)?
 > - What is the characteristic mass (the IMF's peak)?
 > - Is the IMF **universal**, or does it vary across star-forming environments?
@@ -73,13 +61,13 @@ An **isochrone** is a curve on the HR diagram representing a population of simpl
 > [!warning] Isochrone ≠ evolutionary track
 > Isochrones depict **entire** stellar populations (all the stars of a cluster, at one instant), while evolutionary tracks describe the evolution of a **single star** over time. These are frequently confused, but orthogonal, concepts.
 
-Four parameters shape an isochrone's form: **reddening**, **distance**, **age**, and **metallicity** [Souza et al. 2020] — the same four parameters that reappear in Lecture 07 as free parameters in the cluster-based distance fit.
+Four parameters shape an isochrone's form: **reddening**, **distance**, **age**, and **metallicity** \[Souza et al. 2020] — the same four parameters that reappear in Lecture 07 as free parameters in the cluster-based distance fit.
 
-Populations of the **same age** are the ideal environment for studying how stellar evolution depends on mass — comparing young and old populations side by side [Babusiaux et al. 2018].
+Populations of the **same age** are the ideal environment for studying how stellar evolution depends on mass — comparing young and old populations side by side \[Babusiaux et al. 2018].
 
 ## 🗺️ Clusters in the context of the Galaxy
 
-Since open clusters host young populations, they must be tied to regions where gas is available to form stars: the **galactic plane**, especially the gas- and dust-rich spiral-arm disk. That's why open clusters are used to **map the disk and spiral arms** [Hao et al. 2021; Castro-Ginard et al. 2021] — the current reference catalog totals **5647 open clusters** [Hunt & Reffert 2024].
+Since open clusters host young populations, they must be tied to regions where gas is available to form stars: the **galactic plane**, especially the gas- and dust-rich spiral-arm disk. That's why open clusters are used to **map the disk and spiral arms** \[Hao et al. 2021; Castro-Ginard et al. 2021] — the current reference catalog totals **5647 open clusters** \[Hunt & Reffert 2024].
 
 Globular clusters, being old, can occupy regions far from the galactic plane — in the halo.
 
@@ -87,7 +75,7 @@ Globular clusters, being old, can occupy regions far from the galactic plane —
 
 - **Population I:** young and metal-rich. The most abundant type in the Galaxy; typical of open clusters and spiral arms. **The Sun is a Population I star.**
 - **Population II:** old and metal-poor. Typical of globular clusters, the Galaxy's halo, and predominant in elliptical galaxies.
-- **Population III:** hypothetical — the **first stars ever born in the Universe**, made only of H and He (+ traces of light elements), forming before any chemical enrichment. **No Population III star has ever been found** — the lowest metallicity ever observed is only $10^{-7}$ the Sun's proportion of heavy elements [Frebel & Norris 2018].
+- **Population III:** hypothetical — the **first stars ever born in the Universe**, made only of H and He (+ traces of light elements), forming before any chemical enrichment. **No Population III star has ever been found** — the lowest metallicity ever observed is only $10^{-7}$ the Sun's proportion of heavy elements \[Frebel & Norris 2018].
 
 ---
 

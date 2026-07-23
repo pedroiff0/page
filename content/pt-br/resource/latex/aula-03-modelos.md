@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "🧩 Aula 03 — Templates e Classes"
-created: 2026-03-16
+{"publish":true,"title":"🧩 Aula 03 — Templates e Classes","created":"2026-03-16","modified":"2026-07-23T00:06:13.508-03:00"}
 ---
 
 > [!note] Resumo

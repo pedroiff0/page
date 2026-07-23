@@ -1,25 +1,11 @@
 ---
-publish: true
-title: "🔭 Lecture 04 — Spectroscopy & Metallicity"
-titulo: CursoON-Aula04
-disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
-conteudo: Kirchhoff's laws, spectral line formation, the discovery of helium, and the [Fe/H] metallicity notation
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - galactic-archaeology
-  - stellar-populations
-  - spectroscopy
-  - metallicity
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"🔭 Lecture 04 — Spectroscopy & Metallicity","created":"2026-07-23","modified":"2026-07-23T00:25:48.132-03:00","tags":["curso-on","galactic-archaeology","stellar-populations","spectroscopy","metallicity"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 🔭 Lecture 04 — Spectroscopy & Metallicity
 
 > [!note] Summary
-> Spectroscopy is the indispensable foundation of modern astrophysics: it reveals chemical composition, motion, and distance from how matter emits and absorbs radiation. This lecture traces the physics of spectral line formation and arrives at the [Fe/H] notation used across all of galactic archaeology to measure metallicity.
+> Spectroscopy is the indispensable foundation of modern astrophysics: it reveals chemical composition, motion, and distance from how matter emits and absorbs radiation. This lecture traces the physics of spectral line formation and arrives at the \[Fe/H] notation used across all of galactic archaeology to measure metallicity.
 
 > [!info] Lecture info
 > **Course:** Galactic Archaeology and Stellar Populations
@@ -54,7 +40,7 @@ Every chemical element has a unique, characteristic set of lines — this is wha
 
 An electron bound to a nucleus has a **ground state** (minimum energy) and an **ionization energy** (above which it's no longer bound — the atom becomes an ion). Between these two limits, the electron can only occupy **discrete energy levels**. The energy of the photon emitted/absorbed in a transition is:
 
-$$\Delta E = h\nu = \frac{hc}{\lambda} = E_0\left(\frac{1}{n_1^2} - \frac{1}{n_2^2}\right)$$
+$\Delta E = h\nu = \frac{hc}{\lambda} = E_0\left(\frac{1}{n_1^2} - \frac{1}{n_2^2}\right)$
 
 where $E_0 = -13.6\,$eV is hydrogen's ionization potential (Rydberg's formula).
 
@@ -74,11 +60,11 @@ Comparing spectra of stars with similar spectral type, an increase in the number
 
 Early stellar evolution models considered only three abundance components: hydrogen ($X$), helium ($Y$), and metals ($Z$), with $X+Y+Z=1$. Spectroscopically, one assumes $Z \propto n(\text{Fe})$, giving rise to the standard notation:
 
-$$[\text{Fe/H}] = \log_{10}\left(\frac{N_{Fe}/N_H}{(N_{Fe}/N_H)_\odot}\right)$$
+$[\text{Fe/H}] = \log_{10}\left(\frac{N_{Fe}/N_H}{(N_{Fe}/N_H)_\odot}\right)$
 
 Equivalently, an abundance ratio between any two elements, $[X/Y]$, can be defined.
 
-### Interpreting [Fe/H]
+### Interpreting \[Fe/H]
 
 | Value | Interpretation |
 |---|---|
@@ -89,11 +75,11 @@ Equivalently, an abundance ratio between any two elements, $[X/Y]$, can be defin
 | $[\text{Fe/H}] = -3$ | 1000× less iron |
 | $[\text{Fe/H}] = -4$ | 10000× less iron |
 
-[Beers & Christlieb 2005] is the classic reference for searching and characterizing extremely metal-poor stars — the oldest fossils accessible to galactic archaeology.
+\[Beers & Christlieb 2005] is the classic reference for searching and characterizing extremely metal-poor stars — the oldest fossils accessible to galactic archaeology.
 
 ### Photometric metallicity
 
-Metallicity can also be estimated from **photometry** (colors) alone, without spectroscopy — a cheaper alternative for large surveys, though less precise [Babusiaux et al. 2018].
+Metallicity can also be estimated from **photometry** (colors) alone, without spectroscopy — a cheaper alternative for large surveys, though less precise \[Babusiaux et al. 2018].
 
 ---
 
@@ -101,7 +87,7 @@ Metallicity can also be estimated from **photometry** (colors) alone, without sp
 
 - **Kirchhoff's laws:** continuous spectrum (dense hot source) vs. emission (hot rarefied gas) vs. absorption (cool rarefied gas in front of a continuous source).
 - **Balmer series:** optical H transitions responsible for the peak in H line intensity in A-type stars.
-- **[Fe/H]:** Sun-relative logarithmic notation; the quantitative basis of all of the Galaxy's chemical archaeology.
+- **\[Fe/H]:** Sun-relative logarithmic notation; the quantitative basis of all of the Galaxy's chemical archaeology.
 
 ## 🔗 References and related
 
@@ -110,5 +96,5 @@ Metallicity can also be estimated from **photometry** (colors) alone, without sp
 - [CursoON — overview](en/resource/curso-on)
 - [Lecture 03 — Magnitudes, Colors & Spectral Classification](en/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral)
 - [Lecture 05 — Reddening, Extinction & IMF](en/resource/curso-on/aula-05-avermelhamento-extincao-e-imf)
-- [Winter School — Galactic Archaeology, Lecture 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — [Fe/H] and [α/Fe] notation applied to population separation (Portuguese only)
+- [Winter School — Galactic Archaeology, Lecture 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — \[Fe/H] and \[α/Fe] notation applied to population separation (Portuguese only)
 - [Anomaly Detection in Gaia Data](en/research/anomaly-detection) — my research uses GALAH DR4 spectra processed with the same principles seen here

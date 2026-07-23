@@ -1,18 +1,7 @@
 ---
-publish: true
-title: "Resumo Geral"
-titulo: Escola de Inverno 2026
-disciplina: Resumo Geral
-conteudo: Panorama de tudo o que foi visto na Escola de Inverno do Observatório Nacional (ON) 2026
-professor:
-created: 2026-07-22T00:00:00-03:00
-tags:
-  - escola-de-inverno-on
-  - resumo
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"Resumo Geral","created":"2026-07-22T00:00:00-03:00","modified":"2026-07-22T23:13:52.442-03:00","tags":["escola-de-inverno-on","resumo"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 🌌 Resumo Geral — Escola de Inverno do Observatório Nacional (2026)
 
 > [!info] Sobre este arquivo
@@ -37,9 +26,9 @@ Confira aqui a [programação completa](#-programação-completa-20-a-2407) da s
 | Palestra | Palestrante | Tema | Data | Nota |
 |---|---|---|---|---|
 | P1 | Gabriel Rodrigues | Neutrinos e a Cosmologia | 20/07 | [[Neutrinos\|Neutrinos]] |
-| P2 | Daniela Lazzaro | 15 anos do OASI | 21/07 | *(a preencher)* |
-| P3 | Rebeca Batalha | De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo | 23/07 | *(a preencher)* |
-| P4 | Marília Carlos | Composições químicas estelares com alta precisão e acurácia | 24/07 | *(a preencher)* |
+| P2 | Daniela Lazzaro | 15 anos do OASI | 21/07 | _(a preencher)_ |
+| P3 | Rebeca Batalha | De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo | 23/07 | _(a preencher)_ |
+| P4 | Marília Carlos | Composições químicas estelares com alta precisão e acurácia | 24/07 | _(a preencher)_ |
 
 ---
 
@@ -76,6 +65,7 @@ Por trás de tudo isso está a **Computação de Alto Desempenho**: a ferramenta
 ## 🔑 Grandes ideias que aparecem repetidamente
 
 > [!tip] Temas recorrentes entre as aulas
+>
 > - **Matéria escura:** aparece em Aglomerados (Zwicky/Coma, lentes gravitacionais), em Cosmologia (CDM, candidatos WIMP/áxion) e em Neutrinos (neutrinos como matéria escura "quente", mas insuficiente).
 > - **Supernovas:** conectam Arqueologia Galáctica (nucleossíntese, origem dos elementos) e Cosmologia (supernovas Ia como "velas padrão" para medir a expansão do Universo).
 > - **Teorema do virial e equilíbrio:** usado tanto para "pesar" aglomerados de galáxias quanto para entender o equilíbrio hidrostático de estrelas e do gás intra-aglomerado.
@@ -87,26 +77,33 @@ Por trás de tudo isso está a **Computação de Alto Desempenho**: a ferramenta
 ## 📚 Resumo por área
 
 ### 🌐 Aglomerados de Galáxias
+
 Os aglomerados são os maiores objetos já **virializados** do Universo ($10^{14}$–$10^{15}\,M_\odot$), compostos majoritariamente por **matéria escura (~80%)**, com gás quente (ICM, ~15%) e galáxias (~5%). Zwicky, em 1933, foi o primeiro a notar essa discrepância de massa usando o **teorema do virial** no Aglomerado de Coma. Hoje detectamos aglomerados por 4 vias complementares: óptico (galáxias, sequência vermelha), raio-X (gás do ICM), micro-ondas (efeito Sunyaev-Zel'dovich) e lentes gravitacionais fracas (mapeando a matéria escura diretamente).
 
 ### ⭐ Arqueologia Galáctica
+
 Estrelas são classificadas pela sequência espectral **OBAFGKM** (temperatura decrescente). Ao longo da vida e, principalmente, ao morrer (supernovas, nebulosas planetárias, colisões de estrelas de nêutrons), as estrelas produzem e espalham elementos químicos pelo espaço — os processos **s** (lento, em estrelas AGB) e **r** (rápido, em fusões de estrelas de nêutrons) explicam a origem de praticamente toda a tabela periódica além do ferro. Comparando a composição química de estrelas antigas e novas (populações I, II e III), reconstruímos a história de formação da Via Láctea.
 
 ### 💻 Computação de Alto Desempenho
+
 Para simular os fenômenos acima (N-corpos, hidrodinâmica, aprendizado de máquina), astrônomos usam **clusters de supercomputadores**. Dois paradigmas principais: **OpenMP** (memória compartilhada, paraleliza laços dentro de um mesmo nó) e **MPI** (memória distribuída, troca mensagens entre muitos nós via broadcast/reduce/scatter/gather).
 
 ### 🌀 Cosmologia
+
 O modelo padrão **ΛCDM** descreve um Universo composto por ~68% energia escura, ~27% matéria escura fria e ~5% matéria comum. Ele é testado por três sondas principais: **supernovas Ia** (expansão acelerada, descoberta em 1998), a **Radiação Cósmica de Fundo** (fóssil térmico do Universo primordial, a 2,725 K) e a **Estrutura em Grande Escala** (a teia cósmica de filamentos e aglomerados).
 
 ### 👻 Neutrinos
+
 Previstos por Pauli (1930) para salvar a conservação de energia no decaimento beta, os neutrinos só foram detectados em 1956. Em 1998, a descoberta da **oscilação de neutrinos** provou que eles têm massa — um dado que hoje é comparado diretamente com limites obtidos da própria cosmologia (RCF + estrutura em grande escala), unindo física de partículas e o Universo em grande escala.
 
 ### 🪐 Ciências Planetárias
+
 O Sistema Solar se formou a partir do colapso gravitacional de uma nuvem molecular, passando por um disco protoplanetário. Sua dinâmica é regida pela gravitação newtoniana e pelas **leis de Kepler**, com órbitas descritas por 6 elementos orbitais constantes (no problema de 2 corpos). Modelos dinâmicos como o **Grand Tack** e o **modelo de Nice** explicam características hoje observadas, como a baixa massa de Marte e o Bombardeio Intenso Tardio da Lua.
 
 ---
 
 ## 🔗 Notas completas
+
 - [[Aglomerados-Aula01]] · [[Aglomerados-Aula02]]
 - [[ArqueologiaGalactica-Aula01]] · [[ArqueologiaGalactica-Aula02]]
 - [[Computacao-Aula01]] · [[Computacao-Aula02]]

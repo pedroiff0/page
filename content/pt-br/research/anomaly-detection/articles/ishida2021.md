@@ -1,15 +1,11 @@
 ---
-publish: true
-title: "Detecção Ativa de Anomalias (Time-Domain)"
-tags:
-  - artigo
-  - pesquisa
+{"publish":true,"title":"Detecção Ativa de Anomalias (Time-Domain)","created":"2026-07-22T23:19:27.451-03:00","modified":"2026-07-22T23:19:27.451-03:00","tags":["artigo","pesquisa"]}
 ---
 
 > [!note] Em resumo
 > Apresenta a primeira evidência de que técnicas de aprendizado adaptativo (active learning) aumentam a descoberta de objetos incomuns na astronomia.
 
-*Ishida, E.~E.~O. (2021)*
+_Ishida, E.~E.~O. (2021)_
 
 ## Síntese
 

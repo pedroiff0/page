@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "5º Período"
-order: 5
+{"publish":true,"title":"5º Período","created":"2026-07-22T23:28:19.526-03:00","modified":"2026-07-22T23:28:19.526-03:00"}
 ---
 
 > [!note] Sobre este período

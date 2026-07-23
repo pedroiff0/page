@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "🛠️ Lesson 01 — Setup & Environment"
-created: 2026-03-16
+{"publish":true,"title":"🛠️ Lesson 01 — Setup & Environment","created":"2026-03-16","modified":"2026-07-23T00:09:03.885-03:00"}
 ---
 
 > [!note] Summary

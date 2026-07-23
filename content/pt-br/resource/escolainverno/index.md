@@ -1,6 +1,5 @@
 ---
-publish: true
-title: "Escola de Inverno (ON 2026)"
+{"publish":true,"title":"Escola de Inverno (ON 2026)","created":"2026-07-22T23:32:01.663-03:00","modified":"2026-07-22T23:32:01.663-03:00"}
 ---
 
 > [!note] Resumo

@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "VerdeMenta — Cash Register Control"
-created: 2026-04-01
+{"publish":true,"title":"VerdeMenta — Cash Register Control","created":"2026-04-01","modified":"2026-07-22T23:34:55.256-03:00"}
 ---
 
 > [!note] In one line

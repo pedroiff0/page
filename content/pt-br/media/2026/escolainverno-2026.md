@@ -1,9 +1,7 @@
 ---
-publish: true
-title: Escola de Inverno ON - 2026
-photoFolder: escolainverno2026
-created: 2026-07-18T13:50:21.240-03:00
+{"publish":true,"title":"Escola de Inverno ON - 2026","created":"2026-07-18T13:50:21.240-03:00","modified":"2026-07-23T00:39:05.320-03:00"}
 ---
+
 # ❄️ Escola de Inverno ON - 2026
 
 > [!note] Resumo

@@ -1,8 +1,5 @@
 ---
-publish: false
-title: Sobre Mí
-created: 2026-07-18T14:50:18.601-03:00
-modified: 2026-07-23
+{"publish":true,"title":"Sobre Mí","created":"2026-07-18T14:50:18.601-03:00","modified":"2026-07-23"}
 ---
 
 > [!info] ¡Bienvenido(a)!

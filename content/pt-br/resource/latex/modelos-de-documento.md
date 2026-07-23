@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "📑 Modelos de Documento"
-created: 2026-03-17
+{"publish":true,"title":"📑 Modelos de Documento","created":"2026-03-17","modified":"2026-07-23T00:06:55.980-03:00"}
 ---
 
 > [!note] Resumo

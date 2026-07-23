@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Eletricidade Aplicada"
-tags:
- - disciplina
- - basico
+{"publish":true,"title":"Eletricidade Aplicada","created":"2026-07-22T23:18:58.775-03:00","modified":"2026-07-22T23:18:58.775-03:00","tags":["disciplina","basico"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -32,30 +28,33 @@ Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. 
 
 ## 📖 Conteúdo Programático
 
-1. [ ] Análise de Circuitos Em Corrente Alternada
- - [x] Padrões Elétricos e Convenções;
- - [x] Circuitos em Corrente Alternada;
- - [x] Representação Senoidal, Retangular e Polar;
- - [x] Valor Eficaz de uma Onda Senoidal;
- - [x] Triângulos de Impedâncias;
- - [x] Reatância indutiva;
- - [x] Reatância capacitiva;
- - [x] Triângulo de Potência;
- - [x] Potência Ativa;
- - [x] Potência Reativa;
- - [x] Potência Aparente;
- - [x] Fator de Potência;
- - [x] Noções de Circuitos Trifásicos;
- - [ ] Transformadores;
- - [x] Relação de transformação, ligação de triângulo e estrela;
-2. [ ] Fornecimento de Energia
- - [x] Visão Geral do Sistema Elétrico;
- - [x] Modalidades de Ligações dos Consumidores;
- - [x] Monofásica;
- - [x] Bifásica;
- - [x] Trifásica;
- - [ ] Instalação para Iluminação e Aparelhos Eletrodomésticos;
- - [ ] Normas, Símbolos e Convenções.
+1. Análise de Circuitos Em Corrente Alternada
+
+- Padrões Elétricos e Convenções;
+- Circuitos em Corrente Alternada;
+- Representação Senoidal, Retangular e Polar;
+- Valor Eficaz de uma Onda Senoidal;
+- Triângulos de Impedâncias;
+- Reatância indutiva;
+- Reatância capacitiva;
+- Triângulo de Potência;
+- Potência Ativa;
+- Potência Reativa;
+- Potência Aparente;
+- Fator de Potência;
+- Noções de Circuitos Trifásicos;
+- Transformadores;
+- Relação de transformação, ligação de triângulo e estrela;
+
+2. Fornecimento de Energia
+
+- Visão Geral do Sistema Elétrico;
+- Modalidades de Ligações dos Consumidores;
+- Monofásica;
+- Bifásica;
+- Trifásica;
+- Instalação para Iluminação e Aparelhos Eletrodomésticos;
+- Normas, Símbolos e Convenções.
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

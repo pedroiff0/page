@@ -1,20 +1,7 @@
 ---
-publish: true
-title: "🚀 Aula 08 — Velocidades e Movimento Próprio"
-titulo: CursoON-Aula08
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Velocidade radial e tangencial, o Padrão Local de Repouso e o movimento próprio das estrelas
-professor: Hélio Dotto Perottoni
-created: 2026-07-23
-tags:
-  - curso-on
-  - arqueologia-galactica
-  - populacoes-estelares
-  - cinematica-estelar
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"🚀 Aula 08 — Velocidades e Movimento Próprio","created":"2026-07-23","modified":"2026-07-23T00:21:59.274-03:00","tags":["curso-on","arqueologia-galactica","populacoes-estelares","cinematica-estelar"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 🚀 Aula 08 — Velocidades e Movimento Próprio
 
 > [!note] Resumo
@@ -34,7 +21,7 @@ A velocidade espacial de uma estrela, com respeito ao Sol, decompõe-se em dois 
 - **Velocidade radial ($v_R$):** ao longo da linha de visada, medida pelo **desvio Doppler** de linhas espectrais.
 - **Velocidade tangencial:** perpendicular à linha de visada, medida por técnicas **astrométricas** (movimento próprio + distância).
 
-$$v_R = c\,\frac{\Delta\lambda}{\lambda_0}$$
+$v_R = c\,\frac{\Delta\lambda}{\lambda_0}$
 
 onde $\Delta\lambda$ é o deslocamento Doppler e $\lambda_0$ o comprimento de onda de repouso da transição. O que é medido diretamente ao telescópio é a $v_R$ **topocêntrica**, que precisa ser corrigida sucessivamente para o centro da Terra ($v_R$ geocêntrica) e depois para o centro do Sol ($v_R$ heliocêntrica).
 
@@ -46,11 +33,11 @@ O referencial de velocidades na Galáxia baseia-se no sistema de coordenadas gal
 
 O **LSR** é definido pela velocidade **média** das estrelas na vizinhança solar. Como o único movimento global dessa vizinhança é rotacional, o LSR corresponde à velocidade circular na posição do Sol:
 
-$$(\Pi_{LSR}, \Theta_{LSR}, Z_{LSR}) = (0, \Theta_0, 0)$$
+$(\Pi_{LSR}, \Theta_{LSR}, Z_{LSR}) = (0, \Theta_0, 0)$
 
 O valor de $\Theta_0$ ainda é mal conhecido — a literatura usa valores entre 180 e 250 km/s, sendo **220 km/s** o mais comumente adotado. A velocidade **peculiar** de uma estrela em relação ao LSR é a diferença entre sua velocidade e $\Theta_0$.
 
-O próprio **Sol** tem uma velocidade peculiar em relação ao LSR — geralmente adotada como $(u,v,w)_\odot = (-9, 11, 6)\,$km/s [ver Mihalas & Binney 1980, Cap. 6, para os métodos de medida]. Ou seja, o **Sol se move um pouco mais rápido** do que o LSR estritamente definido. A velocidade heliocêntrica de qualquer estrela próxima é, portanto, a diferença entre as velocidades peculiares da estrela e do Sol.
+O próprio **Sol** tem uma velocidade peculiar em relação ao LSR — geralmente adotada como $(u,v,w)_\odot = (-9, 11, 6)\,$km/s \[ver Mihalas & Binney 1980, Cap. 6, para os métodos de medida]. Ou seja, o **Sol se move um pouco mais rápido** do que o LSR estritamente definido. A velocidade heliocêntrica de qualquer estrela próxima é, portanto, a diferença entre as velocidades peculiares da estrela e do Sol.
 
 ### Velocidade radial em outros referenciais
 
@@ -65,7 +52,7 @@ O deslocamento aparente de uma estrela na esfera celeste, causado pela sua veloc
 
 Para converter movimento próprio ($\mu$) em velocidade tangencial, é necessário conhecer a **distância** $d$ ao objeto (ver Aula 07):
 
-$$v_{tan} = 4{,}74\,\mu\,[''/\text{yr}]\; \cdot\; d\,[\text{pc}] \quad \text{km/s}$$
+$v_{tan} = 4{,}74\,\mu\,[''/\text{yr}]\; \cdot\; d\,[\text{pc}] \quad \text{km/s}$
 
 O movimento próprio observado será **grande** quando:
 

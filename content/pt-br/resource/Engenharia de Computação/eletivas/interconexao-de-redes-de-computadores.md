@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Interconexão de Redes de Computadores"
-tags:
- - disciplina
- - eletivo
+{"publish":true,"title":"Interconexão de Redes de Computadores","created":"2026-07-22T23:18:58.783-03:00","modified":"2026-07-22T23:18:58.783-03:00","tags":["disciplina","eletivo"]}
 ---
 
 > [!note] Sobre esta disciplina

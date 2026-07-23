@@ -1,9 +1,7 @@
 ---
-publish: true
-title: MOSTRATEC 2023
-photoFolder: mostratec2023
-created: 2023-10-23
+{"publish":true,"title":"MOSTRATEC 2023","created":"2023-10-23","modified":"2026-07-23T00:39:42.408-03:00"}
 ---
+
 # 🌎 MOSTRATEC 2023
 
 > [!note] Summary

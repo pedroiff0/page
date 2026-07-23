@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "📐 Lesson 02 — Basics"
-created: 2026-03-16
+{"publish":true,"title":"📐 Lesson 02 — Basics","created":"2026-03-16","modified":"2026-07-23T00:09:16.249-03:00"}
 ---
 
 > [!note] Summary

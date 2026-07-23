@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Algoritmos e Estruturas de Dados II"
-tags:
- - disciplina
- - profissionalizante
+{"publish":true,"title":"Algoritmos e Estruturas de Dados II","created":"2026-07-22T23:28:19.526-03:00","modified":"2026-07-22T23:28:19.526-03:00","tags":["disciplina","profissionalizante"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,27 +31,33 @@ tags:
 ## 📖 Conteúdo Programático
 
 1. Ordenação Externa
- - Manipulação de arquivos
+
+- Manipulação de arquivos
+
 2. Tabela Hash
- - Funções Hash
- - Tratamento de Colisões
- - Algoritmos para Tabelas Hash
+
+- Funções Hash
+- Tratamento de Colisões
+- Algoritmos para Tabelas Hash
+
 3. Árvores Binárias
- - Percurso em Árvores
- - Árvores Binárias
- - Árvores Binárias de Busca
- - Operações de Árvores Binárias de Busca
- - Balanceamento de Árvores
- - Árvores AVL
- - Inserção
- - Remoção
- - Busca
- - Rebalanceamento
- - Árvores B e B+
- - Inserção
- - Remoção
- - Busca
- - Rebalanceamento
+
+- Percurso em Árvores
+- Árvores Binárias
+- Árvores Binárias de Busca
+- Operações de Árvores Binárias de Busca
+- Balanceamento de Árvores
+- Árvores AVL
+- Inserção
+- Remoção
+- Busca
+- Rebalanceamento
+- Árvores B e B+
+- Inserção
+- Remoção
+- Busca
+- Rebalanceamento
+
 4. Estruturas de Dados Eficientes em Disco
 
 ## 📚 Materiais de Apoio (acesso aberto)

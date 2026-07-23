@@ -1,18 +1,7 @@
 ---
-publish: true
-title: "Aula 03"
-titulo: Cosmologia-Aula03
-disciplina: Cosmologia
-conteudo: Cosmologia — Estrutura em Grande Escala (conteúdo a ser preenchido)
-professor: Carlos Bengaly
-tags:
-  - escola-de-inverno-on
-  - cosmologia
-  - estrutura-em-grande-escala
-cssclasses:
-  - page-grid
-  - center-images
+{"publish":true,"title":"Aula 03","created":"2026-07-23T00:52:49.451-03:00","modified":"2026-07-23T00:52:49.451-03:00","tags":["escola-de-inverno-on","cosmologia","estrutura-em-grande-escala"],"cssclasses":["page-grid","center-images"]}
 ---
+
 # 🌠 Notas de Aula — Cosmologia (Aula 03)
 
 > [!note] Resumo
@@ -26,34 +15,36 @@ cssclasses:
 
 ## 🎯 Visão geral
 
-*Conteúdo desta aula ainda não registrado.* Tema relacionado à "teia cósmica" (voids, filamentos, nós) discutida na nota de [[Aglomerados-Aula01|Aglomerados]] — preencher com o conteúdo detalhado desta aula.
+_Conteúdo desta aula ainda não registrado._ Tema relacionado à "teia cósmica" (voids, filamentos, nós) discutida na nota de [[Aglomerados-Aula01|Aglomerados]] — preencher com o conteúdo detalhado desta aula.
 
 ### 📑 Tópicos abordados
-1. *(a preencher)*
+
+1. _(a preencher)_
 
 ---
 
 ## ⚠️ Pontos de atenção
 
 > [!important] Atenção
-> *(nenhuma anotação registrada ainda)*
+> _(nenhuma anotação registrada ainda)_
 
 ---
 
 ## 📌 Conceitos-chave
 
-- *(a preencher)*
+- _(a preencher)_
 
 ---
 
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 3)
-> *(nenhuma pergunta registrada ainda)*
+> _(nenhuma pergunta registrada ainda)_
 
 ---
 
 ## 🔗 Referências e correlatos
+
 - [Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01)
 - [Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02)
 - [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — a teia cósmica (voids, filamentos, nós)

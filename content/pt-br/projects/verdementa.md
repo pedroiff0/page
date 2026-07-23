@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "VerdeMenta — Controle de Caixa"
-created: 2026-04-01
+{"publish":true,"title":"VerdeMenta — Controle de Caixa","created":"2026-04-01","modified":"2026-07-22T23:33:35.068-03:00"}
 ---
 
 > [!note] Em uma frase

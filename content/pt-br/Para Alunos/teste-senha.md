@@ -1,8 +1,5 @@
 ---
-publish: true
-password: "0000"
-title: "🔒 Página de Teste"
-created: 2026-07-23
+{"publish":true,"title":"🔒 Página de Teste","created":"2026-07-23","modified":"2026-07-23T00:01:00.709-03:00"}
 ---
 
 > [!note] Resumo

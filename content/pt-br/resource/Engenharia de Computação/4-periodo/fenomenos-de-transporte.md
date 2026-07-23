@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Fenômenos de Transporte"
-tags:
- - disciplina
- - basico
+{"publish":true,"title":"Fenômenos de Transporte","created":"2026-07-22T23:18:58.775-03:00","modified":"2026-07-22T23:18:58.775-03:00","tags":["disciplina","basico"]}
 ---
 
 > [!note] Sobre esta disciplina
@@ -29,32 +25,35 @@ Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmic
 ## 📖 Conteúdo Programático
 
 1. Mecânica dos Fluidos
- - Princípios básicos e definições;
- - Sistema Internacional de Unidades;
- - Hidrostática;
- - Definição de fluido e de pressão;
- - Tensão de cisalhamento, viscosidade, diagrama de velocidades;
- - Massa específica, peso específico e fluido ideal;
- - Pressão e Teorema de Stevin, equação manométrica, medidores de pressão ;
- - Lei de Pascal e escala de pressão;
- - Empuxo;
- - Hidrodinâmica;
- - Escoamento laminar e turbulento;
- - Vazão, fluxo e seus medidores;
- - Conservação de Energia em escoamentos incompressíveis – Equação de Continuidade – Eq.
- - de Bernoulli;
- - Hidráulica técnica – Bombas, válvulas e medidores de vazão;
- - Perda de carga em tubulações.
+
+- Princípios básicos e definições;
+- Sistema Internacional de Unidades;
+- Hidrostática;
+- Definição de fluido e de pressão;
+- Tensão de cisalhamento, viscosidade, diagrama de velocidades;
+- Massa específica, peso específico e fluido ideal;
+- Pressão e Teorema de Stevin, equação manométrica, medidores de pressão ;
+- Lei de Pascal e escala de pressão;
+- Empuxo;
+- Hidrodinâmica;
+- Escoamento laminar e turbulento;
+- Vazão, fluxo e seus medidores;
+- Conservação de Energia em escoamentos incompressíveis – Equação de Continuidade – Eq.
+- de Bernoulli;
+- Hidráulica técnica – Bombas, válvulas e medidores de vazão;
+- Perda de carga em tubulações.
+
 2. Transmissão de Calor
- - Conceitos fundamentais de condução, convecção e radiação;
- - Lei de Fourier;
- - Equação da condução de calor;
- - Condução unidimensional em regime permanente;
- - Convecção;
- - Radiação;
- - Mecanismos Combinados;
- - Aletas e trocadores de calor – aplicação;
- - Transporte de massa: difusão.
+
+- Conceitos fundamentais de condução, convecção e radiação;
+- Lei de Fourier;
+- Equação da condução de calor;
+- Condução unidimensional em regime permanente;
+- Convecção;
+- Radiação;
+- Mecanismos Combinados;
+- Aletas e trocadores de calor – aplicação;
+- Transporte de massa: difusão.
 
 ## 📕 Bibliografia Básica
 

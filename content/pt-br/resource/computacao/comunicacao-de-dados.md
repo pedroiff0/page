@@ -1,16 +1,12 @@
 ---
-publish: true
-title: "Comunicação de Dados"
-tags:
- - recursos
- - computacao
+{"publish":true,"title":"Comunicação de Dados","created":"2026-07-22T23:28:19.526-03:00","modified":"2026-07-22T23:28:19.526-03:00","tags":["recursos","computacao"]}
 ---
 
 > [!info] Comunicação de dados é a camada mais fundamental das redes: como transformar informação em sinais elétricos, ópticos ou de rádio, transmiti-los por um meio físico cheio de ruído e recuperá-los do outro lado sem erro. É a ponte entre a engenharia elétrica e a computação.
 
 ## Por que estudar isso?
 
-Quando o Wi-Fi da sua casa fica instável perto do micro-ondas, quando a fibra óptica entrega 1 Gbps e o cabo de cobre da mesma rua não passa de 100 Mbps, quando uma ligação de vídeo "roboteia" — tudo isso se explica com comunicação de dados: interferência eletromagnética, capacidade de canal, atenuação, taxa de erro. Sem essa base, redes vira um conjunto de regras decoradas; com ela, você entende *por que* as regras existem e consegue prever quando vão falhar.
+Quando o Wi-Fi da sua casa fica instável perto do micro-ondas, quando a fibra óptica entrega 1 Gbps e o cabo de cobre da mesma rua não passa de 100 Mbps, quando uma ligação de vídeo "roboteia" — tudo isso se explica com comunicação de dados: interferência eletromagnética, capacidade de canal, atenuação, taxa de erro. Sem essa base, redes vira um conjunto de regras decoradas; com ela, você entende _por que_ as regras existem e consegue prever quando vão falhar.
 
 Um exemplo concreto: o teorema de Shannon diz que a capacidade máxima de um canal depende da largura de banda e da relação sinal-ruído. É esse resultado, provado em 1948, que explica por que o modem discado parou em 56 kbps, por que o 5G precisa de mais antenas e espectro, e por que não adianta "aumentar a velocidade" de um enlace ruim sem antes melhorar o sinal. Para um engenheiro de computação — que transita entre hardware e software — esse é conhecimento de fundação, não detalhe.
 
@@ -57,7 +53,7 @@ Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, pr
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
-- FOROUZAN, B. *Comunicação de Dados e Redes de Computadores*. A referência principal da disciplina: didático, cheio de figuras e com exercícios numéricos no nível exato do que cai em prova. Se for ler um só livro, é este.
+- FOROUZAN, B. _Comunicação de Dados e Redes de Computadores_. A referência principal da disciplina: didático, cheio de figuras e com exercícios numéricos no nível exato do que cai em prova. Se for ler um só livro, é este.
 
 ## 🔗 Referências externas
 

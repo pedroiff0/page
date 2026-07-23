@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "📑 Document Models"
-created: 2026-03-17
+{"publish":true,"title":"📑 Document Models","created":"2026-03-17","modified":"2026-07-23T00:09:57.413-03:00"}
 ---
 
 > [!note] Summary

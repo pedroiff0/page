@@ -1,9 +1,5 @@
 ---
-publish: true
-title: "Arquitetura de Computadores"
-tags:
- - recursos
- - computacao
+{"publish":true,"title":"Arquitetura de Computadores","created":"2026-07-22T23:28:19.526-03:00","modified":"2026-07-22T23:28:19.526-03:00","tags":["recursos","computacao"]}
 ---
 
 > [!info] O que é este tópico
@@ -13,7 +9,7 @@ tags:
 
 Um caso real e clássico: dois laços aninhados que percorrem a mesma matriz — um percorre por linhas, o outro por colunas. Mesmo algoritmo, mesma complexidade O(n²), mesmo número de operações. O que percorre por linhas roda até 10 vezes mais rápido. A explicação não está em nenhum livro de algoritmos: está na cache do processador, que carrega a memória em blocos contíguos. Quem estudou arquitetura prevê isso; quem não estudou desconfia do compilador.
 
-Pra Engenharia de Computação, esse conhecimento é ainda menos opcional: nas disciplinas de microcontroladores e sistemas embarcados você programa **direto no hardware** — registradores, interrupções, temporizadores, memória mapeada. Ali não existe camada protegendo você da máquina; a máquina *é* o seu ambiente de programação. Arquitetura é a disciplina que torna esse mundo legível.
+Pra Engenharia de Computação, esse conhecimento é ainda menos opcional: nas disciplinas de microcontroladores e sistemas embarcados você programa **direto no hardware** — registradores, interrupções, temporizadores, memória mapeada. Ali não existe camada protegendo você da máquina; a máquina _é_ o seu ambiente de programação. Arquitetura é a disciplina que torna esse mundo legível.
 
 ## Trilha de estudo
 
@@ -60,8 +56,8 @@ O que dominar: superescalar, multicore, coerência de cache em alto nível; e do
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- TANENBAUM, A. S. *Organização Estruturada de Computadores*. — A visão em camadas, do transistor à linguagem de montagem; excelente primeiro livro da área.
-- PATTERSON, D.; HENNESSY, J. *Organização e Projeto de Computadores*. — A referência definitiva de caminho de dados, pipeline e hierarquia de memória; é o livro das etapas 3 e 4.
+- TANENBAUM, A. S. _Organização Estruturada de Computadores_. — A visão em camadas, do transistor à linguagem de montagem; excelente primeiro livro da área.
+- PATTERSON, D.; HENNESSY, J. _Organização e Projeto de Computadores_. — A referência definitiva de caminho de dados, pipeline e hierarquia de memória; é o livro das etapas 3 e 4.
 
 ## 🔗 Referências externas
 

@@ -1,7 +1,5 @@
 ---
-publish: true
-title: "🛠️ Aula 01 — Instalação e Ambiente"
-created: 2026-03-16
+{"publish":true,"title":"🛠️ Aula 01 — Instalação e Ambiente","created":"2026-03-16","modified":"2026-07-23T00:05:44.743-03:00"}
 ---
 
 > [!note] Resumo
