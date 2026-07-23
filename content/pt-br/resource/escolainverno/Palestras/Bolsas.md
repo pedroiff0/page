@@ -15,7 +15,7 @@ cssclasses:
 # 🎤 Sessão PG/PIBIC — Bolsas e Pós-Graduação
 
 > [!note] Resumo
-> Notas em construção — sessão informativa sobre bolsas e programas de pós-graduação, realizada em 22/07. Detalhes ainda a preencher.
+> Sessão informativa sobre bolsas e programas de pós-graduação, realizada em 22/07.
 
 > [!info] Informações da sessão
 > **Tema:** Bolsas e programas de pós-graduação (PG/PIBIC)
@@ -23,7 +23,8 @@ cssclasses:
 
 ---
 
-_(Notas em construção)_
+> [!info] Disclaimer
+> Foi falado sobre os programas de bolsa **PIBIC/CNPq** e **PICT/ON**, e sobre como achar um orientador/área dentro da astrofísica do Observatório Nacional.
 
 ---
 

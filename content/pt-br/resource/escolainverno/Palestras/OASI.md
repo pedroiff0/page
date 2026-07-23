@@ -15,7 +15,7 @@ cssclasses:
 # 🎤 Palestra — 15 anos do OASI
 
 > [!note] Resumo
-> Notas em construção — palestra de Daniela Lazzaro sobre os 15 anos do OASI (21/07). Conteúdo detalhado ainda a preencher.
+> O OASI é o Observatório Astronômico do Sertão de Itaparica, ligado ao Observatório Nacional, no sertão de Pernambuco — a palestra celebrou seus 15 anos de atividade.
 
 > [!info] Informações da palestra
 > **Tema:** 15 anos do OASI
@@ -23,7 +23,9 @@ cssclasses:
 
 ---
 
-_(Notas em construção)_
+## 🎯 Visão geral
+
+O **OASI (Observatório Astronômico do Sertão de Itaparica)** fica em Itacuruba, no sertão de Pernambuco, perto do lago de Itaparica — uma região de céu escuro e baixa umidade, boa para observação astronômica no Brasil. É um observatório ligado ao Observatório Nacional (ON), usado tanto para pesquisa quanto para atividades de divulgação científica. A palestra marcou os 15 anos de atividade do observatório.
 
 ---
 

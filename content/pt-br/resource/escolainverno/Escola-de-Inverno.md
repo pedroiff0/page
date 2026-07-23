@@ -18,7 +18,7 @@ cssclasses:
 > [!info] Sobre este arquivo
 > Panorama de todas as áreas cobertas até agora na Escola de Inverno. Cada seção resume a nota detalhada correspondente — clique nos links para ver a aula completa, com explicações, fórmulas e imagens.
 
-Confira aqui a [programação completa](#-programação-completa-20-a-2407) da semana e o [site oficial da Escola de Inverno em Astrofísica 2026 do Observatório Nacional](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026).
+Confira aqui a [programação completa](#-programação-completa-20-a-2407) da semana, o [[Escola de inverno 2026 - programa atualizado.pdf|programa oficial atualizado (PDF)]] e o [site oficial da Escola de Inverno em Astrofísica 2026 do Observatório Nacional](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026).
 
 ---
 

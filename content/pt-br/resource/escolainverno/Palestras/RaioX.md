@@ -39,6 +39,33 @@ Como reconstruir a história de enriquecimento químico do Universo a partir de 
 
 ---
 
+## 1. Origem dos elementos químicos pesados: SNIa vs. SNcc
+
+Os elementos além do ferro na tabela periódica não vêm todos da mesma fonte — dois tipos de supernova contribuem de formas complementares:
+
+- **Supernova Tipo Ia (SNIa)**: segundo os modelos de nucleossíntese (Iwamoto et al. 1999), produz principalmente elementos do **grupo do ferro** (Si, Fe, Mn, Ni, Cr, Ca, Ar) — é a maior fonte de ferro do Universo.
+- **Supernova de Colapso do Núcleo (SNcc)**: resulta do colapso de estrelas massivas ($M > 8\,M_\odot$), deixando uma estrela de nêutrons como remanescente. Ainda há incerteza sobre a massa progenitora exata e a metalicidade inicial envolvidas, e a função de massa inicial (IMF) muda um pouco ao longo do tempo evolutivo — o que introduz variações nas razões de abundância previstas. Segundo Kobayashi et al. (2006), esse tipo produz majoritariamente **elementos-$\alpha$** (O, Ne, Mg, e pouco Si e S).
+
+## 2. Observando o meio intra-aglomerado (ICM) em raios-X
+
+Aglomerados de galáxias podem ser observados de formas complementares — no óptico (luz intra-aglomerado, galáxia central dominante/BCG) e em raios-X, via o **meio intra-aglomerado (ICM)**: um gás quente ($10$–$100$ milhões K), tênue (~1 partícula/cm³), opticamente fino e em equilíbrio de ionização colisional, que contém metais e responde por ~80% da massa bariônica do aglomerado (ou seja, o que **não** é matéria escura). Esse gás foi observado por instrumentos como o **XMM-Newton** e, mais recentemente, o **XRISM/Resolve** (Mitchell et al. 1976 é uma referência histórica sobre a detecção de metais no ICM).
+
+O próprio ICM revela a dinâmica do aglomerado: quanto mais denso, maior o arraste por pressão de aríete (*ram-pressure stripping*, RPS); *feedback* de núcleos ativos de galáxias (AGN) também redistribui energia e metais no gás. Fusões de aglomerados em andamento aparecem como estruturas de raios-X alongadas com picos duplos (como no Bullet Cluster). Trabalhos como Perseus/Werner (2013), CHEERS/Mernier (2017) e XCOP/Ghizzardi (2021) usam esses metais como elo entre a escala das estrelas individuais e a escala dos aglomerados — e apontam para um **cenário de enriquecimento precoce** (*early enrichment*), em que boa parte dos metais teria vindo de ventos galácticos **antes** da formação do próprio aglomerado, já que se observa relativamente pouco ferro no fundo do poço de potencial gravitacional (região mais densa) do aglomerado.
+
+## 3. Comparando modelos com dados: o teste de Kolmogorov-Smirnov
+
+Um dos objetivos centrais é reduzir as grandes incertezas em torno de **qual combinação de SNIa e SNcc** melhor reproduz as abundâncias químicas observadas no ICM — hoje, nenhuma combinação simples dos dois modelos dá conta de todos os dados. O método usado compara a **função de distribuição acumulada (CDF)** empírica (dos dados) com a teórica (dos modelos), via o **teste de Kolmogorov-Smirnov**: com um p-valor de referência de 0,05, cerca de 21% dos pares testados foram completamente rejeitados (de uma amostra de 7192 combinações, restaram 229 compatíveis) — evidência de que os modelos padrão ainda deixam bastante margem de discordância com as observações.
+
+## 4. Grupos fósseis: sistemas peculiares e enriquecimento antecipado
+
+**Grupos fósseis** são sistemas de galáxias peculiares: dominados por uma única galáxia central muito mais brilhante (~2 magnitudes acima da segunda mais brilhante), sem núcleo frio de gás em alguns casos, e resultantes de fusões de galáxias ricas em gás. O exemplo de referência é **NGC 1132**, observado com o XMM-Newton — que mostrou, de forma inesperada, uma contribuição maior de **supernovas tipo II** (SNcc) do que o previsto pelos modelos padrão, reforçando a ideia de que grupos fósseis foram enriquecidos mais cedo e por uma população distinta de supernovas.
+
+## 5. Perspectivas futuras: satélites XRISM e NewAthena
+
+O satélite **NewAthena**, previsto para ser lançado em 2037, deve permitir observar a banda abaixo de 2 keV — uma evolução em relação ao já citado XRISM — com espectros de alta resolução obtidos via micro-calorímetro. Simulações já estão sendo conduzidas para estimar o potencial científico desse satélite: a detecção de elementos mais raros deve viabilizar o estudo de **hipernovas** a partir de novos elementos detectados, e bases de dados legadas (de observações mais antigas) já estão sendo reavaliadas à luz dessas novas perspectivas instrumentais.
+
+---
+
 ## ⚠️ Pontos de atenção
 
 > [!important] Atenção
