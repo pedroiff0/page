@@ -20,18 +20,21 @@ cssclasses:
 # 🔭 Minha Pesquisa — Mapeando a Vizinhança Solar com t-SNE
 
 > [!abstract] Sobre esta nota
-> Este é um texto corrido, em linguagem tranquila, para eu (re)explicar minha própria pesquisa antes de apresentá-la — reunindo o que está nos dois banners que preparei: o **Banner SBPC 2026** e o **Banner da Escola de Inverno**. Os PDFs originais ficam anexados abaixo só como referência visual (pra eu olhar os gráficos); o conteúdo escrito já está todo explicado em texto aqui embaixo, então não preciso decorar o banner palavra por palavra.
-
+> Bem vindos ao site da minha pesquisa! Aqui vocês encontram os banners (versão inglês e português), e os atuais avanços já alcançados. Qualquer dúvida, entre em contato!
 ---
 
+> [!note] Disclaimer
+> O título original apresentado durante a escola não foi o mesmo enviado! Mas é o mesmo projeto, em fases diferentes.
+---
 ## 📎 Banners
 
-> [!example]- 📄 Banner Escola de Inverno — versão em português
-> _(PDF ainda não anexado — falta adicionar `BannerEscolaInverno.pdf` em `content/assets/`)_ 
+>[[BannerSBPC26.pdf]]- 📄 Banner Escola de Inverno — versão em português
 ---
-
+>[[BannerSAB25.pdf]]- 📄 Banner Escola de Inverno — versão em Inglês
+---
+>[[BannerEscolaInverno.pdf]]- 📄 Banner Escola de Inverno — versão Avançada
 ## 🎯 Do que se trata a pesquisa, em uma frase
-
+	
 Estou tentando entender **quem são as estrelas perto do Sol** — de onde vieram, que idade têm, que "sotaque químico" carregam — só que, em vez de plotar diagramas prontos escolhidos à mão, deixo um algoritmo de **aprendizado não supervisionado (t-SNE)** encontrar sozinho os agrupamentos diretamente nos espectros das estrelas, e só depois eu confiro se esses agrupamentos fazem sentido físico.
 
 ---
@@ -45,7 +48,7 @@ Estou tentando entender **quem são as estrelas perto do Sol** — de onde viera
 
 ## 🌌 Por que olhar para a "vizinhança solar"?
 
-Essa ideia de usar a composição química das estrelas como pista da história da Galáxia é exatamente a **arqueologia galáctica** que discuti na nota da Escola de Inverno (ver [[ArqueologiaGalactica-Aula01|Arqueologia Galáctica]]): cada estrela "carrega" no espectro dela a assinatura química do gás de que se formou, então olhar abundâncias + movimento (cinemática) das estrelas funciona como pistas químio-dinâmicas para reconstruir de onde vieram, quais nasceram juntas (grupos coetâneos) e como o enriquecimento químico local aconteceu ao longo do tempo. O problema é que descrever uma estrela direito envolve muita coisa ao mesmo tempo — posição e movimento no espaço (astrometria/cinemática), temperatura, gravidade superficial, e até **dezenas de abundâncias químicas diferentes**. Isso é um espaço de parâmetros gigante e cheio de relações não lineares, difícil de visualizar com os diagramas tradicionais (um par de eixos de cada vez). Por isso a ideia de usar uma técnica de **redução de dimensionalidade não supervisionada**, que olha tudo de uma vez e organiza sozinha.
+Essa ideia de usar a composição química das estrelas como pista da história da Galáxia é exatamente a **arqueologia galáctica** que foi discutida na nota da Escola de Inverno (ver [[ArqueologiaGalactica-Aula01|Arqueologia Galáctica]]): cada estrela "carrega" no espectro dela a assinatura química do gás de que se formou, então olhar abundâncias + movimento (cinemática) das estrelas funciona como pistas químio-dinâmicas para reconstruir de onde vieram, quais nasceram juntas (grupos coetâneos) e como o enriquecimento químico local aconteceu ao longo do tempo. O problema é que descrever uma estrela direito envolve muita coisa ao mesmo tempo — posição e movimento no espaço (astrometria/cinemática), temperatura, gravidade superficial, e até **dezenas de abundâncias químicas diferentes**. Isso é um espaço de parâmetros gigante e cheio de relações não lineares, difícil de visualizar com os diagramas tradicionais (um par de eixos de cada vez). Por isso a ideia de usar uma técnica de **redução de dimensionalidade não supervisionada**, que olha tudo de uma vez e organiza sozinha.
 
 ---
 
@@ -62,7 +65,7 @@ Cruzando esses dois catálogos por identificação segura de cada estrela (`sobj
 
 ## 🧠 A ideia central: deixar o t-SNE "descobrir" sozinho
 
-Aqui está a virada de chave dos trabalho: em vez de já entrar calculando `[Fe/H]` ou `[Mg/Fe]` e jogando num gráfico (o jeito clássico), eu alimento o algoritmo **diretamente com o fluxo espectral normalizado** — ou seja, o espectro bruto (já tratado) de cada estrela, que tem milhares de pontos (dimensões). O algoritmo usado é o **t-SNE** (*t-distributed Stochastic Neighbor Embedding*): ele pega esse espaço de altíssima dimensão e "achata" numa projeção 2D, tentando preservar ao máximo quem estava perto de quem originalmente — estrelas com espectros parecidos acabam próximas no mapa final, mesmo sem eu ter dito ao algoritmo o que procurar.
+Eu alimento o algoritmo **diretamente com o fluxo espectral normalizado** — ou seja, o espectro bruto (já tratado) de cada estrela, que tem milhares de pontos (dimensões). O algoritmo usado é o **t-SNE** (*t-distributed Stochastic Neighbor Embedding*): ele pega esse espaço de altíssima dimensão e "achata" numa projeção 2D, tentando preservar ao máximo quem estava perto de quem originalmente — estrelas com espectros parecidos acabam próximas no mapa final, mesmo sem eu ter dito ao algoritmo o que procurar.
 
 Só **depois** de gerar essa projeção 2D é que eu volto e coloro cada ponto pelos parâmetros físicos já conhecidos (temperatura efetiva `Teff`, gravidade superficial `logg`, metalicidade `[Fe/H]`) — isso funciona como um teste de honestidade do método: se o algoritmo realmente capturou física de verdade (e não só ruído), esses parâmetros deveriam variar suavemente pelo mapa, em vez de aparecerem espalhados ao acaso.
 
@@ -73,7 +76,7 @@ Só **depois** de gerar essa projeção 2D é que eu volto e coloro cada ponto p
 
 ## ✅ Isso realmente funciona? (validação quantitativa)
 
-Não basta o mapa "parecer bonito" — dá pra medir objetivamente se a projeção em 2D é confiável, usando três métricas (essa parte é o coração do **Banner SBPC**, mais focado na validação técnica do método):
+Não basta o mapa "parecer bonito" — dá pra medir objetivamente se a projeção em 2D é confiável, usando três métricas:
 
 - **Divergência KL:** mede o quanto a distribuição de vizinhança no mapa 2D se afasta da distribuição original em alta dimensão — quanto **menor**, melhor (indica que o algoritmo "convergiu" bem).
 - **Trustworthiness (confiabilidade):** confere se os vizinhos que aparecem próximos no mapa 2D **realmente eram** vizinhos no espaço original — evita "vizinhos falsos" criados só pelo achatamento.
@@ -85,9 +88,9 @@ E o resultado mais interessante: em **ambas** as perplexidades (30 e 50), aparec
 
 ---
 
-## 🪐 E a astrofísica por trás disso? (o que o Banner da Escola de Inverno acrescenta)
+## 🪐 E a astrofísica por trás disso?
 
-Enquanto o banner do SBPC fica mais no "o método funciona e é confiável", o **Banner da Escola de Inverno** dá um passo a mais e usa a amostra pra **caracterizar de fato quem são essas estrelas da vizinhança solar**, com os diagramas astrofísicos clássicos:
+Usando a amostra pra **caracterizar de fato quem são essas estrelas da vizinhança solar**, com os diagramas astrofísicos clássicos:
 
 - **Distribuições de `[Fe/H]` e `[Mg/Fe]`:** mostram, respectivamente, o quão rica ou pobre em metais é a amostra e a razão entre magnésio e ferro (um traçador clássico de disco fino vs. disco espesso).
 - **Diagrama de Kiel** (temperatura efetiva vs. gravidade superficial, colorido por `[Fe/H]`, com isócronas teóricas PARSEC+COLIBRI sobrepostas) + **histograma de idades:** usado pra checar se os parâmetros espectroscópicos batem com o esperado teoricamente e pra estimar a idade das estrelas.
@@ -95,7 +98,7 @@ Enquanto o banner do SBPC fica mais no "o método funciona e é confiável", o *
 - **Diagrama de Tinsley-Wallerstein** (`[Mg/Fe]` vs. `[Fe/H]`, comparado com a referência de Recio-Blanco et al. 2014): esse é o clássico "mapa" para separar disco fino de disco espesso químicamente, olhando o quanto cada população é enriquecida em elementos-$\alpha$ (como o magnésio) em relação ao ferro.
 
 ### O que esses diagramas mostram, na prática
-A vizinhança solar analisada é dominada por estrelas de **sequência principal dos tipos F, G e K** (ver a classificação espectral em [[ArqueologiaGalactica-Aula01]]), com **idade mediana em torno de 1,6 bilhão de anos** e uma **leve deficiência de metais** em relação ao Sol (`[Fe/H]` mediano ≈ −0,19 dex — ou seja, um pouquinho menos "temperada" em metais que o Sol). O diagrama de Kiel bate bem com as isócronas teóricas, o que dá confiança nos parâmetros espectroscópicos usados. O diagrama de Toomre confirma que a amostra é majoritariamente de **disco galáctico**, com só uma fração pequena de estrelas de halo. E, entre as estrelas de disco espesso presentes na amostra, a componente mais comum é justamente a **rica em metais e enriquecida em elementos-$\alpha$** — só que aqui vale uma ressalva importante: isso pode ser, em parte, um efeito da **função de seleção** combinada dos dois catálogos (ou seja, um viés de quais estrelas entraram na amostra), não necessariamente um fato 100% intrínseco da Galáxia.
+A vizinhança solar analisada é dominada por estrelas de **sequência principal dos tipos F, G e K**, com **idade mediana em torno de 1,6 bilhão de anos** e uma **leve deficiência de metais** em relação ao Sol (`[Fe/H]` mediano ≈ −0,19 dex — ou seja, um pouquinho menos "temperada" em metais que o Sol). O diagrama de Kiel bate bem com as isócronas teóricas, o que dá confiança nos parâmetros espectroscópicos usados. O diagrama de Toomre confirma que a amostra é majoritariamente de **disco galáctico**, com só uma fração pequena de estrelas de halo. E, entre as estrelas de disco espesso presentes na amostra, a componente mais comum é justamente a **rica em metais e enriquecida em elementos-$\alpha$** — só que aqui vale uma ressalva importante: isso pode ser, em parte, um efeito da **função de seleção** combinada dos dois catálogos (ou seja, um viés de quais estrelas entraram na amostra), não necessariamente um fato 100% intrínseco da Galáxia.
 
 ---
 
@@ -105,7 +108,7 @@ A ideia daqui pra frente é usar **clusterização baseada em densidade** (como 
 
 ---
 
-## 📌 Glossário rápido (pra não esquecer na hora de apresentar)
+## 📌 Glossário rápido
 
 - **t-SNE:** técnica de redução de dimensionalidade não linear que projeta dados de altíssima dimensão em 2D, preservando ao máximo as relações de vizinhança.
 - **Perplexidade:** hiperparâmetro do t-SNE que controla o "tamanho" da vizinhança considerada — baixa = foco local, alta = foco global.
@@ -114,7 +117,7 @@ A ideia daqui pra frente é usar **clusterização baseada em densidade** (como 
 - **GALAH DR4:** levantamento espectroscópico com abundâncias químicas detalhadas de quase 1 milhão de estrelas.
 - **Diagrama de Kiel:** como o diagrama HR, mas com gravidade superficial no lugar de luminosidade — usado com isócronas para estimar idades.
 - **Diagrama de Toomre:** separa estrelas de disco e de halo pela velocidade espacial em relação ao Sol.
-- **`[Fe/H]`, `[Mg/Fe]`:** notações de abundância química (ver também [[ArqueologiaGalactica-Aula01]]) usadas para identificar populações estelares (disco fino vs. disco espesso).
+- **`[Fe/H]`, `[Mg/Fe]`:** notações de abundância química 
 - **dex:** unidade logarítmica (base 10) usada para expressar essas razões de abundância.
 
 ---
@@ -122,6 +125,6 @@ A ideia daqui pra frente é usar **clusterização baseada em densidade** (como 
 ## 🔗 Referências e correlatos
 - [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — conceitos de populações estelares, metalicidade e classificação espectral usados nesta pesquisa
 - [Computação — Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02) — aprendizado de máquina não supervisionado (t-SNE)
-- [Resumo Geral](pt-br/resource/escolainverno/00-resumo-escola-de-inverno) — panorama geral da Escola de Inverno
+- [Resumo Geral](Escola-de-Inverno.md) — panorama geral da Escola de Inverno
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — estado atual e completo desta pesquisa
 - [Escola de Inverno ON - 2026](pt-br/media/2026/escolainverno-2026) — página de mídia desta participação

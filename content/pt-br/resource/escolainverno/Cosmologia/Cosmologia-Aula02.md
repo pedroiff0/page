@@ -29,7 +29,8 @@ cssclasses:
 *Conteúdo desta aula ainda não registrado.* Ponto de partida já registrado na Aula 01 (seção "Radiação Cósmica de Fundo") — a RCF é a luz mais antiga observável, emitida na recombinação (~380 mil anos após o Big Bang), hoje a 2,725 K; seu espectro angular de potência é uma das principais ferramentas para medir os parâmetros do modelo $\Lambda$CDM. Preencher com o conteúdo detalhado desta aula.
 
 ### 📑 Tópicos abordados
-1. *(a preencher)*
+1. Teoria da Relatividade Geral
+2. 
 
 ---
 
@@ -42,7 +43,21 @@ cssclasses:
 
 ## 📌 Conceitos-chave
 
-- *(a preencher)*
+- $G_{\mu \nu} = R_{\mu \nu} - \frac{1}{2}Rg_{\mu \nu} = 8\pi G_{\mu} T_{\mu \nu}$
+- Principio Equivalencia
+- Aplicações
+	- Soluções de Buracos Negros
+	- Soluções Cosmologicas
+	- Universo de Godel
+- Consequências:
+	- Dilatação e atraso do tempo grav.
+	- Redshift grav.
+	- Deflexão da Luz (Sobral 1919)
+	- Ondas Gravitacionais (2015)
+- Principio Cosmológico
+	- Andrew Liddle
+	- O universo é o mesmo pra todos e em qq lugar.
+	- 
 
 ---
 

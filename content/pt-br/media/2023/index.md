@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📅 2023"
+title: "2023"
 created: 2026-07-23
 ---
 

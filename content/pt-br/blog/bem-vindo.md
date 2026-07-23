@@ -1,7 +1,7 @@
 ---
 publish: true
 type: blog
-title: "✍️ Bem-vindo ao blog"
+title: "Bem-vindo ao blog"
 created: 2026-07-23
 ---
 # ✍️ Bem-vindo ao blog

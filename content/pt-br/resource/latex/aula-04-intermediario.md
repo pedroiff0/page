@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🗂️ Aula 04 — Intermediário"
+title: "Aula 04 — Intermediário"
 created: 2026-03-16
 ---
 

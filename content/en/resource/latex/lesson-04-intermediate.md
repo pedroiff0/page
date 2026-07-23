@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🗂️ Lesson 04 — Intermediate"
+title: "Lesson 04 — Intermediate"
 created: 2026-03-16
 ---
 

@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: À propos de moi
 created: 2026-07-18T14:50:18.601-03:00
 modified: 2026-07-23

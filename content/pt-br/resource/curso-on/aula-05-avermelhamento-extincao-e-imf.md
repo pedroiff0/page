@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🌫️ Aula 05 — Avermelhamento, Extinção e IMF"
+title: "Aula 05 — Avermelhamento, Extinção e IMF"
 titulo: CursoON-Aula05
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: O meio interestelar, a extinção e o avermelhamento da luz por poeira, e a função de massa inicial revisitada

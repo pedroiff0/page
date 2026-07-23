@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📑 Modelos de Documento"
+title: "Modelos de Documento"
 created: 2026-03-17
 ---
 

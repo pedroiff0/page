@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📊 Aula 06 — Diagrama HR e Relação Massa-Luminosidade"
+title: "Aula 06 — Diagrama HR e Relação Massa-Luminosidade"
 titulo: CursoON-Aula06
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Como medir as propriedades físicas fundamentais das estrelas e como o diagrama HR revela a relação entre massa, luminosidade e tempo de vida

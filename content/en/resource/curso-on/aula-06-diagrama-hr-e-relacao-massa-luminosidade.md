@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📊 Lecture 06 — HR Diagram & Mass-Luminosity Relation"
+title: "Lecture 06 — HR Diagram & Mass-Luminosity Relation"
 titulo: CursoON-Aula06
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
 conteudo: How to measure the fundamental physical properties of stars, and how the HR diagram reveals the relation between mass, luminosity, and lifetime

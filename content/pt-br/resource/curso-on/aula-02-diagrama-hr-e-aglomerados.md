@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🌟 Aula 02 — Diagrama HR e Aglomerados Estelares"
+title: "Aula 02 — Diagrama HR e Aglomerados Estelares"
 titulo: CursoON-Aula02
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Aglomerados abertos vs. globulares, função de massa inicial (IMF), isócronas e a nomenclatura de populações I, II e III

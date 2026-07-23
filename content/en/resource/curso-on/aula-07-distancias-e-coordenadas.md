@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📐 Lecture 07 — Distances, Distance Scale & Coordinate Systems"
+title: "Lecture 07 — Distances, Distance Scale & Coordinate Systems"
 titulo: CursoON-Aula07
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
 conteudo: The cosmic distance ladder — from radar to Type Ia supernovae — and the horizontal, equatorial, and galactic coordinate systems

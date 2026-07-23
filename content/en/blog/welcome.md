@@ -1,7 +1,7 @@
 ---
 publish: true
 type: blog
-title: "✍️ Welcome to the blog"
+title: "Welcome to the blog"
 created: 2026-07-23
 ---
 # ✍️ Welcome to the blog

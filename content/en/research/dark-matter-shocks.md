@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "💥 Understanding Dark Matter through Extragalactic Shocks"
+title: "Understanding Dark Matter through Extragalactic Shocks"
 created: 2023-03-01
 tags:
   - dark-matter

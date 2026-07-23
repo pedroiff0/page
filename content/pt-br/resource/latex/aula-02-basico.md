@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📐 Aula 02 — Básico"
+title: "Aula 02 — Básico"
 created: 2026-03-16
 ---
 

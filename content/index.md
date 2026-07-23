@@ -13,4 +13,8 @@ No painel superior esquerdo, selecione PT (Português Brasil).
 
 On the left upper panel, select EN (English United States).
 
+En el panel superior izquierdo, selecciona ES (Español).
+
+Dans le panneau supérieur gauche, sélectionnez FR (Français).
+
 ---

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📄 LaTeX and Academic Writing"
+title: "LaTeX and Academic Writing"
 tags:
  - resources
  - latex

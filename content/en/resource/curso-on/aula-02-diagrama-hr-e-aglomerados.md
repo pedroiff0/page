@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🌟 Lecture 02 — HR Diagram & Star Clusters"
+title: "Lecture 02 — HR Diagram & Star Clusters"
 titulo: CursoON-Aula02
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
 conteudo: Open vs. globular clusters, the initial mass function (IMF), isochrones, and the population I/II/III nomenclature

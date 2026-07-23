@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🌫️ Lecture 05 — Reddening, Extinction & IMF"
+title: "Lecture 05 — Reddening, Extinction & IMF"
 titulo: CursoON-Aula05
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
 conteudo: The interstellar medium, extinction and reddening of starlight by dust, and the initial mass function revisited

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🔭 Anomaly Detection in Gaia Data"
+title: "Anomaly Detection in Gaia Data"
 created: 2025-09-01
 ---
 # 🔭 Anomaly Detection in Gaia Data

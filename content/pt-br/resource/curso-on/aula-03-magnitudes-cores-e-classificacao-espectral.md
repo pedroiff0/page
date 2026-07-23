@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "✨ Aula 03 — Magnitudes, Cores e Classificação Espectral"
+title: "Aula 03 — Magnitudes, Cores e Classificação Espectral"
 titulo: CursoON-Aula03
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Escala de magnitudes, magnitude absoluta, sistemas fotométricos, índices de cor e a classificação espectral OBAFGKM

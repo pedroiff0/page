@@ -43,7 +43,7 @@ title: "Escola de Inverno (ON 2026)"
 
 Notas de aula da **Escola de Inverno em Astrofísica 2026** do [Observatório Nacional (ON)](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026), realizada de 20 a 24 de julho de 2026, organizadas por disciplina.
 
-- [Resumo Geral](pt-br/resource/escolainverno/00-Resumo-Escola-de-Inverno) — panorama de todas as áreas, programação completa e mapa de disciplinas.
+- [Resumo Geral](Escola-de-Inverno.md) — panorama de todas as áreas, programação completa e mapa de disciplinas.
 
 ## Minicursos
 

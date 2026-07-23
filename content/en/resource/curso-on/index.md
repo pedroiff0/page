@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🔭 Galactic Archaeology and Stellar Populations (ON)"
+title: "Galactic Archaeology and Stellar Populations (ON)"
 order: 5
 created: 2026-07-23
 ---

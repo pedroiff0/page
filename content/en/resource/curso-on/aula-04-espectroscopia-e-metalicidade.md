@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🔭 Lecture 04 — Spectroscopy & Metallicity"
+title: "Lecture 04 — Spectroscopy & Metallicity"
 titulo: CursoON-Aula04
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
 conteudo: Kirchhoff's laws, spectral line formation, the discovery of helium, and the [Fe/H] metallicity notation

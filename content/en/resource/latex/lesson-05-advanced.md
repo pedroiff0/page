@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "⚙️ Lesson 05 — Advanced"
+title: "Lesson 05 — Advanced"
 created: 2026-03-16
 ---
 

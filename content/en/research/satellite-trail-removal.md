@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🛰️ Simulating the Impact of Satellites on Astronomical Observations"
+title: "Simulating the Impact of Satellites on Astronomical Observations"
 created: 2024-03-06
 tags:
   - light-pollution

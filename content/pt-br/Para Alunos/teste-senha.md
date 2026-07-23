@@ -1,7 +1,7 @@
 ---
 publish: true
 password: "0000"
-title: "🔒 Página de Teste"
+title: "Página de Teste"
 created: 2026-07-23
 ---
 

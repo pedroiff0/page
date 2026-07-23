@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📄 LaTeX e Escrita Acadêmica"
+title: "LaTeX e Escrita Acadêmica"
 tags:
  - recursos
  - latex

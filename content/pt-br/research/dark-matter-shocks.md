@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "💥 Entendendo a Matéria Escura a partir de Choques Extragalácticos"
+title: "Entendendo a Matéria Escura a partir de Choques Extragalácticos"
 created: 2023-03-01
 tags:
   - materia-escura

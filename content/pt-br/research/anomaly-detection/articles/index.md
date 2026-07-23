@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📚 Artigos"
+title: "Artigos"
 order: 1
 ---
 

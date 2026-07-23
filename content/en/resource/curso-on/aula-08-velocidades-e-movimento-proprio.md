@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🚀 Lecture 08 — Velocities & Proper Motion"
+title: "Lecture 08 — Velocities & Proper Motion"
 titulo: CursoON-Aula08
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
 conteudo: Radial and tangential velocity, the Local Standard of Rest, and stellar proper motion

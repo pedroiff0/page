@@ -12,8 +12,6 @@ configuration:
     - private
     - templates
     - .obsidian
-    - fr
-    - es
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -155,9 +153,9 @@ plugins:
           const name = node.slugSegment;
           if (name === "tags") return false;
           const path = window.location.pathname;
-          const isEnUrl = path.includes("/en/");
-          if (isEnUrl && name === "pt-br") return false;
-          if (!isEnUrl && name === "en") return false;
+          const languages = ["en", "pt-br", "es", "fr"];
+          const currentLang = languages.find((l) => path.includes(`/${l}/`)) ?? "pt-br";
+          if (languages.includes(name) && name !== currentLang) return false;
           return true;
         }
       sortFn: |

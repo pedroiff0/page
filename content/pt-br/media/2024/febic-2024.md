@@ -3,6 +3,7 @@ publish: true
 title: IX FEBIC 2024
 photoFolder: febic2024
 created: 2024-09-15
+type: blog
 ---
 # 🛰️ IX FEBIC 2024
 

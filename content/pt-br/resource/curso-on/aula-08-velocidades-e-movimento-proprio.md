@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🚀 Aula 08 — Velocidades e Movimento Próprio"
+title: "Aula 08 — Velocidades e Movimento Próprio"
 titulo: CursoON-Aula08
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Velocidade radial e tangencial, o Padrão Local de Repouso e o movimento próprio das estrelas

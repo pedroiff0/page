@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📐 Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas"
+title: "Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas"
 titulo: CursoON-Aula07
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: A escada cósmica de distâncias — de radar a supernovas Ia — e os sistemas de coordenadas horizontal, equatorial e galáctico

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🏛️ Aula 01 — Conceito e Histórico"
+title: "Aula 01 — Conceito e Histórico"
 titulo: CursoON-Aula01
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: O que é arqueologia galáctica, o conceito de população estelar simples e o histórico das descobertas que levaram à identificação das populações I e II

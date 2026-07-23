@@ -3,6 +3,7 @@ publish: true
 title: MOSTRATEC 2023
 photoFolder: mostratec2023
 created: 2023-10-23
+type: blog
 ---
 # 🌎 MOSTRATEC 2023
 

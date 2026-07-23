@@ -13,7 +13,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# 🌌 Resumo Geral — Escola de Inverno do Observatório Nacional (2026)
+# 🌌 Escola de Inverno do Observatório Nacional (2026)
 
 > [!info] Sobre este arquivo
 > Panorama de todas as áreas cobertas até agora na Escola de Inverno. Cada seção resume a nota detalhada correspondente — clique nos links para ver a aula completa, com explicações, fórmulas e imagens.

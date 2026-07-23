@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "✨ Lecture 03 — Magnitudes, Colors & Spectral Classification"
+title: "Lecture 03 — Magnitudes, Colors & Spectral Classification"
 titulo: CursoON-Aula03
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
 conteudo: The magnitude scale, absolute magnitude, photometric systems, color indices, and the OBAFGKM spectral classification

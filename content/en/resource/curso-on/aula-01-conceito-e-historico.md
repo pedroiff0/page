@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🏛️ Lecture 01 — Concept & History"
+title: "Lecture 01 — Concept & History"
 titulo: CursoON-Aula01
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
 conteudo: What galactic archaeology is, the simple stellar population concept, and the history behind the discovery of populations I and II

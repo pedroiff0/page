@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "🔭 Detecção de Anomalias em Dados do Gaia"
+title: "Detecção de Anomalias em Dados do Gaia"
 created: 2025-09-01
 ---
 # 🔭 Detecção de Anomalias em Dados do Gaia

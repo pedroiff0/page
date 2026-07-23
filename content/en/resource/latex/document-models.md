@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📑 Document Models"
+title: "Document Models"
 created: 2026-03-17
 ---
 

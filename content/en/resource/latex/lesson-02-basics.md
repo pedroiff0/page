@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "📐 Lesson 02 — Basics"
+title: "Lesson 02 — Basics"
 created: 2026-03-16
 ---
 

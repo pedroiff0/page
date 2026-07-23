@@ -3,6 +3,7 @@ publish: true
 title: 4th SCEG 2024
 photoFolder: 4sceg2024
 created: 2024-10-22
+type: blog
 ---
 # 💻 4th SCEG 2024
 

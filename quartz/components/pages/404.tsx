@@ -44,11 +44,17 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
                 return;
               }
               
-              if (pathname.startsWith("pt-br/") || pathname.startsWith("en/")) {
-                var isPt = pathname.startsWith("pt-br/");
-                var msg = isPt 
-                  ? "Oops, não foi possível obter a tradução para você. Sinto muito.... Em breve estará traduzido!" 
-                  : "Oops, we couldn't find the translation for you. I'm sorry... It will be translated soon!";
+              if (pathname.startsWith("pt-br/") || pathname.startsWith("en/") || pathname.startsWith("es/") || pathname.startsWith("fr/")) {
+                var msg;
+                if (pathname.startsWith("pt-br/")) {
+                  msg = "Oops, não foi possível obter a tradução para você. Sinto muito.... Em breve estará traduzido!";
+                } else if (pathname.startsWith("es/")) {
+                  msg = "Ups, no pudimos encontrar la traducción para ti. Lo siento... ¡Pronto estará traducida!";
+                } else if (pathname.startsWith("fr/")) {
+                  msg = "Oups, nous n'avons pas trouvé la traduction pour vous. Désolé... Elle sera bientôt traduite !";
+                } else {
+                  msg = "Oops, we couldn't find the translation for you. I'm sorry... It will be translated soon!";
+                }
                 var p = document.querySelector('p');
                 if (p) p.textContent = msg;
               }
