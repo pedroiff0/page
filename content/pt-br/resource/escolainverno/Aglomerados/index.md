@@ -4,7 +4,7 @@ title: "Aglomerados de Galáxias"
 ---
 
 <div class="media-carousel">
-  <a href="/pt-br/resource/escolainverno/aglomerados/260720-aglomerados-aula01" class="carousel-slide">
+  <a href="/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01" class="carousel-slide">
     <img src="/assets/illustrations/aglomerados.svg" alt="Aula 01" />
     <div class="slide-caption">Aula 01</div>
   </a>

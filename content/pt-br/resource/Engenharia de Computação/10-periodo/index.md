@@ -5,7 +5,7 @@ order: 10
 ---
 
 <div class="media-carousel">
-  <a href="/pt-br/classes/engenharia-de-computação/10-periodo/projeto-final-de-curso-ii" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/10-periodo/projeto-final-de-curso-ii" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Projeto Final de Curso II" />
     <div class="slide-caption">Projeto Final de Curso II</div>
   </a>

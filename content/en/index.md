@@ -44,10 +44,6 @@ To navigate my work, explore the sections of this site:
     <img src="/assets/illustrations/resource.svg" alt="Resources" />
     <div class="slide-caption">Resources</div>
   </a>
-  <a href="/en/classes" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Classes" />
-    <div class="slide-caption">Classes</div>
-  </a>
   <a href="/en/media" class="carousel-slide">
     <img src="/assets/febic2024/febic.jpeg" alt="Media" />
     <div class="slide-caption">Media</div>
@@ -64,7 +60,6 @@ To navigate my work, explore the sections of this site:
 
 - [Research](en/research/) — Learn about my current projects and publications.
 - [Resources](en/resource/) — Materials, scripts, and useful tools I've developed or use.
-- [Classes](en/classes/) — My college notes and assignments.
 - [Media](en/media/) — Participations in events, fairs, and presentations.
 - [Projects](en/projects/) — Tools and applications I build outside of academic research.
 - [Publications](en/publications/) — My published papers and preprints.

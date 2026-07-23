@@ -5,27 +5,27 @@ order: 8
 ---
 
 <div class="media-carousel">
-  <a href="/pt-br/classes/engenharia-de-computação/8-periodo/arquitetura-de-computadores" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Arquitetura de Computadores" />
     <div class="slide-caption">Arquitetura de Computadores</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Metodologia Científica e Tecnológica" />
     <div class="slide-caption">Metodologia Científica e Tecnológica</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/8-periodo/microcontroladores" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/microcontroladores" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Microcontroladores" />
     <div class="slide-caption">Microcontroladores</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/8-periodo/redes-de-computadores-ii" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Redes de Computadores II" />
     <div class="slide-caption">Redes de Computadores II</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/8-periodo/seguranca-e-higiene-do-trabalho" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/seguranca-e-higiene-do-trabalho" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Segurança e Higiene do Trabalho" />
     <div class="slide-caption">Segurança e Higiene do Trabalho</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/8-periodo/sistemas-operacionais-ii" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/sistemas-operacionais-ii" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Sistemas Operacionais II" />
     <div class="slide-caption">Sistemas Operacionais II</div>
   </a>

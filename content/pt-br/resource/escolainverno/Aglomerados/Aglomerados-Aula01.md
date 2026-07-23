@@ -1,7 +1,7 @@
 ---
 publish: true
 title: "Aula 01"
-titulo: 260720-Aglomerados-Aula01
+titulo: Aglomerados-Aula01
 disciplina: Astrofísica Extragaláctica
 conteudo: Aglomerados de Galáxias — as maiores estruturas gravitacionalmente ligadas do Universo
 professor: Rogério Monteiro-Oliveira
@@ -213,5 +213,5 @@ Mapeia a massa **total** (incluindo matéria escura) de forma independente do g�
 - Simulação **Millennium Run**
 - [Aula 02](pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — formação hierárquica e transformação ambiental de galáxias em aglomerados
 - [Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03)
-- [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/260721-cosmologia-aula01) — a mesma matéria escura vista aqui em escala cosmológica
+- [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — a mesma matéria escura vista aqui em escala cosmológica
 - [Arqueologia Galáctica — Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — aglomerados globulares, a contraparte estelar dos aglomerados de galáxias

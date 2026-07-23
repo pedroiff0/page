@@ -27,17 +27,17 @@ Confira aqui a [programação completa](#-programação-completa-20-a-2407) da s
 
 | Área                             | Professor(a)                      | Do que trata                                                   | Notas completas                                                                                                                                        |
 | -------------------------------- | --------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🌐 Aglomerados de Galáxias       | Rogério Monteiro-Oliveira         | As maiores estruturas gravitacionalmente ligadas do Universo   | [[260720-Aglomerados-Aula01\|Aula 01]] · [[Aglomerados-Aula02\|Aula 02]]                                                                                 |
-| ⭐ Arqueologia Galáctica          | João Victor Sales Silva           | História da Via Láctea lida na composição química das estrelas | [[260720-Arqueologia-Galactica-Aula01\|Aula 01]] · [[ArqueologiaGalactica-Aula02\|Aula 02]]                                                              |
-| 💻 Computação de Alto Desempenho | Fernando Roig e Lilianne Nakazono | Programação paralela (OpenMP/MPI) e aprendizado de máquina     | [[260721-Computacao-Aula01\|Aula 01]] · [[Computacao-Aula02\|Aula 02]]                                                                                   |
-| 🌀 Cosmologia                    | Carlos Bengaly                    | O modelo padrão ΛCDM e suas sondas observacionais              | [[260721-Cosmologia-Aula01\|Aula 01]]                                                                                                                    |
-| 🪐 Ciências Planetárias          | Filipe Monteiro e Gustavo Madeira | Sistema Solar: inventário, arquitetura e dinâmica orbital      | [[260720-Planetaria-Aula01\|Aula 01]] · [[260721-Planetaria-Aula02\|Aula 02]]                                                                            |
+| 🌐 Aglomerados de Galáxias       | Rogério Monteiro-Oliveira         | As maiores estruturas gravitacionalmente ligadas do Universo   | [[Aglomerados-Aula01\|Aula 01]] · [[Aglomerados-Aula02\|Aula 02]]                                                                                 |
+| ⭐ Arqueologia Galáctica          | João Victor Sales Silva           | História da Via Láctea lida na composição química das estrelas | [[ArqueologiaGalactica-Aula01\|Aula 01]] · [[ArqueologiaGalactica-Aula02\|Aula 02]]                                                              |
+| 💻 Computação de Alto Desempenho | Fernando Roig e Lilianne Nakazono | Programação paralela (OpenMP/MPI) e aprendizado de máquina     | [[Computacao-Aula01\|Aula 01]] · [[Computacao-Aula02\|Aula 02]]                                                                                   |
+| 🌀 Cosmologia                    | Carlos Bengaly                    | O modelo padrão ΛCDM e suas sondas observacionais              | [[Cosmologia-Aula01\|Aula 01]]                                                                                                                    |
+| 🪐 Ciências Planetárias          | Filipe Monteiro e Gustavo Madeira | Sistema Solar: inventário, arquitetura e dinâmica orbital      | [[Planetaria-Aula01\|Aula 01]] · [[Planetaria-Aula02\|Aula 02]]                                                                            |
 
 ## 🎤 Palestras
 
 | Palestra | Palestrante | Tema | Data | Nota |
 |---|---|---|---|---|
-| P1 | Gabriel Rodrigues | Neutrinos e a Cosmologia | 20/07 | [[260720-Neutrinos\|Neutrinos]] |
+| P1 | Gabriel Rodrigues | Neutrinos e a Cosmologia | 20/07 | [[Neutrinos\|Neutrinos]] |
 | P2 | Daniela Lazzaro | 15 anos do OASI | 21/07 | *(a preencher)* |
 | P3 | Rebeca Batalha | De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo | 23/07 | *(a preencher)* |
 | P4 | Marília Carlos | Composições químicas estelares com alta precisão e acurácia | 24/07 | *(a preencher)* |
@@ -108,12 +108,12 @@ O Sistema Solar se formou a partir do colapso gravitacional de uma nuvem molecul
 ---
 
 ## 🔗 Notas completas
-- [[260720-Aglomerados-Aula01]] · [[Aglomerados-Aula02]]
-- [[260720-Arqueologia-Galactica-Aula01]] · [[ArqueologiaGalactica-Aula02]]
-- [[260721-Computacao-Aula01]] · [[Computacao-Aula02]]
-- [[260721-Cosmologia-Aula01]]
-- [[260720-Neutrinos]]
-- [[260720-Planetaria-Aula01]] · [[260721-Planetaria-Aula02]]
+- [[Aglomerados-Aula01]] · [[Aglomerados-Aula02]]
+- [[ArqueologiaGalactica-Aula01]] · [[ArqueologiaGalactica-Aula02]]
+- [[Computacao-Aula01]] · [[Computacao-Aula02]]
+- [[Cosmologia-Aula01]]
+- [[Neutrinos]]
+- [[Planetaria-Aula01]] · [[Planetaria-Aula02]]
 - [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]
 
 > [!note] Próximos passos

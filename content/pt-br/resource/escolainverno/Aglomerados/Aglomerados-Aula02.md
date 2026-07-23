@@ -19,7 +19,7 @@ cssclasses:
 # Notas de Aula — Aglomerados de Galáxias (Aula 02)
 
 > [!info] Informações da aula
-> **Tema:** Formação hierárquica de estruturas e como o ambiente de um aglomerado transforma as galáxias que caem nele — continuação de [[260720-Aglomerados-Aula01|Aula 01]]
+> **Tema:** Formação hierárquica de estruturas e como o ambiente de um aglomerado transforma as galáxias que caem nele — continuação de [[Aglomerados-Aula01|Aula 01]]
 > **Professor:** Prof. Dr. Rogério Monteiro-Oliveira
 
 ---
@@ -140,7 +140,7 @@ O gás do ICM no núcleo do aglomerado é denso o suficiente para que seu **temp
 ---
 
 ## 🔗 Referências e correlatos
-- [Aula 01](pt-br/resource/escolainverno/aglomerados/260720-aglomerados-aula01) — teorema do virial, ICM e detecção de aglomerados
+- [Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — teorema do virial, ICM e detecção de aglomerados
 - [Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03)
 - [Cosmologia — Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — teia cósmica e estrutura em grande escala
-- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/260720-arqueologia-galactica-aula01) — diagrama cor-magnitude estelar, análogo ao diagrama cor × massa de galáxias visto aqui
+- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — diagrama cor-magnitude estelar, análogo ao diagrama cor × massa de galáxias visto aqui

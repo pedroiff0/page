@@ -47,7 +47,7 @@ Estou tentando entender **quem são as estrelas perto do Sol** — de onde viera
 
 ## 🌌 Por que olhar para a "vizinhança solar"?
 
-Essa ideia de usar a composição química das estrelas como pista da história da Galáxia é exatamente a **arqueologia galáctica** que discuti na nota da Escola de Inverno (ver [[260720-Arqueologia-Galactica-Aula01|Arqueologia Galáctica]]): cada estrela "carrega" no espectro dela a assinatura química do gás de que se formou, então olhar abundâncias + movimento (cinemática) das estrelas funciona como pistas químio-dinâmicas para reconstruir de onde vieram, quais nasceram juntas (grupos coetâneos) e como o enriquecimento químico local aconteceu ao longo do tempo. O problema é que descrever uma estrela direito envolve muita coisa ao mesmo tempo — posição e movimento no espaço (astrometria/cinemática), temperatura, gravidade superficial, e até **dezenas de abundâncias químicas diferentes**. Isso é um espaço de parâmetros gigante e cheio de relações não lineares, difícil de visualizar com os diagramas tradicionais (um par de eixos de cada vez). Por isso a ideia de usar uma técnica de **redução de dimensionalidade não supervisionada**, que olha tudo de uma vez e organiza sozinha.
+Essa ideia de usar a composição química das estrelas como pista da história da Galáxia é exatamente a **arqueologia galáctica** que discuti na nota da Escola de Inverno (ver [[ArqueologiaGalactica-Aula01|Arqueologia Galáctica]]): cada estrela "carrega" no espectro dela a assinatura química do gás de que se formou, então olhar abundâncias + movimento (cinemática) das estrelas funciona como pistas químio-dinâmicas para reconstruir de onde vieram, quais nasceram juntas (grupos coetâneos) e como o enriquecimento químico local aconteceu ao longo do tempo. O problema é que descrever uma estrela direito envolve muita coisa ao mesmo tempo — posição e movimento no espaço (astrometria/cinemática), temperatura, gravidade superficial, e até **dezenas de abundâncias químicas diferentes**. Isso é um espaço de parâmetros gigante e cheio de relações não lineares, difícil de visualizar com os diagramas tradicionais (um par de eixos de cada vez). Por isso a ideia de usar uma técnica de **redução de dimensionalidade não supervisionada**, que olha tudo de uma vez e organiza sozinha.
 
 ---
 
@@ -97,7 +97,7 @@ Enquanto o banner do SBPC fica mais no "o método funciona e é confiável", o *
 - **Diagrama de Tinsley-Wallerstein** (`[Mg/Fe]` vs. `[Fe/H]`, comparado com a referência de Recio-Blanco et al. 2014): esse é o clássico "mapa" para separar disco fino de disco espesso químicamente, olhando o quanto cada população é enriquecida em elementos-$\alpha$ (como o magnésio) em relação ao ferro.
 
 ### O que esses diagramas mostram, na prática
-A vizinhança solar analisada é dominada por estrelas de **sequência principal dos tipos F, G e K** (ver a classificação espectral em [[260720-Arqueologia-Galactica-Aula01]]), com **idade mediana em torno de 1,6 bilhão de anos** e uma **leve deficiência de metais** em relação ao Sol (`[Fe/H]` mediano ≈ −0,19 dex — ou seja, um pouquinho menos "temperada" em metais que o Sol). O diagrama de Kiel bate bem com as isócronas teóricas, o que dá confiança nos parâmetros espectroscópicos usados. O diagrama de Toomre confirma que a amostra é majoritariamente de **disco galáctico**, com só uma fração pequena de estrelas de halo. E, entre as estrelas de disco espesso presentes na amostra, a componente mais comum é justamente a **rica em metais e enriquecida em elementos-$\alpha$** — só que aqui vale uma ressalva importante: isso pode ser, em parte, um efeito da **função de seleção** combinada dos dois catálogos (ou seja, um viés de quais estrelas entraram na amostra), não necessariamente um fato 100% intrínseco da Galáxia.
+A vizinhança solar analisada é dominada por estrelas de **sequência principal dos tipos F, G e K** (ver a classificação espectral em [[ArqueologiaGalactica-Aula01]]), com **idade mediana em torno de 1,6 bilhão de anos** e uma **leve deficiência de metais** em relação ao Sol (`[Fe/H]` mediano ≈ −0,19 dex — ou seja, um pouquinho menos "temperada" em metais que o Sol). O diagrama de Kiel bate bem com as isócronas teóricas, o que dá confiança nos parâmetros espectroscópicos usados. O diagrama de Toomre confirma que a amostra é majoritariamente de **disco galáctico**, com só uma fração pequena de estrelas de halo. E, entre as estrelas de disco espesso presentes na amostra, a componente mais comum é justamente a **rica em metais e enriquecida em elementos-$\alpha$** — só que aqui vale uma ressalva importante: isso pode ser, em parte, um efeito da **função de seleção** combinada dos dois catálogos (ou seja, um viés de quais estrelas entraram na amostra), não necessariamente um fato 100% intrínseco da Galáxia.
 
 ---
 
@@ -116,13 +116,13 @@ A ideia daqui pra frente é usar **clusterização baseada em densidade** (como 
 - **GALAH DR4:** levantamento espectroscópico com abundâncias químicas detalhadas de quase 1 milhão de estrelas.
 - **Diagrama de Kiel:** como o diagrama HR, mas com gravidade superficial no lugar de luminosidade — usado com isócronas para estimar idades.
 - **Diagrama de Toomre:** separa estrelas de disco e de halo pela velocidade espacial em relação ao Sol.
-- **`[Fe/H]`, `[Mg/Fe]`:** notações de abundância química (ver também [[260720-Arqueologia-Galactica-Aula01]]) usadas para identificar populações estelares (disco fino vs. disco espesso).
+- **`[Fe/H]`, `[Mg/Fe]`:** notações de abundância química (ver também [[ArqueologiaGalactica-Aula01]]) usadas para identificar populações estelares (disco fino vs. disco espesso).
 - **dex:** unidade logarítmica (base 10) usada para expressar essas razões de abundância.
 
 ---
 
 ## 🔗 Referências e correlatos
-- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/260720-arqueologia-galactica-aula01) — conceitos de populações estelares, metalicidade e classificação espectral usados nesta pesquisa
+- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — conceitos de populações estelares, metalicidade e classificação espectral usados nesta pesquisa
 - [Computação — Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02) — aprendizado de máquina não supervisionado (t-SNE)
 - [Resumo Geral](pt-br/resource/escolainverno/00-resumo-escola-de-inverno) — panorama geral da Escola de Inverno
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — estado atual e completo desta pesquisa

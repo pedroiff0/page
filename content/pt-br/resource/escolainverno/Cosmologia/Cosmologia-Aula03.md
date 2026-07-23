@@ -18,14 +18,14 @@ cssclasses:
 # Notas de Aula — Cosmologia (Aula 03)
 
 > [!info] Informações da aula
-> **Tema:** Estrutura em Grande Escala (EGE), terceira sonda observacional do cronograma anunciado na [[260721-Cosmologia-Aula01|Aula 01]].
+> **Tema:** Estrutura em Grande Escala (EGE), terceira sonda observacional do cronograma anunciado na [[Cosmologia-Aula01|Aula 01]].
 > **Professor:** Prof. Dr. Carlos Bengaly
 
 ---
 
 ## 🎯 Visão geral
 
-*Conteúdo desta aula ainda não registrado.* Tema relacionado à "teia cósmica" (voids, filamentos, nós) discutida na nota de [[260720-Aglomerados-Aula01|Aglomerados]] — preencher com o conteúdo detalhado desta aula.
+*Conteúdo desta aula ainda não registrado.* Tema relacionado à "teia cósmica" (voids, filamentos, nós) discutida na nota de [[Aglomerados-Aula01|Aglomerados]] — preencher com o conteúdo detalhado desta aula.
 
 ### 📑 Tópicos abordados
 1. *(a preencher)*
@@ -53,6 +53,6 @@ cssclasses:
 ---
 
 ## 🔗 Referências e correlatos
-- [Aula 01](pt-br/resource/escolainverno/cosmologia/260721-cosmologia-aula01)
+- [Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01)
 - [Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02)
-- [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/260720-aglomerados-aula01) — a teia cósmica (voids, filamentos, nós)
+- [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — a teia cósmica (voids, filamentos, nós)

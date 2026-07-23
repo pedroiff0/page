@@ -47,7 +47,7 @@ Para navegar pelo meu trabalho, explore as seções deste site:
     <img src="/assets/illustrations/resource.svg" alt="Recursos" />
     <div class="slide-caption">Recursos</div>
   </a>
-  <a href="/pt-br/classes" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Disciplinas" />
     <div class="slide-caption">Disciplinas</div>
   </a>
@@ -67,7 +67,7 @@ Para navegar pelo meu trabalho, explore as seções deste site:
 
 - [Pesquisa](pt-br/research/) — Conheça meus projetos atuais.
 - [Recursos](pt-br/resource/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
-- [Disciplinas](pt-br/classes/) — Minhas anotações e trabalhos de faculdade.
+- [Disciplinas](pt-br/resource/engenharia-de-computação/) — Minhas anotações e trabalhos de faculdade.
 - [Mídia](pt-br/media/) — Participações em eventos, feiras e apresentações.
 - [Projetos](pt-br/projects/) — Ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
 - [Publicações](pt-br/publications/) — Meus artigos e preprints publicados.

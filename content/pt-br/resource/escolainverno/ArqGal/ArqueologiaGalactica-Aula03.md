@@ -52,5 +52,5 @@ cssclasses:
 ---
 
 ## 🔗 Referências e correlatos
-- [Aula 01](pt-br/resource/escolainverno/arqgal/260720-arqueologia-galactica-aula01)
+- [Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01)
 - [Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02)

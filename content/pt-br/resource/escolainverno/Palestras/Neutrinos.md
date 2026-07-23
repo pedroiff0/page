@@ -1,7 +1,7 @@
 ---
 publish: true
 title: "Neutrinos"
-titulo: 260720-Neutrinos
+titulo: Neutrinos
 disciplina: Palestra — Física de Partículas e Cosmologia
 conteudo: Neutrinos e a Cosmologia — da física de partículas ao Universo em grande escala
 professor: Gabriel Rodrigues
@@ -157,6 +157,6 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 ---
 
 ## 🔗 Referências e correlatos
-- [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/260721-cosmologia-aula01) — o modelo $\Lambda$CDM e os candidatos a matéria escura citados aqui
-- [OASI](pt-br/resource/escolainverno/palestras/260721-oasi)
-- [Bolsas](pt-br/resource/escolainverno/palestras/260722-bolsas)
+- [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o modelo $\Lambda$CDM e os candidatos a matéria escura citados aqui
+- [OASI](pt-br/resource/escolainverno/palestras/oasi)
+- [Bolsas](pt-br/resource/escolainverno/palestras/bolsas)

@@ -5,67 +5,67 @@ order: 11
 ---
 
 <div class="media-carousel">
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/algoritmos-distribuidos" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Algoritmos Distribuídos" />
     <div class="slide-caption">Algoritmos Distribuídos</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/computacao-grafica" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Computação Gráfica" />
     <div class="slide-caption">Computação Gráfica</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Computação Paralela e Distribuída" />
     <div class="slide-caption">Computação Paralela e Distribuída</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/desenvolvimento-web" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Desenvolvimento Web" />
     <div class="slide-caption">Desenvolvimento Web</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/dimensionamento-de-redes-de-computadores" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/dimensionamento-de-redes-de-computadores" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Dimensionamento de Redes de Computadores" />
     <div class="slide-caption">Dimensionamento de Redes de Computadores</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Energia e Eficiência Energética" />
     <div class="slide-caption">Energia e Eficiência Energética</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/geoprocessamento" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/geoprocessamento" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Geoprocessamento" />
     <div class="slide-caption">Geoprocessamento</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/inteligencia-artificial" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/inteligencia-artificial" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Inteligência Artificial" />
     <div class="slide-caption">Inteligência Artificial</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/interconexao-de-redes-de-computadores" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/interconexao-de-redes-de-computadores" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Interconexão de Redes de Computadores" />
     <div class="slide-caption">Interconexão de Redes de Computadores</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/libras" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/libras" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Libras" />
     <div class="slide-caption">Libras</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/modelagem-ambiental" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/modelagem-ambiental" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Modelagem Ambiental" />
     <div class="slide-caption">Modelagem Ambiental</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/pesquisa-operacional-i" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/pesquisa-operacional-i" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Pesquisa Operacional I" />
     <div class="slide-caption">Pesquisa Operacional I</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/pesquisa-operacional-ii" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/pesquisa-operacional-ii" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Pesquisa Operacional II" />
     <div class="slide-caption">Pesquisa Operacional II</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/processamento-de-imagens" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Processamento de Imagens" />
     <div class="slide-caption">Processamento de Imagens</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/processamento-de-sinais" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Processamento de Sinais" />
     <div class="slide-caption">Processamento de Sinais</div>
   </a>
-  <a href="/pt-br/classes/engenharia-de-computação/eletivas/sociedade-e-tecnologia" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/sociedade-e-tecnologia" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Sociedade e Tecnologia" />
     <div class="slide-caption">Sociedade e Tecnologia</div>
   </a>

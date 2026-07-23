@@ -1,7 +1,7 @@
 ---
 publish: true
 title: "Aula 01"
-titulo: 260721-Cosmologia-Aula01
+titulo: Cosmologia-Aula01
 disciplina: Cosmologia
 conteudo: O modelo cosmológico padrão (ΛCDM) e suas sondas observacionais
 professor: Carlos Bengaly
@@ -121,7 +121,7 @@ O modelo cosmológico padrão é conhecido como **$\Lambda$CDM**:
 ## 🔗 Referências e correlatos
 - [Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — Radiação Cósmica de Fundo
 - [Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — Estrutura em Grande Escala
-- [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/260720-aglomerados-aula01) — a mesma matéria escura, em escala de aglomerado
-- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/260720-arqueologia-galactica-aula01) — supernovas Ia e o processo-r citados aqui como sondas/nucleossíntese
-- [Neutrinos](pt-br/resource/escolainverno/palestras/260720-neutrinos) — neutrinos cósmicos e seu papel no $\Lambda$CDM
+- [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — a mesma matéria escura, em escala de aglomerado
+- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — supernovas Ia e o processo-r citados aqui como sondas/nucleossíntese
+- [Neutrinos](pt-br/resource/escolainverno/palestras/neutrinos) — neutrinos cósmicos e seu papel no $\Lambda$CDM
 

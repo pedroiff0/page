@@ -20,7 +20,7 @@ cssclasses:
 # Notas de Aula — Computação de Alto Desempenho (Aula 02)
 
 > [!info] Informações da aula
-> **Tema:** Duas partes — desempenho e arquitetura de MPI (continuação da [[260721-Computacao-Aula01|Aula 01]]) e introdução a dados e aprendizado de máquina em astronomia.
+> **Tema:** Duas partes — desempenho e arquitetura de MPI (continuação da [[Computacao-Aula01|Aula 01]]) e introdução a dados e aprendizado de máquina em astronomia.
 > **Professores:** Prof. Dr. Fernando Roig (parte 1) e Prof.ª Dr.ª Lilianne Nakazono (parte 2)
 
 ---
@@ -118,7 +118,7 @@ Isto é: primeiro os dados brutos são reduzidos a **atributos** (as variáveis 
 ---
 
 ## 🔗 Referências e correlatos
-- [Aula 01](pt-br/resource/escolainverno/computação/260721-computacao-aula01)
+- [Aula 01](pt-br/resource/escolainverno/computação/computacao-aula01)
 - [Aula 03](pt-br/resource/escolainverno/computação/computacao-aula03)
 - [Recursos — Machine Learning](pt-br/resource/computacao/machine-learning)
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — a pesquisa citada nesta aula como exemplo de ML não supervisionado

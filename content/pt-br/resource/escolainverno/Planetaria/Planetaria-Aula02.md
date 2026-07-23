@@ -1,7 +1,7 @@
 ---
 publish: true
 title: "Aula 02"
-titulo: 260721-Planetaria-Aula02
+titulo: Planetaria-Aula02
 disciplina: Ciências Planetárias
 conteudo: Pequenos corpos do Sistema Solar — o que a distribuição orbital revela sobre a formação do Sistema Solar
 professor: Filipe Monteiro e Gustavo Madeira
@@ -20,7 +20,7 @@ cssclasses:
 # Notas de Aula — Ciências Planetárias (Aula 02)
 
 > [!info] Informações da aula
-> **Tema:** Pequenos corpos do Sistema Solar — continuação de [[260720-Planetaria-Aula01|Aula 01]]
+> **Tema:** Pequenos corpos do Sistema Solar — continuação de [[Planetaria-Aula01|Aula 01]]
 > **Professores:** Filipe Monteiro e Gustavo Madeira
 
 ---
@@ -83,5 +83,5 @@ A ideia-chave desta aula é que a **distribuição orbital atual** (excentricida
 ---
 
 ## 🔗 Referências e correlatos
-- [Aula 01](pt-br/resource/escolainverno/planetaria/260720-planetaria-aula01)
+- [Aula 01](pt-br/resource/escolainverno/planetaria/planetaria-aula01)
 - [Aula 03](pt-br/resource/escolainverno/planetaria/planetaria-aula03)

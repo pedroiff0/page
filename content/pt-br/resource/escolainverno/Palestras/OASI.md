@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Bolsas"
+title: "OASI"
 criado: segunda-feira 20/07/2026 15:50
 modificado: 22/07/2026
 tags:
@@ -22,5 +22,5 @@ _(Notas em construção)_
 ---
 
 ## 🔗 Referências e correlatos
-- [Neutrinos](pt-br/resource/escolainverno/palestras/260720-neutrinos)
-- [OASI](pt-br/resource/escolainverno/palestras/260721-oasi)
+- [Neutrinos](pt-br/resource/escolainverno/palestras/neutrinos)
+- [Bolsas](pt-br/resource/escolainverno/palestras/bolsas)

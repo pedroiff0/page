@@ -53,5 +53,5 @@ cssclasses:
 ---
 
 ## 🔗 Referências e correlatos
-- [Aula 01](pt-br/resource/escolainverno/computação/260721-computacao-aula01)
+- [Aula 01](pt-br/resource/escolainverno/computação/computacao-aula01)
 - [Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02)

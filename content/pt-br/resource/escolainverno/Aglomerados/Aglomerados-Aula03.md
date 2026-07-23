@@ -53,5 +53,5 @@ cssclasses:
 ---
 
 ## 🔗 Referências e correlatos
-- [Aula 01](pt-br/resource/escolainverno/aglomerados/260720-aglomerados-aula01)
+- [Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01)
 - [Aula 02](pt-br/resource/escolainverno/aglomerados/aglomerados-aula02)

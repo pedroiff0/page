@@ -20,7 +20,7 @@ cssclasses:
 # Notas de Aula — Arqueologia Galáctica (Aula 02)
 
 > [!info] Informações da aula
-> **Tema:** Aglomerados Globulares — sistemas com $10^5$ a $10^6$ estrelas, conforme anunciado ao final da [[260720-Arqueologia-Galactica-Aula01|Aula 01]] — e as três revoluções recentes que transformaram a arqueologia galáctica em uma ciência de "big data".
+> **Tema:** Aglomerados Globulares — sistemas com $10^5$ a $10^6$ estrelas, conforme anunciado ao final da [[ArqueologiaGalactica-Aula01|Aula 01]] — e as três revoluções recentes que transformaram a arqueologia galáctica em uma ciência de "big data".
 > **Professor:** João Victor Sales Silva
 
 ---
@@ -67,7 +67,7 @@ Esse cenário se conecta diretamente à **Gaia-Sausage-Enceladus** — a assinat
 
 ## 3. As três revoluções da arqueologia galáctica
 
-O que possibilitou o salto da arqueologia galáctica de um estudo de amostras pequenas para uma ciência estatística de "big data" (ver [[260720-Arqueologia-Galactica-Aula01|Aula 01]]) foram três avanços observacionais recentes e complementares:
+O que possibilitou o salto da arqueologia galáctica de um estudo de amostras pequenas para uma ciência estatística de "big data" (ver [[ArqueologiaGalactica-Aula01|Aula 01]]) foram três avanços observacionais recentes e complementares:
 
 ### Astrossismologia de gigantes vermelhas
 
@@ -85,7 +85,7 @@ A missão espacial **Gaia** mede posição, distância (paralaxe) e movimento pr
 Levantamentos como **APOGEE** e **GALAH** (já citado na Aula 01 e usado na pesquisa própria — ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]) fornecem composição química precisa e detalhada para centenas de milhares de estrelas, permitindo aplicar estatística populacional (em vez de estudos estrela-a-estrela) para reconstruir a história química da Galáxia.
 
 > [!tip] Um enigma em aberto: estrelas jovens ricas em elementos-$\alpha$
-> Um resultado que ainda intriga a área (Grisoni et al. 2024): existem estrelas aparentemente **jovens mas quimicamente ricas em elementos-$\alpha$** — uma combinação inesperada, já que elementos-$\alpha$ altos costumam ser assinatura de populações *antigas* (ver [[260720-Arqueologia-Galactica-Aula01|Aula 01]], seção 3). A hipótese mais discutida é que parte dessas estrelas sejam, na verdade, **produtos de fusões de binárias** (que rejuvenescem a aparência espectroscópica da estrela sem rejuvenescer sua composição química de fato) — um lembrete de que "idade química" e "idade evolutiva aparente" nem sempre coincidem.
+> Um resultado que ainda intriga a área (Grisoni et al. 2024): existem estrelas aparentemente **jovens mas quimicamente ricas em elementos-$\alpha$** — uma combinação inesperada, já que elementos-$\alpha$ altos costumam ser assinatura de populações *antigas* (ver [[ArqueologiaGalactica-Aula01|Aula 01]], seção 3). A hipótese mais discutida é que parte dessas estrelas sejam, na verdade, **produtos de fusões de binárias** (que rejuvenescem a aparência espectroscópica da estrela sem rejuvenescer sua composição química de fato) — um lembrete de que "idade química" e "idade evolutiva aparente" nem sempre coincidem.
 
 ---
 
@@ -121,7 +121,7 @@ O **J-PAS** (*Javalambre Physics of the Accelerating Universe Astrophysical Surv
 - Pinsonneault et al. (2025) — precisão de idades astrossismológicas para gigantes
 - Montalbán et al. (2021) — separação de disco fino/espesso por idade astrossismológica
 - Missão **Gaia**; levantamentos **APOGEE**, **GALAH**, **J-PAS**; método **StarHorse**
-- [Aula 01](pt-br/resource/escolainverno/arqgal/260720-arqueologia-galactica-aula01)
+- [Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01)
 - [Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03)
 - [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) — uso o GALAH DR4 citado aqui na minha própria pesquisa
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection)

@@ -18,7 +18,7 @@ cssclasses:
 # Notas de Aula — Ciências Planetárias (Aula 03)
 
 > [!info] Informações da aula
-> **Tema:** *(a definir — continuação de [[260721-Planetaria-Aula02|Aula 02]])*
+> **Tema:** *(a definir — continuação de [[Planetaria-Aula02|Aula 02]])*
 > **Professores:** Filipe Monteiro e Gustavo Madeira
 
 ---
@@ -53,5 +53,5 @@ cssclasses:
 ---
 
 ## 🔗 Referências e correlatos
-- [Aula 01](pt-br/resource/escolainverno/planetaria/260720-planetaria-aula01)
-- [Aula 02](pt-br/resource/escolainverno/planetaria/260721-planetaria-aula02)
+- [Aula 01](pt-br/resource/escolainverno/planetaria/planetaria-aula01)
+- [Aula 02](pt-br/resource/escolainverno/planetaria/planetaria-aula02)

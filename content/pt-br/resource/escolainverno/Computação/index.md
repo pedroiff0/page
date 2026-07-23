@@ -4,7 +4,7 @@ title: "Computação de Alto Desempenho"
 ---
 
 <div class="media-carousel">
-  <a href="/pt-br/resource/escolainverno/computação/260721-computacao-aula01" class="carousel-slide">
+  <a href="/pt-br/resource/escolainverno/computação/computacao-aula01" class="carousel-slide">
     <img src="/assets/illustrations/computacao.svg" alt="Aula 01" />
     <div class="slide-caption">Aula 01</div>
   </a>
