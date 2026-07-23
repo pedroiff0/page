@@ -12,6 +12,8 @@ configuration:
     - private
     - templates
     - .obsidian
+    - fr
+    - es
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -229,10 +231,20 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: pedroiff0/page
+        repoId: R_kgDOTcqzBQ
+        category: Announcements
+        categoryId: DIC_kwDOTcqzBc4DBxFq
+        mapping: pathname
+        strict: false
+        reactionsEnabled: true
+        inputPosition: bottom
+        themeUrl: https://giscus.app/themes
+        lang: pt
     layout:
       position: afterBody
       priority: 10
