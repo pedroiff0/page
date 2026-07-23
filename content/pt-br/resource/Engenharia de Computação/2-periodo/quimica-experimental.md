@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 40h
+> **Tópicos:** Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.16 |

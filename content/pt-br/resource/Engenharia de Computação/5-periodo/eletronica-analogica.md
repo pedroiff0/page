@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 5º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Transistores bipolares e circuitos polarizados com transistor; Fonte de alimentação regulada; Osciladores e temporizadores; Tiristores;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.37 |

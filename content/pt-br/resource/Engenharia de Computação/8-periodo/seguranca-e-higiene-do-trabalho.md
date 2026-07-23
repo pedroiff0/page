@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 8º Período · **Núcleo:** Profissionalizante
+> **Tópicos:** Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (NR-5), Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho – …
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.60 |

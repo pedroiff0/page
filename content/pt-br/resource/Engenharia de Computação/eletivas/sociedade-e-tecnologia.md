@@ -6,6 +6,10 @@ tags:
  - eletivo
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Eletivo · **Carga Horária:** 60h
+> **Tópicos:** Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico e Tecnológico. Trabalho.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.76 |

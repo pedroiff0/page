@@ -16,7 +16,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Cosmologia (Aula 01)
+# 🌠 Notas de Aula — Cosmologia (Aula 01)
 
 > [!info] Informações da aula
 > **Tema:** O modelo cosmológico padrão e suas sondas observacionais

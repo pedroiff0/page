@@ -6,6 +6,10 @@ tags:
  - basica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 2º Período · **Núcleo:** Básica · **Carga Horária:** 60h
+> **Tópicos:** Teoria dos conjuntos, relações e funções, indução e recursão, análise combinatória, teoria dos números, teoria dos grafos e árvores.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.14 |

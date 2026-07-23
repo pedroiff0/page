@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> GALAH: survey de alta resolução para desvendar a formação da Via Láctea.
+
 *Traven, G. (2017)*
 
 ## Síntese

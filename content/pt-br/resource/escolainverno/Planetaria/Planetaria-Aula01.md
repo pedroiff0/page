@@ -15,7 +15,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Ciências Planetárias (Aula 01)
+# 🪐 Notas de Aula — Ciências Planetárias (Aula 01)
 
 > [!info] Informações da aula
 > **Tema:** O Sistema Solar — inventário, arquitetura e dinâmica orbital

@@ -4,6 +4,9 @@ title: Projetos
 order: 5
 ---
 
+> [!note] Resumo
+> Ferramentas, aplicações e material didático que construo fora da pesquisa acadêmica.
+
 <div class="media-carousel">
   <a href="/pt-br/projects/verdementa" class="carousel-slide">
     <img src="/assets/illustrations/projects.svg" alt="VerdeMenta" />

@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 8º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; Barramentos de computadores pessoais; Interfaceamento via rede;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.61 |

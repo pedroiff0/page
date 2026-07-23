@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Combina dados astrométricos do Gaia, abundâncias de APOGEE e LAMOST, e idades StarHorse para mapear a evolução da Via Láctea e o dilema entre disco grosso e fino (possível origem em fusão gasosa-rica …
+
 *Borbolato, Lais. (2025)*
 
 ## Síntese

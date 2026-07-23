@@ -16,7 +16,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Arqueologia Galáctica (Aula 02)
+# 🏛️ Notas de Aula — Arqueologia Galáctica (Aula 02)
 
 > [!info] Informações da aula
 > **Tema:** Aglomerados Globulares — sistemas com $10^5$ a $10^6$ estrelas, conforme anunciado ao final da [[ArqueologiaGalactica-Aula01|Aula 01]] — e as três revoluções recentes que transformaram a arqueologia galáctica em uma ciência de "big data".

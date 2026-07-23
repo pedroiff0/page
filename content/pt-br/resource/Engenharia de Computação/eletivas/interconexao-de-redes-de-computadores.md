@@ -6,6 +6,10 @@ tags:
  - eletivo
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Eletivo · **Carga Horária:** 60h
+> **Tópicos:** Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame Relay; NAT; Soluções de Banda Larga; Protegendo a Conectividade de Site para Site;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.80 |

@@ -6,6 +6,10 @@ tags:
  - basica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 1º Período · **Núcleo:** Básica · **Carga Horária:** 80h
+> **Tópicos:** Utilização de instrumentos de desenho; Normas para desenho; Desenho geométrico; Projeções ortogonais; Perspectiva isométrica; Dimensionamento e cotagem;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.7 |

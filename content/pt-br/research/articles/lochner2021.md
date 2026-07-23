@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Discute que surveys como Vera Rubin e SKA gerarão bilhões de fontes que nunca serão vistas por humanos;
+
 *Lochner, M. (2021)*
 
 ## Síntese

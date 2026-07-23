@@ -5,6 +5,9 @@ order: 1
 created: 2026-07-18T14:50:18.101-03:00
 ---
 
+> [!note] Resumo
+> Arqueologia galáctica, populações estelares e aprendizado de máquina aplicado a dados astronômicos.
+
 <div class="media-carousel">
   <a href="/pt-br/research/anomaly-detection" class="carousel-slide">
     <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Detecção de Anomalias em Dados do Gaia" />

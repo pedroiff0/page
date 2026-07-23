@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 4º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmica. Hidráulica técnica – Bombas e Medidores de Vazão. Perda de carga em tubulações.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.28 |

@@ -4,6 +4,9 @@ title: "7º Período"
 order: 7
 ---
 
+> [!note] Sobre este período
+> 7 disciplinas do 7º período do curso de Engenharia de Computação.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/7-periodo/computacao-sociedade-e-inclusao" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Computação, Sociedade e Inclusão" />

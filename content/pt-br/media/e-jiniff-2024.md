@@ -5,6 +5,9 @@ photoFolder: ejiniff2024
 created: 2024-08-23
 ---
 
+> [!note] Sobre o evento
+> Página dedicada à etapa institucional do **e-JINIFF 2024 (Jogos Eletrônicos da Rede Federal)**, organizada pelo Campus Cabo Frio com a participação de várias unidades do IFF, em agosto de 2024.
+
 ## Sobre o evento
 
 Página dedicada à etapa institucional do **e-JINIFF 2024 (Jogos Eletrônicos da Rede Federal)**, organizada pelo Campus Cabo Frio com a participação de várias unidades do IFF, em agosto de 2024.

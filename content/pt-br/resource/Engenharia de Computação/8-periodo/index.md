@@ -4,6 +4,9 @@ title: "8º Período"
 order: 8
 ---
 
+> [!note] Sobre este período
+> 6 disciplinas do 8º período do curso de Engenharia de Computação.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Arquitetura de Computadores" />

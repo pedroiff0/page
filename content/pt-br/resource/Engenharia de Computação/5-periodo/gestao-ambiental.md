@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 5º Período · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo, reciclagem e reaproveitamento. Definição de lixo e poluição.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.39 |

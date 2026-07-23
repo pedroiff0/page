@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprimento de energia – estrutura brasileira. Energia e desenvolvimento.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.82 |

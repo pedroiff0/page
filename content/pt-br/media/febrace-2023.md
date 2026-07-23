@@ -5,6 +5,9 @@ photoFolder: febrace2023
 created: 2023-03-20
 ---
 
+> [!note] Sobre o evento
+> Página dedicada à participação na **21ª Feira Brasileira de Ciências e Engenharia (FEBRACE)**, em São Paulo, em 20 de março de 2023 — a maior feira de ciências e engenharia do Brasil.
+
 ## Sobre o evento
 
 Página dedicada à participação na **21ª Feira Brasileira de Ciências e Engenharia (FEBRACE)**, em São Paulo, em 20 de março de 2023 — a maior feira de ciências e engenharia do Brasil.

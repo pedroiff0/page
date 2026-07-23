@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 7º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Memória.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.56 |

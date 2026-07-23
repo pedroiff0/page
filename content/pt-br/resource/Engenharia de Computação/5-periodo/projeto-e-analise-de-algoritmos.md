@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 5º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limites de Complexidade. Análise de algoritmos iterativos e recursivos.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.34 |

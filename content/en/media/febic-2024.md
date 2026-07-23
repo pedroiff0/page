@@ -5,6 +5,9 @@ photoFolder: febic2024
 created: 2024-09-15
 ---
 
+> [!note] About the event
+> Page dedicated to the participation in the **IX Brazilian Fair of Scientific Initiation (FEBIC)**, in Pomerode (SC).
+
 ## About the event
 
 Page dedicated to the participation in the **IX Brazilian Fair of Scientific Initiation (FEBIC)**, in Pomerode (SC).

@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 3º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da termodinâmica; Teoria cinética dos gases; Entropia; 2.ª lei da termodinâmica.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.19 |

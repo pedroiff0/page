@@ -16,7 +16,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Ciências Planetárias (Aula 02)
+# 🪐 Notas de Aula — Ciências Planetárias (Aula 02)
 
 > [!info] Informações da aula
 > **Tema:** Pequenos corpos do Sistema Solar — continuação de [[Planetaria-Aula01|Aula 01]]

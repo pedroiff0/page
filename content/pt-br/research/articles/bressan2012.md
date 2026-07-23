@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> PARSEC: stellar tracks and isochrones with the PAdova & TRieste Stellar Evolution Code (PARSEC).
+
 *Bressan, Alessandro. (2012)*
 
 ## Síntese

@@ -16,7 +16,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Palestra — Neutrinos e a Cosmologia
+# ⚛️ Notas de Palestra — Neutrinos e a Cosmologia
 
 > [!info] Informações da palestra
 > **Tema:** Neutrinos e a Cosmologia

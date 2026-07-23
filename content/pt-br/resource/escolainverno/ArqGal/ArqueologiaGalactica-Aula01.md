@@ -16,7 +16,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Arqueologia Galáctica
+# 🏛️ Notas de Aula — Arqueologia Galáctica
 
 > [!info] Informações da aula
 > **Tema:** Arqueologia Galáctica — usar a composição química e a cinemática das estrelas como "fósseis" para reconstruir a história de formação da Via Láctea.

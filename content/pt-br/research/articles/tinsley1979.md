@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Artigo clássico de evolução química: usa modelos da literatura para testar nucleossíntese de elementos.
+
 *Tinsley, B.~M. (1979)*
 
 ## Síntese

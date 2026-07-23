@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 5º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto de software. Arquitetura de software. Testes.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.36 |

@@ -4,6 +4,9 @@ title: "Engenharia de Computação"
 order: 1
 ---
 
+> [!note] Sobre o curso
+> Grade curricular completa do curso de Engenharia de Computação do Instituto Federal Fluminense (IFF), organizada por período — 83 disciplinas ao todo.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/1-periodo" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="1º Período" />

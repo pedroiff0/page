@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 9º Período · **Núcleo:** Específica · **Carga Horária:** 40h
+> **Tópicos:** Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor e medidas de qualidade. Startups.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.68 |

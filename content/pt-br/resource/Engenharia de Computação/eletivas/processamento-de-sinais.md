@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.83 |

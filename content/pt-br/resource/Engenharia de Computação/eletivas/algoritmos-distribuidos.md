@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Sistemas de troca de mensagens. Processadores de comunicação. Roteamento e controle de fluxo. Programas reativos. Alocação de "buffers".
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.86 |

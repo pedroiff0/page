@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 6º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. Controle de Enlace. Multiplexação. Espalhamento Espectral.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.47 |

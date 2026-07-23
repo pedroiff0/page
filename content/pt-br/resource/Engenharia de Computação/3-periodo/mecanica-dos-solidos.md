@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 3º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Conceito de tensão, Forças distribuídas, Carregamentos axiais, Torção, Flexão, Cisalhamento, Carregamento combinado, Análise de tensões, transformação de tensão…
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.21 |

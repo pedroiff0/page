@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 1º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Primeira Ordem; Aplicações de Lógica
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.3 |

@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 8º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com Switches; Configuração de Switch; VLANs; Listas de Controle de Acesso; DHCP;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.59 |

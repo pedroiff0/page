@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Dinâmica de sistemas lineares e não-lineares. Hierarquia de sistemas. Modelagem da dinâmica de populações. Modelagem do ciclo do carbono.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.85 |

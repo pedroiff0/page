@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> (OCR extraído; síntese a confirmar pela leitura do abstract abaixo.)
+
 *da Silva, A. R. (2023)*
 
 ## Síntese

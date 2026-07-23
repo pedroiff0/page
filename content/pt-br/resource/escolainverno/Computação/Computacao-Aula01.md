@@ -16,7 +16,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Computação de Alto Desempenho (Aula 01)
+# 💻 Notas de Aula — Computação de Alto Desempenho (Aula 01)
 
 > [!info] Informações da aula
 > **Tema:** Computação de Alto Desempenho (HPC)

@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 8º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Sistemas de Arquivos; Entrada/Saída; Deadlocks.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.63 |

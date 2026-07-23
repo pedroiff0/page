@@ -5,6 +5,9 @@ photoFolder: mctia2025
 created: 2025-12-01
 ---
 
+> [!note] About the event
+> Page dedicated to the participation in the **XVI Instituto Açaí Science and Technology Fair (MCTIA)**, in Belém (PA) — the largest science fair in the North of Brazil.
+
 ## About the event
 
 Page dedicated to the participation in the **XVI Instituto Açaí Science and Technology Fair (MCTIA)**, in Belém (PA) — the largest science fair in the North of Brazil.

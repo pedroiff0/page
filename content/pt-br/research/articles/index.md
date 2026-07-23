@@ -4,6 +4,9 @@ title: "Artigos"
 order: 1
 ---
 
+> [!note] Resumo
+> Anotações de leitura sobre 28 artigos científicos relevantes para minha pesquisa em detecção de anomalias em populações estelares.
+
 <div class="media-carousel">
   <a href="/pt-br/research/articles/borbolato2025" class="carousel-slide">
     <img src="/assets/illustrations/articles.svg" alt="Coformação dos Discos Fino/Espesso (z>2)" />

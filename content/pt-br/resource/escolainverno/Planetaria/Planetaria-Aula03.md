@@ -13,7 +13,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Ciências Planetárias (Aula 03)
+# 🪐 Notas de Aula — Ciências Planetárias (Aula 03)
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[Planetaria-Aula02|Aula 02]])*

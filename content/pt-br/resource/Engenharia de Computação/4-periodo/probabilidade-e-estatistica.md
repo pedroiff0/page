@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 4º Período · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Distribuições de Probabilidades.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.29 |

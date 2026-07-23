@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.11 |

@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Deriva idades de quase 250.000 estrelas do GALAH DR3 via XGBoost usando apenas metalicidade e abundâncias (precisão 1-2 Gyr).
+
 *Hayden, Michael R. (2022)*
 
 ## Síntese

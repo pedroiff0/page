@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Usa abordagem de machine learning não-supervisionado (autoencoder para detecção de anomalias + t-SNE) nos dados fotométricos do S-PLUS para selecionar ~19.
+
 *Quispe-Huaynasi, F. (2050)*
 
 ## Síntese

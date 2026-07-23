@@ -6,6 +6,10 @@ tags:
  - eletivo
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Eletivo · **Carga Horária:** 60h
+> **Tópicos:** Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fio; Solução Problemas de OSPF de Área Única; OSPF Multiárea; EIGRP;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.81 |

@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Debate a natureza do disco grosso e sua relação com o disco fino (estrutura, cinemática, química). Relevante para o contexto de populações estelares e migração do seu projeto.
+
 *Recio-Blanco, A. (2014)*
 
 ## Síntese

@@ -3,6 +3,9 @@ publish: true
 title: "Ciências Planetárias"
 ---
 
+> [!note] Resumo
+> Sistema Solar: inventário, arquitetura e dinâmica orbital.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/escolainverno/planetaria/planetaria-aula01" class="carousel-slide">
     <img src="/assets/illustrations/planetaria.svg" alt="Aula 01" />

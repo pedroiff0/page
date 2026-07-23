@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 9º Período · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação dos novos aspectos e relações jurídicas da sociedade da informação.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.69 |

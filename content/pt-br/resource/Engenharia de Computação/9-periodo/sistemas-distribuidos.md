@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 9º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.71 |

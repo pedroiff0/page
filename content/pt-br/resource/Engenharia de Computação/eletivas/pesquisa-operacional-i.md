@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema do Transporte; Otimização de Redes; Modelos determinísticos de estoque;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.88 |

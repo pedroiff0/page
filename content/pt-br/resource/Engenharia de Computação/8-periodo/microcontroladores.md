@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 8º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Principais características; Tipos de arquiteturas; Memórias internas; Registradores; Modos de endereçamento; Instruções; Linguagem assembly;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.62 |

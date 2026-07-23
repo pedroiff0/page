@@ -15,7 +15,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Aglomerados de Galáxias (Aula 02)
+# 🌌 Notas de Aula — Aglomerados de Galáxias (Aula 02)
 
 > [!info] Informações da aula
 > **Tema:** Formação hierárquica de estruturas e como o ambiente de um aglomerado transforma as galáxias que caem nele — continuação de [[Aglomerados-Aula01|Aula 01]]

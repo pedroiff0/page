@@ -5,6 +5,9 @@ order: 1
 created: 2026-07-18T14:24:43.861-03:00
 ---
 
+> [!note] Summary
+> Galactic archaeology, stellar populations and machine learning applied to astronomical data.
+
 <div class="media-carousel">
   <a href="/en/research/anomaly-detection" class="carousel-slide">
     <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Anomaly Detection in Gaia Data" />

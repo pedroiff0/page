@@ -16,7 +16,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Computação de Alto Desempenho (Aula 02)
+# 💻 Notas de Aula — Computação de Alto Desempenho (Aula 02)
 
 > [!info] Informações da aula
 > **Tema:** Duas partes — desempenho e arquitetura de MPI (continuação da [[Computacao-Aula01|Aula 01]]) e introdução a dados e aprendizado de máquina em astronomia.

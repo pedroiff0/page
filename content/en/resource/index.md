@@ -5,6 +5,9 @@ order: 2
 created: 2026-07-18T14:25:13.277-03:00
 ---
 
+> [!note] Summary
+> Tools, materials and recommendations gathered throughout my academic journey.
+
 <div class="media-carousel">
   <a href="/en/resource/astronomy-data-toolkit" class="carousel-slide">
     <img src="/assets/illustrations/toolkit.svg" alt="Astronomy Data Toolkit" />

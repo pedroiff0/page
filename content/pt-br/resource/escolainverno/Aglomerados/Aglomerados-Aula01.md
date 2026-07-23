@@ -16,7 +16,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Aglomerados de Galáxias
+# 🌌 Notas de Aula — Aglomerados de Galáxias
 
 > [!info] Informações da aula
 > **Tema:** Aglomerados de Galáxias: as maiores estruturas do Universo

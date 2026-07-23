@@ -5,6 +5,9 @@ order: 4
 created: 2026-07-18T13:51:45.596-03:00
 ---
 
+> [!note] Summary
+> Participations in science fairs, congresses and scientific events — from the first to the most recent.
+
 Participations in science fairs and congresses. Swipe to see the photos!
 
 <div class="media-carousel">

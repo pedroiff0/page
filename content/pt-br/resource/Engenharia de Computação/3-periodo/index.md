@@ -4,6 +4,9 @@ title: "3º Período"
 order: 3
 ---
 
+> [!note] Sobre este período
+> 8 disciplinas do 3º período do curso de Engenharia de Computação.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Estruturas de Dados I" />

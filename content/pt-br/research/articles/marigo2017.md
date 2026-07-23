@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Apresenta nova geração de isócronas PARSEC-COLIBRI incluindo fase TP-AGB detalhada e ampla faixa de metalicidade. Útil para estimar idades/parâmetros estelares que entram nas análises do seu projeto.
+
 *Marigo, Paola. (2017)*
 
 ## Síntese

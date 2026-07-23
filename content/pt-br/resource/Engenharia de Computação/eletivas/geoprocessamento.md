@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Métodos de abstração, conversão e estruturação em SIG.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.84 |

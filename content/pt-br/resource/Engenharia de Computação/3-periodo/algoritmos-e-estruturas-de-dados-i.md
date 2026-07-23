@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 3º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de Parâmetros; Alocação Dinâmica de Memória; Estruturas de Dados Lineares;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.22 |

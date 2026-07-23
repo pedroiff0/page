@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Aplicações da integral definida; Integrais impróprias; Funções de várias variáveis; Derivadas parciais; Aplicações das derivadas parciais; Integração múltipla.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.9 |

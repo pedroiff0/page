@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Usa ~600.000 espectros de alta resolução do GALAH + algoritmo de machine learning para encontrar 54 candidatos a estrelas extremamente pobres em metais (EMP, [Fe/H]<-3,0).
+
 *Hughes, Arvind C.~N. (1907)*
 
 ## Síntese

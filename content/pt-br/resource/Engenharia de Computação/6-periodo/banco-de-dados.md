@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 6º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Recuperação de falhas. Controle de concorrência. Noções básicas de bancos de dados distribuídos. Aspectos de segurança e privacidade.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.44 |

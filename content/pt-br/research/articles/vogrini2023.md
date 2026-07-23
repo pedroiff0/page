@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Usa >872.000 espectros do GALAH para isolar Bandas Difusas Interestelares (DIBs), gerando catálogo de 183 features. Menos central ao seu tema, mas mostra uso de big data espectroscópico do GALAH.
+
 *Vogrin\vc, i\vc, Rok. (2023)*
 
 ## Síntese

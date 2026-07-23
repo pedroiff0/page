@@ -5,6 +5,9 @@ photoFolder: mostratec2023
 created: 2023-10-23
 ---
 
+> [!note] About the event
+> Page dedicated to the participation in the **International Science and Technology Fair (MOSTRATEC)**, in Novo Hamburgo (RS), from October 23 to 27, 2023 — the largest and most traditional science fair in Latin America, with more than 800 projects from 15 countries.
+
 ## About the event
 
 Page dedicated to the participation in the **International Science and Technology Fair (MOSTRATEC)**, in Novo Hamburgo (RS), from October 23 to 27, 2023 — the largest and most traditional science fair in Latin America, with more than 800 projects from 15 countries.

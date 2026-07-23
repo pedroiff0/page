@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 4º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Singularidades e séries de Laurent. Resíduos e polos. Integração complexa.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.31 |

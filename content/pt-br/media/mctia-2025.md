@@ -5,6 +5,9 @@ photoFolder: mctia2025
 created: 2025-12-01
 ---
 
+> [!note] Sobre o evento
+> Página dedicada à participação na **XVI Mostra de Ciência e Tecnologia do Instituto Açaí (MCTIA)**, em Belém (PA) — a maior feira científica do Norte do país.
+
 ## Sobre o evento
 
 Página dedicada à participação na **XVI Mostra de Ciência e Tecnologia do Instituto Açaí (MCTIA)**, em Belém (PA) — a maior feira científica do Norte do país.

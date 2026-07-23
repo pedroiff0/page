@@ -4,6 +4,9 @@ title: "5º Período"
 order: 5
 ---
 
+> [!note] Sobre este período
+> 9 disciplinas do 5º período do curso de Engenharia de Computação.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Avaliação e Desempenho de Sistemas" />

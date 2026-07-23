@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Apresenta modelos de massa da Via Láctea ajustados a restrições observacionais.
+
 *McMillan, Paul J. (2017)*
 
 ## Síntese

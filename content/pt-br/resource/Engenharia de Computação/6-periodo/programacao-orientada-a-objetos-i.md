@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 6º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Desenvolvimento de software de complexidade média utilizando o paradigma de orientação a objetos. Estudo e análise dos conceitos de herança e polimorfismo.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.45 |

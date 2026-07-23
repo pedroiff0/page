@@ -3,18 +3,21 @@ publish: true
 title: "Palestras"
 ---
 
+> [!note] Resumo
+> As quatro palestras da Escola de Inverno 2026, de neutrinos a composição química estelar.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/escolainverno/palestras/neutrinos" class="carousel-slide">
     <img src="/assets/illustrations/palestras.svg" alt="Neutrinos" />
     <div class="slide-caption">Neutrinos</div>
   </a>
   <a href="/pt-br/resource/escolainverno/palestras/oasi" class="carousel-slide">
-    <img src="/assets/illustrations/palestras.svg" alt="Neutrinos" />
-    <div class="slide-caption">Neutrinos</div>
+    <img src="/assets/illustrations/palestras.svg" alt="OASI" />
+    <div class="slide-caption">OASI</div>
   </a>
   <a href="/pt-br/resource/escolainverno/palestras/bolsas" class="carousel-slide">
-    <img src="/assets/illustrations/palestras.svg" alt="Neutrinos" />
-    <div class="slide-caption">Neutrinos</div>
+    <img src="/assets/illustrations/palestras.svg" alt="Bolsas" />
+    <div class="slide-caption">Bolsas</div>
   </a>
 </div>
 

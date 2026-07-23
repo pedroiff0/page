@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de coordenadas e transformações 2D, 3D.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.77 |

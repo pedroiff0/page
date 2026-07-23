@@ -3,6 +3,9 @@ publish: true
 title: "Cosmologia"
 ---
 
+> [!note] Resumo
+> O modelo padrão ΛCDM e suas sondas observacionais, com Carlos Bengaly.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/escolainverno/cosmologia/cosmologia-aula01" class="carousel-slide">
     <img src="/assets/illustrations/cosmologia.svg" alt="Aula 01" />

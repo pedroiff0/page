@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Determina parâmetros e abundâncias de 6 milhões de estrelas do LAMOST DR5 via modelo data-driven DD-Payne (herda The Payne e The Cannon), com 16 elementos.
+
 *Xiang, Maosheng. (2019)*
 
 ## Síntese

@@ -6,6 +6,10 @@ tags:
  - eletivo
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Eletivo · **Carga Horária:** 60h
+> **Tópicos:** Línguas de sinais e minoria linguística; as diferentes línguas de sinais; status da língua de sinais no Brasil; cultura surda;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.75 |

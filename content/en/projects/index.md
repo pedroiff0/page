@@ -4,6 +4,9 @@ title: Projects
 order: 5
 ---
 
+> [!note] Summary
+> Tools, applications and course material I build outside of academic research.
+
 <div class="media-carousel">
   <a href="/en/projects/verdementa" class="carousel-slide">
     <img src="/assets/illustrations/projects.svg" alt="VerdeMenta" />

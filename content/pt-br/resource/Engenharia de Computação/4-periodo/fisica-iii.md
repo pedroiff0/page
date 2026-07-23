@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 4º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais, força magnética, momento magnético, efeito Hall, campo magnético em cargas móve…
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.26 |

@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 7º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Apropriações da computação e relações de poder: o espaço público, o privado e o sujeito. Recursos e repositórios educacionais abertos.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.54 |

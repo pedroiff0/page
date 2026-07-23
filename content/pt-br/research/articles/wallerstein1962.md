@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Artigo histórico: deriva abundâncias de 21 estrelas de tipo solar a partir de curvas de crescimento, discutindo reações nucleares e estrutura galáctica.
+
 *Wallerstein, George. (1962)*
 
 ## Síntese

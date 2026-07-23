@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 8º Período · **Núcleo:** Básico
+> **Tópicos:** Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.64 |

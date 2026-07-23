@@ -12,7 +12,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Arqueologia Galáctica (Aula 03)
+# 🏛️ Notas de Aula — Arqueologia Galáctica (Aula 03)
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[ArqueologiaGalactica-Aula02|Aula 02]])*

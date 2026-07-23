@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Apresenta a estrutura quimiodinâmica da vizinhança solar com 62.814 estrelas (GALAH + Gaia DR2).
+
 *Hayden, Michael R. (2020)*
 
 ## Síntese

@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 3º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.17 |

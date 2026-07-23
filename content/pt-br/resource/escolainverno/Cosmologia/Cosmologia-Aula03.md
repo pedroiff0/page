@@ -13,7 +13,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Cosmologia (Aula 03)
+# 🌠 Notas de Aula — Cosmologia (Aula 03)
 
 > [!info] Informações da aula
 > **Tema:** Estrutura em Grande Escala (EGE), terceira sonda observacional do cronograma anunciado na [[Cosmologia-Aula01|Aula 01]].

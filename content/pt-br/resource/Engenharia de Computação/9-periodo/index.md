@@ -4,6 +4,9 @@ title: "9º Período"
 order: 9
 ---
 
+> [!note] Sobre este período
+> 5 disciplinas do 9º período do curso de Engenharia de Computação.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/9-periodo/direito-etica-e-cidadania" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Direito, Ética e Cidadania" />

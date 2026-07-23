@@ -4,6 +4,9 @@ title: "Eletivas (optativas)"
 order: 11
 ---
 
+> [!note] Sobre as eletivas
+> 16 disciplinas optativas do curso de Engenharia de Computação, escolhidas livremente pelo aluno para completar a carga horária.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Algoritmos Distribuídos" />

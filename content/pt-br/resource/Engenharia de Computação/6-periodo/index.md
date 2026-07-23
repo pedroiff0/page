@@ -4,6 +4,9 @@ title: "6º Período"
 order: 6
 ---
 
+> [!note] Sobre este período
+> 7 disciplinas do 6º período do curso de Engenharia de Computação.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Análise de Software Orientada a Objetos" />

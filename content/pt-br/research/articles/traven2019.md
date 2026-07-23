@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Revisa os diversos métodos de machine learning em astronomia e discute como aplicá-los a grandes levantamentos.
+
 *Traven, G. (2019)*
 
 ## Síntese

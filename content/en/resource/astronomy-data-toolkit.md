@@ -4,6 +4,9 @@ title: Astronomy Data Toolkit
 created: 2025-12-22
 ---
 
+> [!note] Summary
+> Essential tools for astronomical data analysis: Astropy, TOPCAT, Aladin Lite and reproducible workflows with Jupyter.
+
 Curated tools for astronomy workflows: visualization, catalog inspection, and reproducible notebooks.
 
 ## Core Tools

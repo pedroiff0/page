@@ -6,6 +6,10 @@ tags:
  - basica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 1º Período · **Núcleo:** Básica
+> **Tópicos:** História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Software; Unidades de Medida; Linguagens de Programação; Sistemas Operacionais;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.1 |

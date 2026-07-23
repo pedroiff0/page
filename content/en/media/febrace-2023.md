@@ -5,6 +5,9 @@ photoFolder: febrace2023
 created: 2023-03-20
 ---
 
+> [!note] About the event
+> Page dedicated to the participation in the **21st Brazilian Science and Engineering Fair (FEBRACE)**, in São Paulo, on March 20, 2023 — the largest science and engineering fair in Brazil.
+
 ## About the event
 
 Page dedicated to the participation in the **21st Brazilian Science and Engineering Fair (FEBRACE)**, in São Paulo, on March 20, 2023 — the largest science and engineering fair in Brazil.

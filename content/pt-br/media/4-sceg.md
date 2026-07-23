@@ -5,6 +5,9 @@ photoFolder: 4sceg2024
 created: 2024-10-22
 ---
 
+> [!note] Sobre o evento
+> Página dedicada à **4ª Semana de Computação, Engenharia e Gestão (SCEG)**, no IFF Bom Jesus do Itabapoana, em outubro de 2024, dentro da programação da XII Mostra do Conhecimento.
+
 ## Sobre o evento
 
 Página dedicada à **4ª Semana de Computação, Engenharia e Gestão (SCEG)**, no IFF Bom Jesus do Itabapoana, em outubro de 2024, dentro da programação da XII Mostra do Conhecimento.

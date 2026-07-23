@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 6º Período · **Núcleo:** Profissionalizante
+> **Tópicos:** Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de Modelagem Unificada; Modelagem de Negócio; Análise de Requisitos;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.42 |

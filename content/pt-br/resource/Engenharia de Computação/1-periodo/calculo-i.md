@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 1º Período · **Núcleo:** Básico · **Carga Horária:** 120h
+> **Tópicos:** Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplicações da derivada, Integração, Integral Indefinida e Integral Definida.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.4 |

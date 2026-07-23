@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 3º Período · **Núcleo:** Básico · **Carga Horária:** 40h
+> **Tópicos:** Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O Pêndulo simples.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.20 |

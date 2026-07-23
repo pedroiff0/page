@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 4º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Árvores binárias de pesquisa. Árvores balanceadas e discussão de desempenho. Fila de prioridades. Pesquisa digital. Ordenação externa. Espalhamento.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.30 |

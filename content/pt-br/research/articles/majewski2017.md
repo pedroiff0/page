@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Descreve o survey APOGEE (SDSS-III): 146.000 estrelas com espectros infravermelhos de alta resolução (R~22.500) e alto S/N. Apresenta design, seleção de alvos, redução e produtos.
+
 *Majewski, Steven R. (2017)*
 
 ## Síntese

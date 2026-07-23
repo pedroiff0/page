@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 2º Período · **Núcleo:** Profissionalizante
+> **Tópicos:** Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exemplos informais de algoritmos. Tipos primitivos de dados. Variáveis e constantes.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.13 |

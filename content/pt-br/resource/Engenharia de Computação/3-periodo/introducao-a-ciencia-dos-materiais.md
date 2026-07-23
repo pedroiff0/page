@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 3º Período · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em Sólidos; Difusão; Propriedades Mecânicas dos Metais;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.23 |

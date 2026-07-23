@@ -6,6 +6,10 @@ tags:
  - basica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 1º Período · **Núcleo:** Básica · **Carga Horária:** 60h
+> **Tópicos:** Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.6 |

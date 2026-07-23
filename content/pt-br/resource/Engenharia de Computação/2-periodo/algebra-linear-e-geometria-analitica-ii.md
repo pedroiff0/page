@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores autoadjuntos e ortogonais. Valores e vetores próprios.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.10 |

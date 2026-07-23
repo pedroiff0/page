@@ -5,6 +5,9 @@ photoFolder: ejiniff2024
 created: 2024-08-23
 ---
 
+> [!note] About the event
+> Page dedicated to the institutional stage of **e-JINIFF 2024 (Federal Network Electronic Games)**, organized by the Cabo Frio Campus with the participation of several IFF units, in August 2024.
+
 ## About the event
 
 Page dedicated to the institutional stage of **e-JINIFF 2024 (Federal Network Electronic Games)**, organized by the Cabo Frio Campus with the participation of several IFF units, in August 2024.

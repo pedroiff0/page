@@ -6,6 +6,10 @@ tags:
  - especifico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Específico · **Carga Horária:** 60h
+> **Tópicos:** Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos de busca. Heurísticas. Conhecimento e raciocínio. Tópicos avançados.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.90 |

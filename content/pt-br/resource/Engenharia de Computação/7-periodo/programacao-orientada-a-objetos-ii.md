@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 7º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.51 |

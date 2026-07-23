@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Obtém uma grande amostra de binárias espectroscópicas de linha dupla (SB2) a partir do GALAH combinando espectros, fotometria e astrometria.
+
 *Traven, G. (2020)*
 
 ## Síntese

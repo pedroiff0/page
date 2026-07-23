@@ -5,6 +5,9 @@ photoFolder: febic2024
 created: 2024-09-15
 ---
 
+> [!note] Sobre o evento
+> Página dedicada à participação na **IX Feira Brasileira de Iniciação Científica (FEBIC)**, em Pomerode (SC).
+
 ## Sobre o evento
 
 Página dedicada à participação na **IX Feira Brasileira de Iniciação Científica (FEBIC)**, em Pomerode (SC).

@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 10º Período · **Núcleo:** Específica · **Carga Horária:** 80h
+> **Tópicos:** Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de Elaboração de Documentos Técnicos; Técnicas de Criatividade;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.74 |

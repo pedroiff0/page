@@ -5,6 +5,9 @@ photoFolder: escolainverno2026
 created: 2026-07-18T13:50:21.240-03:00
 ---
 
+> [!note] About the event
+> Page dedicated to the participation in the **2026 Winter School in Astrophysics** at the [National Observatory (ON)](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026), held from July 20 to 24, 2026, in Rio de Janeiro.
+
 ## About the event
 
 Page dedicated to the participation in the **2026 Winter School in Astrophysics** at the [National Observatory (ON)](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026), held from July 20 to 24, 2026, in Rio de Janeiro.

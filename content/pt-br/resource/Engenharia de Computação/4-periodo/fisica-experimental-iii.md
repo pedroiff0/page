@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 4º Período · **Núcleo:** Básico · **Carga Horária:** 40h
+> **Tópicos:** Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja, experimentos de eletrostática; Eletrodinâmica; Campo magnético;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.27 |

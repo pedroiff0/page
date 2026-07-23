@@ -3,6 +3,9 @@ publish: true
 title: "Aglomerados de Galáxias"
 ---
 
+> [!note] Resumo
+> Aglomerados de galáxias: as maiores estruturas gravitacionalmente ligadas do Universo, com Rogério Monteiro-Oliveira.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01" class="carousel-slide">
     <img src="/assets/illustrations/aglomerados.svg" alt="Aula 01" />

@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 6º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de código. Otimização. Ambientes de tempo de execução.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.48 |

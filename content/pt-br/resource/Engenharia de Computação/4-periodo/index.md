@@ -4,6 +4,9 @@ title: "4º Período"
 order: 4
 ---
 
+> [!note] Sobre este período
+> 8 disciplinas do 4º período do curso de Engenharia de Computação.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Estruturas de Dados II" />

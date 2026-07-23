@@ -4,6 +4,9 @@ title: "2º Período"
 order: 2
 ---
 
+> [!note] Sobre este período
+> 8 disciplinas do 2º período do curso de Engenharia de Computação.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Álgebra Linear e Geometria Analítica II" />

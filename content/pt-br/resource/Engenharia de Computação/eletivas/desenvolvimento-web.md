@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico
+> **Tópicos:** Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web. Engenharia Web
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.79 |

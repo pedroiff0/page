@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 9º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementação. Programação concorrente. Núcleos operacionais. Escalonamento.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.70 |

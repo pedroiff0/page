@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 3º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explícitas. Equações lineares de 2.ª ordem. Equações diferenciais lineares de ordem superior.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.18 |

@@ -6,6 +6,10 @@ tags:
  - basica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 1º Período · **Núcleo:** Básica · **Carga Horária:** 80h
+> **Tópicos:** Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.5 |

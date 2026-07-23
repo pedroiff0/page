@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Apresenta o Gaia Early Data Release 3 (EDR3) e um catálogo limpo de objetos a 100 pc do Sol. Útil para calibração local e validação de amostras vizinhas ao Sol.
+
 *Collaboration, Gaia. (2021)*
 
 ## Síntese

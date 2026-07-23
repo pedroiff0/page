@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 4º Período · **Núcleo:** Básico · **Carga Horária:** 80h
+> **Tópicos:** Solução de equações não lineares; Interpolação e ajuste de curvas; Integração numérica; Soluções numéricas de equações diferenciais ordinárias.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.25 |

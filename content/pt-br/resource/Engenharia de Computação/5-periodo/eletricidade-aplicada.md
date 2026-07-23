@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 5º Período · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. Fornecimento de energia elétrica. Normas técnicas e órgãos reguladores.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.33 |

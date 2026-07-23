@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 3º Período · **Núcleo:** Básico · **Carga Horária:** 40h
+> **Tópicos:** Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; Desenvolvimento Sustentável.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.24 |

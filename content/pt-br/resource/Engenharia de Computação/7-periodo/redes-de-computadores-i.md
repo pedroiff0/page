@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 7º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Redes; Qualidade de Serviço; Segurança; Protocolo IP.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.55 |

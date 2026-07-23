@@ -4,6 +4,9 @@ title: "1º Período"
 order: 1
 ---
 
+> [!note] Sobre este período
+> 8 disciplinas do 1º período do curso de Engenharia de Computação.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/engenharia-de-computação/1-periodo/algebra-linear-e-geometria-analitica-i" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Álgebra Linear e Geometria Analítica I" />

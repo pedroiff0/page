@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. Teoria Clássica da Otimização. Programação Não-linear.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.89 |

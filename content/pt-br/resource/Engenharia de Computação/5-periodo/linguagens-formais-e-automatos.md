@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 5º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. Máquina de turing. Problema da parada.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.40 |

@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 40h
+> **Tópicos:** Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.12 |

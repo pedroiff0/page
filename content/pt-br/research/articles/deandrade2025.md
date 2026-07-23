@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Análise conjunta de ~6.000 estrelas comuns ao Gaia Catalogue of Nearby Stars (GCNS, 100 pc) e ao GALAH DR4 (até 30 elementos).
+
 *de Andrade, P.~H.~R. (2025)*
 
 ## Síntese

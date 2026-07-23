@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 7º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Análise e síntese de circuitos digitais sequenciais; contadores e registradores; famílias lógicas, circuitos integrados;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.53 |

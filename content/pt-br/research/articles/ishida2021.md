@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Apresenta a primeira evidência de que técnicas de aprendizado adaptativo (active learning) aumentam a descoberta de objetos incomuns na astronomia.
+
 *Ishida, E.~E.~O. (2021)*
 
 ## Síntese

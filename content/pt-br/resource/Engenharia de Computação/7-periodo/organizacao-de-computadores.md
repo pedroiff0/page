@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 7º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dispositivos de Entrada/Saída
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.52 |

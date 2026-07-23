@@ -13,7 +13,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Cosmologia (Aula 02)
+# 🌠 Notas de Aula — Cosmologia (Aula 02)
 
 > [!info] Informações da aula
 > **Tema:** Radiação Cósmica de Fundo (RCF), segunda sonda observacional do cronograma anunciado na [[Cosmologia-Aula01|Aula 01]] (Supernovas Ia → **RCF** → EGE).

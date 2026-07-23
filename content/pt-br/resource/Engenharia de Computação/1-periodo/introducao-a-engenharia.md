@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 1º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 40h
+> **Tópicos:** Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para Solução dos Problemas de Engenharia; Modelos e Modelagem na Engenharia;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.2 |

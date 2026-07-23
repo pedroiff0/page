@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 5º Período · **Núcleo:** Profissionalizante
+> **Tópicos:** Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.38 |

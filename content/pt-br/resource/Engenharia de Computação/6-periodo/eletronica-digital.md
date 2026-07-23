@@ -6,6 +6,10 @@ tags:
  - profissionalizante
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 6º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
+> **Tópicos:** Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise de circuitos digitais combinacionais; formas padrão de funções lógicas;
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.46 |

@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 4º Período · **Núcleo:** Básico · **Carga Horária:** 40h
+> **Tópicos:** Apresentar elementos de cálculos financeiros básicos, fundamentais para o desenvolvimento de métodos quantitativos para seleção de alternativas econômicas e ava…
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.32 |

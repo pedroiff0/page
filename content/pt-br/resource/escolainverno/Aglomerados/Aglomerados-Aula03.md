@@ -13,7 +13,7 @@ cssclasses:
   - page-grid
   - center-images
 ---
-# Notas de Aula — Aglomerados de Galáxias (Aula 03)
+# 🌌 Notas de Aula — Aglomerados de Galáxias (Aula 03)
 
 > [!info] Informações da aula
 > **Tema:** *(a definir — continuação de [[Aglomerados-Aula02|Aula 02]])*

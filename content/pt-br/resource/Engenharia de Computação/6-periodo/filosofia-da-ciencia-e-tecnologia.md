@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 6º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O progresso científico. O progresso tecnológico. Civilização tecnológica.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.43 |

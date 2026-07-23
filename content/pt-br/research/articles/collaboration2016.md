@@ -6,6 +6,9 @@ tags:
   - pesquisa
 ---
 
+> [!note] Em resumo
+> Descreve a missão Gaia (ESA): astrometria de bilhões de estrelas com posição, paralaxe e movimento próprio. É a fonte das coordenadas cinemáticas (raio guia, ação vertical) usadas no seu projeto.
+
 *Collaboration, Gaia. (2016)*
 
 ## Síntese

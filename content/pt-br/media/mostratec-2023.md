@@ -5,6 +5,9 @@ photoFolder: mostratec2023
 created: 2023-10-23
 ---
 
+> [!note] Sobre o evento
+> Página dedicada à participação na **Mostra Internacional de Ciência e Tecnologia (MOSTRATEC)**, em Novo Hamburgo (RS), de 23 a 27 de outubro de 2023 — a maior e mais tradicional feira de ciências da América Latina, com mais de 800 projetos de 15 países.
+
 ## Sobre o evento
 
 Página dedicada à participação na **Mostra Internacional de Ciência e Tecnologia (MOSTRATEC)**, em Novo Hamburgo (RS), de 23 a 27 de outubro de 2023 — a maior e mais tradicional feira de ciências da América Latina, com mais de 800 projetos de 15 países.

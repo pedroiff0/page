@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Químicas. Introdução à Termodinâmica Química. Termoquímica, Combustíveis e Combustão.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.15 |

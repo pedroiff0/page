@@ -3,6 +3,9 @@ publish: true
 title: "Arqueologia Galáctica"
 ---
 
+> [!note] Resumo
+> A história da Via Láctea lida na composição química e cinemática das estrelas.
+
 <div class="media-carousel">
   <a href="/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01" class="carousel-slide">
     <img src="/assets/illustrations/arqgal.svg" alt="Aula 01" />

@@ -6,6 +6,10 @@ tags:
  - basica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 1º Período · **Núcleo:** Básica · **Carga Horária:** 40h
+> **Tópicos:** Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.8 |

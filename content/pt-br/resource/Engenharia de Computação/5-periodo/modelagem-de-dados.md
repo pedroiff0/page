@@ -6,6 +6,10 @@ tags:
  - especifica
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** 5º Período · **Núcleo:** Específica · **Carga Horária:** 40h
+> **Tópicos:** Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenciador de Banco de Dados. Modelo Entidade Relacionamento.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.35 |

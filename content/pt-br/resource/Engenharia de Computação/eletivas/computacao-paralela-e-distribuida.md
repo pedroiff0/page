@@ -6,6 +6,10 @@ tags:
  - basico
 ---
 
+> [!note] Sobre esta disciplina
+> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
+> **Tópicos:** Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralela e distribuída. Tópicos emergentes em computação paralela e distribuída.
+
 | Campo | Valor |
 | --- | --- |
 | Código | CSECBJI.86 |
