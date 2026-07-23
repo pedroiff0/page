@@ -13,6 +13,10 @@ created: 2026-07-18T14:25:13.277-03:00
     <img src="/assets/illustrations/toolkit.svg" alt="Astronomy Data Toolkit" />
     <div class="slide-caption">Astronomy Data Toolkit</div>
   </a>
+  <a href="/en/resource/latex" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="LaTeX and Academic Writing" />
+    <div class="slide-caption">LaTeX and Academic Writing</div>
+  </a>
 </div>
 
 ## 📚 My Public Archive of Mind (PAM)
@@ -22,18 +26,15 @@ A curated collection of tools, materials, and recommendations gathered throughou
 ### 🔧 Tools & Workflows
 
 - [Astronomy Data Toolkit](en/resource/astronomy-data-toolkit) — Essential tools for astronomical data analysis: Astropy, TOPCAT, Aladin Lite, and reproducible Jupyter workflows.
+- [LaTeX and Academic Writing](en/resource/latex) — 5-lesson LaTeX course plus document models and ABNT essentials.
 
 ### 📖 Course Materials
 
-_(Coming soon)_ Lecture notes, problem sets, and materials from courses I've taught or assisted with.
-
-### 🎨 LaTeX Templates
-
-_(Coming soon)_ Professional templates for papers, theses, presentations, and posters.
+_(Portuguese only for now)_ See [Engenharia de Computação](pt-br/resource/engenharia-de-computação) and [Winter School (ON 2026)](pt-br/resource/escolainverno).
 
 ### 💻 Open-Source Projects
 
-_(Coming soon)_ My contributions to the open-source community and tools I've developed.
+See the dedicated [Projects](en/projects) page — tools and applications I build outside of academic research.
 
 ### 🎵 Personal Recommendations
 
