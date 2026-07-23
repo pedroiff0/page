@@ -17,6 +17,10 @@ created: 2026-07-18T14:25:13.277-03:00
     <img src="/assets/illustrations/toolkit.svg" alt="LaTeX and Academic Writing" />
     <div class="slide-caption">LaTeX and Academic Writing</div>
   </a>
+  <a href="/en/resource/curso-on" class="carousel-slide">
+    <img src="/assets/illustrations/arqgal.svg" alt="Galactic Archaeology and Stellar Populations (ON)" />
+    <div class="slide-caption">Galactic Archaeology (ON)</div>
+  </a>
 </div>
 
 ## 📚 My Public Archive of Mind (PAM)
@@ -29,6 +33,8 @@ A curated collection of tools, materials, and recommendations gathered throughou
 - [LaTeX and Academic Writing](en/resource/latex) — 5-lesson LaTeX course plus document models and ABNT essentials.
 
 ### 📖 Course Materials
+
+- [Galactic Archaeology and Stellar Populations (ON)](en/resource/curso-on) — Full graduate course, 8 lectures, Prof. Hélio Dotto Perottoni.
 
 _(Portuguese only for now)_ See [Engenharia de Computação](pt-br/resource/engenharia-de-computação) and [Winter School (ON 2026)](pt-br/resource/escolainverno).
 
