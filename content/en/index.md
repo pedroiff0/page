@@ -19,6 +19,8 @@ My passion lies at the intersection of **computational methods** and **astrophys
 
 ### 🌐 Social Media
 
+If you'd like to get in touch, send an email!
+
 - 💻 [GitHub](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
 - 📸 [Instagram](https://instagram.com/fckpeeh)
@@ -76,6 +78,7 @@ Prefer not to open your email client? Fill in the fields below and the message l
 
 - **Astrophysics**: Galactic archaeology, stellar populations, Milky Way structure and chemical evolution, large-scale astronomical data analysis.
 - **Computer Science**: Scientific computing, data pipelines, machine learning applications in astronomy, open-source development.
+- **Psychoanalysis**:
 
 ### 3️⃣ Third step: Explore the content
 
@@ -89,6 +92,10 @@ To navigate my work, explore the sections of this site:
   <a href="/en/resource" class="carousel-slide">
     <img src="/assets/illustrations/resource.svg" alt="Resources" />
     <div class="slide-caption">Resources</div>
+  </a>
+  <a href="/en/resource/engenharia-de-computação" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Classes" />
+    <div class="slide-caption">Classes</div>
   </a>
   <a href="/en/media" class="carousel-slide">
     <img src="/assets/febic2024/febic.jpeg" alt="Media" />
@@ -106,6 +113,7 @@ To navigate my work, explore the sections of this site:
 
 - [Research](en/research/) — Learn about my current projects and publications.
 - [Resources](en/resource/) — Materials, scripts, and useful tools I've developed or use.
+- [Classes](en/resource/engenharia-de-computação/) — My notes and coursework from college.
 - [Media](en/media/) — Participations in events, fairs, and presentations.
 - [Projects](en/projects/) — Tools and applications I build outside of academic research.
 - [Blog](en/blog/) — Random thoughts, tutorials, and reflections on the research journey.

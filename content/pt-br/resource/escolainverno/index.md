@@ -55,11 +55,11 @@ Notas de aula da **Escola de Inverno em Astrofísica 2026** do [Observatório Na
 
 ## Palestras
 
-- [Palestras](pt-br/resource/escolainverno/palestras) — Neutrinos e a Cosmologia (Gabriel Rodrigues), e mais.
+- [Palestras](pt-br/resource/escolainverno/palestras/) — Neutrinos e a Cosmologia (Gabriel Rodrigues), e mais.
 
 ## Minha participação
 
-- [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) — notas de preparação para a apresentação do meu pôster, "Unveiling the Solar vicinity: unsupervised mapping stellar populations with GCNS and GALAH DR4 using t-SNE" (Banner SBPC 2026 e Banner desta Escola de Inverno).
+- [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) — notas de preparação para a apresentação do meu pôster, "Unveiling the Solar vicinity: unsupervised mapping stellar populations with GCNS and GALAH DR4 using t-SNE".
 
 ---
 

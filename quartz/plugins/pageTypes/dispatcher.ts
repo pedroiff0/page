@@ -78,15 +78,20 @@ async function emitPage(
 ) {
   const globalCfg = ctx.cfg.configuration
   // Components read cfg.locale for i18n (Table of Contents, Graph, ContentMeta,
-  // date formatting, etc). The site is bilingual with content split into en/ and
-  // pt-br/ folders, but cfg.locale is a single global value, so every page would
+  // date formatting, etc). The site has content split into en/, pt-br/, es/ and
+  // fr/ folders, but cfg.locale is a single global value, so every page would
   // otherwise render those labels in whatever locale is configured site-wide.
   // Override it per-page based on the slug's language folder.
-  const cfg = slug.startsWith("en/")
-    ? { ...globalCfg, locale: "en-US" as const }
-    : slug.startsWith("pt-br/")
-      ? { ...globalCfg, locale: "pt-BR" as const }
-      : globalCfg
+  const localeByLangSegment = {
+    en: "en-US",
+    "pt-br": "pt-BR",
+    es: "es-ES",
+    fr: "fr-FR",
+  } as const
+  const langSegment = slug.split("/")[0] as keyof typeof localeByLangSegment
+  const cfg = langSegment in localeByLangSegment
+    ? { ...globalCfg, locale: localeByLangSegment[langSegment] }
+    : globalCfg
   // For the 404 page, use an absolute base path so assets resolve correctly
   // when the hosting provider serves 404.html from any URL depth.
   // During local dev (--serve), the dev server strips baseDir itself and

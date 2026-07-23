@@ -34,12 +34,12 @@ Confira aqui a [programação completa](#-programação-completa-20-a-2407) da s
 
 ## 🎤 Palestras
 
-| Palestra | Palestrante | Tema | Data | Nota |
-|---|---|---|---|---|
-| P1 | Gabriel Rodrigues | Neutrinos e a Cosmologia | 20/07 | [[Neutrinos\|Neutrinos]] |
-| P2 | Daniela Lazzaro | 15 anos do OASI | 21/07 | *(a preencher)* |
-| P3 | Rebeca Batalha | De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo | 23/07 | *(a preencher)* |
-| P4 | Marília Carlos | Composições químicas estelares com alta precisão e acurácia | 24/07 | *(a preencher)* |
+| Palestra | Palestrante       | Tema                                                                                                                     | Data  | Nota                     |
+| -------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------ | ----- | ------------------------ |
+| P1       | Gabriel Rodrigues | Neutrinos e a Cosmologia                                                                                                 | 20/07 | [[Neutrinos\|Neutrinos]] |
+| P2       | Daniela Lazzaro   | 15 anos do OASI                                                                                                          | 21/07 | [[OASI]]                 |
+| P3       | Rebeca Batalha    | De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo | 23/07 | [[RaioX]]                |
+| P4       | Marília Carlos    | Composições químicas estelares com alta precisão e acurácia                                                              | 24/07 | [[Composicoes]]          |
 
 ---
 
