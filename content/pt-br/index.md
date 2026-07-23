@@ -45,9 +45,9 @@ Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensa
   // TODO(Pedro): substitua pelas suas credenciais de https://dashboard.emailjs.com
   // (crie uma conta grátis, um Email Service e um Email Template com as variáveis
   // from_name / reply_to / message usadas no formulário acima).
-  var EMAILJS_PUBLIC_KEY = "SUA_PUBLIC_KEY_AQUI";
-  var EMAILJS_SERVICE_ID = "SEU_SERVICE_ID_AQUI";
-  var EMAILJS_TEMPLATE_ID = "SEU_TEMPLATE_ID_AQUI";
+  var EMAILJS_PUBLIC_KEY = "fh5Z3HcsBAXFKJ-Jd";
+  var EMAILJS_SERVICE_ID = "service_myxxjn7";
+  var EMAILJS_TEMPLATE_ID = "template_3k4q1lu";
 
   var form = document.getElementById("contact-form");
   var status = document.getElementById("contact-form-status");

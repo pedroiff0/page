@@ -45,9 +45,9 @@ Prefer not to open your email client? Fill in the fields below and the message l
   // TODO(Pedro): replace with your credentials from https://dashboard.emailjs.com
   // (create a free account, an Email Service and an Email Template using the
   // from_name / reply_to / message variables from the form above).
-  var EMAILJS_PUBLIC_KEY = "YOUR_PUBLIC_KEY_HERE";
-  var EMAILJS_SERVICE_ID = "YOUR_SERVICE_ID_HERE";
-  var EMAILJS_TEMPLATE_ID = "YOUR_TEMPLATE_ID_HERE";
+  var EMAILJS_PUBLIC_KEY = "fh5Z3HcsBAXFKJ-Jd";
+  var EMAILJS_SERVICE_ID = "service_myxxjn7";
+  var EMAILJS_TEMPLATE_ID = "template_3k4q1lu";
 
   var form = document.getElementById("contact-form");
   var status = document.getElementById("contact-form-status");

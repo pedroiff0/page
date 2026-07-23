@@ -46,9 +46,9 @@ Si quieres ponerte en contacto, ¡envíame un correo!
   // TODO(Pedro): reemplaza con tus credenciales de https://dashboard.emailjs.com
   // (crea una cuenta gratis, un Email Service y un Email Template con las
   // variables from_name / reply_to / message usadas en el formulario de arriba).
-  var EMAILJS_PUBLIC_KEY = "TU_PUBLIC_KEY_AQUI";
-  var EMAILJS_SERVICE_ID = "TU_SERVICE_ID_AQUI";
-  var EMAILJS_TEMPLATE_ID = "TU_TEMPLATE_ID_AQUI";
+  var EMAILJS_PUBLIC_KEY = "fh5Z3HcsBAXFKJ-Jd";
+  var EMAILJS_SERVICE_ID = "service_myxxjn7";
+  var EMAILJS_TEMPLATE_ID = "template_3k4q1lu";
 
   var form = document.getElementById("contact-form");
   var status = document.getElementById("contact-form-status");
