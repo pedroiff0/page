@@ -87,7 +87,7 @@ Por trás de tudo isso está a **Computação de Alto Desempenho**: a ferramenta
 ## 📚 Resumo por área
 
 ### 🌐 Aglomerados de Galáxias
-Os aglomerados são os maiores objetos já **virializados** do Universo ($10^{14}$–$10^{15}\,M_\odot$), compostos majoritariamente por **matéria escura (~80%)**, com gás quente (ICM, ~15%) e galáxias (~5%). Zwicky, em 1933, foi o primeiro a notar essa discrepância de massa usando o **teorema do virial** no Aglomerado de Coma. Hoje detectamos aglomerados por 4 vias complementares: óptico (galáxias, sequência vermelha), raio-X (gás do ICM), micro-ondas (efeito Sunyaev-Zel'dovich) e lentes gravitacionais fracas (mapeando a matéria escura diretamente).
+Os aglomerados são os maiores objetos já **virializados** do Universo ($10^{14}$–$10^{15}\,M_\odot$), compostos majoritariamente por **matéria escura (~80%)**, com gás quente (ICM, ~15%) e galáxias (~5%). Zwicky, em 1933, foi o primeiro a notar essa discrepância de massa usando o **teorema do virial** no Aglomerado de Coma. Hoje detectamos aglomerados por 4 vias complementares: óptico (galáxias, sequência vermelha), raio-X (gás do ICM), micro-ondas (efeito Sunyaev-Zel'dovich) e lentes gravitacionais fracas (mapeando a matéria escura diretamente, via o formalismo de convergência/cisalhamento). Aglomerados **em fusão** — como o Aglomerado Bala, onde matéria escura e gás aparecem espacialmente separados — funcionam como grandes "colisores de partículas" naturais, hoje usados para testar se a matéria escura interage consigo mesma além da gravidade (SIDM), motivado por problemas do $\Lambda$CDM em pequena escala (núcleo-cúspide, diversidade, "grande demais para falhar").
 
 ### ⭐ Arqueologia Galáctica
 Estrelas são classificadas pela sequência espectral **OBAFGKM** (temperatura decrescente). Ao longo da vida e, principalmente, ao morrer (supernovas, nebulosas planetárias, colisões de estrelas de nêutrons), as estrelas produzem e espalham elementos químicos pelo espaço — os processos **s** (lento, em estrelas AGB) e **r** (rápido, em fusões de estrelas de nêutrons) explicam a origem de praticamente toda a tabela periódica além do ferro. Comparando a composição química de estrelas antigas e novas (populações I, II e III), reconstruímos a história de formação da Via Láctea — revelando uma estrutura em camadas (halo interno/externo, disco fino/espesso, bojo) e assinaturas de mergers antigos, como o **Gaia-Sausage-Enceladus** (há ~10 bilhões de anos).
@@ -126,7 +126,7 @@ Status das notas de cada aula/palestra e se já existe material oficial (slides/
 | --- | --- | --- |
 | [[Aglomerados-Aula01\|Aglomerados — Aula 01]] | ✅ Completa | ✅ [Disponível](assets/escolainverno/aulas/mc4/L01.pdf) |
 | [[Aglomerados-Aula02\|Aglomerados — Aula 02]] | ✅ Completa | ✅ [Disponível](assets/escolainverno/aulas/mc4/L02.pdf) |
-| [[Aglomerados-Aula03\|Aglomerados — Aula 03]] | 🕐 Ainda não aconteceu (24/07) | ⏳ Não disponível |
+| [[Aglomerados-Aula03\|Aglomerados — Aula 03]] | ✅ Completa | ✅ [Disponível](assets/escolainverno/aulas/mc4/L03.pdf) |
 | [[ArqueologiaGalactica-Aula01\|Arqueologia Galáctica — Aula 01]] | ✅ Completa | ⏳ Não disponível |
 | [[ArqueologiaGalactica-Aula02\|Arqueologia Galáctica — Aula 02]] | ✅ Completa | ⏳ Não disponível |
 | [[ArqueologiaGalactica-Aula03\|Arqueologia Galáctica — Aula 03]] | ✅ Completa | ⏳ Não disponível |
