@@ -42,8 +42,16 @@ cssclasses:
 
 ## 📌 Conceitos-chave
 
-- *(a preencher)*
-
+- Regressão Linear
+- Árvore de Decisão
+- Random Forest
+- k-Nearest Neighbour
+	- Dist. Euclidiana
+	- https://bits.csb.pitt.edu/kmeans/
+- PCA
+- t-SNE
+- UMAP
+- 
 ---
 
 ## ❓ Perguntas e discussões da aula

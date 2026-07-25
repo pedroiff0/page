@@ -41,9 +41,7 @@ cssclasses:
 ---
 
 ## 📌 Conceitos-chave
-
-- *(a preencher)*
-
+	-  sei lá kkkk
 ---
 
 ## ❓ Perguntas e discussões da aula

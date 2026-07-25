@@ -24,7 +24,30 @@ cssclasses:
 
 ---
 
-_(Notas em construção)_
+Tópicos:
+* Carroll e ostile 2007
+* agb, supernovas (r s process)
+* estrelas baixa massa
+* s = Ba, Y chemical clocks
+* Estrelas de alta massa
+* r = eu, gd, dy (captura neutron)
+* s e r difere na densidade
+* ciclo de vida gas estrela nasa jpl
+* espectroscopia e leis de kirchoff -> colocar citação ao hypertexto do keplersouza
+* atenuação atmosférica
+* Métodos
+	* Largura Equivalente
+	* Síntese Espectral (Carlos et al. 2016)
+* Huhn and bitsch 2023
+* Melendez 2009
+* Refratarios do sol
+* Peculiaridades do litio
+* zona convectivas
+	* +  facil destruir litio
+* Carlos et al 2019
+* Amarsi+2019
+* sol nao é pobre em elementos refratárias por causa de planetas gasosos
+	* 
 
 ---
 
