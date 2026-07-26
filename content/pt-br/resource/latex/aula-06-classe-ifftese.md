@@ -334,6 +334,9 @@ Depois de um `\clearpage`, se a nova página for **par** (verso), a classe inser
 
 `\section` é redefinido para primeiro rodar `\forcarAnverso` e só então chamar a implementação original salva em `\origSectionForRecto`. O redirecionamento trata as três formas de chamada do LaTeX nativo (`\section{...}`, `\section[...]{...}`, `\section*{...}`) separadamente via `\@ifstar`/`\@ifnextchar`, porque cada uma tem aridade diferente. `\disableRectoSections` simplesmente restaura o `\section` original — usado dentro de anexos/apêndices, que têm sua própria lógica de numeração e não devem herdar esse comportamento.
 
+> [!bug] Bug real encontrado por compilação (corrigido)
+> `\listofsaidas` (Bloco D) chamava `\disableRectoSections` no final — sozinha entre todas as `\listofX`, sem nenhuma das outras (`\listoffiguras`, `\listoftables` etc.) fazer o mesmo. Como as listas são impressas no pré-textual, **antes** de `\transicaotex` chamar `\enableRectoSections` pela primeira vez, `\origSectionForRecto` ainda não existe nesse ponto — `\let\section\origSectionForRecto` deixa `\section` efetivamente indefinido para o resto do documento. Sintoma: `! LaTeX Error: Command \section undefined.` bem mais adiante, exatamente em `\transicaotex`. Testado numa compilação real de 3+ passadas (o problema só aparece a partir da 2ª, quando a flag `hassaidas` já existe no `.aux`); a linha estava fora de lugar e foi removida.
+
 ### 5.4 Cabeçalhos condicionais (`fancyhdr`)
 
 Dois estilos de página (`textualbar` para o corpo do texto, `posttextualfinal` para pós-textual) cada um com **quatro variações internas**, resultado do produto de duas flags binárias:

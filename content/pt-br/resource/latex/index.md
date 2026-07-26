@@ -50,6 +50,14 @@ tags:
     <img src="/assets/illustrations/toolkit.svg" alt="Aula 08 — Arquivo metadados.sty" />
     <div class="slide-caption">Aula 08 — metadados.sty</div>
   </a>
+  <a href="/pt-br/resource/latex/aula-09-slides-beamer" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="Aula 09 — Slides com Beamer" />
+    <div class="slide-caption">Aula 09 — Slides (Beamer)</div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-10-poster-cientifico" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="Aula 10 — Pôster Científico" />
+    <div class="slide-caption">Aula 10 — Pôster Científico</div>
+  </a>
 </div>
 
 ## Por que LaTeX?
@@ -73,8 +81,10 @@ Três aulas extras, construídas em cima de uma classe LaTeX que uso de verdade 
 6. [Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) — fábrica de macros de metadados, flags comportamentais, floats customizados (quadro/gráfico/fluxograma/algoritmo), recto/verso automático, sumário fluido com dot-leaders medidos dinamicamente.
 7. [Pacote `macros.sty`](pt-br/resource/latex/aula-07-pacote-macros) — capa/contracapa/ficha catalográfica com 3 layouts, comandos `\inserirfigura`/`\inserirtabela`/`\inserirgrafico` e variantes de subfigura, ambientes de teorema/exercício com sistema de resposta cruzada via hyperref.
 8. [Arquivo `metadados.sty`](pt-br/resource/latex/aula-08-pacote-metadados) — o único arquivo que o estudante de fato edita: preenchimento de flags e dados reais do trabalho.
+9. [Slides de Defesa com Beamer](pt-br/resource/latex/aula-09-slides-beamer) — `\documentclass{beamer}` num arquivo à parte, temas, blocos, revelação incremental, roteiro típico de banca.
+10. [Pôster Científico (Banner)](pt-br/resource/latex/aula-10-poster-cientifico) — `tikzposter`, blocos e colunas, paleta reaproveitada da classe, boas práticas de pôster A0.
 
-**[📦 Baixar o modelo completo preenchido (.zip)](assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — um TCC de exemplo (dados fictícios, tema de sistemas de recomendação) já rodando: capa, ficha catalográfica, banca, dedicatória, epígrafe, resumo/abstract, 4 capítulos, apêndice, anexo e bibliografia, com cada comando comentado no próprio `.tex` conforme aparece. Baixe, abra no Overleaf ou compile local, e vá trocando os dados fictícios pelos seus.
+**[📦 Baixar o modelo completo preenchido (.zip)](assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — um TCC de exemplo (dados fictícios, tema de sistemas de recomendação) já rodando: capa, ficha catalográfica, banca, dedicatória, epígrafe, resumo/abstract, 4 capítulos, apêndice, anexo e bibliografia — mais os slides de defesa (`slides.tex`) e o pôster científico (`banner.tex`) do mesmo trabalho fictício, todos comentados comando a comando. Baixe, abra no Overleaf ou compile local, e vá trocando os dados fictícios pelos seus.
 
 ## 📚 Materiais recomendados
 
