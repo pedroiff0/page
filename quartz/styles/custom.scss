@@ -301,12 +301,14 @@ details.author-details[open] .author-summary {
 }
 
 /* Reader Mode overrides.
-   The previous version hid BOTH sidebars — which removed the very toolbar
-   holding the reader-mode toggle (no way back) and the Explorer navigation,
-   while the grid kept reserving fixed side columns (content never filled
-   the screen). New behavior: keep the left sidebar (nav + exit button),
-   hide only the right one (graph/backlinks), give the freed columns to the
-   content, and let the page span the full viewport width. */
+   Earlier versions either hid BOTH sidebars (no way back — the toggle
+   lived inside one of them) or kept the left sidebar as a full grid
+   column (nav + Explorer took up real estate that should've gone to the
+   text). Current behavior on desktop/tablet: collapse the left column
+   entirely — text expands into that space too — but keep the reader-mode
+   toggle itself alive, pulled out of the sidebar's normal flow and
+   floated as a small fixed button at the vertical center of the left
+   edge, so there's still a way to turn it back off. */
 :root[reader-mode="on"] {
   & .page {
     max-width: 100%;
@@ -320,22 +322,73 @@ details.author-details[open] .author-summary {
     max-width: 100% !important;
   }
 
-  & .page > #quartz-body,
-  & #quartz-body {
-    @media all and ($desktop) {
-      grid-template-columns: #{$sidePanelWidth} auto;
-      grid-template-rows: auto auto auto;
+  @media all and ($desktop), all and ($tablet) {
+    & .page > #quartz-body,
+    & #quartz-body {
+      grid-template-columns: auto !important;
+      grid-template-rows: auto auto auto !important;
       grid-template-areas:
-        "grid-sidebar-left grid-header"
-        "grid-sidebar-left grid-center"
-        "grid-sidebar-left grid-footer";
+        "grid-header"
+        "grid-center"
+        "grid-footer" !important;
     }
-    @media all and ($tablet) {
-      grid-template-rows: auto auto auto;
-      grid-template-areas:
-        "grid-sidebar-left grid-header"
-        "grid-sidebar-left grid-center"
-        "grid-sidebar-left grid-footer";
+
+    & .sidebar.left {
+      position: fixed !important;
+      top: 50%;
+      left: 1rem;
+      transform: translateY(-50%);
+      height: auto !important;
+      width: auto !important;
+      padding: 0 !important;
+      z-index: 600;
+      /* The reader-mode plugin's own default CSS fades .sidebar.left to
+         opacity:0 with a :hover fallback (fine when the sidebar is a big
+         nav column someone might mouse over anyway — not fine now that
+         it's shrunk down to a single floating button, which would be
+         invisible until randomly hovered). Force it visible. */
+      opacity: 1 !important;
+
+      /* Everything except the reader-mode toggle itself goes away —
+         language switcher, page title, search, dark mode, Explorer. */
+      & .nav-lang,
+      & .page-title,
+      & .mobile-only,
+      & .search,
+      & .darkmode,
+      & .explorer {
+        display: none !important;
+      }
+
+      & .flex-component {
+        gap: 0;
+      }
+
+      /* Give the now-solitary button a visible floating-button treatment
+         instead of the bare toolbar-icon look it has when sitting in a
+         row next to search/dark-mode. */
+      & .readermode {
+        width: 44px;
+        height: 44px;
+        border-radius: 50%;
+        background: rgba(0, 0, 0, 0.6);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: background 0.15s ease;
+
+        &:hover {
+          background: rgba(0, 0, 0, 0.85);
+        }
+
+        & svg {
+          position: static;
+          width: 20px;
+          height: 20px;
+          fill: #fff;
+          stroke: #fff;
+        }
+      }
     }
   }
 
