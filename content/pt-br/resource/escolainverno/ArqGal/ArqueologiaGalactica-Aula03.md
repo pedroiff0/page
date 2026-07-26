@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: Aula 03
 created: 2026-07-22
 modified: 2026-07-26T11:03:05.122-03:00
