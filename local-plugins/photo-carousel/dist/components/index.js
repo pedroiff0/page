@@ -39,22 +39,81 @@ function slide(href, imgSrc, alt, caption) {
 // when mixed with continuously-animatable properties under `all`, which
 // made the old CSS-only version briefly flash the image in the wrong
 // spot before snapping to the delayed, correct one.
+//
+// Runs against every `.carousel-slide` on the page, not just ones this
+// component renders — several pages (research/index.md, computacao/
+// index.md, etc.) hand-write their own `<div class="media-carousel">`
+// blocks directly in markdown, and they get the same lightbox + controls.
 const CAROUSEL_ZOOM_SCRIPT = `
 function quartzCarouselZoomSetup() {
-  var DELAY = 1000;
+  var OPEN_DELAY = 1000;
+  var CLOSE_GRACE = 150;
+
   document.querySelectorAll(".carousel-slide").forEach(function (slide) {
     if (slide.dataset.zoomBound === "true") return;
     slide.dataset.zoomBound = "true";
-    var timer = null;
+
+    var closeBtn = document.createElement("button");
+    closeBtn.type = "button";
+    closeBtn.className = "carousel-zoom-close";
+    closeBtn.setAttribute("aria-label", "Fechar");
+    closeBtn.textContent = "\\u2715";
+    slide.appendChild(closeBtn);
+
+    var nextBtn = document.createElement("button");
+    nextBtn.type = "button";
+    nextBtn.className = "carousel-zoom-next";
+    nextBtn.setAttribute("aria-label", "Pr\\u00f3xima foto");
+    nextBtn.textContent = "\\u203a";
+    slide.appendChild(nextBtn);
+
+    var openTimer = null;
+    var closeTimer = null;
+
+    function open() {
+      clearTimeout(closeTimer);
+      slide.classList.add("zoomed");
+    }
+    function close() {
+      slide.classList.remove("zoomed");
+    }
+    function siblingSlides() {
+      var carousel = slide.closest(".media-carousel");
+      var scope = carousel || document;
+      return Array.prototype.slice.call(scope.querySelectorAll(".carousel-slide"));
+    }
+
     slide.addEventListener("mouseenter", function () {
-      clearTimeout(timer);
-      timer = setTimeout(function () {
-        slide.classList.add("zoomed");
-      }, DELAY);
+      clearTimeout(closeTimer);
+      // Already open (e.g. the mouse briefly crossed a gap between this
+      // slide's original spot and its fixed-position enlarged image) —
+      // just cancel the pending close, don't restart the open delay.
+      if (slide.classList.contains("zoomed")) return;
+      clearTimeout(openTimer);
+      openTimer = setTimeout(open, OPEN_DELAY);
     });
     slide.addEventListener("mouseleave", function () {
-      clearTimeout(timer);
-      slide.classList.remove("zoomed");
+      clearTimeout(openTimer);
+      closeTimer = setTimeout(close, CLOSE_GRACE);
+    });
+
+    closeBtn.addEventListener("click", function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      clearTimeout(openTimer);
+      close();
+    });
+    nextBtn.addEventListener("click", function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var slides = siblingSlides();
+      var idx = slides.indexOf(slide);
+      if (idx === -1) return;
+      var next = slides[(idx + 1) % slides.length];
+      if (next && next !== slide) {
+        close();
+        next.classList.add("zoomed");
+      }
     });
   });
 }

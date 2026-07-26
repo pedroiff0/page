@@ -415,6 +415,11 @@ details.author-details[open] .author-summary {
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   z-index: 500;
+  /* Let hover/click pass through to whatever's actually underneath —
+     otherwise this full-viewport layer would itself count as "still
+     hovering the slide" everywhere on screen, and mouseleave would only
+     ever fire when the pointer left the browser window entirely. */
+  pointer-events: none;
 }
 
 .carousel-slide.zoomed img {
@@ -433,6 +438,46 @@ details.author-details[open] .author-summary {
   box-shadow: 0 25px 60px rgba(0, 0, 0, 0.6);
   cursor: zoom-out;
   z-index: 501;
+}
+
+.carousel-zoom-close,
+.carousel-zoom-next {
+  display: none;
+  position: fixed;
+  z-index: 502;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.carousel-zoom-close:hover,
+.carousel-zoom-next:hover {
+  background: rgba(0, 0, 0, 0.85);
+}
+
+.carousel-slide.zoomed .carousel-zoom-close,
+.carousel-slide.zoomed .carousel-zoom-next {
+  display: flex;
+}
+
+.carousel-slide.zoomed .carousel-zoom-close {
+  top: 1.5rem;
+  right: 1.5rem;
+}
+
+.carousel-slide.zoomed .carousel-zoom-next {
+  top: 50%;
+  right: 1.5rem;
+  transform: translateY(-50%);
 }
 
 .slide-caption {

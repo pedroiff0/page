@@ -28,6 +28,8 @@ Se você chegou aqui escaneando o QR code do meu pôster, seja bem-vindo(a)! O p
 
 > [!note] Banners apresentados:
 > Versão Antiga: ![[assets/banners/BannerSBPC26.pdf|BannerSBPC26]]
+
+> [!note] Banners apresentados:
 > Versão Correta: ![[assets/banners/BannerEscolaInverno26.pdf]]
 
 Mais detalhes da pesquisa podem ser encontrados em [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection); uma versão mais atualizada será apresentada também na [SAB 2026](pt-br/media/2026/sab-2026), que ocorrerá em Natal (RN) dos dias 25 a 30 de outubro de 2026.
