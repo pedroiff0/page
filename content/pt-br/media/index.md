@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Mídia
 created: 2026-07-18T14:50:18.101-03:00
-modified: 2026-07-25T23:58:08.037-03:00
-published: 2026-07-25T23:58:08.037-03:00
+modified: 2026-07-26T10:16:51.193-03:00
+published: 2026-07-26T10:16:51.193-03:00
 order: 4
 ---
 

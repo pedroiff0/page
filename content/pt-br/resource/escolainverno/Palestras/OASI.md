@@ -1,8 +1,8 @@
 ---
-publish: false
+publish: true
 created: 2026-07-20T15:50:00-03:00
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T10:45:10.237-03:00
+published: 2026-07-26T10:45:10.237-03:00
 tags:
   - escola-de-inverno-on
   - palestra
@@ -11,7 +11,7 @@ cssclasses:
   - center-images
 titulo: OASI
 disciplina: Palestra
-conteudo: 15 anos do OASI (21/07)
+conteudo: 15 anos do OASI
 professor: Daniela Lazzaro
 ---
 

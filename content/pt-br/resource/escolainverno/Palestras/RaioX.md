@@ -1,8 +1,8 @@
 ---
-publish: false
+publish: true
 created: 2026-07-23
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T10:49:22.901-03:00
+published: 2026-07-26T10:49:22.901-03:00
 tags:
   - escola-de-inverno-on
   - palestra
@@ -73,7 +73,6 @@ O satélite **NewAthena**, previsto para ser lançado em 2037, deve permitir obs
 ## ⚠️ Pontos de atenção
 
 > [!important] Atenção
-> _(nenhuma anotação registrada ainda)_
 
 ---
 

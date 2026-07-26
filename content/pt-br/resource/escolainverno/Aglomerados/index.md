@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Aglomerados de Galáxias
 created: 2026-07-22
-modified: 2026-07-25T23:58:08.045-03:00
-published: 2026-07-25T23:58:08.045-03:00
+modified: 2026-07-26T10:53:56.976-03:00
+published: 2026-07-26T10:53:56.976-03:00
 ---
 
 > [!note] Resumo
@@ -25,3 +25,9 @@ published: 2026-07-25T23:58:08.045-03:00
 </div>
 
 Aglomerados de galáxias: as maiores estruturas gravitacionalmente ligadas do Universo, com Rogério Monteiro-Oliveira.
+
+## 📚 Aulas
+
+1. [Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — o que é um aglomerado: escalas do cosmos, a "receita" física (matéria escura, gás intra-aglomerado, galáxias), e como detectá-los observacionalmente.
+2. [Aula 02](pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — formação hierárquica a partir de flutuações de densidade primordiais, e os mecanismos que "matam" a formação estelar das galáxias ao caírem no aglomerado — terminando na BCG, a galáxia mais extrema desse processo.
+3. [Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03) — o formalismo de lentes gravitacionais fracas, e como aglomerados em fusão (como o Aglomerado Bala) funcionam como laboratórios para testar se a matéria escura interage consigo mesma (SIDM).

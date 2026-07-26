@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Aula 02
 created: 2026-07-21T11:06:00-03:00
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T11:06:18.692-03:00
+published: 2026-07-26T11:06:18.692-03:00
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias

@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: FEBRACE 2023
 created: 2023-03-20
-modified: 2026-07-25T23:58:08.041-03:00
-published: 2026-07-25T23:58:08.041-03:00
+modified: 2026-07-26T10:13:20.769-03:00
+published: 2026-07-26T10:13:20.769-03:00
 photoFolder: febrace2023
 type: blog
 ---

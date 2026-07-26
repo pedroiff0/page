@@ -2,8 +2,8 @@
 publish: false
 title: Aula 03
 created: 2026-07-22
-modified: 2026-07-26T00:02:57.231-03:00
-published: 2026-07-26T00:02:57.231-03:00
+modified: 2026-07-26T11:06:34.499-03:00
+published: 2026-07-26T11:06:34.499-03:00
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias

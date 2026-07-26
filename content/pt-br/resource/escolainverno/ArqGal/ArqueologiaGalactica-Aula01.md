@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Aula 01
 created: 2026-07-20T09:19:00-03:00
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T11:02:57.862-03:00
+published: 2026-07-26T11:02:57.862-03:00
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica
@@ -13,7 +13,6 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
 titulo: ArqueologiaGalactica-Aula01
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas

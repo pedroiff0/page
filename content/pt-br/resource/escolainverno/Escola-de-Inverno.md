@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Resumo Geral
 created: 2026-07-22T00:00:00-03:00
-modified: 2026-07-26T00:04:22.344-03:00
-published: 2026-07-26T00:04:22.344-03:00
+modified: 2026-07-26T11:06:50.472-03:00
+published: 2026-07-26T11:06:50.472-03:00
 tags:
   - escola-de-inverno-on
   - resumo
@@ -156,6 +156,3 @@ Status das notas de cada aula/palestra e se já existe material oficial (slides/
 | [[Bolsas\|Sessão PG/PIBIC]] | ✅ Completa | ⏳ Não disponível |
 | [[RaioX\|Raio-X (P3)]] | ✅ Completa | ⏳ Não disponível |
 | [[Composicoes\|Composições (P4)]] | ⚠️ Mínima — reescrita a partir de notas soltas, aguardando slides | ⏳ Não disponível |
-
-> [!note] Próximos passos
-> Todo o site está **despublicado** (`publish: false`) — voltarei a publicar manualmente pelo Obsidian, nota por nota, quando cada uma estiver pronta. As notas marcadas acima como "mínima" (Computação, Cosmologia e Planetária — Aula 03, e a palestra de Composições) têm apenas um resumo genérico provisório, sem os slides oficiais ainda; serão reescritas por completo assim que o material chegar.

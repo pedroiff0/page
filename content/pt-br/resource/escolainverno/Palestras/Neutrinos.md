@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Neutrinos
 created: 2026-07-20T15:50:00-03:00
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T10:44:55.109-03:00
+published: 2026-07-26T10:44:55.109-03:00
 tags:
   - escola-de-inverno-on
   - palestra
@@ -161,7 +161,6 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 ## ❓ Perguntas e discussões da palestra
 
 > [!question] Perguntas
-> _(nenhuma pergunta registrada nesta palestra)_
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: About Me
 created: 2026-07-18T14:25:13.277-03:00
-modified: 2026-07-25T23:58:08.061-03:00
-published: 2026-07-25T23:58:08.061-03:00
+modified: 2026-07-26T10:09:07.075-03:00
+published: 2026-07-26T10:09:07.075-03:00
 ---
 
 > [!info] Welcome!

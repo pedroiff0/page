@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Aula 02
 created: 2026-07-22T09:15:00-03:00
-modified: 2026-07-25T23:58:08.045-03:00
-published: 2026-07-25T23:58:08.045-03:00
+modified: 2026-07-26T11:03:06.424-03:00
+published: 2026-07-26T11:03:06.424-03:00
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica
@@ -13,7 +13,6 @@ tags:
 cssclasses:
   - page-grid
   - center-images
-password: 409182ph
 titulo: ArqueologiaGalactica-Aula02
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Aglomerados Globulares e as três revoluções recentes da arqueologia galáctica

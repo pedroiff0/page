@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Simulando o Impacto de Satélites em Observações Astronômicas
 created: 2024-03-06
-modified: 2026-07-25T23:58:08.057-03:00
-published: 2026-07-25T23:58:08.057-03:00
+modified: 2026-07-26T10:19:39.079-03:00
+published: 2026-07-26T10:19:39.079-03:00
 tags:
   - poluicao-luminosa
   - satelites-artificiais

@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Aula 03
 created: 2026-07-22
-modified: 2026-07-26T00:02:11.275-03:00
-published: 2026-07-26T00:02:11.275-03:00
+modified: 2026-07-26T11:05:43.762-03:00
+published: 2026-07-26T11:05:43.762-03:00
 tags:
   - escola-de-inverno-on
   - hpc

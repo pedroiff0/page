@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Escola de Inverno (ON 2026)
 created: 2026-07-22
-modified: 2026-07-25T23:58:08.045-03:00
-published: 2026-07-25T23:58:08.045-03:00
+modified: 2026-07-26T10:41:58.418-03:00
+published: 2026-07-26T10:41:58.418-03:00
 ---
 
 > [!note] Resumo

@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Apresentação de Pesquisa
 created: 2026-07-22
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T11:03:55.936-03:00
+published: 2026-07-26T11:03:55.936-03:00
 ---
 
 > [!note] Resumo
@@ -16,4 +16,4 @@ published: 2026-07-25T23:58:08.049-03:00
   </a>
 </div>
 
-Notas de preparação para a apresentação da minha pesquisa, reunindo o Banner SBPC 2026 e o Banner da Escola de Inverno.
+Notas de preparação para a apresentação da minha pesquisa

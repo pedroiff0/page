@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Vizinhança Solar com t-SNE
 created: 2026-07-22T00:00:00-03:00
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T11:03:38.349-03:00
+published: 2026-07-26T11:03:38.349-03:00
 tags:
   - pesquisa
   - t-sne
@@ -16,7 +16,7 @@ cssclasses:
   - center-images
 titulo: MinhaPesquisa-VizinhancaSolar-tSNE
 disciplina: Apresentação de Pesquisa
-conteudo: Mapeamento não supervisionado da vizinhança solar com GCNS + GALAH DR4 usando t-SNE (Banner SBPC e Banner Escola de Inverno)
+conteudo: Mapeamento não supervisionado da vizinhança solar com GCNS + GALAH DR4 usando t-SNE
 professor: Orientação de Maria Luiza Linhares Dantas
 ---
 

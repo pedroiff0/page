@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Aula 01
 created: 2026-07-21T14:00:00-03:00
-modified: 2026-07-25T23:58:08.045-03:00
-published: 2026-07-25T23:58:08.045-03:00
+modified: 2026-07-26T10:51:45.216-03:00
+published: 2026-07-26T10:51:45.216-03:00
 tags:
   - escola-de-inverno-on
   - astrofisica-extragalactica

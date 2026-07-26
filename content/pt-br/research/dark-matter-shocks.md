@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Entendendo a Matéria Escura a partir de Choques Extragalácticos
 created: 2023-03-01
-modified: 2026-07-25T23:58:08.057-03:00
-published: 2026-07-25T23:58:08.057-03:00
+modified: 2026-07-26T10:19:47.462-03:00
+published: 2026-07-26T10:19:47.462-03:00
 tags:
   - materia-escura
   - aglomerados-de-galaxias

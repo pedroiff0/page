@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Aula 01
 created: 2026-07-20T11:05:00-03:00
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T11:06:15.255-03:00
+published: 2026-07-26T11:06:15.255-03:00
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias
