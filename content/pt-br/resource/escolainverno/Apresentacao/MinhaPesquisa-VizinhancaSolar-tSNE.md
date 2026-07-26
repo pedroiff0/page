@@ -45,7 +45,7 @@ cssclasses:
 
 ## 🎯 Do que se trata a pesquisa, em uma frase
 	
-Estou tentando entender **quem são as estrelas perto do Sol** — de onde vieram, que idade têm, que "sotaque químico" carregam — só que, em vez de plotar diagramas prontos escolhidos à mão, deixo um algoritmo de **aprendizado não supervisionado (t-SNE)** encontrar sozinho os agrupamentos diretamente nos espectros das estrelas, e só depois eu confiro se esses agrupamentos fazem sentido físico.
+Estou tentando entender **quem são as estrelas perto do Sol** — de onde vieram, que idade têm, que "sotaque químico" carregam — utilizando gráficos clássicos da literatura para caracterizar essas estrelas, e posteriormente utilizando um algoritmo não supervisionado para separar e analisar possíveis anomalias, com base no espectro!
 
 ---
 

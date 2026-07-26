@@ -38,6 +38,18 @@ tags:
     <img src="/assets/illustrations/toolkit.svg" alt="Modelos de Documento" />
     <div class="slide-caption">Modelos de Documento</div>
   </a>
+  <a href="/pt-br/resource/latex/aula-06-classe-ifftese" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="Aula 06 — Classe ifftese.cls" />
+    <div class="slide-caption">Aula 06 — Classe ifftese.cls</div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-07-pacote-macros" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="Aula 07 — Pacote macros.sty" />
+    <div class="slide-caption">Aula 07 — macros.sty</div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-08-pacote-metadados" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="Aula 08 — Arquivo metadados.sty" />
+    <div class="slide-caption">Aula 08 — metadados.sty</div>
+  </a>
 </div>
 
 ## Por que LaTeX?
@@ -53,6 +65,14 @@ Editores visuais funcionam até o dia em que você precisa numerar 40 equações
 5. [Avançado](pt-br/resource/latex/aula-05-avancado) — criar `.sty`/`.cls` próprios, `@makeatletter`, ambientes customizados.
 
 Depois das 5 aulas: [Modelos de Documento](pt-br/resource/latex/modelos-de-documento) — checklist prático por tipo (TCC/ABNT, Relatório, Livro, Beamer, Pôster científico).
+
+## 🎓 Aprofundamento — estudo de caso real
+
+Três aulas extras, construídas em cima de uma classe LaTeX que uso de verdade no meu próprio TCC (`ifftese.cls`, para o IFF Campus Bom Jesus do Itabapoana) — cada configuração documentada em detalhe, não só o resultado final:
+
+6. [Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) — fábrica de macros de metadados, flags comportamentais, floats customizados (quadro/gráfico/fluxograma/algoritmo), recto/verso automático, sumário fluido com dot-leaders medidos dinamicamente.
+7. [Pacote `macros.sty`](pt-br/resource/latex/aula-07-pacote-macros) — capa/contracapa/ficha catalográfica com 3 layouts, comandos `\inserirfigura`/`\inserirtabela`/`\inserirgrafico` e variantes de subfigura, ambientes de teorema/exercício com sistema de resposta cruzada via hyperref.
+8. [Arquivo `metadados.sty`](pt-br/resource/latex/aula-08-pacote-metadados) — o único arquivo que o estudante de fato edita: preenchimento de flags e dados reais do trabalho.
 
 ## 📚 Materiais recomendados
 
