@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Sobre Mim
 created: 2026-07-18T14:50:18.601-03:00
 ---
@@ -98,7 +98,7 @@ Para navegar pelo meu trabalho, explore as seções deste site:
     <div class="slide-caption">Disciplinas</div>
   </a>
   <a href="/pt-br/media" class="carousel-slide">
-    <img src="/assets/febic2024/febic.jpeg" alt="Mídia" />
+    <img src="/assets/photos/febic2024/febic.jpeg" alt="Mídia" />
     <div class="slide-caption">Mídia</div>
   </a>
   <a href="/pt-br/projects" class="carousel-slide">
@@ -113,7 +113,6 @@ Para navegar pelo meu trabalho, explore as seções deste site:
 
 - [Pesquisa](pt-br/research/) — Conheça meus projetos atuais.
 - [Recursos](pt-br/resource/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
-- [Disciplinas](pt-br/resource/engenharia-de-computação/) — Minhas anotações e trabalhos de faculdade.
 - [Mídia](pt-br/media/) — Participações em eventos, feiras e apresentações.
 - [Projetos](pt-br/projects/) — Ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
 - [Blog](pt-br/blog/) — Pensamentos aleatórios, tutoriais e reflexões sobre a jornada de pesquisa.

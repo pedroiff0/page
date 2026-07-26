@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Mídia
 order: 4
 created: 2026-07-18T14:50:18.101-03:00
@@ -16,11 +16,11 @@ Participações em feiras e congressos. Arraste para o lado para ver as fotos!
     <div class="slide-caption">LNCC 2022</div>
   </a>
   <a href="/pt-br/media/2023/febrace-2023" class="carousel-slide">
-    <img src="/assets/febrace2023/febrace.jpeg" alt="FEBRACE 2023" />
+    <img src="/assets/photos/febrace2023/febrace.jpeg" alt="FEBRACE 2023" />
     <div class="slide-caption">FEBRACE 2023</div>
   </a>
   <a href="/pt-br/media/2023/mostratec-2023" class="carousel-slide">
-    <img src="/assets/mostratec2023/mostratec.jpeg" alt="MOSTRATEC 2023" />
+    <img src="/assets/photos/mostratec2023/mostratec.jpeg" alt="MOSTRATEC 2023" />
     <div class="slide-caption">MOSTRATEC 2023</div>
   </a>
   <a href="/pt-br/media/2024/e-jiniff-2024" class="carousel-slide">
@@ -28,7 +28,7 @@ Participações em feiras e congressos. Arraste para o lado para ver as fotos!
     <div class="slide-caption">e-JINIFF 2024</div>
   </a>
   <a href="/pt-br/media/2024/febic-2024" class="carousel-slide">
-    <img src="/assets/febic2024/febic.jpeg" alt="IX FEBIC 2024" />
+    <img src="/assets/photos/febic2024/febic.jpeg" alt="IX FEBIC 2024" />
     <div class="slide-caption">IX FEBIC 2024</div>
   </a>
   <a href="/pt-br/media/2024/4-sceg" class="carousel-slide">
@@ -36,11 +36,11 @@ Participações em feiras e congressos. Arraste para o lado para ver as fotos!
     <div class="slide-caption">4ª SCEG 2024</div>
   </a>
   <a href="/pt-br/media/2025/sab-2025" class="carousel-slide">
-    <img src="/assets/sab2025/sab.jpeg" alt="SAB 2025" />
+    <img src="/assets/photos/sab2025/sab.jpeg" alt="SAB 2025" />
     <div class="slide-caption">SAB 2025</div>
   </a>
   <a href="/pt-br/media/2025/mctia-2025" class="carousel-slide">
-    <img src="/assets/mctia2025/mctia2025-01.jpeg" alt="MCTIA 2025" />
+    <img src="/assets/photos/mctia2025/mctia2025-01.jpeg" alt="MCTIA 2025" />
     <div class="slide-caption">MCTIA 2025</div>
   </a>
   <a href="/pt-br/media/2026/escolainverno-2026" class="carousel-slide">

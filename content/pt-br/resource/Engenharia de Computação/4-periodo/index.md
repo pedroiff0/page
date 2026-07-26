@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 created: 2026-07-18
 title: "4º Período"
 order: 4

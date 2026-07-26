@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico"
 titulo: CursoON-Aula13

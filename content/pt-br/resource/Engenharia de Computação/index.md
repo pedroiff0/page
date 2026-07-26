@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 created: 2026-07-22
 title: "Engenharia de Computação"
 order: 1

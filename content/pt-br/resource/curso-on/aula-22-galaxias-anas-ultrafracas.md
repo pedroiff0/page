@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica"
 titulo: CursoON-Aula22

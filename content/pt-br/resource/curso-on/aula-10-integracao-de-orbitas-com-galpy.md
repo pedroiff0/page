@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 10 — Integração de Órbitas com galpy"
 titulo: CursoON-Aula10

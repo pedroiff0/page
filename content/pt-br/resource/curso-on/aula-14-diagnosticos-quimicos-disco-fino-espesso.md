@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos"
 titulo: CursoON-Aula14

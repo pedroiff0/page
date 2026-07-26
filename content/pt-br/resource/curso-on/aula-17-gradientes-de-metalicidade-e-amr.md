@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade"
 titulo: CursoON-Aula17

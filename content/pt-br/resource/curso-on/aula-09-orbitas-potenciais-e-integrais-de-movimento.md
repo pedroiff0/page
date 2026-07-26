@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 09 — Órbitas, Potenciais e Integrais de Movimento"
 titulo: CursoON-Aula09

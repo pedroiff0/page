@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos"
 titulo: CursoON-Aula15

@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 18 — Proto-Disco, Spin-Up e o Disco Splash"
 titulo: CursoON-Aula18

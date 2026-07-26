@@ -1,7 +1,7 @@
 ---
-publish: false
-password: "409182ph"
-title: "Arqueologia Galáctica e Populações Estelares (ON)"
+publish: true
+password: 409182ph
+title: Arqueologia Galáctica e Populações Estelares
 order: 5
 created: 2026-07-23
 ---

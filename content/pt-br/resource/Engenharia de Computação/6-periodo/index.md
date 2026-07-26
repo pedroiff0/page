@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 created: 2026-07-21
 title: "6º Período"
 order: 6

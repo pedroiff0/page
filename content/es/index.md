@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: Sobre Mí
 created: 2026-07-18T14:50:18.601-03:00
 modified: 2026-07-23
@@ -102,7 +102,7 @@ Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés)
     <div class="slide-caption">Asignaturas</div>
   </a>
   <a href="/pt-br/media" class="carousel-slide">
-    <img src="/assets/febic2024/febic.jpeg" alt="Medios" />
+    <img src="/assets/photos/febic2024/febic.jpeg" alt="Medios" />
     <div class="slide-caption">Medios</div>
   </a>
   <a href="/pt-br/projects" class="carousel-slide">
@@ -115,9 +115,10 @@ Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés)
   </a>
 </div>
 
+Los enlaces que aparecen a continuación solo están disponibles actualmente en portugués.
+
 - [Investigación](pt-br/research/) — Conoce mis proyectos actuales y publicaciones.
 - [Recursos](pt-br/resource/) — Materiales, scripts y herramientas útiles que he desarrollado o utilizo.
-- [Asignaturas](pt-br/resource/engenharia-de-computação/) — Mis apuntes y trabajos de la universidad.
 - [Medios](pt-br/media/) — Participaciones en eventos, ferias y presentaciones.
 - [Proyectos](pt-br/projects/) — Herramientas y aplicaciones que desarrollo fuera de la investigación académica.
 - [Blog](pt-br/blog/) — Pensamientos sueltos, tutoriales y reflexiones sobre el camino de la investigación.

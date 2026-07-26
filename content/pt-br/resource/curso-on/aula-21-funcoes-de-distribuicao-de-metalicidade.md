@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites"
 titulo: CursoON-Aula21

@@ -1,25 +1,28 @@
 # Site pessoal — Pedro Henrique
 
-Site acadêmico/pessoal, bilíngue (PT-BR / EN), publicado em:
+Site acadêmico/pessoal, multilíngue (PT-BR completo; EN parcial; ES/FR só a página inicial), publicado via GitHub Pages a cada push em `main`:
 
-🔗 **https://pedroiff0.github.io/page/**
+🔗 **https://pedroiff0.github.io/page/** (migrando para **www.phrandrade.com**, ver `baseUrl` em `quartz.config.yaml`)
 
-Construído com [Quartz](https://quartz.jzhao.xyz/), que transforma notas em Markdown num site estático navegável. O conteúdo é o próprio vault do Obsidian (pasta `content/`), publicado automaticamente no GitHub Pages a cada push em `main`.
+Construído com [Quartz](https://quartz.jzhao.xyz/), que transforma notas em Markdown num site estático navegável. O conteúdo é o próprio vault do Obsidian (pasta `content/`), editado diretamente pelo Pedro.
 
 ## Estrutura
 
 ```
 content/
-├── en/            # conteúdo em inglês
-├── pt-br/         # conteúdo em português — inclui seções só-PT (Disciplinas, Recursos/Computação)
-└── assets/        # imagens e outros arquivos estáticos, compartilhados entre os dois idiomas
+├── pt-br/         # conteúdo em português — idioma principal, sempre completo primeiro
+├── en/            # conteúdo em inglês — tradução parcial
+├── es/, fr/       # só a página inicial, com aviso de tradução em preparação
+├── templates/     # templates do QuickAdd (Blog, Projeto, Pesquisa, Aula, Evento, Protegido...)
+└── assets/        # imagens e outros arquivos estáticos, compartilhados entre os idiomas
 quartz/            # motor do Quartz (fork de jackyzha0/quartz), componentes e estilos customizados
+local-plugins/     # plugins próprios do fork, commitados no repo (photo-carousel, page-title-i18n)
 scripts/           # utilitários de manutenção (ex: sync-material.sh)
 ```
 
-Seções do site: Pesquisa (incluindo Artigos — anotações de leitura), Recursos (incluindo Computação — arquivo de estudo), Disciplinas (grade curricular completa de Engenharia de Computação, IFF), Mídia, Publicações, Blog.
+Seções do site (dentro de cada idioma): Pesquisa, Recursos (incluindo Computação, Curso ON e notas de eventos como a Escola de Inverno), Mídia (participações em feiras e congressos, por ano), Projetos, Blog.
 
-**Convenção importante**: os slugs de pasta/arquivo são idênticos nos dois idiomas (`en/research/x` ↔ `pt-br/research/x`) — é isso que faz o botão de trocar idioma funcionar sem mapear cada página manualmente. Detalhes de convenções e decisões de arquitetura estão em [`CLAUDE.md`](./CLAUDE.md).
+**Convenção importante**: os slugs de pasta/arquivo são idênticos entre idiomas (`en/research/x` ↔ `pt-br/research/x`) — é isso que faz o botão de trocar idioma funcionar sem mapear cada página manualmente. Detalhes de convenções e decisões de arquitetura estão em [`CLAUDE.md`](./CLAUDE.md) e [`content/CLAUDE.md`](./content/CLAUDE.md).
 
 ## Rodando localmente
 
@@ -27,6 +30,14 @@ Seções do site: Pesquisa (incluindo Artigos — anotações de leitura), Recur
 npm install
 npx quartz plugin install   # instala os plugins da comunidade usados no site
 npx quartz build --serve    # http://localhost:8080, recarrega sozinho a cada save
+```
+
+## Qualidade
+
+```bash
+npm run check   # tsc --noEmit + prettier --check
+npm run format   # prettier --write
+npm test         # roda os testes sob quartz/
 ```
 
 ## Publicando

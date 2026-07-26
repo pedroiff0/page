@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 password: "409182ph"
 title: "Aula 05 — Avermelhamento, Extinção e IMF"
 titulo: CursoON-Aula05

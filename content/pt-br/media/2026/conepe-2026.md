@@ -1,25 +1,31 @@
 ---
 publish: false
-title: Mostra do Conhecimento - 2026
-photoFolder: mostra2026
+title: CONEPE - 2026
+photoFolder: conepe2026
 created: 2026-07-18T13:50:21.240-03:00
 type: blog
 ---
-# ❄️ Escola de Inverno ON - 2026
+# 🎓 CONEPE - 2026
 
 > [!note] Resumo
-> Escola de Inverno em Astrofísica 2026 do Observatório Nacional, no Rio de Janeiro — apresentei uma atualização do pôster de detecção de anomalias em dados do Gaia/GALAH DR4 já levado à SAB 2025.
+> [1-2 frases: o que é o CONEPE, o que você apresentou (pôster/oral/projeto) e o resultado ou destaque, se houver.]
 
 ## 🗓️ Sobre o evento
 
-Página dedicada à participação na **Escola de Inverno em Astrofísica 2026** do [Observatório Nacional (ON)](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026), realizada de 20 a 24 de julho de 2026, no Rio de Janeiro.
+Página dedicada à participação n[o/a] **[nome completo do CONEPE — ex: Congresso Norte Fluminense de Ensino, Pesquisa e Extensão]**, em [cidade/UF], realizad[o/a] de [data de início] a [data de término] de [mês] de [ano] — [uma frase de contexto: porte do evento, quem organiza, se for relevante].
 
 ## 👋 Minha participação
 
-Se você chegou aqui escaneando o QR code do meu pôster, seja bem-vindo(a)! O pôster apresentado nesta escola é uma atualização do que levei à SAB 2025, em Caxambu (MG) — com o mapeamento não supervisionado via t-SNE e as projeções mais recentes. Veja o texto completo de preparação da apresentação em [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao), e o estado atual da pesquisa em [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection).
+[O que você apresentou — título do trabalho, formato (pôster/oral/projeto), com quem (coautores/equipe) e sob orientação de quem. Se houve prêmio, classificação ou repercussão, diga aqui. Se o trabalho já tinha sido apresentado antes em outro evento, linke a versão anterior.]
+
+## 🎤 Palestras e minicursos assistidos
+
+*(seção opcional — apague esta seção inteira se o evento não teve programação de palestras/minicursos, ou se você não assistiu nenhum)*
+
+- **[Título da palestra/minicurso]** — [Palestrante], [data]. [Uma frase sobre o conteúdo, se valer a pena registrar.]
 
 ## 🔗 Referências e correlatos
 
-- 📓 Notas de aula completas, por minicurso: [Escola de Inverno (ON 2026)](pt-br/resource/escolainverno)
-- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — pesquisa completa por trás do pôster
-- [SAB 2025](pt-br/media/2025/sab-2025) — versão anterior do mesmo pôster
+- Fonte: [nome do veículo/site oficial do evento](url)
+- [Página de pesquisa relacionada](caminho) — pesquisa completa por trás da apresentação
+- [Nome do evento anterior](caminho) — versão anterior do mesmo trabalho, se aplicável
