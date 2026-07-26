@@ -1,10 +1,10 @@
 ---
 publish: false
-title: Bem-vindo ao blog
 created: 2026-07-23
-modified: 2026-07-25T23:58:08.061-03:00
-published: 2026-07-25T23:58:08.061-03:00
+modified: 2026-07-26T12:09:20.533-03:00
+published: 2026-07-26T12:09:20.533-03:00
 type: blog
+title:
 ---
 
 # ✍️ Bem-vindo ao blog
