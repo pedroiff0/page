@@ -338,6 +338,20 @@ details.author-details[open] .author-summary {
         "grid-sidebar-left grid-footer";
     }
   }
+
+  /* On mobile, .sidebar.left isn't an off-canvas drawer — it's laid out
+     inline as the icon toolbar row above the content (search, dark mode,
+     reader-mode toggle, Explorer hamburger). The reader-mode plugin's own
+     default CSS fades .sidebar.left to opacity:0 with a `:hover` fallback
+     to bring it back — which on a touch screen never fires, permanently
+     hiding the very toggle needed to turn reader mode back off and the
+     hamburger that opens the Explorer. Override it here so the toolbar
+     (and the tap targets in it) stay visible on mobile too. */
+  @media all and ($mobile) {
+    & .sidebar.left {
+      opacity: 1 !important;
+    }
+  }
 }
 
 /* Labeled dates line ("Criado em: X · Modificado em: Y"). The unlabeled
@@ -441,6 +455,7 @@ details.author-details[open] .author-summary {
 }
 
 .carousel-zoom-close,
+.carousel-zoom-prev,
 .carousel-zoom-next {
   display: none;
   position: fixed;
@@ -460,11 +475,13 @@ details.author-details[open] .author-summary {
 }
 
 .carousel-zoom-close:hover,
+.carousel-zoom-prev:hover,
 .carousel-zoom-next:hover {
   background: rgba(0, 0, 0, 0.85);
 }
 
 .carousel-slide.zoomed .carousel-zoom-close,
+.carousel-slide.zoomed .carousel-zoom-prev,
 .carousel-slide.zoomed .carousel-zoom-next {
   display: flex;
 }
@@ -472,6 +489,12 @@ details.author-details[open] .author-summary {
 .carousel-slide.zoomed .carousel-zoom-close {
   top: 1.5rem;
   right: 1.5rem;
+}
+
+.carousel-slide.zoomed .carousel-zoom-prev {
+  top: 50%;
+  left: 1.5rem;
+  transform: translateY(-50%);
 }
 
 .carousel-slide.zoomed .carousel-zoom-next {

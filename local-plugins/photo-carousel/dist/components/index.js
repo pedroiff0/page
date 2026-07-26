@@ -47,7 +47,11 @@ function slide(href, imgSrc, alt, caption) {
 const CAROUSEL_ZOOM_SCRIPT = `
 function quartzCarouselZoomSetup() {
   var OPEN_DELAY = 1000;
-  var CLOSE_GRACE = 150;
+  // Grace period before an unzoom-on-leave actually closes the lightbox —
+  // long enough to cross the gap between the slide's original spot and its
+  // fixed-position enlarged image (or over to the prev/next button) without
+  // pixel-perfect aim, short enough to still feel responsive.
+  var CLOSE_GRACE = 500;
 
   document.querySelectorAll(".carousel-slide").forEach(function (slide) {
     if (slide.dataset.zoomBound === "true") return;
@@ -59,6 +63,13 @@ function quartzCarouselZoomSetup() {
     closeBtn.setAttribute("aria-label", "Fechar");
     closeBtn.textContent = "\\u2715";
     slide.appendChild(closeBtn);
+
+    var prevBtn = document.createElement("button");
+    prevBtn.type = "button";
+    prevBtn.className = "carousel-zoom-prev";
+    prevBtn.setAttribute("aria-label", "Foto anterior");
+    prevBtn.textContent = "\\u2039";
+    slide.appendChild(prevBtn);
 
     var nextBtn = document.createElement("button");
     nextBtn.type = "button";
@@ -82,6 +93,22 @@ function quartzCarouselZoomSetup() {
       var scope = carousel || document;
       return Array.prototype.slice.call(scope.querySelectorAll(".carousel-slide"));
     }
+    function navigate(delta) {
+      var slides = siblingSlides();
+      var idx = slides.indexOf(slide);
+      if (idx === -1) return;
+      var target = slides[(idx + delta + slides.length) % slides.length];
+      if (target && target !== slide) {
+        close();
+        target.classList.add("zoomed");
+      }
+    }
+
+    // Exposed on the element so the single document-level keydown listener
+    // below can drive whichever slide is currently zoomed, without needing
+    // its own closure over every slide's open/close/navigate functions.
+    slide.__carouselClose = close;
+    slide.__carouselNavigate = navigate;
 
     slide.addEventListener("mouseenter", function () {
       clearTimeout(closeTimer);
@@ -103,19 +130,37 @@ function quartzCarouselZoomSetup() {
       clearTimeout(openTimer);
       close();
     });
+    prevBtn.addEventListener("click", function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      navigate(-1);
+    });
     nextBtn.addEventListener("click", function (e) {
       e.preventDefault();
       e.stopPropagation();
-      var slides = siblingSlides();
-      var idx = slides.indexOf(slide);
-      if (idx === -1) return;
-      var next = slides[(idx + 1) % slides.length];
-      if (next && next !== slide) {
-        close();
-        next.classList.add("zoomed");
-      }
+      navigate(1);
     });
   });
+
+  // Bound once globally (not per-slide, since this setup runs again on every
+  // SPA navigation) — looks up whichever slide is currently zoomed, if any.
+  if (!window.__quartzCarouselKeydownBound) {
+    window.__quartzCarouselKeydownBound = true;
+    document.addEventListener("keydown", function (e) {
+      var zoomed = document.querySelector(".carousel-slide.zoomed");
+      if (!zoomed) return;
+      if (e.key === "ArrowRight") {
+        e.preventDefault();
+        if (zoomed.__carouselNavigate) zoomed.__carouselNavigate(1);
+      } else if (e.key === "ArrowLeft") {
+        e.preventDefault();
+        if (zoomed.__carouselNavigate) zoomed.__carouselNavigate(-1);
+      } else if (e.key === "Escape") {
+        e.preventDefault();
+        if (zoomed.__carouselClose) zoomed.__carouselClose();
+      }
+    });
+  }
 }
 document.addEventListener("nav", quartzCarouselZoomSetup);
 document.addEventListener("render", quartzCarouselZoomSetup);
