@@ -18,7 +18,7 @@ _Hughes, Arvind C.~N. (1907)_
 
 Usa ~600.000 espectros de alta resolução do GALAH + algoritmo de machine learning para encontrar 54 candidatos a estrelas extremamente pobres em metais (EMP, \[Fe/H]<-3,0). Mostra que ML em grandes levantamentos espectroscópicos é poderoso para descoberta — direto ao tema de anomalias/detecção de raras.
 
-[Ver artigo original](https://doi.org/10.3847/1538-4357/ac5fa7)
+[Ver artigo original](https://doi.org/10.3847/1538-4357/ac5fa7) · [📄 Baixar PDF](assets/articles/Hughes2022.pdf)
 
 ## Citação
 

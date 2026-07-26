@@ -18,7 +18,7 @@ _Xiang, Maosheng. (2019)_
 
 Determina parâmetros e abundâncias de 6 milhões de estrelas do LAMOST DR5 via modelo data-driven DD-Payne (herda The Payne e The Cannon), com 16 elementos. Mostra poder de modelos data-driven em grandes levantamentos — relevante para seu pipeline de abundâncias.
 
-[Ver artigo original](https://doi.org/10.3847/1538-4365/ab5364)
+[Ver artigo original](https://doi.org/10.3847/1538-4365/ab5364) · [📄 Baixar PDF](assets/articles/Xiang2019.pdf)
 
 ## Citação
 

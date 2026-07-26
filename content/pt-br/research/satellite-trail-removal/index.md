@@ -14,7 +14,7 @@ tags:
 # 🛰️ Simulando o Impacto de Satélites em Observações Astronômicas
 
 > [!note] Resumo
-> Projeto de pesquisa (IFF Bom Jesus do Itabapoana, orientação da [Prof.ª Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) sobre como a proliferação de satélites artificiais contamina imagens astronômicas com rastros luminosos — e como tratar essa contaminação computacionalmente. Em equipe com Maycon Jorge Deláqua da Silva e Arthur Miguelito Lopes, o projeto evoluiu de um 3º lugar na FEBIC 2024 até um algoritmo capaz de recuperar 99,7% da informação perdida, premiado em 1º lugar no MCTIA 2025.
+> Projeto de pesquisa (IFF Bom Jesus do Itabapoana, orientação da [Prof.ª Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) sobre como a proliferação de satélites artificiais contamina imagens astronômicas com rastros luminosos — e como tratar essa contaminação computacionalmente. Em equipe com [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) e Arthur Miguelito Lopes, o projeto evoluiu de um 3º lugar na [FEBIC 2024](pt-br/media/2024/febic-2024) até um algoritmo capaz de recuperar 99,7% da informação perdida, premiado em 1º lugar no [MCTIA 2025](pt-br/media/2025/mctia-2025).
 
 <div class="media-carousel">
   <a href="/pt-br/research/satellite-trail-removal" class="carousel-slide">
@@ -44,8 +44,8 @@ O projeto foi planejado em 5 fases: (1) revisão sistemática do problema e de c
 | Etapa | Evento | Resultado |
 |---|---|---|
 | Proposta inicial | Edital de pré-iniciação científica, IFF (2023) | Aprovação do projeto |
-| **FEBIC 2024** (Pomerode, SC) | Com Maycon Jorge Deláqua da Silva | **3º lugar — categoria Graduação**, mesmo com o projeto ainda incompleto, competindo com aplicações já patenteadas — resultado que classificou a equipe para o MCTIA 2025 |
-| **MCTIA 2025** (Belém, PA) | Com Maycon Jorge Deláqua da Silva e Arthur Miguelito Lopes | **1º lugar — categoria Ciências Exatas do Ensino Superior**, com um algoritmo de IA capaz de **remover rastros de satélite de dados astronômicos, recuperando 99,7% da informação que seria perdida** — resultado que classificou a equipe para o evento nacional Ciência Jovem (Recife, PE, 2026) |
+| **[FEBIC 2024](pt-br/media/2024/febic-2024)** (Pomerode, SC) | Com [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) | **3º lugar — categoria Graduação**, mesmo com o projeto ainda incompleto, competindo com aplicações já patenteadas — resultado que classificou a equipe para o [MCTIA 2025](pt-br/media/2025/mctia-2025) |
+| **[MCTIA 2025](pt-br/media/2025/mctia-2025)** (Belém, PA) | Com [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) e Arthur Miguelito Lopes | **1º lugar — categoria Ciências Exatas do Ensino Superior**, com um algoritmo de IA capaz de **remover rastros de satélite de dados astronômicos, recuperando 99,7% da informação que seria perdida** — resultado que classificou a equipe para o evento nacional Ciência Jovem (Recife, PE, 2026) |
 
 > [!note] Nota sobre este texto
 > Esta página combina a proposta formal de pesquisa (submetida ao IFF em 2023, com introdução, justificativa e metodologia completas) com os resultados divulgados publicamente nas premiações da FEBIC 2024 e do MCTIA 2025. Detalhes técnicos do algoritmo de recuperação de 99,7% ainda não foram documentados nesta página — a atualizar conforme o trabalho avança para publicação.

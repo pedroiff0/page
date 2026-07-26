@@ -18,7 +18,7 @@ _McMillan, Paul J. (2017)_
 
 Apresenta modelos de massa da Via Láctea ajustados a restrições observacionais. Encontra R0 = 8,20±0,09 kpc, velocidade circular no Sol v0 = 232,8±3,0 km/s, massa estelar total (54,3±5,7)×10^9 Msol e massa virial (1,30±0,30)×10^12 Msol. É a referência dos parâmetros de potencial que você usa no galpy.
 
-[Ver artigo original](https://doi.org/10.1093/mnras/stw2759)
+[Ver artigo original](https://doi.org/10.1093/mnras/stw2759) · [📄 Baixar PDF](assets/articles/McMillan2017.pdf)
 
 ## Citação
 

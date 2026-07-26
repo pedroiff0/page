@@ -18,7 +18,7 @@ _Hayden, Michael R. (2022)_
 
 Deriva idades de quase 250.000 estrelas do GALAH DR3 via XGBoost usando apenas metalicidade e abundâncias (precisão 1-2 Gyr). Relevante: a idade é variável-chave no GAM do Dantas2025 para inferir o raio de nascimento.
 
-[Ver artigo original](https://doi.org/10.1093/mnras/stac2787)
+[Ver artigo original](https://doi.org/10.1093/mnras/stac2787) · [📄 Baixar PDF](assets/articles/Hayden2022.pdf)
 
 ## Citação
 

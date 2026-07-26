@@ -18,7 +18,7 @@ _Thomas, G.~F. (2024)_
 
 Apresenta o SpectroTranslator, rede neural data-driven que converte parâmetros espectroscópicos de um survey (base A) para outro (base B), com estimativa de importância dos parâmetros. Útil para homogeneizar catálogos (GALAH↔APOGEE↔LAMOST) no seu projeto.
 
-[Ver artigo original](https://doi.org/10.1051/0004-6361/202450198)
+[Ver artigo original](https://doi.org/10.1051/0004-6361/202450198) · [📄 Baixar PDF](assets/articles/Thomas2024.pdf)
 
 ## Citação
 

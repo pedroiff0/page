@@ -18,7 +18,7 @@ _Hayden, Michael R. (2020)_
 
 Apresenta a estrutura quimiodinâmica da vizinhança solar com 62.814 estrelas (GALAH + Gaia DR2). Mostra que a dispersão de velocidade varia suavemente com \[Fe/H] e \[α/Fe], e discute migração (churning vs blurring) — conectando-se diretamente ao tema de origem/movimento estelar do seu projeto.
 
-[Ver artigo original](https://doi.org/10.1093/mnras/staa335)
+[Ver artigo original](https://doi.org/10.1093/mnras/staa335) · [📄 Baixar PDF](assets/articles/Hayden2020.pdf)
 
 ## Citação
 

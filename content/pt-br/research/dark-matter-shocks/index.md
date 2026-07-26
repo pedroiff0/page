@@ -62,12 +62,12 @@ O método de Dawson (2013) mostrou-se **confiável dentro das incertezas** para 
 
 ## 🏆 Apresentações e prêmios
 
-Este projeto foi apresentado na **FEBRACE 2023** e na **MOSTRATEC 2023** (Novo Hamburgo, RS) — ver [cobertura da MOSTRATEC](pt-br/media/2023/mostratec-2023).
+Este projeto foi apresentado na **[FEBRACE 2023](pt-br/media/2023/febrace-2023)** e na **[MOSTRATEC 2023](pt-br/media/2023/mostratec-2023)** (Novo Hamburgo, RS).
 
 ## 🔗 Referências e correlatos
 
-- Dawson, W. A. (2013) — _The Dynamics of Merging Clusters: A Monte Carlo Solution Applied to the Bullet and Musket Ball Clusters_, ApJ 772, 131. [Código MCMAC](https://github.com/MCTwo/MCMAC).
-- ZuHone, J. et al. (2018) — _The Galaxy Cluster Merger Catalog: An Online Repository of Mock Observations from Simulated Galaxy Cluster Mergers_, ApJS 234, 4.
+- Dawson, W. A. (2013) — _The Dynamics of Merging Clusters: A Monte Carlo Solution Applied to the Bullet and Musket Ball Clusters_, ApJ 772, 131. [📄 Artigo completo (arXiv)](assets/articles/Dawson2013.pdf) · [Código MCMAC](https://github.com/MCTwo/MCMAC).
+- ZuHone, J. et al. (2018) — _The Galaxy Cluster Merger Catalog: An Online Repository of Mock Observations from Simulated Galaxy Cluster Mergers_, ApJS 234, 4. [📄 Artigo completo (arXiv)](assets/articles/ZuHone2018.pdf).
 - Clowe, D. et al. — Aglomerado da Bala, evidência clássica de separação espacial entre matéria escura e gás.
 - [MOSTRATEC 2023](pt-br/media/2023/mostratec-2023) — cobertura da apresentação deste projeto
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — outro projeto de pesquisa em Astronomia, também orientado por dinâmica/cinemática de sistemas gravitacionais

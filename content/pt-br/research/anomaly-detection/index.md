@@ -51,9 +51,9 @@ Os parâmetros físico-químicos e cinemáticos de cada estrela (Teff, log g, \[
 
 Este trabalho foi publicado como:
 
-> ANDRADE, P. H. R. et al. _Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4_. Boletim da Sociedade Astronômica Brasileira, 2025.
+> ANDRADE, P. H. R. et al. _Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4_. Boletim da Sociedade Astronômica Brasileira, 2025. [📄 Artigo completo (arXiv)](assets/articles/Andrade2025.pdf).
 
-E apresentado como pôster na **SAB 2025**, na **78ª Reunião Anual da SBPC (2026)** e nesta **Escola de Inverno do Observatório Nacional (2026)** — ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] para o texto completo dessa apresentação.
+E apresentado como pôster na **[SAB 2025](pt-br/media/2025/sab-2025)**, na **78ª Reunião Anual da SBPC (2026)** e nesta **[Escola de Inverno do Observatório Nacional (2026)](pt-br/media/2026/escolainverno-2026)** — ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] para o texto completo dessa apresentação.
 
 ---
 
@@ -114,11 +114,11 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 
 ## 📚 Bibliografia principal
 
-- Traven et al. (2017) — _The GALAH survey: classification and diagnostics with t-SNE reduction of spectral information_ — metodologia-base da Etapa 2.
-- Buder et al. (2025) — GALAH DR4.
-- Gaia Collaboration et al. (2021) — Gaia Catalogue of Nearby Stars.
-- da Silva & Smiljanic (2023) — t-SNE em espaço quimiodinâmico (base para a comparação colunas vs. pixels).
-- Hughes et al. (2022) — descoberta de estrelas extremamente pobres em metais no GALAH DR3 via ML supervisionado.
+- Traven et al. (2017) — _The GALAH survey: classification and diagnostics with t-SNE reduction of spectral information_ — metodologia-base da Etapa 2. [📄 Artigo completo (arXiv)](assets/articles/Traven2017.pdf).
+- Buder et al. (2025) — GALAH DR4. [📄 Artigo completo (arXiv)](assets/articles/Buder2025.pdf).
+- Gaia Collaboration et al. (2021) — Gaia Catalogue of Nearby Stars. [📄 Artigo completo (arXiv)](assets/articles/GaiaCollaboration2021.pdf).
+- da Silva & Smiljanic (2023) — t-SNE em espaço quimiodinâmico (base para a comparação colunas vs. pixels). [📄 Artigo completo (acesso aberto, A&A)](assets/articles/DaSilvaSmiljanic2023.pdf).
+- Hughes et al. (2022) — descoberta de estrelas extremamente pobres em metais no GALAH DR3 via ML supervisionado. [📄 Artigo completo (acesso aberto, ApJ)](assets/articles/Hughes2022.pdf).
 - Pettee et al. (2023) — detecção fracamente supervisionada de streams estelares no Gaia (CWoLa).
 - Ver [Artigos](pt-br/research/anomaly-detection/articles) para as anotações completas de leitura de todos os papers usados nesta pesquisa.
 

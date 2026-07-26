@@ -18,7 +18,7 @@ _Quispe-Huaynasi, F. (2050)_
 
 Usa abordagem de machine learning não-supervisionado (autoencoder para detecção de anomalias + t-SNE) nos dados fotométricos do S-PLUS para selecionar ~19.000 candidatos cuja SED não é bem reconstruída, identificando populações estelares raras (69 estrelas ricas em carbono). Exemplo prático de autoencoder para anomalias — direto ao seu método.
 
-[Ver artigo original](https://doi.org/10.3847/1538-3881/adcf26)
+[Ver artigo original](https://doi.org/10.3847/1538-3881/adcf26) · [📄 Baixar PDF](assets/articles/QuispeHuaynasi2025.pdf)
 
 ## Citação
 

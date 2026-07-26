@@ -18,7 +18,7 @@ _de Andrade, P.~H.~R. (2025)_
 
 Análise conjunta de ~6.000 estrelas comuns ao Gaia Catalogue of Nearby Stars (GCNS, 100 pc) e ao GALAH DR4 (até 30 elementos). Resultados preliminares: maioresia FGK do disco, idades medianas ~1,6 Gyr, \[Fe/H]~-0,19. Útil para amostra local do seu projeto.
 
-[Ver artigo original](https://doi.org/10.48550/arXiv.2512.10037)
+[Ver artigo original](https://doi.org/10.48550/arXiv.2512.10037) · [📄 Baixar PDF](assets/articles/Andrade2025.pdf)
 
 ## Citação
 
