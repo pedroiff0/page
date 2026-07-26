@@ -169,5 +169,7 @@ Estudos da vizinhança solar (razão $\alpha$/Fe vs. [Fe/H]) — ex.: **Adibekya
 - [Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03)
 - [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — supernovas Ia como velas padrão, citadas aqui como marcadoras de nucleossíntese
 - [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — equilíbrio hidrostático, o mesmo princípio físico visto aqui para estrelas
+- [Curso ON — Aula 01: Conceito e Histórico](pt-br/resource/curso-on/aula-01-conceito-e-historico) — a mesma nomenclatura de populações I/II/III, com o histórico completo de Baade a Searle & Zinn (curso de um semestre, escopo mais longo que este minicurso)
+- [Curso ON — Aula 03: Magnitudes, Cores e Classificação Espectral](pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral) — classificação OBAFGKM revisitada com a física atômica completa por trás das linhas
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — minha pesquisa usa exatamente o espectro GALAH DR4 introduzido aqui
 

@@ -127,6 +127,7 @@ O **J-PAS** (*Javalambre Physics of the Accelerating Universe Astrophysical Surv
 - [Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01)
 - [Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03)
 - [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) — uso o GALAH DR4 citado aqui na minha própria pesquisa
+- [Curso ON — Aula 02: Diagrama HR e Aglomerados Estelares](pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — a mesma dicotomia aberto/globular, com IMF e isócronas desenvolvidas em detalhe
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection)
 
 ---
