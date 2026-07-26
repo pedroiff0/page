@@ -11,7 +11,7 @@ tags:
 # 📄 ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF
 
 > [!note] Resumo
-> Desenvolvimento da classe tipográfica `ifftese.cls` e do pacote de extensão `macros.sty` para LaTeX, com o objetivo de automatizar o cumprimento das normas ABNT (NBR 14724, NBR 6027) em trabalhos acadêmicos do Instituto Federal Fluminense — reduzindo drasticamente o tempo gasto formatando manualmente capas, tabelas, figuras e elementos pré/pós-textuais. Apresentado no [CONEPE 2026](pt-br/media/2026/conepe-2026) (Campos Guarus, RJ), em coautoria com [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja), [Maria Luiza Linhares Dantas](https://www.mlldantas.com) e A. M. O. Figueiredo.
+> Desenvolvimento da classe tipográfica `ifftese.cls` e do pacote de extensão `macros.sty` para LaTeX, com o objetivo de automatizar o cumprimento das normas ABNT (NBR 14724, NBR 6027) em trabalhos acadêmicos do Instituto Federal Fluminense — reduzindo drasticamente o tempo gasto formatando manualmente capas, tabelas, figuras e elementos pré/pós-textuais. Apresentado no [CONEPE 2026](pt-br/media/2026/conepe-2026) (Campos Guarus, RJ), em coautoria com [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja), [Maria Luiza Linhares Dantas](https://www.mlldantas.com) e [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora)
 
 <div class="media-carousel">
   <a href="/pt-br/research/relatex" class="carousel-slide">

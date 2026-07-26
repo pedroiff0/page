@@ -396,35 +396,28 @@ details.author-details[open] .author-summary {
   object-fit: cover;
   display: block;
   cursor: zoom-in;
-  /* Revert instantly (no delay) the moment the mouse leaves. */
-  transition: all 0s ease 0s;
 }
 
-/* Hover "lightbox": a dark backdrop fixed to the viewport, revealed only
-   while a slide is hovered — pairs with the img rule below, which lifts
-   the actual image out of the carousel (position: fixed) so it isn't
-   clipped by .media-carousel's overflow-x: auto. Mouse-only by nature
-   (no touch equivalent), so it degrades to nothing on touch devices.
-   Both wait 2s of continuous hover before triggering, so scrolling the
-   mouse across the carousel to reach the next/previous slide doesn't
-   pop the lightbox open by accident. */
-.carousel-slide::before {
+/* Hover "lightbox", driven by the .zoomed class (toggled by JS in this
+   plugin's afterDOMLoaded script, after 1s of sustained hover — see
+   dist/components/index.js). CSS :hover/transition-delay alone couldn't
+   do this reliably: `position` is a discrete property, so browsers were
+   applying it immediately regardless of transition-delay, flashing the
+   image in the wrong spot for that first second before snapping to the
+   correct centered/enlarged one. Explicit class toggling has no such
+   ambiguity — nothing here reacts until JS says so, and reverts the
+   instant the mouse leaves. Mouse-only by nature (no touch equivalent). */
+.carousel-slide.zoomed::before {
   content: "";
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.75);
-  opacity: 0;
-  pointer-events: none;
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   z-index: 500;
-  transition: opacity 0.15s ease 0s;
 }
 
-.carousel-slide:hover::before {
-  opacity: 1;
-  transition: opacity 0.15s ease 2s;
-}
-
-.carousel-slide:hover img {
+.carousel-slide.zoomed img {
   position: fixed;
   top: 50%;
   left: 50%;
@@ -440,7 +433,6 @@ details.author-details[open] .author-summary {
   box-shadow: 0 25px 60px rgba(0, 0, 0, 0.6);
   cursor: zoom-out;
   z-index: 501;
-  transition: all 0s ease 2s;
 }
 
 .slide-caption {

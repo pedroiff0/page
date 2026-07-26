@@ -32,6 +32,36 @@ function slide(href, imgSrc, alt, caption) {
   );
 }
 
+// Hover-zoom "lightbox": waits for a sustained hover before promoting the
+// image to a fixed, centered, enlarged preview over a blurred backdrop.
+// Done in JS (not CSS transition-delay) because `position` is a discrete
+// property — browsers apply it immediately regardless of transition-delay
+// when mixed with continuously-animatable properties under `all`, which
+// made the old CSS-only version briefly flash the image in the wrong
+// spot before snapping to the delayed, correct one.
+const CAROUSEL_ZOOM_SCRIPT = `
+function quartzCarouselZoomSetup() {
+  var DELAY = 1000;
+  document.querySelectorAll(".carousel-slide").forEach(function (slide) {
+    if (slide.dataset.zoomBound === "true") return;
+    slide.dataset.zoomBound = "true";
+    var timer = null;
+    slide.addEventListener("mouseenter", function () {
+      clearTimeout(timer);
+      timer = setTimeout(function () {
+        slide.classList.add("zoomed");
+      }, DELAY);
+    });
+    slide.addEventListener("mouseleave", function () {
+      clearTimeout(timer);
+      slide.classList.remove("zoomed");
+    });
+  });
+}
+document.addEventListener("nav", quartzCarouselZoomSetup);
+document.addEventListener("render", quartzCarouselZoomSetup);
+`;
+
 function PhotoCarouselConstructor() {
   const PhotoCarousel = (props) => {
     const fileData = props?.fileData ?? {};
@@ -100,6 +130,7 @@ function PhotoCarouselConstructor() {
       }),
     );
   };
+  PhotoCarousel.afterDOMLoaded = CAROUSEL_ZOOM_SCRIPT;
   return PhotoCarousel;
 }
 
