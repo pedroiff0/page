@@ -1,7 +1,8 @@
 ---
 publish: false
-title: "Livro-Texto de Cálculo"
+title: Livro-Texto de Cálculo
 created: 2026-03-13
+password: 409182ph
 ---
 
 > [!note] Em uma frase

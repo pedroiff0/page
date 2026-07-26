@@ -1,7 +1,8 @@
 ---
 publish: false
-title: "VerdeMenta — Controle de Caixa"
+title: VerdeMenta — Controle de Caixa
 created: 2026-04-01
+password: 409182ph
 ---
 
 > [!note] Em uma frase

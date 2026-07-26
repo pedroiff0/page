@@ -1,6 +1,6 @@
 ---
-publish: false
-title: "Aula 01"
+publish: true
+title: Aula 01
 titulo: Planetaria-Aula01
 disciplina: Ciências Planetárias
 conteudo: Sistema Solar — inventário, arquitetura e dinâmica orbital

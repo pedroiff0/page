@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 titulo: Bolsas
 disciplina: Sessão informativa
 conteudo: Sessão PG/PIBIC — bolsas e programas de pós-graduação (22/07)
-professor:
+professor: Hélio Dotto Perottoni
 created: 2026-07-22T00:00:00-03:00
 tags:
   - escola-de-inverno-on

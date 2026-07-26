@@ -3,6 +3,7 @@ publish: false
 created: 2026-07-22
 title: Projetos
 order: 5
+password: 409182ph
 ---
 
 > [!note] Resumo

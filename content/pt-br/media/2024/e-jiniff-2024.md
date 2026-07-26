@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: e-JINIFF 2024
 photoFolder: ejiniff2024
 created: 2024-08-23

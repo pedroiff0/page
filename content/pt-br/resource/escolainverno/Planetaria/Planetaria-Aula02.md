@@ -1,6 +1,6 @@
 ---
-publish: false
-title: "Aula 02"
+publish: true
+title: Aula 02
 titulo: Planetaria-Aula02
 disciplina: Ciências Planetárias
 conteudo: Pequenos corpos do Sistema Solar — o que a distribuição orbital revela sobre a formação do Sistema Solar

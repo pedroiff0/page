@@ -1,7 +1,8 @@
 ---
 publish: false
-title: "Guia de Git & GitHub"
+title: Guia de Git & GitHub
 created: 2026-03-13
+password: 409182ph
 ---
 
 > [!note] Em uma frase

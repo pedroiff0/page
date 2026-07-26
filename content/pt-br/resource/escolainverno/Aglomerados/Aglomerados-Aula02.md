@@ -1,6 +1,6 @@
 ---
-publish: false
-title: "Aula 02"
+publish: true
+title: Aula 02
 titulo: Aglomerados-Aula02
 disciplina: Astrofísica Extragaláctica
 conteudo: Formação hierárquica de estruturas e evolução de galáxias em ambientes de aglomerado

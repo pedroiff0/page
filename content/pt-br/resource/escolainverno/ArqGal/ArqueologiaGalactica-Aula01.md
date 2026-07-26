@@ -1,7 +1,6 @@
 ---
-publish: false
-password: "409182ph"
-title: "Aula 01"
+publish: true
+title: Aula 01
 titulo: ArqueologiaGalactica-Aula01
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Arqueologia Galáctica — reconstruindo a história da Galáxia a partir da composição química das estrelas

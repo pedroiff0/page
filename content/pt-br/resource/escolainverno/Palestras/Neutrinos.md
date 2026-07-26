@@ -1,6 +1,6 @@
 ---
-publish: false
-title: "Neutrinos"
+publish: true
+title: Neutrinos
 titulo: Neutrinos
 disciplina: Palestra — Física de Partículas e Cosmologia
 conteudo: Neutrinos e a Cosmologia — da física de partículas ao Universo em grande escala
@@ -154,7 +154,7 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 ## ❓ Perguntas e discussões da palestra
 
 > [!question] Perguntas
-> *(nenhuma pergunta registrada nesta palestra)*
+> 
 
 ---
 

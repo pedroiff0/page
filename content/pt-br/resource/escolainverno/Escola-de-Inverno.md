@@ -1,6 +1,6 @@
 ---
-publish: false
-title: "Resumo Geral"
+publish: true
+title: Resumo Geral
 titulo: Escola de Inverno 2026
 disciplina: Resumo Geral
 conteudo: Panorama de tudo o que foi visto na Escola de Inverno do Observatório Nacional (ON) 2026
@@ -145,5 +145,3 @@ Status das notas de cada aula/palestra e se já existe material oficial (slides/
 | [[RaioX\|Raio-X (P3)]] | ✅ Completa | ⏳ Não disponível |
 | [[Composicoes\|Composições (P4)]] | ⚠️ Mínima — reescrita a partir de notas soltas, aguardando slides | ⏳ Não disponível |
 
-> [!note] Próximos passos
-> Todo o site está **despublicado** (`publish: false`) — voltarei a publicar manualmente pelo Obsidian, nota por nota, quando cada uma estiver pronta. As notas marcadas acima como "mínima" (Computação, Cosmologia e Planetária — Aula 03, e a palestra de Composições) têm apenas um resumo genérico provisório, sem os slides oficiais ainda; serão reescritas por completo assim que o material chegar.

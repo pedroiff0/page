@@ -1,7 +1,7 @@
 ---
 publish: false
 created: 2026-07-22
-title: "Aula 03"
+title: Aula 03
 titulo: Planetaria-Aula03
 disciplina: Ciências Planetárias
 conteudo: Ciências Planetárias — provável continuação em direção a exoplanetas e planetologia comparada

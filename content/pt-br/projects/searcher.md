@@ -1,7 +1,8 @@
 ---
 publish: false
-title: "arXiv Searcher"
+title: arXiv Searcher
 created: 2026-03-13
+password: 409182ph
 ---
 
 > [!note] Em uma frase

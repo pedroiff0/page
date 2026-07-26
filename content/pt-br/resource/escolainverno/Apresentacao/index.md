@@ -1,7 +1,7 @@
 ---
-publish: false
+publish: true
 created: 2026-07-22
-title: "Apresentação de Pesquisa"
+title: Apresentação de Pesquisa
 ---
 
 > [!note] Resumo
@@ -14,4 +14,4 @@ title: "Apresentação de Pesquisa"
   </a>
 </div>
 
-Notas de preparação para a apresentação da minha pesquisa, reunindo o Banner SBPC 2026 e o Banner da Escola de Inverno.
+Notas de preparação para a apresentação da minha pesquisa

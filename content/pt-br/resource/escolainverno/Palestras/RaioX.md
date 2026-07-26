@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 titulo: RaioX
 disciplina: Palestra — Astrofísica Extragaláctica
 conteudo: De supernovas a aglomerados de galáxias — o que os raios-X revelam sobre o enriquecimento químico do Universo
@@ -69,8 +69,7 @@ O satélite **NewAthena**, previsto para ser lançado em 2037, deve permitir obs
 ## ⚠️ Pontos de atenção
 
 > [!important] Atenção
-> *(nenhuma anotação registrada ainda)*
-
+>
 ---
 
 ## 📌 Conceitos-chave

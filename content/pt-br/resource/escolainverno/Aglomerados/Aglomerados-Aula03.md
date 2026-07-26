@@ -1,6 +1,6 @@
 ---
-publish: false
-title: "Aula 03"
+publish: true
+title: Aula 03
 titulo: Aglomerados-Aula03
 disciplina: Astrofísica Extragaláctica
 conteudo: O Universo Através das Lentes Gravitacionais — formalismo de lentes fracas e aglomerados em fusão como laboratórios de matéria escura autointeragente

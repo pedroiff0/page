@@ -1,6 +1,6 @@
 ---
-publish: false
-title: "Aula 02"
+publish: true
+title: Aula 02
 titulo: Computacao-Aula02
 disciplina: Computação Científica de Alto Desempenho
 conteudo: Desempenho e arquitetura em MPI, e introdução a dados e aprendizado de máquina em astronomia

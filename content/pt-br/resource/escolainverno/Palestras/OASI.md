@@ -1,8 +1,8 @@
 ---
-publish: false
+publish: true
 titulo: OASI
 disciplina: Palestra
-conteudo: 15 anos do OASI (21/07)
+conteudo: 15 anos do OASI
 professor: Daniela Lazzaro
 created: 2026-07-20T15:50:00-03:00
 tags:

@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: MCTIA 2025
 photoFolder: mctia2025
 created: 2025-12-01

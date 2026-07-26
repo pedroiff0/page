@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: FEBRACE 2023
 photoFolder: febrace2023
 created: 2023-03-20

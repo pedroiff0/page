@@ -1,6 +1,6 @@
 ---
-publish: false
-title: "Aula 01 — Instalação e Ambiente"
+publish: true
+title: Aula 01 — Instalação e Ambiente
 created: 2026-03-16
 ---
 

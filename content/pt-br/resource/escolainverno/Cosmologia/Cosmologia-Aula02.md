@@ -1,7 +1,7 @@
 ---
-publish: false
+publish: true
 created: 2026-07-22
-title: "Aula 02"
+title: Aula 02
 titulo: Cosmologia-Aula02
 disciplina: Cosmologia
 conteudo: Relatividade Geral e o Princípio Cosmológico — a base teórica antes da Radiação Cósmica de Fundo

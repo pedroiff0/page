@@ -1,6 +1,6 @@
 ---
-publish: false
-title: "Detecção de Anomalias em Dados do Gaia"
+publish: true
+title: Detecção de Anomalias em Dados do Gaia
 created: 2025-09-01
 ---
 # 🔭 Detecção de Anomalias em Dados do Gaia
@@ -14,8 +14,8 @@ Minha pesquisa de iniciação científica busca **encontrar e caracterizar estre
 
 O trabalho está dividido em duas etapas, uma já publicada e outra em andamento:
 
-1. **Mapeamento não supervisionado via t-SNE em cima de parâmetros físico-químicos** (concluída, publicada) — reduz a dimensionalidade de temperatura, gravidade, metalicidade e cinemática de ~6.000 estrelas para encontrar agrupamentos e outliers, validando o método com métricas quantitativas e caracterizando a amostra com diagramas astrofísicos clássicos.
-2. **Detecção de anomalias diretamente nos espectros brutos** (em andamento) — replicando a metodologia de Traven et al. (2017) para o GALAH, aplicando t-SNE, UMAP, HDBSCAN, Isolation Forest e autoencoders diretamente sobre os pixels dos espectros normalizados, sem passar pelos parâmetros já derivados pelo pipeline do survey.
+1. **Mapeamento em cima de parâmetros físico-químicos** (concluída, publicada) — utiliza temperatura efetiva, gravidade, metalicidade e cinemática de ~6.000 estrelas para análise e caracterização inicial da amostra com diagramas astrofísicos clássicos.
+2. **Detecção de anomalias diretamente nos espectros brutos** (em andamento) — replicando a metodologia de Traven et al. (2017) para o GALAH, aplicando t-SNE, UMAP, HDBSCAN, diretamente sobre os pixels dos espectros normalizados, sem passar pelos parâmetros já derivados pelo pipeline do survey.
 
 > [!note] Nota sobre este texto
 > Esta página reúne o estado atual da pesquisa a partir da minha documentação de trabalho (metodologia, revisão bibliográfica, notas de reunião). A Etapa 1 corresponde a resultados já publicados; a Etapa 2 é trabalho ativo, com resultados preliminares — tratem-se como tal.
@@ -24,32 +24,25 @@ O trabalho está dividido em duas etapas, uma já publicada e outra em andamento
 
 ## 📊 Os dados
 
-| Catálogo | O que fornece | Tamanho |
-|---|---|---|
-| **GCNS** (Gaia Catalogue of Nearby Stars, Gaia DR3) | Astrometria e fotometria de altíssima precisão | ~330.000 estrelas a até 100 pc do Sol |
-| **GALAH DR4** (Buder et al., 2025) | Espectros de alta resolução (R≈28.000), até 30 abundâncias químicas, parâmetros atmosféricos (Teff, log g, [Fe/H]), idades via isócronas PARSEC+COLIBRI, cinemática (Galpy + potencial de McMillan 2017) | ~1.017.000 estrelas |
-| **Amostra cruzada (GCNS ∩ GALAH DR4)** | Estrelas com astrometria e espectroscopia completas | **~6.000 estrelas** |
+| Catálogo                                            | O que fornece                                                                                                                                                                                            | Tamanho                               |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **GCNS** (Gaia Catalogue of Nearby Stars, Gaia DR3) | Astrometria e fotometria de altíssima precisão                                                                                                                                                           | ~330.000 estrelas a até 100 pc do Sol |
+| **GALAH DR4** (Buder et al., 2025)                  | Espectros de alta resolução (R≈28.000), até 30 abundâncias químicas, parâmetros atmosféricos (Teff, log g, [Fe/H]), idades via isócronas PARSEC+COLIBRI, cinemática (Galpy + potencial de McMillan 2017) | ~1.017.000 estrelas                   |
+| **Amostra cruzada (GCNS ∩ GALAH DR4)**              | Estrelas com astrometria e espectroscopia completas                                                                                                                                                      | **~6.000 estrelas**                   |
 
 O GALAH observa cada estrela em **4 bandas (CCDs)** do espectrógrafo HERMES, no Anglo-Australian Telescope: azul (4718–4903 Å), verde (5649–5873 Å), vermelho (6481–6739 Å) e infravermelho (7590–7890 Å), cada uma com 4.096 pixels — ou seja, cada espectro é um vetor de **16.384 dimensões** antes de qualquer redução.
 
 ### A ferramenta que construí para explorar os espectros
 
-Para inspecionar espectros individuais durante a análise, desenvolvi um **visualizador web público de espectros do GALAH DR4** — mostra as 4 bandas de cada estrela (por `sobject_id`), com anotação das regiões de comprimento de onda associadas a cada grupo de elementos químicos (elementos de pico de ferro, captura de nêutrons, processo-α, CNO, Hα/Hβ, etc.):
+Para inspecionar espectros individuais durante a análise, desenvolvi um **visualizador web público de espectros do GALAH DR4** — mostra as 4 bandas de cada estrela (por `sobject_id`, disponível publicamente em: [SpectraViewer](https://spectraviewer.streamlit.app/)),  com anotação das regiões de comprimento de onda associadas a cada grupo de elementos químicos (elementos de pico de ferro, captura de nêutrons, processo-α, CNO, Hα/Hβ, etc.):
 
 ![Visualizador de espectros GALAH DR4: as 4 bandas (azul, verde, vermelho, infravermelho) de uma estrela, com as regiões espectrais de cada grupo de elementos químicos marcadas na legenda.](assets/anomaly-detection/spectra-viewer.png)
 
 ---
 
-## 1️⃣ Etapa 1 — Mapeamento t-SNE em parâmetros físico-químicos (publicado)
+## 1️⃣ Etapa 1 — Mapeamento parâmetros físico-químicos (publicado)
 
-Em vez de plotar diagramas prontos escolhidos à mão, alimentei o **t-SNE** diretamente com os parâmetros físico-químicos e cinemáticos de cada estrela (Teff, log g, [Fe/H], [Mg/Fe] e componentes de velocidade), deixando o algoritmo encontrar sozinho os agrupamentos, e só depois coloração pelos parâmetros conhecidos como teste de honestidade do método.
-
-**Validação quantitativa** — testei uma grade de perplexidades de 15 a 90 e medi:
-- **Divergência KL** — cai de forma constante com a perplexidade.
-- **Trustworthiness** — entre ~0,89 e 0,95 (estável).
-- **Continuity** — entre ~0,97 e 0,98 (estável).
-
-Ambas as métricas de vizinhança ficaram altas e estáveis, indicando que a projeção 2D preserva bem tanto a estrutura local (perplexidade 30) quanto a global (perplexidade 50) do espaço original de alta dimensão. Em ambas, aparece um **pequeno subgrupo destacado**, com gradiente interno de metalicidade próprio — candidato a população anômala, que motivou a Etapa 2.
+Os parâmetros físico-químicos e cinemáticos de cada estrela (Teff, log g, [Fe/H], [Mg/Fe] e componentes de velocidade) foram utilizados em gráficos clássicos da astrofísica (como Diagrama de Toomre, Tinsley-Wallerstein, Diagrama de Kiel ou HR, e histogramas).
 
 **Caracterização astrofísica** — usando a amostra completa: diagrama de Kiel (Teff × log g, colorido por [Fe/H], com isócronas PARSEC+COLIBRI), diagrama de Toomre (V × √(U²+W²), separando disco de halo) e diagrama de Tinsley-Wallerstein ([Mg/Fe] × [Fe/H], separando disco fino/espesso). A amostra é dominada por estrelas de sequência principal F/G/K, idade mediana ≈ 1,6 Gyr (0,1–14,8 Gyr), [Fe/H] mediano ≈ −0,19 dex. No diagrama de Toomre, **228 estrelas (3,8% da amostra) têm velocidade acima de 100 km/s** em relação ao Sol — candidatas a membros do halo, e a anomalia cinemática mais direta encontrada até agora.
 
@@ -93,8 +86,6 @@ Testei três combinações de redução de dimensionalidade + clustering sobre o
 | **UMAP + HDBSCAN** | Melhor equilíbrio até agora: 6 clusters, poucos outliers (~25) |
 | **t-SNE + DBSCAN** | Mais granular, mas inicialmente super-segmentado (86+ clusters); melhorou ajustando ε |
 | **PCA + HDBSCAN** | Muitos outliers (~4.469) — evidência de que a estrutura dos espectros é não linear e PCA não a captura bem |
-
-Também testei dois detectores de anomalia diretamente sobre o embedding: **Isolation Forest** (contaminação assumida de 10%, inspirada na fração de espectros peculiares encontrada por Traven et al. 2017) e um **autoencoder** simples (MLPRegressor, codificador 4096→64, threshold no percentil 95 do erro de reconstrução) — ambos ainda em fase de validação cruzada contra as categorias morfológicas de Traven et al. (2017).
 
 ---
 

@@ -1,7 +1,6 @@
 ---
-publish: false
-password: "409182ph"
-title: "Aula 02"
+publish: true
+title: Aula 02
 titulo: ArqueologiaGalactica-Aula02
 disciplina: Astrofísica Estelar / Via Láctea
 conteudo: Aglomerados Globulares e as três revoluções recentes da arqueologia galáctica

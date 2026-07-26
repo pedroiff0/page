@@ -1,7 +1,7 @@
 ---
-publish: false
+publish: true
 created: 2026-07-22
-title: "Aula 03"
+title: Aula 03
 titulo: Computacao-Aula03
 disciplina: Computação Científica de Alto Desempenho
 conteudo: Algoritmos clássicos de aprendizado de máquina (supervisionado e não supervisionado) aplicados a dados astronômicos

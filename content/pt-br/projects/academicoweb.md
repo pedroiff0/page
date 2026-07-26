@@ -1,7 +1,8 @@
 ---
 publish: false
-title: "AcademicoWeb (arquivado)"
+title: AcademicoWeb (arquivado)
 created: 2026-03-13
+password: 409182ph
 ---
 
 > [!note] Em uma frase

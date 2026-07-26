@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 titulo: Composicoes
 disciplina: Palestra — Astrofísica Estelar
 conteudo: Composições químicas estelares com alta precisão e acurácia
@@ -35,11 +35,11 @@ A palestra parece ter percorrido dois eixos: (1) os **métodos** usados para med
 
 - **Largura equivalente:** mede a área de uma linha de absorção espectral para inferir a abundância do elemento correspondente — método clássico e mais simples.
 - **Síntese espectral** (Carlos et al. 2016): compara o espectro observado a espectros sintéticos gerados por modelos, ajustando a abundância até o melhor encaixe — mais robusto para linhas fracas ou misturadas com outras.
-- Antes de qualquer medida, é preciso corrigir efeitos instrumentais/atmosféricos (**atenuação atmosférica**) — o mesmo tipo de cuidado com dados espectroscópicos já discutido no curso-on (Aula 15).
+- Antes de qualquer medida, é preciso corrigir efeitos instrumentais/atmosféricos (**atenuação atmosférica**).
 
 ## ⚛️ Relógios químicos: processos-s e r
 
-Elementos formados por captura de nêutrons (curso-on, Aula 13) servem como **relógios químicos**, já que os processos-s e r ocorrem em ambientes e densidades de nêutrons diferentes:
+Elementos formados por captura de nêutrons servem como **relógios químicos**, já que os processos-s e r ocorrem em ambientes e densidades de nêutrons diferentes:
 
 - **Processo-s** (estrelas de baixa massa, fase AGB): produz elementos como **bário (Ba)** e **ítrio (Y)**, usados como indicadores de idade/história de enriquecimento.
 - **Processo-r** (estrelas de alta massa, supernovas): produz elementos como **európio (Eu)**, **gadolínio (Gd)** e **disprósio (Dy)**, via captura rápida de nêutrons em densidades muito mais altas que o processo-s.
@@ -55,8 +55,8 @@ Elementos formados por captura de nêutrons (curso-on, Aula 13) servem como **re
 - Carroll & Ostlie (2007) — *An Introduction to Modern Astrophysics* (livro-texto citado na palestra)
 - Carlos et al. (2016, 2019); Meléndez (2009); Amarsi et al. (2019) — depleção de elementos refratários em estrelas gêmeas solares
 - Huhn & Bitsch (2023) — citado na palestra, provável conexão entre formação planetária e composição estelar
-- [Curso ON — Aula 13: Nucleossíntese Estelar e Enriquecimento Químico](pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — os processos-s e r em mais detalhe
-- [Curso ON — Aula 16: Métodos de Determinação de Idades Estelares](pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares) — depleção de lítio como indicador de idade
+- %% [Curso ON — Aula 13: Nucleossíntese Estelar e Enriquecimento Químico](pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — os processos-s e r em mais detalhe
+- [Curso ON — Aula 16: Métodos de Determinação de Idades Estelares](pt-br/resource/curso-on/aula-16-determinacao-de-idades-estelares) — depleção de lítio como indicador de idade %%
 - [Neutrinos](pt-br/resource/escolainverno/palestras/neutrinos)
 - [OASI](pt-br/resource/escolainverno/palestras/oasi)
 - [Bolsas](pt-br/resource/escolainverno/palestras/bolsas)
