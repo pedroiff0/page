@@ -13,7 +13,7 @@ tags:
 # 💥 Understanding Dark Matter through Extragalactic Shocks
 
 > [!note] Summary
-> Junior Undergraduate Research project (CNPq/PIBIC-EM, Call 94/2022), advised by Prof. Ana Cecília Soja at IFF Bom Jesus do Itabapoana. I tested the accuracy of Dawson et al.'s (2013) code — which estimates the elapsed time since two galaxy clusters collided, via Monte Carlo — against ZuHone et al.'s (2018) dynamical simulations, as an indirect way to study dark matter's behavior during extreme collisions.
+> Junior Undergraduate Research project (CNPq/PIBIC-EM, Call 94/2022), advised by [Prof. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja) at IFF Bom Jesus do Itabapoana. I tested the accuracy of Dawson et al.'s (2013) code — which estimates the elapsed time since two galaxy clusters collided, via Monte Carlo — against ZuHone et al.'s (2018) dynamical simulations, as an indirect way to study dark matter's behavior during extreme collisions.
 
 <div class="media-carousel">
   <a href="/en/research/dark-matter-shocks" class="carousel-slide">

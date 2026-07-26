@@ -11,15 +11,14 @@ type: blog
 # 🏫 Mostra do Conhecimento - 2026
 
 > [!note] Resumo
-> \[1-2 frases: o que é a Mostra do Conhecimento (IFF), o que você apresentou (pôster/oral/projeto) e o resultado ou destaque, se houver.]
+> 
 
 ## 🗓️ Sobre o evento
 
-Página dedicada à participação na **\[nome completo da Mostra do Conhecimento — ex: Mostra do Conhecimento do IFF, campus Bom Jesus do Itabapoana]**, em \[cidade/UF], realizada de \[data de início] a \[data de término] de \[mês] de \[ano] — \[uma frase de contexto: porte do evento, quem organiza, se for relevante].
+Página dedicada à participação na **[Mostra do Conhecimento](https://eventos.iff.edu.br/mostradoconhecimento2026) do IFF, campus Bom Jesus do Itabapoana**, em Bom Jesus do Itabapoana - RJ, realizada de 21 a 26 de setembro de 2026.
 
 ## 👋 Minha participação
 
-\[O que você apresentou — título do trabalho, formato (pôster/oral/projeto), com quem (coautores/equipe) e sob orientação de quem. Se houve prêmio, classificação ou repercussão, diga aqui. Se o trabalho já tinha sido apresentado antes em outro evento, linke a versão anterior.]
 
 ## 🎤 Palestras e minicursos assistidos
 
@@ -27,8 +26,15 @@ _(seção opcional — apague esta seção inteira se o evento não teve program
 
 - **\[Título da palestra/minicurso]** — \[Palestrante], \[data]. \[Uma frase sobre o conteúdo, se valer a pena registrar.]
 
+> [!note] Opinião
+> Aguardando!
+
+## 📎 Banner
+
+> [!note] Banner apresentado:
+> Ainda não foi feito!
+
 ## 🔗 Referências e correlatos
 
-- Fonte: [nome do veículo/site oficial do evento](url)
-- [Página de pesquisa relacionada](caminho) — pesquisa completa por trás da apresentação
-- [Nome do evento anterior](caminho) — versão anterior do mesmo trabalho, se aplicável
+- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — pesquisa completa por trás do pôster
+- [SAB 2025](pt-br/media/2025/sab-2025) — versão anterior do mesmo pôster

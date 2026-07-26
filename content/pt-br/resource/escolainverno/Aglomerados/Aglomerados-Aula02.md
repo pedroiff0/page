@@ -25,7 +25,7 @@ professor: Rogério Monteiro-Oliveira
 
 > [!info] Informações da aula
 > **Tema:** Formação hierárquica de estruturas e como o ambiente de um aglomerado transforma as galáxias que caem nele — continuação de [[Aglomerados-Aula01|Aula 01]]
-> **Professor:** Prof. Dr. Rogério Monteiro-Oliveira
+> **Professor:** Prof. Dr. [Rogério Monteiro-Oliveira](https://www.monteiro-oliveira.com)
 
 ---
 

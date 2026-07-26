@@ -1,31 +1,34 @@
 ---
-publish: false
+publish: true
 title: CONFICT - 2026
 photoFolder: confict2026
 created: 2026-07-18T13:50:21.240-03:00
 type: blog
 ---
-# 🔬 CONFICT ON - 2026
+# 🔬 CONFICT - 2026
 
 > [!note] Resumo
-> [1-2 frases: o que é o CONFICT, o que você apresentou (pôster/oral/projeto) e o resultado ou destaque, se houver.]
+> O Congresso Fluminense ocorre todos os anos, geralmente em Maio, e promove a ciência feita dentro do contexto do interior do estado do Rio de Janeiro, com os vários campus do IFF, e da UENF.
 
 ## 🗓️ Sobre o evento
 
-Página dedicada à participação n[o/a] **[nome completo do CONFICT]**, em [cidade/UF], realizad[o/a] de [data de início] a [data de término] de [mês] de [ano] — [uma frase de contexto: porte do evento, quem organiza, se for relevante].
+Página dedicada à participação no **[Congresso Fluminense de Iniciação Científica e Tecnológica](https://www.even3.com.br/confict-conpg-2026/) do IFF e UENF**, em Campos dos Goytacazes - RJ, realizada de 25 a 29 de Maio de 2026.
 
 ## 👋 Minha participação
 
-[O que você apresentou — título do trabalho, formato (pôster/oral/projeto), com quem (coautores/equipe) e sob orientação de quem. Se houve prêmio, classificação ou repercussão, diga aqui. Se o trabalho já tinha sido apresentado antes em outro evento, linke a versão anterior.]
+Apresentei o meu trabalho de pesquisa em uma sessão de apresentação oral, e assisti outras apresentações orais e banners.
 
-## 🎤 Palestras e minicursos assistidos
+> [!note] Opinião
+> Foi legal apresentar de forma oral o trabalho que estava acostumado a apresentar em formato de Banner!
 
-*(seção opcional — apague esta seção inteira se o evento não teve programação de palestras/minicursos, ou se você não assistiu nenhum)*
+## 📎 Slides
 
-- **[Título da palestra/minicurso]** — [Palestrante], [data]. [Uma frase sobre o conteúdo, se valer a pena registrar.]
+> [!note] Slide apresentado:
+> ![[assets/slides/slides_confict.pdf]]
+> Referente à: ![[assets/banners/BannerSBPC26.pdf]]
 
 ## 🔗 Referências e correlatos
 
-- Fonte: [nome do veículo/site oficial do evento](url)
-- [Página de pesquisa relacionada](caminho) — pesquisa completa por trás da apresentação
-- [Nome do evento anterior](caminho) — versão anterior do mesmo trabalho, se aplicável
+- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — pesquisa completa por trás do pôster
+- [SAB 2025](pt-br/media/2025/sab-2025) — versão anterior do mesmo pôster
+

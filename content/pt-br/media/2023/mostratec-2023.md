@@ -17,7 +17,16 @@ type: blog
 
 Página dedicada à participação na **Mostra Internacional de Ciência e Tecnologia (MOSTRATEC)**, em Novo Hamburgo (RS), de 23 a 27 de outubro de 2023 — a maior e mais tradicional feira de ciências da América Latina, com mais de 800 projetos de 15 países.
 
-Apresentei o projeto **"Entendendo a Matéria Escura através de choques Extragalácticos"**, com financiamento do CNPq. A Gabriela Lamão e o Daniel Martins, colegas do IFF Bom Jesus, também estiveram lá com o projeto "A real influência da astronomia", apoiado pela FAPERJ. Recebi boas avaliações e sugestões de melhoria — e, além da ciência, foi uma troca cultural valiosa com estudantes de tantos países diferentes.
+Apresentei o projeto **"Entendendo a Matéria Escura através de choques Extragalácticos"**, com financiamento do CNPq. Este mesmo trabalho já havia sido apresentado em uma outra Feira naquele mesmo ano, confira em [[febrace-2023|FEBRACE 2023]].  A Gabriela Lamão e o Daniel Martins, meus amigos do IFF Bom Jesus, também estiveram lá com o projeto "A real influência da astronomia", apoiado pela FAPERJ. Recebi boas avaliações e sugestões de melhoria — e, além da ciência, foi uma troca cultural valiosa com estudantes de tantos países diferentes. 
+
+> [!note] Opinião
+> Essa era a minha segunda grande feira de ciências em menos de um ano! Após a FEBRACE eu demorei um tempo até absorver completamente os ensinamentos e mudança de perspectivas que obtive, e logo assim (uns 7 meses depois) veio a MOSTRATEC. Dessa vez eu fui acompanhado com amigos, e a experiência melhor ainda! Conheci pessoas de outros países, que foi muito interessante ver como é a ciência fora do Brasil também, a troca cultural foi extremamente importante. Além disso, também conhecemos Gramado, que é uma cidade muito linda e aconchegante, graças à organização da Feira! Embora não ganhamos nenhuma premiação, a experiência com toda a certeza valeu muito! 
+
+## 📎 Banner
+
+> [!note] Banners apresentados:
+> Laterais: ![[assets/banners/BannerMostratecL23.pdf]]
+> Centro: ![[assets/banners/BannerMostratecC23.pdf]]
 
 ## 🔗 Referências e correlatos
 

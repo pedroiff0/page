@@ -26,7 +26,7 @@ professor: Rogério Monteiro-Oliveira
 
 > [!info] Informações da aula
 > **Tema:** O Universo Através das Lentes Gravitacionais (continuação de [[Aglomerados-Aula02|Aula 02]])
-> **Professor:** Prof. Dr. Rogério Monteiro-Oliveira
+> **Professor:** Prof. Dr. [Rogério Monteiro-Oliveira](https://www.monteiro-oliveira.com)
 
 ---
 
@@ -105,7 +105,7 @@ O **Aglomerado Bala** (1E 0657-56) é o exemplo clássico: nas imagens da colis�
 
 Aglomerados em fusão funcionam como **grandes colisores de partículas**: a desvantagem é a baixa energia por partícula, mas a vantagem é o número descomunal de partículas de matéria escura envolvidas ($\sim 10^{70}$) — tornando-os o melhor lugar para testar a SIDM. A lógica da estimativa: comparando o quanto cada componente (matéria escura, gás, galáxias) se desloca após a colisão, é possível estimar (ou pelo menos colocar um limite de ordem de grandeza) na seção de choque de autointeração $\sigma/m$ da matéria escura — sendo que $\sigma/m|_{\text{gás}} \gg \sigma/m|_{\text{galáxias}}$ (o gás interage fortemente consigo mesmo via pressão/atrito hidrodinâmico, enquanto galáxias e matéria escura, em princípio, não colidem da mesma forma).
 
-É exatamente esse tipo de anatomia pós-colisão — o deslocamento relativo entre os componentes, comparado com modelos físicos da colisão — que Rogério Monteiro-Oliveira pesquisa no Observatório Nacional: determinar com precisão a anatomia de aglomerados pós-colisão, integrando o mapeamento de massa via lentes fracas à dinâmica das galáxias membro (obtida via espectroscopia). A aula cita como exemplos os aglomerados **A1758**, **A3376** e **SPT-CL J0307-6225**.
+É exatamente esse tipo de anatomia pós-colisão — o deslocamento relativo entre os componentes, comparado com modelos físicos da colisão — que [Rogério Monteiro-Oliveira](https://www.monteiro-oliveira.com) pesquisa no Observatório Nacional: determinar com precisão a anatomia de aglomerados pós-colisão, integrando o mapeamento de massa via lentes fracas à dinâmica das galáxias membro (obtida via espectroscopia). A aula cita como exemplos os aglomerados **A1758**, **A3376** e **SPT-CL J0307-6225**.
 
 > [!tip] Conexão com minha própria pesquisa
 > Esse é exatamente o mesmo tipo de problema da minha pesquisa em [Entendendo a Matéria Escura a partir de Choques Extragalácticos](pt-br/research/dark-matter-shocks): o código de Dawson (2013) estima o tempo decorrido desde a colisão de um par de aglomerados (incluindo o próprio Aglomerado Bala como caso de referência) a partir de parâmetros observacionais — o mesmo tipo de "anatomia pós-colisão" discutida aqui, embora com foco na cronologia da colisão em vez da seção de choque de autointeração da matéria escura.

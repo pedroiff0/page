@@ -55,3 +55,12 @@ Publicação normalmente acontece via:
 - **Nunca espelhar `05 - Recursos` inteiro.** Boa parte do conteúdo lá é: (a) cópias de livros com direitos autorais de terceiros, ou (b) provas/trabalhos pessoais com nome completo. Publicar isso no site público seria infração de copyright e exposição de dados pessoais, respectivamente.
 - Artigos científicos (`01 - Projetos/Anomaly_Detection/papers/`): a pasta `Anotacoes/` tem sínteses em PT geradas automaticamente (pdftotext/OCR) — algumas têm erro de extração visível (símbolos gregos, fórmulas quebradas). Ao publicar, extrair só a seção `## Síntese PT (didática)` (geralmente limpa) e a citação/BibTeX de `Notes/`; **não publicar os blocos de citação direta/OCR bruto**.
 - **Biblioteca de PDFs** (`scripts/import-biblioteca.sh`): curadoria fechada em 2026-07-19 sobre `05 - Recursos/Livros e Apostilas` (4,3GB, 270 arquivos). Só entram os ~62 arquivos (~330MB) com licença aberta verificada no texto do próprio PDF (Rede e-Tec/MEC, Escola Técnica Aberta, UAB, CETAM, CC, ou permissão explícita do autor). Ficam de fora: scans de livros comerciais (Stewart, Halliday, Tanenbaum, Kurose, Iezzi, etc. — muitos vindos de z-lib/pdfcoffee/kupdf), catálogos, duplicatas e a pasta `Provas IFF` (material pessoal com nome completo). O script é executado pelo dono do site, não por sessões automatizadas. Enquanto os PDFs não são importados, as páginas linkam o [ProEdu](https://proedu.rnp.br) (host oficial dos livros e-Tec); depois da importação, trocar para links locais `assets/biblioteca/<area>/<arquivo>.pdf`.
+
+## Pessoas com página própria
+
+Sempre que uma nota mencionar uma destas pessoas pela primeira vez, linkar o nome pra página pessoal dela:
+
+- Ana Cecília Soja: [https://integra.iff.edu.br/p/ana-cecilia-soja](https://integra.iff.edu.br/p/ana-cecilia-soja)
+- Maria Luiza Linhares Dantas: [https://www.mlldantas.com](https://www.mlldantas.com)
+- Rogério Monteiro-Oliveira: [https://www.monteiro-oliveira.com](https://www.monteiro-oliveira.com)
+- Maycon Jorge Deláqua da Silva: [https://mayconjdelaqua.vercel.app/](https://mayconjdelaqua.vercel.app/)

@@ -17,7 +17,10 @@ type: blog
 
 Página dedicada à etapa institucional do **e-JINIFF 2024 (Jogos Eletrônicos da Rede Federal)**, organizada pelo Campus Cabo Frio com a participação de várias unidades do IFF, em agosto de 2024.
 
-Fui organizador da equipe do campus Bom Jesus do Itabapoana, que competiu em cinco modalidades de e-sports (além de um torneio de xadrez). Conquistamos o **1º lugar em Valorant**, com o Marcus Vinicius (Curso Técnico em Informática), e o **3º lugar em Free Fire**, com o time formado por Carlos Henrique Brasil, Breno dos Santos Souza, Heitor Gabriel Lamão Pontes e Kaíque Cezar Lima. Também participamos de League of Legends, com o Márcio Alves Teixeira Júnior (Engenharia de Computação) como técnico. A ideia agora é expandir os e-sports no campus com projetos de treino e um torneio próprio na Semana de Computação.
+Fui organizador da equipe do campus Bom Jesus do Itabapoana, que competiu em cinco modalidades de e-sports (além de um torneio de xadrez). Conquistamos o **1º lugar em Valorant**, com o Marcus Vinicius (Curso Técnico em Informática), e o **3º lugar em Free Fire**. Também participamos de League of Legends, embora nenhuma vitória. A ideia agora é expandir os e-sports no campus com projetos de treino e um torneio próprio na Semana de Computação.
+
+> [!note] Opinião
+> Apesar do caos dos jogos, foi interessante ver que a comunidade também se interessa por jogos eletrônicos! Infelizmente por falta de suporte não levamos a participação à diante, mas foi uma boa experiência! 
 
 ## 🔗 Referências e correlatos
 

@@ -13,7 +13,7 @@ tags:
 # 💥 Entendendo a Matéria Escura a partir de Choques Extragalácticos
 
 > [!note] Resumo
-> Projeto de Iniciação Científica Júnior (CNPq/PIBIC-EM, Edital 94/2022), orientado pela Prof.ª Ana Cecília Soja no IFF Bom Jesus do Itabapoana. Testei a acurácia do código de Dawson et al. (2013) — que estima o tempo decorrido desde a colisão de dois aglomerados de galáxias via Monte Carlo — contra as simulações dinâmicas de ZuHone et al. (2018), como forma indireta de estudar o comportamento da matéria escura durante colisões extremas.
+> Projeto de Iniciação Científica Júnior (CNPq/PIBIC-EM, Edital 94/2022), orientado pela [Prof.ª Ana Cecília Soja ](https://integra.iff.edu.br/p/ana-cecilia-soja) no IFF Bom Jesus do Itabapoana. Testei a acurácia do código de Dawson et al. (2013) — que estima o tempo decorrido desde a colisão de dois aglomerados de galáxias via Monte Carlo — contra as simulações dinâmicas de ZuHone et al. (2018), como forma indireta de estudar o comportamento da matéria escura durante colisões extremas.
 
 <div class="media-carousel">
   <a href="/pt-br/research/dark-matter-shocks" class="carousel-slide">

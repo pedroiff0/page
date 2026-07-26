@@ -13,7 +13,7 @@ published: 2026-07-25T23:58:08.065-03:00
 
 ## 🌌 Overview
 
-My undergraduate research project looks for and characterizes **anomalous stars in the solar neighborhood**, cross-matching high-precision astrometry from the **Gaia Catalogue of Nearby Stars (GCNS)** with high-resolution spectroscopy from **GALAH DR4**. The project is advised by Prof. Dr. Maria Luiza Linhares Dantas (Instituto de Astrofísica, Pontificia Universidad Católica de Chile), with support from CNPq and IFF.
+My undergraduate research project looks for and characterizes **anomalous stars in the solar neighborhood**, cross-matching high-precision astrometry from the **Gaia Catalogue of Nearby Stars (GCNS)** with high-resolution spectroscopy from **GALAH DR4**. The project is advised by Prof. Dr. [Maria Luiza Linhares Dantas](https://www.mlldantas.com) (Instituto de Astrofísica, Pontificia Universidad Católica de Chile), with support from CNPq and IFF.
 
 The work is split into two stages, one already published and one ongoing:
 
@@ -137,3 +137,5 @@ Summary of the main methodological decisions made throughout the project, from m
 ## 🔗 References and related
 
 - [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) — preparation text for presenting Stage 1 (Portuguese; SBPC 2026 Banner and this Winter School's Banner).
+- [Understanding Dark Matter from Extragalactic Shocks](en/research/dark-matter-shocks) — another astronomy research project, also grounded in the dynamics/kinematics of gravitational systems
+- [Simulating the Impact of Satellites on Astronomical Observations](en/research/satellite-trail-removal) — another project with a computational focus applied to astronomical data

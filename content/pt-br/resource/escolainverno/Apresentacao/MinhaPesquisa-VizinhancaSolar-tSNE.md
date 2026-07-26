@@ -38,7 +38,7 @@ cssclasses:
 
 ---
 
-> [[assets/banners/BannerEscolaInverno.pdf]]
+> [[BannerEscolaInverno26.pdf]]
 > 📄 Banner Escola de Inverno — versão Avançada
 
 ---

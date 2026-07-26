@@ -8,27 +8,27 @@ photoFolder: conepe2026
 type: blog
 ---
 
-# 🎓 CONEPE - 2026
+# 🔬 CONEPE - 2026
 
 > [!note] Resumo
-> \[1-2 frases: o que é o CONEPE, o que você apresentou (pôster/oral/projeto) e o resultado ou destaque, se houver.]
+> O Congresso de Ensino Pesquisa e Extensão (CONEPE) ocorre todos os anos, geralmente em Setembro, e promove a ciência feita dentro do contexto do interior do estado do Rio de Janeiro, com os vários campus do IFF, e da UENF.
 
 ## 🗓️ Sobre o evento
 
-Página dedicada à participação n\[o/a] **\[nome completo do CONEPE — ex: Congresso Norte Fluminense de Ensino, Pesquisa e Extensão]**, em \[cidade/UF], realizad\[o/a] de \[data de início] a \[data de término] de \[mês] de \[ano] — \[uma frase de contexto: porte do evento, quem organiza, se for relevante].
+Página dedicada à participação no **[Congresso de Ensino Pesquisa e Extensão](https://conepe.guarus.iff.edu.br) do IFF *Campus* Guarus**, em Campos Guarus - RJ, realizada de 21 a 23 de Setembro de 2026.
 
 ## 👋 Minha participação
 
-\[O que você apresentou — título do trabalho, formato (pôster/oral/projeto), com quem (coautores/equipe) e sob orientação de quem. Se houve prêmio, classificação ou repercussão, diga aqui. Se o trabalho já tinha sido apresentado antes em outro evento, linke a versão anterior.]
+Apresentei o meu trabalho de pesquisa em uma sessão de apresentação oral, e assisti outras apresentações orais e banners.
 
-## 🎤 Palestras e minicursos assistidos
+> [!note] Opinião
+> Foi legal apresentar de forma oral o trabalho que desenvolvi para o Instituto, como forma de incentivo à pesquisa com uso de ferramentas profissionais, como o LaTeX.
 
-_(seção opcional — apague esta seção inteira se o evento não teve programação de palestras/minicursos, ou se você não assistiu nenhum)_
+## 📎 Slides
 
-- **\[Título da palestra/minicurso]** — \[Palestrante], \[data]. \[Uma frase sobre o conteúdo, se valer a pena registrar.]
+> [!note] Slides/Banner:
+> ReLaTEX: A classe LaTeX do Instituto Federal Fluminense
 
 ## 🔗 Referências e correlatos
 
-- Fonte: [nome do veículo/site oficial do evento](url)
-- [Página de pesquisa relacionada](caminho) — pesquisa completa por trás da apresentação
-- [Nome do evento anterior](caminho) — versão anterior do mesmo trabalho, se aplicável
+- [ReLaTeX](pt-br/research/relatex) — pesquisa completa por trás do pôster

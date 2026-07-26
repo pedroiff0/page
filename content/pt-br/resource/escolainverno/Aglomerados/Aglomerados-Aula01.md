@@ -26,7 +26,7 @@ professor: Rogério Monteiro-Oliveira
 
 > [!info] Informações da aula
 > **Tema:** Aglomerados de Galáxias: as maiores estruturas do Universo
-> **Professor:** Prof. Dr. Rogério Monteiro-Oliveira
+> **Professor:** Prof. Dr. [Rogério Monteiro-Oliveira](https://www.monteiro-oliveira.com)
 
 ---
 

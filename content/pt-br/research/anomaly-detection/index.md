@@ -13,7 +13,7 @@ published: 2026-07-26T10:29:19.560-03:00
 
 ## 🌌 Visão geral
 
-Minha pesquisa de iniciação científica busca **encontrar e caracterizar estrelas anômalas na vizinhança solar**, cruzando astrometria de altíssima precisão do **Gaia Catalogue of Nearby Stars (GCNS)** com espectroscopia de alta resolução do **GALAH DR4**. O projeto é orientado pela Prof.ª Dr.ª Maria Luiza Linhares Dantas (Instituto de Astrofísica da Pontificia Universidad Católica de Chile) e conta com apoio do CNPq e do IFF.
+Minha pesquisa de iniciação científica busca **encontrar e caracterizar estrelas anômalas na vizinhança solar**, cruzando astrometria de altíssima precisão do **Gaia Catalogue of Nearby Stars (GCNS)** com espectroscopia de alta resolução do **GALAH DR4**. O projeto é orientado pela Prof.ª Dr.ª [Maria Luiza Linhares Dantas](https://www.mlldantas.com) (Instituto de Astrofísica da Pontificia Universidad Católica de Chile) e conta com apoio do CNPq e do IFF.
 
 O trabalho está dividido em duas etapas, uma já publicada e outra em andamento:
 
@@ -127,3 +127,7 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 ## 🔗 Referências e correlatos
 
 - [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] — texto de preparação para apresentar a Etapa 1 (Banner SBPC 2026 e Banner desta Escola de Inverno).
+- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](pt-br/research/dark-matter-shocks) — outro projeto de pesquisa em Astronomia, também orientado por dinâmica/cinemática de sistemas gravitacionais
+- [Simulando o Impacto de Satélites em Observações Astronômicas](pt-br/research/satellite-trail-removal) — outro projeto com foco computacional aplicado a dados astronômicos
+- [SAB 2025](pt-br/media/2025/sab-2025) — cobertura da apresentação em pôster da Etapa 1
+- [Escola de Inverno ON - 2026](pt-br/media/2026/escolainverno-2026) — cobertura da apresentação atualizada do mesmo pôster

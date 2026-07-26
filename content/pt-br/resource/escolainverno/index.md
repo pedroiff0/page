@@ -50,7 +50,7 @@ Notas de aula da **Escola de Inverno em Astrofísica 2026** do [Observatório Na
 
 ## Minicursos
 
-- [Aglomerados de Galáxias](pt-br/resource/escolainverno/aglomerados) — Rogério Monteiro-Oliveira
+- [Aglomerados de Galáxias](pt-br/resource/escolainverno/aglomerados) — [Rogério Monteiro-Oliveira](https://www.monteiro-oliveira.com)
 - [Arqueologia Galáctica](pt-br/resource/escolainverno/arqgal) — João Victor Sales Silva
 - [Computação de Alto Desempenho](pt-br/resource/escolainverno/computação) — Fernando Roig e Lilianne Nakazono
 - [Cosmologia](pt-br/resource/escolainverno/cosmologia) — Carlos Bengaly
