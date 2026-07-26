@@ -83,3 +83,4 @@ Esse tipo de diagrama comprime toda a informação dinâmica de uma órbita (for
 - [Aula 09 — Órbitas, Potenciais e Integrais de Movimento](pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento) — base teórica de $E$, $L_z$ e das ações usadas aqui
 - [Aula 10 — Integração de Órbitas com galpy](pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — como esses mesmos parâmetros orbitais são calculados a partir de dados 6D individuais
 - [Apresentação de Pesquisa — Vizinhança Solar com t-SNE](pt-br/resource/escolainverno/apresentacao/minhapesquisa-vizinhancasolar-tsne) — o mesmo diagrama de Toomre usado aqui aparece na minha própria pesquisa para separar disco de halo
+- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — a dinâmica orbital vista aqui volta o foco para a química que originou essas populações
