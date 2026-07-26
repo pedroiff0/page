@@ -104,3 +104,4 @@ Metais no gás aumentam sua eficiência de **resfriamento radiativo** — o que 
 - [Curso ON — visão geral](pt-br/resource/curso-on)
 - [Aula 04 — Espectroscopia e Metalicidade](pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade) — a notação [Fe/H] usada para quantificar o produto acumulado de todos esses processos
 - [Escola de Inverno — Arqueologia Galáctica, Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — versão mais compacta dos processos-s/r, aqui expandida com toda a classificação B²FH
+- [Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos](pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso) — como as taxas relativas de SN II/Ia vistas aqui viram a ferramenta $[\alpha/\text{Fe}]$ para separar populações
