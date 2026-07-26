@@ -1,8 +1,9 @@
 ---
-publish: false
+publish: true
 title: À propos de moi
 created: 2026-07-18T14:50:18.601-03:00
 modified: 2026-07-23
+published: 2026-07-26T10:01:58.952-03:00
 ---
 
 > [!info] Bienvenue !
@@ -41,6 +42,7 @@ Vous préférez ne pas ouvrir votre client e-mail ? Remplissez les champs ci-des
 </form>
 
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
 <script>
 (function() {
   // TODO(Pedro): remplacez par vos identifiants depuis https://dashboard.emailjs.com

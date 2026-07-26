@@ -1,10 +1,13 @@
 ---
 publish: false
 title: MCTIA 2025
-photoFolder: mctia2025
 created: 2025-12-01
+modified: 2026-07-25T23:58:08.037-03:00
+published: 2026-07-25T23:58:08.037-03:00
+photoFolder: mctia2025
 type: blog
 ---
+
 # 🛰️ MCTIA 2025
 
 > [!note] Resumo

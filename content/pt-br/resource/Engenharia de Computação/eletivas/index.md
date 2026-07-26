@@ -1,7 +1,9 @@
 ---
 publish: false
+title: Eletivas (optativas)
 created: 2026-07-21
-title: "Eletivas (optativas)"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 order: 11
 ---
 

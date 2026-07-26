@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Física Experimental III
 created: 2026-07-18
-title: "Física Experimental III"
+modified: 2026-07-25T23:58:08.057-03:00
+published: 2026-07-25T23:58:08.057-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -31,21 +33,26 @@ Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja,
 ## 📖 Conteúdo Programático
 
 1. Eletrostática
- - Processos de eletrização;
- - Lei de Coulomb;
- - Campo elétrico;
- - Potencial elétrico, superfícies equipotenciais;
- - Capacitores;
+
+- Processos de eletrização;
+- Lei de Coulomb;
+- Campo elétrico;
+- Potencial elétrico, superfícies equipotenciais;
+- Capacitores;
+
 2. Eletrodinâmica
- - Conceitos fundamentais, corrente e cargas em movimentos
- - Resistência, resistividade e as Leis de Ohm
- - Circuitos simples com uma e mais malhas
- - Instrumentos de medidas (voltímetro, amperímetro e ohmímetro)
+
+- Conceitos fundamentais, corrente e cargas em movimentos
+- Resistência, resistividade e as Leis de Ohm
+- Circuitos simples com uma e mais malhas
+- Instrumentos de medidas (voltímetro, amperímetro e ohmímetro)
+
 3. Campo Magnético
- - A força magnética;
- - Torque sobre espiras com corrente e ímã;
- - Campo magnético de correntes;
- - Transformadores.
+
+- A força magnética;
+- Torque sobre espiras com corrente e ímã;
+- Campo magnético de correntes;
+- Transformadores.
 
 ## 📕 Bibliografia Básica
 

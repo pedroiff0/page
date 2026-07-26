@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 02 — Diagrama HR e Aglomerados Estelares"
-titulo: CursoON-Aula02
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Aglomerados abertos vs. globulares, função de massa inicial (IMF), isócronas e a nomenclatura de populações I, II e III
-professor: Hélio Dotto Perottoni
+title: Aula 02 — Diagrama HR e Aglomerados Estelares
 created: 2026-07-23
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -15,7 +12,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula02
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Aglomerados abertos vs. globulares, função de massa inicial (IMF), isócronas e a nomenclatura de populações I, II e III
+professor: Hélio Dotto Perottoni
 ---
+
 # 🌟 Aula 02 — Diagrama HR e Aglomerados Estelares
 
 > [!note] Resumo
@@ -49,16 +52,17 @@ Propriedades visuais características: muitas estrelas azuis, estrelas individua
 
 ### Aglomerados globulares
 
-Dominados por estrelas velhas (mais vermelhas), ocupando diferentes estágios evolutivos no HR — ramos horizontal e das gigantes vermelhas bem definidos, com um *turnoff* aparente característico. Por serem velhos mas ainda apresentarem coesão espacial, devem ser **fortemente** ligados gravitacionalmente — o que é consistente com a grande densidade e quantidade de estrelas (dezenas de milhares a milhões). Por serem velhos, suas estrelas são tipicamente pobres em metais.
+Dominados por estrelas velhas (mais vermelhas), ocupando diferentes estágios evolutivos no HR — ramos horizontal e das gigantes vermelhas bem definidos, com um _turnoff_ aparente característico. Por serem velhos mas ainda apresentarem coesão espacial, devem ser **fortemente** ligados gravitacionalmente — o que é consistente com a grande densidade e quantidade de estrelas (dezenas de milhares a milhões). Por serem velhos, suas estrelas são tipicamente pobres em metais.
 
 > [!tip] Como saber quais estrelas realmente pertencem a um aglomerado?
 > Hoje é possível combinar movimentos próprios e paralaxes medidos pela missão **Gaia** com modelos teóricos de mesma idade/metalicidade para determinar a probabilidade de associação — aceitando, por exemplo, apenas estrelas com >99,9% de probabilidade de membro, o que produz um diagrama HR "limpo".
 
 ## 🧮 Função de Massa Inicial (IMF)
 
-A **IMF** (*initial mass function*) descreve a probabilidade de uma estrela com determinada massa se formar em determinado ambiente [Offner et al. 2014]. Da distribuição, percebe-se que a probabilidade de formação de estrelas de alta massa ($>10\,M_\odot$) é muito baixa em todos os casos observados.
+A **IMF** (_initial mass function_) descreve a probabilidade de uma estrela com determinada massa se formar em determinado ambiente \[Offner et al. 2014]. Da distribuição, percebe-se que a probabilidade de formação de estrelas de alta massa ($>10\,M_\odot$) é muito baixa em todos os casos observados.
 
 > [!warning] Questões em aberto sobre a IMF
+>
 > - Como se comporta a IMF no limite de altíssimas massas ($\sim100\,M_\odot$)?
 > - Qual é a massa característica (pico da IMF)?
 > - A IMF é **universal**, ou varia entre ambientes de formação estelar?
@@ -74,13 +78,13 @@ Uma **isócrona** é uma curva no diagrama HR que representa uma população de 
 > [!warning] Isócrona ≠ trajetória evolutiva
 > Isócronas retratam populações estelares **inteiras** (todas as estrelas de um aglomerado, em um instante), enquanto trajetórias evolutivas descrevem a evolução de uma **estrela individual** ao longo do tempo. São conceitos frequentemente confundidos, mas ortogonais.
 
-Quatro parâmetros moldam o formato de uma isócrona: **avermelhamento**, **distância**, **idade** e **metalicidade** [Souza et al. 2020] — os mesmos quatro parâmetros que reaparecem na Aula 07 como parâmetros livres do ajuste de distâncias por aglomerados.
+Quatro parâmetros moldam o formato de uma isócrona: **avermelhamento**, **distância**, **idade** e **metalicidade** \[Souza et al. 2020] — os mesmos quatro parâmetros que reaparecem na Aula 07 como parâmetros livres do ajuste de distâncias por aglomerados.
 
-Populações com a **mesma idade** constituem o ambiente ideal para estudar como a evolução estelar depende da massa — comparando populações jovens e velhas lado a lado [Babusiaux et al. 2018].
+Populações com a **mesma idade** constituem o ambiente ideal para estudar como a evolução estelar depende da massa — comparando populações jovens e velhas lado a lado \[Babusiaux et al. 2018].
 
 ## 🗺️ Aglomerados no contexto da Galáxia
 
-Como aglomerados abertos têm populações jovens, eles devem estar ligados às regiões onde há gás para formar estrelas: o **plano galáctico**, especialmente o disco com braços espirais ricos em gás e poeira. Por isso, aglomerados abertos são usados para **mapear o disco e os braços espirais** [Hao et al. 2021; Castro-Ginard et al. 2021] — o catálogo de referência atual soma **5647 aglomerados abertos** [Hunt & Reffert 2024].
+Como aglomerados abertos têm populações jovens, eles devem estar ligados às regiões onde há gás para formar estrelas: o **plano galáctico**, especialmente o disco com braços espirais ricos em gás e poeira. Por isso, aglomerados abertos são usados para **mapear o disco e os braços espirais** \[Hao et al. 2021; Castro-Ginard et al. 2021] — o catálogo de referência atual soma **5647 aglomerados abertos** \[Hunt & Reffert 2024].
 
 Já os aglomerados globulares, por serem velhos, podem ocupar regiões muito distantes do plano da Galáxia — no halo.
 
@@ -88,7 +92,7 @@ Já os aglomerados globulares, por serem velhos, podem ocupar regiões muito dis
 
 - **População I:** jovens e ricas em metais. Tipo mais abundante na Galáxia; típicas de aglomerados abertos e braços espirais. **O Sol é uma estrela de População I.**
 - **População II:** velhas e pobres em metais. Típicas de aglomerados globulares, do halo da Galáxia e predominantes em galáxias elípticas.
-- **População III:** hipotéticas — seriam as **primeiras estrelas a nascer no Universo**, compostas apenas de H e He (+ traços de elementos leves), formadas antes de qualquer enriquecimento químico. **Nunca foi encontrada uma estrela de População III** — a menor metalicidade já observada é apenas $10^{-7}$ da proporção de elementos pesados do Sol [Frebel & Norris 2018].
+- **População III:** hipotéticas — seriam as **primeiras estrelas a nascer no Universo**, compostas apenas de H e He (+ traços de elementos leves), formadas antes de qualquer enriquecimento químico. **Nunca foi encontrada uma estrela de População III** — a menor metalicidade já observada é apenas $10^{-7}$ da proporção de elementos pesados do Sol \[Frebel & Norris 2018].
 
 ---
 

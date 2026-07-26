@@ -1,7 +1,9 @@
 ---
 publish: false
+title: GALAH — Bandas Interestelares Difusas
 created: 2026-07-18
-title: "GALAH — Bandas Interestelares Difusas"
+modified: 2026-07-25T23:58:08.057-03:00
+published: 2026-07-25T23:58:08.057-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Usa >872.000 espectros do GALAH para isolar Bandas Difusas Interestelares (DIBs), gerando catálogo de 183 features. Menos central ao seu tema, mas mostra uso de big data espectroscópico do GALAH.
 
-*Vogrin\vc, i\vc, Rok. (2023)*
+_Vogrin\vc, i\vc, Rok. (2023)_
 
 ## Síntese
 

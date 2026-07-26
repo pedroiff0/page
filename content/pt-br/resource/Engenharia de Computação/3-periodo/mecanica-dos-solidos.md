@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Mecânica dos Sólidos
 created: 2026-07-18
-title: "Mecânica dos Sólidos"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -30,67 +32,84 @@ Conceito de tensão, Forças distribuídas, Carregamentos axiais, Torção, Flex
 ## 📖 Conteúdo Programático
 
 1. Introdução ao conceito de tensão
- - Métodos da estática
- - Tensões nos elementos de uma estrutura
- - Tensão em um plano oblíquo
- - Tensões sob condições gerais de carregamento
- - Componentes de tensão
- - Considerações de projeto
+
+- Métodos da estática
+- Tensões nos elementos de uma estrutura
+- Tensão em um plano oblíquo
+- Tensões sob condições gerais de carregamento
+- Componentes de tensão
+- Considerações de projeto
+
 2. Forças distribuídas
- - Centro de gravidade e centroide de superfície
- - Centro de gravidade e centroide de sólidos
- - Momentos de inércia de superfícies
- - Momentos de inércia dos corpos
+
+- Centro de gravidade e centroide de superfície
+- Centro de gravidade e centroide de sólidos
+- Momentos de inércia de superfícies
+- Momentos de inércia dos corpos
+
 3. Tensão e deformação – carregamento axial
- - Conceito da tensão e deformação
- - problemas estaticamente indeterminados
- - Problemas que envolvem mudança de temperatura
- - Coeficiente de Poisson
- - Carregamento multiaxial
- - Deformação de cisalhamento
- - Distribuição de tensão e deformação específica sob carregamento axial – princípio de SaintVenant
- - Concentração de tensões
- - Deformações plásticas
+
+- Conceito da tensão e deformação
+- problemas estaticamente indeterminados
+- Problemas que envolvem mudança de temperatura
+- Coeficiente de Poisson
+- Carregamento multiaxial
+- Deformação de cisalhamento
+- Distribuição de tensão e deformação específica sob carregamento axial – princípio de SaintVenant
+- Concentração de tensões
+- Deformações plásticas
+
 4. Torção
- - Torção de eixo de seção circular
- - Ângulo de torção no regime elástico
- - Eixos estaticamente indeterminados – eixo de transmissão
+
+- Torção de eixo de seção circular
+- Ângulo de torção no regime elástico
+- Eixos estaticamente indeterminados – eixo de transmissão
+
 5. Flexão
- - Barras simétricas em flexão pura
- - Tensões e deformações no regime elástico
- - Deformação em uma seção transversal
- - Barra de material composto
- - Concentração de tensões
- - Cargas excêntricas
+
+- Barras simétricas em flexão pura
+- Tensões e deformações no regime elástico
+- Deformação em uma seção transversal
+- Barra de material composto
+- Concentração de tensões
+- Cargas excêntricas
+
 6. Análise e projeto de vigas em flexão
- - Diagrama de força cortante e momento fletor
- - Relação entre força, força cortante e momento fletor
- - Projeto de vigas Tensões de cisalhamento em vigas e elementos de parede fina
+
+- Diagrama de força cortante e momento fletor
+- Relação entre força, força cortante e momento fletor
+- Projeto de vigas Tensões de cisalhamento em vigas e elementos de parede fina
+
 7. Tensão de cisalhamento horizontal nas vigas
- - Cisalhamento longitudinal
- - Tensão de cisalhamento em elementos de parede fina
+
+- Cisalhamento longitudinal
+- Tensão de cisalhamento em elementos de parede fina
+
 8. Análise de transformação de tensão e deformação
- - Transformação do estado plano de tensão
- - Círculo de Mohr para o estado plano de tensão
+
+- Transformação do estado plano de tensão
+- Círculo de Mohr para o estado plano de tensão
+
 9. Colunas
- - Estabilidade de estruturas
- - Projeto de colunas
+
+- Estabilidade de estruturas
+- Projeto de colunas
 
 ## 📕 Bibliografia Básica
 
 1. BEER, F. P.; JOHNSTON Jr, E. R.; DEWOLF, J. T.; MASUREK, D. F. Mecânica dos Materiais. Tradução José Benaque Rubert. 7. ed. Porto Alegre: AMGH, 2015. 840 p.
-2. CRAIG Jr, R. R. Mecânica dos Materiais. T adução Jos Ro e to Mo aes d’Al eida, “id ei Pa io ik, Verônica Calado. ed. [Reimp]. Rio de Janeiro: LTC, 2017. 552 p.
-4. HIBBELLER, R. C. Resistencia dos Materiais. Tradução Sérgio Nascimento, Revisão técnica Sebastião Simões da Cunha. 10. ed. São Paulo: Pearson Education do Brasil, 2018. 754 p.
+2. CRAIG Jr, R. R. Mecânica dos Materiais. T adução Jos Ro e to Mo aes d’Al eida, “id ei Pa io ik, Verônica Calado. ed. \[Reimp]. Rio de Janeiro: LTC, 2017. 552 p.
+3. HIBBELLER, R. C. Resistencia dos Materiais. Tradução Sérgio Nascimento, Revisão técnica Sebastião Simões da Cunha. 10. ed. São Paulo: Pearson Education do Brasil, 2018. 754 p.
 
 ## 📗 Bibliografia Complementar
 
 1. BEER, F. P.; JOHNSTO JR, E. R.; MASUREK, D. F. Mecânica vetorial para engenheiros: estática.
 2. Tradução Clara Állyergra Lyra Peter. ed. Porto Alegre: AMGH, 2019. 634 p.
-4. DOWLING, N. Comportamento Mecânico dos Materiais. São Paulo: Cengage Learning, 2017.
-5. GERE, J., GOODNO, B. Mecânica dos Materiais. Tradução Roberto Henrique Torrejon. 8. ed. São Paulo:
-6. Cengage Learning, 2017.
-7. PHILPOT, T. A. Mecânica dos Materiais: Um Sistema Integrado de Ensino. ed. [Reimp]. Rio de Janeiro: LTC, 2019.
-9. RILEY, W. P., STURGES, L. D., MORRIS, D. H. Mecânica dos Materiais. ed. Rio de Janeiro: LTC, 2003.
-11. SCHÖN, C. G. Mecânica dos Materiais: Fundamentos e Tecnologia do Comportamento. São Paulo:
-12. Elsevier, 2013.
-13. UGURAL, A. C. Mecânica dos Materiais. Tradução Fernando Ribeiro da Silva. Rio de Janeiro: LTC, 2009.
+3. DOWLING, N. Comportamento Mecânico dos Materiais. São Paulo: Cengage Learning, 2017.
+4. GERE, J., GOODNO, B. Mecânica dos Materiais. Tradução Roberto Henrique Torrejon. 8. ed. São Paulo:
+5. Cengage Learning, 2017.
+6. PHILPOT, T. A. Mecânica dos Materiais: Um Sistema Integrado de Ensino. ed. \[Reimp]. Rio de Janeiro: LTC, 2019.
+7. RILEY, W. P., STURGES, L. D., MORRIS, D. H. Mecânica dos Materiais. ed. Rio de Janeiro: LTC, 2003.
+8. SCHÖN, C. G. Mecânica dos Materiais: Fundamentos e Tecnologia do Comportamento. São Paulo:
+9. Elsevier, 2013.
+10. UGURAL, A. C. Mecânica dos Materiais. Tradução Fernando Ribeiro da Silva. Rio de Janeiro: LTC, 2009.

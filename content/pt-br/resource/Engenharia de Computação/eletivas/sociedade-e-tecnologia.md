@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Sociedade e Tecnologia
 created: 2026-07-18
-title: "Sociedade e Tecnologia"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - eletivo
+  - disciplina
+  - eletivo
 ---
 
 > [!note] Sobre esta disciplina
@@ -30,26 +32,35 @@ Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico
 ## 📖 Conteúdo Programático
 
 1. Distinção das Ciências Sociais e Ciências Naturais
- - Distinção das Ciências Sociais e Ciências Naturais
- - As Especificidades das Ciências Sociais
+
+- Distinção das Ciências Sociais e Ciências Naturais
+- As Especificidades das Ciências Sociais
+
 2. Conhecimento Científico e Tecnológico
- - Formas de Conhecimento;
- - Conhecimento Científico
- - Conhecimento Tecnológico
+
+- Formas de Conhecimento;
+- Conhecimento Científico
+- Conhecimento Tecnológico
+
 3. Processos Produtivos e Relações de Trabalho na Sociedade Capitalista
- - O Modelo de Produção Taylorista-Fordista
- - O Modelo de Produção Flexível
- - As relações de Trabalho da Sociedade Atual
+
+- O Modelo de Produção Taylorista-Fordista
+- O Modelo de Produção Flexível
+- As relações de Trabalho da Sociedade Atual
+
 4. Técnica e Tecnologia na Sociedade Contemporânea
- - O Conceito de Técnica e Tecnologia
- - Tecnologia e Necessidades Sociais
- - Dimensões Sociais da Tecnologia
- - Tecnologia Desenvolvimento Social e Educação Tecnológica
+
+- O Conceito de Técnica e Tecnologia
+- Tecnologia e Necessidades Sociais
+- Dimensões Sociais da Tecnologia
+- Tecnologia Desenvolvimento Social e Educação Tecnológica
+
 5. Cultura e Diversidade Cultural
- - Conceito de Cultura e Diversidade
- - Globalização: Conceitos, Significados, Manifestações
- - Gênero
- - Tecnologia e Sociedade da Informação: Uma Questão de Inclusão
+
+- Conceito de Cultura e Diversidade
+- Globalização: Conceitos, Significados, Manifestações
+- Gênero
+- Tecnologia e Sociedade da Informação: Uma Questão de Inclusão
 
 ## 📕 Bibliografia Básica
 

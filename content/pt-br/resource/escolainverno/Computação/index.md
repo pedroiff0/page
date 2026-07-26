@@ -1,7 +1,9 @@
 ---
 publish: false
+title: Computação de Alto Desempenho
 created: 2026-07-22
-title: "Computação de Alto Desempenho"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 ---
 
 > [!note] Resumo

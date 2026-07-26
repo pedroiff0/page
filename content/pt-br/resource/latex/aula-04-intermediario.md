@@ -1,7 +1,9 @@
 ---
 publish: false
-title: "Aula 04 — Intermediário"
+title: Aula 04 — Intermediário
 created: 2026-03-16
+modified: 2026-07-25T23:58:08.049-03:00
+published: 2026-07-25T23:58:08.049-03:00
 ---
 
 > [!note] Resumo

@@ -1,7 +1,9 @@
 ---
 publish: false
+title: 8º Período
 created: 2026-07-21
-title: "8º Período"
+modified: 2026-07-25T23:58:08.049-03:00
+published: 2026-07-25T23:58:08.049-03:00
 order: 8
 ---
 

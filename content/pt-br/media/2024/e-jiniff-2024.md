@@ -1,10 +1,13 @@
 ---
 publish: false
 title: e-JINIFF 2024
-photoFolder: ejiniff2024
 created: 2024-08-23
+modified: 2026-07-25T23:58:08.037-03:00
+published: 2026-07-25T23:58:08.037-03:00
+photoFolder: ejiniff2024
 type: blog
 ---
+
 # 🎮 e-JINIFF 2024
 
 > [!note] Resumo

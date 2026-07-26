@@ -1,11 +1,13 @@
 ---
 publish: false
+title: LaTeX e Escrita Acadêmica
 created: 2026-07-23
-title: "LaTeX e Escrita Acadêmica"
+modified: 2026-07-25T23:58:08.049-03:00
+published: 2026-07-25T23:58:08.049-03:00
 tags:
- - recursos
- - latex
- - escrita
+  - recursos
+  - latex
+  - escrita
 ---
 
 > [!note] Resumo

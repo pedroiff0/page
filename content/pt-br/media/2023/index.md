@@ -2,6 +2,8 @@
 publish: false
 title: "2023"
 created: 2026-07-23
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 ---
 
 > [!note] Resumo

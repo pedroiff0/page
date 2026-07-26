@@ -1,7 +1,9 @@
 ---
 publish: false
+title: GCNS × GALAH DR4
 created: 2026-07-18
-title: "GCNS × GALAH DR4"
+modified: 2026-07-25T23:58:08.057-03:00
+published: 2026-07-25T23:58:08.057-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,11 +12,11 @@ tags:
 > [!note] Em resumo
 > Análise conjunta de ~6.000 estrelas comuns ao Gaia Catalogue of Nearby Stars (GCNS, 100 pc) e ao GALAH DR4 (até 30 elementos).
 
-*de Andrade, P.~H.~R. (2025)*
+_de Andrade, P.~H.~R. (2025)_
 
 ## Síntese
 
-Análise conjunta de ~6.000 estrelas comuns ao Gaia Catalogue of Nearby Stars (GCNS, 100 pc) e ao GALAH DR4 (até 30 elementos). Resultados preliminares: maioresia FGK do disco, idades medianas ~1,6 Gyr, [Fe/H]~-0,19. Útil para amostra local do seu projeto.
+Análise conjunta de ~6.000 estrelas comuns ao Gaia Catalogue of Nearby Stars (GCNS, 100 pc) e ao GALAH DR4 (até 30 elementos). Resultados preliminares: maioresia FGK do disco, idades medianas ~1,6 Gyr, \[Fe/H]~-0,19. Útil para amostra local do seu projeto.
 
 [Ver artigo original](https://doi.org/10.48550/arXiv.2512.10037)
 

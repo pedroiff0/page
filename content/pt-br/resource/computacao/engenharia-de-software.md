@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Engenharia de Software
 created: 2026-07-18
-title: "Engenharia de Software"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] Engenharia de software é a disciplina de construir sistemas que sobrevivem ao mundo real: requisitos que mudam, equipes que crescem, código que precisa ser mantido por anos. É a diferença entre programar e construir software que dura.
@@ -37,7 +39,7 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 
 - **Engenharia de requisitos** — descobrir, negociar e documentar o que o sistema deve fazer, distinguindo requisitos funcionais (o que faz) de não funcionais (quão rápido, quão seguro, quão disponível). É a fase mais barata para errar e corrigir: um requisito mal entendido descoberto em produção custa ordens de magnitude mais do que descoberto na entrevista com o cliente.
 - **Coesão e acoplamento** — o par de forças que resume todo o design de software: cada módulo deve fazer uma coisa bem definida (alta coesão) e depender pouco dos outros (baixo acoplamento). Praticamente todo princípio, padrão e arquitetura da área é uma técnica para melhorar essas duas métricas.
-- **Encapsulamento e abstração** — esconder o *como* atrás de uma interface que expõe só o *o quê*. É o que permite trocar a implementação de um módulo sem quebrar o resto do sistema — e é a razão de "atributos privados" existirem, não burocracia de linguagem.
+- **Encapsulamento e abstração** — esconder o _como_ atrás de uma interface que expõe só o _o quê_. É o que permite trocar a implementação de um módulo sem quebrar o resto do sistema — e é a razão de "atributos privados" existirem, não burocracia de linguagem.
 - **Princípios SOLID** — cinco princípios de design OO; o mais rentável é o da responsabilidade única (uma classe, um motivo para mudar) e o de depender de abstrações, não de implementações concretas. Não são dogmas: são heurísticas para manter o custo de mudança baixo.
 - **Padrões de projeto** — soluções nomeadas para problemas recorrentes de design (Strategy para variar comportamento, Observer para notificação, Factory para criação). O maior valor é o vocabulário compartilhado: dizer "usa um Adapter aí" comunica em duas palavras o que levaria um parágrafo.
 - **Testes automatizados** — testes de unidade, integração e sistema, escritos como código e rodando a cada mudança. Mais que pegar bugs, testes são uma rede de segurança que permite refatorar sem medo — sem eles, o código apodrece porque ninguém ousa mexer.
@@ -62,8 +64,8 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
-- SOMMERVILLE, I. *Engenharia de Software*. O livro-texto padrão da disciplina no mundo todo: processos, requisitos, projeto, testes e manutenção com visão panorâmica.
-- PRESSMAN, R. *Engenharia de Software: uma abordagem profissional*. O outro clássico, com pegada mais prescritiva e orientada à prática profissional; ótimo contraponto ao Sommerville.
+- SOMMERVILLE, I. _Engenharia de Software_. O livro-texto padrão da disciplina no mundo todo: processos, requisitos, projeto, testes e manutenção com visão panorâmica.
+- PRESSMAN, R. _Engenharia de Software: uma abordagem profissional_. O outro clássico, com pegada mais prescritiva e orientada à prática profissional; ótimo contraponto ao Sommerville.
 
 ## 🔗 Referências externas
 

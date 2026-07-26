@@ -1,8 +1,10 @@
 ---
 publish: false
 title: Recursos
-order: 2
 created: 2026-07-18T14:50:18.101-03:00
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
+order: 2
 ---
 
 > [!note] Resumo

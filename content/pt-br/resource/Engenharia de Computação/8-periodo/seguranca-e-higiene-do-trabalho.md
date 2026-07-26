@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Segurança e Higiene do Trabalho
 created: 2026-07-18
-title: "Segurança e Higiene do Trabalho"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - profissionalizante
+  - disciplina
+  - profissionalizante
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,39 +37,48 @@ Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (
 3. Equipamento de Proteção Individual (NR-6)
 4. Programa de Controle Médico de Saúde Ocupacional – PCMSO (NR-7)
 5. Programa de Prevenção de Riscos Ambientais – PPRA (NR-9)
- - Definição
- - Do objeto e campo de aplicação
- - Agentes
+
+- Definição
+- Do objeto e campo de aplicação
+- Agentes
+
 6. Segurança em Instalações e Serviços em Eletricidade (NR-10)
- - Objetivo
- - Tipos e características de trabalhos em instalações elétricas
- - Campo de Aplicação
- - Riscos Elétricos
- - Medidas de Controle
- - Medidas de Proteção Coletiva (continuação)
- - Prontuário de Instalações Elétricas
- - Critérios mínimos a serem atendidos por profissionais que, direta ou indiretamente, atuem em instalações elétricas.
- - Treinamento
+
+- Objetivo
+- Tipos e características de trabalhos em instalações elétricas
+- Campo de Aplicação
+- Riscos Elétricos
+- Medidas de Controle
+- Medidas de Proteção Coletiva (continuação)
+- Prontuário de Instalações Elétricas
+- Critérios mínimos a serem atendidos por profissionais que, direta ou indiretamente, atuem em instalações elétricas.
+- Treinamento
+
 7. Atividades e operações insalubres (NR-15)
- - Definição
- - Agentes Qualitativos e Quantitativos
- - Limites de Tolerância
- - Adicional de Insalubridade
- - Anexos da NR 15
- - Graus de Insalubridade
+
+- Definição
+- Agentes Qualitativos e Quantitativos
+- Limites de Tolerância
+- Adicional de Insalubridade
+- Anexos da NR 15
+- Graus de Insalubridade
+
 8. Atividades e Operações Perigosas (NR-16)
- - Definição
- - Adicional de Periculosidade
- - Anexos da NR 16
+
+- Definição
+- Adicional de Periculosidade
+- Anexos da NR 16
+
 9. Proteção Contra Incêndio (NR23)
- - Conceitos Básicos de Incêndio
- - Classe de Incêndio
- - Agentes e tipos de Extintores
+
+- Conceitos Básicos de Incêndio
+- Classe de Incêndio
+- Agentes e tipos de Extintores
 
 ## 📕 Bibliografia Básica
 
 1. BARSANO, P. R., BARBOSA, R. P. Higiene e Segurança do Trabalho. 2ª Edição. São Paulo: Erica, 2018.
-2. ______. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018.
+2. \_\_\_\_\_\_. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018.
 3. CAMISASSA, M. Q. Segurança e Saúde no Trabalho: NRs 1 a 36 Comentadas e Descomplicadas. 5ª Edição. São Paulo: Método, 2018.
 
 ## 📗 Bibliografia Complementar

@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Física Experimental II
 created: 2026-07-18
-title: "Física Experimental II"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina

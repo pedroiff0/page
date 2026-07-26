@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico"
-titulo: CursoON-Aula20
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Classificação morfológica de galáxias e a Via Láctea como espiral barrada típica; o bojo em X e a barra reveladas por contagens estelares; decomposição orbital do bojo (disco, barra, bojo esferoidal clássico); estrutura do disco (warp, cutoff, flare); e o catálogo de mergers confirmados do halo
-professor: Hélio Dotto Perottoni
+title: Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 created: 2026-07-25
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -17,11 +14,17 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula20
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Classificação morfológica de galáxias e a Via Láctea como espiral barrada típica; o bojo em X e a barra reveladas por contagens estelares; decomposição orbital do bojo (disco, barra, bojo esferoidal clássico); estrutura do disco (warp, cutoff, flare); e o catálogo de mergers confirmados do halo
+professor: Hélio Dotto Perottoni
 ---
+
 # 🪐 Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico
 
 > [!note] Resumo
-> Uma visão de conjunto da Via Láctea como galáxia: onde ela se encaixa na classificação morfológica de Hubble, como o bojo e a barra galáctica foram revelados por contagens estelares em infravermelho, como a decomposição orbital do bojo mostra que a barra é feita de estrelas "capturadas" do disco (não formadas ali), a estrutura de larga escala do disco (*warp*, *cutoff*, *flare*), e o catálogo atual de eventos de fusão confirmados no halo galáctico.
+> Uma visão de conjunto da Via Láctea como galáxia: onde ela se encaixa na classificação morfológica de Hubble, como o bojo e a barra galáctica foram revelados por contagens estelares em infravermelho, como a decomposição orbital do bojo mostra que a barra é feita de estrelas "capturadas" do disco (não formadas ali), a estrutura de larga escala do disco (_warp_, _cutoff_, _flare_), e o catálogo atual de eventos de fusão confirmados no halo galáctico.
 
 > [!info] Informações da aula
 > **Disciplina:** Arqueologia Galáctica e Populações Estelares
@@ -33,7 +36,7 @@ cssclasses:
 
 ## 🌌 A Via Láctea no diagrama de Hubble
 
-No **diagrama "garfo de cavalo" de Hubble**, galáxias dividem-se entre elípticas (*early-type*) e espirais, regulares ou barradas (*late-type*). A Via Láctea é uma **espiral barrada** típica — e, colocada no diagrama de formação estelar (taxa de formação estelar vs. massa estelar), ocupa uma posição intermediária entre a "nuvem azul" (galáxias formando estrelas ativamente) e a "sequência vermelha" (galáxias quiescentes), na chamada "vale verde" junto com suas análogas mais próximas.
+No **diagrama "garfo de cavalo" de Hubble**, galáxias dividem-se entre elípticas (_early-type_) e espirais, regulares ou barradas (_late-type_). A Via Láctea é uma **espiral barrada** típica — e, colocada no diagrama de formação estelar (taxa de formação estelar vs. massa estelar), ocupa uma posição intermediária entre a "nuvem azul" (galáxias formando estrelas ativamente) e a "sequência vermelha" (galáxias quiescentes), na chamada "vale verde" junto com suas análogas mais próximas.
 
 ## 🎯 O bojo em X e a descoberta da barra
 

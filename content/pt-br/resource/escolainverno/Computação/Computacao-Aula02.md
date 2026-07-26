@@ -1,11 +1,9 @@
 ---
 publish: false
-title: "Aula 02"
-titulo: Computacao-Aula02
-disciplina: Computação Científica de Alto Desempenho
-conteudo: Desempenho e arquitetura em MPI, e introdução a dados e aprendizado de máquina em astronomia
-professor: Fernando Roig e Lilianne Nakazono
+title: Aula 02
 created: 2026-07-22T14:00:00-03:00
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 tags:
   - escola-de-inverno-on
   - hpc
@@ -15,7 +13,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+titulo: Computacao-Aula02
+disciplina: Computação Científica de Alto Desempenho
+conteudo: Desempenho e arquitetura em MPI, e introdução a dados e aprendizado de máquina em astronomia
+professor: Fernando Roig e Lilianne Nakazono
 ---
+
 # 💻 Notas de Aula — Computação de Alto Desempenho (Aula 02)
 
 > [!note] Resumo
@@ -32,6 +35,7 @@ cssclasses:
 Esta aula tem duas partes bem distintas. Na primeira, o Prof. Roig aprofunda o **MPI** apresentado na Aula 01 — indo do "como programar" para o "como isso se comporta na prática": latência de comunicação, arquitetura cliente-servidor e onde o desempenho realmente se perde. Na segunda, a Prof.ª Lilianne Nakazono muda de assunto: como os dados chegam até nós em astronomia, e como o **aprendizado de máquina** processa esses dados para encontrar padrões — uma ponte direta entre HPC (que fornece a capacidade computacional) e ciência de dados (que a usa).
 
 ### 📑 Tópicos abordados
+
 1. Desempenho e latência em MPI
 2. Arquitetura cliente-servidor
 3. OpenMP vs. MPI: comparação direta
@@ -84,18 +88,18 @@ Aprendizado de máquina é, em essência, um algoritmo que ajusta seus próprios
 
 | Tipo | Como aprende | Exemplo de uso |
 |---|---|---|
-| **Supervisionado** | A partir de exemplos **já rotulados/classificados** | Classificação e regressão (ex.: prever [Fe/H] de uma estrela a partir do espectro) |
+| **Supervisionado** | A partir de exemplos **já rotulados/classificados** | Classificação e regressão (ex.: prever \[Fe/H] de uma estrela a partir do espectro) |
 | **Não supervisionado** | Encontra estrutura nos dados **sem rótulos** | Agrupamento por características em comum (ex.: o próprio t-SNE usado na minha pesquisa) |
 | **Por reforço** | Aprende por tentativa, recompensa e erro | Otimização de estratégias/políticas a partir de um objetivo já definido |
 
 > [!tip] Conexão direta com a minha pesquisa
-> O algoritmo **t-SNE** usado no meu trabalho (ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]) é um exemplo direto de aprendizado **não supervisionado**: ele encontra agrupamentos no espectro estelar sem que eu tenha rotulado previamente nenhuma estrela — os rótulos físicos (Teff, log g, [Fe/H]) só entram *depois*, como validação.
+> O algoritmo **t-SNE** usado no meu trabalho (ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]) é um exemplo direto de aprendizado **não supervisionado**: ele encontra agrupamentos no espectro estelar sem que eu tenha rotulado previamente nenhuma estrela — os rótulos físicos (Teff, log g, \[Fe/H]) só entram _depois_, como validação.
 
 ### Fluxo de trabalho de aprendizado de máquina
 
 O processo típico segue uma sequência bem definida:
 
-$$\text{Dados} \rightarrow \text{Atributos} \rightarrow \text{Modelo} \rightarrow \text{Treino do Modelo} \rightarrow \text{Avaliação} \rightarrow \text{Predição}$$
+$\text{Dados} \rightarrow \text{Atributos} \rightarrow \text{Modelo} \rightarrow \text{Treino do Modelo} \rightarrow \text{Avaliação} \rightarrow \text{Predição}$
 
 Isto é: primeiro os dados brutos são reduzidos a **atributos** (as variáveis relevantes que o modelo de fato vai usar — ex.: o fluxo espectral normalizado, no caso do t-SNE), depois um **modelo** é escolhido e **treinado** sobre esses atributos, **avaliado** por alguma métrica de qualidade (ver as métricas de confiabilidade discutidas na minha pesquisa) e, só então, usado para **predizer** sobre dados novos.
 
@@ -115,11 +119,12 @@ Isto é: primeiro os dados brutos são reduzidos a **atributos** (as variáveis 
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 2)
-> *(nenhuma pergunta registrada ainda)*
+> _(nenhuma pergunta registrada ainda)_
 
 ---
 
 ## 🔗 Referências e correlatos
+
 - [Aula 01](pt-br/resource/escolainverno/computação/computacao-aula01)
 - [Aula 03](pt-br/resource/escolainverno/computação/computacao-aula03)
 - [Recursos — Machine Learning](pt-br/resource/computacao/machine-learning)

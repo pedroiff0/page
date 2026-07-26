@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Fundamentos da Computação
 created: 2026-07-18
-title: "Fundamentos da Computação"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -62,7 +64,7 @@ O que dominar: uma primeira noção de sistema operacional, de redes e de como a
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- TANENBAUM, A. S. *Organização Estruturada de Computadores*. — A referência que apresenta o computador em camadas, exatamente a visão que este tópico constrói. Vale ler os capítulos iniciais já no primeiro período.
+- TANENBAUM, A. S. _Organização Estruturada de Computadores_. — A referência que apresenta o computador em camadas, exatamente a visão que este tópico constrói. Vale ler os capítulos iniciais já no primeiro período.
 
 ## 🔗 Referências externas
 

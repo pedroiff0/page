@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Geoprocessamento
 created: 2026-07-18
-title: "Geoprocessamento"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -31,38 +33,47 @@ Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Mé
 ## 📖 Conteúdo Programático
 
 1. Bases Conceituais e Teóricas
- - Fundamentos Teóricos de Geoprocessamento
- - Representação Computacional
+
+- Fundamentos Teóricos de Geoprocessamento
+- Representação Computacional
+
 2. Sistemas de Informações Geográficas
- - Componentes e Definições
- - Arquitetura de Sistemas de Informações Geográficas
- - Estruturas de Dados Raster e Vetor
- - Representação de Dados Multiespectrais: Imagens Digitais
+
+- Componentes e Definições
+- Arquitetura de Sistemas de Informações Geográficas
+- Estruturas de Dados Raster e Vetor
+- Representação de Dados Multiespectrais: Imagens Digitais
+
 3. Métodos de Abstração, Conversão e Estruturação em SIG
- - Estruturas de projetos e Banco de Dados
- - Compatibilidade de Dados Multifonte
- - Aspectos Cartográficos de Conversão de Dados
+
+- Estruturas de projetos e Banco de Dados
+- Compatibilidade de Dados Multifonte
+- Aspectos Cartográficos de Conversão de Dados
+
 4. Instrumentalização de Técnicas do Geoprocessamento
- - Conceitos Básicos de Sensoriamento Remoto
- - Correção Geométrica de Imagens de Sensoriamento Remoto
- - Recorte e Mosaico de Imagens
- - Interpretação de Imagens e Comportamento Espectral de Alvos
- - Segmentação e Classificação
- - Índices de vegetação
- - Técnicas de Interpolação
- - Processamento de dados MNT
- - Operações sobre geo-objetos
- - Operações sobre geo-campos
- - Algebra de mapas: operadores booleanos
- - Álgebra de mapas: operadores nebulosos
- - Técnica AHP para inferência geográfica
+
+- Conceitos Básicos de Sensoriamento Remoto
+- Correção Geométrica de Imagens de Sensoriamento Remoto
+- Recorte e Mosaico de Imagens
+- Interpretação de Imagens e Comportamento Espectral de Alvos
+- Segmentação e Classificação
+- Índices de vegetação
+- Técnicas de Interpolação
+- Processamento de dados MNT
+- Operações sobre geo-objetos
+- Operações sobre geo-campos
+- Algebra de mapas: operadores booleanos
+- Álgebra de mapas: operadores nebulosos
+- Técnica AHP para inferência geográfica
+
 5. Potencial das Técnicas de Geoprocessamento para a Representação de Fenômenos e Modelos Ambientais
- - Mapas de uso de ocupação do solo
- - Geração de curvas de nível e perfis
- - Manipulação de dados de altimetria e declividade
- - Delimitação de áreas de proteção permanente e reserva legal
- - Delimitação de bacias
- - Análises multitemporais
+
+- Mapas de uso de ocupação do solo
+- Geração de curvas de nível e perfis
+- Manipulação de dados de altimetria e declividade
+- Delimitação de áreas de proteção permanente e reserva legal
+- Delimitação de bacias
+- Análises multitemporais
 
 ## 📕 Bibliografia Básica
 

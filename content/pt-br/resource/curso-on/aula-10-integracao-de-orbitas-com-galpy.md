@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 10 — Integração de Órbitas com galpy"
-titulo: CursoON-Aula10
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Aula prática (Google Colab/galpy) — construir potenciais galácticos, obter dados do Gaia via SQL/TAP, integrar órbitas estelares com incertezas por Monte Carlo, e simular o efeito de fricção dinâmica de um satélite (Sagitário) sobre o disco
-professor: Hélio Dotto Perottoni
+title: Aula 10 — Integração de Órbitas com galpy
 created: 2026-07-25
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -17,7 +14,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula10
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Aula prática (Google Colab/galpy) — construir potenciais galácticos, obter dados do Gaia via SQL/TAP, integrar órbitas estelares com incertezas por Monte Carlo, e simular o efeito de fricção dinâmica de um satélite (Sagitário) sobre o disco
+professor: Hélio Dotto Perottoni
 ---
+
 # 🛰️ Aula 10 — Integração de Órbitas com galpy
 
 > [!note] Resumo
@@ -46,7 +49,7 @@ O galpy já vem com potenciais pré-definidos para a Via Láctea, como `MWPotent
 
 ## 📡 Obtendo dados do Gaia via SQL/TAP
 
-Consultas ao catálogo Gaia DR3 são feitas por **SQL**, enviadas através do pacote `pyvo` a um serviço **TAP** (*Table Access Protocol*, ex.: `gaia.ari.uni-heidelberg.de/tap`). Uma consulta típica busca estrelas numa posição e raio (em graus):
+Consultas ao catálogo Gaia DR3 são feitas por **SQL**, enviadas através do pacote `pyvo` a um serviço **TAP** (_Table Access Protocol_, ex.: `gaia.ari.uni-heidelberg.de/tap`). Uma consulta típica busca estrelas numa posição e raio (em graus):
 
 ```sql
 SELECT * FROM gaiadr3.gaia_source AS gaia
@@ -79,7 +82,7 @@ A segunda metade da aula integra a órbita da **galáxia anã de Sagitário** (u
 
 O galpy implementa a fricção dinâmica de Chandrasekhar (`ChandrasekharDynamicalFrictionForce`), que requer conhecer a massa e o perfil de densidade tanto do satélite quanto da galáxia hospedeira:
 
-$$F_{DF} \propto M_{sat}^2$$
+$F_{DF} \propto M_{sat}^2$
 
 > [!tip] Por que $F\propto M^2$ importa
 > Uma galáxia satélite **mais massiva** perde energia rapidamente por fricção dinâmica — sua órbita espirala para dentro e os pericentros sucessivos diminuem. Uma satélite **menos massiva** perde energia devagar e sua órbita muda pouco. É por isso que só satélites suficientemente massivos (como as Nuvens de Magalhães ou o próprio Sagitário) afundam visivelmente no potencial da Galáxia numa escala de tempo hubbliana.
@@ -88,7 +91,7 @@ A aula também mostra que o potencial de halo padrão do `MWPotential2014` está
 
 ### O satélite como potencial "vivo": perturbando o disco
 
-Por fim, o notebook combina os dois efeitos: usa `MovingObjectPotential` para transformar a órbita integrada de Sagitário (modelada como uma esfera de Plummer de massa $5\times10^9\,M_\odot$) num **componente adicional, dependente do tempo**, do potencial total. Um pequeno conjunto de órbitas estelares do disco, integrado nesse potencial combinado (`MWPotential2014_heavy + satpot`), mostra trajetórias visivelmente perturbadas em comparação às mesmas órbitas no potencial estático original — uma demonstração direta e computacional de como um satélite em queda deixa impressa uma assinatura dinâmica no disco (o mesmo tipo de mecanismo por trás de fenômenos como o *phase spiral* do Gaia, e de correntes estelares de maré).
+Por fim, o notebook combina os dois efeitos: usa `MovingObjectPotential` para transformar a órbita integrada de Sagitário (modelada como uma esfera de Plummer de massa $5\times10^9\,M_\odot$) num **componente adicional, dependente do tempo**, do potencial total. Um pequeno conjunto de órbitas estelares do disco, integrado nesse potencial combinado (`MWPotential2014_heavy + satpot`), mostra trajetórias visivelmente perturbadas em comparação às mesmas órbitas no potencial estático original — uma demonstração direta e computacional de como um satélite em queda deixa impressa uma assinatura dinâmica no disco (o mesmo tipo de mecanismo por trás de fenômenos como o _phase spiral_ do Gaia, e de correntes estelares de maré).
 
 > [!warning] Limitações reconhecidas no próprio notebook
 > A simulação não leva em conta a **perda de massa** do satélite ao longo da queda (que mudaria a intensidade da fricção dinâmica com o tempo), nem testa a sensibilidade a diferentes potenciais hospedeiros. O próprio material da aula é honesto sobre isso: dado tudo isso, o quanto se pode confiar nos detalhes finos dessas órbitas reconstruídas é uma pergunta em aberto — a escolha de uma "órbita fiducial" é sempre uma simplificação.

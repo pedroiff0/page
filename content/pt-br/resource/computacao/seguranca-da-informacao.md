@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Segurança da Informação
 created: 2026-07-18
-title: "Segurança da Informação"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] Segurança da informação é a disciplina de proteger sistemas e dados contra acesso, alteração e destruição indevidos — da criptografia que protege sua senha ao pentest que encontra a falha antes do atacante. Hoje é responsabilidade de todo desenvolvedor, não só de especialistas.
@@ -13,7 +15,7 @@ tags:
 
 ## Por que estudar isso?
 
-Em 2021, vazamentos expuseram dados de mais de 220 milhões de brasileiros — CPF, endereço, renda. Casos assim raramente envolvem técnicas sofisticadas: a porta de entrada costuma ser uma injeção de SQL trivial, uma senha padrão esquecida, um servidor sem atualização. Ou seja: falhas que o *desenvolvedor* comum cometeu e que o *desenvolvedor* com formação em segurança teria evitado. Com a LGPD em vigor, essas falhas também viram multa e processo — segurança deixou de ser opcional para virar requisito legal.
+Em 2021, vazamentos expuseram dados de mais de 220 milhões de brasileiros — CPF, endereço, renda. Casos assim raramente envolvem técnicas sofisticadas: a porta de entrada costuma ser uma injeção de SQL trivial, uma senha padrão esquecida, um servidor sem atualização. Ou seja: falhas que o _desenvolvedor_ comum cometeu e que o _desenvolvedor_ com formação em segurança teria evitado. Com a LGPD em vigor, essas falhas também viram multa e processo — segurança deixou de ser opcional para virar requisito legal.
 
 Para quem gosta da área, a carreira é das mais aquecidas da computação, com déficit global crônico de profissionais. E mesmo para quem não vai se especializar, pensar como atacante ("como eu quebraria isso?") muda permanentemente a qualidade do código que você escreve.
 
@@ -29,7 +31,7 @@ O terreno mais prático e empregável: estude o OWASP Top 10 — injeção de SQ
 
 ### 3. Criptografia aplicada e segurança de redes (intermediário-avançado)
 
-Entenda o que cada primitiva garante: criptografia simétrica vs. assimétrica, hashes, assinaturas digitais, certificados e TLS — o suficiente para *usar* criptografia corretamente, que é o que 99% dos profissionais precisa. Do lado de redes: firewalls, segmentação, VPNs, e análise de tráfego com [Wireshark](https://www.wireshark.org/). Tempo típico: 6 a 8 semanas.
+Entenda o que cada primitiva garante: criptografia simétrica vs. assimétrica, hashes, assinaturas digitais, certificados e TLS — o suficiente para _usar_ criptografia corretamente, que é o que 99% dos profissionais precisa. Do lado de redes: firewalls, segmentação, VPNs, e análise de tráfego com [Wireshark](https://www.wireshark.org/). Tempo típico: 6 a 8 semanas.
 
 ### 4. Prática ofensiva e CTFs (avançado)
 
@@ -38,7 +40,7 @@ Consolide atacando (legalmente): capture-the-flag no [picoCTF](https://picoctf.o
 ## Conceitos que você precisa dominar
 
 - **Tríade CIA** — confidencialidade (só quem deve vê), integridade (ninguém altera sem autorização) e disponibilidade (o serviço está de pé quando precisam). Todo controle de segurança existe para proteger uma dessas três propriedades, e todo ataque viola pelo menos uma — é o quadro de referência para analisar qualquer incidente.
-- **Autenticação vs. autorização** — autenticação prova quem você é (senha, biometria, segundo fator); autorização decide o que você pode fazer. Confundir as duas gera a clássica falha de sistemas que verificam o login mas não checam se *aquele* usuário pode acessar *aquele* recurso — o IDOR do OWASP Top 10.
+- **Autenticação vs. autorização** — autenticação prova quem você é (senha, biometria, segundo fator); autorização decide o que você pode fazer. Confundir as duas gera a clássica falha de sistemas que verificam o login mas não checam se _aquele_ usuário pode acessar _aquele_ recurso — o IDOR do OWASP Top 10.
 - **Injeção (SQL injection e parentes)** — o ataque nasce quando dado do usuário é interpretado como código: um campo de formulário que vira comando SQL. A defesa (consultas parametrizadas) é trivial, e mesmo assim injeção segue entre as falhas mais exploradas do mundo — porque a cada geração, desenvolvedores novos repetem o erro.
 - **Cross-Site Scripting (XSS)** — injeção de JavaScript em páginas vistas por outros usuários, permitindo roubar sessões e agir em nome da vítima. Ensina a lição mais geral da segurança web: toda entrada é hostil até que se prove o contrário, e a sanitização depende do contexto onde o dado será usado.
 - **Criptografia simétrica vs. assimétrica** — na simétrica (AES), a mesma chave cifra e decifra: rápida, mas exige combinar a chave antes. Na assimétrica (RSA, curvas elípticas), a chave pública cifra e só a privada decifra — resolvendo a distribuição de chaves. TLS usa as duas: assimétrica para o aperto de mãos, simétrica para o volume de dados.

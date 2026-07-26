@@ -1,11 +1,9 @@
 ---
 publish: false
-title: "Aula 03"
-titulo: Aglomerados-Aula03
-disciplina: Astrofísica Extragaláctica
-conteudo: O Universo Através das Lentes Gravitacionais — formalismo de lentes fracas e aglomerados em fusão como laboratórios de matéria escura autointeragente
-professor: Rogério Monteiro-Oliveira
+title: Aula 03
 created: 2026-07-24T09:15:00-03:00
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 tags:
   - escola-de-inverno-on
   - astrofisica-extragalactica
@@ -15,7 +13,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+titulo: Aglomerados-Aula03
+disciplina: Astrofísica Extragaláctica
+conteudo: O Universo Através das Lentes Gravitacionais — formalismo de lentes fracas e aglomerados em fusão como laboratórios de matéria escura autointeragente
+professor: Rogério Monteiro-Oliveira
 ---
+
 # 🌌 Notas de Aula — Aglomerados de Galáxias (Aula 03)
 
 > [!note] Resumo
@@ -34,6 +37,7 @@ A aula tem duas partes. Na primeira, o formalismo matemático das **lentes gravi
 Na segunda parte, a aula muda de escala: aglomerados **em fusão** (como o famoso Aglomerado Bala) são apresentados como os únicos "laboratórios" astrofísicos capazes de testar se a matéria escura interage consigo mesma além da gravidade — um teste motivado por falhas conhecidas do modelo $\Lambda$CDM em pequena escala (problema núcleo-cúspide, problema da diversidade, "grande demais para falhar"). A ideia central: comparar o deslocamento pós-colisão entre os três componentes de um aglomerado (matéria escura via lentes, gás via raio-X, galáxias no óptico) permite estimar a seção de choque de autointeração da matéria escura, $\sigma/m$.
 
 ### 📑 Tópicos abordados
+
 1. Breve contexto histórico das lentes gravitacionais (de Newton a Zwicky)
 2. O ângulo de deflexão e a equação de lentes
 3. Convergência, cisalhamento e o regime de lentes fracas
@@ -45,7 +49,7 @@ Na segunda parte, a aula muda de escala: aglomerados **em fusão** (como o famos
 
 ## 1. Breve contexto histórico das lentes gravitacionais
 
-Ao contrário da crença popular, **Newton não previu a deflexão gravitacional da luz** — a famosa pergunta em seu livro *Opticks* (1704) ("Não agem os corpos sobre a luz à distância, e por sua ação curvam seus raios...?") tratava, na verdade, de difração, não do efeito gravitacional que hoje conhecemos.
+Ao contrário da crença popular, **Newton não previu a deflexão gravitacional da luz** — a famosa pergunta em seu livro _Opticks_ (1704) ("Não agem os corpos sobre a luz à distância, e por sua ação curvam seus raios...?") tratava, na verdade, de difração, não do efeito gravitacional que hoje conhecemos.
 
 - **1804 — Soldner**: primeiro cálculo quantitativo, usando física newtoniana — previu um desvio de $0{,}84''$ (arcsegundos) para um raio de luz rasante ao Sol.
 - **Einstein (Relatividade Geral)**: recalcula o ângulo de deflexão como $1{,}75''$ — exatamente o **dobro** do valor newtoniano.
@@ -58,15 +62,15 @@ Ao contrário da crença popular, **Newton não previu a deflexão gravitacional
 
 O ângulo de deflexão previsto pela mecânica newtoniana é:
 
-$$\hat\alpha_N = \frac{2GM}{c^2\xi}$$
+$\hat\alpha_N = \frac{2GM}{c^2\xi}$
 
 enquanto a Relatividade Geral prevê o dobro:
 
-$$\hat\alpha = \frac{4GM}{c^2\xi} = 2\,\hat\alpha_N$$
+$\hat\alpha = \frac{4GM}{c^2\xi} = 2\,\hat\alpha_N$
 
 (essa diferença de fator 2 é exatamente o que a expedição de Sobral testou em 1919). A partir da geometria de lentes — envolvendo as distâncias-diâmetro-angular entre observador e lente ($D_d$), observador e fonte ($D_s$), e lente e fonte ($D_{ds}$) — chega-se à **equação de lentes**:
 
-$$\beta(\theta) = \theta - \alpha(\theta)$$
+$\beta(\theta) = \theta - \alpha(\theta)$
 
 que relaciona a posição real da fonte de fundo ($\beta$) à posição observada/distorcida da imagem ($\theta$), através do ângulo de deflexão $\alpha(\theta)$. O deflexão pode ser escrita como o gradiente de um **potencial gravitacional projetado** $\psi$ (a projeção 2D do potencial 3D da lente): $\nabla\psi = \alpha$, e o laplaciano desse potencial equivale ao dobro da convergência: $\nabla^2\psi = 2\kappa$.
 
@@ -87,11 +91,11 @@ Segundo o **cenário hierárquico** (já visto na [[Aglomerados-Aula02|Aula 02]]
 
 Apesar do sucesso do modelo padrão $\Lambda$CDM em grande escala, ele **falha em explicar algumas inconsistências em escala de galáxias**:
 
-- **Problema núcleo-cúspide (core-cusp problem)**: simulações de CDM previm um perfil de densidade "pontudo" (cúspide) no centro de galáxias, mas observações mostram um núcleo mais "achatado" (*core*).
+- **Problema núcleo-cúspide (core-cusp problem)**: simulações de CDM previm um perfil de densidade "pontudo" (cúspide) no centro de galáxias, mas observações mostram um núcleo mais "achatado" (_core_).
 - **Problema da diversidade**: a diversidade observada nas curvas de rotação de galáxias de massa similar é maior do que a prevista pelas simulações de CDM puro.
 - **Problema "grande demais para falhar" (too-big-to-fail)**: simulações preveem sub-halos massivos demais para não terem formado galáxias visíveis — mas essas galáxias não são observadas.
 
-Há duas classes de solução: (a) específicas para cada problema, atribuindo-os a efeitos **bariônicos** (ex.: *feedback* de AGN redistribuindo matéria); ou (b) uma solução mais geral, alterando o próprio paradigma CDM para permitir que a matéria escura interaja consigo mesma **além da gravidade** — a chamada **SIDM (Self-Interacting Dark Matter)**, matéria escura autointeragente.
+Há duas classes de solução: (a) específicas para cada problema, atribuindo-os a efeitos **bariônicos** (ex.: _feedback_ de AGN redistribuindo matéria); ou (b) uma solução mais geral, alterando o próprio paradigma CDM para permitir que a matéria escura interaja consigo mesma **além da gravidade** — a chamada **SIDM (Self-Interacting Dark Matter)**, matéria escura autointeragente.
 
 O desafio: como testar a SIDM se não temos matéria escura acessível em nosso ambiente local (laboratório)? A resposta: aglomerados em fusão.
 
@@ -111,7 +115,7 @@ Aglomerados em fusão funcionam como **grandes colisores de partículas**: a des
 ## ⚠️ Pontos de atenção
 
 > [!important] Atenção
-> *(nenhuma anotação registrada ainda)*
+> _(nenhuma anotação registrada ainda)_
 
 ---
 
@@ -130,11 +134,12 @@ Aglomerados em fusão funcionam como **grandes colisores de partículas**: a des
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 3)
-> *(nenhuma pergunta registrada ainda)*
+> _(nenhuma pergunta registrada ainda)_
 
 ---
 
 ## 🔗 Referências e correlatos
+
 - [Slides oficiais da Aula 03 (PDF)](assets/escolainverno/aulas/mc4/L03.pdf)
 - [Página do Prof. Rogério Monteiro-Oliveira](https://www.monteiro-oliveira.com/talks)
 - [Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — lentes fracas já introduzidas como técnica de detecção de aglomerados, e a descoberta da matéria escura por Zwicky

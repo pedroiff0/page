@@ -1,8 +1,11 @@
 ---
 publish: false
-title: "Detecção de Anomalias em Dados do Gaia"
+title: Detecção de Anomalias em Dados do Gaia
 created: 2025-09-01
+modified: 2026-07-26T10:03:40.281-03:00
+published: 2026-07-26T10:03:40.281-03:00
 ---
+
 # 🔭 Detecção de Anomalias em Dados do Gaia
 
 > [!note] Resumo
@@ -24,11 +27,11 @@ O trabalho está dividido em duas etapas, uma já publicada e outra em andamento
 
 ## 📊 Os dados
 
-| Catálogo | O que fornece | Tamanho |
-|---|---|---|
-| **GCNS** (Gaia Catalogue of Nearby Stars, Gaia DR3) | Astrometria e fotometria de altíssima precisão | ~330.000 estrelas a até 100 pc do Sol |
-| **GALAH DR4** (Buder et al., 2025) | Espectros de alta resolução (R≈28.000), até 30 abundâncias químicas, parâmetros atmosféricos (Teff, log g, [Fe/H]), idades via isócronas PARSEC+COLIBRI, cinemática (Galpy + potencial de McMillan 2017) | ~1.017.000 estrelas |
-| **Amostra cruzada (GCNS ∩ GALAH DR4)** | Estrelas com astrometria e espectroscopia completas | **~6.000 estrelas** |
+| Catálogo                                            | O que fornece                                                                                                                                                                                            | Tamanho                               |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **GCNS** (Gaia Catalogue of Nearby Stars, Gaia DR3) | Astrometria e fotometria de altíssima precisão                                                                                                                                                           | ~330.000 estrelas a até 100 pc do Sol |
+| **GALAH DR4** (Buder et al., 2025)                  | Espectros de alta resolução (R≈28.000), até 30 abundâncias químicas, parâmetros atmosféricos (Teff, log g, \[Fe/H]), idades via isócronas PARSEC+COLIBRI, cinemática (Galpy + potencial de McMillan 2017) | ~1.017.000 estrelas                   |
+| **Amostra cruzada (GCNS ∩ GALAH DR4)**              | Estrelas com astrometria e espectroscopia completas                                                                                                                                                      | **~6.000 estrelas**                   |
 
 O GALAH observa cada estrela em **4 bandas (CCDs)** do espectrógrafo HERMES, no Anglo-Australian Telescope: azul (4718–4903 Å), verde (5649–5873 Å), vermelho (6481–6739 Å) e infravermelho (7590–7890 Å), cada uma com 4.096 pixels — ou seja, cada espectro é um vetor de **16.384 dimensões** antes de qualquer redução.
 
@@ -42,20 +45,21 @@ Para inspecionar espectros individuais durante a análise, desenvolvi um **visua
 
 ## 1️⃣ Etapa 1 — Mapeamento t-SNE em parâmetros físico-químicos (publicado)
 
-Em vez de plotar diagramas prontos escolhidos à mão, alimentei o **t-SNE** diretamente com os parâmetros físico-químicos e cinemáticos de cada estrela (Teff, log g, [Fe/H], [Mg/Fe] e componentes de velocidade), deixando o algoritmo encontrar sozinho os agrupamentos, e só depois coloração pelos parâmetros conhecidos como teste de honestidade do método.
+Em vez de plotar diagramas prontos escolhidos à mão, alimentei o **t-SNE** diretamente com os parâmetros físico-químicos e cinemáticos de cada estrela (Teff, log g, \[Fe/H], \[Mg/Fe] e componentes de velocidade), deixando o algoritmo encontrar sozinho os agrupamentos, e só depois coloração pelos parâmetros conhecidos como teste de honestidade do método.
 
 **Validação quantitativa** — testei uma grade de perplexidades de 15 a 90 e medi:
+
 - **Divergência KL** — cai de forma constante com a perplexidade.
 - **Trustworthiness** — entre ~0,89 e 0,95 (estável).
 - **Continuity** — entre ~0,97 e 0,98 (estável).
 
 Ambas as métricas de vizinhança ficaram altas e estáveis, indicando que a projeção 2D preserva bem tanto a estrutura local (perplexidade 30) quanto a global (perplexidade 50) do espaço original de alta dimensão. Em ambas, aparece um **pequeno subgrupo destacado**, com gradiente interno de metalicidade próprio — candidato a população anômala, que motivou a Etapa 2.
 
-**Caracterização astrofísica** — usando a amostra completa: diagrama de Kiel (Teff × log g, colorido por [Fe/H], com isócronas PARSEC+COLIBRI), diagrama de Toomre (V × √(U²+W²), separando disco de halo) e diagrama de Tinsley-Wallerstein ([Mg/Fe] × [Fe/H], separando disco fino/espesso). A amostra é dominada por estrelas de sequência principal F/G/K, idade mediana ≈ 1,6 Gyr (0,1–14,8 Gyr), [Fe/H] mediano ≈ −0,19 dex. No diagrama de Toomre, **228 estrelas (3,8% da amostra) têm velocidade acima de 100 km/s** em relação ao Sol — candidatas a membros do halo, e a anomalia cinemática mais direta encontrada até agora.
+**Caracterização astrofísica** — usando a amostra completa: diagrama de Kiel (Teff × log g, colorido por \[Fe/H], com isócronas PARSEC+COLIBRI), diagrama de Toomre (V × √(U²+W²), separando disco de halo) e diagrama de Tinsley-Wallerstein (\[Mg/Fe] × \[Fe/H], separando disco fino/espesso). A amostra é dominada por estrelas de sequência principal F/G/K, idade mediana ≈ 1,6 Gyr (0,1–14,8 Gyr), \[Fe/H] mediano ≈ −0,19 dex. No diagrama de Toomre, **228 estrelas (3,8% da amostra) têm velocidade acima de 100 km/s** em relação ao Sol — candidatas a membros do halo, e a anomalia cinemática mais direta encontrada até agora.
 
 Este trabalho foi publicado como:
 
-> ANDRADE, P. H. R. et al. *Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4*. Boletim da Sociedade Astronômica Brasileira, 2025.
+> ANDRADE, P. H. R. et al. _Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4_. Boletim da Sociedade Astronômica Brasileira, 2025.
 
 E apresentado como pôster na **SAB 2025**, na **78ª Reunião Anual da SBPC (2026)** e nesta **Escola de Inverno do Observatório Nacional (2026)** — ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]] para o texto completo dessa apresentação.
 
@@ -69,14 +73,14 @@ O subgrupo destacado na Etapa 1 levantou uma pergunta: será que essa anomalia t
 
 Uma decisão metodológica central foi entender a diferença entre alimentar o t-SNE com **colunas do catálogo** (parâmetros já derivados, como na Etapa 1) ou com os **pixels brutos do espectro**:
 
-- **Colunas do catálogo** (ex.: [Fe/H], [Mg/Fe] + ações orbitais $J_x$, $J_y$ — abordagem também usada por da Silva & Smiljanic 2023): custo computacional baixo, interpretação direta, mas o agrupamento fica **dependente dos modelos** que geraram essas colunas — um erro sistemático no pipeline (ex.: log g mal ajustado numa estrela fria) contamina o agrupamento.
+- **Colunas do catálogo** (ex.: \[Fe/H], \[Mg/Fe] + ações orbitais $J_x$, $J_y$ — abordagem também usada por da Silva & Smiljanic 2023): custo computacional baixo, interpretação direta, mas o agrupamento fica **dependente dos modelos** que geraram essas colunas — um erro sistemático no pipeline (ex.: log g mal ajustado numa estrela fria) contamina o agrupamento.
 - **Pixels do espectro** (o vetor de fluxo normalizado, dado bruto): agrupa por **similaridade morfológica da luz**, imune a erros de modelos de atmosfera estelar — melhor para achar binárias não catalogadas ou defeitos de instrumento, mas computacionalmente mais caro e sem "rótulo físico" pronto (é preciso inspecionar manualmente o que causa cada agrupamento).
 
 ### O que já foi testado
 
 Rodei o t-SNE sobre os espectros normalizados (HDU 1 do FITS de cada estrela/CCD) em várias configurações, comparando com a abordagem por colunas:
 
-![t-SNE sobre os espectros brutos (4 CCDs concatenados, ~5.900 estrelas), colorido por Teff, log g e [Fe/H] do catálogo — usado como teste de honestidade do agrupamento.](assets/anomaly-detection/tsne-espectros-brutos.png)
+![t-SNE sobre os espectros brutos (4 CCDs concatenados, ~5.900 estrelas), colorido por Teff, log g e \[Fe/H\] do catálogo — usado como teste de honestidade do agrupamento.](assets/anomaly-detection/tsne-espectros-brutos.png)
 
 ![Comparação de diferentes perplexidades do t-SNE sobre os espectros (dados de pixel), colorido pela temperatura efetiva — perplexidades mais altas suavizam a estrutura local em favor da global.](assets/anomaly-detection/tsne-comparacao-perplexidade.png)
 
@@ -103,7 +107,7 @@ Também testei dois detectores de anomalia diretamente sobre o embedding: **Isol
 Resumo das principais decisões metodológicas tomadas ao longo do projeto, a partir das notas de reunião:
 
 - **29/03/2026** — Definição da amostra (GCNS 330k, GALAH AllStars 980k, amostra cruzada 6k, espectros 24k) e primeiros testes de t-SNE sobre os espectros brutos, com problemas de inconsistência entre CCDs de uma mesma estrela.
-- **30/03/2026** — Limpeza de dados espúrios (Teff/log g negativos), padronização (*standardization*) dos vetores de espectro antes do t-SNE.
+- **30/03/2026** — Limpeza de dados espúrios (Teff/log g negativos), padronização (_standardization_) dos vetores de espectro antes do t-SNE.
 - **11/04/2026** — Revisão cruzada dos papers de referência (GALAH DR4, Traven et al. 2017) para decidir entre usar os CCDs brutos ou o catálogo derivado (AllSpec).
 - **04/05/2026** — Discussão sobre a diferença entre alimentar o t-SNE com colunas de catálogo vs. pixels do espectro (ver seção acima); construção e publicação do visualizador de espectros; classificação preliminar de estrelas por tipo espectral (OBAFGKM) a partir do Teff.
 
@@ -112,15 +116,15 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 ## 🚧 Próximos passos
 
 - Validar os clusters encontrados na Etapa 2 com **HDBSCAN sobre a projeção t-SNE**, comparando diretamente com as 10 categorias morfológicas de Traven et al. (2017).
-- Cruzar os *outliers* espectrais da Etapa 2 com o subgrupo cinemático/químico destacado na Etapa 1, para verificar se são a mesma população.
+- Cruzar os _outliers_ espectrais da Etapa 2 com o subgrupo cinemático/químico destacado na Etapa 1, para verificar se são a mesma população.
 - Comparar sistematicamente Isolation Forest, autoencoder e HDBSCAN como detectores de anomalia, com métricas de precisão/recall contra rótulos conhecidos.
-- Complementar com mais diagnósticos de *chemical tagging* para testar se o grupo anômalo é de fato uma população química à parte.
+- Complementar com mais diagnósticos de _chemical tagging_ para testar se o grupo anômalo é de fato uma população química à parte.
 
 ---
 
 ## 📚 Bibliografia principal
 
-- Traven et al. (2017) — *The GALAH survey: classification and diagnostics with t-SNE reduction of spectral information* — metodologia-base da Etapa 2.
+- Traven et al. (2017) — _The GALAH survey: classification and diagnostics with t-SNE reduction of spectral information_ — metodologia-base da Etapa 2.
 - Buder et al. (2025) — GALAH DR4.
 - Gaia Collaboration et al. (2021) — Gaia Catalogue of Nearby Stars.
 - da Silva & Smiljanic (2023) — t-SNE em espaço quimiodinâmico (base para a comparação colunas vs. pixels).

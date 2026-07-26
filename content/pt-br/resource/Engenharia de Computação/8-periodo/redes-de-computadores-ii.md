@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Redes de Computadores II
 created: 2026-07-18
-title: "Redes de Computadores II"
+modified: 2026-07-25T23:58:08.049-03:00
+published: 2026-07-25T23:58:08.049-03:00
 tags:
- - disciplina
- - especifica
+  - disciplina
+  - especifica
 ---
 
 > [!note] Sobre esta disciplina

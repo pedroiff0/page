@@ -1,11 +1,9 @@
 ---
 publish: false
+title: Aula 03
 created: 2026-07-22
-title: "Aula 03"
-titulo: Planetaria-Aula03
-disciplina: Ciências Planetárias
-conteudo: Ciências Planetárias — provável continuação em direção a exoplanetas e planetologia comparada
-professor:
+modified: 2026-07-26T00:02:57.231-03:00
+published: 2026-07-26T00:02:57.231-03:00
 tags:
   - escola-de-inverno-on
   - ciencias-planetarias
@@ -14,7 +12,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+titulo: Planetaria-Aula03
+disciplina: Ciências Planetárias
+conteudo: Ciências Planetárias — provável continuação em direção a exoplanetas e planetologia comparada
+professor:
 ---
+
 # 🪐 Notas de Aula — Ciências Planetárias (Aula 03)
 
 > [!warning] Nota provisória
@@ -24,7 +27,7 @@ cssclasses:
 > Continuação da Aula 02 — tema exato ainda não confirmado; conteúdo abaixo é um resumo mínimo e genérico, a ser substituído.
 
 > [!info] Informações da aula
-> **Tema:** *(a confirmar — continuação de [[Planetaria-Aula02|Aula 02]])*
+> **Tema:** _(a confirmar — continuação de [[Planetaria-Aula02|Aula 02]])_
 > **Professores:** Filipe Monteiro e Gustavo Madeira
 
 ---
@@ -34,6 +37,7 @@ cssclasses:
 Depois de tratar a arquitetura do Sistema Solar (Aula 01) e seus pequenos corpos como fóssil dinâmico (Aula 02), uma continuação natural — comum em minicursos de ciências planetárias — é sair do Sistema Solar e perguntar o quanto ele é "típico": como planetas em torno de outras estrelas se comparam ao que já vimos aqui, e o que a arquitetura observada de exoplanetas revela sobre os próprios modelos de formação (Grand Tack, Nice) discutidos na Aula 01.
 
 ### 📑 Tópicos prováveis (a confirmar com o material oficial)
+
 1. Métodos de detecção de exoplanetas (trânsito, velocidade radial)
 2. Diversidade de arquiteturas planetárias observadas
 3. Planetologia comparada: o Sistema Solar como um caso entre muitos
@@ -43,23 +47,24 @@ Depois de tratar a arquitetura do Sistema Solar (Aula 01) e seus pequenos corpos
 ## ⚠️ Pontos de atenção
 
 > [!important] Atenção
-> *(nenhuma anotação registrada ainda — a preencher a partir do material oficial da aula)*
+> _(nenhuma anotação registrada ainda — a preencher a partir do material oficial da aula)_
 
 ---
 
 ## 📌 Conceitos-chave
 
-- *(a preencher com o conteúdo real da aula)*
+- _(a preencher com o conteúdo real da aula)_
 
 ---
 
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 3)
-> *(nenhuma pergunta registrada ainda)*
+> _(nenhuma pergunta registrada ainda)_
 
 ---
 
 ## 🔗 Referências e correlatos
+
 - [Aula 01](pt-br/resource/escolainverno/planetaria/planetaria-aula01) — modelos Grand Tack e Nice, aqui potencialmente testados contra exoplanetas
 - [Aula 02](pt-br/resource/escolainverno/planetaria/planetaria-aula02) — pequenos corpos como vínculo observacional de formação planetária

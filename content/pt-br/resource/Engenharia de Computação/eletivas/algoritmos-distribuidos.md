@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Algoritmos Distribuídos
 created: 2026-07-18
-title: "Algoritmos Distribuídos"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -34,26 +36,33 @@ Sistemas de troca de mensagens. Processadores de comunicação. Roteamento e con
 ## 📖 Conteúdo Programático
 
 1. Introdução à Computação Paralela e Distribuída
- - Histórico
- - Paralelismo e Concorrência
- - Computação Paralela e Distribuída
- - Tendências
+
+- Histórico
+- Paralelismo e Concorrência
+- Computação Paralela e Distribuída
+- Tendências
+
 2. Arquiteturas Paralelas
- - Taxonomia de Flynn
- - Níveis de Paralelismo
- - Hierarquia de Memória e Caching
- - Corretude de Programas Concorrentes
- - Propriedades
- - Interferência entre processos concorrentes
- - Não Determinismo
+
+- Taxonomia de Flynn
+- Níveis de Paralelismo
+- Hierarquia de Memória e Caching
+- Corretude de Programas Concorrentes
+- Propriedades
+- Interferência entre processos concorrentes
+- Não Determinismo
+
 3. Modelos, Ferramentas e Ambientes de Computação Paralela e Distribuída
- - Modelos de Programação Paralela
- - OpenMP, MPI, CUDA e OpenACC
+
+- Modelos de Programação Paralela
+- OpenMP, MPI, CUDA e OpenACC
+
 4. Tópicos Emergentes em Computação Paralela e Distribuída
- - Projeto de Paralelização
- - Padrões de Projeto para Programação Paralela
- - Técnicas Básicas de Otimização
- - Algoritmos Paralelos para Problemas de Busca, Ordenação e Grafos
+
+- Projeto de Paralelização
+- Padrões de Projeto para Programação Paralela
+- Técnicas Básicas de Otimização
+- Algoritmos Paralelos para Problemas de Busca, Ordenação e Grafos
 
 ## 📕 Bibliografia Básica
 

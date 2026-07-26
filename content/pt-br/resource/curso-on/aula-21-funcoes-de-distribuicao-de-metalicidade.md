@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites"
-titulo: CursoON-Aula21
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: O Grupo Local como laboratório de evolução química, a função de distribuição de metalicidade (MDF) como registro fóssil de formação estelar e acréscimo, modelos químicos com infall/outflow, e as dificuldades práticas (número de objetos, completeza, fotometria vs. espectroscopia) de medir uma MDF
-professor: Hélio Dotto Perottoni
+title: Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites
 created: 2026-07-25
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -17,7 +14,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula21
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: O Grupo Local como laboratório de evolução química, a função de distribuição de metalicidade (MDF) como registro fóssil de formação estelar e acréscimo, modelos químicos com infall/outflow, e as dificuldades práticas (número de objetos, completeza, fotometria vs. espectroscopia) de medir uma MDF
+professor: Hélio Dotto Perottoni
 ---
+
 # 📊 Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites
 
 > [!note] Resumo
@@ -37,12 +40,12 @@ O **Grupo Local** é dominado por duas espirais massivas — a Via Láctea e And
 
 ## 🧬 O que a forma de uma MDF revela
 
-A **MDF** (*Metallicity Distribution Function*) é definida como a distribuição de frequência das metalicidades estelares de uma galáxia — e sua forma codifica os efeitos cumulativos de vários processos físicos:
+A **MDF** (_Metallicity Distribution Function_) é definida como a distribuição de frequência das metalicidades estelares de uma galáxia — e sua forma codifica os efeitos cumulativos de vários processos físicos:
 
 - **História de formação estelar:** quão rapidamente a galáxia converteu gás em estrelas.
 - **Enriquecimento químico:** com que eficiência as estrelas enriqueceram o meio.
 - **Mergers e acréscimos:** **múltiplos picos** na MDF indicam estrelas originárias de populações distintas.
-- **Montagem da galáxia (*assembly*):** se múltiplas populações estelares foram acretadas via fusões.
+- **Montagem da galáxia (_assembly_):** se múltiplas populações estelares foram acretadas via fusões.
 
 Ou seja: uma MDF bem medida é, em si, um registro comprimido da história completa de uma galáxia — o mesmo espírito por trás de usar o espaço $(E,L_z)$ para achar acréscimos (curso-on Aula 12), mas aplicado à distribuição de metalicidade como um todo, não a estrelas individuais.
 
@@ -50,12 +53,12 @@ Ou seja: uma MDF bem medida é, em si, um registro comprimido da história compl
 
 Modelos de evolução química preveem a forma esperada de uma MDF a partir de um balanço entre gás que entra, é convertido em estrelas, e é devolvido/perdido:
 
-$$\frac{d(\text{gás})}{dt} = \underbrace{\frac{dM_h}{dt}}_{\text{infall}} - \underbrace{(1-R)\,\psi(t)}_{\text{consumo líquido}} - \underbrace{\eta\,\psi(t)}_{\text{ventos}}$$
+$\frac{d(\text{gás})}{dt} = \underbrace{\frac{dM_h}{dt}}_{\text{infall}} - \underbrace{(1-R)\,\psi(t)}_{\text{consumo líquido}} - \underbrace{\eta\,\psi(t)}_{\text{ventos}}$
 
-onde $dM_h/dt$ é a taxa de acréscimo (*infall*) de gás, $\psi(t)$ é a taxa de formação estelar (SFR), $\eta$ é o **fator de carregamento** (*mass loading factor*) dos ventos galácticos — quanto gás é ejetado por unidade de massa estelar formada — e $(1-R)$ é o fator de aprisionamento (a fração da massa formada que não retorna ao meio interestelar via perda estelar). Variando esses ingredientes — taxa de infall, eficiência de formação estelar, intensidade dos ventos — os modelos reproduzem formas de MDF bem diferentes, permitindo inferir a história de uma galáxia a partir da MDF observada (o problema inverso).
+onde $dM_h/dt$ é a taxa de acréscimo (_infall_) de gás, $\psi(t)$ é a taxa de formação estelar (SFR), $\eta$ é o **fator de carregamento** (_mass loading factor_) dos ventos galácticos — quanto gás é ejetado por unidade de massa estelar formada — e $(1-R)$ é o fator de aprisionamento (a fração da massa formada que não retorna ao meio interestelar via perda estelar). Variando esses ingredientes — taxa de infall, eficiência de formação estelar, intensidade dos ventos — os modelos reproduzem formas de MDF bem diferentes, permitindo inferir a história de uma galáxia a partir da MDF observada (o problema inverso).
 
 > [!info] O "problema central" das galáxias anãs
-> Reproduzir simultaneamente a MDF observada, a história de formação estelar e a massa total de galáxias anãs com modelos simples de evolução química é uma dificuldade recorrente e bem documentada na literatura — os modelos mais simples (caixa fechada, *closed box*) sistematicamente falham em reproduzir a MDF real sem a inclusão de infall e ventos, cujos parâmetros exatos seguem sendo ativamente ajustados/debatidos.
+> Reproduzir simultaneamente a MDF observada, a história de formação estelar e a massa total de galáxias anãs com modelos simples de evolução química é uma dificuldade recorrente e bem documentada na literatura — os modelos mais simples (caixa fechada, _closed box_) sistematicamente falham em reproduzir a MDF real sem a inclusão de infall e ventos, cujos parâmetros exatos seguem sendo ativamente ajustados/debatidos.
 
 ## ⚠️ Por que medir uma MDF é difícil na prática
 

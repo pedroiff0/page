@@ -1,7 +1,9 @@
 ---
 publish: false
+title: Computação
 created: 2026-07-18
-title: "Computação"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 ---
 
 <div class="media-carousel">

@@ -1,9 +1,12 @@
 ---
 publish: false
-type: blog
-title: "Bem-vindo ao blog"
+title: Bem-vindo ao blog
 created: 2026-07-23
+modified: 2026-07-25T23:58:08.061-03:00
+published: 2026-07-25T23:58:08.061-03:00
+type: blog
 ---
+
 # ✍️ Bem-vindo ao blog
 
 > [!note] Resumo

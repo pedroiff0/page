@@ -1,10 +1,8 @@
 ---
 publish: false
-titulo: Composicoes
-disciplina: Palestra — Astrofísica Estelar
-conteudo: Composições químicas estelares com alta precisão e acurácia
-professor: Marília Carlos
 created: 2026-07-24
+modified: 2026-07-26T00:03:48.700-03:00
+published: 2026-07-26T00:03:48.700-03:00
 tags:
   - escola-de-inverno-on
   - palestra
@@ -12,7 +10,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+titulo: Composicoes
+disciplina: Palestra — Astrofísica Estelar
+conteudo: Composições químicas estelares com alta precisão e acurácia
+professor: Marília Carlos
 ---
+
 # 🎤 Palestra — Composições Químicas Estelares
 
 > [!warning] Nota provisória
@@ -52,7 +55,8 @@ Elementos formados por captura de nêutrons (curso-on, Aula 13) servem como **re
 ---
 
 ## 🔗 Referências e correlatos
-- Carroll & Ostlie (2007) — *An Introduction to Modern Astrophysics* (livro-texto citado na palestra)
+
+- Carroll & Ostlie (2007) — _An Introduction to Modern Astrophysics_ (livro-texto citado na palestra)
 - Carlos et al. (2016, 2019); Meléndez (2009); Amarsi et al. (2019) — depleção de elementos refratários em estrelas gêmeas solares
 - Huhn & Bitsch (2023) — citado na palestra, provável conexão entre formação planetária e composição estelar
 - [Curso ON — Aula 13: Nucleossíntese Estelar e Enriquecimento Químico](pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — os processos-s e r em mais detalhe

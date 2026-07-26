@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 16 — Métodos de Determinação de Idades Estelares"
-titulo: CursoON-Aula16
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Taxonomia dos métodos de datação estelar — empíricos (girocronologia, atividade cromosférica, depleção de lítio), dependentes de modelo (isócronas de aglomerados, astrossismologia) e semi-fundamentais (nucleocosmocronologia via Th/U)
-professor: Hélio Dotto Perottoni
+title: Aula 16 — Métodos de Determinação de Idades Estelares
 created: 2026-07-25
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -16,7 +13,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula16
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Taxonomia dos métodos de datação estelar — empíricos (girocronologia, atividade cromosférica, depleção de lítio), dependentes de modelo (isócronas de aglomerados, astrossismologia) e semi-fundamentais (nucleocosmocronologia via Th/U)
+professor: Hélio Dotto Perottoni
 ---
+
 # ⏳ Aula 16 — Métodos de Determinação de Idades Estelares
 
 > [!note] Resumo
@@ -47,13 +50,13 @@ Estrelas do tipo FGK perdem momento angular continuamente (por ventos magnetizad
 
 As linhas H e K do Ca II formam-se na **cromosfera**, aquecida por dissipação de energia magnética — estrelas mais ativas magneticamente emitem mais nos núcleos dessas linhas. Como a atividade magnética diminui com a idade (mesma causa física da girocronologia: perda de momento angular), o índice cromosférico
 
-$$R'_{HK} = \frac{F_{HK} - F_{\text{fotosfera}}}{F_{bol}}$$
+$R'_{HK} = \frac{F_{HK} - F_{\text{fotosfera}}}{F_{bol}}$
 
 (fluxo cromosférico, já removida a contribuição fotosférica, normalizado pelo fluxo bolométrico) funciona como indicador de idade — mas só numa faixa restrita: perto da temperatura solar ($5777\pm200\,$K), massas entre $0{,}9$-$1{,}1\,M_\odot$, e metalicidade não muito diferente da solar.
 
 ### Depleção de lítio e idades químicas
 
-O lítio superficial é destruído por reações nucleares em temperaturas relativamente baixas (Aula 13) à medida que camadas convectivas o levam a regiões mais quentes — sua abundância superficial decrescente com a idade é, portanto, outro indicador empírico. De forma relacionada, **idades químicas** usam razões de abundância específicas (não a metalicidade global) como *proxy* de idade, e um **método cinemático** usa a dispersão de velocidades de uma população (que cresce com o tempo por aquecimento dinâmico) como indicador estatístico de idade média.
+O lítio superficial é destruído por reações nucleares em temperaturas relativamente baixas (Aula 13) à medida que camadas convectivas o levam a regiões mais quentes — sua abundância superficial decrescente com a idade é, portanto, outro indicador empírico. De forma relacionada, **idades químicas** usam razões de abundância específicas (não a metalicidade global) como _proxy_ de idade, e um **método cinemático** usa a dispersão de velocidades de uma população (que cresce com o tempo por aquecimento dinâmico) como indicador estatístico de idade média.
 
 ## 🧮 Métodos dependentes de modelo
 
@@ -75,7 +78,7 @@ A partir delas (e de relações de escala calibradas em modelos estelares), obt�
 
 ## ☢️ Nucleocosmocronologia (método semi-fundamental)
 
-Estrelas enriquecidas pelo processo-r (Aula 13) podem conter elementos radioativos de meia-vida muito longa, como **²³²Th** ($t_{1/2}\approx14\,$Gyr) e **²³⁸U** ($t_{1/2}\approx4{,}5\,$Gyr). Comparando a abundância *atual* observada desses elementos com a abundância *inicial* esperada (estimada a partir de um elemento estável também produzido pelo processo-r, tipicamente o **európio, Eu**), o decaimento radioativo acumulado dá diretamente a idade da estrela — um método literalmente análogo à datação radiométrica usada em geologia/arqueologia terrestre, daí "semi-fundamental": não depende de calibração empírica, apenas de meias-vidas nucleares conhecidas com precisão.
+Estrelas enriquecidas pelo processo-r (Aula 13) podem conter elementos radioativos de meia-vida muito longa, como **²³²Th** ($t_{1/2}\approx14\,$Gyr) e **²³⁸U** ($t_{1/2}\approx4{,}5\,$Gyr). Comparando a abundância _atual_ observada desses elementos com a abundância _inicial_ esperada (estimada a partir de um elemento estável também produzido pelo processo-r, tipicamente o **európio, Eu**), o decaimento radioativo acumulado dá diretamente a idade da estrela — um método literalmente análogo à datação radiométrica usada em geologia/arqueologia terrestre, daí "semi-fundamental": não depende de calibração empírica, apenas de meias-vidas nucleares conhecidas com precisão.
 
 > [!warning] Por que esse método é raro na prática
 > O urânio é particularmente difícil de medir — possui apenas uma linha espectral muito fraca no óptico — e o próprio material de origem cita um estudo recente que aplicou o método a **apenas 7 estrelas** pobres em metais. É um método poderoso, mas de aplicabilidade observacional bastante restrita.
@@ -86,7 +89,7 @@ Estrelas enriquecidas pelo processo-r (Aula 13) podem conter elementos radioativ
 
 - **Três famílias de métodos de idade:** empíricos (girocronologia, atividade cromosférica, lítio), dependentes de modelo (isócronas, astrossismologia), semi-fundamentais (nucleocosmocronologia).
 - **Girocronologia:** rotação estelar decai como $t^{-1/2}$ (Skumanich 1972) — indicador de idade quase independente de distância.
-- **$R'_{HK}$:** índice de atividade cromosférica (linhas Ca II H&K) — decresce com a idade, válido numa faixa restrita de temperatura/massa/metalicidade próxima à solar.
+- **$R'_{HK}$:** índice de atividade cromosférica (linhas Ca II H\&K) — decresce com a idade, válido numa faixa restrita de temperatura/massa/metalicidade próxima à solar.
 - **$\nu_{max}$ e $\Delta\nu$:** as duas grandezas astrossismológicas que resumem massa, raio e idade estelar com alta precisão.
 - **Nucleocosmocronologia:** compara abundância atual de Th/U (radioativos, processo-r) com a abundância inicial estimada via Eu (estável, mesmo processo) — método direto, mas raramente aplicável na prática.
 

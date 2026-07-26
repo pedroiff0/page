@@ -1,7 +1,9 @@
 ---
 publish: false
+title: Palestras
 created: 2026-07-22
-title: "Palestras"
+modified: 2026-07-26T00:06:05.233-03:00
+published: 2026-07-26T00:06:05.233-03:00
 ---
 
 > [!note] Resumo

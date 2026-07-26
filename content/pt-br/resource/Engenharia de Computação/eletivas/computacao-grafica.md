@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Computação Gráfica
 created: 2026-07-18
-title: "Computação Gráfica"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -34,34 +36,43 @@ Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de
 ## 📖 Conteúdo Programático
 
 1. Dispositivos Gráficos
- - Apresentação de Imagens Usando Monitores ou Impressoras
- - Espaços de Cor
- - Bibliotecas Gráficas
- - Visão geral de pipeline gráfico
+
+- Apresentação de Imagens Usando Monitores ou Impressoras
+- Espaços de Cor
+- Bibliotecas Gráficas
+- Visão geral de pipeline gráfico
+
 2. Primitivas Gráficas
- - Ponto
- - Reta
- - Circunferência
- - Curvas
- - Polígonos
- - Planos g. Poliedros
+
+- Ponto
+- Reta
+- Circunferência
+- Curvas
+- Polígonos
+- Planos g. Poliedros
+
 3. Modelagem Geométrica
- - Triangulação de Polígonos
- - Vetores Normais
- - Operações de Conjuntos
- - Extrusão
+
+- Triangulação de Polígonos
+- Vetores Normais
+- Operações de Conjuntos
+- Extrusão
+
 4. Sistemas de Coordenadas e Transformações 2D e 3D
- - Sistemas de Coordenadas
- - Vetores
- - Transformações de Escala, Translação, Rotação
- - Matrizes
+
+- Sistemas de Coordenadas
+- Vetores
+- Transformações de Escala, Translação, Rotação
+- Matrizes
+
 5. Algoritmos de Projeção e Recorte
- - Z-Buffer
- - Visão Geral de Ray Tracing
- - Câmeras
- - Projeções Paralelas e em Perspectiva
- - Iluminação
- - Textura, sombras, reflexão e partículas
+
+- Z-Buffer
+- Visão Geral de Ray Tracing
+- Câmeras
+- Projeções Paralelas e em Perspectiva
+- Iluminação
+- Textura, sombras, reflexão e partículas
 
 ## 📕 Bibliografia Básica
 

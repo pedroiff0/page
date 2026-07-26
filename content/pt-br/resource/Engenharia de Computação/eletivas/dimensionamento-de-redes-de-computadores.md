@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Dimensionamento de Redes de Computadores
 created: 2026-07-18
-title: "Dimensionamento de Redes de Computadores"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - eletivo
+  - disciplina
+  - eletivo
 ---
 
 > [!note] Sobre esta disciplina

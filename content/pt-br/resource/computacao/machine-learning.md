@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Machine Learning
 created: 2026-07-18
-title: "Machine Learning"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] Machine learning é a área que constrói programas que aprendem padrões a partir de dados, em vez de seguir regras escritas à mão. É a tecnologia por trás de recomendações, detecção de fraude, diagnóstico por imagem — e da pesquisa em detecção de anomalias que desenvolvo neste site.

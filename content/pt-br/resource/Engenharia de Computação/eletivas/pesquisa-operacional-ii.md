@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Pesquisa Operacional II
 created: 2026-07-18
-title: "Pesquisa Operacional II"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -30,40 +32,51 @@ Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. T
 ## 📖 Conteúdo Programático
 
 1. Programação Linear Inteira (PLI)
- - Conceitos Fundamentais da PLI
- - Modelagem Matemática por PLI
- - Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
- - Programação Linear Inteira Binária (PLIB)
- - Modelos de PLIB
- - Problema do Caixeiro Viajante
+
+- Conceitos Fundamentais da PLI
+- Modelagem Matemática por PLI
+- Métodos de PLI (Algoritmo Branch-And-Bound e Algoritmo do Plano de Corte)
+- Programação Linear Inteira Binária (PLIB)
+- Modelos de PLIB
+- Problema do Caixeiro Viajante
+
 2. Programação por Metas (PM)
- - Conceitos Fundamentais da PM
- - Metas, desvios e funções objetivo para PM
- - PM por Priorização
- - Modelagem Matemática por PM
+
+- Conceitos Fundamentais da PM
+- Metas, desvios e funções objetivo para PM
+- PM por Priorização
+- Modelagem Matemática por PM
+
 3. Programação Linear Multiobjetivo (PLMO)
- - Conceitos Fundamentais da PLMO
- - Variáveis MINMAX
- - Fronteira de Eficiência
- - Modelagem Matemática por PLMO
+
+- Conceitos Fundamentais da PLMO
+- Variáveis MINMAX
+- Fronteira de Eficiência
+- Modelagem Matemática por PLMO
+
 4. Programação Dinâmica (PD)
- - Conceitos Fundamentais de PD
- - Aplicações da PD
+
+- Conceitos Fundamentais de PD
+- Aplicações da PD
+
 5. Teoria Clássica da Otimização
- - Conceitos Fundamentais
- - Problemas Irrestritos
- - Problemas Restritos
+
+- Conceitos Fundamentais
+- Problemas Irrestritos
+- Problemas Restritos
+
 6. Programação Não-Linear (PNL)
- - Tipos de Problemas de PNL
- - Programação Quadrática
- - Programação Separável
- - Programação Convexa
+
+- Tipos de Problemas de PNL
+- Programação Quadrática
+- Programação Separável
+- Programação Convexa
 
 ## 📕 Bibliografia Básica
 
 1. ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional para Cursos de Engenharia. 2ª Edição. São Paulo: Elsevier, 2015.
 2. CAIXETA-FILHO, José Vicente. Pesquisa operacional: técnicas de otimização aplicadas a sistemas agroindustriais. ed. São Paulo, SP: Atlas, 2004.
-4. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman,
+3. HILLIER, F. S., LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 9ª Edição. Porto Alegre: Bookman,
 
 ## 📗 Bibliografia Complementar
 
@@ -71,5 +84,5 @@ Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. T
 6. 5ª Edição. Rio de Janeiro: Atlas, 2014.
 7. GOLDBARG, M., LUNA, H. Otimização Combinatória e Programação Linear: Modelos e Algoritmos.
 8. 2ª Edição. São Paulo: Elsevier, 2005.
-9. ______. Otimização Combinatória e Meta-Heurísticas: Algoritmos e Aplicações São Paulo: Elsevier, 4. ______. Programação Linear e Fluxos em Rede. São Paulo: Elsevier, 2014.
+9. \_\_\_\_\_\_. Otimização Combinatória e Meta-Heurísticas: Algoritmos e Aplicações São Paulo: Elsevier, 4. \_\_\_\_\_\_. Programação Linear e Fluxos em Rede. São Paulo: Elsevier, 2014.
 10. VIRGILLITO, S. B. Pesquisa Operacional: Métodos de Modelagem Quantitativa para a Tomada de Decisões. São Paulo: Saraiva, 2017.

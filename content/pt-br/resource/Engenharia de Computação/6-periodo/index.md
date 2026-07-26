@@ -1,7 +1,9 @@
 ---
 publish: false
+title: 6º Período
 created: 2026-07-21
-title: "6º Período"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 order: 6
 ---
 

@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico"
-titulo: CursoON-Aula13
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Nucleossíntese primordial (BBN) e estelar — queima de H/He, dragagens, processos alfa/e/s/i/r/p/x/neutrino —, números mágicos e o efeito da metalicidade na formação estelar
-professor: Hélio Dotto Perottoni
+title: Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 created: 2026-07-25
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -16,7 +13,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula13
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Nucleossíntese primordial (BBN) e estelar — queima de H/He, dragagens, processos alfa/e/s/i/r/p/x/neutrino —, números mágicos e o efeito da metalicidade na formação estelar
+professor: Hélio Dotto Perottoni
 ---
+
 # ⚛️ Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 
 > [!note] Resumo
@@ -46,11 +49,11 @@ Fora o Big Bang (e uma contribuição secundária de raios cósmicos, ver proces
 
 ### Queima do hidrogênio e do hélio
 
-A **queima do H** ocorre via duas redes de reações termonucleares (cadeia p-p e ciclo CNO), de forma hidrostática (interior estelar normal) ou explosiva (novas) — é a principal fonte de ⁷Be e de isótopos de C, N, O, F, Na e Ne. A **queima do He**, via processo **triplo-alfa** e $^{12}\text{C}(\alpha,\gamma)^{16}\text{O}$, ocorre em estrelas de massa intermediária/alta, também hidrostática (ramo horizontal) ou explosiva (*flash* de hélio, conchas em AGBs, choque de supernova); reações subsequentes com produtos da queima do H (ex.: $^{14}\text{N}(\alpha,\gamma)^{18}\text{F}\to{}^{18}\text{O}(\alpha,\gamma)^{22}\text{Ne}(\alpha,n)^{25}\text{Mg}$) fornecem uma das principais fontes de nêutrons para o processo-s.
+A **queima do H** ocorre via duas redes de reações termonucleares (cadeia p-p e ciclo CNO), de forma hidrostática (interior estelar normal) ou explosiva (novas) — é a principal fonte de ⁷Be e de isótopos de C, N, O, F, Na e Ne. A **queima do He**, via processo **triplo-alfa** e $^{12}\text{C}(\alpha,\gamma)^{16}\text{O}$, ocorre em estrelas de massa intermediária/alta, também hidrostática (ramo horizontal) ou explosiva (_flash_ de hélio, conchas em AGBs, choque de supernova); reações subsequentes com produtos da queima do H (ex.: $^{14}\text{N}(\alpha,\gamma)^{18}\text{F}\to{}^{18}\text{O}(\alpha,\gamma)^{22}\text{Ne}(\alpha,n)^{25}\text{Mg}$) fornecem uma das principais fontes de nêutrons para o processo-s.
 
 ### Dragagens
 
-Camadas de queima sucessivas têm composições químicas distintas; instabilidades convectivas podem misturar esse material, trazendo elementos pesados à superfície e combustível fresco às camadas inferiores — o mecanismo de **dragagem** (*dredge-up*). Três dragagens são reconhecidas em estrelas do ramo assintótico:
+Camadas de queima sucessivas têm composições químicas distintas; instabilidades convectivas podem misturar esse material, trazendo elementos pesados à superfície e combustível fresco às camadas inferiores — o mecanismo de **dragagem** (_dredge-up_). Três dragagens são reconhecidas em estrelas do ramo assintótico:
 
 1. **Primeira dragagem** — na subida ao ramo das gigantes; aumenta $^{14}$N, $^{13}$C e $^{17}$O superficiais, com queda acentuada nas razões $^{12}$C/$^{13}$C e $^{16}$O/$^{17}$O.
 2. **Segunda dragagem** — na subida ao ramo assintótico; relevante sobretudo acima de $4\,M_\odot$.
@@ -67,9 +70,9 @@ O **processo-$\alpha$** encadeia capturas $(\alpha,\gamma)$ — $^{12}\text{C}(\
 
 Como $^{56}$Fe tem a maior energia de ligação de todos os nuclídeos, não há como fundi-lo a outro núcleo e liberar energia — elementos mais pesados que o ferro só se formam por **captura sucessiva de nêutrons** seguida de decaimento $\beta$. Sem repulsão coulombiana para nêutrons, núcleos de $Z$ muito mais alto podem ser alcançados. Os três regimes dependem do **fluxo de nêutrons**:
 
-- **Processo-s** ("*slow*"): fluxo baixo ($n_n\sim10^8\,\text{cm}^{-3}$), decaimento $\beta$ ocorre entre capturas sucessivas. Domina em estrelas de $1$–$8\,M_\odot$ no último ~1% da vida. O "processo-s principal" (AGBs de baixa massa, $1$–$3\,M_\odot$, fonte de nêutrons $^{13}\text{C}(\alpha,n)^{16}\text{O}$) e o "processo-s fraco" (estrelas de massa intermediária, $3$–$8\,M_\odot$, fonte $^{22}\text{Ne}(\alpha,n)^{25}\text{Mg}$) cobrem faixas diferentes de número atômico.
-- **Processo-i** ("*intermediate*"): fluxo intermediário ($n_n\sim10^8\,\text{cm}^{-3}$, mas em regime distinto), proposto para explicar as ~20 estrelas **CEMP** (*Carbon-Enhanced Metal-Poor*) conhecidas cuja assinatura de captura de nêutrons não bate nem com processo-s nem com processo-r — originalmente chamadas CEMP-r/s (Beers & Christlieb 2005). O ambiente astrofísico exato ainda é incerto (candidatos: AGBs de baixa/intermediária massa e baixa metalicidade, ou AGBs "super" mais massivas).
-- **Processo-r** ("*rapid*"): fluxo extremo ($n_n\sim10^{22}\,\text{cm}^{-3}$) — a captura é tão rápida que o número de massa cresce muito antes de qualquer decaimento $\beta$. A fonte astrofísica ainda é debatida: supernovas de colapso de núcleo, supernovas magnetorrotacionais com jatos, e fusões de binárias compactas (estrela de nêutrons–estrela de nêutrons ou estrela de nêutrons–buraco negro) são os principais candidatos.
+- **Processo-s** ("_slow_"): fluxo baixo ($n_n\sim10^8\,\text{cm}^{-3}$), decaimento $\beta$ ocorre entre capturas sucessivas. Domina em estrelas de $1$–$8\,M_\odot$ no último ~1% da vida. O "processo-s principal" (AGBs de baixa massa, $1$–$3\,M_\odot$, fonte de nêutrons $^{13}\text{C}(\alpha,n)^{16}\text{O}$) e o "processo-s fraco" (estrelas de massa intermediária, $3$–$8\,M_\odot$, fonte $^{22}\text{Ne}(\alpha,n)^{25}\text{Mg}$) cobrem faixas diferentes de número atômico.
+- **Processo-i** ("_intermediate_"): fluxo intermediário ($n_n\sim10^8\,\text{cm}^{-3}$, mas em regime distinto), proposto para explicar as ~20 estrelas **CEMP** (_Carbon-Enhanced Metal-Poor_) conhecidas cuja assinatura de captura de nêutrons não bate nem com processo-s nem com processo-r — originalmente chamadas CEMP-r/s (Beers & Christlieb 2005). O ambiente astrofísico exato ainda é incerto (candidatos: AGBs de baixa/intermediária massa e baixa metalicidade, ou AGBs "super" mais massivas).
+- **Processo-r** ("_rapid_"): fluxo extremo ($n_n\sim10^{22}\,\text{cm}^{-3}$) — a captura é tão rápida que o número de massa cresce muito antes de qualquer decaimento $\beta$. A fonte astrofísica ainda é debatida: supernovas de colapso de núcleo, supernovas magnetorrotacionais com jatos, e fusões de binárias compactas (estrela de nêutrons–estrela de nêutrons ou estrela de nêutrons–buraco negro) são os principais candidatos.
 
 > [!info] Números mágicos e o vale de estabilidade
 > Nuclídeos com número de prótons ou nêutrons igual a 2, 8, 20, 28, 50, 82, 126 ou 184 (**números mágicos**) são anormalmente estáveis contra decaimento $\beta$ e, por isso, mais abundantes que seus vizinhos — o pico correspondente ocorre em números de massa diferentes para os processos s e r, o que ajuda a distinguir a contribuição de cada processo numa dada abundância observada.
@@ -97,11 +100,11 @@ Metais no gás aumentam sua eficiência de **resfriamento radiativo** — o que 
 
 ## 🔗 Referências e correlatos
 
-- Burbidge, Burbidge, Fowler & Hoyle (1957) — *Synthesis of the Elements in Stars*, Rev. Mod. Phys. 29, 547 (bibcode `1957RvMP...29..547B`)
+- Burbidge, Burbidge, Fowler & Hoyle (1957) — _Synthesis of the Elements in Stars_, Rev. Mod. Phys. 29, 547 (bibcode `1957RvMP...29..547B`)
 - Beers & Christlieb (2005) — estrelas CEMP e a busca por metal-pobres extremas
 - Woosley et al. (1990) — proposta do processo-$\nu$
-- Stan Owocki — *Fundamentals of Astrophysics* (2021); Carroll & Ostlie — *An Introduction to Modern Astrophysics* (2017) — livros-texto de referência da aula
+- Stan Owocki — _Fundamentals of Astrophysics_ (2021); Carroll & Ostlie — _An Introduction to Modern Astrophysics_ (2017) — livros-texto de referência da aula
 - [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 04 — Espectroscopia e Metalicidade](pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade) — a notação [Fe/H] usada para quantificar o produto acumulado de todos esses processos
+- [Aula 04 — Espectroscopia e Metalicidade](pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade) — a notação \[Fe/H] usada para quantificar o produto acumulado de todos esses processos
 - [Escola de Inverno — Arqueologia Galáctica, Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — versão mais compacta dos processos-s/r, aqui expandida com toda a classificação B²FH
 - [Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos](pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso) — como as taxas relativas de SN II/Ia vistas aqui viram a ferramenta $[\alpha/\text{Fe}]$ para separar populações

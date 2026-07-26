@@ -1,9 +1,11 @@
 ---
 publish: false
-password: "409182ph"
-title: "Arqueologia Galáctica e Populações Estelares (ON)"
-order: 5
+title: Arqueologia Galáctica e Populações Estelares (ON)
 created: 2026-07-23
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
+password: 409182ph
+order: 5
 ---
 
 > [!note] Resumo
@@ -112,7 +114,7 @@ Curso de pós-graduação do Observatório Nacional (ON), com pré-requisito de 
 1. [Conceito e Histórico](pt-br/resource/curso-on/aula-01-conceito-e-historico) — o que é arqueologia galáctica, SSPs, e o histórico de Herschel a Searle & Zinn.
 2. [Diagrama HR e Aglomerados Estelares](pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — abertos vs. globulares, IMF, isócronas, populações I/II/III.
 3. [Magnitudes, Cores e Classificação Espectral](pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral) — escala de magnitude, magnitude absoluta, OBAFGKM.
-4. [Espectroscopia e Metalicidade](pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade) — leis de Kirchhoff, formação de linhas, [Fe/H].
+4. [Espectroscopia e Metalicidade](pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade) — leis de Kirchhoff, formação de linhas, \[Fe/H].
 5. [Avermelhamento, Extinção e IMF](pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf) — meio interestelar, extinção, $R_V$.
 6. [Diagrama HR e Relação Massa-Luminosidade](pt-br/resource/curso-on/aula-06-diagrama-hr-e-relacao-massa-luminosidade) — como medir propriedades estelares, $L\propto M^4$.
 7. [Distâncias, Escala de Distância e Coordenadas](pt-br/resource/curso-on/aula-07-distancias-e-coordenadas) — a escada cósmica completa, coordenadas galácticas.

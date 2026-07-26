@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Informática Básica
 created: 2026-07-18
-title: "Informática Básica"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico

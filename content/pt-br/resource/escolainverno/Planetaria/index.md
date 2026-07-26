@@ -1,7 +1,9 @@
 ---
 publish: false
+title: Ciências Planetárias
 created: 2026-07-22
-title: "Ciências Planetárias"
+modified: 2026-07-25T23:58:08.049-03:00
+published: 2026-07-25T23:58:08.049-03:00
 ---
 
 > [!note] Resumo

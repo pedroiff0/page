@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 03 — Magnitudes, Cores e Classificação Espectral"
-titulo: CursoON-Aula03
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Escala de magnitudes, magnitude absoluta, sistemas fotométricos, índices de cor e a classificação espectral OBAFGKM
-professor: Hélio Dotto Perottoni
+title: Aula 03 — Magnitudes, Cores e Classificação Espectral
 created: 2026-07-23
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -15,7 +12,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula03
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Escala de magnitudes, magnitude absoluta, sistemas fotométricos, índices de cor e a classificação espectral OBAFGKM
+professor: Hélio Dotto Perottoni
 ---
+
 # ✨ Aula 03 — Magnitudes, Cores e Classificação Espectral
 
 > [!note] Resumo
@@ -36,7 +39,7 @@ O fluxo luminoso (energia emitida por unidade de área) diminui com o quadrado d
 
 **Hiparco** (190–120 a.C.) estabeleceu a primeira escala comparativa de brilho estelar, de 1 (mais brilhante) a 6 (limite da visão humana). Entre as magnitudes 1 e 6 há uma diferença de fator 100× em fluxo — logo, cada magnitude corresponde a um fator de $100^{1/5} \approx 2{,}512$ em fluxo. A definição formal:
 
-$$m_1 - m_2 = -2{,}5 \log_{10}\left(\frac{F_1}{F_2}\right)$$
+$m_1 - m_2 = -2{,}5 \log_{10}\left(\frac{F_1}{F_2}\right)$
 
 O sinal negativo impõe a relação **inversa** entre magnitude e brilho: quanto **menor** a magnitude, **mais brilhante** o objeto.
 
@@ -44,7 +47,7 @@ O sinal negativo impõe a relação **inversa** entre magnitude e brilho: quanto
 
 A **magnitude absoluta ($M$)** é a magnitude que uma estrela teria se estivesse a exatamente **10 parsecs** do Sol — uma medida do brilho intrínseco, livre da degenerescência com a distância. A diferença entre magnitude aparente e absoluta é o **módulo de distância**:
 
-$$m - M = 5\log_{10}(d) - 5 \quad (d \text{ em parsec})$$
+$m - M = 5\log_{10}(d) - 5 \quad (d \text{ em parsec})$
 
 Esta é uma das equações fundamentais da Astronomia. Exemplo de aplicação: sabendo que o módulo de distância da Grande Nuvem de Magalhães (LMC) é 18,5, e que a magnitude absoluta do Sol é $\approx4{,}8$, uma estrela de tipo solar na LMC teria magnitude aparente $m = 18{,}5 + 4{,}8 = 23{,}3$.
 
@@ -55,7 +58,7 @@ Esta é uma das equações fundamentais da Astronomia. Exemplo de aplicação: s
 - **griz / Gunn / Oke:** baseados em calibração observacional, historicamente ligados a estrelas padrão (ex.: subanãs F).
 
 > [!warning] Um sistema de magnitude não é um sistema de filtro
-> Você pode usar qualquer filtro em qualquer sistema de magnitude — são dois conceitos independentes. Vários sistemas fotométricos foram desenvolvidos para diferentes aplicações e faixas de comprimento de onda [Almeida-Fernandes et al. 2021; Perottoni et al. 2024].
+> Você pode usar qualquer filtro em qualquer sistema de magnitude — são dois conceitos independentes. Vários sistemas fotométricos foram desenvolvidos para diferentes aplicações e faixas de comprimento de onda \[Almeida-Fernandes et al. 2021; Perottoni et al. 2024].
 
 ## 🌈 Índices de cor
 
@@ -92,9 +95,9 @@ O pico do espectro da classe M está deslocado para comprimentos de onda maiores
 
 ## 📷 Tipos de fotometria
 
-- **Fotometria absoluta:** mede o brilho em escala física calibrada, permitindo comparar objetos em regiões diferentes do céu (*all sky*). Requer noite fotométrica e calibração com estrelas padrão — mais sensível a variações atmosféricas.
+- **Fotometria absoluta:** mede o brilho em escala física calibrada, permitindo comparar objetos em regiões diferentes do céu (_all sky_). Requer noite fotométrica e calibração com estrelas padrão — mais sensível a variações atmosféricas.
 - **Fotometria diferencial:** mede o brilho relativo a outras estrelas do mesmo campo, observadas simultaneamente na mesma imagem. Menos afetada por condições atmosféricas; funciona mesmo sem noite perfeitamente fotométrica.
-- **Fotometria no domínio do tempo (*time-domain*):** acompanha variações de brilho de um mesmo objeto ao longo do tempo (essencial para identificar variáveis, como as Cefeidas da Aula 07).
+- **Fotometria no domínio do tempo (_time-domain_):** acompanha variações de brilho de um mesmo objeto ao longo do tempo (essencial para identificar variáveis, como as Cefeidas da Aula 07).
 
 ---
 

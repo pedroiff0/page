@@ -1,7 +1,9 @@
 ---
 publish: false
+title: 10º Período
 created: 2026-07-18
-title: "10º Período"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 order: 10
 ---
 

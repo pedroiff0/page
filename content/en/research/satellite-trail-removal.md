@@ -1,13 +1,16 @@
 ---
 publish: false
-title: "Simulating the Impact of Satellites on Astronomical Observations"
+title: Simulating the Impact of Satellites on Astronomical Observations
 created: 2024-03-06
+modified: 2026-07-25T23:58:08.065-03:00
+published: 2026-07-25T23:58:08.065-03:00
 tags:
   - light-pollution
   - artificial-satellites
   - image-processing
   - undergraduate-research
 ---
+
 # 🛰️ Simulating the Impact of Satellites on Astronomical Observations
 
 > [!note] Summary
@@ -49,9 +52,9 @@ The project was planned in 5 phases: (1) systematic review of the problem and ex
 
 ## 🔗 References and related
 
-- Milazzo et al. (2021) — *The Growing Digital Divide and its Negative Impacts on NASA's Future Workforce*, BAAS 53, 436
-- Rawls et al. (2020) — *Satellite Constellation Internet Affordability and Need*, RNAAS 4, 189
-- Venkatesan et al. (2020) — *The Impact of Satellite Constellations on Space as an Ancestral Global Commons*, Nature Astronomy 4, 1043
+- Milazzo et al. (2021) — _The Growing Digital Divide and its Negative Impacts on NASA's Future Workforce_, BAAS 53, 436
+- Rawls et al. (2020) — _Satellite Constellation Internet Affordability and Need_, RNAAS 4, 189
+- Venkatesan et al. (2020) — _The Impact of Satellite Constellations on Space as an Ancestral Global Commons_, Nature Astronomy 4, 1043
 - [FEBIC 2024](pt-br/media/2024/febic-2024) — coverage of the presentation and 3rd place (Portuguese only)
 - [MCTIA 2025](pt-br/media/2025/mctia-2025) — coverage of the presentation and 1st place (Portuguese only)
 - [Understanding Dark Matter through Extragalactic Shocks](en/research/dark-matter-shocks) — earlier project, same advisor

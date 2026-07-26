@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Introdução à Engenharia
 created: 2026-07-18
-title: "Introdução à Engenharia"
+modified: 2026-07-25T23:58:08.049-03:00
+published: 2026-07-25T23:58:08.049-03:00
 tags:
- - disciplina
- - profissionalizante
+  - disciplina
+  - profissionalizante
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,56 +37,71 @@ Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para S
 ## 📖 Conteúdo Programático
 
 1. Introdução à Engenharia
- - A engenharia como profissão;
- - Os tempos passados e a engenharia;
- - Os tempos futuros e a engenharia;
- - Grandes realizações da engenharia.
+
+- A engenharia como profissão;
+- Os tempos passados e a engenharia;
+- Os tempos futuros e a engenharia;
+- Grandes realizações da engenharia.
+
 2. Regulamentação profissional
- - Ética e responsabilidades.
+
+- Ética e responsabilidades.
+
 3. As atividades dos engenheiros
- - Aptidão para engenharia;
- - A educação em engenharia;
- - As funções dos engenheiros;
- - A equipe tecnológica.
+
+- Aptidão para engenharia;
+- A educação em engenharia;
+- As funções dos engenheiros;
+- A equipe tecnológica.
+
 4. Habilidades necessárias ao engenheiro
 5. As especialidades da engenharia
 6. O método para solução dos problemas de engenharia:
- - A fase de formulação do problema;
- - A fase de análise do problema;
- - A fase da pesquisa por soluções alternativas;
- - A fase da decisão;
- - A especificação da solução final.
+
+- A fase de formulação do problema;
+- A fase de análise do problema;
+- A fase da pesquisa por soluções alternativas;
+- A fase da decisão;
+- A especificação da solução final.
+
 7. Modelos e modelagem na engenharia
- - As representações dos sistemas físicos;
- - A modelagem na solução de problemas de engenharia;
- - O uso dos modelos.
+
+- As representações dos sistemas físicos;
+- A modelagem na solução de problemas de engenharia;
+- O uso dos modelos.
+
 8. A busca da solução ótima
- - Quando os critérios são contraditórios;
- - O processo relativo;
- - O processo de otimização.
+
+- Quando os critérios são contraditórios;
+- O processo relativo;
+- O processo de otimização.
+
 9. Desenho universal e a engenharia
- - Princípios do desenho universal:
- - Igualitário;
- - Adaptável;
- - Óbvio;
- - Conhecido;
- - Seguro;
- - Sem esforço;
- - Abrangente.
- - O Desenho Universal e seus usos variados;
- - Legislação sobre Desenho Universal:
- - Normas técnicas;
- - Legislação.
- - Boas práticas com desenho universal.
+
+- Princípios do desenho universal:
+- Igualitário;
+- Adaptável;
+- Óbvio;
+- Conhecido;
+- Seguro;
+- Sem esforço;
+- Abrangente.
+- O Desenho Universal e seus usos variados;
+- Legislação sobre Desenho Universal:
+- Normas técnicas;
+- Legislação.
+- Boas práticas com desenho universal.
+
 10. A análise de engenharia
 11. O mundo quantificado dos engenheiros
- - As dimensões;
- - Quantidades e unidades;
- - O Sistema Internacional e suas unidades;
- - Unidades derivadas;
- - Múltiplos e submúltiplos decimais das unidades SI;
- - Unidades fora do SI;
- - A escrita das unidades e suas unidades;
+
+- As dimensões;
+- Quantidades e unidades;
+- O Sistema Internacional e suas unidades;
+- Unidades derivadas;
+- Múltiplos e submúltiplos decimais das unidades SI;
+- Unidades fora do SI;
+- A escrita das unidades e suas unidades;
 
 ## 📕 Bibliografia Básica
 

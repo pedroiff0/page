@@ -1,7 +1,10 @@
 ---
 publish: false
-title: "HardCoreLife — Plataforma de Vida Modular"
+title: HardCoreLife — Plataforma de Vida Modular
 created: 2026-03-13
+modified: 2026-07-26T10:03:04.736-03:00
+published: 2026-07-26T10:03:04.736-03:00
+password: 409182ph
 ---
 
 > [!note] Em uma frase

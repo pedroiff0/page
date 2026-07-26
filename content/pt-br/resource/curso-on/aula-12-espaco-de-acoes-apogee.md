@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica"
-titulo: CursoON-Aula12
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Aula prática (APOGEE DR19) — excentricidade, pericentro/apocentro, diagrama de Toomre, o espaço (E, Lz) e o "diamante" de ações (JR, Jz, Lz) para separar populações estelares e identificar acréscimos
-professor: Hélio Dotto Perottoni
+title: Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica
 created: 2026-07-25
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -17,7 +14,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula12
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Aula prática (APOGEE DR19) — excentricidade, pericentro/apocentro, diagrama de Toomre, o espaço (E, Lz) e o "diamante" de ações (JR, Jz, Lz) para separar populações estelares e identificar acréscimos
+professor: Hélio Dotto Perottoni
 ---
+
 # 🎯 Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica
 
 > [!note] Resumo
@@ -39,7 +42,7 @@ O catálogo usado aqui já vem com os parâmetros orbitais de cada estrela **pr�
 
 A **excentricidade** orbital ($e\approx0$: quase circular; $e\to1$: muito alongada) tem uma distribuição populacional informativa por si só — a maior parte das estrelas do disco tem excentricidade baixa, com uma cauda estendendo-se a valores altos (halo). O gráfico $R_{peri}$ vs. $R_{apo}$ mostra a mesma informação de outro ângulo: sobrepondo curvas de excentricidade constante,
 
-$$R_{apo} = R_{peri}\,\frac{1+e}{1-e}$$
+$R_{apo} = R_{peri}\,\frac{1+e}{1-e}$
 
 fica visualmente claro que órbitas mais excêntricas têm maior separação relativa entre pericentro e apocentro — exatamente a definição geométrica de excentricidade orbital aplicada a dados reais.
 
@@ -54,7 +57,7 @@ O plano $V_\phi$ vs. $V_R$ complementa essa visão: o disco fino aparece concent
 Energia orbital $E$ e momento angular azimutal $L_z$ são, em boa aproximação, **integrais de movimento conservadas** (Aula 09) — por isso, estrelas que se originaram no mesmo evento de acréscimo (mesma galáxia satélite, dissolvida há bilhões de anos) tendem a permanecer **agrupadas** nesse espaço, mesmo depois de suas posições espaciais terem se espalhado completamente pela Galáxia. É o princípio por trás da busca por subestruturas dinâmicas: disco (alto $L_z$, órbitas quase circulares, baixa energia) e halo (baixo $L_z$, órbitas excêntricas, alta energia) ocupam regiões bem distintas desse plano, e colorir os mesmos pontos por excentricidade ou por raio galactocêntrico revela ainda mais estrutura interna.
 
 > [!info] O paper fundador: Helmi et al. (1999)
-> A ideia de usar o espaço de integrais de movimento para encontrar "fósseis" de fusões antigas remonta a Helmi, White, de Zeeuw & Zhao (1999, *Nature* 402, 53) — que mostraram que restos (*debris streams*) de uma fusão antiga permanecem agrupados no espaço de integrais de movimento na vizinhança solar, mesmo completamente misturados espacialmente. É a base conceitual direta de todo diagrama $(E,L_z)$ usado hoje para caçar acréscimos na Via Láctea.
+> A ideia de usar o espaço de integrais de movimento para encontrar "fósseis" de fusões antigas remonta a Helmi, White, de Zeeuw & Zhao (1999, _Nature_ 402, 53) — que mostraram que restos (_debris streams_) de uma fusão antiga permanecem agrupados no espaço de integrais de movimento na vizinhança solar, mesmo completamente misturados espacialmente. É a base conceitual direta de todo diagrama $(E,L_z)$ usado hoje para caçar acréscimos na Via Láctea.
 
 ## 💎 O "diamante" de ações: $J_R$, $J_z$ e $L_z$ normalizados
 
@@ -77,7 +80,7 @@ Esse tipo de diagrama comprime toda a informação dinâmica de uma órbita (for
 
 ## 🔗 Referências e correlatos
 
-- Helmi, White, de Zeeuw & Zhao (1999) — *Debris streams in the solar neighbourhood as relics from the formation of the Galaxy*, Nature 402, 53 (bibcode `1999Natur.402...53H`) — paper fundador do uso do espaço de integrais de movimento
+- Helmi, White, de Zeeuw & Zhao (1999) — _Debris streams in the solar neighbourhood as relics from the formation of the Galaxy_, Nature 402, 53 (bibcode `1999Natur.402...53H`) — paper fundador do uso do espaço de integrais de movimento
 - Outras leituras citadas nos slides originais (bibcodes ADS, sem título extraído): `2022ApJ...935L..22T`, `2023A&A...670L...2D`, `2023ApJ...946...66L`, `2023MNRAS.518.6200B`, `2024MNRAS.532.4389D`, `2021A&A...654A..15B`
 - [Curso ON — visão geral](pt-br/resource/curso-on)
 - [Aula 09 — Órbitas, Potenciais e Integrais de Movimento](pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento) — base teórica de $E$, $L_z$ e das ações usadas aqui

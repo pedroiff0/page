@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas"
-titulo: CursoON-Aula07
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: A escada cósmica de distâncias — de radar a supernovas Ia — e os sistemas de coordenadas horizontal, equatorial e galáctico
-professor: Hélio Dotto Perottoni
+title: Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 created: 2026-07-23
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -16,7 +13,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula07
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: A escada cósmica de distâncias — de radar a supernovas Ia — e os sistemas de coordenadas horizontal, equatorial e galáctico
+professor: Hélio Dotto Perottoni
 ---
+
 # 📐 Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas
 
 > [!note] Resumo
@@ -55,9 +58,9 @@ A **paralaxe** é a mudança de posição aparente de um objeto devido ao movime
 
 Nossos olhos só percebem profundidade a curta distância porque a linha de base (distância interpupilar) é minúscula — para objetos distantes, $\alpha$ se torna imperceptível. Em Astronomia, dispomos de linhas de base muito maiores: o **diâmetro da Terra**, ou, melhor ainda, o **diâmetro da órbita terrestre** (2 U.A.), observando o mesmo objeto com 6 meses de diferença.
 
-Para pequenos ângulos, $\tan p \approx p$, e definindo $p$ em segundos de arco, chega-se à unidade de **parsec** ("*parallax second*"): a distância de um objeto cuja paralaxe é exatamente 1 segundo de arco:
+Para pequenos ângulos, $\tan p \approx p$, e definindo $p$ em segundos de arco, chega-se à unidade de **parsec** ("_parallax second_"): a distância de um objeto cuja paralaxe é exatamente 1 segundo de arco:
 
-$$d\,[\text{pc}] = \frac{1}{p\,['']}$$
+$d\,[\text{pc}] = \frac{1}{p\,['']}$
 
 **Friedrich Bessel (1838)** foi o primeiro a medir uma paralaxe estelar com sucesso, para a estrela **61 Cygni** ($p=0{,}314'' \Rightarrow d=3{,}18\,$pc).
 
@@ -76,11 +79,11 @@ Paralaxe medida: $p = 0{,}3564 \pm 0{,}1343\,$mas (incerteza alta, pois a estrel
 
 ## 🌌 Distâncias na escala da Galáxia — ajuste de sequência principal
 
-Aglomerados estelares são conjuntos de estrelas nascidas aproximadamente juntas — isso se reflete na distribuição de suas estrelas-membro no diagrama HR. Como o brilho aparente depende da distância, e **todas** as estrelas de um mesmo aglomerado estão à mesma distância, é possível ajustar simultaneamente um único modelo teórico (isócrona) a todas elas, com **quatro parâmetros livres**: idade, composição química, avermelhamento e módulo de distância [ex.: Oliveira et al. 2020, para o aglomerado globular Messier 69]. Isso seria impossível de fazer para uma estrela isolada, mas em aglomerados temos milhares de estrelas simultaneamente restringindo o ajuste.
+Aglomerados estelares são conjuntos de estrelas nascidas aproximadamente juntas — isso se reflete na distribuição de suas estrelas-membro no diagrama HR. Como o brilho aparente depende da distância, e **todas** as estrelas de um mesmo aglomerado estão à mesma distância, é possível ajustar simultaneamente um único modelo teórico (isócrona) a todas elas, com **quatro parâmetros livres**: idade, composição química, avermelhamento e módulo de distância \[ex.: Oliveira et al. 2020, para o aglomerado globular Messier 69]. Isso seria impossível de fazer para uma estrela isolada, mas em aglomerados temos milhares de estrelas simultaneamente restringindo o ajuste.
 
 ## 🌠 Distâncias a galáxias próximas — Variáveis Cefeidas
 
-**Henrietta Leavitt** (início do séc. XX), estudando estrelas variáveis nas Nuvens de Magalhães, percebeu uma relação entre o **período de pulsação** e o **brilho** dessas estrelas — a **relação período-luminosidade** ("Lei de Leavitt") [1912HarCi.173....1L]. As Cefeidas são estrelas pulsantes muito luminosas, brilhantes o bastante para serem observadas em galáxias próximas.
+**Henrietta Leavitt** (início do séc. XX), estudando estrelas variáveis nas Nuvens de Magalhães, percebeu uma relação entre o **período de pulsação** e o **brilho** dessas estrelas — a **relação período-luminosidade** ("Lei de Leavitt") \[1912HarCi.173....1L]. As Cefeidas são estrelas pulsantes muito luminosas, brilhantes o bastante para serem observadas em galáxias próximas.
 
 > [!warning] Calibração necessária
 > Para aplicar essa relação como medida de distância, é preciso primeiro conhecer a distância de **algumas** Cefeidas por outro método (paralaxe, aglomerados) — só assim a relação período-luminosidade pode ser calibrada em escala absoluta. Uma vez calibrada, uma Cefeida se torna uma **vela padrão**: sua luminosidade é conhecida a partir do período observado, permitindo calcular a distância diretamente.
@@ -91,7 +94,7 @@ Aglomerados estelares são conjuntos de estrelas nascidas aproximadamente juntas
 
 Estrelas de massa próxima à do Sol terminam suas vidas como **anãs brancas** (após a fase de ramo assintótico e ejeção de nebulosa planetária). Uma característica fundamental das anãs brancas é o **limite de massa de Chandrasekhar** ($\sim1{,}4\,M_\odot$). Em um sistema binário, uma anã branca pode acretar material de uma estrela companheira; se atingir o limite de Chandrasekhar, ocorre uma **supernova tipo Ia**.
 
-Como todas as SN Ia explodem com massa muito próxima do mesmo limite, elas liberam quantidades de energia muito semelhantes — suas luminosidades são bem conhecidas e podem ser usadas como **velas padrão** [K. Maguire 2017]. Diferentemente de estrelas individuais, supernovas podem brilhar tanto quanto uma galáxia inteira, permitindo medir distâncias com precisão a distâncias muito maiores do que qualquer outro método da escada.
+Como todas as SN Ia explodem com massa muito próxima do mesmo limite, elas liberam quantidades de energia muito semelhantes — suas luminosidades são bem conhecidas e podem ser usadas como **velas padrão** \[K. Maguire 2017]. Diferentemente de estrelas individuais, supernovas podem brilhar tanto quanto uma galáxia inteira, permitindo medir distâncias com precisão a distâncias muito maiores do que qualquer outro método da escada.
 
 ### Calibração completa da constante de Hubble
 

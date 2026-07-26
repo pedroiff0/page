@@ -1,12 +1,9 @@
 ---
 publish: false
-password: "409182ph"
-title: "Aula 09 — Órbitas, Potenciais e Integrais de Movimento"
-titulo: CursoON-Aula09
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Da massa ao potencial gravitacional (equação de Poisson), órbitas em sistemas esféricos e axissimétricos, formalismo hamiltoniano e coordenadas ação-ângulo, colisões estelares, a equação de Boltzmann sem colisões, as equações de Jeans e o teorema do virial
-professor: Hélio Dotto Perottoni
+title: Aula 09 — Órbitas, Potenciais e Integrais de Movimento
 created: 2026-07-25
+modified: 2026-07-25T23:58:08.041-03:00
+published: 2026-07-25T23:58:08.041-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -16,7 +13,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula09
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Da massa ao potencial gravitacional (equação de Poisson), órbitas em sistemas esféricos e axissimétricos, formalismo hamiltoniano e coordenadas ação-ângulo, colisões estelares, a equação de Boltzmann sem colisões, as equações de Jeans e o teorema do virial
+professor: Hélio Dotto Perottoni
 ---
+
 # 🌀 Aula 09 — Órbitas, Potenciais e Integrais de Movimento
 
 > [!note] Resumo
@@ -38,17 +41,17 @@ De forma empírica, a dinâmica estelar/galáctica busca responder perguntas em 
 - **Mais fundo:** quais são os componentes dessa massa (estrelas, gás, matéria escura)? O conteúdo de massa observado é explicado pelos constituintes conhecidos? A maioria dos sistemas está em equilíbrio (aproximadamente estacionário) numa escala de tempo dinâmica?
 - **Mais além:** a variedade de estruturas de galáxias observadas é determinada pela estabilidade dinâmica? O que se pode aprender sobre a formação de galáxias a partir do seu estado dinâmico atual? Há remodelamento interno lento ("secular")?
 
-Na prática, essas perguntas são respondidas a partir de observáveis concretos: a **curva de rotação** (disco de estrelas e gás) dá a massa total; a **dispersão de velocidades** das estrelas revela a estrutura e massa do disco/bojo; o **halo estelar e os aglomerados globulares** traçam o potencial a grandes raios; e as **correntes estelares de maré** (*streams*) mapeiam diretamente o potencial gravitacional e o halo de matéria escura. Como o tempo dinâmico típico de uma galáxia é da ordem de $10^8$ anos, qualquer observação é essencialmente um "instantâneo" — a única exceção relevante é o Centro Galáctico, onde órbitas estelares individuais já foram acompanhadas ao longo de décadas.
+Na prática, essas perguntas são respondidas a partir de observáveis concretos: a **curva de rotação** (disco de estrelas e gás) dá a massa total; a **dispersão de velocidades** das estrelas revela a estrutura e massa do disco/bojo; o **halo estelar e os aglomerados globulares** traçam o potencial a grandes raios; e as **correntes estelares de maré** (_streams_) mapeiam diretamente o potencial gravitacional e o halo de matéria escura. Como o tempo dinâmico típico de uma galáxia é da ordem de $10^8$ anos, qualquer observação é essencialmente um "instantâneo" — a única exceção relevante é o Centro Galáctico, onde órbitas estelares individuais já foram acompanhadas ao longo de décadas.
 
 ## 🌌 Da massa ao potencial: a equação de Poisson
 
 A gravitação pode ser descrita, de forma equivalente à força newtoniana entre pares de partículas, por um **potencial escalar** $\Phi(\mathbf{x})$. A relação fundamental entre a distribuição de massa e o potencial que ela gera é a **equação de Poisson**:
 
-$$\nabla^2 \Phi(\mathbf{x}) = 4\pi G \rho(\mathbf{x})$$
+$\nabla^2 \Phi(\mathbf{x}) = 4\pi G \rho(\mathbf{x})$
 
 onde $\rho(\mathbf{x})$ é a densidade de massa. A distribuição de massa gera o potencial; o movimento das partículas, por sua vez, é determinado pelo **gradiente** desse potencial ($\mathbf{a} = -\nabla\Phi$). O problema da dinâmica estelar tem, portanto, duas direções:
 
-$$\rho(\mathbf{x}) \;\xrightarrow{\text{Poisson}}\; \Phi(\mathbf{x}) \;\xrightarrow{\text{integrar órbitas}}\; \text{órbitas}$$
+$\rho(\mathbf{x}) \;\xrightarrow{\text{Poisson}}\; \Phi(\mathbf{x}) \;\xrightarrow{\text{integrar órbitas}}\; \text{órbitas}$
 
 Esse limite (equação de Poisson) é o **limite newtoniano** da Relatividade Geral — válido quando se negligenciam efeitos relativísticos e a expansão cosmológica. Em geral, $\Phi$ é negativo e tende a zero no infinito.
 
@@ -60,7 +63,7 @@ Esse limite (equação de Poisson) é o **limite newtoniano** da Relatividade Ge
 Para sistemas esféricos, dois teoremas simplificam drasticamente o cálculo do potencial:
 
 1. **Primeiro teorema:** um corpo dentro de uma casca esférica uniforme de matéria não sofre força gravitacional resultante dessa casca.
-2. **Segundo teorema:** a força gravitacional sobre um corpo *fora* de uma casca esférica uniforme é idêntica à que ocorreria se toda a massa da casca estivesse concentrada em um ponto no seu centro.
+2. **Segundo teorema:** a força gravitacional sobre um corpo _fora_ de uma casca esférica uniforme é idêntica à que ocorreria se toda a massa da casca estivesse concentrada em um ponto no seu centro.
 
 Somando as contribuições de cascas sucessivas ($dM \to d\rho$), obtém-se o potencial de qualquer distribuição esférica de massa.
 
@@ -68,7 +71,7 @@ Somando as contribuições de cascas sucessivas ($dM \to d\rho$), obtém-se o po
 
 Numa órbita circular, a aceleração centrípeta é equilibrada pelo campo gravitacional, o que dá diretamente a **velocidade circular**:
 
-$$v_c(r) = \sqrt{\frac{GM(<r)}{r}}$$
+$v_c(r) = \sqrt{\frac{GM(<r)}{r}}$
 
 Essa é uma relação poderosa: medir $v_c(r)$ como função do raio equivale a medir diretamente a distribuição de massa contida dentro de $r$ — o princípio por trás de toda curva de rotação galáctica.
 
@@ -109,7 +112,7 @@ Seguir a órbita de cada uma das bilhões de estrelas de uma galáxia não é pr
 
 Como o sistema é não colisional (seção anterior), $f$ obedece à **equação de Boltzmann sem colisões**:
 
-$$\frac{Df}{Dt} = \frac{\partial f}{\partial t} + \mathbf{v}\cdot\nabla_{\mathbf x} f - \nabla\Phi\cdot\nabla_{\mathbf v} f = 0$$
+$\frac{Df}{Dt} = \frac{\partial f}{\partial t} + \mathbf{v}\cdot\nabla_{\mathbf x} f - \nabla\Phi\cdot\nabla_{\mathbf v} f = 0$
 
 Em equilíbrio ($\partial f/\partial t=0$), essa equação descreve qualquer sistema estacionário sob gravidade — não apenas casos especiais.
 
@@ -119,7 +122,7 @@ A função distribuição $f$ não é diretamente observável. Multiplicando a e
 
 Isso permite inverter o problema de sempre: em vez de conhecer a massa e prever o movimento, observa-se o movimento (densidade + dispersão de velocidades de uma população traçadora) e **infere-se a massa**:
 
-$$\nu(r),\ \sigma_r(r),\ \beta(r) \;\longrightarrow\; \Phi(r) \;\longrightarrow\; M(r)$$
+$\nu(r),\ \sigma_r(r),\ \beta(r) \;\longrightarrow\; \Phi(r) \;\longrightarrow\; M(r)$
 
 onde $\beta(r)$ é o parâmetro de **anisotropia** orbital: $\beta=0$ (isotropia, sem direção preferida), $0<\beta\le1$ (anisotropia radial, órbitas quase radiais), $\beta<0$ (anisotropia tangencial, órbitas mais circulares).
 
@@ -130,7 +133,7 @@ onde $\beta(r)$ é o parâmetro de **anisotropia** orbital: $\beta=0$ (isotropia
 
 Para um sistema em equilíbrio vale a relação escalar:
 
-$$2K + W = 0$$
+$2K + W = 0$
 
 onde $K$ é a energia cinética total do sistema ($K=\tfrac{1}{2}M\langle v^2\rangle$, com $\langle v^2\rangle$ a velocidade quadrática média das estrelas) e $W$ é a energia potencial gravitacional total. Rearranjando, obtém-se a massa necessária para sustentar os movimentos observados, $M \sim \langle v^2\rangle\, r_g / G$, com $r_g$ o raio gravitacional do sistema — a mesma lógica já usada em Aglomerados de Galáxias (Zwicky, Coma) para inferir a existência de matéria escura a partir do teorema do virial.
 
@@ -148,8 +151,8 @@ onde $K$ é a energia cinética total do sistema ($K=\tfrac{1}{2}M\langle v^2\ra
 
 ## 🔗 Referências e correlatos
 
-- Binney & Tremaine — *Galactic Dynamics* (livro-texto de referência da disciplina para esta unidade)
-- Bovy, J. — *Dynamics and Astrophysics of Galaxies*
+- Binney & Tremaine — _Galactic Dynamics_ (livro-texto de referência da disciplina para esta unidade)
+- Bovy, J. — _Dynamics and Astrophysics of Galaxies_
 - Notas de aula de Amina Helmi; apresentações de Eugene Vasiliev
 - [Curso ON — visão geral](pt-br/resource/curso-on)
 - [Aula 08 — Velocidades e Movimento Próprio](pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio) — pré-requisito direto: $(U,V,W)$ e o LSR introduzidos ali reaparecem aqui como condições iniciais de órbitas

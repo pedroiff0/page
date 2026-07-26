@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Banco de Dados
 created: 2026-07-18
-title: "Banco de Dados"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] Banco de dados é a área que estuda como armazenar, organizar e recuperar dados de forma confiável e eficiente. SQL e o modelo relacional dominam a indústria há mais de 40 anos — e continuam sendo a habilidade técnica mais universalmente cobrada em vagas de tecnologia.
@@ -31,7 +33,7 @@ Entenda as propriedades ACID, níveis de isolamento e o que acontece quando duas
 
 ### 4. Administração e além do relacional (avançado)
 
-Backup e recuperação, controle de acesso, replicação e noções de bancos não relacionais (documentos, chave-valor) — e principalmente *quando* cada modelo faz sentido. O [roadmap de PostgreSQL DBA](https://roadmap.sh/postgresql-dba) organiza bem esse universo. Tempo típico: 8+ semanas, melhor com um projeto real rodando.
+Backup e recuperação, controle de acesso, replicação e noções de bancos não relacionais (documentos, chave-valor) — e principalmente _quando_ cada modelo faz sentido. O [roadmap de PostgreSQL DBA](https://roadmap.sh/postgresql-dba) organiza bem esse universo. Tempo típico: 8+ semanas, melhor com um projeto real rodando.
 
 ## Conceitos que você precisa dominar
 
@@ -61,8 +63,8 @@ Backup e recuperação, controle de acesso, replicação e noções de bancos n�
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
-- DATE, C. J. *Introdução a Sistemas de Bancos de Dados*. O clássico teórico — rigoroso sobre o modelo relacional e suas fundações. Leitura que dá profundidade depois que você já pratica SQL.
-- ELMASRI, R.; NAVATHE, S. *Sistemas de Banco de Dados*. O livro-texto mais adotado nas universidades brasileiras; equilibra teoria e prática e cobre praticamente toda a ementa da disciplina.
+- DATE, C. J. _Introdução a Sistemas de Bancos de Dados_. O clássico teórico — rigoroso sobre o modelo relacional e suas fundações. Leitura que dá profundidade depois que você já pratica SQL.
+- ELMASRI, R.; NAVATHE, S. _Sistemas de Banco de Dados_. O livro-texto mais adotado nas universidades brasileiras; equilibra teoria e prática e cobre praticamente toda a ementa da disciplina.
 
 ## 🔗 Referências externas
 

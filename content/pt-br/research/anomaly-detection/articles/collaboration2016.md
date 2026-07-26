@@ -1,7 +1,9 @@
 ---
 publish: false
+title: A Missão Gaia
 created: 2026-07-18
-title: "A Missão Gaia"
+modified: 2026-07-25T23:58:08.061-03:00
+published: 2026-07-25T23:58:08.061-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Descreve a missão Gaia (ESA): astrometria de bilhões de estrelas com posição, paralaxe e movimento próprio. É a fonte das coordenadas cinemáticas (raio guia, ação vertical) usadas no seu projeto.
 
-*Collaboration, Gaia. (2016)*
+_Collaboration, Gaia. (2016)_
 
 ## Síntese
 

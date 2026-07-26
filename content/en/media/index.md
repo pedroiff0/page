@@ -1,8 +1,10 @@
 ---
 publish: false
 title: Media
-order: 4
 created: 2026-07-18T13:51:45.596-03:00
+modified: 2026-07-25T23:58:08.061-03:00
+published: 2026-07-25T23:58:08.061-03:00
+order: 4
 ---
 
 > [!note] Summary

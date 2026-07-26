@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Física II
 created: 2026-07-18
-title: "Física II"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,38 +37,49 @@ Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da ter
 ## 📖 Conteúdo Programático
 
 1. Oscilações
- - Equação diferencial de um MHS, método de solução;
- - Equação diferencial de uma oscilação amortecida, método de solução;
- - Equação diferencial de uma solução forçada, possíveis soluções;
- - Conceito de impedância, reatância e ressonância;
- - Osciladores acoplados;
- - Batimento.
+
+- Equação diferencial de um MHS, método de solução;
+- Equação diferencial de uma oscilação amortecida, método de solução;
+- Equação diferencial de uma solução forçada, possíveis soluções;
+- Conceito de impedância, reatância e ressonância;
+- Osciladores acoplados;
+- Batimento.
+
 2. Ondas em meios elásticos
- - Modelagem matemática de um movimento ondulatório f(x – vt);
- - Equação diferencial relacionando o comportamento no espaço e no tempo;
- - Velocidades de ondas em diferentes meios;
- - Interferência / Sobreposição de ondas;
- - Modos normais de vibração.
+
+- Modelagem matemática de um movimento ondulatório f(x – vt);
+- Equação diferencial relacionando o comportamento no espaço e no tempo;
+- Velocidades de ondas em diferentes meios;
+- Interferência / Sobreposição de ondas;
+- Modos normais de vibração.
+
 3. Ondas sonoras
- - Vibrações do meio relacionadas com perturbações da pressão;
- - Nível sonoro (dB);
- - Efeito Doppler;
- - Ressonância em tubos.
+
+- Vibrações do meio relacionadas com perturbações da pressão;
+- Nível sonoro (dB);
+- Efeito Doppler;
+- Ressonância em tubos.
+
 4. Temperatura e Calor
- - Temperatura;
- - Dilatação de sólidos e Líquidos;
- - Trocas de calor.
+
+- Temperatura;
+- Dilatação de sólidos e Líquidos;
+- Trocas de calor.
+
 5. Teoria Cinética dos Gases e Primeira Lei da Termodinâmica
- - As grandezas de estados de um gás;
- - Conceito de energia interna dos gases monoatômicos, diatômicos, poliatômicos;
- - Transformações termodinâmicas;
- - Diferentes modos de se calcular o trabalho;
- - Modelagem matemática da Primeira Lei.
- - Aplicações
+
+- As grandezas de estados de um gás;
+- Conceito de energia interna dos gases monoatômicos, diatômicos, poliatômicos;
+- Transformações termodinâmicas;
+- Diferentes modos de se calcular o trabalho;
+- Modelagem matemática da Primeira Lei.
+- Aplicações
+
 6. Entropia e Segunda Lei da Termodinâmica
- - Máquinas térmicas, ciclo de Carnot e os limites impostos pela natureza;
- - Entropia e reversibilidade;
- - Uma interpretação estatística para entropia.
+
+- Máquinas térmicas, ciclo de Carnot e os limites impostos pela natureza;
+- Entropia e reversibilidade;
+- Uma interpretação estatística para entropia.
 
 ## 📕 Bibliografia Básica
 

@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Álgebra Linear e Geometria Analítica II
 created: 2026-07-18
-title: "Álgebra Linear e Geometria Analítica II"
+modified: 2026-07-25T23:58:08.057-03:00
+published: 2026-07-25T23:58:08.057-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -36,28 +38,35 @@ Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores au
 ## 📖 Conteúdo Programático
 
 1. Transformações Lineares
- - Transformações lineares;
- - Núcleo e imagem de uma transformação linear;
- - Matriz de uma transformação linear;
- - Operações com transformações lineares;
- - Transformações lineares no plano;
- - Transformações lineares no espaço;
+
+- Transformações lineares;
+- Núcleo e imagem de uma transformação linear;
+- Matriz de uma transformação linear;
+- Operações com transformações lineares;
+- Transformações lineares no plano;
+- Transformações lineares no espaço;
+
 2. Operadores Lineares
- - Operadores Inversíveis;
- - Mudança de base;
- - Matrizes Semelhantes;
- - Operadores auto-adjuntos;
- - Operadores ortogonais.
+
+- Operadores Inversíveis;
+- Mudança de base;
+- Matrizes Semelhantes;
+- Operadores auto-adjuntos;
+- Operadores ortogonais.
+
 3. Valores e Vetores Próprios
- - Determinação dos valores próprios e dos vetores próprios;
- - Propriedades;
- - Diagonalização de operadores;
- - Diagonalização de matrizes simétricas;
+
+- Determinação dos valores próprios e dos vetores próprios;
+- Propriedades;
+- Diagonalização de operadores;
+- Diagonalização de matrizes simétricas;
+
 4. Formas Quadráticas
- - Forma quadrática no plano;
- - Classificação de cônicas;
- - Forma quadrática no espaço;
- - Classificação de quádricas.
+
+- Forma quadrática no plano;
+- Classificação de cônicas;
+- Forma quadrática no espaço;
+- Classificação de quádricas.
 
 ## 📕 Bibliografia Básica
 

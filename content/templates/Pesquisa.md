@@ -1,14 +1,17 @@
 ---
 publish: true
 title: "{{value}}"
-created: {{DATE:YYYY-MM-DD}}
+created:
+  "{ DATE:YYYY-MM-DD }":
+modified: 2026-07-23T14:02:44.505-03:00
+published: 2026-07-23T14:02:44.505-03:00
 tags:
   - 
 ---
+
 # 🔬 {{value}}
 
 > [!note] Resumo
-> 
 
 ## 🎯 Objetivo
 
@@ -20,4 +23,4 @@ tags:
 
 ## 🔗 Referências e correlatos
 
-- 
+-

@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Gestão Ambiental
 created: 2026-07-18
-title: "Gestão Ambiental"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -32,35 +34,45 @@ Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo,
 
 1. Conceito de Meio Ambiente
 2. Fundamentos de Teoria Geral dos Sistemas
- - O pensamento sistêmico
- - O todo e a soma das partes
- - O relacionamento interpartes
- - Escopo sistêmico
- - Dependência
- - Sinergia
- - A finitude da natureza
+
+- O pensamento sistêmico
+- O todo e a soma das partes
+- O relacionamento interpartes
+- Escopo sistêmico
+- Dependência
+- Sinergia
+- A finitude da natureza
+
 3. Noções de engenharia de materiais
- - Extração
- - Produção
- - Distribuição
- - Varejo
- - Descarte
+
+- Extração
+- Produção
+- Distribuição
+- Varejo
+- Descarte
+
 4. Reciclagem ou reaproveitamento
- - Definição de lixo e poluição
- - O lixo industrial
- - O lixo residencial
- - O desperdício
- - Poluição industrial
+
+- Definição de lixo e poluição
+- O lixo industrial
+- O lixo residencial
+- O desperdício
+- Poluição industrial
+
 5. Consumismo, reciclagem e reaproveitamento
- - A cultura consumista
- - A extração de materiais
- - Reciclagem
- - Reaproveitamento
- - Inovação na gestão de materiais
+
+- A cultura consumista
+- A extração de materiais
+- Reciclagem
+- Reaproveitamento
+- Inovação na gestão de materiais
+
 6. Externalidades negativas
- - Custos não contabilizados
- - Desoneração do trabalho
- - Extração não licenciada
+
+- Custos não contabilizados
+- Desoneração do trabalho
+- Extração não licenciada
+
 7. Responsabilidade ambiental
 8. Gestão de recursos hídricos
 9. Gestão da energia

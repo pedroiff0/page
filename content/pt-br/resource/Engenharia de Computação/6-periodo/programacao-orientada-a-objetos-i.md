@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Programação Orientada a Objetos I
 created: 2026-07-18
-title: "Programação Orientada a Objetos I"
+modified: 2026-07-25T23:58:08.053-03:00
+published: 2026-07-25T23:58:08.053-03:00
 tags:
- - disciplina
- - profissionalizante
+  - disciplina
+  - profissionalizante
 ---
 
 > [!note] Sobre esta disciplina
@@ -38,36 +40,43 @@ Desenvolvimento de software de complexidade média utilizando o paradigma de ori
 ## 📖 Conteúdo Programático
 
 1. Classes e Objetos
- - Conceito
- - Atributos e Operações: Classe e Instância
- - Tipo de Dados: Referência e Valor
- - Visibilidade de Atributos e Operações
- - Encapsulamento
- - Construtores e Destrutores g. Sobrecarga de Operação h. Associação e Composição
+
+- Conceito
+- Atributos e Operações: Classe e Instância
+- Tipo de Dados: Referência e Valor
+- Visibilidade de Atributos e Operações
+- Encapsulamento
+- Construtores e Destrutores g. Sobrecarga de Operação h. Associação e Composição
+
 2. Herança e Polimorfismo
- - Relacionamento de Generalização/Especialização
- - i. Hierarquia de Herança
- - ii. O Princípio da Substituição
- - iii. Sobrescrita de Métodos
- - Polimorfismo
- - i. Conceito
- - ii. Classes Abstratas
- - iii. Interfaces
- - Parametrização de Tipos
+
+- Relacionamento de Generalização/Especialização
+- i. Hierarquia de Herança
+- ii. O Princípio da Substituição
+- iii. Sobrescrita de Métodos
+- Polimorfismo
+- i. Conceito
+- ii. Classes Abstratas
+- iii. Interfaces
+- Parametrização de Tipos
+
 3. Entrada e Saída e Tratamento de Exceções
- - Tratamento de Exceções
- - i. Lançamento de Exceções
- - ii. Captura de Exceções
- - iii. Hierarquia de Exceções
- - Leitura e Escrita de Arquivos
- - i. Leitura de Dados
- - ii. Gravação de Dados
- - iii. Formatação de Dados
- - iv. Armazenamento e Recuperação de Objetos
+
+- Tratamento de Exceções
+- i. Lançamento de Exceções
+- ii. Captura de Exceções
+- iii. Hierarquia de Exceções
+- Leitura e Escrita de Arquivos
+- i. Leitura de Dados
+- ii. Gravação de Dados
+- iii. Formatação de Dados
+- iv. Armazenamento e Recuperação de Objetos
+
 4. Coleções
- - Listas
- - Conjuntos
- - Mapas
+
+- Listas
+- Conjuntos
+- Mapas
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

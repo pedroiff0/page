@@ -1,10 +1,12 @@
 ---
 publish: false
+title: Redes
 created: 2026-07-18
-title: "Redes"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] Redes de computadores é o estudo de como máquinas trocam informação: dos bits no cabo até o navegador carregando uma página. É a infraestrutura invisível de praticamente tudo que você usa — e uma das áreas com mais oferta de trabalho em infraestrutura, cloud e DevOps.
@@ -60,8 +62,8 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
-- KUROSE, J.; ROSS, K. *Redes de Computadores e a Internet: uma abordagem top-down*. A referência moderna — começa pela aplicação e desce até o físico, o que torna a leitura muito mais motivadora.
-- FOROUZAN, B. *Comunicação de Dados e Redes de Computadores*. Mais detalhista na transmissão e nas camadas baixas; complementa o Kurose.
+- KUROSE, J.; ROSS, K. _Redes de Computadores e a Internet: uma abordagem top-down_. A referência moderna — começa pela aplicação e desce até o físico, o que torna a leitura muito mais motivadora.
+- FOROUZAN, B. _Comunicação de Dados e Redes de Computadores_. Mais detalhista na transmissão e nas camadas baixas; complementa o Kurose.
 
 ## 🔗 Referências externas
 

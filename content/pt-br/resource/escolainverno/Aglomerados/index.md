@@ -1,7 +1,9 @@
 ---
 publish: false
+title: Aglomerados de Galáxias
 created: 2026-07-22
-title: "Aglomerados de Galáxias"
+modified: 2026-07-25T23:58:08.045-03:00
+published: 2026-07-25T23:58:08.045-03:00
 ---
 
 > [!note] Resumo

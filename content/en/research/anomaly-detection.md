@@ -1,8 +1,11 @@
 ---
 publish: false
-title: "Anomaly Detection in Gaia Data"
+title: Anomaly Detection in Gaia Data
 created: 2025-09-01
+modified: 2026-07-25T23:58:08.065-03:00
+published: 2026-07-25T23:58:08.065-03:00
 ---
+
 # 🔭 Anomaly Detection in Gaia Data
 
 > [!note] Summary
@@ -27,7 +30,7 @@ The work is split into two stages, one already published and one ongoing:
 | Catalog | What it provides | Size |
 |---|---|---|
 | **GCNS** (Gaia Catalogue of Nearby Stars, Gaia DR3) | Very high-precision astrometry and photometry | ~330,000 stars within 100 pc of the Sun |
-| **GALAH DR4** (Buder et al., 2025) | High-resolution spectra (R≈28,000), up to 30 chemical abundances, atmospheric parameters (Teff, log g, [Fe/H]), ages via PARSEC+COLIBRI isochrones, kinematics (Galpy + McMillan 2017 potential) | ~1,017,000 stars |
+| **GALAH DR4** (Buder et al., 2025) | High-resolution spectra (R≈28,000), up to 30 chemical abundances, atmospheric parameters (Teff, log g, \[Fe/H]), ages via PARSEC+COLIBRI isochrones, kinematics (Galpy + McMillan 2017 potential) | ~1,017,000 stars |
 | **Cross-matched sample (GCNS ∩ GALAH DR4)** | Stars with complete astrometry and spectroscopy | **~6,000 stars** |
 
 GALAH observes each star in **4 bands (CCDs)** of the HERMES spectrograph, at the Anglo-Australian Telescope: blue (4718–4903 Å), green (5649–5873 Å), red (6481–6739 Å), and infrared (7590–7890 Å), each with 4,096 pixels — meaning each spectrum is a **16,384-dimensional** vector before any reduction.
@@ -42,20 +45,21 @@ To inspect individual spectra during the analysis, I developed a **public web vi
 
 ## 1️⃣ Stage 1 — t-SNE mapping over physico-chemical parameters (published)
 
-Instead of plotting pre-chosen, hand-picked diagrams, I fed **t-SNE** directly with each star's physico-chemical and kinematic parameters (Teff, log g, [Fe/H], [Mg/Fe], and velocity components), letting the algorithm find clusters on its own, only coloring by known parameters afterward as an honesty check on the method.
+Instead of plotting pre-chosen, hand-picked diagrams, I fed **t-SNE** directly with each star's physico-chemical and kinematic parameters (Teff, log g, \[Fe/H], \[Mg/Fe], and velocity components), letting the algorithm find clusters on its own, only coloring by known parameters afterward as an honesty check on the method.
 
 **Quantitative validation** — I tested a perplexity grid from 15 to 90 and measured:
+
 - **KL divergence** — decreases steadily with perplexity.
 - **Trustworthiness** — between ~0.89 and 0.95 (stable).
 - **Continuity** — between ~0.97 and 0.98 (stable).
 
 Both neighborhood-preservation metrics stayed high and stable, indicating the 2D projection preserves both local structure (perplexity 30) and global structure (perplexity 50) of the original high-dimensional space reasonably well. In both, a **small standout subgroup** appears, with its own internal metallicity gradient — a candidate anomalous population, which motivated Stage 2.
 
-**Astrophysical characterization** — using the full sample: Kiel diagram (Teff × log g, colored by [Fe/H], with PARSEC+COLIBRI isochrones), Toomre diagram (V × √(U²+W²), separating disk from halo), and Tinsley-Wallerstein diagram ([Mg/Fe] × [Fe/H], separating thin/thick disk). The sample is dominated by F/G/K main-sequence stars, median age ≈ 1.6 Gyr (0.1–14.8 Gyr), median [Fe/H] ≈ −0.19 dex. On the Toomre diagram, **228 stars (3.8% of the sample) have velocity above 100 km/s** relative to the Sun — halo-membership candidates, and the most direct kinematic anomaly found so far.
+**Astrophysical characterization** — using the full sample: Kiel diagram (Teff × log g, colored by \[Fe/H], with PARSEC+COLIBRI isochrones), Toomre diagram (V × √(U²+W²), separating disk from halo), and Tinsley-Wallerstein diagram (\[Mg/Fe] × \[Fe/H], separating thin/thick disk). The sample is dominated by F/G/K main-sequence stars, median age ≈ 1.6 Gyr (0.1–14.8 Gyr), median \[Fe/H] ≈ −0.19 dex. On the Toomre diagram, **228 stars (3.8% of the sample) have velocity above 100 km/s** relative to the Sun — halo-membership candidates, and the most direct kinematic anomaly found so far.
 
 This work was published as:
 
-> ANDRADE, P. H. R. et al. *Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4*. Boletim da Sociedade Astronômica Brasileira, 2025.
+> ANDRADE, P. H. R. et al. _Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4_. Boletim da Sociedade Astronômica Brasileira, 2025.
 
 And presented as a poster at **SAB 2025**, at the **78th Annual SBPC Meeting (2026)**, and at this **National Observatory Winter School (2026)** — see [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) (Portuguese) for the full text of that presentation.
 
@@ -69,14 +73,14 @@ The standout subgroup from Stage 1 raised a question: does that anomaly still sh
 
 A central methodological decision was understanding the difference between feeding t-SNE **catalog columns** (already-derived parameters, as in Stage 1) versus the **raw spectrum pixels**:
 
-- **Catalog columns** (e.g., [Fe/H], [Mg/Fe] + orbital actions $J_x$, $J_y$ — an approach also used by da Silva & Smiljanic 2023): low computational cost, direct interpretation, but the clustering becomes **dependent on the models** that generated those columns — a systematic pipeline error (e.g., a poorly-fit log g for a cool star) contaminates the clustering.
+- **Catalog columns** (e.g., \[Fe/H], \[Mg/Fe] + orbital actions $J_x$, $J_y$ — an approach also used by da Silva & Smiljanic 2023): low computational cost, direct interpretation, but the clustering becomes **dependent on the models** that generated those columns — a systematic pipeline error (e.g., a poorly-fit log g for a cool star) contaminates the clustering.
 - **Spectrum pixels** (the normalized flux vector, raw data): clusters by **morphological similarity of the light itself**, immune to stellar atmosphere model errors — better for finding uncataloged binaries or instrument defects, but computationally more expensive and without a ready "physical label" (each cluster's cause must be inspected manually).
 
 ### What's already been tested
 
 I ran t-SNE over the normalized spectra (HDU 1 of each star/CCD's FITS file) under several configurations, comparing against the column-based approach:
 
-![t-SNE over raw spectra (4 concatenated CCDs, ~5,900 stars), colored by catalog Teff, log g, and [Fe/H] — used as an honesty check on the clustering.](assets/anomaly-detection/tsne-espectros-brutos.png)
+![t-SNE over raw spectra (4 concatenated CCDs, ~5,900 stars), colored by catalog Teff, log g, and \[Fe/H\] — used as an honesty check on the clustering.](assets/anomaly-detection/tsne-espectros-brutos.png)
 
 ![Comparison of different t-SNE perplexities over the spectra (pixel data), colored by effective temperature — higher perplexities smooth out local structure in favor of global structure.](assets/anomaly-detection/tsne-comparacao-perplexidade.png)
 
@@ -114,13 +118,13 @@ Summary of the main methodological decisions made throughout the project, from m
 - Validate the clusters found in Stage 2 with **HDBSCAN over the t-SNE projection**, comparing directly against Traven et al.'s (2017) 10 morphological categories.
 - Cross-match Stage 2's spectral outliers with the kinematic/chemical subgroup found in Stage 1, to check whether they're the same population.
 - Systematically compare Isolation Forest, autoencoder, and HDBSCAN as anomaly detectors, with precision/recall metrics against known labels.
-- Add more *chemical tagging* diagnostics to test whether the anomalous group is in fact a separate chemical population.
+- Add more _chemical tagging_ diagnostics to test whether the anomalous group is in fact a separate chemical population.
 
 ---
 
 ## 📚 Main bibliography
 
-- Traven et al. (2017) — *The GALAH survey: classification and diagnostics with t-SNE reduction of spectral information* — base methodology for Stage 2.
+- Traven et al. (2017) — _The GALAH survey: classification and diagnostics with t-SNE reduction of spectral information_ — base methodology for Stage 2.
 - Buder et al. (2025) — GALAH DR4.
 - Gaia Collaboration et al. (2021) — Gaia Catalogue of Nearby Stars.
 - da Silva & Smiljanic (2023) — t-SNE in chemodynamical space (basis for the columns-vs-pixels comparison).

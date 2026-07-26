@@ -1,8 +1,9 @@
 ---
-publish: false
+publish: true
 title: Sobre Mí
 created: 2026-07-18T14:50:18.601-03:00
 modified: 2026-07-23
+published: 2026-07-26T10:01:55.713-03:00
 ---
 
 > [!info] ¡Bienvenido(a)!
@@ -41,6 +42,7 @@ Si quieres ponerte en contacto, ¡envíame un correo!
 </form>
 
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
 <script>
 (function() {
   // TODO(Pedro): reemplaza con tus credenciales de https://dashboard.emailjs.com
