@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: 3º Período
 created: 2026-07-21
-modified: 2026-07-25T23:58:08.053-03:00
-published: 2026-07-25T23:58:08.053-03:00
+modified: 2026-07-26T11:33:09.999-03:00
+published: 2026-07-26T11:33:09.999-03:00
 order: 3
 ---
 

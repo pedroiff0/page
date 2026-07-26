@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Engenharia de Computação
 created: 2026-07-22
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T11:33:09.979-03:00
+published: 2026-07-26T11:33:09.979-03:00
 order: 1
 ---
 

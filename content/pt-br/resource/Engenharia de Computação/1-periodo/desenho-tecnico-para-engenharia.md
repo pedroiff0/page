@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Desenho Técnico para Engenharia
 created: 2026-07-18
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T11:33:09.991-03:00
+published: 2026-07-26T11:33:09.991-03:00
 tags:
   - disciplina
   - basica

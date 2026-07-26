@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade
 created: 2026-07-25
-modified: 2026-07-25T23:58:08.041-03:00
-published: 2026-07-25T23:58:08.041-03:00
+modified: 2026-07-26T11:33:09.983-03:00
+published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
   - arqueologia-galactica

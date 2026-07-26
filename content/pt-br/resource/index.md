@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Recursos
 created: 2026-07-18T14:50:18.101-03:00
-modified: 2026-07-25T23:58:08.041-03:00
-published: 2026-07-25T23:58:08.041-03:00
+modified: 2026-07-26T11:11:46.278-03:00
+published: 2026-07-26T11:11:46.278-03:00
 order: 2
 ---
 
@@ -33,7 +33,7 @@ order: 2
   </a>
 </div>
 
-## 📚 Meu Arquivo Público da Mente (PAM)
+## 📚 Arquivos Públicos
 
 Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao longo da minha jornada acadêmica — uma base de conhecimento pessoal, aberta para qualquer um explorar e usar.
 
@@ -46,7 +46,7 @@ Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao l
 
 - [Engenharia de Computação](pt-br/resource/engenharia-de-computação) — Grade curricular completa, organizada por período.
 - [Escola de Inverno (ON 2026)](pt-br/resource/escolainverno) — Notas de aula por minicurso.
-- [Arqueologia Galáctica e Populações Estelares (ON)](pt-br/resource/curso-on) — Disciplina completa de pós-graduação, 8 aulas, Prof. Hélio Dotto Perottoni.
+- [Arqueologia Galáctica e Populações Estelares (ON)](pt-br/resource/curso-on) — Disciplina completa de pós-graduação, 25 aulas, Prof. Hélio Dotto Perottoni.
 
 ### 🎨 LaTeX e Escrita
 

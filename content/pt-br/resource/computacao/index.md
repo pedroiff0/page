@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Computação
 created: 2026-07-18
-modified: 2026-07-25T23:58:08.045-03:00
-published: 2026-07-25T23:58:08.045-03:00
+modified: 2026-07-26T11:33:09.979-03:00
+published: 2026-07-26T11:33:09.979-03:00
 ---
 
 <div class="media-carousel">
@@ -23,9 +23,21 @@ published: 2026-07-25T23:58:08.045-03:00
     <img src="/assets/illustrations/computacao.svg" alt="Circuitos" />
     <div class="slide-caption">Circuitos</div>
   </a>
+  <a href="/pt-br/resource/computacao/compiladores" class="carousel-slide">
+    <img src="/assets/illustrations/computacao.svg" alt="Compiladores" />
+    <div class="slide-caption">Compiladores</div>
+  </a>
+  <a href="/pt-br/resource/computacao/computacao-grafica" class="carousel-slide">
+    <img src="/assets/illustrations/computacao.svg" alt="Computação Gráfica" />
+    <div class="slide-caption">Computação Gráfica</div>
+  </a>
   <a href="/pt-br/resource/computacao/comunicacao-de-dados" class="carousel-slide">
     <img src="/assets/illustrations/computacao.svg" alt="Comunicação de Dados" />
     <div class="slide-caption">Comunicação de Dados</div>
+  </a>
+  <a href="/pt-br/resource/computacao/desenvolvimento-web" class="carousel-slide">
+    <img src="/assets/illustrations/computacao.svg" alt="Desenvolvimento Web" />
+    <div class="slide-caption">Desenvolvimento Web</div>
   </a>
   <a href="/pt-br/resource/computacao/engenharia-de-software" class="carousel-slide">
     <img src="/assets/illustrations/computacao.svg" alt="Engenharia de Software" />
@@ -38,6 +50,10 @@ published: 2026-07-25T23:58:08.045-03:00
   <a href="/pt-br/resource/computacao/informatica-basica" class="carousel-slide">
     <img src="/assets/illustrations/computacao.svg" alt="Informática Básica" />
     <div class="slide-caption">Informática Básica</div>
+  </a>
+  <a href="/pt-br/resource/computacao/linguagens-formais-e-automatos" class="carousel-slide">
+    <img src="/assets/illustrations/computacao.svg" alt="Linguagens Formais e Autômatos" />
+    <div class="slide-caption">Linguagens Formais e Autômatos</div>
   </a>
   <a href="/pt-br/resource/computacao/logica-de-computacao" class="carousel-slide">
     <img src="/assets/illustrations/computacao.svg" alt="Lógica de Computação" />
@@ -55,6 +71,10 @@ published: 2026-07-25T23:58:08.045-03:00
     <img src="/assets/illustrations/computacao.svg" alt="Prática Profissional" />
     <div class="slide-caption">Prática Profissional</div>
   </a>
+  <a href="/pt-br/resource/computacao/processamento-de-imagens" class="carousel-slide">
+    <img src="/assets/illustrations/computacao.svg" alt="Processamento de Imagens" />
+    <div class="slide-caption">Processamento de Imagens</div>
+  </a>
   <a href="/pt-br/resource/computacao/programacao" class="carousel-slide">
     <img src="/assets/illustrations/computacao.svg" alt="Programação" />
     <div class="slide-caption">Programação</div>
@@ -70,6 +90,10 @@ published: 2026-07-25T23:58:08.045-03:00
   <a href="/pt-br/resource/computacao/seguranca-da-informacao" class="carousel-slide">
     <img src="/assets/illustrations/computacao.svg" alt="Segurança da Informação" />
     <div class="slide-caption">Segurança da Informação</div>
+  </a>
+  <a href="/pt-br/resource/computacao/sistemas-distribuidos" class="carousel-slide">
+    <img src="/assets/illustrations/computacao.svg" alt="Sistemas Distribuídos" />
+    <div class="slide-caption">Sistemas Distribuídos</div>
   </a>
   <a href="/pt-br/resource/computacao/sistemas-operacionais" class="carousel-slide">
     <img src="/assets/illustrations/computacao.svg" alt="Sistemas Operacionais" />
@@ -101,3 +125,9 @@ Arquivo curado de materiais de estudo em Ciência da Computação, organizado po
 - [Segurança da Informação](pt-br/resource/computacao/seguranca-da-informacao) — Criptografia aplicada, OWASP Top 10 e mentalidade de atacante — o tópico sem disciplina dedicada na grade, e justamente por isso obrigatório por conta própria.
 - [Machine Learning](pt-br/resource/computacao/machine-learning) — Aprendizado supervisionado e não supervisionado, avaliação de modelos e o caminho até a minha própria pesquisa: detecção de anomalias em dados astronômicos.
 - [Prática Profissional](pt-br/resource/computacao/pratica-profissional) — Metodologia científica, escrita acadêmica, ABNT, Lattes e TCC: o que transforma trabalho técnico em carreira.
+- [Linguagens Formais e Autômatos](pt-br/resource/computacao/linguagens-formais-e-automatos) — Autômatos finitos, gramáticas livres de contexto, Máquina de Turing e o Problema da Parada: os limites formais do que é computável.
+- [Compiladores](pt-br/resource/computacao/compiladores) — Análise léxica, sintática e semântica, geração e otimização de código: o que acontece entre o seu código-fonte e o programa que a máquina executa.
+- [Sistemas Distribuídos](pt-br/resource/computacao/sistemas-distribuidos) — Comunicação, sincronização, tolerância a falhas, Teorema CAP e computação paralela (OpenMP/MPI) — como várias máquinas cooperam sem virar um caos.
+- [Computação Gráfica](pt-br/resource/computacao/computacao-grafica) — Pipeline gráfico, transformações 2D/3D, projeção e iluminação: a matemática que transforma triângulos em pixels na tela.
+- [Desenvolvimento Web](pt-br/resource/computacao/desenvolvimento-web) — HTTP, front-end, back-end, REST e segurança básica: como um sistema roda distribuído entre servidor e navegador.
+- [Processamento de Imagens](pt-br/resource/computacao/processamento-de-imagens) — Convolução, filtros, segmentação e morfologia — imagem como matriz de números, com uma ponte direta pra minha própria pesquisa em astrofísica.

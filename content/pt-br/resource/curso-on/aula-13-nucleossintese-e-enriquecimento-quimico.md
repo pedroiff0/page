@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico
 created: 2026-07-25
-modified: 2026-07-25T23:58:08.041-03:00
-published: 2026-07-25T23:58:08.041-03:00
+modified: 2026-07-26T11:33:09.987-03:00
+published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
   - arqueologia-galactica

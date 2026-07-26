@@ -2,8 +2,8 @@
 publish: true
 title: About Me
 created: 2026-07-18T14:25:13.277-03:00
-modified: 2026-07-26T10:09:07.075-03:00
-published: 2026-07-26T10:09:07.075-03:00
+modified: 2026-07-26T11:15:19.088-03:00
+published: 2026-07-26T11:15:19.088-03:00
 ---
 
 > [!info] Welcome!
@@ -114,11 +114,12 @@ To navigate my work, explore the sections of this site:
   </a>
 </div>
 
-- [Research](en/research/) — Learn about my current projects and publications.
-- [Resources](en/resource/) — Materials, scripts, and useful tools I've developed or use.
-- [Classes](en/resource/engenharia-de-computação/) — My notes and coursework from college.
-- [Media](en/media/) — Participations in events, fairs, and presentations.
-- [Projects](en/projects/) — Tools and applications I build outside of academic research.
-- [Blog](en/blog/) — Random thoughts, tutorials, and reflections on the research journey.
+The links below are currently available only in Portuguese:
+
+- [Research](pt-br/research/) — Learn about my current projects and publications.
+- [Resources](pt-br/resource/) — Materials, scripts, and useful tools I've developed or use.
+- [Media](pt-br/media/) — Participations in events, fairs, and presentations.
+- [Projects](pt-br/projects/) — Tools and applications I build outside of academic research.
+- [Blog](pt-br/blog/) — Random thoughts, tutorials, and reflections on the research journey.
 
 This site is written in two languages: all content is first written in **Portuguese (Brazil)** and translated to English as time allows — so not every page has an English version yet. If you noticed something missing or outdated in translation, feel free to open an [issue in the repository](https://github.com/pedroiff0/page/issues), or [click here to open one pre-filled from the translation template](https://github.com/pedroiff0/page/issues/new?template=traducao.yml).

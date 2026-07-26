@@ -2,8 +2,8 @@
 publish: true
 title: Sobre Mim
 created: 2026-07-18T14:50:18.601-03:00
-modified: 2026-07-26T09:59:50.430-03:00
-published: 2026-07-26T09:59:50.430-03:00
+modified: 2026-07-26T11:16:08.217-03:00
+published: 2026-07-26T11:16:08.217-03:00
 ---
 
 > [!info] Bem-vindo(a)!
@@ -116,7 +116,6 @@ Para navegar pelo meu trabalho, explore as seções deste site:
 
 - [Pesquisa](pt-br/research/) — Conheça meus projetos atuais.
 - [Recursos](pt-br/resource/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
-- [Disciplinas](pt-br/resource/engenharia-de-computação/) — Minhas anotações e trabalhos de faculdade.
 - [Mídia](pt-br/media/) — Participações em eventos, feiras e apresentações.
 - [Projetos](pt-br/projects/) — Ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
 - [Blog](pt-br/blog/) — Pensamentos aleatórios, tutoriais e reflexões sobre a jornada de pesquisa.

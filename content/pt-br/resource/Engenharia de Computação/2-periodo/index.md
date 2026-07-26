@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: 2º Período
 created: 2026-07-21
-modified: 2026-07-25T23:58:08.057-03:00
-published: 2026-07-25T23:58:08.057-03:00
+modified: 2026-07-26T11:33:09.991-03:00
+published: 2026-07-26T11:33:09.991-03:00
 order: 2
 ---
 

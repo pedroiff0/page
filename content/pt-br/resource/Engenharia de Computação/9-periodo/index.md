@@ -1,9 +1,9 @@
 ---
-publish: false
+publish: true
 title: 9º Período
 created: 2026-07-21
-modified: 2026-07-25T23:58:08.049-03:00
-published: 2026-07-25T23:58:08.049-03:00
+modified: 2026-07-26T11:33:09.995-03:00
+published: 2026-07-26T11:33:09.995-03:00
 order: 9
 ---
 

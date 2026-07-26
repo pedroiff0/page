@@ -3,7 +3,7 @@ publish: true
 title: À propos de moi
 created: 2026-07-18T14:50:18.601-03:00
 modified: 2026-07-23
-published: 2026-07-26T10:01:58.952-03:00
+published: 2026-07-26T11:15:56.374-03:00
 ---
 
 > [!info] Bienvenue !
@@ -117,9 +117,10 @@ Pour naviguer dans mon travail, explorez les sections du site (en portugais/angl
   </a>
 </div>
 
+Les liens ci-dessous ne sont actuellement disponibles qu'en portugais:
+
 - [Recherche](pt-br/research/) — Découvrez mes projets actuels et publications.
 - [Ressources](pt-br/resource/) — Matériaux, scripts et outils utiles que j'ai développés ou que j'utilise.
-- [Matières](pt-br/resource/engenharia-de-computação/) — Mes notes et travaux universitaires.
 - [Médias](pt-br/media/) — Participations à des événements, salons et présentations.
 - [Projets](pt-br/projects/) — Outils et applications que je développe en dehors de la recherche académique.
 - [Blog](pt-br/blog/) — Pensées éparses, tutoriels et réflexions sur le parcours de recherche.
