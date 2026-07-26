@@ -56,6 +56,26 @@ Publicação normalmente acontece via:
 - Artigos científicos (`01 - Projetos/Anomaly_Detection/papers/`): a pasta `Anotacoes/` tem sínteses em PT geradas automaticamente (pdftotext/OCR) — algumas têm erro de extração visível (símbolos gregos, fórmulas quebradas). Ao publicar, extrair só a seção `## Síntese PT (didática)` (geralmente limpa) e a citação/BibTeX de `Notes/`; **não publicar os blocos de citação direta/OCR bruto**.
 - **Biblioteca de PDFs** (`scripts/import-biblioteca.sh`): curadoria fechada em 2026-07-19 sobre `05 - Recursos/Livros e Apostilas` (4,3GB, 270 arquivos). Só entram os ~62 arquivos (~330MB) com licença aberta verificada no texto do próprio PDF (Rede e-Tec/MEC, Escola Técnica Aberta, UAB, CETAM, CC, ou permissão explícita do autor). Ficam de fora: scans de livros comerciais (Stewart, Halliday, Tanenbaum, Kurose, Iezzi, etc. — muitos vindos de z-lib/pdfcoffee/kupdf), catálogos, duplicatas e a pasta `Provas IFF` (material pessoal com nome completo). O script é executado pelo dono do site, não por sessões automatizadas. Enquanto os PDFs não são importados, as páginas linkam o [ProEdu](https://proedu.rnp.br) (host oficial dos livros e-Tec); depois da importação, trocar para links locais `assets/biblioteca/<area>/<arquivo>.pdf`.
 
+## Notas de `media/` (participações em eventos)
+
+Cada evento é uma nota em `pt-br/media/<ano>/<slug-evento>.md`, seguindo sempre a mesma estrutura (o template em `templates/Evento.md` já vem pronto assim):
+
+1. Frontmatter com `photoFolder: <slug>` (ver seção de fotos/banners no `CLAUDE.md` da raiz do repo) e `type: blog`.
+2. `> [!note] Resumo` — 1-2 frases.
+3. `## 🗓️ Sobre o evento` — dados factuais (o quê, onde, quando).
+4. `## 👋 Minha participação` — o que foi apresentado, com quem, resultado.
+5. `> [!note] Opinião` — reflexão pessoal sobre a experiência. **Sempre `[!note]` minúsculo** — já apareceu como `[!NOTE]`/`[!INFO]` maiúsculo por edição direta no Obsidian, e isso é inconsistente com o resto do vault.
+6. `## 📎 Banner` (pôster) ou `## 📎 Slides` (apresentação oral) — o embed do PDF em si (`![[assets/banners/Banner....pdf]]`, caminho completo, ver `CLAUDE.md` da raiz).
+7. `## 🔗 Referências e correlatos` — sempre linkar a página de pesquisa por trás do trabalho (`pt-br/research/...`) quando houver, e o evento anterior/seguinte que apresentou o mesmo trabalho.
+
+Os índices (`pt-br/media/index.md` e `pt-br/media/<ano>/index.md`) **não têm mais carrossel manual** — ele é gerado automaticamente pelo plugin `photo-carousel` (ver `CLAUDE.md` da raiz). Só precisam de uma lista em markdown (`- [Nome do Evento](caminho) — descrição curta`) pra quem prefere navegar por texto; ao adicionar um evento novo, adicionar essa linha também (isso não é automático).
+
+## Notas de `research/` (projetos de pesquisa)
+
+Cada projeto de pesquisa é uma pasta própria — `pt-br/research/<slug>/index.md` (nunca um arquivo solto `pt-br/research/<slug>.md`) —, espelhando o padrão já usado por `anomaly-detection/` (que também tem uma subpasta `articles/`). Linkar sempre pelo caminho da pasta (`pt-br/research/dark-matter-shocks`), nunca com o nome do arquivo (`.../dark-matter-shocks/index.md`) — ambos resolvem, mas só o primeiro segue a convenção do resto do vault.
+
+Sempre que um projeto novo for adicionado: (a) criar a entrada em `pt-br/research/index.md` (carrossel + lista de "Projetos"), e (b) adicionar referência cruzada nos projetos relacionados já existentes — a seção "Referências e correlatos" de cada projeto deveria formar um "triângulo" apontando pros outros projetos relevantes, não só receber links deles.
+
 ## Pessoas com página própria
 
 Sempre que uma nota mencionar uma destas pessoas pela primeira vez, linkar o nome pra página pessoal dela:
