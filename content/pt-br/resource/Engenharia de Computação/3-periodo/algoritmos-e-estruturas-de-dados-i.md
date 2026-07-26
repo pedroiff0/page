@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 created: 2026-07-18
 title: "Algoritmos e Estruturas de Dados I"
 tags:

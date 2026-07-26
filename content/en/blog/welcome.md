@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 type: blog
 title: "Welcome to the blog"
 created: 2026-07-23

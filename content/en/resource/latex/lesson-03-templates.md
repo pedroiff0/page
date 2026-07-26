@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Lesson 03 — Templates & Classes"
 created: 2026-03-16
 ---

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Lecture 05 — Reddening, Extinction & IMF"
 titulo: CursoON-Aula05

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Vizinhança Solar com t-SNE"
 titulo: MinhaPesquisa-VizinhancaSolar-tSNE
 disciplina: Apresentação de Pesquisa

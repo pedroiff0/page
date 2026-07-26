@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Anomaly Detection in Gaia Data"
 created: 2025-09-01
 ---

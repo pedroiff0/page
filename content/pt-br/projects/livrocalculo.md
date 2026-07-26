@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Livro-Texto de Cálculo"
 created: 2026-03-13
 ---

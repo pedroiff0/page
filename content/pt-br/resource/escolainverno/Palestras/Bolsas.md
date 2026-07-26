@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 titulo: Bolsas
 disciplina: Sessão informativa
 conteudo: Sessão PG/PIBIC — bolsas e programas de pós-graduação (22/07)

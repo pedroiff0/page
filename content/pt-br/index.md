@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Sobre Mim
 created: 2026-07-18T14:50:18.601-03:00
 ---

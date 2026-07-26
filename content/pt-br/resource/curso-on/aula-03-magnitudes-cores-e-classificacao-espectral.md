@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Aula 03 — Magnitudes, Cores e Classificação Espectral"
 titulo: CursoON-Aula03

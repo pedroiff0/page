@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica"
 titulo: CursoON-Aula11

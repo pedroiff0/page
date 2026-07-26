@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 titulo: Composicoes
 disciplina: Palestra — Astrofísica Estelar
 conteudo: Composições químicas estelares com alta precisão e acurácia

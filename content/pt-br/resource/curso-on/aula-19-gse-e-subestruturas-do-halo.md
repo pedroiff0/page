@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Aula 19 — O Merger Gaia-Sausage-Enceladus e as Subestruturas do Halo"
 titulo: CursoON-Aula19

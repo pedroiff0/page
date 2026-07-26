@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: IX FEBIC 2024
 photoFolder: febic2024
 created: 2024-09-15

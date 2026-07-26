@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Lecture 07 — Distances, Distance Scale & Coordinate Systems"
 titulo: CursoON-Aula07

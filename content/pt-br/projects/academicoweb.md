@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "AcademicoWeb (arquivado)"
 created: 2026-03-13
 ---

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 03"
 titulo: Aglomerados-Aula03
 disciplina: Astrofísica Extragaláctica

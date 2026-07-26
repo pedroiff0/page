@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Arquivo de Apostilas"
 created: 2026-04-05
 ---

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 titulo: RaioX
 disciplina: Palestra — Astrofísica Extragaláctica
 conteudo: De supernovas a aglomerados de galáxias — o que os raios-X revelam sobre o enriquecimento químico do Universo

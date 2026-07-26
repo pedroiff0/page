@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Lecture 08 — Velocities & Proper Motion"
 titulo: CursoON-Aula08

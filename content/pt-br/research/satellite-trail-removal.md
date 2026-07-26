@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Simulando o Impacto de Satélites em Observações Astronômicas"
 created: 2024-03-06
 tags:

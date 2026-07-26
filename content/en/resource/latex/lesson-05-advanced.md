@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Lesson 05 — Advanced"
 created: 2026-03-16
 ---

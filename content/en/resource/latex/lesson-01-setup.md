@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Lesson 01 — Setup & Environment"
 created: 2026-03-16
 ---

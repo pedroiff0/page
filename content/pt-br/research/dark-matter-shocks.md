@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Entendendo a Matéria Escura a partir de Choques Extragalácticos"
 created: 2023-03-01
 tags:

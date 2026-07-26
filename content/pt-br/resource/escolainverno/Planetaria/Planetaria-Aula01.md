@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 01"
 titulo: Planetaria-Aula01
 disciplina: Ciências Planetárias

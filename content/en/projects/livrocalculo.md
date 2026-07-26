@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Calculus Textbook"
 created: 2026-03-13
 ---

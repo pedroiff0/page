@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 02"
 titulo: Computacao-Aula02
 disciplina: Computação Científica de Alto Desempenho

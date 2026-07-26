@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Aula 02 — Diagrama HR e Aglomerados Estelares"
 titulo: CursoON-Aula02

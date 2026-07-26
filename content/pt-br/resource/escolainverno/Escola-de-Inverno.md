@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Resumo Geral"
 titulo: Escola de Inverno 2026
 disciplina: Resumo Geral

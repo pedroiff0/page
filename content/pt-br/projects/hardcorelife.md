@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "HardCoreLife — Plataforma de Vida Modular"
 created: 2026-03-13
 ---

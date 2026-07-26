@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 03 — Templates e Classes"
 created: 2026-03-16
 ---

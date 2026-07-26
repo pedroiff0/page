@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Lecture 02 — HR Diagram & Star Clusters"
 titulo: CursoON-Aula02

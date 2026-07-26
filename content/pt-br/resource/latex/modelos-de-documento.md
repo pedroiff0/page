@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Modelos de Documento"
 created: 2026-03-17
 ---

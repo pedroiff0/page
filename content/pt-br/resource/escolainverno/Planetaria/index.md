@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 created: 2026-07-22
 title: "Ciências Planetárias"
 ---

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 01"
 titulo: Cosmologia-Aula01
 disciplina: Cosmologia

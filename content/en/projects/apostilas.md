@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Course Guides
 created: 2026-04-05
 ---

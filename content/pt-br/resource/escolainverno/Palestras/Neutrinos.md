@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Neutrinos"
 titulo: Neutrinos
 disciplina: Palestra — Física de Partículas e Cosmologia

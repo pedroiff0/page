@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "VerdeMenta — Controle de Caixa"
 created: 2026-04-01
 ---

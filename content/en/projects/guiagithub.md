@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Git & GitHub Guide"
 created: 2026-03-13
 ---

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Lesson 02 — Basics"
 created: 2026-03-16
 ---

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico"
 titulo: CursoON-Aula20

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 05 — Avançado"
 created: 2026-03-16
 ---

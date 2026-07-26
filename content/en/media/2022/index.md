@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "2022"
 created: 2026-07-23
 ---

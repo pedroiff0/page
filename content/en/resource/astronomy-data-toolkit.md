@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Astronomy Data Toolkit
 created: 2025-12-22
 ---

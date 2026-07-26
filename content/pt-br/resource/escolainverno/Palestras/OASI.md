@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 titulo: OASI
 disciplina: Palestra
 conteudo: 15 anos do OASI (21/07)

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Aula 04 — Espectroscopia e Metalicidade"
 titulo: CursoON-Aula04

@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 password: "409182ph"
 title: "Lecture 06 — HR Diagram & Mass-Luminosity Relation"
 titulo: CursoON-Aula06

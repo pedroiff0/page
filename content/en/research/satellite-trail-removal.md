@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Simulating the Impact of Satellites on Astronomical Observations"
 created: 2024-03-06
 tags:

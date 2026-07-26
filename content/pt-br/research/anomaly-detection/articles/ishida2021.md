@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 created: 2026-07-18
 title: "Detecção Ativa de Anomalias (Time-Domain)"
 tags:

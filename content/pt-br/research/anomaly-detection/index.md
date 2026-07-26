@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Detecção de Anomalias em Dados do Gaia"
 created: 2025-09-01
 ---

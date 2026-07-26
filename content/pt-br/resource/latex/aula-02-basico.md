@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 02 — Básico"
 created: 2026-03-16
 ---

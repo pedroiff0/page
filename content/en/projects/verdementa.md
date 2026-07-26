@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "VerdeMenta — Cash Register Control"
 created: 2026-04-01
 ---
