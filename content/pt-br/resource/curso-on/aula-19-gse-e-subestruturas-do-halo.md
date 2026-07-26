@@ -94,3 +94,4 @@ Por fim, evidências mais recentes (Xandra et al. 2025) discutem a relação ent
 - [Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica](pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee) — o espaço $(E,L_z)$ usado para identificar toda subestrutura discutida aqui
 - [Escola de Inverno — Arqueologia Galáctica, Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — Omega Centauri como núcleo remanescente de galáxia anã, aqui conectado explicitamente à GSE
 - [Escola de Inverno — Arqueologia Galáctica, Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — a GSE já introduzida ali como um dos mergers que estruturam o halo
+- [Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico](pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco) — a GSE recolocada no contexto mais amplo dos mergers confirmados e da formação do disco espesso
