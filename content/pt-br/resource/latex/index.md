@@ -74,6 +74,8 @@ Três aulas extras, construídas em cima de uma classe LaTeX que uso de verdade 
 7. [Pacote `macros.sty`](pt-br/resource/latex/aula-07-pacote-macros) — capa/contracapa/ficha catalográfica com 3 layouts, comandos `\inserirfigura`/`\inserirtabela`/`\inserirgrafico` e variantes de subfigura, ambientes de teorema/exercício com sistema de resposta cruzada via hyperref.
 8. [Arquivo `metadados.sty`](pt-br/resource/latex/aula-08-pacote-metadados) — o único arquivo que o estudante de fato edita: preenchimento de flags e dados reais do trabalho.
 
+**[📦 Baixar o modelo completo preenchido (.zip)](assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — um TCC de exemplo (dados fictícios, tema de sistemas de recomendação) já rodando: capa, ficha catalográfica, banca, dedicatória, epígrafe, resumo/abstract, 4 capítulos, apêndice, anexo e bibliografia, com cada comando comentado no próprio `.tex` conforme aparece. Baixe, abra no Overleaf ou compile local, e vá trocando os dados fictícios pelos seus.
+
 ## 📚 Materiais recomendados
 
 - **[Apostila LaTeX — do básico ao avançado](assets/biblioteca/latex-escrita/apostila-latex-ufes.pdf)** — PET Mecânica/UFES, distribuição gratuita.

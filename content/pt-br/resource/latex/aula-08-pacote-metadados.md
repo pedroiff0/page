@@ -13,6 +13,9 @@ tags:
 
 **Pré-requisito**: [Aula 06 — Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) (para entender **o que** cada chamada aqui está configurando por baixo dos panos).
 
+> [!tip] Modelo completo preenchido, pronto pra baixar
+> Em vez de montar um `metadados.sty` do zero, baixe **[📦 modelo-ifftese-tcc.zip](assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — um TCC de exemplo (dados fictícios) já com a classe, o pacote de macros e um `metadados.sty` totalmente preenchido, mais 4 capítulos, apêndice, anexo e bibliografia usando praticamente todo comando explicado nestas três aulas, comentado no próprio código. Descompacte, compile (`pdflatex` duas ou três vezes, ou suba direto no Overleaf) e vá substituindo os dados fictícios pelos seus, um campo de cada vez.
+
 ## 1. Por que um arquivo separado?
 
 `ifftese.cls` já faz `\RequirePackage{metadados}` internamente (carregado automaticamente, sem precisar de `\usepackage` no `.tex` principal). A separação existe por um motivo pedagógico: o estudante deve poder configurar **todo** o trabalho — flags de comportamento, autoria, banca, ficha catalográfica — mexendo em um único arquivo simples, sem nunca precisar abrir a classe (que usa `\makeatletter`, `\csname`, fábricas de macro — conteúdo da Aula 06, não deste arquivo). `metadados.sty` é, na prática, uma lista de "preencha os espaços em branco".
@@ -126,6 +129,7 @@ Estes três últimos campos são textos praticamente fixos, específicos da bibl
 
 ## 🔗 Referências e correlatos
 
+- [📦 Modelo completo preenchido (.zip)](assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip) — a classe, os dois pacotes e um `metadados.sty` de exemplo já preenchidos, dentro de um TCC fictício funcional.
 - [Aula 06 — Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) — onde cada um destes comandos é de fato definido (fábricas de macro, flags condicionais).
 - [Aula 07 — Pacote `macros.sty`](pt-br/resource/latex/aula-07-pacote-macros) — as macros de conteúdo (`\capa`, `\contracapa`, `\fichacatalografica`, `\banca`) que consomem estes metadados.
 - [Curso — visão geral](pt-br/resource/latex)
