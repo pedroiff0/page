@@ -75,3 +75,4 @@ Comparando razões $[X/\text{Fe}]$ de estrelas do halo, disco espesso e disco fi
 - [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — pré-requisito direto: por que SN II e SN Ia produzem elementos diferentes em tempos diferentes
 - [Escola de Inverno — Arqueologia Galáctica, Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — a mesma separação disco fino/espesso e halo, com valores numéricos de metalicidade e cinemática
 - [Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica](pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee) — estrelas retrógradas identificadas cinematicamente ali, aqui confirmadas quimicamente como possíveis acréscimos
+- [Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos](pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos) — de onde vêm, na prática, os dados químicos usados nesta aula
