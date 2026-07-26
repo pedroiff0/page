@@ -1,17 +1,20 @@
 ---
 publish: true
-titulo: OASI
-disciplina: Palestra
-conteudo: 15 anos do OASI
-professor: Daniela Lazzaro
 created: 2026-07-20T15:50:00-03:00
+modified: 2026-07-26T10:45:10.237-03:00
+published: 2026-07-26T10:45:10.237-03:00
 tags:
   - escola-de-inverno-on
   - palestra
 cssclasses:
   - page-grid
   - center-images
+titulo: OASI
+disciplina: Palestra
+conteudo: 15 anos do OASI
+professor: Daniela Lazzaro
 ---
+
 # 🎤 Palestra — 15 anos do OASI
 
 > [!note] Resumo
@@ -30,6 +33,7 @@ O **OASI (Observatório Astronômico do Sertão de Itaparica)** fica em Itacurub
 ---
 
 ## 🔗 Referências e correlatos
+
 - [Neutrinos](pt-br/resource/escolainverno/palestras/neutrinos)
 - [Bolsas](pt-br/resource/escolainverno/palestras/bolsas)
 - [Raio-X](pt-br/resource/escolainverno/palestras/raiox)

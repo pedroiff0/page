@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Física III
 created: 2026-07-18
-title: "Física III"
+modified: 2026-07-26T11:33:09.987-03:00
+published: 2026-07-26T11:33:09.987-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,38 +37,43 @@ Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais
 ## 📖 Conteúdo Programático
 
 1. Eletrostática
- - Conceitos fundamentais;
- - Modelos atômicos;
- - Processos de eletrização:
- - Condutores isolantes;
- - Princípios da eletrostática;
- - Carga elementar;
- - Lei de Coulomb;
- - Campo elétrico;
- - Potencial elétrico, superfícies equipotenciais;
- - Distribuição de cargas;
- - Técnicas de resolução de problemas de campo, potencial elétrico para sistemas fora da origem com distribuição de cargas;
- - Energia potencial eletrostática e capacitância.
+
+- Conceitos fundamentais;
+- Modelos atômicos;
+- Processos de eletrização:
+- Condutores isolantes;
+- Princípios da eletrostática;
+- Carga elementar;
+- Lei de Coulomb;
+- Campo elétrico;
+- Potencial elétrico, superfícies equipotenciais;
+- Distribuição de cargas;
+- Técnicas de resolução de problemas de campo, potencial elétrico para sistemas fora da origem com distribuição de cargas;
+- Energia potencial eletrostática e capacitância.
+
 2. Eletrodinâmica
- - Conceitos fundamentais, corrente e cargas em movimentos;
- - Resistência, resistividade e as Leis de Ohm;
- - Circuitos simples com uma e mais malhas;
- - Instrumentos de medidas (voltímetro, amperímetro e ohmímetro);
- - Circuitos RC.
+
+- Conceitos fundamentais, corrente e cargas em movimentos;
+- Resistência, resistividade e as Leis de Ohm;
+- Circuitos simples com uma e mais malhas;
+- Instrumentos de medidas (voltímetro, amperímetro e ohmímetro);
+- Circuitos RC.
+
 3. Campo Magnético
- - Conceitos fundamentais;
- - A força magnética;
- - Movimento de uma carga pontual em um campo magnético;
- - Torque sobre espiras com corrente e ímã;
- - Energia potencial de um dipolo magnético em um campo magnético;
- - O Efeito Hall;
- - O campo magnético de cargas móveis pontuais;
- - Campo magnético de correntes;
- - Lei de Gauss para o magnetismo;
- - Lei de Ampére;
- - Magnetismo nos materiais;
- - Lei de Indução de Faraday;
- - Circuitos RL e RLC.
+
+- Conceitos fundamentais;
+- A força magnética;
+- Movimento de uma carga pontual em um campo magnético;
+- Torque sobre espiras com corrente e ímã;
+- Energia potencial de um dipolo magnético em um campo magnético;
+- O Efeito Hall;
+- O campo magnético de cargas móveis pontuais;
+- Campo magnético de correntes;
+- Lei de Gauss para o magnetismo;
+- Lei de Ampére;
+- Magnetismo nos materiais;
+- Lei de Indução de Faraday;
+- Circuitos RL e RLC.
 
 ## 📕 Bibliografia Básica
 

@@ -1,7 +1,9 @@
 ---
 publish: false
+title: LAMOST DR5 — Abundâncias de 16 Elementos
 created: 2026-07-18
-title: "LAMOST DR5 — Abundâncias de 16 Elementos"
+modified: 2026-07-25T23:58:08.057-03:00
+published: 2026-07-25T23:58:08.057-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Determina parâmetros e abundâncias de 6 milhões de estrelas do LAMOST DR5 via modelo data-driven DD-Payne (herda The Payne e The Cannon), com 16 elementos.
 
-*Xiang, Maosheng. (2019)*
+_Xiang, Maosheng. (2019)_
 
 ## Síntese
 

@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Modelagem Ambiental
 created: 2026-07-18
-title: "Modelagem Ambiental"
+modified: 2026-07-26T11:33:09.999-03:00
+published: 2026-07-26T11:33:09.999-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina

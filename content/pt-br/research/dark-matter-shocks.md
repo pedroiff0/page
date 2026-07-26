@@ -2,11 +2,14 @@
 publish: true
 title: Entendendo a Matéria Escura a partir de Choques Extragalácticos
 created: 2023-03-01
+modified: 2026-07-26T10:19:47.462-03:00
+published: 2026-07-26T10:19:47.462-03:00
 tags:
   - materia-escura
   - aglomerados-de-galaxias
   - iniciacao-cientifica
 ---
+
 # 💥 Entendendo a Matéria Escura a partir de Choques Extragalácticos
 
 > [!note] Resumo
@@ -35,7 +38,7 @@ O trabalho seguiu quatro etapas:
 
 1. **Familiarização** com conceitos fundamentais de Astronomia (paralaxe, classificação espectral OBAFGKM, evolução estelar, classificação morfológica de galáxias de Hubble — elípticas, espirais, irregulares) e com o problema físico de aglomerados em colisão.
 2. **Compilação e entendimento do código de Dawson** — validado primeiro contra o caso de referência do próprio Aglomerado da Bala (massas $1{,}5\times10^{14}$ e $1{,}5\times10^{15}\,M_\odot$, separação projetada de 720 kpc), reproduzindo o resultado original. A função central, `MCEngine`, recebe massas dos dois aglomerados, redshift e distância projetada, e gera $10^4$ amostras via Monte Carlo (convergência já observada a partir de $10^3$ iterações).
-3. **Obtenção dos dados de ZuHone et al. (2018)** — o *Galaxy Cluster Merger Catalog*, um repositório de simulações hidrodinâmicas de fusões de aglomerados, organizado por razão de massa (1:1, 1:3, 1:10) e parâmetro de impacto (0, 500, 1000 kpc). O trabalho focou nas 3 simulações com parâmetro de impacto 0 kpc (colisão no plano do céu).
+3. **Obtenção dos dados de ZuHone et al. (2018)** — o _Galaxy Cluster Merger Catalog_, um repositório de simulações hidrodinâmicas de fusões de aglomerados, organizado por razão de massa (1:1, 1:3, 1:10) e parâmetro de impacto (0, 500, 1000 kpc). O trabalho focou nas 3 simulações com parâmetro de impacto 0 kpc (colisão no plano do céu).
 4. **Aplicação do método de Dawson** a cada uma das simulações de ZuHone, comparando o tempo pós-colisão estimado pelo código com o tempo real conhecido da simulação, com incerteza estimada via `np.quantile` sobre as $10^4$ amostras de Monte Carlo.
 
 ## 📊 Resultados
@@ -63,8 +66,8 @@ Este projeto foi apresentado na **FEBRACE 2023** e na **MOSTRATEC 2023** (Novo H
 
 ## 🔗 Referências e correlatos
 
-- Dawson, W. A. (2013) — *The Dynamics of Merging Clusters: A Monte Carlo Solution Applied to the Bullet and Musket Ball Clusters*, ApJ 772, 131. [Código MCMAC](https://github.com/MCTwo/MCMAC).
-- ZuHone, J. et al. (2018) — *The Galaxy Cluster Merger Catalog: An Online Repository of Mock Observations from Simulated Galaxy Cluster Mergers*, ApJS 234, 4.
+- Dawson, W. A. (2013) — _The Dynamics of Merging Clusters: A Monte Carlo Solution Applied to the Bullet and Musket Ball Clusters_, ApJ 772, 131. [Código MCMAC](https://github.com/MCTwo/MCMAC).
+- ZuHone, J. et al. (2018) — _The Galaxy Cluster Merger Catalog: An Online Repository of Mock Observations from Simulated Galaxy Cluster Mergers_, ApJS 234, 4.
 - Clowe, D. et al. — Aglomerado da Bala, evidência clássica de separação espacial entre matéria escura e gás.
 - [MOSTRATEC 2023](pt-br/media/2023/mostratec-2023) — cobertura da apresentação deste projeto
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — outro projeto de pesquisa em Astronomia, também orientado por dinâmica/cinemática de sistemas gravitacionais

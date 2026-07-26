@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Organização de Computadores
 created: 2026-07-18
-title: "Organização de Computadores"
+modified: 2026-07-26T11:33:09.991-03:00
+published: 2026-07-26T11:33:09.991-03:00
 tags:
- - disciplina
- - profissionalizante
+  - disciplina
+  - profissionalizante
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,24 +37,29 @@ Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dis
 ## 📖 Conteúdo Programático
 
 1. Arquitetura Básica de Processador
- - Unidade Central de Processamento
- - i. Unidade de Controle
- - ii. Unidade Lógica e Aritmética
- - iii. Registradores
- - Barramento Internos
- - Ciclo Básico de Instrução (Busca-Decodifica-Executa)
+
+- Unidade Central de Processamento
+- i. Unidade de Controle
+- ii. Unidade Lógica e Aritmética
+- iii. Registradores
+- Barramento Internos
+- Ciclo Básico de Instrução (Busca-Decodifica-Executa)
+
 2. Memórias i. Endereços de Memória ii. Códigos de Correção de Erros iii. Memória Cache iv. Empacotamento e Tipos de Memória
- - Memória Primária
- - Memória Secundária
- - i. Discos Magnéticos
- - ii. Discos Flexíveis
- - iii. Discos Óticos
+
+- Memória Primária
+- Memória Secundária
+- i. Discos Magnéticos
+- ii. Discos Flexíveis
+- iii. Discos Óticos
+
 3. Entrada/Saída
- - Barramentos
- - Terminais
- - Dispositivos Apontadores
- - Impressoras
- - Equipamentos de Telecomunicações
+
+- Barramentos
+- Terminais
+- Dispositivos Apontadores
+- Impressoras
+- Equipamentos de Telecomunicações
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

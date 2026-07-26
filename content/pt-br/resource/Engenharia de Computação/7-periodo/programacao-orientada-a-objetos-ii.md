@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Programação Orientada a Objetos II
 created: 2026-07-18
-title: "Programação Orientada a Objetos II"
+modified: 2026-07-26T11:33:09.987-03:00
+published: 2026-07-26T11:33:09.987-03:00
 tags:
- - disciplina
- - especifica
+  - disciplina
+  - especifica
 ---
 
 > [!note] Sobre esta disciplina

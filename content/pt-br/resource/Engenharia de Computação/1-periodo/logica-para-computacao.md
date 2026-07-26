@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Lógica para Computação
 created: 2026-07-18
-title: "Lógica para Computação"
+modified: 2026-07-26T11:33:09.991-03:00
+published: 2026-07-26T11:33:09.991-03:00
 tags:
- - disciplina
- - profissionalizante
+  - disciplina
+  - profissionalizante
 ---
 
 > [!note] Sobre esta disciplina
@@ -38,12 +40,16 @@ Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Prime
 
 1. Introdução à Lógica para Computação;
 2. Lógica Proposicional
- - Linguagem, Sintaxe, Semântica e Propriedades Semânticas;
- - Métodos para Determinação da Validade de Fórmulas;
- - Sistemas de Dedução de Lógica Proposicional.
+
+- Linguagem, Sintaxe, Semântica e Propriedades Semânticas;
+- Métodos para Determinação da Validade de Fórmulas;
+- Sistemas de Dedução de Lógica Proposicional.
+
 3. Lógica de Predicados de Primeira Ordem:
- - Linguagem, Quantificadores, Sintaxe, Semântica e Propriedades Semânticas;
- - Sistemas de Dedução na Lógica de Predicados.
+
+- Linguagem, Quantificadores, Sintaxe, Semântica e Propriedades Semânticas;
+- Sistemas de Dedução na Lógica de Predicados.
+
 4. Aplicações de Lógica na Computação.
 
 ## 📚 Materiais de Apoio (acesso aberto)
@@ -71,7 +77,7 @@ Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Prime
 
 _(anotações, listas e trabalhos próprios — não são material oficial do curso)_
 
-- [Atividade 13_09](assets/disciplinas/1-periodo/logica-para-computacao/Atividade%2013_09.pdf)
+- [Atividade 13\_09](assets/disciplinas/1-periodo/logica-para-computacao/Atividade%2013_09.pdf)
 - [Aula1e2-LógicaParaComputaçao](assets/disciplinas/1-periodo/logica-para-computacao/Aula1e2-LógicaParaComputaçao.pdf)
 - [Aula3-LógicaParaComputaçao](assets/disciplinas/1-periodo/logica-para-computacao/Aula3-LógicaParaComputaçao.pdf)
 - [Aula3e4-LógicaParaComputaçao](assets/disciplinas/1-periodo/logica-para-computacao/Aula3e4-LógicaParaComputaçao.pdf)
@@ -82,12 +88,12 @@ _(anotações, listas e trabalhos próprios — não são material oficial do cu
 - [Listaex2LPC](assets/disciplinas/1-periodo/logica-para-computacao/Listaex2LPC.pdf)
 - [LógicaInicial](assets/disciplinas/1-periodo/logica-para-computacao/LógicaInicial.pdf)
 - [Resumo EQuivalencias](assets/disciplinas/1-periodo/logica-para-computacao/Resumo%20EQuivalencias.pdf)
-- [SI_Alexandre_FundamentosLogicaMatCap5](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatCap5.pdf)
-- [SI_Alexandre_FundamentosLogicaMatExCap5](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatExCap5.pdf)
-- [SI_Alexandre_FundamentosLogicaMatcap2Exercícios](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatcap2Exercícios.pdf)
-- [SI_Alexandre_FundamentosLogicaMatcap4](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatcap4.pdf)
-- [SI_Alexandre_FundamentosLogicaMatex1](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatex1.pdf)
-- [SI_Alexandre_FundamentosLogicaMatexcap4](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatexcap4.pdf)
+- [SI\_Alexandre\_FundamentosLogicaMatCap5](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatCap5.pdf)
+- [SI\_Alexandre\_FundamentosLogicaMatExCap5](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatExCap5.pdf)
+- [SI\_Alexandre\_FundamentosLogicaMatcap2Exercícios](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatcap2Exercícios.pdf)
+- [SI\_Alexandre\_FundamentosLogicaMatcap4](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatcap4.pdf)
+- [SI\_Alexandre\_FundamentosLogicaMatex1](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatex1.pdf)
+- [SI\_Alexandre\_FundamentosLogicaMatexcap4](assets/disciplinas/1-periodo/logica-para-computacao/SI_Alexandre_FundamentosLogicaMatexcap4.pdf)
 - [Teste Lógica para computaçãoa2](assets/disciplinas/1-periodo/logica-para-computacao/Teste%20Lógica%20para%20computaçãoa2.pdf)
 - [atvInferencialogica Correção](assets/disciplinas/1-periodo/logica-para-computacao/atvInferencialogica%20Correção.pdf)
 - [atvInferencialogica](assets/disciplinas/1-periodo/logica-para-computacao/atvInferencialogica.pdf)

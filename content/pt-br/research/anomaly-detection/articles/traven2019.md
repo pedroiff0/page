@@ -1,7 +1,9 @@
 ---
 publish: false
+title: Machine Learning para Binárias
 created: 2026-07-18
-title: "Machine Learning para Binárias"
+modified: 2026-07-25T23:58:08.057-03:00
+published: 2026-07-25T23:58:08.057-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Revisão que organiza a taxonomia de machine learning (supervisionado/não supervisionado, discriminativo/generativo) e aplica esse ferramental à descoberta e caracterização de estrelas binárias espectroscópicas em meio milhão de espectros do levantamento GALAH.
 
-*Traven, G. et al. (2019)*
+_Traven, G. et al. (2019)_
 
 ## Síntese
 

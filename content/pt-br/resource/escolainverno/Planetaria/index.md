@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-07-22
 title: Ciências Planetárias
+created: 2026-07-22
+modified: 2026-07-26T11:06:05.943-03:00
+published: 2026-07-26T11:06:05.943-03:00
 ---
 
 > [!note] Resumo
@@ -28,4 +30,4 @@ Sistema Solar: inventário, arquitetura e dinâmica orbital.
 
 1. [Aula 01](pt-br/resource/escolainverno/planetaria/planetaria-aula01) — o Sistema Solar em perspectiva: inventário de corpos, arquitetura orbital, dinâmica e uma visão geral de como o Sistema Solar se formou.
 2. [Aula 02](pt-br/resource/escolainverno/planetaria/planetaria-aula02) — pequenos corpos do Sistema Solar (asteroides, cometas, objetos transnetunianos) e o que sua distribuição orbital revela sobre os modelos de formação — incluindo asteroides próximos da Terra (NEOs).
-3. [Aula 03](pt-br/resource/escolainverno/planetaria/planetaria-aula03) — *(nota provisória, tema ainda não confirmado)* palpite mínimo de continuação rumo a exoplanetas e planetologia comparada.
+3. [Aula 03](pt-br/resource/escolainverno/planetaria/planetaria-aula03) — _(nota provisória, tema ainda não confirmado)_ palpite mínimo de continuação rumo a exoplanetas e planetologia comparada.

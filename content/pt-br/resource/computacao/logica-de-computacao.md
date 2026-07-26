@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Lógica de Computação
 created: 2026-07-18
-title: "Lógica de Computação"
+modified: 2026-07-26T11:33:09.979-03:00
+published: 2026-07-26T11:33:09.979-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -62,8 +64,8 @@ O que dominar: a ponte entre a teoria e o código — álgebra booleana em circu
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- ROSEN, K. *Matemática Discreta e suas Aplicações*. — A referência mais usada no mundo pra matemática discreta; enciclopédico e cheio de exercícios com resposta.
-- GERSTING, J. *Fundamentos Matemáticos para a Ciência da Computação*. — Alternativa mais enxuta, muito adotada em cursos brasileiros.
+- ROSEN, K. _Matemática Discreta e suas Aplicações_. — A referência mais usada no mundo pra matemática discreta; enciclopédico e cheio de exercícios com resposta.
+- GERSTING, J. _Fundamentos Matemáticos para a Ciência da Computação_. — Alternativa mais enxuta, muito adotada em cursos brasileiros.
 
 ## 🔗 Referências externas
 

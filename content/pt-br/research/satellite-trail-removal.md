@@ -2,12 +2,15 @@
 publish: true
 title: Simulando o Impacto de Satélites em Observações Astronômicas
 created: 2024-03-06
+modified: 2026-07-26T10:19:39.079-03:00
+published: 2026-07-26T10:19:39.079-03:00
 tags:
   - poluicao-luminosa
   - satelites-artificiais
   - processamento-de-imagens
   - iniciacao-cientifica
 ---
+
 # 🛰️ Simulando o Impacto de Satélites em Observações Astronômicas
 
 > [!note] Resumo
@@ -49,9 +52,9 @@ O projeto foi planejado em 5 fases: (1) revisão sistemática do problema e de c
 
 ## 🔗 Referências e correlatos
 
-- Milazzo et al. (2021) — *The Growing Digital Divide and its Negative Impacts on NASA's Future Workforce*, BAAS 53, 436
-- Rawls et al. (2020) — *Satellite Constellation Internet Affordability and Need*, RNAAS 4, 189
-- Venkatesan et al. (2020) — *The Impact of Satellite Constellations on Space as an Ancestral Global Commons*, Nature Astronomy 4, 1043
+- Milazzo et al. (2021) — _The Growing Digital Divide and its Negative Impacts on NASA's Future Workforce_, BAAS 53, 436
+- Rawls et al. (2020) — _Satellite Constellation Internet Affordability and Need_, RNAAS 4, 189
+- Venkatesan et al. (2020) — _The Impact of Satellite Constellations on Space as an Ancestral Global Commons_, Nature Astronomy 4, 1043
 - [FEBIC 2024](pt-br/media/2024/febic-2024) — cobertura da apresentação e do 3º lugar
 - [MCTIA 2025](pt-br/media/2025/mctia-2025) — cobertura da apresentação e do 1º lugar
 - [Entendendo a Matéria Escura a partir de Choques Extragalácticos](pt-br/research/dark-matter-shocks) — projeto anterior, mesma orientadora

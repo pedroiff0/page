@@ -1,7 +1,9 @@
 ---
 publish: true
+title: 2º Período
 created: 2026-07-21
-title: "2º Período"
+modified: 2026-07-26T11:33:09.991-03:00
+published: 2026-07-26T11:33:09.991-03:00
 order: 2
 ---
 

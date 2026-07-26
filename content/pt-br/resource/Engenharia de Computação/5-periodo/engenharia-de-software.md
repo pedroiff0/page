@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Engenharia de Software
 created: 2026-07-18
-title: "Engenharia de Software"
+modified: 2026-07-26T11:33:10.003-03:00
+published: 2026-07-26T11:33:10.003-03:00
 tags:
- - disciplina
- - profissionalizante
+  - disciplina
+  - profissionalizante
 ---
 
 > [!note] Sobre esta disciplina
@@ -41,41 +43,53 @@ Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto
 ## 📖 Conteúdo Programático
 
 1. Teoria dos Sistemas
- - Sistemas naturais e sistemas automatizados
- - Software x Sistemas
- - Categorias de Software
+
+- Sistemas naturais e sistemas automatizados
+- Software x Sistemas
+- Categorias de Software
+
 2. Processo de Desenvolvimento de Software
- - Histórico da Evolução do Software
- - Etapas do Processo de Desenvolvimento de Software: Análise, Projeto, Implementação, Testes, Implantação e Manutenção.
- - Modelo Clássico
- - Modelo em Espiral
- - Processo Unificado
- - Métodos Ágeis
- - Papeis no desenvolvimento de software (stakeholders).
+
+- Histórico da Evolução do Software
+- Etapas do Processo de Desenvolvimento de Software: Análise, Projeto, Implementação, Testes, Implantação e Manutenção.
+- Modelo Clássico
+- Modelo em Espiral
+- Processo Unificado
+- Métodos Ágeis
+- Papeis no desenvolvimento de software (stakeholders).
+
 3. Análise e Projeto de Software
- - Técnicas de Coleta e Especificação de Requisitos
- - Métodos de Análise: Estruturada, Essencial e Orientada a Objetos
- - Paralelo entre as diferentes metodologias
- - A Etapa de Projeto
- - Princípios de Qualidade em Projeto: Coesão e Acoplamento
- - Métodos de Projeto
+
+- Técnicas de Coleta e Especificação de Requisitos
+- Métodos de Análise: Estruturada, Essencial e Orientada a Objetos
+- Paralelo entre as diferentes metodologias
+- A Etapa de Projeto
+- Princípios de Qualidade em Projeto: Coesão e Acoplamento
+- Métodos de Projeto
+
 4. Arquitetura de Software
- - Arquitetura em camadas
- - Arquitetura MVC
- - Microserviços
- - Arquitetura Orientada a Mensagens
- - Arquitetura Publish/Subscribe
+
+- Arquitetura em camadas
+- Arquitetura MVC
+- Microserviços
+- Arquitetura Orientada a Mensagens
+- Arquitetura Publish/Subscribe
+
 5. Testes
- - Teste de unidade
- - Testabilidade
- - Teste de integração
- - Testes de sistema
+
+- Teste de unidade
+- Testabilidade
+- Teste de integração
+- Testes de sistema
+
 6. Visão Geral sobre Manutenção de Software
- - Conceito, motivações e dificuldades
- - Tipos de Manutenção
- - Processo de Manutenção de Software
- - Gerência de Configuração
- - Reengenharia
+
+- Conceito, motivações e dificuldades
+- Tipos de Manutenção
+- Processo de Manutenção de Software
+- Gerência de Configuração
+- Reengenharia
+
 7. Ferramentas e Ambientes de Suporte ao Desenvolvimento de Software
 
 ## 📚 Materiais de Apoio (acesso aberto)

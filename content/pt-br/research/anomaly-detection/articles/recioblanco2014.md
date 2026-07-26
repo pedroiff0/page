@@ -1,7 +1,9 @@
 ---
 publish: false
+title: Gaia-ESO — Transição Disco Fino/Espesso
 created: 2026-07-18
-title: "Gaia-ESO — Transição Disco Fino/Espesso"
+modified: 2026-07-25T23:58:08.057-03:00
+published: 2026-07-25T23:58:08.057-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Debate a natureza do disco grosso e sua relação com o disco fino (estrutura, cinemática, química). Relevante para o contexto de populações estelares e migração do seu projeto.
 
-*Recio-Blanco, A. (2014)*
+_Recio-Blanco, A. (2014)_
 
 ## Síntese
 

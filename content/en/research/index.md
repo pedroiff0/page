@@ -1,8 +1,10 @@
 ---
 publish: false
 title: Research
-order: 1
 created: 2026-07-18T14:24:43.861-03:00
+modified: 2026-07-25T23:58:08.065-03:00
+published: 2026-07-25T23:58:08.065-03:00
+order: 1
 ---
 
 > [!note] Summary

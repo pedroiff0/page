@@ -1,56 +1,59 @@
 ---
 publish: true
-titulo: {{value}}
-disciplina: 
-conteudo: 
-professor: 
-created: {{DATE:YYYY-MM-DD}}
+created:
+  "{ DATE:YYYY-MM-DD }":
+modified: 2026-07-23T17:52:46.322-03:00
+published: 2026-07-23T17:52:46.322-03:00
 tags:
   - 
 cssclasses:
   - page-grid
   - center-images
+titulo:
+  "{ value }":
+disciplina:
+conteudo:
+professor:
 ---
+
 # 📚 {{value}}
 
 > [!note] Resumo
-> 
 
 > [!info] Informações da aula
-> **Tema:** 
-> **Professor:** 
+> **Tema:**
+> **Professor:**
 
 ---
 
 ## 🎯 Visão geral
 
-
-
 ### 📑 Tópicos abordados
-1. 
+
+1.
 
 ---
 
 ## ⚠️ Pontos de atenção
 
 > [!important] Atenção
-> *(nenhuma anotação registrada ainda)*
+> _(nenhuma anotação registrada ainda)_
 
 ---
 
 ## 📌 Conceitos-chave
 
-- 
+-
 
 ---
 
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas
-> *(nenhuma pergunta registrada ainda)*
+> _(nenhuma pergunta registrada ainda)_
 
 ---
 
 ## 🔗 Referências e correlatos
 
-- 
+-

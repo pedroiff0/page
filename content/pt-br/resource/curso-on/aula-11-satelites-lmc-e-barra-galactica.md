@@ -1,12 +1,9 @@
 ---
 publish: true
-password: "409182ph"
-title: "Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica"
-titulo: CursoON-Aula11
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Aula prática (galpy) — pericentro/apocentro de galáxias satélites, comparação entre potenciais, a Grande Nuvem de Magalhães como perturbador em referencial não inercial, e ressonâncias orbitais na barra galáctica (corrotação e OLR)
-professor: Hélio Dotto Perottoni
+title: Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
 created: 2026-07-25
+modified: 2026-07-26T11:33:09.983-03:00
+published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -17,7 +14,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula11
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Aula prática (galpy) — pericentro/apocentro de galáxias satélites, comparação entre potenciais, a Grande Nuvem de Magalhães como perturbador em referencial não inercial, e ressonâncias orbitais na barra galáctica (corrotação e OLR)
+professor: Hélio Dotto Perottoni
 ---
+
 # 🪐 Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica
 
 > [!note] Resumo
@@ -62,7 +65,7 @@ A Via Láctea tem uma **barra** no seu centro, modelada aqui com o `DehnenBarPot
 Uma órbita simples, sem barra, é regular e previsível. A mesma órbita, com a barra ligada, deixa de ser regular no referencial inercial — mas revela estrutura ao ser vista no **referencial que gira junto com a barra** (subtraindo a rotação $\Omega_b t$ das coordenadas):
 
 - **Barra longa e lenta** (parâmetros ao estilo Pérez-Villegas et al. 2017): uma órbita inicializada perto da **ressonância de corrotação** fica "capturada", librando em torno de um dos pontos de Lagrange da barra em vez de percorrer todos os ângulos — o tipo de ressonância cuja proximidade à vizinhança solar pode gerar subestrutura observável na cinemática local.
-- **Barra curta e rápida** (ao estilo Dehnen 2000): a ressonância relevante mais próxima do Sol passa a ser a **OLR** (*Outer Lindblad Resonance*, Ressonância Externa de Lindblad). Órbitas próximas a essa ressonância mostram, no referencial da barra, uma morfologia característica **2:1** — a estrela entra e sai duas vezes do centro orbital a cada volta completa em torno da Galáxia, formando os padrões de órbita alinhados/anti-alinhados com o eixo maior da barra clássicos da dinâmica de barras.
+- **Barra curta e rápida** (ao estilo Dehnen 2000): a ressonância relevante mais próxima do Sol passa a ser a **OLR** (_Outer Lindblad Resonance_, Ressonância Externa de Lindblad). Órbitas próximas a essa ressonância mostram, no referencial da barra, uma morfologia característica **2:1** — a estrela entra e sai duas vezes do centro orbital a cada volta completa em torno da Galáxia, formando os padrões de órbita alinhados/anti-alinhados com o eixo maior da barra clássicos da dinâmica de barras.
 
 > [!info] Por que isso importa para arqueologia galáctica
 > Ressonâncias de barra (corrotação, OLR, e outras) são um dos mecanismos "seculares" (lentos, internos) capazes de gerar sobredensidades, lacunas de velocidade e outras assinaturas cinemáticas no disco — uma fonte de estrutura que **não** vem de fusões ou acréscimo externo, e que precisa ser distinguida de sinais genuinamente extragalácticos (como a Gaia-Sausage-Enceladus) ao interpretar dados de levantamentos como o Gaia.

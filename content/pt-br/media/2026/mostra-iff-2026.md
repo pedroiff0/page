@@ -1,28 +1,31 @@
 ---
 publish: false
 title: Mostra do Conhecimento - 2026
-photoFolder: mostra2026
 created: 2026-07-18T13:50:21.240-03:00
+modified: 2026-07-26T10:40:28.909-03:00
+published: 2026-07-26T10:40:28.909-03:00
+photoFolder: mostra2026
 type: blog
 ---
+
 # 🏫 Mostra do Conhecimento - 2026
 
 > [!note] Resumo
-> [1-2 frases: o que é a Mostra do Conhecimento (IFF), o que você apresentou (pôster/oral/projeto) e o resultado ou destaque, se houver.]
+> \[1-2 frases: o que é a Mostra do Conhecimento (IFF), o que você apresentou (pôster/oral/projeto) e o resultado ou destaque, se houver.]
 
 ## 🗓️ Sobre o evento
 
-Página dedicada à participação na **[nome completo da Mostra do Conhecimento — ex: Mostra do Conhecimento do IFF, campus Bom Jesus do Itabapoana]**, em [cidade/UF], realizada de [data de início] a [data de término] de [mês] de [ano] — [uma frase de contexto: porte do evento, quem organiza, se for relevante].
+Página dedicada à participação na **\[nome completo da Mostra do Conhecimento — ex: Mostra do Conhecimento do IFF, campus Bom Jesus do Itabapoana]**, em \[cidade/UF], realizada de \[data de início] a \[data de término] de \[mês] de \[ano] — \[uma frase de contexto: porte do evento, quem organiza, se for relevante].
 
 ## 👋 Minha participação
 
-[O que você apresentou — título do trabalho, formato (pôster/oral/projeto), com quem (coautores/equipe) e sob orientação de quem. Se houve prêmio, classificação ou repercussão, diga aqui. Se o trabalho já tinha sido apresentado antes em outro evento, linke a versão anterior.]
+\[O que você apresentou — título do trabalho, formato (pôster/oral/projeto), com quem (coautores/equipe) e sob orientação de quem. Se houve prêmio, classificação ou repercussão, diga aqui. Se o trabalho já tinha sido apresentado antes em outro evento, linke a versão anterior.]
 
 ## 🎤 Palestras e minicursos assistidos
 
-*(seção opcional — apague esta seção inteira se o evento não teve programação de palestras/minicursos, ou se você não assistiu nenhum)*
+_(seção opcional — apague esta seção inteira se o evento não teve programação de palestras/minicursos, ou se você não assistiu nenhum)_
 
-- **[Título da palestra/minicurso]** — [Palestrante], [data]. [Uma frase sobre o conteúdo, se valer a pena registrar.]
+- **\[Título da palestra/minicurso]** — \[Palestrante], \[data]. \[Uma frase sobre o conteúdo, se valer a pena registrar.]
 
 ## 🔗 Referências e correlatos
 

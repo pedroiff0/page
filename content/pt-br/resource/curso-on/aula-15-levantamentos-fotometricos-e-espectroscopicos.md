@@ -1,12 +1,9 @@
 ---
 publish: true
-password: "409182ph"
-title: "Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos"
-titulo: CursoON-Aula15
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Panorama histórico dos grandes levantamentos astronômicos — de catálogos visuais e placas fotográficas aos surveys digitais all-sky (SDSS, 2MASS, DES, Euclid, LSST) — e comparação dos principais levantamentos espectroscópicos usados em arqueologia galáctica (Gaia, Gaia-ESO, APOGEE, GALAH, LAMOST, DESI, entre outros)
-professor: Hélio Dotto Perottoni
+title: Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
 created: 2026-07-25
+modified: 2026-07-26T11:33:09.987-03:00
+published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -16,7 +13,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula15
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Panorama histórico dos grandes levantamentos astronômicos — de catálogos visuais e placas fotográficas aos surveys digitais all-sky (SDSS, 2MASS, DES, Euclid, LSST) — e comparação dos principais levantamentos espectroscópicos usados em arqueologia galáctica (Gaia, Gaia-ESO, APOGEE, GALAH, LAMOST, DESI, entre outros)
+professor: Hélio Dotto Perottoni
 ---
+
 # 🔭 Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
 
 > [!note] Resumo
@@ -38,7 +41,7 @@ A **era fotográfica** ampliou drasticamente a escala: o **Carte du Ciel** (1887
 
 ## 💻 A virada digital: SDSS e a primeira geração de CCD
 
-Nos anos 1990, surveys baseados em CCD (DMS, CFRS, LCRS, ESP, entre outros) já exploravam estrutura em grande escala e evolução de galáxias, mas foi o **Sloan Digital Sky Survey (SDSS)**, iniciado em 2000, que marcou a transição definitiva: fotometria digital em 5 bandas (*ugriz*), espectroscopia automatizada, pipeline totalmente digital e banco de dados público — mais de 500 milhões de objetos fotométricos, milhões de espectros, centenas de TB de dados. É o modelo (arquitetura de pipeline + acesso público) que praticamente todo levantamento posterior seguiu.
+Nos anos 1990, surveys baseados em CCD (DMS, CFRS, LCRS, ESP, entre outros) já exploravam estrutura em grande escala e evolução de galáxias, mas foi o **Sloan Digital Sky Survey (SDSS)**, iniciado em 2000, que marcou a transição definitiva: fotometria digital em 5 bandas (_ugriz_), espectroscopia automatizada, pipeline totalmente digital e banco de dados público — mais de 500 milhões de objetos fotométricos, milhões de espectros, centenas de TB de dados. É o modelo (arquitetura de pipeline + acesso público) que praticamente todo levantamento posterior seguiu.
 
 ## 🛰️ Surveys fotométricos all-sky e de grande campo
 
@@ -46,20 +49,20 @@ Nos anos 1990, surveys baseados em CCD (DMS, CFRS, LCRS, ESP, entre outros) já 
 |---|---|---|---|
 | **2MASS** | Céu inteiro, infravermelho próximo (J, H, Ks) | >470 milhões de fontes | Primeiro grande survey homogêneo no IV — penetra poeira que bloqueia o óptico |
 | **WISE** | Espacial, infravermelho médio | Centenas de milhões de objetos | Anãs marrons, galáxias poeirentas, estrutura galáctica |
-| **Pan-STARRS** | ~3/4 do céu, múltiplas bandas ópticas | Bilhões de fontes | Consolidou *time-domain astronomy* (transientes, variáveis) — ponte SDSS→LSST |
+| **Pan-STARRS** | ~3/4 do céu, múltiplas bandas ópticas | Bilhões de fontes | Consolidou _time-domain astronomy_ (transientes, variáveis) — ponte SDSS→LSST |
 | **APASS** | Praticamente all-sky, bandas BVgri | Dezenas de milhões de estrelas | Referência de **calibração fotométrica** entre telescópios diferentes |
 | **DES** | Hemisfério sul, óptico profundo | — | Halo tênue: correntes estelares, galáxias anãs, subestruturas de acréscimo |
 | **Euclid** | ~15.000 deg², óptico+IV próximo (espacial) | VIS ~24,5 AB / Y,J,H ~24 AB | Focado em energia/matéria escura, mas produz dado estelar/galáctico de altíssima qualidade |
 | **J-PLUS / S-PLUS** | Norte / sul, 12 filtros largos+estreitos | ~9.300 deg² (S-PLUS) | Espectrofotometria multibanda de baixo custo |
 | **J-PAS** | ~8.500 deg², 56 filtros estreitos | — | Redshifts fotométricos quase espectroscópicos |
-| **LSST (Rubin)** | ~18.000 deg², *ugrizy*, 10 anos | ~20 bi galáxias, >10 bi estrelas da MW, halo até ~400 kpc | ~20 TB/noite, >100 PB no total — o maior survey óptico já concebido |
+| **LSST (Rubin)** | ~18.000 deg², _ugrizy_, 10 anos | ~20 bi galáxias, >10 bi estrelas da MW, halo até ~400 kpc | ~20 TB/noite, >100 PB no total — o maior survey óptico já concebido |
 
 > [!info] O que o DES revelou sobre o halo
 > A combinação de profundidade + área do DES permitiu mapear populações estelares muito tênues do halo, revelando **correntes estelares**, **galáxias anãs satélites** e estruturas resultantes de eventos de acréscimo — evidência direta de que o halo estelar da Via Láctea é feito de múltiplas subestruturas fossilizadas da formação hierárquica da Galáxia (o mesmo tema da Escola de Inverno).
 
 ## ⚠️ Cuidados ao analisar dados fotométricos
 
-Nem todo objeto num catálogo fotométrico é igualmente confiável. Pontos de atenção recorrentes: comportamento nas extremidades **faint/bright** da distribuição; a relação entre magnitude e seu erro (*mag* vs. *emag_err*, que tipicamente cresce nas bordas); e a **completeza** do catálogo — comprometida por limites de detecção/seleção, viés contra objetos de baixo brilho superficial, *blending*/*crowding* (fontes sobrepostas em regiões densas) e extinção interestelar (Aula 05 do curso-on).
+Nem todo objeto num catálogo fotométrico é igualmente confiável. Pontos de atenção recorrentes: comportamento nas extremidades **faint/bright** da distribuição; a relação entre magnitude e seu erro (_mag_ vs. _emag\_err_, que tipicamente cresce nas bordas); e a **completeza** do catálogo — comprometida por limites de detecção/seleção, viés contra objetos de baixo brilho superficial, _blending_/_crowding_ (fontes sobrepostas em regiões densas) e extinção interestelar (Aula 05 do curso-on).
 
 ## 🌈 Comparativo dos principais levantamentos espectroscópicos
 
@@ -68,7 +71,7 @@ Nem todo objeto num catálogo fotométrico é igualmente confiável. Pontos de a
 | **Gaia RVS** | Média (R~11.500) | NIR (845-872 nm) | Satélite Gaia (L2), DR3 | 33.812.183 | Astrometria/fotometria de céu todo + o maior catálogo de velocidade radial |
 | **Gaia-ESO** | Média/alta (GIRAFFE~20.000, UVES~50.000) | Óptico (370-900 nm) | VLT, DR5 | 114.916 | Parâmetros astrofísicos e abundâncias homogêneas em alta resolução |
 | **APOGEE** | Alta (R~22.500) | IV próximo (1,51-1,70 μm) | Las Campanas (SDSS-S), DR19 | 1.074.401 | Formação e evolução da Via Láctea |
-| **BOSS** | Baixa (R~2.000) | Óptico (3650-9500 Å) | Telescópio Sloan (SDSS-N/V) | 923.306 | Originalmente BAO, hoje parte dos *Milky Way Mappers* |
+| **BOSS** | Baixa (R~2.000) | Óptico (3650-9500 Å) | Telescópio Sloan (SDSS-N/V) | 923.306 | Originalmente BAO, hoje parte dos _Milky Way Mappers_ |
 | **SEGUE 1/2** | Baixa (R~1.800) | Óptico (3900-9000 Å) | SDSS, DR7-DR12 | 358.958 | Cinemática e populações da Via Láctea e seu halo |
 | **GALAH** | Alta (R~28.000) | Óptico (470-790 nm) | HERMES, DR4 | 1.085.520 | História químico-dinâmica da Via Láctea |
 | **RAVE** | Média (R~7.500) | IV próximo (8410-8795 Å) | UK Schmidt (AAO), DR6 | 518.387 | Evolução galáctica via anãs/gigantes homogêneas |
@@ -76,7 +79,7 @@ Nem todo objeto num catálogo fotométrico é igualmente confiável. Pontos de a
 | **DESI** | Baixa (R~2.000-5.500) | Óptico (3600-9824 Å) | Mayall/Kitt Peak, DR1 | 6.372.607 | Formação, acréscimo e distribuição de disco espesso/halo |
 
 > [!warning] O que observar antes de confiar num espectro
-> A qualidade espectroscópica depende de três fatores que afetam diretamente velocidades, abundâncias e parâmetros estelares derivados: **resolução espectral** $R=\lambda/\Delta\lambda$ (baixa resolução mistura linhas próximas), **cobertura espectral** (algumas linhas diagnósticas importantes podem simplesmente estar fora da faixa observada) e **razão sinal/ruído** (S/N baixo compromete tanto abundâncias quanto velocidades radiais). Catálogos também trazem *flags* de qualidade que sinalizam medidas pouco confiáveis — sempre vale checá-las antes de usar os dados "brutos".
+> A qualidade espectroscópica depende de três fatores que afetam diretamente velocidades, abundâncias e parâmetros estelares derivados: **resolução espectral** $R=\lambda/\Delta\lambda$ (baixa resolução mistura linhas próximas), **cobertura espectral** (algumas linhas diagnósticas importantes podem simplesmente estar fora da faixa observada) e **razão sinal/ruído** (S/N baixo compromete tanto abundâncias quanto velocidades radiais). Catálogos também trazem _flags_ de qualidade que sinalizam medidas pouco confiáveis — sempre vale checá-las antes de usar os dados "brutos".
 
 ---
 
@@ -85,7 +88,7 @@ Nem todo objeto num catálogo fotométrico é igualmente confiável. Pontos de a
 - **SDSS como ponto de virada:** primeiro survey a combinar fotometria digital multibanda, espectroscopia automatizada e banco de dados público num pipeline unificado — o modelo seguido por praticamente todo survey posterior.
 - **Trade-off resolução vs. cobertura/objetos:** levantamentos de alta resolução (GALAH, APOGEE, Gaia-ESO) sacrificam número de objetos por precisão em abundâncias; levantamentos de baixa resolução (SEGUE, BOSS, DESI, LAMOST-LRS) trocam precisão por volume.
 - **DES e o halo fossilizado:** profundidade fotométrica revelou que o halo da Via Láctea é feito de subestruturas (correntes, satélites) — evidência observacional direta de formação hierárquica.
-- **Completeza de catálogo:** nunca assumir que um catálogo fotométrico é uma amostra não enviesada — limites de detecção, *blending* e extinção sempre introduzem seletividade.
+- **Completeza de catálogo:** nunca assumir que um catálogo fotométrico é uma amostra não enviesada — limites de detecção, _blending_ e extinção sempre introduzem seletividade.
 - **$R=\lambda/\Delta\lambda$:** a resolução espectral que determina se linhas espectrais próximas podem ser distinguidas — crítica para qualquer medida de abundância ou velocidade radial.
 
 ## 🔗 Referências e correlatos

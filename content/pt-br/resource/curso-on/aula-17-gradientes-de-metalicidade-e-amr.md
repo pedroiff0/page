@@ -1,12 +1,9 @@
 ---
 publish: true
-password: "409182ph"
-title: "Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade"
-titulo: CursoON-Aula17
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Gradientes radiais e verticais de metalicidade no disco, bojo e halo, migração radial (blurring e churning), gradientes extragalácticos, e o problema histórico da relação idade-metalicidade (AMR)
-professor: Hélio Dotto Perottoni
+title: Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade
 created: 2026-07-25
+modified: 2026-07-26T11:33:09.983-03:00
+published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -17,11 +14,17 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula17
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Gradientes radiais e verticais de metalicidade no disco, bojo e halo, migração radial (blurring e churning), gradientes extragalácticos, e o problema histórico da relação idade-metalicidade (AMR)
+professor: Hélio Dotto Perottoni
 ---
+
 # 📉 Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade
 
 > [!note] Resumo
-> A metalicidade da Via Láctea não é uniforme: existe um gradiente radial negativo no disco (mais rico por dentro, mais pobre por fora), gradientes verticais e no bojo/halo, e mecanismos de migração estelar (*blurring* e *churning*) que embaralham essa estrutura ao longo do tempo. A aula fecha com um problema histórico e ainda debatido: por que a relação idade-metalicidade (AMR) observada é muito mais dispersa do que a teoria simples de evolução química prevê.
+> A metalicidade da Via Láctea não é uniforme: existe um gradiente radial negativo no disco (mais rico por dentro, mais pobre por fora), gradientes verticais e no bojo/halo, e mecanismos de migração estelar (_blurring_ e _churning_) que embaralham essa estrutura ao longo do tempo. A aula fecha com um problema histórico e ainda debatido: por que a relação idade-metalicidade (AMR) observada é muito mais dispersa do que a teoria simples de evolução química prevê.
 
 > [!info] Informações da aula
 > **Disciplina:** Arqueologia Galáctica e Populações Estelares
@@ -33,9 +36,9 @@ cssclasses:
 
 ## 📐 O gradiente radial de metalicidade no disco
 
-Desde as primeiras estimativas (já nos anos 1940, notando que linhas [O III] se comportavam diferentemente conforme a distância ao núcleo galáctico) até levantamentos modernos, o disco galáctico mostra consistentemente um **gradiente radial negativo de metalicidade**:
+Desde as primeiras estimativas (já nos anos 1940, notando que linhas \[O III] se comportavam diferentemente conforme a distância ao núcleo galáctico) até levantamentos modernos, o disco galáctico mostra consistentemente um **gradiente radial negativo de metalicidade**:
 
-$$\frac{\partial[\text{Fe/H}]}{\partial R} \approx -0{,}06\ \text{dex/kpc}$$
+$\frac{\partial[\text{Fe/H}]}{\partial R} \approx -0{,}06\ \text{dex/kpc}$
 
 ou seja, regiões internas do disco são sistematicamente mais enriquecidas que regiões externas. Esse gradiente **depende da idade estelar** e é compatível com um cenário de formação **inside-out** do disco (enriquecimento químico mais rápido nas regiões internas, formação mais tardia nas externas) — o mesmo princípio de formação hierárquica em camadas já visto na Escola de Inverno.
 
@@ -44,7 +47,7 @@ ou seja, regiões internas do disco são sistematicamente mais enriquecidas que 
 Dois mecanismos dinâmicos embaralham esse gradiente ao longo do tempo:
 
 - **Blurring:** estrelas não seguem órbitas perfeitamente circulares — a excentricidade orbital faz cada estrela oscilar em torno de um raio médio, "borrando" (sem mudar de fato) sua posição típica.
-- **Churning:** mudança **real** do raio-guia da órbita de uma estrela, por troca de momento angular com braços espirais, a barra galáctica ou ressonâncias (curso-on Aula 11) — ao contrário do *blurring*, este mecanismo efetivamente **migra** a estrela para uma região diferente da Galáxia.
+- **Churning:** mudança **real** do raio-guia da órbita de uma estrela, por troca de momento angular com braços espirais, a barra galáctica ou ressonâncias (curso-on Aula 11) — ao contrário do _blurring_, este mecanismo efetivamente **migra** a estrela para uma região diferente da Galáxia.
 
 O efeito líquido da migração radial (blurring + churning) é **aumentar a dispersão** de $[\text{Fe/H}]$ observada em qualquer raio galactocêntrico fixo — populações mais antigas (que tiveram mais tempo para migrar) mostram gradiente mais fraco, e para idades acima de ~10 Gyr o gradiente radial tende a **desaparecer** quase completamente.
 
@@ -58,7 +61,7 @@ Galáxias do Universo local tipicamente mostram regiões centrais mais ricas em 
 
 ## ❓ O problema da relação idade-metalicidade (AMR)
 
-A teoria simples de evolução química galáctica prevê que a metalicidade do meio interestelar cresce **suavemente** com o tempo, à medida que ejeções sucessivas de supernovas se misturam ao gás de onde novas gerações estelares se formam — o que implicaria uma relação idade-metalicidade (*age-metallicity relation*, AMR) bem definida e estreita.
+A teoria simples de evolução química galáctica prevê que a metalicidade do meio interestelar cresce **suavemente** com o tempo, à medida que ejeções sucessivas de supernovas se misturam ao gás de onde novas gerações estelares se formam — o que implicaria uma relação idade-metalicidade (_age-metallicity relation_, AMR) bem definida e estreita.
 
 > [!warning] Edvardsson et al. (1993): a AMR não é limpa
 > Antes de 1993, as AMRs observadas pareciam de fato estreitas e bem comportadas. O trabalho de **Edvardsson et al. (1993)** foi o primeiro a revelar um **espalhamento substancial** na relação idade-metalicidade que a teoria simples de evolução química não conseguia explicar — um resultado que permanece, décadas depois, um ponto de discussão ativo na área.
@@ -85,6 +88,6 @@ A explicação hoje aceita combina duas peças já vistas nesta aula: (1) a form
 - Larson (1976); Tissera et al. (2019) — formação inside-out de galáxias
 - Chiappini et al. (1997, 2001) — modelo Two-Infall
 - [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica](pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica) — as ressonâncias de barra que impulsionam o *churning*
+- [Aula 11 — Órbitas de Satélites, a LMC e a Barra Galáctica](pt-br/resource/curso-on/aula-11-satelites-lmc-e-barra-galactica) — as ressonâncias de barra que impulsionam o _churning_
 - [Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos](pt-br/resource/curso-on/aula-14-diagnosticos-quimicos-disco-fino-espesso) — a mesma separação química que a migração radial tende a borrar ao longo do tempo
 - [Escola de Inverno — Arqueologia Galáctica, Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — o modelo Two-Infall (Chiappini+1997/2011) já aparecia citado ali, sem o contexto completo desenvolvido aqui

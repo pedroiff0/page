@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Física Experimental I
 created: 2026-07-18
-title: "Física Experimental I"
+modified: 2026-07-26T11:33:09.991-03:00
+published: 2026-07-26T11:33:09.991-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina

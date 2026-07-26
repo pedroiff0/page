@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Paradigmas de Linguagem de Programação
 created: 2026-07-18
-title: "Paradigmas de Linguagem de Programação"
+modified: 2026-07-26T11:33:10.003-03:00
+published: 2026-07-26T11:33:10.003-03:00
 tags:
- - disciplina
- - profissionalizante
+  - disciplina
+  - profissionalizante
 ---
 
 > [!note] Sobre esta disciplina
@@ -34,43 +36,56 @@ Visão geral de linguagens de programação: valores e tipos; variáveis e coman
 ## 📖 Conteúdo Programático
 
 1. Visão Geral de Linguagens de Programação
- - Conceito e Paradigmas
- - Sintaxe Semântica
- - Compiladores e Interpretadores
+
+- Conceito e Paradigmas
+- Sintaxe Semântica
+- Compiladores e Interpretadores
+
 2. Valores e Tipos
- - Valores e Tipos
- - Tipos Primitivos
- - Tipos Compostos
- - Tipos Recursivos
- - Sistemas de Tipos
- - Expressões
+
+- Valores e Tipos
+- Tipos Primitivos
+- Tipos Compostos
+- Tipos Recursivos
+- Sistemas de Tipos
+- Expressões
+
 3. Armazenamento
- - Variáveis e Constantes
- - Variáveis Compostas
- - Tempo de Vida de Variáveis
- - Ponteiros
- - Comandos
- - Expressões com Efeitos Colaterais
+
+- Variáveis e Constantes
+- Variáveis Compostas
+- Tempo de Vida de Variáveis
+- Ponteiros
+- Comandos
+- Expressões com Efeitos Colaterais
+
 4. Abstração Procedural
- - Tipos de Abstração
- - Parâmetros e Argumentos
- - Ordem de Avaliação
+
+- Tipos de Abstração
+- Parâmetros e Argumentos
+- Ordem de Avaliação
+
 5. Abstração de Dados
- - Pacotes
- - Encapsulamento
- - Tipo Abstrato de Dados
- - Objetos e Classes
+
+- Pacotes
+- Encapsulamento
+- Tipo Abstrato de Dados
+- Objetos e Classes
+
 6. Fluxo de Controle
- - Sequenciadores
- - Jumps
- - Scapes
- - Exceções
+
+- Sequenciadores
+- Jumps
+- Scapes
+- Exceções
+
 7. Paradigmas de Programação
- - Programação Imperativa
- - Programação Orientada a Objetos
- - Programação Funcional
- - Programação Lógico
- - Paradigmas híbridos
+
+- Programação Imperativa
+- Programação Orientada a Objetos
+- Programação Funcional
+- Programação Lógico
+- Paradigmas híbridos
 
 ## 📕 Bibliografia Básica
 

@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Projeto e Análise de Algoritmos
 created: 2026-07-18
-title: "Projeto e Análise de Algoritmos"
+modified: 2026-07-26T11:33:10.003-03:00
+published: 2026-07-26T11:33:10.003-03:00
 tags:
- - disciplina
- - profissionalizante
+  - disciplina
+  - profissionalizante
 ---
 
 > [!note] Sobre esta disciplina
@@ -34,38 +36,41 @@ Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limit
 
 ## 📖 Conteúdo Programático
 
-1. [ ] Medidas de Complexidade
-2. [ ] Notação Assintótica
-3. [ ] Análise Assintótica de Limites de Complexidade
-4. [ ] Algoritmos de Força Bruta
-5. [ ] Algoritmos de Divisão e Conquista
-6. [ ] Algoritmos Gulosos
-7. [ ] Teoria dos Grafos
- - [ ] Conceitos Básicos
- - [ ] Grafos e Digrafos
- - [ ] Extensões de Grafos
- - [ ] Planaridade
- - [ ] Conectividade
- - [ ] Conectividade de Nós e Grafos
- - [ ] Árvores e Grafos
- - [ ] Algoritmo de Conectividade
- - [ ] Coloração
- - [ ] Algoritmos de Coloração de Grafos
- - [ ] Busca em Largura e Profundidade
- - [ ] Algoritmos de Menor Caminho
- - [ ] Algoritmo de Belman-Ford
- - [ ] Algoritmo de Dijkstra
- - [ ] Árvore Geradora
- - [ ] Algoritmo de Kruskal
- - [ ] Algoritmo de Prim
- - [ ] Ordenação Topológica em Grafos
- - [ ] Fluxo de Rede
- - [ ] Algoritmo de Ford-Fulkerson
-8. [ ] Classes de Problema
- - [ ] P
- - [ ] NP
- - [ ] NP-Completo
- - [ ] NP-Difícil
+1. Medidas de Complexidade
+2. Notação Assintótica
+3. Análise Assintótica de Limites de Complexidade
+4. Algoritmos de Força Bruta
+5. Algoritmos de Divisão e Conquista
+6. Algoritmos Gulosos
+7. Teoria dos Grafos
+
+- Conceitos Básicos
+- Grafos e Digrafos
+- Extensões de Grafos
+- Planaridade
+- Conectividade
+- Conectividade de Nós e Grafos
+- Árvores e Grafos
+- Algoritmo de Conectividade
+- Coloração
+- Algoritmos de Coloração de Grafos
+- Busca em Largura e Profundidade
+- Algoritmos de Menor Caminho
+- Algoritmo de Belman-Ford
+- Algoritmo de Dijkstra
+- Árvore Geradora
+- Algoritmo de Kruskal
+- Algoritmo de Prim
+- Ordenação Topológica em Grafos
+- Fluxo de Rede
+- Algoritmo de Ford-Fulkerson
+
+8. Classes de Problema
+
+- P
+- NP
+- NP-Completo
+- NP-Difícil
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

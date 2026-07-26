@@ -1,11 +1,9 @@
 ---
 publish: true
 title: Aula 02
-titulo: ArqueologiaGalactica-Aula02
-disciplina: Astrofísica Estelar / Via Láctea
-conteudo: Aglomerados Globulares e as três revoluções recentes da arqueologia galáctica
-professor: João Victor Sales Silva
 created: 2026-07-22T09:15:00-03:00
+modified: 2026-07-26T11:03:06.424-03:00
+published: 2026-07-26T11:03:06.424-03:00
 tags:
   - escola-de-inverno-on
   - arqueologia-galactica
@@ -15,7 +13,12 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+titulo: ArqueologiaGalactica-Aula02
+disciplina: Astrofísica Estelar / Via Láctea
+conteudo: Aglomerados Globulares e as três revoluções recentes da arqueologia galáctica
+professor: João Victor Sales Silva
 ---
+
 # 🏛️ Notas de Aula — Arqueologia Galáctica (Aula 02)
 
 > [!note] Resumo
@@ -32,10 +35,11 @@ cssclasses:
 A Aula 01 terminou nos **aglomerados abertos** — grupos jovens e soltos de estrelas no disco galáctico, úteis para calibrar idades. Esta aula sobe de escala para os **aglomerados globulares**: sistemas muito mais populosos, densos e antigos, que funcionam como o "limite de idade" observável do Universo. Na segunda metade, a aula muda de foco — da física estelar para a própria infraestrutura observacional da área — apresentando **três revoluções** que, juntas, transformaram a arqueologia galáctica: astrossismologia, astrometria de altíssima precisão (Gaia) e grandes levantamentos espectroscópicos.
 
 ### 📑 Tópicos abordados
+
 1. Aglomerados Globulares: definição, classificação e formação
 2. Omega Centauri e fusões galácticas antigas
 3. As três revoluções da arqueologia galáctica
-4. Astronomia na era do *big data*: J-PAS
+4. Astronomia na era do _big data_: J-PAS
 
 ---
 
@@ -50,7 +54,7 @@ Diferente dos aglomerados abertos (100–1000 estrelas, disco galáctico, idades
 
 ### Múltiplas populações
 
-Ao contrário de um aglomerado aberto (essencialmente uma única população química, nascida junto), aglomerados globulares apresentam **múltiplas populações estelares** — variações reais de composição química *dentro* do mesmo aglomerado, apesar de todas as estrelas terem nascido praticamente ao mesmo tempo. A assinatura mais difundida desse fenômeno é a **anticorrelação Na–O**: estrelas com mais sódio (Na) tendem a ter menos oxigênio (O), e vice-versa — um padrão químico não visto no meio interestelar comum, típico das primeiras gerações estelares dentro do aglomerado "poluindo" o gás que forma as gerações seguintes.
+Ao contrário de um aglomerado aberto (essencialmente uma única população química, nascida junto), aglomerados globulares apresentam **múltiplas populações estelares** — variações reais de composição química _dentro_ do mesmo aglomerado, apesar de todas as estrelas terem nascido praticamente ao mesmo tempo. A assinatura mais difundida desse fenômeno é a **anticorrelação Na–O**: estrelas com mais sódio (Na) tendem a ter menos oxigênio (O), e vice-versa — um padrão químico não visto no meio interestelar comum, típico das primeiras gerações estelares dentro do aglomerado "poluindo" o gás que forma as gerações seguintes.
 
 | Classificação | Assinatura química | Fração na Via Láctea |
 |---|---|---|
@@ -87,13 +91,13 @@ A missão espacial **Gaia** mede posição, distância (paralaxe) e movimento pr
 Levantamentos como **APOGEE** e **GALAH** (já citado na Aula 01 e usado na pesquisa própria — ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]) fornecem composição química precisa e detalhada para centenas de milhares de estrelas, permitindo aplicar estatística populacional (em vez de estudos estrela-a-estrela) para reconstruir a história química da Galáxia.
 
 > [!tip] Um enigma em aberto: estrelas jovens ricas em elementos-$\alpha$
-> Um resultado que ainda intriga a área (Grisoni et al. 2024): existem estrelas aparentemente **jovens mas quimicamente ricas em elementos-$\alpha$** — uma combinação inesperada, já que elementos-$\alpha$ altos costumam ser assinatura de populações *antigas* (ver [[ArqueologiaGalactica-Aula01|Aula 01]], seção 3). A hipótese mais discutida é que parte dessas estrelas sejam, na verdade, **produtos de fusões de binárias** (que rejuvenescem a aparência espectroscópica da estrela sem rejuvenescer sua composição química de fato) — um lembrete de que "idade química" e "idade evolutiva aparente" nem sempre coincidem.
+> Um resultado que ainda intriga a área (Grisoni et al. 2024): existem estrelas aparentemente **jovens mas quimicamente ricas em elementos-$\alpha$** — uma combinação inesperada, já que elementos-$\alpha$ altos costumam ser assinatura de populações _antigas_ (ver [[ArqueologiaGalactica-Aula01|Aula 01]], seção 3). A hipótese mais discutida é que parte dessas estrelas sejam, na verdade, **produtos de fusões de binárias** (que rejuvenescem a aparência espectroscópica da estrela sem rejuvenescer sua composição química de fato) — um lembrete de que "idade química" e "idade evolutiva aparente" nem sempre coincidem.
 
 ---
 
-## 4. Astronomia na era do *big data*: J-PAS
+## 4. Astronomia na era do _big data_: J-PAS
 
-O **J-PAS** (*Javalambre Physics of the Accelerating Universe Astrophysical Survey*) é um levantamento fotométrico de banda estreita que funciona como uma ponte entre fotometria tradicional e espectroscopia — já mencionado na Aula 01 como técnica de detecção de aglomerados de galáxias, e igualmente relevante aqui: sua alta resolução espectral fotométrica permite estimar parâmetros estelares para volumes de dados muito maiores do que a espectroscopia tradicional viabilizaria, reforçando o papel dos grandes levantamentos como o motor atual da arqueologia galáctica.
+O **J-PAS** (_Javalambre Physics of the Accelerating Universe Astrophysical Survey_) é um levantamento fotométrico de banda estreita que funciona como uma ponte entre fotometria tradicional e espectroscopia — já mencionado na Aula 01 como técnica de detecção de aglomerados de galáxias, e igualmente relevante aqui: sua alta resolução espectral fotométrica permite estimar parâmetros estelares para volumes de dados muito maiores do que a espectroscopia tradicional viabilizaria, reforçando o papel dos grandes levantamentos como o motor atual da arqueologia galáctica.
 
 ---
 
@@ -111,13 +115,15 @@ O **J-PAS** (*Javalambre Physics of the Accelerating Universe Astrophysical Surv
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 2)
+>
 > 1. **Observações sobre o GALAH DR4 (idades, parâmetros etc.)** — o GALAH DR4 é justamente o levantamento espectroscópico usado na minha própria pesquisa (ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]); fornece até 30 abundâncias químicas por estrela para quase 1 milhão de estrelas, com parâmetros derivados via pipeline espectroscópico próprio.
-> 2. **Gráfico de separação de disco por idade — Montalbán et al. (2021).** Trabalho de referência que usa idades astrossismológicas de gigantes vermelhas (ver seção 3) para separar estatisticamente disco fino e disco espesso da Via Láctea por idade, complementando a separação química por [$\alpha$/Fe] vista na Aula 01.
+> 2. **Gráfico de separação de disco por idade — Montalbán et al. (2021).** Trabalho de referência que usa idades astrossismológicas de gigantes vermelhas (ver seção 3) para separar estatisticamente disco fino e disco espesso da Via Láctea por idade, complementando a separação química por \[$\alpha$/Fe] vista na Aula 01.
 > 3. **StarHorse** — ver seção 3: método de combinação multi-levantamento para parâmetros estelares.
 
 ---
 
 ## 🔗 Referências e correlatos
+
 - Alvarez-Garay et al. (2024) — Omega Centauri como núcleo remanescente de galáxia anã
 - Grisoni et al. (2024) — estrelas jovens ricas em elementos-$\alpha$
 - Pinsonneault et al. (2025) — precisão de idades astrossismológicas para gigantes

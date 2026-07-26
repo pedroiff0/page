@@ -2,6 +2,8 @@
 publish: true
 title: Aula 02 — Básico
 created: 2026-03-16
+modified: 2026-07-26T11:09:13.521-03:00
+published: 2026-07-26T11:09:13.521-03:00
 ---
 
 > [!note] Resumo

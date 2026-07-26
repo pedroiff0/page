@@ -1,12 +1,9 @@
 ---
 publish: true
-password: "409182ph"
-title: "Aula 05 — Avermelhamento, Extinção e IMF"
-titulo: CursoON-Aula05
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: O meio interestelar, a extinção e o avermelhamento da luz por poeira, e a função de massa inicial revisitada
-professor: Hélio Dotto Perottoni
+title: Aula 05 — Avermelhamento, Extinção e IMF
 created: 2026-07-23
+modified: 2026-07-26T11:33:09.983-03:00
+published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -16,7 +13,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula05
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: O meio interestelar, a extinção e o avermelhamento da luz por poeira, e a função de massa inicial revisitada
+professor: Hélio Dotto Perottoni
 ---
+
 # 🌫️ Aula 05 — Avermelhamento, Extinção e IMF
 
 > [!note] Resumo
@@ -37,7 +40,7 @@ A massa total de gás + poeira representa apenas 10–20% da massa em estrelas d
 
 ### Poeira interestelar
 
-Grãos com núcleo de ferro, silicatos e grafite, envoltos por materiais congelados (CO₂/H₂O/NH₂) [Jessberger et al. 2001]. Comparação de escalas: átomos $\sim0{,}1\,$nm, moléculas pequenas $\sim1\,$nm, grãos de poeira $\sim100\,$nm. Sua distribuição é bastante **filamentar** — variações substanciais ocorrem em regiões separadas por poucos minutos de arco [mapa 3D Argonaut].
+Grãos com núcleo de ferro, silicatos e grafite, envoltos por materiais congelados (CO₂/H₂O/NH₂) \[Jessberger et al. 2001]. Comparação de escalas: átomos $\sim0{,}1\,$nm, moléculas pequenas $\sim1\,$nm, grãos de poeira $\sim100\,$nm. Sua distribuição é bastante **filamentar** — variações substanciais ocorrem em regiões separadas por poucos minutos de arco \[mapa 3D Argonaut].
 
 ### Formas do gás interestelar
 
@@ -60,7 +63,7 @@ A poeira não emite no visível, mas **bloqueia** a luz — nebulosas de reflex�
 
 - **Extinção ($A_\lambda$):** atenuação total da luz (absorção + espalhamento) num dado comprimento de onda, medida em magnitudes. $A_V > 0$ sempre aumenta a magnitude aparente observada.
 - **Avermelhamento (excesso de cor):** $E(B-V) = A_B - A_V$ — quantifica a mudança de cor causada pela maior atenuação de comprimentos de onda curtos em relação a longos.
-- **Razão de extinção total/seletiva:** $A_V = R_V \cdot E(B-V)$, com $R_V \approx 3{,}1$ típico para o meio interestelar difuso (varia entre 2,7–6 em núcleos de nuvens densas, um regime "anômalo" [Cardelli, Clayton & Mathis 1989]).
+- **Razão de extinção total/seletiva:** $A_V = R_V \cdot E(B-V)$, com $R_V \approx 3{,}1$ típico para o meio interestelar difuso (varia entre 2,7–6 em núcleos de nuvens densas, um regime "anômalo" \[Cardelli, Clayton & Mathis 1989]).
 
 > [!warning] Se você não corrigir a extinção...
 > ...vai **subestimar sistematicamente as distâncias**, porque estrelas enfraquecidas pela poeira parecem mais distantes do que realmente estão (via módulo de distância, Aula 03).
@@ -71,7 +74,7 @@ A extinção afeta principalmente baixas latitudes galácticas (onde a poeira se
 
 Para um aglomerado, o módulo de distância intrínseco $(m_V - M_V)_0$ é constante para todas as estrelas membro. Variações observadas em $(m_V - M_V)$ vêm de diferentes quantidades de extinção ao longo de cada linha de visada:
 
-$$m_V - M_V = C + A_V = C + R_V\, E(B-V)$$
+$m_V - M_V = C + A_V = C + R_V\, E(B-V)$
 
 onde $C$ é constante para o aglomerado (depende só da distância) e $A_V$ varia estrela a estrela.
 
@@ -83,7 +86,7 @@ Correção prática básica: $\text{mag}_{x,0} = \text{mag}_x - \text{coef.\ ext
 
 ## 🧮 IMF — revisitada
 
-A **função de massa inicial** (ver Aula 02) descreve a probabilidade de formação de estrelas de cada massa. Segue sendo um objeto de estudo ativo: incerta no limite de altíssimas massas ($\sim100\,M_\odot$), no valor exato do pico característico, e quanto à sua universalidade entre diferentes ambientes de formação [Offner et al. 2014]. O formato exato da IMF é crucial para prever escalas de tempo de enriquecimento químico, ocorrência de supernovas e dinâmica do meio interestelar em uma galáxia — conectando diretamente esta aula com o tema central do curso.
+A **função de massa inicial** (ver Aula 02) descreve a probabilidade de formação de estrelas de cada massa. Segue sendo um objeto de estudo ativo: incerta no limite de altíssimas massas ($\sim100\,M_\odot$), no valor exato do pico característico, e quanto à sua universalidade entre diferentes ambientes de formação \[Offner et al. 2014]. O formato exato da IMF é crucial para prever escalas de tempo de enriquecimento químico, ocorrência de supernovas e dinâmica do meio interestelar em uma galáxia — conectando diretamente esta aula com o tema central do curso.
 
 ---
 

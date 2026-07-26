@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Processamento de Imagens
 created: 2026-07-26
-title: "Processamento de Imagens"
+modified: 2026-07-26T11:33:09.975-03:00
+published: 2026-07-26T11:33:09.975-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -24,9 +26,9 @@ O que dominar: uma imagem digital como matriz de pixels, profundidade de cor (qu
 
 ### 2. Técnicas de realce e melhoria de imagens (2–3 semanas)
 
-O que dominar: operações pontuais (ajuste de brilho e contraste — somar/multiplicar cada pixel por uma constante — e equalização de histograma, que redistribui os valores de intensidade para usar melhor toda a faixa disponível), e filtros espaciais baseados em **convolução**: cada pixel de saída é uma combinação ponderada (definida por um *kernel*) dos pixels vizinhos na entrada. Filtros de suavização (blur, média, gaussiano) reduzem ruído borrando a imagem; filtros de realce de borda (Sobel, Laplaciano) fazem o oposto, destacando onde a intensidade muda bruscamente. O que praticar: aplicar manualmente um kernel Sobel 3×3 sobre uma pequena região de pixels feita à mão (5×5, por exemplo) — fazer a convolução no papel uma vez é o que torna a operação intuitiva depois.
+O que dominar: operações pontuais (ajuste de brilho e contraste — somar/multiplicar cada pixel por uma constante — e equalização de histograma, que redistribui os valores de intensidade para usar melhor toda a faixa disponível), e filtros espaciais baseados em **convolução**: cada pixel de saída é uma combinação ponderada (definida por um _kernel_) dos pixels vizinhos na entrada. Filtros de suavização (blur, média, gaussiano) reduzem ruído borrando a imagem; filtros de realce de borda (Sobel, Laplaciano) fazem o oposto, destacando onde a intensidade muda bruscamente. O que praticar: aplicar manualmente um kernel Sobel 3×3 sobre uma pequena região de pixels feita à mão (5×5, por exemplo) — fazer a convolução no papel uma vez é o que torna a operação intuitiva depois.
 
-![Detecção de bordas com o operador de Sobel aplicado a uma fotografia real: a cor de cada pixel de saída representa o ângulo do gradiente de intensidade detectado naquele ponto.](https://commons.wikimedia.org/wiki/Special:FilePath/Valve_sobel_with_angle_colour_(4).PNG)
+![Detecção de bordas com o operador de Sobel aplicado a uma fotografia real: a cor de cada pixel de saída representa o ângulo do gradiente de intensidade detectado naquele ponto.](https://commons.wikimedia.org/wiki/Special:FilePath/Valve_sobel_with_angle_colour_\(4\).PNG)
 
 ### 3. Restauração de imagens (2 semanas)
 
@@ -38,12 +40,12 @@ O que dominar: a arquitetura geral de um sistema de visão artificial (aquisiç�
 
 ### 5. Segmentação de imagens (2–3 semanas)
 
-O que dominar: **limiarização** (*thresholding*) — separar pixels em duas classes (ex: objeto vs. fundo) comparando com um valor de corte, seja global (um único limiar pra imagem toda) ou local/adaptativo (o limiar varia conforme a região, essencial sob iluminação desigual); segmentação por região, textura e contorno; e **morfologia matemática** (erosão, dilatação, abertura, fechamento) — operações que ajustam a forma de regiões já segmentadas, removendo ruído pequeno ou fechando buracos. O que praticar: aplicar limiarização global numa imagem com iluminação desigual e observar como ela falha em parte da imagem — depois repetir com limiarização adaptativa e comparar o resultado.
+O que dominar: **limiarização** (_thresholding_) — separar pixels em duas classes (ex: objeto vs. fundo) comparando com um valor de corte, seja global (um único limiar pra imagem toda) ou local/adaptativo (o limiar varia conforme a região, essencial sob iluminação desigual); segmentação por região, textura e contorno; e **morfologia matemática** (erosão, dilatação, abertura, fechamento) — operações que ajustam a forma de regiões já segmentadas, removendo ruído pequeno ou fechando buracos. O que praticar: aplicar limiarização global numa imagem com iluminação desigual e observar como ela falha em parte da imagem — depois repetir com limiarização adaptativa e comparar o resultado.
 
 ## Conceitos que você precisa dominar
 
 - **Imagem como matriz** — o ponto de partida de tudo: uma imagem em tons de cinza é uma matriz 2D de intensidades; uma imagem colorida é, tipicamente, três matrizes (R, G, B) empilhadas.
-- **Convolução e kernel** — a operação central de quase todo filtro espacial: uma pequena matriz (o *kernel*, geralmente 3×3 ou 5×5) "desliza" sobre a imagem, e cada pixel de saída é a soma ponderada dos pixels de entrada cobertos pelo kernel naquela posição.
+- **Convolução e kernel** — a operação central de quase todo filtro espacial: uma pequena matriz (o _kernel_, geralmente 3×3 ou 5×5) "desliza" sobre a imagem, e cada pixel de saída é a soma ponderada dos pixels de entrada cobertos pelo kernel naquela posição.
 - **Filtro de Sobel** — um kernel específico (na verdade, dois: um horizontal, um vertical) desenhado para realçar regiões de mudança brusca de intensidade — ou seja, bordas — aproximando o gradiente da imagem.
 - **Histograma e equalização de histograma** — o histograma mostra quantos pixels têm cada nível de intensidade; equalizá-lo redistribui esses valores para usar toda a faixa disponível de forma mais uniforme, aumentando o contraste percebido sem precisar conhecer nada sobre o conteúdo da imagem.
 - **Limiarização (thresholding)** — a técnica mais simples e mais usada de segmentação: definir um valor de corte e classificar cada pixel acima ou abaixo dele; o desafio real está em escolher esse valor automaticamente e adaptá-lo à iluminação local.
@@ -67,8 +69,8 @@ O que dominar: **limiarização** (*thresholding*) — separar pixels em duas cl
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- GONZALEZ, R. C., WOODS, R. E. *Processamento Digital de Imagens* — a referência canônica da área, citada na própria ementa da disciplina.
-- SOLOMON, C., BRECKON, T. *Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab* — bom complemento prático ao Gonzalez & Woods.
+- GONZALEZ, R. C., WOODS, R. E. _Processamento Digital de Imagens_ — a referência canônica da área, citada na própria ementa da disciplina.
+- SOLOMON, C., BRECKON, T. _Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab_ — bom complemento prático ao Gonzalez & Woods.
 
 ## 🔗 Referências externas
 

@@ -1,12 +1,9 @@
 ---
 publish: true
-password: 409182ph
 title: Aula 01 — Conceito e Histórico
-titulo: CursoON-Aula01
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: O que é arqueologia galáctica, o conceito de população estelar simples e o histórico das descobertas que levaram à identificação das populações I e II
-professor: Hélio Dotto Perottoni
 created: 2026-07-23
+modified: 2026-07-26T11:33:09.983-03:00
+published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -15,7 +12,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula01
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: O que é arqueologia galáctica, o conceito de população estelar simples e o histórico das descobertas que levaram à identificação das populações I e II
+professor: Hélio Dotto Perottoni
 ---
+
 # 🏛️ Aula 01 — Conceito e Histórico
 
 > [!note] Resumo
@@ -31,7 +34,7 @@ cssclasses:
 
 ## 🎯 Conceito e escopo de Arqueologia Galáctica
 
-O termo é frequentemente aplicado para descrever pesquisas sobre a formação e a história da Via Láctea e suas populações estelares, combinando dinâmica, química, idade e posição para reconstruir essa história [Helmi 2020, *Streams, Substructures, and the Early History of the Milky Way*; Freeman & Bland-Hawthorn 2002, *The New Galaxy: Signatures of Its Formation*].
+O termo é frequentemente aplicado para descrever pesquisas sobre a formação e a história da Via Láctea e suas populações estelares, combinando dinâmica, química, idade e posição para reconstruir essa história \[Helmi 2020, _Streams, Substructures, and the Early History of the Milky Way_; Freeman & Bland-Hawthorn 2002, _The New Galaxy: Signatures of Its Formation_].
 
 **A premissa central:** as estrelas carregam uma memória de longo prazo de sua origem em suas composições químicas e (às vezes) em sua dinâmica. Além disso, sua posição e idade carregam informação adicional. Os quatro eixos de trabalho da área são, portanto:
 
@@ -48,10 +51,10 @@ O quadro atual (ex.: Xiao+2025, Semenov+2024, Naidu+2021, Helmi+2018) organiza a
 
 | Estágio | Época | Descrição |
 |---|---|---|
-| Formação do disco | $z\sim7$, $>11$ Gyr | Proto-Via Láctea + *spin-up* |
-| Gaia Sausage-Enceladus | $z>2$, $\sim$11–9 Gyr | Disco aquecido/*splash* + *starburst* + halo interno + possível *warp* |
+| Formação do disco | $z\sim7$, $>11$ Gyr | Proto-Via Láctea + _spin-up_ |
+| Gaia Sausage-Enceladus | $z>2$, $\sim$11–9 Gyr | Disco aquecido/_splash_ + _starburst_ + halo interno + possível _warp_ |
 | Sagittarius dSph | $2>z>0{,}3$, $\sim$5 Gyr | Sobredensidades estelares no disco + aumento da taxa de formação estelar |
-| Nuvens de Magalhães | $z<0{,}3$, $>{\sim}3{,}5$ Gyr | Halo "desperta" com a primeira aproximação (*first infall*) |
+| Nuvens de Magalhães | $z<0{,}3$, $>{\sim}3{,}5$ Gyr | Halo "desperta" com a primeira aproximação (_first infall_) |
 
 Esse roteiro é reconstruído justamente com as ferramentas que o curso desenvolve — órbitas, química, idades — e será revisitado em detalhe nas Unidades 3, 4, 6 e 7 da ementa.
 
@@ -67,11 +70,11 @@ O conceito simplifica-se com a aproximação de **População Estelar Simples (S
 
 Uma galáxia típica pode então ser escrita como soma de populações compostas, que por sua vez são soma de SSPs:
 
-$$\text{Galáxia} = \sum_n \text{população}_n, \qquad \text{população} = \sum_j \text{SSP}_j$$
+$\text{Galáxia} = \sum_n \text{população}_n, \qquad \text{população} = \sum_j \text{SSP}_j$
 
 O bojo, o halo e o disco galáctico são exemplos de **populações compostas**. Cada uma representa um agrupamento complexo de estrelas com distribuições próprias de metalicidade, velocidade e idade — presumivelmente resultado da mistura de várias SSPs. Quanto **menor** o número de SSPs que compõem uma população, mais facilmente sua história pode ser reconstruída; por isso, a identificação de SSPs em grandes galáxias é uma tarefa complexa, que se simplifica quando a SSP tem padrões característicos (distribuição espacial, cinemática, química e idade bem definidas).
 
-O conceito de SSP também permite reconstruir o **espectro integrado** de uma galáxia como soma ponderada dos espectros de suas populações estelares [Conroy 2013].
+O conceito de SSP também permite reconstruir o **espectro integrado** de uma galáxia como soma ponderada dos espectros de suas populações estelares \[Conroy 2013].
 
 ## 📜 Histórico dos estudos galácticos
 
@@ -108,7 +111,7 @@ A comparação da Via Láctea com Andrômeda permitiu inferir os componentes est
 
 ## 🧩 O primeiro modelo e o sinal de acréscimo
 
-O **Modelo Monolítico** [Eggen, Lynden-Bell & Sandage 1962] foi a primeira tentativa de explicar quantitativamente a formação da Galáxia, propondo um colapso rápido e relativamente uniforme de uma nuvem primordial.
+O **Modelo Monolítico** \[Eggen, Lynden-Bell & Sandage 1962] foi a primeira tentativa de explicar quantitativamente a formação da Galáxia, propondo um colapso rápido e relativamente uniforme de uma nuvem primordial.
 
 **Searle & Zinn (1978)** encontraram a primeira fissura no modelo: aglomerados do halo galáctico possuem um espalhamento em idade **maior** do que a escala de tempo de queda livre — indicando que possivelmente sub-fragmentos galácticos independentes caíram sobre a Galáxia **depois** da formação do grosso do sistema. Isobe (1974), Saio & Yoshii (1979) e Mihalas & Binney (1980) já apontavam efeitos de seleção na metodologia de Eggen-Lynden-Bell-Sandage (ELS): o modelo monolítico é simplista demais para dar conta de populações como as estrelas retrógradas. A formação do halo deve, portanto, ter sido **mais lenta e mais complexa** do que a proposta original.
 
@@ -124,9 +127,9 @@ Esse é o embrião histórico do paradigma moderno de formação hierárquica qu
 
 ## 🔗 Referências e correlatos
 
-- Helmi (2020) — *Streams, Substructures, and the Early History of the Milky Way*, ARA&A 58, 205
-- Freeman & Bland-Hawthorn (2002) — *The New Galaxy: Signatures of Its Formation*
-- Conroy (2013) — síntese de populações estelares simples (ARA&A 51, 393)
+- Helmi (2020) — _Streams, Substructures, and the Early History of the Milky Way_, ARA\&A 58, 205
+- Freeman & Bland-Hawthorn (2002) — _The New Galaxy: Signatures of Its Formation_
+- Conroy (2013) — síntese de populações estelares simples (ARA\&A 51, 393)
 - Baade (1944) — identificação das populações I e II
 - Eggen, Lynden-Bell & Sandage (1962) — Modelo Monolítico
 - Searle & Zinn (1978) — sinal de acréscimo no halo

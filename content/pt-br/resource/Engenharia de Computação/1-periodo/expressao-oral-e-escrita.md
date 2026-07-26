@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Expressão Oral e Escrita
 created: 2026-07-18
-title: "Expressão Oral e Escrita"
+modified: 2026-07-26T11:33:09.991-03:00
+published: 2026-07-26T11:33:09.991-03:00
 tags:
- - disciplina
- - basica
+  - disciplina
+  - basica
 ---
 
 > [!note] Sobre esta disciplina
@@ -33,18 +35,25 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 ## 📖 Conteúdo Programático
 
 1. Noções de texto
- - Linguagem verbal e não verbal;
- - Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
- - Variações linguísticas.
+
+- Linguagem verbal e não verbal;
+- Linguagem padrão e coloquial; Adequação da linguagem ao contexto;
+- Variações linguísticas.
+
 2. Organização textual
- - Coerência e Coesão.
+
+- Coerência e Coesão.
+
 3. Tipologia Textual
- - Estrutura e características do texto descritivo;
- - Estrutura e características do texto narrativo;
- - Estrutura e características do texto dissertativo.
+
+- Estrutura e características do texto descritivo;
+- Estrutura e características do texto narrativo;
+- Estrutura e características do texto dissertativo.
+
 4. Linguagem e argumentação
 5. Redação científica
- - Elaboração de resumo, resenha e fichamento.
+
+- Elaboração de resumo, resenha e fichamento.
 
 ## 📚 Materiais de Apoio (acesso aberto)
 
@@ -79,4 +88,4 @@ _(anotações, listas e trabalhos próprios — não são material oficial do cu
 - [Notas](assets/disciplinas/1-periodo/expressao-oral-e-escrita/Notas.pdf)
 - [PEQUENO MANUAL ANTIRRACISTA](assets/disciplinas/1-periodo/expressao-oral-e-escrita/PEQUENO%20MANUAL%20ANTIRRACISTA.pdf)
 - [Relatório Mostra](assets/disciplinas/1-periodo/expressao-oral-e-escrita/Relatório%20Mostra.pdf)
-- [f3286f_d5f6ef4be4654efba7d4b771eaf7b9ac](assets/disciplinas/1-periodo/expressao-oral-e-escrita/f3286f_d5f6ef4be4654efba7d4b771eaf7b9ac.pdf)
+- [f3286f\_d5f6ef4be4654efba7d4b771eaf7b9ac](assets/disciplinas/1-periodo/expressao-oral-e-escrita/f3286f_d5f6ef4be4654efba7d4b771eaf7b9ac.pdf)

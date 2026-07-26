@@ -1,7 +1,9 @@
 ---
 publish: false
+title: GALAH DR4
 created: 2026-07-18
-title: "GALAH DR4"
+modified: 2026-07-25T23:58:08.061-03:00
+published: 2026-07-25T23:58:08.061-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Quarto release do GALAH (DR4): 917.588 estrelas com até 32 elementos (incluindo nitrogênio e elementos terras-raras), usando redes neurais para ajustar parâmetros e abundâncias.
 
-*Buder, Sven. (2025)*
+_Buder, Sven. (2025)_
 
 ## Síntese
 

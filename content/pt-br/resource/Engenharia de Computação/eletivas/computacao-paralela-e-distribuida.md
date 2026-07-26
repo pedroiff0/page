@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Computação Paralela e Distribuída
 created: 2026-07-18
-title: "Computação Paralela e Distribuída"
+modified: 2026-07-26T11:33:09.999-03:00
+published: 2026-07-26T11:33:09.999-03:00
 tags:
- - disciplina
- - basico
+  - disciplina
+  - basico
 ---
 
 > [!note] Sobre esta disciplina
@@ -34,30 +36,43 @@ Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralel
 3. Alocação de Processadores
 4. Modelos Síncrono e Assíncrono de Computação
 5. Computações em Sistemas Anônimos
- - Limitações Intrínsecas
- - Noções de conhecimento em sistemas distribuídos
+
+- Limitações Intrínsecas
+- Noções de conhecimento em sistemas distribuídos
+
 6. Modelos de Computação
- - Eventos, ordem e estados globais
- - A complexidade de computações distribuídas
+
+- Eventos, ordem e estados globais
+- A complexidade de computações distribuídas
+
 7. Algoritmos Básicos
- - Propagação de Informação
- - Algoritmos simples sobre grafos
- - i. Teste de conectividade
- - ii. Distâncias mais curtas
+
+- Propagação de Informação
+- Algoritmos simples sobre grafos
+- i. Teste de conectividade
+- ii. Distâncias mais curtas
+
 8. Técnicas Básicas
- - Eleição de líder
- - Gravação de estados globais
- - Sincronização de redes
+
+- Eleição de líder
+- Gravação de estados globais
+- Sincronização de redes
+
 9. Introdução à Alto-Estabilização
- - Detecção de Terminação
- - Detecção de Deadlocks
+
+- Detecção de Terminação
+- Detecção de Deadlocks
+
 10. Outros Algoritmos sobre Grafos
- - Árvores geradoras mínimas
- - Fluxos em redes
+
+- Árvores geradoras mínimas
+- Fluxos em redes
+
 11. Compartilhamento de Recursos
- - Algoritmos de exclusão mútua
- - Dinning Philosopers
- - Drinking Philosopers
+
+- Algoritmos de exclusão mútua
+- Dinning Philosopers
+- Drinking Philosopers
 
 ## 📕 Bibliografia Básica
 

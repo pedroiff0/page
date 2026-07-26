@@ -1,7 +1,9 @@
 ---
 publish: false
+title: GALAH — Relógios Químicos
 created: 2026-07-18
-title: "GALAH — Relógios Químicos"
+modified: 2026-07-25T23:58:08.061-03:00
+published: 2026-07-25T23:58:08.061-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Deriva idades de quase 250.000 estrelas do GALAH DR3 via XGBoost usando apenas metalicidade e abundâncias (precisão 1-2 Gyr).
 
-*Hayden, Michael R. (2022)*
+_Hayden, Michael R. (2022)_
 
 ## Síntese
 

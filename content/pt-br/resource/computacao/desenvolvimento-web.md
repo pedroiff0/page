@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Desenvolvimento Web
 created: 2026-07-26
-title: "Desenvolvimento Web"
+modified: 2026-07-26T11:33:09.975-03:00
+published: 2026-07-26T11:33:09.975-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -26,7 +28,7 @@ O que dominar: uma breve história da Internet e da World Wide Web (a diferença
 
 ### 2. Desenvolvimento Front-End (3–4 semanas)
 
-O que dominar: HTML semântico (estruturar conteúdo com as tags certas, não só `<div>` pra tudo), CSS (o modelo de caixa — *box model* —, e os dois sistemas de layout modernos, Flexbox e Grid), e JavaScript no navegador (manipulação do DOM, tratamento de eventos, requisições assíncronas com `fetch`). O que praticar: construir uma página estática simples (um formulário com validação em JavaScript) sem usar nenhum framework — entender a plataforma antes de abstraí-la é o que evita depender de "mágica" que você não sabe depurar.
+O que dominar: HTML semântico (estruturar conteúdo com as tags certas, não só `<div>` pra tudo), CSS (o modelo de caixa — _box model_ —, e os dois sistemas de layout modernos, Flexbox e Grid), e JavaScript no navegador (manipulação do DOM, tratamento de eventos, requisições assíncronas com `fetch`). O que praticar: construir uma página estática simples (um formulário com validação em JavaScript) sem usar nenhum framework — entender a plataforma antes de abstraí-la é o que evita depender de "mágica" que você não sabe depurar.
 
 ### 3. Desenvolvimento Back-End (3–4 semanas)
 
@@ -34,7 +36,7 @@ O que dominar: como um servidor HTTP roteia requisições para código que as pr
 
 ### 4. Banco de dados em sistemas Web (2 semanas)
 
-O que dominar: como uma aplicação web se conecta a um Sistema de Gerenciamento de Banco de Dados (SGBD), o papel de um ORM (mapear objetos do código para tabelas do banco, evitando escrever SQL manual toda vez), e por que **nunca** confiar em entrada de usuário sem tratamento — a porta de entrada clássica pra SQL Injection. O que praticar: escrever a mesma consulta de duas formas — concatenando strings diretamente (vulnerável) e usando *prepared statements*/parâmetros (seguro) — e entender exatamente por que a primeira forma é perigosa.
+O que dominar: como uma aplicação web se conecta a um Sistema de Gerenciamento de Banco de Dados (SGBD), o papel de um ORM (mapear objetos do código para tabelas do banco, evitando escrever SQL manual toda vez), e por que **nunca** confiar em entrada de usuário sem tratamento — a porta de entrada clássica pra SQL Injection. O que praticar: escrever a mesma consulta de duas formas — concatenando strings diretamente (vulnerável) e usando _prepared statements_/parâmetros (seguro) — e entender exatamente por que a primeira forma é perigosa.
 
 ### 5. Engenharia Web (1–2 semanas)
 

@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Linguagens Formais e Autômatos
 created: 2026-07-26
-title: "Linguagens Formais e Autômatos"
+modified: 2026-07-26T11:33:09.979-03:00
+published: 2026-07-26T11:33:09.979-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -68,8 +70,8 @@ O que dominar: uma visão panorâmica de dois modelos alternativos de computaç�
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- SIPSER, M. *Introdução à Teoria da Computação* — a referência mais didática da área; começa exatamente na ordem desta trilha (regular → livre de contexto → Turing → computabilidade).
-- HOPCROFT, J. E., ULLMAN, J. D., MOTWANI, R. *Introdução à Teoria de Autômatos, Linguagens e Computação* — mais denso que o Sipser, ótimo como referência de consulta depois da primeira leitura.
+- SIPSER, M. _Introdução à Teoria da Computação_ — a referência mais didática da área; começa exatamente na ordem desta trilha (regular → livre de contexto → Turing → computabilidade).
+- HOPCROFT, J. E., ULLMAN, J. D., MOTWANI, R. _Introdução à Teoria de Autômatos, Linguagens e Computação_ — mais denso que o Sipser, ótimo como referência de consulta depois da primeira leitura.
 
 ## 🔗 Referências externas
 

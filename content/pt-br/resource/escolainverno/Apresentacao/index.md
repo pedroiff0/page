@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-07-22
 title: Apresentação de Pesquisa
+created: 2026-07-22
+modified: 2026-07-26T11:03:55.936-03:00
+published: 2026-07-26T11:03:55.936-03:00
 ---
 
 > [!note] Resumo

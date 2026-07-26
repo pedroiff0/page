@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Compiladores
 created: 2026-07-26
-title: "Compiladores"
+modified: 2026-07-26T11:33:09.979-03:00
+published: 2026-07-26T11:33:09.979-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -20,11 +22,11 @@ Além disso, o conhecimento de compiladores se generaliza pra qualquer ferrament
 
 ### 1. Visão geral e análise léxica (2 semanas)
 
-O que dominar: a diferença entre compilador (traduz tudo antes de executar) e interpretador (traduz e executa linha a linha); as fases clássicas de um compilador (léxica → sintática → semântica → geração de código intermediário → otimização → geração de código final); o que é um **token** (a menor unidade com significado — palavra-chave, identificador, operador) versus um lexema (o texto bruto que originou o token); como expressões regulares (de [[Linguagens Formais e Autômatos]]) viram, na prática, o analisador léxico via geradores como o *lex*/*flex*. O que praticar: escrever à mão o analisador léxico de uma calculadora simples (números, `+`, `-`, `*`, `/`, parênteses) — reconhecer tokens é mais mecânico e mais rápido de dominar do que parece.
+O que dominar: a diferença entre compilador (traduz tudo antes de executar) e interpretador (traduz e executa linha a linha); as fases clássicas de um compilador (léxica → sintática → semântica → geração de código intermediário → otimização → geração de código final); o que é um **token** (a menor unidade com significado — palavra-chave, identificador, operador) versus um lexema (o texto bruto que originou o token); como expressões regulares (de [[Linguagens Formais e Autômatos]]) viram, na prática, o analisador léxico via geradores como o _lex_/_flex_. O que praticar: escrever à mão o analisador léxico de uma calculadora simples (números, `+`, `-`, `*`, `/`, parênteses) — reconhecer tokens é mais mecânico e mais rápido de dominar do que parece.
 
 ### 2. Análise sintática (3–4 semanas)
 
-O que dominar: como uma gramática livre de contexto (de [[Linguagens Formais e Autômatos]]) descreve a estrutura válida de um programa; a Árvore de Sintaxe Abstrata (AST) como representação intermediária que o resto do compilador consome; ambiguidade gramatical e como reescrever gramáticas para eliminá-la; a diferença entre parsing **descendente** (top-down: LL, recursivo, mais fácil de escrever à mão) e **ascendente** (bottom-up: LR, SLR, LALR — mais poderoso, usado por geradores como *yacc*/*bison*); recuperação de erros sintáticos (não parar no primeiro erro, e sim reportar o máximo de problemas possível). O que praticar: desenhar a AST de expressões aritméticas com precedência de operadores (`2 + 3 * 4` não é o mesmo que `(2+3)*4`) — é o exercício mais didático da disciplina inteira.
+O que dominar: como uma gramática livre de contexto (de [[Linguagens Formais e Autômatos]]) descreve a estrutura válida de um programa; a Árvore de Sintaxe Abstrata (AST) como representação intermediária que o resto do compilador consome; ambiguidade gramatical e como reescrever gramáticas para eliminá-la; a diferença entre parsing **descendente** (top-down: LL, recursivo, mais fácil de escrever à mão) e **ascendente** (bottom-up: LR, SLR, LALR — mais poderoso, usado por geradores como _yacc_/_bison_); recuperação de erros sintáticos (não parar no primeiro erro, e sim reportar o máximo de problemas possível). O que praticar: desenhar a AST de expressões aritméticas com precedência de operadores (`2 + 3 * 4` não é o mesmo que `(2+3)*4`) — é o exercício mais didático da disciplina inteira.
 
 ![Árvore de sintaxe abstrata (AST) para o algoritmo de Euclides — cada nó interno é uma operação/estrutura de controle, e as folhas são variáveis ou valores.](https://commons.wikimedia.org/wiki/Special:FilePath/Abstract_syntax_tree_for_Euclidean_algorithm.svg)
 
@@ -38,7 +40,7 @@ O que dominar: código intermediário (código de três endereços — uma repre
 
 ### 5. Ambiente de tempo de execução (1–2 semanas)
 
-O que dominar: organização de memória de um programa em execução (pilha, heap, área de código, área estática), a pilha de ativação (*stack frame*) — como cada chamada de função aloca seu próprio espaço para variáveis locais e endereço de retorno — e uma visão geral de coleta de lixo (*garbage collection*) em linguagens que gerenciam memória automaticamente. O que praticar: desenhar a pilha de chamadas de uma função recursiva simples (fatorial, Fibonacci) quadro a quadro — é a melhor forma de entender por que recursão profunda demais causa *stack overflow*.
+O que dominar: organização de memória de um programa em execução (pilha, heap, área de código, área estática), a pilha de ativação (_stack frame_) — como cada chamada de função aloca seu próprio espaço para variáveis locais e endereço de retorno — e uma visão geral de coleta de lixo (_garbage collection_) em linguagens que gerenciam memória automaticamente. O que praticar: desenhar a pilha de chamadas de uma função recursiva simples (fatorial, Fibonacci) quadro a quadro — é a melhor forma de entender por que recursão profunda demais causa _stack overflow_.
 
 ## Conceitos que você precisa dominar
 
@@ -48,7 +50,7 @@ O que dominar: organização de memória de um programa em execução (pilha, he
 - **Parsing LL vs. LR** — LL lê a entrada da esquerda pra direita construindo a derivação mais à esquerda (mais simples, usado em parsers recursivos escritos à mão); LR faz o mesmo construindo a derivação mais à direita de trás pra frente (mais poderoso, reconhece uma classe maior de gramáticas, mas exige um gerador de parser).
 - **Tabela de símbolos** — a estrutura (geralmente uma pilha de tabelas hash, uma por escopo) que resolve "o que significa este identificador aqui?" — é o que permite que a mesma variável `x` signifique coisas diferentes em escopos diferentes.
 - **Código de três endereços** — uma representação intermediária onde cada instrução tem no máximo um operador e três operandos (`t1 = b * c; t2 = a + t1`) — próxima o suficiente de assembly para gerar código de máquina, mas ainda independente da arquitetura alvo.
-- **Pilha de ativação (stack frame)** — o bloco de memória que cada chamada de função reserva para parâmetros, variáveis locais e endereço de retorno; entender isso é entender por que recursão tem custo de memória e por que *stack overflow* acontece.
+- **Pilha de ativação (stack frame)** — o bloco de memória que cada chamada de função reserva para parâmetros, variáveis locais e endereço de retorno; entender isso é entender por que recursão tem custo de memória e por que _stack overflow_ acontece.
 
 ## Erros comuns de quem está começando
 
@@ -71,7 +73,7 @@ O que dominar: organização de memória de um programa em execução (pilha, he
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- AHO, A. V., LAM, M. S., SETHI, R., ULLMAN, J. D. *Compiladores: Princípios, Técnicas e Ferramentas* (o "Dragon Book") — a referência canônica da área, cobre exatamente as fases desta trilha em profundidade.
+- AHO, A. V., LAM, M. S., SETHI, R., ULLMAN, J. D. _Compiladores: Princípios, Técnicas e Ferramentas_ (o "Dragon Book") — a referência canônica da área, cobre exatamente as fases desta trilha em profundidade.
 
 ## 🔗 Referências externas
 

@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-07-22
 title: Palestras
+created: 2026-07-22
+modified: 2026-07-26T10:42:30.234-03:00
+published: 2026-07-26T10:42:30.234-03:00
 ---
 
 > [!note] Resumo
@@ -30,9 +32,9 @@ title: Palestras
   </a>
 </div>
 
-As quatro palestras numeradas da Escola de Inverno 2026: 
-**P1** Gabriel Rodrigues ("Neutrinos e a Cosmologia", 20/07 — ver [[Neutrinos|nota completa]]), 
-**P2** Daniela Lazzaro ("15 anos do OASI", 21/07 — ver [[OASI|nota completa]]), 
-**P3** Rebeca Batalha ("De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo", 23/07 — ver [[RaioX|nota completa]]) e 
-**P4** Marília Carlos ("Composições químicas estelares com alta precisão e acurácia", 24/07 — ver [[Composicoes|nota mínima, aguardando slides oficiais]]). 
+As quatro palestras numeradas da Escola de Inverno 2026:
+**P1** Gabriel Rodrigues ("Neutrinos e a Cosmologia", 20/07 — ver [[Neutrinos|nota completa]]),
+**P2** Daniela Lazzaro ("15 anos do OASI", 21/07 — ver [[OASI|nota completa]]),
+**P3** Rebeca Batalha ("De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo", 23/07 — ver [[RaioX|nota completa]]) e
+**P4** Marília Carlos ("Composições químicas estelares com alta precisão e acurácia", 24/07 — ver [[Composicoes|nota mínima, aguardando slides oficiais]]).
 Além delas, a [[Bolsas|Sessão PG/PIBIC]] de 22/07 (sobre bolsas e programas de pós-graduação) não é uma das quatro palestras numeradas, mas fica registrada aqui também.

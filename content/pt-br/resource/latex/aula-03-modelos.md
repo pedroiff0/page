@@ -2,6 +2,8 @@
 publish: true
 title: Aula 03 — Templates e Classes
 created: 2026-03-16
+modified: 2026-07-26T11:09:55.680-03:00
+published: 2026-07-26T11:09:55.680-03:00
 ---
 
 > [!note] Resumo

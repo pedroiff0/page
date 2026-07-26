@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Projeto Final de Curso II
 created: 2026-07-18
-title: "Projeto Final de Curso II"
+modified: 2026-07-26T11:33:09.999-03:00
+published: 2026-07-26T11:33:09.999-03:00
 tags:
- - disciplina
- - especifica
+  - disciplina
+  - especifica
 ---
 
 > [!note] Sobre esta disciplina
@@ -49,7 +51,7 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 ## 📕 Bibliografia Básica
 
 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo: Atlas, 2017.
-2. ______. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
+2. \_\_\_\_\_\_. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
 3. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier,
 
 ## 📗 Bibliografia Complementar
@@ -58,6 +60,6 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 5. São Paulo, 2010.
 6. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
 7. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 2017.
-8. ______. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
+8. \_\_\_\_\_\_. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
 9. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição. São Paulo:
 10. Penso, 2013.

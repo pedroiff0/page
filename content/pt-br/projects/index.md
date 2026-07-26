@@ -1,7 +1,9 @@
 ---
 publish: false
-created: 2026-07-22
 title: Projetos
+created: 2026-07-22
+modified: 2026-07-26T10:03:08.687-03:00
+published: 2026-07-26T10:03:08.687-03:00
 order: 5
 password: 409182ph
 ---

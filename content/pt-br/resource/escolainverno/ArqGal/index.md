@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-07-22
 title: Arqueologia Galáctica
+created: 2026-07-22
+modified: 2026-07-26T11:03:14.091-03:00
+published: 2026-07-26T11:03:14.091-03:00
 ---
 
 > [!note] Resumo

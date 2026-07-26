@@ -1,12 +1,9 @@
 ---
 publish: true
-password: "409182ph"
 title: "Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos"
-titulo: CursoON-Aula14
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Distribuição de metalicidade em halo e bojo, a separação química disco fino/espesso no diagrama [α/Fe]-[Fe/H], razões de abundância como diagnóstico de enriquecimento e a identificação de estrelas capturadas de galáxias satélites
-professor: Hélio Dotto Perottoni
 created: 2026-07-25
+modified: 2026-07-26T11:33:09.983-03:00
+published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -16,11 +13,17 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula14
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Distribuição de metalicidade em halo e bojo, a separação química disco fino/espesso no diagrama [α/Fe]-[Fe/H], razões de abundância como diagnóstico de enriquecimento e a identificação de estrelas capturadas de galáxias satélites
+professor: Hélio Dotto Perottoni
 ---
+
 # 🧪 Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos
 
 > [!note] Resumo
-> Continuação direta da Aula 13: como usar razões de abundância química — sobretudo [α/Fe] vs. [Fe/H] — para separar quimicamente disco fino e disco espesso, entender por que essa separação reflete diferentes histórias de formação estelar (não apenas idade), e como identificar estrelas de halo que foram capturadas de galáxias satélites comparando seus padrões de abundância.
+> Continuação direta da Aula 13: como usar razões de abundância química — sobretudo \[α/Fe] vs. \[Fe/H] — para separar quimicamente disco fino e disco espesso, entender por que essa separação reflete diferentes histórias de formação estelar (não apenas idade), e como identificar estrelas de halo que foram capturadas de galáxias satélites comparando seus padrões de abundância.
 
 > [!info] Informações da aula
 > **Disciplina:** Arqueologia Galáctica e Populações Estelares
@@ -36,7 +39,7 @@ A distribuição de metalicidade observada no halo e no bojo galáctico evidenci
 
 ## ⚗️ A separação química disco fino / disco espesso
 
-A existência de um **disco espesso** (*thick disk*) como componente estrutural distinto foi proposta por Yoshii (1982) e Gilmore & Reid (1983), a partir de duas distribuições de densidade estelar diferentes na direção perpendicular ao disco. Mas a evidência mais forte de que se trata de duas populações genuinamente distintas — não apenas uma questão de escala de altura — vem do diagrama químico **$[\alpha/\text{Fe}]$ vs. $[\text{Fe/H}]$** (Fuhrmann 1998; Bensby et al. 2003): duas sequências bem separadas aparecem nesse plano, uma de **alto-$\alpha$** (o disco espesso químico) e outra de **baixo-$\alpha$** (o disco fino químico), mais rica em $\alpha$ para o mesmo $[\text{Fe/H}]$ no primeiro caso.
+A existência de um **disco espesso** (_thick disk_) como componente estrutural distinto foi proposta por Yoshii (1982) e Gilmore & Reid (1983), a partir de duas distribuições de densidade estelar diferentes na direção perpendicular ao disco. Mas a evidência mais forte de que se trata de duas populações genuinamente distintas — não apenas uma questão de escala de altura — vem do diagrama químico **$[\alpha/\text{Fe}]$ vs. $[\text{Fe/H}]$** (Fuhrmann 1998; Bensby et al. 2003): duas sequências bem separadas aparecem nesse plano, uma de **alto-$\alpha$** (o disco espesso químico) e outra de **baixo-$\alpha$** (o disco fino químico), mais rica em $\alpha$ para o mesmo $[\text{Fe/H}]$ no primeiro caso.
 
 > [!info] Não é só uma diferença de idade
 > A população de alto-$\alpha$ é predominantemente antiga (idade média $\sim11\,$Gyr — Fuhrmann 2011; Haywood et al. 2013; Silva Aguirre et al. 2018; Miglio et al. 2021; Queiroz et al. 2023), enquanto a de baixo-$\alpha$ é sistematicamente mais jovem (5-6 Gyr — Lagarde et al. 2021; Queiroz et al. 2023). Mas a separação química é mais fundamental que a diferença de idade: reflete **taxas relativas diferentes** de enriquecimento por supernovas de tipo II e tipo Ia ao longo do tempo (ver abaixo) — populações com a mesma idade podem, em princípio, ter químicas distintas se suas taxas de formação estelar/enriquecimento diferirem.

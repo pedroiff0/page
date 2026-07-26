@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Prática Profissional
 created: 2026-07-18
-title: "Prática Profissional"
+modified: 2026-07-26T11:33:09.979-03:00
+published: 2026-07-26T11:33:09.979-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -19,15 +21,19 @@ E há o lado formal: o TCC tem norma, prazo, banca e orientador. Quem descobre a
 ## Trilha de estudo
 
 ### 1. Escrever direito antes de escrever ciência (desde o 1º período)
-O que dominar: texto técnico claro — parágrafos com uma ideia central, voz ativa, precisão terminológica. O que praticar: relatórios de disciplina levados a sério (são seu treino gratuito) e leitura crítica de artigos, prestando atenção em *como* são estruturados, não só no conteúdo.
+
+O que dominar: texto técnico claro — parágrafos com uma ideia central, voz ativa, precisão terminológica. O que praticar: relatórios de disciplina levados a sério (são seu treino gratuito) e leitura crítica de artigos, prestando atenção em _como_ são estruturados, não só no conteúdo.
 
 ### 2. Método científico e leitura de artigos (a partir da primeira IC)
+
 O que dominar: a anatomia de um artigo (introdução → método → resultados → discussão), o que é uma pergunta de pesquisa bem-posta, e como fazer revisão bibliográfica sem se afogar. O que praticar: fichamento sistemático — para cada artigo lido, registre em meia página o problema, o método e o resultado. Minhas [anotações de leitura](pt-br/research/anomaly-detection/articles) são exatamente isso, publicadas.
 
 ### 3. Normas, citação e ferramentas (antes do TCC)
+
 O que dominar: ABNT para estrutura e citações, um gerenciador de referências (Zotero) e LaTeX com abnTeX2 — a combinação que elimina o trabalho braçal de formatação. O que praticar: formatar um relatório antigo inteiro na norma, do sumário às referências. Veja a página dedicada de [LaTeX e Escrita Acadêmica](pt-br/resource/latex).
 
 ### 4. Identidade acadêmica e carreira (contínuo)
+
 O que dominar: currículo Lattes completo e atualizado, ORCID vinculado, e a habilidade de apresentar seu trabalho em 10 minutos pra uma banca ou em 2 pra um recrutador. O que praticar: submeter resumos a eventos (SEMIC, congressos regionais) — cada apresentação é ensaio pro TCC e linha no currículo.
 
 ## Conceitos que você precisa dominar

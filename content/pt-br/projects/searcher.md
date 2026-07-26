@@ -2,6 +2,8 @@
 publish: false
 title: arXiv Searcher
 created: 2026-03-13
+modified: 2026-07-26T10:03:17.536-03:00
+published: 2026-07-26T10:03:17.536-03:00
 password: 409182ph
 ---
 

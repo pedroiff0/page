@@ -1,8 +1,10 @@
 ---
 publish: true
 title: Mídia
-order: 4
 created: 2026-07-18T14:50:18.101-03:00
+modified: 2026-07-26T12:36:37.263-03:00
+published: 2026-07-26T12:36:37.263-03:00
+order: 4
 ---
 
 > [!note] Resumo

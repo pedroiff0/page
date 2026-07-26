@@ -1,12 +1,9 @@
 ---
 publish: true
-password: "409182ph"
-title: "Aula 18 — Proto-Disco, Spin-Up e o Disco Splash"
-titulo: CursoON-Aula18
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Cronologia da evolução galáctica (parte 1) — do pipeline observacional aos parâmetros orbitais, a Via Láctea proto-galáctica (Kraken, Heracles, Aurora e outras candidatas), o disco primordial em z~3, o spin-up do disco e o disco "splash" aquecido pela fusão GSE
-professor: Hélio Dotto Perottoni
+title: Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
 created: 2026-07-25
+modified: 2026-07-26T11:33:09.983-03:00
+published: 2026-07-26T11:33:09.983-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -16,7 +13,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula18
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Cronologia da evolução galáctica (parte 1) — do pipeline observacional aos parâmetros orbitais, a Via Láctea proto-galáctica (Kraken, Heracles, Aurora e outras candidatas), o disco primordial em z~3, o spin-up do disco e o disco "splash" aquecido pela fusão GSE
+professor: Hélio Dotto Perottoni
 ---
+
 # 🌅 Aula 18 — Proto-Disco, Spin-Up e o Disco Splash
 
 > [!note] Resumo
@@ -32,7 +35,7 @@ cssclasses:
 
 ## 🎯 Por que a Via Láctea é um "laboratório" único
 
-Arqueologia galáctica é o uso de informação sobre populações estelares para reconstruir a sequência de eventos que formou a estrutura atual da Galáxia. A Via Láctea é a **única** galáxia onde é possível ter informação detalhada, estrela a estrela, para amostras de milhões de objetos — por isso, o que se aprende sobre ela funciona como modelo (*template*) para a formação de galáxias em geral.
+Arqueologia galáctica é o uso de informação sobre populações estelares para reconstruir a sequência de eventos que formou a estrutura atual da Galáxia. A Via Láctea é a **única** galáxia onde é possível ter informação detalhada, estrela a estrela, para amostras de milhões de objetos — por isso, o que se aprende sobre ela funciona como modelo (_template_) para a formação de galáxias em geral.
 
 ## 🧮 Do dado bruto aos parâmetros orbitais
 
@@ -49,14 +52,14 @@ Um resumo recorrente ao longo desta aula organiza a história galáctica em quat
 
 | Estágio | Época | O que acontece |
 |---|---|---|
-| Formação do disco | $z\sim7$, $>11$ Gyr | Proto-Via Láctea + *spin-up* (Semenov+2024; Xiao+2025) |
-| Gaia-Sausage-Enceladus | $z>2$, $\sim$11-9 Gyr | Disco aquecido/*splash* + *starburst* + halo interno + possível *warp* (Naidu+2021) |
+| Formação do disco | $z\sim7$, $>11$ Gyr | Proto-Via Láctea + _spin-up_ (Semenov+2024; Xiao+2025) |
+| Gaia-Sausage-Enceladus | $z>2$, $\sim$11-9 Gyr | Disco aquecido/_splash_ + _starburst_ + halo interno + possível _warp_ (Naidu+2021) |
 | Sagittarius dSph | $2>z>0{,}3$, $\sim$5 Gyr | Sobredensidades estelares no disco + aumento da taxa de formação estelar (Ruiz-Lara+2020) |
 | Nuvens de Magalhães | $z<0{,}3$, $>{\sim}3{,}5$ Gyr | Halo "desperta" com a primeira aproximação (Lucchini+2020) |
 
 ## 👶 A proto-Via Láctea: candidatas em debate
 
-Diversos trabalhos recentes (2019-2025) propõem estruturas antigas e massivas, possivelmente formadas ainda antes ou durante a fase mais primitiva da Galáxia, com nomes distintos conforme o grupo que as identificou — **Kraken**, **Koala**, **Heracles**, **Aurora**, **"Poor Old Heart"**, **Pangu** (Kruijssen+2019/2020; Forbes 2020; Horta+2021; Rix+2022; Belokurov & Kravtsov 2022; Xiang+2025). Não há ainda consenso sobre quantas dessas estruturas são de fato distintas entre si (ou do próprio *in situ* mais antigo da Galáxia) — um dos debates mais ativos da área hoje.
+Diversos trabalhos recentes (2019-2025) propõem estruturas antigas e massivas, possivelmente formadas ainda antes ou durante a fase mais primitiva da Galáxia, com nomes distintos conforme o grupo que as identificou — **Kraken**, **Koala**, **Heracles**, **Aurora**, **"Poor Old Heart"**, **Pangu** (Kruijssen+2019/2020; Forbes 2020; Horta+2021; Rix+2022; Belokurov & Kravtsov 2022; Xiang+2025). Não há ainda consenso sobre quantas dessas estruturas são de fato distintas entre si (ou do próprio _in situ_ mais antigo da Galáxia) — um dos debates mais ativos da área hoje.
 
 ## 🌀 O disco primordial e o "spin-up"
 
@@ -64,14 +67,14 @@ Evidências recentes (Sestito+2019/2020/2021; Di Matteo+2020; Cordoni+2021; Re F
 
 ## 💦 O disco "splash": estrelas de disco lançadas ao halo
 
-Um dos resultados mais marcantes é a identificação de um componente **metal-rico mas cinematicamente parecido com halo** — o disco **"splash"** (Belokurov+2020; ver também Amarante+2020) — interpretado como estrelas do disco primordial que existiam **antes** da fusão GSE e foram dinamicamente **aquecidas e "chacoalhadas"** (*kicked out*) pelo próprio impacto do merger, ficando com órbitas quentes/excêntricas apesar de reter a química de disco (metal-rica). É uma peça chave para entender por que nem toda estrela halo-like é necessariamente acretada.
+Um dos resultados mais marcantes é a identificação de um componente **metal-rico mas cinematicamente parecido com halo** — o disco **"splash"** (Belokurov+2020; ver também Amarante+2020) — interpretado como estrelas do disco primordial que existiam **antes** da fusão GSE e foram dinamicamente **aquecidas e "chacoalhadas"** (_kicked out_) pelo próprio impacto do merger, ficando com órbitas quentes/excêntricas apesar de reter a química de disco (metal-rica). É uma peça chave para entender por que nem toda estrela halo-like é necessariamente acretada.
 
 ## ⚖️ Disco fino vs. disco espesso: co-formação, não sequência simples
 
 O quadro clássico do **Two-Infall Model** (curso-on Aula 17) supõe duas épocas de queda de gás separadas, formando primeiro o disco espesso e depois o fino. Trabalhos mais recentes revisitam essa separação:
 
 - **Co-formação** de disco fino e espesso (Silva Aguirre+2018; Beraldo e Silva+2021; Nepal+2024; Gent+2024; Borbolato+2026) — a transição entre os dois pode não exigir um evento distinto de fusão rica em gás para mediá-la.
-- Modelos *two-infall* **não reproduzem com precisão** a bimodalidade observada (Spitoni+2019).
+- Modelos _two-infall_ **não reproduzem com precisão** a bimodalidade observada (Spitoni+2019).
 - A bimodalidade química fino/espesso **não é causada por migração radial** (Amarante+2026) — descartando uma explicação puramente dinâmica que competiria com a explicação química (curso-on Aula 17).
 - Um **disco fino "splash"** também foi proposto (Nepal+2024; Borbolato+2026/submetido): mesmo a formação do disco fino pode ter uma componente aquecida por interação, e a própria **GSE não seria essencial** para a formação do disco fino como um todo.
 

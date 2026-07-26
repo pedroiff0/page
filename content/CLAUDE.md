@@ -22,7 +22,7 @@ Este diretório **é** o vault Obsidian de verdade que Pedro edita diretamente (
 
 Plugin QuickAdd instalado neste vault com 4 comandos, cada um usando um template em `templates/` (pasta ignorada pelo build do Quartz via `ignorePatterns`):
 
-| Comando | Cria em | 
+| Comando | Cria em |
 |---|---|
 | Blog | `pt-br/blog` |
 | Projeto | `pt-br/projects` |

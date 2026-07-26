@@ -1,7 +1,9 @@
 ---
 publish: false
+title: Artigos
 created: 2026-07-23
-title: "Artigos"
+modified: 2026-07-25T23:58:08.061-03:00
+published: 2026-07-25T23:58:08.061-03:00
 order: 1
 ---
 
@@ -45,7 +47,7 @@ Anotações de leitura sobre artigos científicos relevantes para minha pesquisa
 - [GALAH DR4](pt-br/research/anomaly-detection/articles/buder2025) — 4º release do GALAH: até 32 elementos por estrela via redes neurais.
 - [GALAH — Pipeline de Redução de Dados](pt-br/research/anomaly-detection/articles/kos2017) — como os espectros brutos do HERMES viram os parâmetros do catálogo.
 - [APOGEE](pt-br/research/anomaly-detection/articles/majewski2017) — survey infravermelho de alta resolução, usado como comparação/contexto.
-- [LAMOST DR5 — Abundâncias de 16 Elementos](pt-br/research/anomaly-detection/articles/xiang2019) — outro survey espectroscópico de grande volume, abordagem *data-driven* (DD-Payne).
+- [LAMOST DR5 — Abundâncias de 16 Elementos](pt-br/research/anomaly-detection/articles/xiang2019) — outro survey espectroscópico de grande volume, abordagem _data-driven_ (DD-Payne).
 - [S-PLUS DR4 — Outliers de SED](pt-br/research/anomaly-detection/articles/quispehuaynasi2025) — detecção de anomalias fotométricas em survey diferente, paralelo metodológico.
 
 ## 🤖 Aprendizado de máquina e detecção de anomalias
@@ -53,11 +55,11 @@ Anotações de leitura sobre artigos científicos relevantes para minha pesquisa
 - [GALAH — Classificação via t-SNE](pt-br/research/anomaly-detection/articles/traven2017) — metodologia-base da Etapa 2 (t-SNE sobre espectros brutos).
 - [da Silva & Smiljanic (2023) — t-SNE Quimiodinâmico](pt-br/research/anomaly-detection/articles/dasilva2023) — base da comparação entre colunas de catálogo e pixels do espectro.
 - [ASTRONOMALY](pt-br/research/anomaly-detection/articles/lochner2021) — motivação de escala: por que big data astronômico exige detecção automática de anomalias.
-- [Detecção Ativa de Anomalias (Time-Domain)](pt-br/research/anomaly-detection/articles/ishida2021) — *active learning* aplicado à descoberta de objetos incomuns.
+- [Detecção Ativa de Anomalias (Time-Domain)](pt-br/research/anomaly-detection/articles/ishida2021) — _active learning_ aplicado à descoberta de objetos incomuns.
 - [Machine Learning para Binárias](pt-br/research/anomaly-detection/articles/traven2019) — revisão de métodos de ML em grandes levantamentos.
 - [GALAH — Estrelas de Linhas de Emissão](pt-br/research/anomaly-detection/articles/otar2021) — autoencoder que reconstrói espectros para achar emissões anômalas — mesma família de método da Etapa 2.
 - [GALAH — Estrelas Extremamente Pobres em Metais](pt-br/research/anomaly-detection/articles/hughes2022) — ML supervisionado para achar 54 candidatas EMP no GALAH.
-- [GALAH — Bandas Interestelares Difusas](pt-br/research/anomaly-detection/articles/vogrini2023) — outro exemplo de mineração de *big data* espectroscópico do GALAH.
+- [GALAH — Bandas Interestelares Difusas](pt-br/research/anomaly-detection/articles/vogrini2023) — outro exemplo de mineração de _big data_ espectroscópico do GALAH.
 
 ## ⭐ Modelos estelares e idades
 

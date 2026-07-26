@@ -1,7 +1,9 @@
 ---
 publish: false
+title: APOGEE
 created: 2026-07-18
-title: "APOGEE"
+modified: 2026-07-25T23:58:08.061-03:00
+published: 2026-07-25T23:58:08.061-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Descreve o survey APOGEE (SDSS-III): 146.000 estrelas com espectros infravermelhos de alta resolução (R~22.500) e alto S/N. Apresenta design, seleção de alvos, redução e produtos.
 
-*Majewski, Steven R. (2017)*
+_Majewski, Steven R. (2017)_
 
 ## Síntese
 

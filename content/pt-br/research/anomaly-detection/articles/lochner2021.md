@@ -1,7 +1,9 @@
 ---
 publish: false
+title: ASTRONOMALY
 created: 2026-07-18
-title: "ASTRONOMALY"
+modified: 2026-07-25T23:58:08.057-03:00
+published: 2026-07-25T23:58:08.057-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Discute que surveys como Vera Rubin e SKA gerarão bilhões de fontes que nunca serão vistas por humanos;
 
-*Lochner, M. (2021)*
+_Lochner, M. (2021)_
 
 ## Síntese
 

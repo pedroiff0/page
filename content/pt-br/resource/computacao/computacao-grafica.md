@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Computação Gráfica
 created: 2026-07-26
-title: "Computação Gráfica"
+modified: 2026-07-26T11:33:09.979-03:00
+published: 2026-07-26T11:33:09.979-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -66,7 +68,7 @@ O que dominar: o modelo de iluminação de Phong (componentes ambiente, difusa e
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- AZEVEDO, E., CONCI, A., VASCONCELOS, C. *Computação Gráfica: Teoria e Prática* — a referência-base da própria ementa da disciplina, em português.
+- AZEVEDO, E., CONCI, A., VASCONCELOS, C. _Computação Gráfica: Teoria e Prática_ — a referência-base da própria ementa da disciplina, em português.
 
 ## 🔗 Referências externas
 

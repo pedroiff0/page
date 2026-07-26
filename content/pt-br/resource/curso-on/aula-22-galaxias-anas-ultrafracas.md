@@ -1,12 +1,9 @@
 ---
 publish: true
-password: "409182ph"
-title: "Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica"
-titulo: CursoON-Aula22
-disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
-conteudo: Galáxias anãs ultrafracas (UFDs) como o limite extremo da formação galáctica — os menores halos de matéria escura conhecidos, padrões químicos que preservam eventos individuais de nucleossíntese, e a definição formal de galáxia satélite
-professor: Hélio Dotto Perottoni
+title: Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
 created: 2026-07-25
+modified: 2026-07-26T11:33:09.987-03:00
+published: 2026-07-26T11:33:09.987-03:00
 tags:
   - curso-on
   - arqueologia-galactica
@@ -16,7 +13,13 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+password: 409182ph
+titulo: CursoON-Aula22
+disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
+conteudo: Galáxias anãs ultrafracas (UFDs) como o limite extremo da formação galáctica — os menores halos de matéria escura conhecidos, padrões químicos que preservam eventos individuais de nucleossíntese, e a definição formal de galáxia satélite
+professor: Hélio Dotto Perottoni
 ---
+
 # 🔬 Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
 
 > [!note] Resumo
@@ -32,7 +35,7 @@ cssclasses:
 
 ## 🔭 Por que as UFDs importam
 
-As **galáxias anãs ultrafracas** (*Ultra-Faint Dwarfs*, UFDs) residem nos **menores halos de matéria escura já encontrados** — suas densidades centrais medidas (e, no futuro, seus perfis de densidade completos) oferecem pistas diretas sobre o comportamento da matéria escura em pequena escala, um dos testes mais duros para qualquer modelo de matéria escura (ver também o problema núcleo-cúspide discutido na Escola de Inverno). Além disso, as UFDs marcam o **limite extremo** do próprio processo de formação de galáxias: as menores metalicidades, as idades mais antigas, os menores tamanhos, as menores massas estelares e os históricos de formação mais simples entre todas as galáxias conhecidas.
+As **galáxias anãs ultrafracas** (_Ultra-Faint Dwarfs_, UFDs) residem nos **menores halos de matéria escura já encontrados** — suas densidades centrais medidas (e, no futuro, seus perfis de densidade completos) oferecem pistas diretas sobre o comportamento da matéria escura em pequena escala, um dos testes mais duros para qualquer modelo de matéria escura (ver também o problema núcleo-cúspide discutido na Escola de Inverno). Além disso, as UFDs marcam o **limite extremo** do próprio processo de formação de galáxias: as menores metalicidades, as idades mais antigas, os menores tamanhos, as menores massas estelares e os históricos de formação mais simples entre todas as galáxias conhecidas.
 
 > [!tip] Por que a química de uma UFD é tão informativa
 > Devido à sua massa estelar minúscula, uma UFD típica sofreu **muito poucas explosões de supernova** ao longo de toda a sua história. Isso significa que suas estrelas podem preservar assinaturas químicas de eventos de nucleossíntese quase **individuais** (curso-on Aula 13) — em vez da média suavizada de milhares de supernovas que caracteriza a química de galáxias maiores. É um dos poucos ambientes onde é possível, em princípio, ver a "impressão digital" química de um único evento de enriquecimento.
@@ -47,7 +50,7 @@ Ao contrário das **dSphs clássicas** (as anãs esferoidais "normais", como For
 
 ## 📐 O que define uma "galáxia satélite"
 
-Fechando o curso, a aula revisita a própria **definição formal de galáxia satélite** (Simon 2019, revisão em ARA&A) — a fronteira entre "aglomerado estelar" e "galáxia anã" nem sempre é óbvia nos casos mais extremos (justamente o regime das UFDs), e critérios como dispersão de metalicidade interna, presença de matéria escura dinamicamente inferida, e dispersão de velocidades acima do esperado para um sistema estelar autogravitante são usados para resolver essa ambiguidade caso a caso.
+Fechando o curso, a aula revisita a própria **definição formal de galáxia satélite** (Simon 2019, revisão em ARA\&A) — a fronteira entre "aglomerado estelar" e "galáxia anã" nem sempre é óbvia nos casos mais extremos (justamente o regime das UFDs), e critérios como dispersão de metalicidade interna, presença de matéria escura dinamicamente inferida, e dispersão de velocidades acima do esperado para um sistema estelar autogravitante são usados para resolver essa ambiguidade caso a caso.
 
 ---
 
@@ -60,7 +63,7 @@ Fechando o curso, a aula revisita a própria **definição formal de galáxia sa
 
 ## 🔗 Referências e correlatos
 
-- Simon (2019) — revisão sobre a definição e propriedades de galáxias anãs satélites, ARA&A 57, 375
+- Simon (2019) — revisão sobre a definição e propriedades de galáxias anãs satélites, ARA\&A 57, 375
 - [Curso ON — visão geral](pt-br/resource/curso-on)
 - [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — os processos nucleossintéticos cuja assinatura individual as UFDs preservam melhor que qualquer outro ambiente
 - [Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites](pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade) — pré-requisito direto: o mesmo formalismo de MDF, aqui levado ao regime mais extremo (UFDs) do espectro de galáxias satélites

@@ -1,11 +1,9 @@
 ---
 publish: false
+title: Aula 03
 created: 2026-07-22
-title: "Aula 03"
-titulo: Cosmologia-Aula03
-disciplina: Cosmologia
-conteudo: Cosmologia — Estrutura em Grande Escala, a terceira sonda observacional do ΛCDM
-professor: Carlos Bengaly
+modified: 2026-07-26T00:00:43.966-03:00
+published: 2026-07-26T00:00:43.966-03:00
 tags:
   - escola-de-inverno-on
   - cosmologia
@@ -13,14 +11,19 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+titulo: Cosmologia-Aula03
+disciplina: Cosmologia
+conteudo: Cosmologia — Estrutura em Grande Escala, a terceira sonda observacional do ΛCDM
+professor: Carlos Bengaly
 ---
+
 # 🌠 Notas de Aula — Cosmologia (Aula 03)
 
 > [!warning] Nota provisória
 > Esta nota ainda não reflete o conteúdo real da aula — o professor não disponibilizou slides/PDF até o momento. O texto abaixo é um resumo mínimo e genérico do tema anunciado (Estrutura em Grande Escala), só para não deixar a página vazia; será substituído por notas fiéis à aula assim que o material oficial chegar.
 
 > [!note] Resumo
-> A Estrutura em Grande Escala (EGE) do Universo — a distribuição de galáxias e matéria escura em filamentos, aglomerados e vazios (*voids*) — terceira e última sonda observacional do cronograma iniciado na Aula 01 (Supernovas Ia → RCF → EGE).
+> A Estrutura em Grande Escala (EGE) do Universo — a distribuição de galáxias e matéria escura em filamentos, aglomerados e vazios (_voids_) — terceira e última sonda observacional do cronograma iniciado na Aula 01 (Supernovas Ia → RCF → EGE).
 
 > [!info] Informações da aula
 > **Tema:** Estrutura em Grande Escala (EGE), terceira sonda observacional do cronograma anunciado na [[Cosmologia-Aula01|Aula 01]].
@@ -30,9 +33,10 @@ cssclasses:
 
 ## 🎯 Visão geral (resumo mínimo, a expandir)
 
-Em escalas acima de ~100 Mpc, a matéria do Universo não está distribuída uniformemente nem completamente ao acaso: ela forma a chamada **teia cósmica** — filamentos e "paredes" de galáxias que se cruzam em nós densos (aglomerados, já vistos na nota de Aglomerados) e envolvem grandes regiões praticamente vazias, os **vazios cósmicos** (*voids*). Essa estrutura não é aleatória: ela nasce das mesmíssimas flutuações de densidade primordiais que geraram as anisotropias da Radiação Cósmica de Fundo (Aula 01) — amplificadas ao longo de bilhões de anos pelo colapso gravitacional hierárquico (o mesmo mecanismo discutido na Aula 02 de Aglomerados).
+Em escalas acima de ~100 Mpc, a matéria do Universo não está distribuída uniformemente nem completamente ao acaso: ela forma a chamada **teia cósmica** — filamentos e "paredes" de galáxias que se cruzam em nós densos (aglomerados, já vistos na nota de Aglomerados) e envolvem grandes regiões praticamente vazias, os **vazios cósmicos** (_voids_). Essa estrutura não é aleatória: ela nasce das mesmíssimas flutuações de densidade primordiais que geraram as anisotropias da Radiação Cósmica de Fundo (Aula 01) — amplificadas ao longo de bilhões de anos pelo colapso gravitacional hierárquico (o mesmo mecanismo discutido na Aula 02 de Aglomerados).
 
 ### 📑 Tópicos prováveis (a confirmar com o material oficial)
+
 1. A teia cósmica: filamentos, nós e vazios
 2. Levantamentos de galáxias (redshift surveys) como ferramenta de mapeamento
 3. A função de correlação e o espectro de potência da matéria
@@ -55,7 +59,7 @@ A ideia central, em linha com as outras duas sondas da disciplina (Supernovas Ia
 ## ⚠️ Pontos de atenção
 
 > [!important] Atenção
-> *(nenhuma anotação registrada ainda — a preencher a partir do material oficial da aula)*
+> _(nenhuma anotação registrada ainda — a preencher a partir do material oficial da aula)_
 
 ---
 
@@ -71,11 +75,12 @@ A ideia central, em linha com as outras duas sondas da disciplina (Supernovas Ia
 ## ❓ Perguntas e discussões da aula
 
 > [!question] Perguntas (Aula 3)
-> *(nenhuma pergunta registrada ainda)*
+> _(nenhuma pergunta registrada ainda)_
 
 ---
 
 ## 🔗 Referências e correlatos
+
 - [Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — RCF e o modelo $\Lambda$CDM que a EGE também testa
 - [Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — Princípio Cosmológico, base teórica da homogeneidade em grande escala
 - [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — a teia cósmica (voids, filamentos, nós)

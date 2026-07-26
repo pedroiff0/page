@@ -1,10 +1,13 @@
 ---
 publish: true
 title: Escola de Inverno ON - 2026
-photoFolder: escolainverno2026
 created: 2026-07-18T13:50:21.240-03:00
+modified: 2026-07-26T10:16:40.175-03:00
+published: 2026-07-26T10:16:40.175-03:00
+photoFolder: escolainverno2026
 type: blog
 ---
+
 # ❄️ Escola de Inverno ON - 2026
 
 > [!note] Resumo

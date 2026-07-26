@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Sistemas Distribuídos
 created: 2026-07-26
-title: "Sistemas Distribuídos"
+modified: 2026-07-26T11:33:09.979-03:00
+published: 2026-07-26T11:33:09.979-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -24,7 +26,7 @@ O que dominar: a motivação para distribuir um sistema (escalabilidade, disponi
 
 ### 2. Comunicação e sincronização (2–3 semanas)
 
-O que dominar: modelos de interação **síncrono** (o remetente espera resposta) vs. **assíncrono** (dispara e segue em frente); por que relógios físicos de máquinas diferentes divergem e como protocolos como o NTP tentam sincronizá-los; e — mais importante — por que **relógios lógicos** (Timestamps de Lamport, Relógios Vetoriais) resolvem o problema real: não "que horas são", mas "o que aconteceu antes do quê". O que praticar: dado um diagrama de eventos em três processos trocando mensagens, atribuir timestamps de Lamport manualmente e verificar a relação de "aconteceu-antes" (*happens-before*).
+O que dominar: modelos de interação **síncrono** (o remetente espera resposta) vs. **assíncrono** (dispara e segue em frente); por que relógios físicos de máquinas diferentes divergem e como protocolos como o NTP tentam sincronizá-los; e — mais importante — por que **relógios lógicos** (Timestamps de Lamport, Relógios Vetoriais) resolvem o problema real: não "que horas são", mas "o que aconteceu antes do quê". O que praticar: dado um diagrama de eventos em três processos trocando mensagens, atribuir timestamps de Lamport manualmente e verificar a relação de "aconteceu-antes" (_happens-before_).
 
 ### 3. Middleware e transações distribuídas (2 semanas)
 
@@ -32,13 +34,13 @@ O que dominar: RPC/RMI (chamar um procedimento como se fosse local, mesmo estand
 
 ### 4. Tolerância a falhas e consistência (2–3 semanas)
 
-O que dominar: os modelos de falha (*crash*, omissão, temporização, bizantina — cada um assumindo um comportamento diferente e pior para o que pode dar errado), replicação de dados, e o espectro entre **consistência forte** (todo nó vê os mesmos dados, sempre, ao custo de disponibilidade) e **consistência eventual** (nós podem divergir temporariamente, mas convergem). O ponto alto da unidade é o **Teorema CAP**: sob uma partição de rede (P), um sistema distribuído só pode escolher entre Consistência (C) ou Disponibilidade (A) — nunca as duas ao mesmo tempo. O que praticar: para três bancos de dados distribuídos reais (ex: um relacional com replicação síncrona, o DynamoDB, o Cassandra), identificar qual lado do CAP cada um prioriza.
+O que dominar: os modelos de falha (_crash_, omissão, temporização, bizantina — cada um assumindo um comportamento diferente e pior para o que pode dar errado), replicação de dados, e o espectro entre **consistência forte** (todo nó vê os mesmos dados, sempre, ao custo de disponibilidade) e **consistência eventual** (nós podem divergir temporariamente, mas convergem). O ponto alto da unidade é o **Teorema CAP**: sob uma partição de rede (P), um sistema distribuído só pode escolher entre Consistência (C) ou Disponibilidade (A) — nunca as duas ao mesmo tempo. O que praticar: para três bancos de dados distribuídos reais (ex: um relacional com replicação síncrona, o DynamoDB, o Cassandra), identificar qual lado do CAP cada um prioriza.
 
 ![O Teorema CAP: sob partição de rede (P), um sistema distribuído só pode garantir Consistência (C) ou Disponibilidade (A), nunca as duas simultaneamente.](https://commons.wikimedia.org/wiki/Special:FilePath/CAP_Theorem.svg)
 
 ### 5. Computação paralela e algoritmos distribuídos (3–4 semanas)
 
-O que dominar: a Taxonomia de Flynn (SISD, SIMD, MISD, MIMD) para classificar arquiteturas paralelas; os modelos de programação paralela — **OpenMP** (memória compartilhada, laços paralelizados com diretivas) e **MPI** (memória distribuída, troca explícita de mensagens entre processos), os mesmos que aparecem no minicurso de HPC da Escola de Inverno; e os algoritmos distribuídos clássicos: **eleição de líder** (escolher um coordenador sem autoridade central prévia), **exclusão mútua distribuída** (o problema dos "dining/drinking philosophers" em versão distribuída, sem memória compartilhada para um mutex), detecção de terminação e de *deadlock*, e árvore geradora mínima distribuída. O que praticar: implementar (em pseudocódigo ou Python com `multiprocessing`) o algoritmo de eleição de líder em anel (*ring algorithm*) — é curto, mas ilustra bem como coordenação emerge sem um nó "especial" desde o início.
+O que dominar: a Taxonomia de Flynn (SISD, SIMD, MISD, MIMD) para classificar arquiteturas paralelas; os modelos de programação paralela — **OpenMP** (memória compartilhada, laços paralelizados com diretivas) e **MPI** (memória distribuída, troca explícita de mensagens entre processos), os mesmos que aparecem no minicurso de HPC da Escola de Inverno; e os algoritmos distribuídos clássicos: **eleição de líder** (escolher um coordenador sem autoridade central prévia), **exclusão mútua distribuída** (o problema dos "dining/drinking philosophers" em versão distribuída, sem memória compartilhada para um mutex), detecção de terminação e de _deadlock_, e árvore geradora mínima distribuída. O que praticar: implementar (em pseudocódigo ou Python com `multiprocessing`) o algoritmo de eleição de líder em anel (_ring algorithm_) — é curto, mas ilustra bem como coordenação emerge sem um nó "especial" desde o início.
 
 ## Conceitos que você precisa dominar
 
@@ -66,8 +68,8 @@ O que dominar: a Taxonomia de Flynn (SISD, SIMD, MISD, MIMD) para classificar ar
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- TANENBAUM, A. S., VAN STEEN, M. *Sistemas Distribuídos: Princípios e Paradigmas* — a referência mais didática, cobre transparência, comunicação, sincronização e tolerância a falhas na mesma ordem desta trilha.
-- COULOURIS, G., DOLLIMORE, J., KINDBERG, T. *Sistemas Distribuídos: Conceitos e Projeto* — mais orientado a middleware e transações distribuídas; bom complemento ao Tanenbaum.
+- TANENBAUM, A. S., VAN STEEN, M. _Sistemas Distribuídos: Princípios e Paradigmas_ — a referência mais didática, cobre transparência, comunicação, sincronização e tolerância a falhas na mesma ordem desta trilha.
+- COULOURIS, G., DOLLIMORE, J., KINDBERG, T. _Sistemas Distribuídos: Conceitos e Projeto_ — mais orientado a middleware e transações distribuídas; bom complemento ao Tanenbaum.
 
 ## 🔗 Referências externas
 

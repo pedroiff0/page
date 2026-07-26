@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Modelagem de Dados
 created: 2026-07-18
-title: "Modelagem de Dados"
+modified: 2026-07-26T11:33:10.003-03:00
+published: 2026-07-26T11:33:10.003-03:00
 tags:
- - disciplina
- - especifica
+  - disciplina
+  - especifica
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,33 +37,44 @@ Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenc
 
 ## 📖 Conteúdo Programático
 
-1. [x] Evolução Histórica dos Sistemas de Informação
-2. [x] Conceitos Básicos de um Sistema Gerenciador de Banco de Dados (SGBDs)
- - [x] Diferença entre Utilização de Arquivos e SGBDs
- - [x] Vantagens de um SGDB
- - [x] Arquitetura de SGBD
-3. [x] Modelo Entidade Relacionamento
- - [x] Entidade
- - [x] Atributos
- - [x] Relacionamentos
- - [x] Generalização
- - [x] Diagrama Entidade-Relacionamento
-4. [ ] Normalização e Dependências Funcionais
- - [ ] Primeira Forma Normal
- - [ ] Segunda Forma Normal
- - [ ] Terceira Forma Normal
- - [ ] Quarta Forma Normal
- - [ ] Quinta Forma Normal
-5. [x] Modelo Relacional
- - [x] Conceitos
- - [x] Restrições de integridade
-6. [ ] Álgebra Relacional
- - [ ] Álgebra Relacional
- - [ ] Cálculo Relacional de Tupla
- - [ ] Cálculo Relacional de Domínio
-7. [ ] Projeto e Implementação de Banco de Dados
- - [ ] Diagrama de Estrutura de Dados
- - [ ] Linguagem de Definição de Dados
+1. Evolução Histórica dos Sistemas de Informação
+2. Conceitos Básicos de um Sistema Gerenciador de Banco de Dados (SGBDs)
+
+- Diferença entre Utilização de Arquivos e SGBDs
+- Vantagens de um SGDB
+- Arquitetura de SGBD
+
+3. Modelo Entidade Relacionamento
+
+- Entidade
+- Atributos
+- Relacionamentos
+- Generalização
+- Diagrama Entidade-Relacionamento
+
+4. Normalização e Dependências Funcionais
+
+- Primeira Forma Normal
+- Segunda Forma Normal
+- Terceira Forma Normal
+- Quarta Forma Normal
+- Quinta Forma Normal
+
+5. Modelo Relacional
+
+- Conceitos
+- Restrições de integridade
+
+6. Álgebra Relacional
+
+- Álgebra Relacional
+- Cálculo Relacional de Tupla
+- Cálculo Relacional de Domínio
+
+7. Projeto e Implementação de Banco de Dados
+
+- Diagrama de Estrutura de Dados
+- Linguagem de Definição de Dados
 
 ## 📚 Materiais de Apoio (acesso aberto)
 

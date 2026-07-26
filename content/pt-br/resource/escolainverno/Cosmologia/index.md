@@ -1,7 +1,9 @@
 ---
 publish: true
-created: 2026-07-22
 title: Cosmologia
+created: 2026-07-22
+modified: 2026-07-26T10:54:17.840-03:00
+published: 2026-07-26T10:54:17.840-03:00
 ---
 
 > [!note] Resumo
@@ -28,4 +30,4 @@ O modelo padrão ΛCDM e suas sondas observacionais, com Carlos Bengaly.
 
 1. [Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o modelo cosmológico padrão ΛCDM e o cronograma de três sondas observacionais que o sustentam, abrindo com Supernovas Ia como velas padrão.
 2. [Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — a base teórica antes de chegar à Radiação Cósmica de Fundo (2ª sonda): fundamentos de Relatividade Geral e o Princípio Cosmológico (homogeneidade e isotropia em grande escala).
-3. [Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — *(nota provisória, aguardando material oficial)* a Estrutura em Grande Escala do Universo — filamentos, aglomerados e vazios — como terceira e última sonda observacional do cronograma.
+3. [Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — _(nota provisória, aguardando material oficial)_ a Estrutura em Grande Escala do Universo — filamentos, aglomerados e vazios — como terceira e última sonda observacional do cronograma.

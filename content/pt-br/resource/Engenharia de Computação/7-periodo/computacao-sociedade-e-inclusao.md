@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Computação, Sociedade e Inclusão
 created: 2026-07-18
-title: "Computação, Sociedade e Inclusão"
+modified: 2026-07-26T11:33:09.987-03:00
+published: 2026-07-26T11:33:09.987-03:00
 tags:
- - disciplina
- - especifica
+  - disciplina
+  - especifica
 ---
 
 > [!note] Sobre esta disciplina
@@ -30,37 +32,51 @@ Apropriações da computação e relações de poder: o espaço público, o priv
 ## 📖 Conteúdo Programático
 
 1. Fundamentação e Discussão Crítica acerca de Computação e Sociedade:
- - Aspectos Sociais;
- - Aspectos Econômicos;
- - Aspectos Culturais;
- - Aspectos Políticos;
+
+- Aspectos Sociais;
+- Aspectos Econômicos;
+- Aspectos Culturais;
+- Aspectos Políticos;
+
 2. O computador na sociedade atual:
- - Aplicação de Computadores e sua Influência na Sociedade;
- - Vantagens e Desvantagens da Automação;
+
+- Aplicação de Computadores e sua Influência na Sociedade;
+- Vantagens e Desvantagens da Automação;
+
 3. Apropriações da Computação e Relações de Poder:
- - O espaço público, o privado e o sujeito.
+
+- O espaço público, o privado e o sujeito.
+
 4. Recursos e Repositórios Educacionais Abertos:
- - Histórico
- - Definições
- - Políticas Públicas
- - Projetos
+
+- Histórico
+- Definições
+- Políticas Públicas
+- Projetos
+
 5. Conteúdos e Identidade Cultural:
- - Homem, Cultura e Sociedade;
- - Estudo da Cultura e o Trabalho Etnográfico;
- - Universalismo e Particularismo;
- - Identidade Individuais e Sociais;
- - Cultura Contemporânea, Sociedade e Tecnologias de Informação e Comunicação.
+
+- Homem, Cultura e Sociedade;
+- Estudo da Cultura e o Trabalho Etnográfico;
+- Universalismo e Particularismo;
+- Identidade Individuais e Sociais;
+- Cultura Contemporânea, Sociedade e Tecnologias de Informação e Comunicação.
+
 6. Cidadania e Educação na Sociedade Digital
- - Educação
- - i. Educação Presencial
- - ii. Educação à Distância
- - Cidadania
- - Educação, Cidadania e Inclusão Social
+
+- Educação
+- i. Educação Presencial
+- ii. Educação à Distância
+- Cidadania
+- Educação, Cidadania e Inclusão Social
+
 7. Ferramental Tecnológico como Construção Sócio-Cultural:
- - Tecnologia Social: Conceitos e Debates;
- - Tecnologia Social e Tecnologia Convencional
- - Tecnologia Social no Brasil
- - Tecnologia no Mundo
+
+- Tecnologia Social: Conceitos e Debates;
+- Tecnologia Social e Tecnologia Convencional
+- Tecnologia Social no Brasil
+- Tecnologia no Mundo
+
 8. Relevância Social e Investimento em Tecnologia Social
 
 ## 📕 Bibliografia Básica
@@ -73,7 +89,7 @@ Apropriações da computação e relações de poder: o espaço público, o priv
 ## 📗 Bibliografia Complementar
 
 1. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2013.
-2. ______. O Poder da Identidade. São Paulo: Paz e Terra, 2018.
+2. \_\_\_\_\_\_. O Poder da Identidade. São Paulo: Paz e Terra, 2018.
 3. CAZELOTO, E. Inclusão Digital: uma visão crítica. São Paulo: Senac, 2019.
 4. FREIRE, P. Extensão ou Comunicação?. 8ª Edição. Rio de Janeiro: Paz e Terra, 2021.
 5. FREIRE, E., BATISTA, S. S. S. Sociedade e Tecnologia na Era Digital. São Paulo: Erica, 2014.

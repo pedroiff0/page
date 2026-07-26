@@ -1,7 +1,9 @@
 ---
 publish: false
+title: SpectroTranslator
 created: 2026-07-18
-title: "SpectroTranslator"
+modified: 2026-07-25T23:58:08.061-03:00
+published: 2026-07-25T23:58:08.061-03:00
 tags:
   - artigo
   - pesquisa
@@ -10,7 +12,7 @@ tags:
 > [!note] Em resumo
 > Apresenta o SpectroTranslator, rede neural data-driven que converte parâmetros espectroscópicos de um survey (base A) para outro (base B), com estimativa de importância dos parâmetros.
 
-*Thomas, G.~F. (2024)*
+_Thomas, G.~F. (2024)_
 
 ## Síntese
 

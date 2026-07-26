@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Fundamentos de Computação
 created: 2026-07-18
-title: "Fundamentos de Computação"
+modified: 2026-07-26T11:33:09.991-03:00
+published: 2026-07-26T11:33:09.991-03:00
 tags:
- - disciplina
- - basica
+  - disciplina
+  - basica
 ---
 
 > [!note] Sobre esta disciplina
@@ -35,33 +37,47 @@ História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Softwa
 ## 📖 Conteúdo Programático
 
 1. História da Computação:
- - Introdução;
- - Origens e História da Computação.
+
+- Introdução;
+- Origens e História da Computação.
+
 2. Sistemas de Numeração e Representação de Dados:
- - História dos Sistemas de Numeração;
- - Sistemas de Numeração: Decimal; Binário; Octal; e Hexadecimal.
- - Mudanças de Base.
+
+- História dos Sistemas de Numeração;
+- Sistemas de Numeração: Decimal; Binário; Octal; e Hexadecimal.
+- Mudanças de Base.
+
 3. Algoritmos:
- - Conceito;
- - Representação de Algoritmos.
+
+- Conceito;
+- Representação de Algoritmos.
+
 4. Hardware:
- - Processador;
- - Memória Primária;
- - Memória Secundária: Discos Magnéticos; Discos Flexíveis; Discos Ópticos.
- - Dispositivos de Entrada/Saída: Barramentos; Terminais; Mouses; Impressoras; Equipamentos de telecomunicações.
+
+- Processador;
+- Memória Primária;
+- Memória Secundária: Discos Magnéticos; Discos Flexíveis; Discos Ópticos.
+- Dispositivos de Entrada/Saída: Barramentos; Terminais; Mouses; Impressoras; Equipamentos de telecomunicações.
+
 5. Software:
- - Software e Programa;
- - Software Básico;
- - Software de Aplicação.
+
+- Software e Programa;
+- Software Básico;
+- Software de Aplicação.
+
 6. Unidades de Medida:
- - Processamento;
- - Armazenamento;
- - Comunicação.
+
+- Processamento;
+- Armazenamento;
+- Comunicação.
+
 7. Linguagens de Programação;
 8. Sistemas Operacionais;
 9. Redes de Computadores
- - Conceito;
- - Meios de Comunicação: Cabo Metálico; Sem Fio; Óptico.
+
+- Conceito;
+- Meios de Comunicação: Cabo Metálico; Sem Fio; Óptico.
+
 10. Equipamentos de Rede.
 
 ## 📚 Materiais de Apoio (acesso aberto)
@@ -84,7 +100,7 @@ História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Softwa
 3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
 4. Pearson, 2013.
 5. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
-6. ______. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+6. \_\_\_\_\_\_. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
 
 ## 📎 Meu material da disciplina
 

@@ -1,10 +1,12 @@
 ---
 publish: true
+title: Projeto e Análise de Algoritmos
 created: 2026-07-18
-title: "Projeto e Análise de Algoritmos"
+modified: 2026-07-26T11:33:09.975-03:00
+published: 2026-07-26T11:33:09.975-03:00
 tags:
- - recursos
- - computacao
+  - recursos
+  - computacao
 ---
 
 > [!info] O que é este tópico
@@ -39,7 +41,7 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 - **Notação Big-O (e Ω, Θ)** — Descreve como o custo cresce com o tamanho da entrada, ignorando constantes e termos menores. O(n²) significa "quadruplicar a entrada multiplica o tempo por ~16". É a linguagem universal pra comparar algoritmos sem depender de máquina, linguagem ou compilador — e o vocabulário mínimo de qualquer entrevista técnica.
 - **Análise de pior caso vs. caso médio** — O mesmo algoritmo pode ter comportamentos radicalmente diferentes: quicksort é O(n log n) em média e O(n²) no pior caso (entrada já ordenada com pivô ingênuo). Saber qual análise importa em cada contexto — sistema de tempo real exige garantia de pior caso; um script pontual, não — é decisão de engenharia.
 - **Recorrências e o Teorema Mestre** — Algoritmos recursivos têm custo descrito por recorrências como T(n) = 2T(n/2) + n. O Teorema Mestre resolve as mais comuns por classificação direta. Sem isso, a complexidade de qualquer divisão e conquista vira chute.
-- **Divisão e conquista** — Quebrar o problema em subproblemas independentes, resolver recursivamente e combinar. O padrão por trás de mergesort, busca binária e multiplicação rápida. A palavra-chave é *independentes*: quando os subproblemas se repetem, a técnica certa muda pra programação dinâmica.
+- **Divisão e conquista** — Quebrar o problema em subproblemas independentes, resolver recursivamente e combinar. O padrão por trás de mergesort, busca binária e multiplicação rápida. A palavra-chave é _independentes_: quando os subproblemas se repetem, a técnica certa muda pra programação dinâmica.
 - **Programação dinâmica** — Aplicável quando o problema tem subproblemas sobrepostos e subestrutura ótima: resolve-se cada subproblema uma vez e guarda-se o resultado (memoização ou tabela). Transforma soluções exponenciais em polinomiais — Fibonacci recursivo ingênuo é O(2ⁿ); com memoização, O(n). É a técnica de maior salto de desempenho do repertório.
 - **Algoritmos gulosos** — Fazer a escolha localmente ótima em cada passo e nunca voltar atrás. Quando funciona (troco com moedas canônicas, escalonamento de intervalos, Dijkstra), é simples e rápido; quando não funciona, falha silenciosamente dando resposta errada. Por isso o par obrigatório: algoritmo guloso + argumento de correção.
 - **Algoritmos em grafos** — BFS encontra caminhos mínimos em arestas não ponderadas; DFS revela estrutura (ciclos, componentes, ordem topológica); Dijkstra generaliza pra pesos. Uma fração enorme dos problemas reais — rotas, dependências, redes, recomendação — é grafo disfarçado, e reconhecer isso é metade da solução.
@@ -61,7 +63,7 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 
 ### Bibliografia clássica (consultar na biblioteca)
 
-- CORMEN, T. H. et al. *Algoritmos: Teoria e Prática* (CLRS). — **A** referência da área, adotada no mundo inteiro. Denso, mas é o livro que cobre desta trilha inteira com rigor: análise, recorrências, PD, gulosos, grafos e NP-completude. Use como consulta por capítulo, não como leitura linear.
+- CORMEN, T. H. et al. _Algoritmos: Teoria e Prática_ (CLRS). — **A** referência da área, adotada no mundo inteiro. Denso, mas é o livro que cobre desta trilha inteira com rigor: análise, recorrências, PD, gulosos, grafos e NP-completude. Use como consulta por capítulo, não como leitura linear.
 
 ## 🔗 Referências externas
 
