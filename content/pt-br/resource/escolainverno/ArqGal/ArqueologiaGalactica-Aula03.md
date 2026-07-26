@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: Aula 03
 titulo: ArqueologiaGalactica-Aula03
 disciplina: Astrofísica Estelar / Via Láctea
