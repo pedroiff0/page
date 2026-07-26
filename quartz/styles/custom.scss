@@ -333,6 +333,16 @@ details.author-details[open] .author-summary {
         "grid-footer" !important;
     }
 
+    /* Text used to run flush to the viewport edge once the sidebar column
+       collapsed — right under the floating reader-mode button, which sits
+       at left:1rem and is 44px wide, so the two overlapped. A light
+       side margin keeps the text clear of the button and just generally
+       reads better at full width. */
+    & .center,
+    & footer {
+      padding: 0 4rem;
+    }
+
     & .sidebar.left {
       position: fixed !important;
       top: 50%;
