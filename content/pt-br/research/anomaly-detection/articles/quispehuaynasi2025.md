@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "S-PLUS DR4 — Outliers de SED"
 tags:
   - artigo

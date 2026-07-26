@@ -6,7 +6,7 @@ titulo: CursoON-Aula20
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Classificação morfológica de galáxias e a Via Láctea como espiral barrada típica; o bojo em X e a barra reveladas por contagens estelares; decomposição orbital do bojo (disco, barra, bojo esferoidal clássico); estrutura do disco (warp, cutoff, flare); e o catálogo de mergers confirmados do halo
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

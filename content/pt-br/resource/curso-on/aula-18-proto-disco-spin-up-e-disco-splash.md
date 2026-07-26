@@ -6,7 +6,7 @@ titulo: CursoON-Aula18
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Cronologia da evolução galáctica (parte 1) — do pipeline observacional aos parâmetros orbitais, a Via Láctea proto-galáctica (Kraken, Heracles, Aurora e outras candidatas), o disco primordial em z~3, o spin-up do disco e o disco "splash" aquecido pela fusão GSE
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

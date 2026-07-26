@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Gaia EDR3 — Gaia Catalogue of Nearby Stars"
 tags:
   - artigo

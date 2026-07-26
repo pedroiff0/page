@@ -6,7 +6,7 @@ titulo: CursoON-Aula15
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Panorama histórico dos grandes levantamentos astronômicos — de catálogos visuais e placas fotográficas aos surveys digitais all-sky (SDSS, 2MASS, DES, Euclid, LSST) — e comparação dos principais levantamentos espectroscópicos usados em arqueologia galáctica (Gaia, Gaia-ESO, APOGEE, GALAH, LAMOST, DESI, entre outros)
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

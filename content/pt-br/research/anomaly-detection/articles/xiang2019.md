@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "LAMOST DR5 — Abundâncias de 16 Elementos"
 tags:
   - artigo

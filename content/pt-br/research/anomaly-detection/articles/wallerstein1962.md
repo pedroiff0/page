@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Abundâncias em Anãs G VI"
 tags:
   - artigo

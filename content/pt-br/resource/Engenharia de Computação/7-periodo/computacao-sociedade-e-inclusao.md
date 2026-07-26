@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Computação, Sociedade e Inclusão"
 tags:
  - disciplina

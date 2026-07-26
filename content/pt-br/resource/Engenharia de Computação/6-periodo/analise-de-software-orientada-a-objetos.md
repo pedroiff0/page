@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Análise de Software Orientada a Objetos"
 tags:
  - disciplina

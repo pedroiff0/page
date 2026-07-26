@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Programação Orientada a Objetos I"
 tags:
  - disciplina

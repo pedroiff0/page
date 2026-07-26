@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Interconexão de Redes de Computadores"
 tags:
  - disciplina

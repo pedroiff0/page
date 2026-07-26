@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-23
 title: "LaTeX and Academic Writing"
 tags:
  - resources

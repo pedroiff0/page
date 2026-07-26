@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Sistemas Operacionais I"
 tags:
  - disciplina

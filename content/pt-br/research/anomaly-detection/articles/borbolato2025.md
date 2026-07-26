@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Coformação dos Discos Fino/Espesso (z>2)"
 tags:
   - artigo

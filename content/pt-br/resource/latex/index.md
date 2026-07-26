@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-23
 title: "LaTeX e Escrita Acadêmica"
 tags:
  - recursos

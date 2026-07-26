@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-22
 title: "Aula 03"
 titulo: Planetaria-Aula03
 disciplina: Ciências Planetárias

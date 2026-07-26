@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-22
 title: "Aula 03"
 titulo: Cosmologia-Aula03
 disciplina: Cosmologia

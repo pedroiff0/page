@@ -6,7 +6,7 @@ titulo: CursoON-Aula09
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Da massa ao potencial gravitacional (equação de Poisson), órbitas em sistemas esféricos e axissimétricos, formalismo hamiltoniano e coordenadas ação-ângulo, colisões estelares, a equação de Boltzmann sem colisões, as equações de Jeans e o teorema do virial
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

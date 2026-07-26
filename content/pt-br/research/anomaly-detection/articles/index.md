@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-23
 title: "Artigos"
 order: 1
 ---

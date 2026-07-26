@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Distribuição de Massa e Potencial da Via Láctea"
 tags:
   - artigo

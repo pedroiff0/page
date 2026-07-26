@@ -6,7 +6,7 @@ titulo: CursoON-Aula16
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Taxonomia dos métodos de datação estelar — empíricos (girocronologia, atividade cromosférica, depleção de lítio), dependentes de modelo (isócronas de aglomerados, astrossismologia) e semi-fundamentais (nucleocosmocronologia via Th/U)
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

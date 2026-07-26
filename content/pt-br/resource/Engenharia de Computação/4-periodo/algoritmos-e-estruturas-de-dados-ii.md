@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Algoritmos e Estruturas de Dados II"
 tags:
  - disciplina

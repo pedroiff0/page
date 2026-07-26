@@ -6,7 +6,7 @@ titulo: CursoON-Aula10
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Aula prática (Google Colab/galpy) — construir potenciais galácticos, obter dados do Gaia via SQL/TAP, integrar órbitas estelares com incertezas por Monte Carlo, e simular o efeito de fricção dinâmica de um satélite (Sagitário) sobre o disco
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

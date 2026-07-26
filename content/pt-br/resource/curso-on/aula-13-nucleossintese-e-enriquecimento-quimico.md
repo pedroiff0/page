@@ -6,7 +6,7 @@ titulo: CursoON-Aula13
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Nucleossíntese primordial (BBN) e estelar — queima de H/He, dragagens, processos alfa/e/s/i/r/p/x/neutrino —, números mágicos e o efeito da metalicidade na formação estelar
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

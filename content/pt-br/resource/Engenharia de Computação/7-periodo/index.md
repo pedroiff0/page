@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-21
 title: "7º Período"
 order: 7
 ---

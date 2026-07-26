@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "GALAH — Classificação via t-SNE"
 tags:
   - artigo

@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-21
 title: "Eletivas (optativas)"
 order: 11
 ---

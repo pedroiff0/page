@@ -6,7 +6,7 @@ titulo: CursoON-Aula12
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Aula prática (APOGEE DR19) — excentricidade, pericentro/apocentro, diagrama de Toomre, o espaço (E, Lz) e o "diamante" de ações (JR, Jz, Lz) para separar populações estelares e identificar acréscimos
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

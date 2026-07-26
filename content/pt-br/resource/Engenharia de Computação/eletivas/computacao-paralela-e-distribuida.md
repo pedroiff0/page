@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Computação Paralela e Distribuída"
 tags:
  - disciplina

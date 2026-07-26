@@ -6,7 +6,7 @@ titulo: CursoON-Aula22
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Galáxias anãs ultrafracas (UFDs) como o limite extremo da formação galáctica — os menores halos de matéria escura conhecidos, padrões químicos que preservam eventos individuais de nucleossíntese, e a definição formal de galáxia satélite
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

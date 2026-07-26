@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-22
 title: "Aula 02"
 titulo: Cosmologia-Aula02
 disciplina: Cosmologia

@@ -6,7 +6,7 @@ titulo: CursoON-Aula14
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Distribuição de metalicidade em halo e bojo, a separação química disco fino/espesso no diagrama [α/Fe]-[Fe/H], razões de abundância como diagnóstico de enriquecimento e a identificação de estrelas capturadas de galáxias satélites
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

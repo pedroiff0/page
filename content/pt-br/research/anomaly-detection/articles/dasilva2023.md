@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "da Silva & Smiljanic (2023) — t-SNE Quimiodinâmico"
 tags:
   - artigo

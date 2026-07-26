@@ -6,7 +6,7 @@ titulo: CursoON-Aula17
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)
 conteudo: Gradientes radiais e verticais de metalicidade no disco, bojo e halo, migração radial (blurring e churning), gradientes extragalácticos, e o problema histórico da relação idade-metalicidade (AMR)
 professor: Hélio Dotto Perottoni
-created: 2026-07-26
+created: 2026-07-25
 tags:
   - curso-on
   - arqueologia-galactica

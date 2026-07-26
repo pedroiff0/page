@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Comunicação de Dados"
 tags:
  - disciplina

@@ -1,5 +1,6 @@
 ---
 publish: true
+created: 2026-07-18
 title: "Machine Learning"
 tags:
  - recursos
@@ -69,6 +70,7 @@ Não há livro aberto em português no acervo local para este tópico — a boa 
 - [Kaggle](https://www.kaggle.com/) — datasets, competições e notebooks públicos. O modo certo de usar: refazer notebooks bem votados linha a linha, depois competir em desafios encerrados e estudar as soluções vencedoras.
 - [Coursera](https://www.coursera.org/) — os cursos clássicos de ML (o do Andrew Ng é o ponto de partida canônico da área) podem ser auditados gratuitamente.
 - [arXiv](https://arxiv.org/) — o repositório de preprints onde a pesquisa em ML acontece de fato. Relevante a partir da etapa 4, quando você escolher uma especialização e quiser acompanhar o estado da arte.
+- [Astronomy 162 Podcast](https://www.astronomy.ohio-state.edu/~pogge/Ast162/Audio/) (Richard Pogge, Ohio State University) — série de aulas em áudio sobre astronomia introdutória; não é sobre ML, mas cobre a base observacional (classificação espectral, evolução estelar, populações estelares) por trás dos exemplos astronômicos usados nesta página.
 
 ## Conexão com as disciplinas do curso
 
