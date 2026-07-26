@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Aula 02 — Diagrama HR e Aglomerados Estelares"
 titulo: CursoON-Aula02
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)

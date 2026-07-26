@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Lecture 02 — HR Diagram & Star Clusters"
 titulo: CursoON-Aula02
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)

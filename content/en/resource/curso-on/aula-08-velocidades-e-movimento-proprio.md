@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Lecture 08 — Velocities & Proper Motion"
 titulo: CursoON-Aula08
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)

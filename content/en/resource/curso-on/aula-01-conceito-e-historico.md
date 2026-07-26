@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Lecture 01 — Concept & History"
 titulo: CursoON-Aula01
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)

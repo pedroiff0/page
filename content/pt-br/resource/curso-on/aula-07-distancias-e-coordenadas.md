@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas"
 titulo: CursoON-Aula07
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)

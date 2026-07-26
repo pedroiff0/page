@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Lecture 03 — Magnitudes, Colors & Spectral Classification"
 titulo: CursoON-Aula03
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)

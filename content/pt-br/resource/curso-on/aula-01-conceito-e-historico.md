@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Aula 01 — Conceito e Histórico"
 titulo: CursoON-Aula01
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)

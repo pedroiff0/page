@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Lecture 07 — Distances, Distance Scale & Coordinate Systems"
 titulo: CursoON-Aula07
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)

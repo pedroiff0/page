@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Lecture 06 — HR Diagram & Mass-Luminosity Relation"
 titulo: CursoON-Aula06
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)

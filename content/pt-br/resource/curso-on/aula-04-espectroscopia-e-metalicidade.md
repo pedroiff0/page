@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Aula 04 — Espectroscopia e Metalicidade"
 titulo: CursoON-Aula04
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)

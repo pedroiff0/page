@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Aula 06 — Diagrama HR e Relação Massa-Luminosidade"
 titulo: CursoON-Aula06
 disciplina: Arqueologia Galáctica e Populações Estelares (Observatório Nacional)

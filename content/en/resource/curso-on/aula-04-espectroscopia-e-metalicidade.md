@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Lecture 04 — Spectroscopy & Metallicity"
 titulo: CursoON-Aula04
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)

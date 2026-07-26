@@ -1,5 +1,6 @@
 ---
 publish: true
+password: "409182ph"
 title: "Lecture 05 — Reddening, Extinction & IMF"
 titulo: CursoON-Aula05
 disciplina: Galactic Archaeology and Stellar Populations (National Observatory)
