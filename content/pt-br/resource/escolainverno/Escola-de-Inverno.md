@@ -132,18 +132,18 @@ Status das notas de cada aula/palestra e se já existe material oficial (slides/
 | [[ArqueologiaGalactica-Aula03\|Arqueologia Galáctica — Aula 03]] | ✅ Completa | ⏳ Não disponível |
 | [[Computacao-Aula01\|Computação — Aula 01]] | ✅ Completa | ⏳ Não disponível |
 | [[Computacao-Aula02\|Computação — Aula 02]] | ✅ Completa | ⏳ Não disponível |
-| [[Computacao-Aula03\|Computação — Aula 03]] | 🕐 Ainda não aconteceu (24/07) | ⏳ Não disponível |
+| [[Computacao-Aula03\|Computação — Aula 03]] | ⚠️ Mínima — aguardando PDF oficial | ⏳ Não disponível |
 | [[Cosmologia-Aula01\|Cosmologia — Aula 01]] | ✅ Completa | ⏳ Não disponível |
 | [[Cosmologia-Aula02\|Cosmologia — Aula 02]] | ✅ Completa | ⏳ Não disponível |
-| [[Cosmologia-Aula03\|Cosmologia — Aula 03]] | 🕐 Ainda não aconteceu (24/07) | ⏳ Não disponível |
+| [[Cosmologia-Aula03\|Cosmologia — Aula 03]] | ⚠️ Mínima — aguardando PDF oficial | ⏳ Não disponível |
 | [[Planetaria-Aula01\|Planetária — Aula 01]] | ✅ Completa | ⏳ Não disponível |
 | [[Planetaria-Aula02\|Planetária — Aula 02]] | ✅ Completa | ⏳ Não disponível |
-| [[Planetaria-Aula03\|Planetária — Aula 03]] | ⚠️ Aconteceu (23/07), notas pendentes | ⏳ Não disponível |
+| [[Planetaria-Aula03\|Planetária — Aula 03]] | ⚠️ Mínima — tema não confirmado, aguardando PDF oficial | ⏳ Não disponível |
 | [[Neutrinos\|Neutrinos (P1)]] | ✅ Completa | ⏳ Não disponível |
-| [[OASI\|OASI (P2)]] | ⚠️ Aconteceu (21/07), notas pendentes | ⏳ Não disponível |
-| [[Bolsas\|Sessão PG/PIBIC]] | ⚠️ Aconteceu (22/07), notas pendentes | ⏳ Não disponível |
+| [[OASI\|OASI (P2)]] | ✅ Completa | ⏳ Não disponível |
+| [[Bolsas\|Sessão PG/PIBIC]] | ✅ Completa | ⏳ Não disponível |
 | [[RaioX\|Raio-X (P3)]] | ✅ Completa | ⏳ Não disponível |
-| [[Composicoes\|Composições (P4)]] | 🕐 Ainda não aconteceu (24/07) | ⏳ Não disponível |
+| [[Composicoes\|Composições (P4)]] | ⚠️ Mínima — reescrita a partir de notas soltas, aguardando slides | ⏳ Não disponível |
 
 > [!note] Próximos passos
-> Este resumo e as notas de aula serão atualizados conforme novas aulas acontecem e conforme os **PDFs oficiais das aulas** ficarem disponíveis — o que deve permitir preencher os pontos ainda marcados como "a preencher" e corrigir/expandir qualquer detalhe. O indicativo de materiais acima ajuda a saber rapidamente onde ainda falta registrar notas (Planetária Aula 03, OASI, Sessão PG/PIBIC).
+> Todo o site está **despublicado** (`publish: false`) — voltarei a publicar manualmente pelo Obsidian, nota por nota, quando cada uma estiver pronta. As notas marcadas acima como "mínima" (Computação, Cosmologia e Planetária — Aula 03, e a palestra de Composições) têm apenas um resumo genérico provisório, sem os slides oficiais ainda; serão reescritas por completo assim que o material chegar.

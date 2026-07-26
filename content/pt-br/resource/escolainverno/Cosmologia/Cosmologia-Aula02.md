@@ -47,20 +47,11 @@ A Relatividade Geral (RG) é descrita pela **equação de campo de Einstein** ($
 
 ## 📌 Conceitos-chave
 
-- $G_{\mu \nu} = R_{\mu \nu} - \frac{1}{2}Rg_{\mu \nu} = 8\pi G_{\mu} T_{\mu \nu}$
-- Principio Equivalencia
-- Aplicações
-	- Soluções de Buracos Negros
-	- Soluções Cosmologicas
-	- Universo de Godel
-- Consequências:
-	- Dilatação e atraso do tempo grav.
-	- Redshift grav.
-	- Deflexão da Luz (Sobral 1919)
-	- Ondas Gravitacionais (2015)
-- Principio Cosmológico
-	- Andrew Liddle
-	- O universo é o mesmo pra todos e em qq lugar.
+- **Equação de campo de Einstein** ($G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = 8\pi G\,T_{\mu\nu}$): relaciona a curvatura do espaço-tempo (lado esquerdo) ao conteúdo de matéria/energia (lado direito, $T_{\mu\nu}$) — a equação central da Relatividade Geral.
+- **Princípio da equivalência:** a base conceitual da RG — localmente, os efeitos da gravidade são indistinguíveis dos de um referencial acelerado.
+- **Aplicações da RG:** soluções para buracos negros, soluções cosmológicas (a base dos modelos $\Lambda$CDM) e o Universo de Gödel (uma solução puramente teórica e curiosa, que permitiria curvas fechadas no tempo).
+- **Consequências já observadas:** dilatação e atraso temporal gravitacional, redshift gravitacional, deflexão da luz (medida por Eddington em Sobral, 1919) e ondas gravitacionais (detectadas em 2015).
+- **Princípio Cosmológico:** a suposição de que o Universo é homogêneo e isotrópico — o mesmo, em média, para qualquer observador e em qualquer lugar, em escalas grandes o suficiente (ver referência de Liddle, *An Introduction to Modern Cosmology*, um livro-texto padrão sobre o tema). É essa suposição que permite simplificar a equação de Einstein até chegar aos modelos cosmológicos testáveis (métrica FLRW).
 
 ---
 
@@ -72,6 +63,7 @@ A Relatividade Geral (RG) é descrita pela **equação de campo de Einstein** ($
 ---
 
 ## 🔗 Referências e correlatos
+- Liddle, A. — *An Introduction to Modern Cosmology* (livro-texto citado na aula para o Princípio Cosmológico)
 - [Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01)
 - [Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03)
 - [Neutrinos e a Cosmologia](pt-br/resource/escolainverno/palestras/neutrinos) — a mesma métrica FLRW, motivada aqui pelo Princípio Cosmológico
