@@ -81,10 +81,12 @@ Três aulas extras, construídas em cima de uma classe LaTeX que uso de verdade 
 6. [Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) — fábrica de macros de metadados, flags comportamentais, floats customizados (quadro/gráfico/fluxograma/algoritmo), recto/verso automático, sumário fluido com dot-leaders medidos dinamicamente.
 7. [Pacote `macros.sty`](pt-br/resource/latex/aula-07-pacote-macros) — capa/contracapa/ficha catalográfica com 3 layouts, comandos `\inserirfigura`/`\inserirtabela`/`\inserirgrafico` e variantes de subfigura, ambientes de teorema/exercício com sistema de resposta cruzada via hyperref.
 8. [Arquivo `metadados.sty`](pt-br/resource/latex/aula-08-pacote-metadados) — o único arquivo que o estudante de fato edita: preenchimento de flags e dados reais do trabalho.
-9. [Slides de Defesa com Beamer](pt-br/resource/latex/aula-09-slides-beamer) — `\documentclass{beamer}` num arquivo à parte, temas, blocos, revelação incremental, roteiro típico de banca.
-10. [Pôster Científico (Banner)](pt-br/resource/latex/aula-10-poster-cientifico) — `tikzposter`, blocos e colunas, paleta reaproveitada da classe, boas práticas de pôster A0.
+9. [Slides de Defesa com o Template Oficial do IFFBJI](pt-br/resource/latex/aula-09-slides-beamer) — o mesmo template usado em bancas reais do campus.
+10. [Pôster Científico com `iffposter.cls`](pt-br/resource/latex/aula-10-poster-cientifico) — a classe oficial de pôster do IFFBJI: cabeçalho/rodapé com imagem, sistema de logos, escala de fonte dinâmica.
 
-**[📦 Baixar o modelo completo preenchido (.zip)](assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — um TCC de exemplo (dados fictícios, tema de sistemas de recomendação) já rodando: capa, ficha catalográfica, banca, dedicatória, epígrafe, resumo/abstract, 4 capítulos, apêndice, anexo e bibliografia — mais os slides de defesa (`slides.tex`) e o pôster científico (`banner.tex`) do mesmo trabalho fictício, todos comentados comando a comando. Baixe, abra no Overleaf ou compile local, e vá trocando os dados fictícios pelos seus.
+**[📦 Modelo de TCC completo preenchido (.zip)](assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — um TCC de exemplo (dados fictícios, tema de sistemas de recomendação) já rodando: capa, ficha catalográfica, banca, dedicatória, epígrafe, resumo/abstract, 4 capítulos, apêndice, anexo e bibliografia, comentado comando a comando. Baixe, abra no Overleaf ou compile local, e vá trocando os dados fictícios pelos seus.
+
+**[📦 Modelo de pôster completo preenchido (.zip)](assets/biblioteca/latex-escrita/modelo-iffposter-banner.zip)** — não é fictício: é o pôster real que apresentei na XIV Mostra do Conhecimento do IFF-BJI, com a mesma pesquisa de [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection), cabeçalho oficial do evento e logos de fomento inclusos.
 
 ## 📚 Materiais recomendados
 

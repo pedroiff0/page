@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Aula 10 — Pôster Científico (Banner)"
+title: "Aula 10 — Pôster Científico com iffposter.cls"
 created: 2026-07-26
 tags:
   - latex
@@ -9,142 +9,205 @@ tags:
 ---
 
 > [!note] Resumo
-> Um pôster acadêmico é um documento de **página única e grande** (tipicamente A0), pensado para ser lido a 1–2 metros de distância num corredor de congresso — não é o TCC nem os slides "espremidos" numa folha. Aqui usamos `tikzposter`, a opção mais simples de configurar entre os pacotes de pôster do LaTeX.
+> `iffposter.cls` é a classe oficial usada em pôsteres do IFF Campus Bom Jesus do Itabapoana — a mesma que usei para levar meu próprio trabalho (Etapa 1 de [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection)) à **XIV Mostra do Conhecimento e VII Feira de Oportunidades** do campus. Documento aqui cada flag/comando dela, e o [modelo baixável](#-modelo-completo-preenchido) abaixo é esse pôster real, não um exemplo fictício.
 
-**Pré-requisito**: [Aula 09 — Slides com Beamer](pt-br/resource/latex/aula-09-slides-beamer) (mesma lógica de "resumo visual do trabalho", formato diferente).
+**Pré-requisito**: [Aulas 01–05](pt-br/resource/latex) (básico, classes de documento). Útil ter visto [Aula 06](pt-br/resource/latex/aula-06-classe-ifftese) — `iffposter.cls` reaproveita vários padrões da mesma "família" de classes (atalhos `\feh`/`\mgfe`, abreviações de periódicos, `abntex2cite`), mas é uma classe **independente**, não carrega `ifftese.cls`.
 
-## 1. Três pacotes possíveis, uma recomendação
+## 0. Arquitetura: dois arquivos, não três
 
-| Pacote | Base | Quando usar |
-|---|---|---|
-| `tikzposter` | Independente (usa TikZ internamente) | **Recomendado** — mais simples de configurar, blocos e colunas prontos, tema visual coerente sem esforço |
-| `beamerposter` | Estende `beamer` | Se você já conhece bem Beamer e quer reaproveitar comandos dele |
-| `a0poster` | Classe genérica, baixo nível | Controle total, mas você monta o layout (colunas, caixas) manualmente com `minipage`/`tikz` |
+Mais simples que o trio da classe de TCC — aqui são só dois:
 
-Este curso usa `tikzposter` — é o que está no [modelo baixável](pt-br/resource/latex/aula-08-pacote-metadados) (`banner.tex`).
-
-## 2. Estrutura mínima
+| Arquivo | Papel |
+|---|---|
+| `iffposter.cls` | O motor: layout, cores, cabeçalho/rodapé com imagem, sistema de logos, `\inserirfigura`/`\inserirtabela` |
+| `metadados.sty` | Preenchimento: tamanhos, cores, cabeçalho/rodapé, logos — **um arquivo diferente** do `metadados.sty` da Aula 08, mesmo nome, propósito distinto |
 
 ```latex
-\documentclass[25pt, a0paper, portrait, margin=0mm, innermargin=15mm,
-               blockverticalspace=15mm, colspace=15mm, subcolspace=8mm]{tikzposter}
+\documentclass[]{iffposter}
+\usepackage{metadados}
 
-\usetheme{Default}
-\usecolorstyle{Australia}   % paleta pronta — troque à vontade
-
-\title{Sistema de Recomendação de Filmes com Filtragem Colaborativa}
-\author{Beatriz Andrade Lima --- Orientador: Prof. Dr. Ricardo Nunes Barbosa}
-\institute{Instituto Federal Fluminense --- \textit{Campus} Bom Jesus do Itabapoana}
+\title{Título do trabalho}
+\author{Nome do Autor\inst{1}}
+\institute{\inst{1} Instituto Federal Fluminense \textit{Campus} Bom Jesus do Itabapoana}
 
 \begin{document}
 \maketitle
-
-\begin{columns}
-  \column{0.5}
-    \block{Introdução}{Texto curto...}
-    \block{Metodologia}{Texto curto...}
-  \column{0.5}
-    \block{Resultados}{Texto curto...}
-    \block{Conclusão}{Texto curto...}
-\end{columns}
-
+\begin{multicols*}{2}
+  \section{Introdução}
+  ...
+\end{multicols*}
 \end{document}
 ```
 
-`a0paper` + `portrait` é o par mais comum exigido por editais de congresso (confira sempre o tamanho pedido — alguns pedem `landscape` ou `a1paper`). `25pt` é o tamanho de fonte base — grande de propósito, porque o documento inteiro vai ser impresso em ~84×119cm.
-
-> [!warning] Cuidado com `\author{A \and B}`
-> `\and` é o separador oficial do `tikzposter`/`beamer` para múltiplos autores lado a lado — mas, testado por compilação real neste curso, combiná-lo com **qualquer `tabular` normal** em um bloco mais adiante no pôster quebra a compilação com `! Misplaced \crcr.` bem longe do `\author`, direto na tabela seguinte. Um único `\author{Nome A --- Orientador: Nome B}` (texto corrido, sem `\and`) evita o problema por completo e ainda fica legível. Se seu pôster realmente precisa de vários autores em colunas, teste isolado antes de adicionar tabelas.
-
-## 3. Blocos e colunas
-
-`\block{Título}{conteúdo}` é a unidade básica — uma caixa com cabeçalho colorido. `\begin{columns}...\end{columns}` divide o pôster em colunas independentes, cada uma recebendo seus próprios blocos empilhados verticalmente; `\column{0.5}` define a largura relativa (aqui, metade). Para subdividir uma coluna em duas menores lado a lado, existe `\begin{subcolumns}...\subcolumn{...}{...}\end{subcolumns}` dentro de uma coluna.
-
-## 4. Tema e cores
-
-`\usetheme{Default}` controla forma/estilo geral dos blocos; `\usecolorstyle{Australia}` (ou `Denmark`, `Spain`, `Autumn`, entre outras) troca só a paleta. Para reaproveitar as cores do TCC escrito (mesmo raciocínio da Aula 09 §3):
+## 1. Opção de classe: `maior`
 
 ```latex
-\definecolorstyle{ifftese}{
-  \definecolor{colorOne}{RGB}{29,152,66}   % ocre
-  \definecolor{colorTwo}{RGB}{14,69,31}    % chapterhead
-  \definecolor{colorThree}{RGB}{240,244,250}
-}{
-  \colorlet{backgroundcolor}{white}
-  \colorlet{framecolor}{colorTwo}
-  \colorlet{titlefgcolor}{white}
-  \colorlet{titlebgcolor}{colorTwo}
-  \colorlet{blocktitlebgcolor}{colorOne}
-  \colorlet{blocktitlefgcolor}{white}
-  \colorlet{blockbodybgcolor}{colorThree}
-}
-\usecolorstyle{ifftese}
+\newif\if@posterMaior \@posterMaiorfalse
+\DeclareOption{maior}{\@posterMaiortrue}
+\DeclareOption*{\PassOptionsToClass{\CurrentOption}{extarticle}}
+\ProcessOptions\relax
+\LoadClass[20pt]{extarticle}
 ```
 
-## 5. Estrutura típica de conteúdo
+A classe herda de `extarticle` (variante do `article` com mais tamanhos de fonte disponíveis), sempre carregada a 20pt — forçado mesmo se você não passar nenhuma opção, para evitar que `extarticle` caia silenciosamente para 10pt. A opção `maior` liga um `\newif` que **reconfigura toda a escala do documento de uma vez** — ver §5. Qualquer outra opção passada (`\DeclareOption*`) é repassada direto para `extarticle`.
 
-Um pôster de congresso raramente foge desta receita:
-
-```
-┌─────────────────────────────────────────────┐
-│   TÍTULO — Autores — Instituição/afiliação   │
-├───────────────────┬───────────────────────────┤
-│ Introdução/Objetivo│         Resultados         │
-│                    │   (gráficos GRANDES aqui)  │
-│    Metodologia     │                             │
-│                    │        Conclusão            │
-│                    │  Referências · Contato/QR   │
-└───────────────────┴───────────────────────────┘
-```
-
-- **Introdução/Objetivo**: 3–5 linhas, não um resumo completo.
-- **Metodologia**: um diagrama vale mais que um parágrafo aqui.
-- **Resultados**: a parte que deve dominar visualmente o pôster — gráficos grandes, tabela curta.
-- **Conclusão**: 2–3 bullets, não um parágrafo de "considerações finais".
-- **Referências**: 3–5 no máximo, fonte pequena — não é o lugar para a lista completa do TCC.
+## 2. Atalhos de notação (idênticos aos de `ifftese.cls`)
 
 ```latex
-\block{Resultados}{
-  \begin{tikzfigure}[Comparação de RMSE entre os modelos avaliados]
-    \includegraphics[width=0.9\linewidth]{img/exemplo-arquitetura.png}
-  \end{tikzfigure}
-}
+\newcommand{\feh}{[Fe/H]}
+\newcommand{\mgfe}{[Mg/Fe]}
+\newcommand{\teff}{$T_{\text{eff}}$}
+\newcommand{\logg}{$\log g$}
+\newcommand{\sel}{s$^{-1}$}
+\newcommand{\estrela}{$\bigstar$s }
 ```
 
-`\begin{tikzfigure}[legenda]...\end{tikzfigure}` é o equivalente do `tikzposter` a uma figura com legenda — não confundir com `\inserirfigura` (essa é exclusiva de `ifftese.cls`/`macros.sty`, Aula 07).
+Exatamente os mesmos seis atalhos declarados em `metadados.sty` da Aula 08 (mesmo autor, mesma convenção de notação) — aqui, porém, ficam direto na classe, não num arquivo de preenchimento separado, porque um pôster não tem "metadados do estudante" no mesmo sentido de um TCC.
 
-## 6. QR code para o trabalho completo (opcional)
-
-Um pôster tem espaço limitado — um QR code levando ao TCC completo, ao repositório do código, ou a este próprio site é comum:
+## 3. Bibliografia: `abntex2cite` + abreviações de periódicos
 
 ```latex
-\usepackage{qrcode}
-...
-\block{Saiba mais}{
-  \qrcode[height=3cm]{https://exemplo.com/tcc-completo.pdf}
+\RequirePackage[alf, abnt-emphasize=bf, abnt-etal-list=4, abnt-etal-text=emph]{abntex2cite}
+\def\aj{AJ} \def\araa{ARA\&A} \def\apj{ApJ} ...
+```
+
+Mesmo pacote de citação ABNT da Aula 06, com um subconjunto menor de opções (só o essencial para citação em pôster: negrito no autor, "et al." a partir de 4 autores). As abreviações de periódico (`\aj`, `\mnras`, `\aap`...) são as mesmas siglas curtas usadas em BibTeX no estilo AASTeX.
+
+## 4. Sistema de cores
+
+```latex
+\definecolor{PosterGreen}{RGB}{31,117,80}
+\colorlet{mainCol}{white}    % fundo do pôster
+\colorlet{TextCol}{black}    % texto geral
+\colorlet{BoxCol}{PosterGreen}  % caixa das seções
+\colorlet{SectionCol}{white}    % texto dentro da caixa de seção
+
+\newcommand{\setSectionBoxColor}[1]{\colorlet{BoxCol}{#1}}
+\newcommand{\setSectionTextColor}[1]{\colorlet{SectionCol}{#1}}
+\newcommand{\setBgColor}[1]{\colorlet{mainCol}{#1}}
+\newcommand{\setTextColor}[1]{\colorlet{TextCol}{#1}}
+```
+
+Quatro variáveis de cor (`\colorlet`, não `\definecolor` — permite apontar para qualquer cor já definida, inclusive uma seguinte) mais quatro comandos de conveniência para trocá-las em `metadados.sty` sem precisar saber `\colorlet` existe. Testado, funciona com qualquer nome de cor do `xcolor` (nomes puros como `white`/`black`, ou uma cor customizada como `PosterGreen`).
+
+## 5. Escala dinâmica: normal vs. `maior`
+
+O bloco mais importante da classe — uma única flag (`\if@posterMaior`) reconfigura **simultaneamente** tamanho de fonte, dimensões de cabeçalho/rodapé e tamanho físico do papel:
+
+```latex
+\if@posterMaior
+    \renewcommand{\normalsize}{\fontsize{25}{30}\selectfont}
+    \renewcommand{\Huge}{\fontsize{65}{75}\selectfont}
+    \setlength{\headerH}{10cm}
+    \settitlefont{\fontsize{65}{75}\bfseries}
+    \geometry{paperwidth=90cm, paperheight=120cm}
+\else
+    \setlength{\headerH}{5cm}
+    \settitlefont{\huge\bfseries}
+    \geometry{paperwidth=70cm, paperheight=100cm}
+\fi
+```
+
+Sem `maior`: pôster "menor" (70×120cm), com fontes relativas padrão (`\huge`, `\Large`...). Com `maior`: reescreve `\normalsize` até `\Huge` para tamanhos absolutos em pontos (via `anyfontsize`, que permite qualquer `\fontsize` sem estar limitado à tabela padrão de tamanhos do LaTeX) e infla o papel para 90×120cm — o tamanho A0-like usual de congresso. `\settitlefont`/`\setauthorfont`/`\setinstfont`/`\setbibfont` (comandos de conveniência, só `\renewcommand` de macros vazias) recebem valores coerentes com a escala escolhida em cada ramo.
+
+> [!tip] Diferença do modelo baixável
+> O [modelo completo](#-modelo-completo-preenchido) usa `\documentclass[]{iffposter}` (preset menor, 70×100cm) — troque para `\documentclass[maior]{iffposter}` se seu evento pedir A0 (90×120cm) de verdade.
+
+## 6. Cabeçalho e rodapé com imagem
+
+```latex
+\newcommand{\setheader}[1]{\renewcommand{\@headerimg}{#1}}
+\newcommand{\setfooterimgs}[3]{\def\@footerimgA{#1}\def\@footerimgB{#2}\def\@footerimgC{#3}}
+\newcommand{\noheader}{\@showheaderfalse}
+\newcommand{\nofooter}{\@showfooterfalse}
+```
+
+`\setheader{arquivo}` estampa uma imagem de largura total no topo da página (o banner do evento, no modelo baixável: `capa/cabecalho.jpg` — "XIV Mostra do Conhecimento e VII Feira de Oportunidades"). `\setfooterimgs{A}{B}{C}` aceita **até três** imagens de rodapé (logos de fomento — FAPERJ, CNPq, o cabeçalho do campus), cada uma opcional (`\ifdefempty` testa cada uma individualmente):
+
+```latex
+\AtPageLowerLeft{\put(\footerOffset, \footerOffset){%
+  \parbox[b][\@tmpFHeight][c]{\@tmpFWidth}{%
+    \hspace*{\fill}
+    \includegraphics[height=\@tmpFHeight]{\@footerimgA}
+    \ifdefempty{\@footerimgB}{}{\hfill\includegraphics[height=\@tmpFHeight]{\@footerimgB}}
+    \ifdefempty{\@footerimgC}{}{\hfill\includegraphics[height=\@tmpFHeight]{\@footerimgC}}
+    \hspace*{\fill}
+  }%
+}}
+```
+
+O truque de layout: `\hspace*{\fill}...\hfill...\hfill...\hspace*{\fill}` cria espaço elástico **antes, entre e depois** das imagens presentes — não importa se você define uma, duas ou três, elas sempre ficam centralizadas como grupo, com espaçamento uniforme entre si. `\AddToShipoutPictureBG*` desenha isso no *background* da página (atrás do conteúdo), e a classe recalcula a área útil de texto (`\newgeometry` com `top`/`bottom` dependendo de `\headerH`/`\footerH`) automaticamente, para o texto nunca invadir essas faixas.
+
+## 7. Sistema de logos e `\maketitle`
+
+```latex
+\newcommand{\lefttoplogo}[2][0.9]{\renewcommand{\@ltscale}{#1}\renewcommand{\@lefttoplogo}{#2}}
+\newcommand{\nolefttoplogo}{\renewcommand{\@lefttoplogo}{}}
+```
+
+Quatro posições possíveis (`lefttoplogo`/`righttoplogo`/`leftbottomlogo`/`rightbottomlogo`), cada uma com um comando `\set...` que aceita uma **escala opcional** entre colchetes (`\lefttoplogo[1.0]{arquivo}`) e um `\no...` para desativar. `\maketitle` é redefinido para desenhar **três colunas**: logos à esquerda, título/autores/instituição ao centro, logos à direita —
+
+```latex
+\ifdefempty{\@lefttoplogo}{\ifdefempty{\@leftbottomlogo}{\def\@leftwidth{0}}{}}{}
+\pgfmathsetmacro{\@midwidth}{1 - \@leftwidth - \@rightwidth}
+```
+
+Se um dos lados não tiver **nenhuma** logo (nem superior nem inferior), sua largura vira `0` e a coluna central absorve o espaço — o título fica automaticamente centralizado na largura total, sem colunas fantasmas vazias. `\IfFileExists` protege cada `\includegraphics` (se o arquivo de logo não existir, simplesmente não desenha nada em vez de dar erro de compilação).
+
+## 8. `\section` como caixa colorida
+
+```latex
+\RenewDocumentCommand{\section}{s m}{
+  \begin{tcolorbox}[colback=BoxCol, colframe=BoxCol, coltext=SectionCol, arc=5mm, ...]
+    \IfBooleanTF{#1}{#2}{\thesection.\hspace{0.5em}#2}
+  \end{tcolorbox}
 }
 ```
 
-## 7. Boas práticas de pôster
+`\RenewDocumentCommand` (do pacote `xparse`, mais expressivo que `\renewcommand`) declara a assinatura `s m` — **s**tar opcional + **m**andatório — permitindo tanto `\section{Título}` (numerado: "1. Título") quanto `\section*{Título}` (sem número). Cada seção vira uma caixa `tcolorbox` com cantos arredondados (`arc=5mm`) na cor `BoxCol`/`SectionCol` configurada em `metadados.sty` — bem diferente do `\section` sóbrio (texto simples, sem caixa) usado em `ifftese.cls`.
 
-- **Legível a 1,5m de distância.** Se você precisa se aproximar da tela para ler seu próprio rascunho, o texto está pequeno demais.
-- **Hierarquia visual clara.** Título do pôster > títulos de bloco > corpo de texto — três tamanhos de fonte bem diferentes, não uma gradação sutil.
-- **Menos texto do que parece necessário.** Quem para na frente do seu pôster vai conversar com você — o pôster é gancho, não o artigo inteiro.
+## 9. `\inserirfigura`/`\inserirtabela` — assinatura diferente da Aula 07
 
-## 8. Compilação
-
+```latex
+\newcommand{\inserirfigura}[5][0.9\columnwidth]{
+  \captionof{figure}{#3}
+  \label{#5}
+  \includegraphics[width=#1]{#2}
+  \ifstrempty{#4}{}{\textbf{Fonte:} #4}
+}
 ```
-pdflatex banner.tex
+
+> [!warning] Não confundir com `\inserirfigura` da Aula 07
+> Mesmo nome, **classe diferente, argumentos em ordem diferente**. Em `ifftese.cls` (TCC): `[opções]{arquivo}{legenda-longa}{legenda-curta}{fonte}{label}` — 6 posições. Aqui, em `iffposter.cls`: `[largura]{arquivo}{legenda}{fonte}{label}` — 5 posições, sem legenda curta (pôster não tem "Lista de Figuras"). Usar a ordem errada em um documento que carrega a outra classe gera erro de compilação ou, pior, texto no lugar errado sem erro nenhum.
+
+Uso no modelo: `\inserirfigura[\columnwidth]{img/SBPC_Fig1_Feh_MgFe.pdf}{legenda}{fonte}{fig:feh_mgfe}`. `\inserirtabela` segue o mesmo espírito, com `\begin{tabular}{colunas}...\end{tabular}` como argumento de conteúdo entre `\toprule`/`\bottomrule` fixos.
+
+## 10. Bibliografia com fonte reduzida
+
+```latex
+\let\OLDthebibliography\thebibliography
+\renewcommand\thebibliography[1]{
+  \OLDthebibliography{#1}
+  \@bibfont
+  \vspace{-1.0em}
+  \setlength{\itemsep}{-0.2em}
+}
 ```
 
-Documentos A0 demoram mais para compilar e para abrir no visualizador de PDF do que um documento normal — isso é esperado, não é erro. Para conferir o layout rapidamente sem esperar a impressão em tamanho real, reduza a visualização do PDF para ~10% no seu leitor, ou gere um preview em `a4paper` temporariamente trocando só essa opção da classe (lembre de voltar para `a0paper` antes de enviar para impressão).
+Salva a implementação original (`\let\OLDthebibliography\thebibliography`) e a chama primeiro, só então aplicando a fonte reduzida (`\@bibfont`, configurada em `metadados.sty` — ex. `\small`) e um espaçamento negativo entre itens, para a lista de referências caber em pôster sem dominar visualmente a última coluna. Mesmo padrão de "decorar o original em vez de reescrever do zero" usado por `\thebibliography` em `ifftese.cls` (Aula 06 §6), mais simples aqui (sem os labels `refInicio`/`refFim`, que só fazem sentido numa ficha catalográfica).
+
+---
+
+## 📦 Modelo completo preenchido
+
+**[Baixar modelo-iffposter-banner.zip](assets/biblioteca/latex-escrita/modelo-iffposter-banner.zip)** — não é um exemplo fictício: é o pôster real que usei na XIV Mostra do Conhecimento e VII Feira de Oportunidades (IFF-BJI), a mesma pesquisa descrita em [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — introdução, metodologia, os 4 gráficos reais (diagramas de Kiel, Toomre, Tinsley-Wallerstein, distribuição \[Fe/H\]–\[Mg/Fe\]), resultados (228 estrelas candidatas a halo) e conclusões, com o cabeçalho oficial do evento e os logos de fomento (FAPERJ/CNPq) inclusos. Compilado e verificado (1 página, sem erros) antes de publicar.
 
 ---
 
 ## 🔗 Referências e correlatos
 
-- [`banner.tex` do modelo completo](pt-br/resource/latex/aula-08-pacote-metadados) — o arquivo real, comentado, dentro do `.zip` baixável.
-- [Aula 09 — Slides com Beamer](pt-br/resource/latex/aula-09-slides-beamer)
-- [Aula 06 — Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) — origem das cores reaproveitadas na paleta customizada.
-- [Documentação do `tikzposter` (CTAN)](https://ctan.org/pkg/tikzposter)
+- [Aula 09 — Slides com o template oficial do IFFBJI](pt-br/resource/latex/aula-09-slides-beamer)
+- [Aula 06 — Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) — a classe "irmã" para o texto escrito do TCC, com vários padrões em comum.
+- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — a pesquisa por trás deste pôster.
+- [SAB 2025](pt-br/media/2025/sab-2025) e [Escola de Inverno do ON (2026)](pt-br/media/2026/escolainverno-2026) — apresentações em pôster do mesmo trabalho.
 - [Curso — visão geral](pt-br/resource/latex)

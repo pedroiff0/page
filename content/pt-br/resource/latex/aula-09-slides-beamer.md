@@ -17,7 +17,10 @@ tags:
 
 ## 1. Por que um documento separado?
 
-Slides de defesa não são "o TCC reformatado" — são um **resumo visual** dele, com muito menos texto por página e ênfase em figuras/gráficos grandes. Por isso, na prática, quase ninguém tenta reaproveitar `ifftese.cls` para os slides: usa-se `\documentclass{beamer}` num arquivo à parte (aqui, `slides.tex`, dentro do [modelo baixável](pt-br/resource/latex/aula-08-pacote-metadados) — Aula 08), copiando manualmente só os poucos dados que os slides realmente precisam (título, autor, orientador, data), sem depender da infraestrutura de metadados da classe do texto.
+Slides de defesa não são "o TCC reformatado" — são um **resumo visual** dele, com muito menos texto por página e ênfase em figuras/gráficos grandes. Por isso, na prática, quase ninguém tenta reaproveitar `ifftese.cls` para os slides: usa-se `\documentclass{beamer}` num arquivo à parte, copiando manualmente só os poucos dados que os slides realmente precisam (título, autor, orientador, data), sem depender da infraestrutura de metadados da classe do texto.
+
+> [!info] Em atualização
+> Esta aula está sendo migrada para documentar o **template oficial de slides do IFF-BJI** (mesmo raciocínio da [Aula 10](pt-br/resource/latex/aula-10-poster-cientifico), que já documenta `iffposter.cls` de verdade), no lugar do exemplo genérico de Beamer abaixo. O conteúdo genérico continua válido enquanto isso — os princípios (tema, blocos, revelação incremental) valem para qualquer classe baseada em Beamer.
 
 ## 2. Estrutura mínima
 
@@ -159,8 +162,7 @@ Sem bibliografia formal na maioria das apresentações — se precisar citar alg
 
 ## 🔗 Referências e correlatos
 
-- [`slides.tex` do modelo completo](pt-br/resource/latex/aula-08-pacote-metadados) — o arquivo real, comentado, dentro do `.zip` baixável.
 - [Aula 06 — Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) — origem das cores `ocre`/`chapterhead` reaproveitadas aqui.
-- [Aula 10 — Pôster Científico](pt-br/resource/latex/aula-10-poster-cientifico)
+- [Aula 10 — Pôster Científico com `iffposter.cls`](pt-br/resource/latex/aula-10-poster-cientifico) — a mesma migração para um template real, já concluída do lado do pôster.
 - [Documentação oficial do Beamer (CTAN)](https://ctan.org/pkg/beamer)
 - [Curso — visão geral](pt-br/resource/latex)
