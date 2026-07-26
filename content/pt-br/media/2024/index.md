@@ -2,8 +2,8 @@
 publish: true
 title: "2024"
 created: 2026-07-23
-modified: 2026-07-26T10:13:42.460-03:00
-published: 2026-07-26T10:13:42.460-03:00
+modified: 2026-07-26T12:36:37.263-03:00
+published: 2026-07-26T12:36:37.263-03:00
 ---
 
 > [!note] Resumo
@@ -15,7 +15,7 @@ published: 2026-07-26T10:13:42.460-03:00
     <div class="slide-caption">e-JINIFF 2024</div>
   </a>
   <a href="/pt-br/media/2024/febic-2024" class="carousel-slide">
-    <img src="/assets/febic2024/febic.jpeg" alt="IX FEBIC 2024" />
+    <img src="/assets/photos/febic2024/febic.jpeg" alt="IX FEBIC 2024" />
     <div class="slide-caption">IX FEBIC 2024</div>
   </a>
   <a href="/pt-br/media/2024/4-sceg" class="carousel-slide">

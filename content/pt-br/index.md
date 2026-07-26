@@ -2,8 +2,8 @@
 publish: true
 title: Sobre Mim
 created: 2026-07-18T14:50:18.601-03:00
-modified: 2026-07-26T11:16:08.217-03:00
-published: 2026-07-26T11:16:08.217-03:00
+modified: 2026-07-26T12:36:37.263-03:00
+published: 2026-07-26T12:36:37.263-03:00
 ---
 
 > [!info] Bem-vindo(a)!
@@ -101,7 +101,7 @@ Para navegar pelo meu trabalho, explore as seções deste site:
     <div class="slide-caption">Disciplinas</div>
   </a>
   <a href="/pt-br/media" class="carousel-slide">
-    <img src="/assets/febic2024/febic.jpeg" alt="Mídia" />
+    <img src="/assets/photos/febic2024/febic.jpeg" alt="Mídia" />
     <div class="slide-caption">Mídia</div>
   </a>
   <a href="/pt-br/projects" class="carousel-slide">

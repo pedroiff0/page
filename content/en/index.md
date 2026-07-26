@@ -2,8 +2,8 @@
 publish: true
 title: About Me
 created: 2026-07-18T14:25:13.277-03:00
-modified: 2026-07-26T11:15:19.088-03:00
-published: 2026-07-26T11:15:19.088-03:00
+modified: 2026-07-26T12:36:37.259-03:00
+published: 2026-07-26T12:36:37.259-03:00
 ---
 
 > [!info] Welcome!
@@ -101,7 +101,7 @@ To navigate my work, explore the sections of this site:
     <div class="slide-caption">Classes</div>
   </a>
   <a href="/en/media" class="carousel-slide">
-    <img src="/assets/febic2024/febic.jpeg" alt="Media" />
+    <img src="/assets/photos/febic2024/febic.jpeg" alt="Media" />
     <div class="slide-caption">Media</div>
   </a>
   <a href="/en/projects" class="carousel-slide">

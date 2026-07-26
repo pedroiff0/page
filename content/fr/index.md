@@ -3,7 +3,7 @@ publish: true
 title: À propos de moi
 created: 2026-07-18T14:50:18.601-03:00
 modified: 2026-07-23
-published: 2026-07-26T11:15:56.374-03:00
+published: 2026-07-26T12:36:37.259-03:00
 ---
 
 > [!info] Bienvenue !
@@ -104,7 +104,7 @@ Pour naviguer dans mon travail, explorez les sections du site (en portugais/angl
     <div class="slide-caption">Matières</div>
   </a>
   <a href="/pt-br/media" class="carousel-slide">
-    <img src="/assets/febic2024/febic.jpeg" alt="Médias" />
+    <img src="/assets/photos/febic2024/febic.jpeg" alt="Médias" />
     <div class="slide-caption">Médias</div>
   </a>
   <a href="/pt-br/projects" class="carousel-slide">

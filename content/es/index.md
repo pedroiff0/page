@@ -3,7 +3,7 @@ publish: true
 title: Sobre Mí
 created: 2026-07-18T14:50:18.601-03:00
 modified: 2026-07-23
-published: 2026-07-26T11:15:41.906-03:00
+published: 2026-07-26T12:36:37.259-03:00
 ---
 
 > [!info] ¡Bienvenido(a)!
@@ -104,7 +104,7 @@ Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés)
     <div class="slide-caption">Asignaturas</div>
   </a>
   <a href="/pt-br/media" class="carousel-slide">
-    <img src="/assets/febic2024/febic.jpeg" alt="Medios" />
+    <img src="/assets/photos/febic2024/febic.jpeg" alt="Medios" />
     <div class="slide-caption">Medios</div>
   </a>
   <a href="/pt-br/projects" class="carousel-slide">
