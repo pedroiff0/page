@@ -24,7 +24,7 @@ tags:
 ## 🔒 Trancas
 
 - [CSECBJI.59 - Redes de Computadores II](redes-de-computadores-ii.md)
-- [CSECBJI.71 - Sistemas Distribuídos](sistemas-distribuidos.md)
+- [CSECBJI.71 - Sistemas Distribuídos](pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos)
 - [CSECBJI.86 - Algoritmos Distribuídos](algoritmos-distribuidos.md)
 
 ## 📋 Ementa

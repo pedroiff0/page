@@ -48,7 +48,7 @@ A formação de estruturas em grande escala é descrita pelo **parâmetro de con
 
 $\delta(\mathbf{x}, t) = \frac{\rho(\mathbf{x}, t) - \bar\rho(t)}{\bar\rho(t)}$
 
-que compara a densidade local $\rho(\mathbf{x},t)$ com a densidade média do Universo $\bar\rho(t)$ naquele instante. Por definição, **sobredensidades** têm $\delta > 0$ (regiões que vão colapsar) e **subdensidades** têm $\delta < 0$ (os _voids_ da teia cósmica — ver Aula 01; como $\delta$ é limitado inferiormente em $-1$, regiões subdensas nunca "esvaziam" completamente, apenas se expandem mais rápido que a média e ficam cada vez mais rarefeitas em relação ao resto do Universo).
+que compara a densidade local $\rho(\mathbf{x},t)$ com a densidade média do Universo $\bar\rho(t)$ naquele instante. Por definição, **sobredensidades** têm $\delta > 0$ (regiões que vão colapsar) e **subdensidades** têm $\delta < 0$ (os _voids_ da teia cósmica — ver [Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01); como $\delta$ é limitado inferiormente em $-1$, regiões subdensas nunca "esvaziam" completamente, apenas se expandem mais rápido que a média e ficam cada vez mais rarefeitas em relação ao resto do Universo).
 
 O colapso é **hierárquico**: estruturas menores colapsam primeiro (porque suas flutuações de densidade atingem o limiar não linear mais cedo) e depois se agregam em estruturas maiores. Isso aparece no valor de $\delta$ necessário para cada escala descolar do fundo:
 

@@ -80,7 +80,7 @@ Uma quantidade-chave, especialmente relevante para a cosmologia, é a **soma das
 - Hierarquia normal: $\sum m_\nu \gtrsim 0{,}06$ eV
 - Hierarquia invertida: $\sum m_\nu \gtrsim 0{,}1$ eV
 
-É exatamente esse ponto que conecta a física de partículas à cosmologia: **medidas cosmológicas independentes também restringem $\sum m_\nu$** (ver seção 5), e comparar os dois tipos de limite (oscilação vs. cosmologia) é uma forma poderosa de testar a física fundamental.
+É exatamente esse ponto que conecta a física de partículas à cosmologia: **medidas cosmológicas independentes também restringem $\sum m_\nu$** (ver [Restrições cosmológicas sobre a massa dos neutrinos](#restrições-cosmológicas-sobre-a-massa-dos-neutrinos)), e comparar os dois tipos de limite (oscilação vs. cosmologia) é uma forma poderosa de testar a física fundamental.
 
 ---
 
@@ -116,7 +116,7 @@ A partir da métrica FLRW e das equações de campo de Einstein, obtemos duas eq
 
 Combinando essas equações com a **equação de estado** $p = w\rho c^2$ (que relaciona pressão $p$ e densidade de energia $\rho$ para cada componente do Universo, via o parâmetro $w$) e a **equação do fluido** (conservação de energia em um Universo em expansão), conseguimos modelar como cada componente (matéria, radiação, energia escura) evolui ao longo do tempo cósmico.
 
-A **energia escura** é o componente com $w \approx -1$ que faz a taxa de expansão de Friedmann **aumentar** com o tempo — a origem da aceleração cósmica observada (ver nota de Cosmologia). Esse é o ingrediente central do **modelo $\Lambda$CDM**.
+A **energia escura** é o componente com $w \approx -1$ que faz a taxa de expansão de Friedmann **aumentar** com o tempo — a origem da aceleração cósmica observada (ver [nota de Cosmologia](pt-br/resource/escolainverno/cosmologia)). Esse é o ingrediente central do **modelo $\Lambda$CDM**.
 
 ---
 

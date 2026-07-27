@@ -23,7 +23,7 @@ tags:
 
 ## 🔒 Trancas
 
-- [CSECBJI.79 - Desenvolvimento Web](desenvolvimento-web.md)
+- [CSECBJI.79 - Desenvolvimento Web](pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web)
 
 ## 📋 Ementa
 

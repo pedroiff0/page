@@ -117,8 +117,8 @@ O **J-PAS** (_Javalambre Physics of the Accelerating Universe Astrophysical Surv
 > [!question] Perguntas (Aula 2)
 >
 > 1. **Observações sobre o GALAH DR4 (idades, parâmetros etc.)** — o GALAH DR4 é justamente o levantamento espectroscópico usado na minha própria pesquisa (ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]); fornece até 30 abundâncias químicas por estrela para quase 1 milhão de estrelas, com parâmetros derivados via pipeline espectroscópico próprio.
-> 2. **Gráfico de separação de disco por idade — Montalbán et al. (2021).** Trabalho de referência que usa idades astrossismológicas de gigantes vermelhas (ver seção 3) para separar estatisticamente disco fino e disco espesso da Via Láctea por idade, complementando a separação química por \[$\alpha$/Fe] vista na Aula 01.
-> 3. **StarHorse** — ver seção 3: método de combinação multi-levantamento para parâmetros estelares.
+> 2. **Gráfico de separação de disco por idade — Montalbán et al. (2021).** Trabalho de referência que usa idades astrossismológicas de gigantes vermelhas (ver [Astrossismologia de gigantes vermelhas](#astrossismologia-de-gigantes-vermelhas)) para separar estatisticamente disco fino e disco espesso da Via Láctea por idade, complementando a separação química por \[$\alpha$/Fe] vista na Aula 01.
+> 3. **StarHorse** — ver [Astrometria de altíssima precisão (Gaia)](#astrometria-de-altíssima-precisão-gaia): método de combinação multi-levantamento para parâmetros estelares.
 
 ---
 

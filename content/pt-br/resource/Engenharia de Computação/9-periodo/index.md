@@ -41,4 +41,4 @@ Disciplinas do 9º período do curso de Engenharia de Computação.
 - [Empreendedorismo](empreendedorismo.md) — 40h, núcleo Específica.
 - [Direito, Ética e Cidadania](direito-etica-e-cidadania.md) — 60h, núcleo Básico.
 - [Sistemas Embarcados](sistemas-embarcados.md) — 60h, núcleo Específica.
-- [Sistemas Distribuídos](sistemas-distribuidos.md) — 60h, núcleo Específica.
+- [Sistemas Distribuídos](pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos) — 60h, núcleo Específica.

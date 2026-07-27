@@ -60,5 +60,5 @@ Disciplinas do 5º período do curso de Engenharia de Computação.
 - [Eletrônica Analógica](eletronica-analogica.md) — 60h, núcleo Profissionalizante.
 - [Paradigmas de Linguagem de Programação](paradigmas-de-linguagem-de-programacao.md) — —h, núcleo Profissionalizante.
 - [Gestão Ambiental](gestao-ambiental.md) — 60h, núcleo Básico.
-- [Linguagens Formais e Autômatos](linguagens-formais-e-automatos.md) — 60h, núcleo Profissionalizante.
+- [Linguagens Formais e Autômatos](pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) — 60h, núcleo Profissionalizante.
 - [Avaliação e Desempenho de Sistemas](avaliacao-e-desempenho-de-sistemas.md) — 60h, núcleo Profissionalizante.

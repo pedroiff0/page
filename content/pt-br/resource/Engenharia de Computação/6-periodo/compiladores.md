@@ -19,7 +19,7 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos | [CSECBJI.40 - Linguagens Formais e Autômatos](linguagens-formais-e-automatos.md) |
+| Pré-requisitos | [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) |
 
 ## 📋 Ementa
 

@@ -23,7 +23,7 @@ tags:
 
 ## 🔒 Trancas
 
-- [CSECBJI.78 - Processamento de Imagens](processamento-de-imagens.md)
+- [CSECBJI.78 - Processamento de Imagens](pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens)
 
 ## 📋 Ementa
 

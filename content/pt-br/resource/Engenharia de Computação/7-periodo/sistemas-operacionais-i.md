@@ -24,7 +24,7 @@ tags:
 ## 🔒 Trancas
 
 - [CSECBJI.63 - Sistemas Operacionais II](sistemas-operacionais-ii.md)
-- [CSECBJI.71 - Sistemas Distribuídos](sistemas-distribuidos.md)
+- [CSECBJI.71 - Sistemas Distribuídos](pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos)
 - [CSECBJI.86 - Algoritmos Distribuídos](algoritmos-distribuidos.md)
 
 ## 📋 Ementa

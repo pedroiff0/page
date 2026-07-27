@@ -23,7 +23,7 @@ tags:
 
 ## 🔒 Trancas
 
-- [CSECBJI.48 - Compiladores](compiladores.md)
+- [CSECBJI.48 - Compiladores](pt-br/resource/engenharia-de-computação/6-periodo/compiladores)
 
 ## 📋 Ementa
 

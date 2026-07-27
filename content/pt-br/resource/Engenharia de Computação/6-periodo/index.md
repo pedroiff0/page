@@ -51,4 +51,4 @@ Disciplinas do 6º período do curso de Engenharia de Computação.
 - [Programação Orientada a Objetos I](programacao-orientada-a-objetos-i.md) — 60h, núcleo Profissionalizante.
 - [Eletrônica Digital](eletronica-digital.md) — 60h, núcleo Profissionalizante.
 - [Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) — 60h, núcleo Específica.
-- [Compiladores](compiladores.md) — 60h, núcleo Profissionalizante.
+- [Compiladores](pt-br/resource/engenharia-de-computação/6-periodo/compiladores) — 60h, núcleo Profissionalizante.

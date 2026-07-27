@@ -14,7 +14,7 @@ tags:
 # 🛰️ Simulating the Impact of Satellites on Astronomical Observations
 
 > [!note] Summary
-> Research project (IFF Bom Jesus do Itabapoana, advised by [Prof. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) on how the proliferation of artificial satellites contaminates astronomical images with light trails — and how to computationally treat that contamination. Working with Maycon Jorge Deláqua da Silva and Arthur Miguelito Lopes, the project evolved from 3rd place at FEBIC 2024 to an algorithm recovering 99.7% of the lost information, winning 1st place at MCTIA 2025.
+> Research project (IFF Bom Jesus do Itabapoana, advised by [Prof. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)) on how the proliferation of artificial satellites contaminates astronomical images with light trails — and how to computationally treat that contamination. Working with [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) and Arthur Miguelito Lopes, the project evolved from 3rd place at FEBIC 2024 to an algorithm recovering 99.7% of the lost information, winning 1st place at MCTIA 2025.
 
 <div class="media-carousel">
   <a href="/en/research/satellite-trail-removal" class="carousel-slide">

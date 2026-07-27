@@ -83,9 +83,9 @@ Disciplinas do eletivas (optativas) do curso de Engenharia de Computação.
 
 - [Libras](libras.md) — 60h, núcleo Eletivo.
 - [Sociedade e Tecnologia](sociedade-e-tecnologia.md) — 60h, núcleo Eletivo.
-- [Computação Gráfica](computacao-grafica.md) — 60h, núcleo Básico.
-- [Processamento de Imagens](processamento-de-imagens.md) — 60h, núcleo Básico.
-- [Desenvolvimento Web](desenvolvimento-web.md) — —h, núcleo Básico.
+- [Computação Gráfica](pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica) — 60h, núcleo Básico.
+- [Processamento de Imagens](pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens) — 60h, núcleo Básico.
+- [Desenvolvimento Web](pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web) — —h, núcleo Básico.
 - [Interconexão de Redes de Computadores](interconexao-de-redes-de-computadores.md) — 60h, núcleo Eletivo.
 - [Dimensionamento de Redes de Computadores](dimensionamento-de-redes-de-computadores.md) — 60h, núcleo Eletivo.
 - [Energia e Eficiência Energética](energia-e-eficiencia-energetica.md) — 60h, núcleo Básico.

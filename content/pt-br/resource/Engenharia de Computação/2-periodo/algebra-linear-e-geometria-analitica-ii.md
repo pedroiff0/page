@@ -23,7 +23,7 @@ tags:
 
 ## 🔒 Trancas
 
-- [CSECBJI.77 - Computação Gráfica](computacao-grafica.md)
+- [CSECBJI.77 - Computação Gráfica](pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica)
 - [CSECBJI.85 - Modelagem Ambiental](modelagem-ambiental.md)
 - [CSECBJI.88 - Pesquisa Operacional I](pesquisa-operacional-i.md)
 
