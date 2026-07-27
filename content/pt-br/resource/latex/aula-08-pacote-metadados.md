@@ -134,3 +134,5 @@ Estes três últimos campos são textos praticamente fixos, específicos da bibl
 - [Aula 07 — Pacote `macros.sty`](pt-br/resource/latex/aula-07-pacote-macros) — as macros de conteúdo (`\capa`, `\contracapa`, `\fichacatalografica`, `\banca`) que consomem estes metadados.
 - [Curso — visão geral](pt-br/resource/latex)
 - [Metodologia Científica e Tecnológica](pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica)
+- [Projeto Final de Curso I](pt-br/resource/engenharia-de-computação/9-periodo/projeto-final-de-curso-i) e [II](pt-br/resource/engenharia-de-computação/10-periodo/projeto-final-de-curso-ii)
+- [ReLaTeX — pesquisa por trás deste pacote](pt-br/research/relatex)

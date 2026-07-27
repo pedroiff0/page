@@ -335,12 +335,19 @@ details.author-details[open] .author-summary {
 
     /* Text used to run flush to the viewport edge once the sidebar column
        collapsed — right under the floating reader-mode button, which sits
-       at left:1rem and is 44px wide, so the two overlapped. A light
-       side margin keeps the text clear of the button and just generally
-       reads better at full width. */
+       at left:1rem and is 44px wide, so the two overlapped. A side margin
+       keeps the text clear of the button and just generally reads better
+       at full width. Right gets more than left since there's no floating
+       button to clear on that side, just breathing room. box-sizing:
+       border-box is required here — .center's max-width:100% above is a
+       content-box width, so content-box padding stacked on top of it used
+       to push the element past its grid track and produce a page-level
+       horizontal scrollbar; border-box keeps the padding inside that
+       100%. */
     & .center,
     & footer {
-      padding: 0 4rem;
+      box-sizing: border-box;
+      padding: 0 6rem 0 4.5rem;
     }
 
     & .sidebar.left {

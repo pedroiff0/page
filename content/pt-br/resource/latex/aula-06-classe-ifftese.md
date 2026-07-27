@@ -411,3 +411,5 @@ Os labels `refInicio`/`refFim`, colocados logo no início e no fim do ambiente, 
 - [Guia de classes (LaTeX Project)](https://www.latex-project.org/help/documentation/clsguide.pdf)
 - [Documentação do `abntex2cite`](https://www.abntex.net.br) — a base normativa (ABNT NBR 6023) por trás das opções de citação usadas no Bloco B.
 - [Metodologia Científica e Tecnológica](pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica) — onde essas normas ABNT viram obrigação de fato.
+- [Projeto Final de Curso I](pt-br/resource/engenharia-de-computação/9-periodo/projeto-final-de-curso-i) e [II](pt-br/resource/engenharia-de-computação/10-periodo/projeto-final-de-curso-ii) — o TCC que esta classe formata.
+- [ReLaTeX — pesquisa por trás desta classe](pt-br/research/relatex)

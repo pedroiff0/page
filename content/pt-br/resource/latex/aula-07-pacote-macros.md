@@ -239,3 +239,6 @@ Fluxo de uso: `\problemlabellink{prob:3}` antes de `\begin{problem}` grava o lab
 - [Aula 08 — Arquivo `metadados.sty`](pt-br/resource/latex/aula-08-pacote-metadados) — onde os metadados usados por `\capa`, `\contracapa` e `\fichacatalografica` são de fato preenchidos.
 - [Curso — visão geral](pt-br/resource/latex)
 - [Documentação do `mdframed`](https://ctan.org/pkg/mdframed) e do [`datatool`](https://ctan.org/pkg/datatool) (CTAN).
+- [ReLaTeX — pesquisa por trás deste pacote](pt-br/research/relatex)
+- [Metodologia Científica e Tecnológica](pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica)
+- [Projeto Final de Curso I](pt-br/resource/engenharia-de-computação/9-periodo/projeto-final-de-curso-i) e [II](pt-br/resource/engenharia-de-computação/10-periodo/projeto-final-de-curso-ii)

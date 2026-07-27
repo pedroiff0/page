@@ -210,4 +210,7 @@ Salva a implementação original (`\let\OLDthebibliography\thebibliography`) e a
 - [Aula 06 — Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) — a classe "irmã" para o texto escrito do TCC, com vários padrões em comum.
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — a pesquisa por trás deste pôster.
 - [SAB 2025](pt-br/media/2025/sab-2025) e [Escola de Inverno do ON (2026)](pt-br/media/2026/escolainverno-2026) — apresentações em pôster do mesmo trabalho.
+- [ReLaTeX — pesquisa por trás da classe `ifftese.cls`](pt-br/research/relatex)
+- [Metodologia Científica e Tecnológica](pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica)
+- [Projeto Final de Curso I](pt-br/resource/engenharia-de-computação/9-periodo/projeto-final-de-curso-i) e [II](pt-br/resource/engenharia-de-computação/10-periodo/projeto-final-de-curso-ii)
 - [Curso — visão geral](pt-br/resource/latex)

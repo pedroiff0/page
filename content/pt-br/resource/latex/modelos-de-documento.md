@@ -140,6 +140,9 @@ Blocos de destaque:
 \end{frame}
 ```
 
+> [!tip] No IFF-BJI, use o template oficial
+> Se você está apresentando num evento do campus (Mostra do Conhecimento, defesa de TCC), pule este exemplo genérico e use `slidesiffmodelo.cls` — layout, cabeçalho/rodapé com logos e macros de figura já resolvidos. Ver [Aula 09 — Slides com `slidesiffmodelo.cls`](pt-br/resource/latex/aula-09-slides-beamer) e o [modelo baixável](assets/biblioteca/latex-escrita/modelo-slide-iffbji.zip) (`.zip`).
+
 ## Pôster científico (`sciposter`)
 
 ```latex
@@ -178,15 +181,23 @@ Blocos de destaque:
 > [!tip] Dicas rápidas
 > Use imagens em alta resolução (PNG/PDF) para não pixelar. Controle o espaçamento com `\vspace`/`\hspace`, e `\columnsep` para o espaço entre colunas. Alternativa com mais controle gráfico: `tikzposter`.
 
+> [!tip] No IFF-BJI, use o template oficial
+> Para pôster de evento do campus, `sciposter` é só o ponto de partida genérico — a classe real usada em eventos do IFF-BJI é `iffposter.cls` (cabeçalho/rodapé com imagem, sistema de logos, escala `maior` para A0). Ver [Aula 10 — Pôster Científico com `iffposter.cls`](pt-br/resource/latex/aula-10-poster-cientifico) e o [modelo baixável](assets/biblioteca/latex-escrita/modelo-iffposter-banner.zip) (`.zip`).
+
 ## TCC (checklist ABNT)
 
 O modelo de TCC (via `abntex2`) cobre, entre outros: capa, contracapa, ficha catalográfica, folha de aprovação, agradecimentos, dedicatória, epígrafe, errata, resumo/abstract, listas de ilustrações/tabelas/símbolos, sumário, introdução/metodologia/desenvolvimento/conclusão, referências (ABNT), glossário, apêndices, anexos e índice remissivo — com ambientes próprios para algoritmo, quadro e gráfico, e numeração automática de apêndices/anexos (A, B, C...).
 
 Formatação padrão: Arial 12, justificado, recuo de 1,25 cm, espaçamento uniforme nas seções centralizadas.
 
+> [!tip] No IFF-BJI, use o template oficial
+> Em vez de montar esse checklist do zero sobre `abntex2` puro, o campus tem uma classe própria que já implementa tudo isso: `ifftese.cls` (mais os pacotes `macros.sty`/`metadados.sty`). Ver [Aula 06 — Classe `ifftese.cls`](pt-br/resource/latex/aula-06-classe-ifftese) e o [modelo baixável](assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip) (`.zip`), um TCC de exemplo já preenchido e compilando.
+
 ## 🔗 Referências e correlatos
 
 - [Curso — visão geral](pt-br/resource/latex)
 - [Aula 03 — Templates e Classes](pt-br/resource/latex/aula-03-modelos) — conceitos de classe vs. template.
+- [ReLaTeX — pesquisa por trás da classe `ifftese.cls`](pt-br/research/relatex)
+- [Metodologia Científica e Tecnológica](pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica)
 - [Projeto Final de Curso I](pt-br/resource/engenharia-de-computação/9-periodo/projeto-final-de-curso-i) e [II](pt-br/resource/engenharia-de-computação/10-periodo/projeto-final-de-curso-ii)
 - [abnTeX2](https://www.abntex.net.br)
