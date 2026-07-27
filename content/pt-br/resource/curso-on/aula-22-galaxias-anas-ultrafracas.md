@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Aula 22 — Galáxias Anãs Ultrafracas e os Limites da Formação Galáctica
 created: 2026-07-25
 modified: 2026-07-26T11:33:09.987-03:00

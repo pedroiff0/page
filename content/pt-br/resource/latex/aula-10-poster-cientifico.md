@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 10 — Pôster Científico com iffposter.cls"
 created: 2026-07-26
 tags:

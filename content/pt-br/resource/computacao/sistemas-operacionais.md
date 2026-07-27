@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Sistemas Operacionais
 created: 2026-07-18
 modified: 2026-07-26T11:33:09.979-03:00

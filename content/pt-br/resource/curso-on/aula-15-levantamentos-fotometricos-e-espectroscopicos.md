@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Aula 15 — Espectroscopia e Fotometria em Grandes Levantamentos
 created: 2026-07-25
 modified: 2026-07-26T11:33:09.987-03:00

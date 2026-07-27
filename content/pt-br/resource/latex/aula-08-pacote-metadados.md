@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 08 — Arquivo de Preenchimento: metadados.sty"
 created: 2026-07-26
 tags:

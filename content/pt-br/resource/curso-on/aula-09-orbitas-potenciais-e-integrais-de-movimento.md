@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Aula 09 — Órbitas, Potenciais e Integrais de Movimento
 created: 2026-07-25
 modified: 2026-07-26T11:33:09.983-03:00

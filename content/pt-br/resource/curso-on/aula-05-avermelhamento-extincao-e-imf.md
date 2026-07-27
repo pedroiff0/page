@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Aula 05 — Avermelhamento, Extinção e IMF
 created: 2026-07-23
 modified: 2026-07-26T11:33:09.983-03:00

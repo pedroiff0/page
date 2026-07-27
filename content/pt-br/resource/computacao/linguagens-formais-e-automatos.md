@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Linguagens Formais e Autômatos
 created: 2026-07-26
 modified: 2026-07-26T11:33:09.979-03:00

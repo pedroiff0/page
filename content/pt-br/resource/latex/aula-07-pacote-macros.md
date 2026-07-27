@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 07 — Pacote de Conteúdo: macros.sty"
 created: 2026-07-26
 tags:

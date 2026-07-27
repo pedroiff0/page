@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Aula 03 — Magnitudes, Cores e Classificação Espectral
 created: 2026-07-23
 modified: 2026-07-26T11:33:09.987-03:00
@@ -91,7 +91,7 @@ A classificação de Cannon considera 7 classes principais, organizadas por **te
 | F–G | Intermediária | Metais em geral (Sol é G) |
 | K–M | Fria | Linhas metálicas / moléculas (TiO em M) |
 
-O pico do espectro da classe M está deslocado para comprimentos de onda maiores, enquanto o tipo O emite mais intensamente em $\lambda$ pequeno — a **Lei de Wien** em ação. Estrelas de tipo A ($\sim$10 mil K) têm as linhas de absorção de H mais intensas de toda a sequência (ver Aula 04 para a explicação física, via população dos níveis de energia do átomo de hidrogênio).
+O pico do espectro da classe M está deslocado para comprimentos de onda maiores, enquanto o tipo O emite mais intensamente em $\lambda$ pequeno — a **Lei de Wien** em ação. Estrelas de tipo A ($\sim$10 mil K) têm as linhas de absorção de H mais intensas de toda a sequência (ver [Aula 04](pt-br/resource/curso-on/aula-04-espectroscopia-e-metalicidade) para a explicação física, via população dos níveis de energia do átomo de hidrogênio).
 
 ## 📷 Tipos de fotometria
 

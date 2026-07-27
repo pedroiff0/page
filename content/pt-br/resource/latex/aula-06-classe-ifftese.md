@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 06 — Anatomia de uma Classe Real: ifftese.cls"
 created: 2026-07-26
 tags:

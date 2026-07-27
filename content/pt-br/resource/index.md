@@ -15,21 +15,9 @@ order: 2
     <img src="/assets/illustrations/classes.svg" alt="Engenharia de Computação" />
     <div class="slide-caption">Engenharia de Computação</div>
   </a>
-  <a href="/pt-br/resource/computacao" class="carousel-slide">
-    <img src="/assets/illustrations/computacao.svg" alt="Computação" />
-    <div class="slide-caption">Computação</div>
-  </a>
   <a href="/pt-br/resource/escolainverno" class="carousel-slide">
     <img src="/assets/illustrations/escolainverno.svg" alt="Escola de Inverno (ON 2026)" />
     <div class="slide-caption">Escola de Inverno (ON 2026)</div>
-  </a>
-  <a href="/pt-br/resource/curso-on" class="carousel-slide">
-    <img src="/assets/illustrations/arqgal.svg" alt="Arqueologia Galáctica e Populações Estelares (ON)" />
-    <div class="slide-caption">Arqueologia Galáctica (ON)</div>
-  </a>
-  <a href="/pt-br/resource/latex" class="carousel-slide">
-    <img src="/assets/illustrations/toolkit.svg" alt="LaTeX e Escrita Acadêmica" />
-    <div class="slide-caption">LaTeX e Escrita Acadêmica</div>
   </a>
 </div>
 
@@ -37,20 +25,13 @@ order: 2
 
 Uma coleção curada de ferramentas, materiais e recomendações acumuladas ao longo da minha jornada acadêmica — uma base de conhecimento pessoal, aberta para qualquer um explorar e usar.
 
-### 🔧 Ferramentas & Fluxos de Trabalho
-
-- [Computação](pt-br/resource/computacao) — Arquivo curado de materiais de estudo em Ciência da Computação, organizado por tópico.
-- [LaTeX e Escrita Acadêmica](pt-br/resource/latex) — Trilha de LaTeX, normas ABNT e escrita científica, com apostilas abertas.
+> [!info] Em curadoria
+> Computação, LaTeX e Escrita Acadêmica e Arqueologia Galáctica e Populações Estelares (ON) estão temporariamente despublicados enquanto reviso o conteúdo — voltam ao ar em breve.
 
 ### 📖 Materiais de Cursos
 
 - [Engenharia de Computação](pt-br/resource/engenharia-de-computação) — Grade curricular completa, organizada por período.
 - [Escola de Inverno (ON 2026)](pt-br/resource/escolainverno) — Notas de aula por minicurso.
-- [Arqueologia Galáctica e Populações Estelares (ON)](pt-br/resource/curso-on) — Disciplina completa de pós-graduação, 25 aulas, Prof. Hélio Dotto Perottoni.
-
-### 🎨 LaTeX e Escrita
-
-Veja a página dedicada de [LaTeX e Escrita Acadêmica](pt-br/resource/latex) — trilha de estudo, apostilas abertas e guias ABNT.
 
 ### 💻 Projetos Open-Source
 

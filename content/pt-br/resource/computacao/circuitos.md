@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: Circuitos
 created: 2026-07-18
 modified: 2026-07-26T11:33:09.975-03:00

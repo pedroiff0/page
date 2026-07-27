@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 14 — Diagnósticos Químicos: Disco Fino, Disco Espesso e Acréscimos"
 created: 2026-07-25
 modified: 2026-07-26T11:33:09.983-03:00

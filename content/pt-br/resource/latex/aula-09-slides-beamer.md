@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 title: "Aula 09 — Slides com slidesiffmodelo.cls"
 created: 2026-07-26
 modified: 2026-07-26
