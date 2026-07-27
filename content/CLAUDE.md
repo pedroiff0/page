@@ -47,6 +47,26 @@ Publicação normalmente acontece via:
 
 **Cuidado com estado desatualizado**: publicações via Quartz Syncer refletem o estado local do vault Obsidian no momento do clique. Se este ambiente (onde outra sessão/Claude está editando) fez mudanças que ainda não "apareceram" no Obsidian local (ex: arquivos criados diretamente aqui), uma sincronização do plugin pode tentar reverter/apagar esse conteúdo. Sempre `git fetch && git log origin/main` antes de assumir que o remoto está no estado esperado, e resolver conflitos preservando conteúdo novo em vez de aceitar cegamente o lado remoto.
 
+## Notas de `media/` (participações em eventos)
+
+Cada evento é uma nota em `pt-br/media/<ano>/<slug-evento>.md`, seguindo sempre a mesma estrutura (o template em `templates/Evento.md` já vem pronto assim):
+
+1. Frontmatter com `photoFolder: <slug>` (ver seção de fotos/banners no `CLAUDE.md` da raiz do repo) e `type: blog`.
+2. `> [!note] Resumo` — 1-2 frases.
+3. `## 🗓️ Sobre o evento` — dados factuais (o quê, onde, quando).
+4. `## 👋 Minha participação` — o que foi apresentado, com quem, resultado.
+5. `> [!note] Opinião` — reflexão pessoal sobre a experiência. **Sempre `[!note]` minúsculo** — já apareceu como `[!NOTE]`/`[!INFO]` maiúsculo por edição direta no Obsidian, e isso é inconsistente com o resto do vault.
+6. `## 📎 Banner` (pôster) ou `## 📎 Slides` (apresentação oral) — o embed do PDF em si (`![[assets/banners/Banner....pdf]]`, caminho completo, ver `CLAUDE.md` da raiz).
+7. `## 🔗 Referências e correlatos` — sempre linkar a página de pesquisa por trás do trabalho (`pt-br/research/...`) quando houver, e o evento anterior/seguinte que apresentou o mesmo trabalho.
+
+Os índices (`pt-br/media/index.md` e `pt-br/media/<ano>/index.md`) **não têm mais carrossel manual** — ele é gerado automaticamente pelo plugin `photo-carousel` (ver `CLAUDE.md` da raiz). Só precisam de uma lista em markdown (`- [Nome do Evento](caminho) — descrição curta`) pra quem prefere navegar por texto; ao adicionar um evento novo, adicionar essa linha também (isso não é automático).
+
+## Notas de `research/` (projetos de pesquisa)
+
+Cada projeto de pesquisa é uma pasta própria — `pt-br/research/<slug>/index.md` (nunca um arquivo solto `pt-br/research/<slug>.md`) —, espelhando o padrão já usado por `anomaly-detection/` (que também tem uma subpasta `articles/`). Linkar sempre pelo caminho da pasta (`pt-br/research/dark-matter-shocks`), nunca com o nome do arquivo (`.../dark-matter-shocks/index.md`) — ambos resolvem, mas só o primeiro segue a convenção do resto do vault.
+
+Sempre que um projeto novo for adicionado: (a) criar a entrada em `pt-br/research/index.md` (carrossel + lista de "Projetos"), e (b) adicionar referência cruzada nos projetos relacionados já existentes — a seção "Referências e correlatos" de cada projeto deveria formar um "triângulo" apontando pros outros projetos relevantes, não só receber links deles.
+
 ## Material de `hardcore-life` (outro vault)
 
 `/home/pedro/Documentos/hardcore-life` é um vault Obsidian separado (notas pessoais, projetos, recursos de estudo). **Não é a fonte do site** — é de onde materiais específicos são selecionados e copiados manualmente, um de cada vez, nunca em bloco.
