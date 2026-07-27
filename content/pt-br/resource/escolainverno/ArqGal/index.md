@@ -1,6 +1,5 @@
 ---
 publish: true
-password: "409182ph"
 title: Arqueologia Galáctica
 created: 2026-07-22
 modified: 2026-07-26T11:03:14.091-03:00
