@@ -27,9 +27,9 @@ order: 1
     <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF" />
     <div class="slide-caption">ReLaTeX (Classe LaTeX)</div>
   </a>
-  <a href="/pt-br/research/anomaly-detection/articles" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="Artigos" />
-    <div class="slide-caption">Artigos</div>
+  <a href="/pt-br/research/journal-clubs" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="Journal Clubs" />
+    <div class="slide-caption">Journal Clubs</div>
   </a>
 </div>
 
@@ -58,5 +58,5 @@ Meu trabalho está na interseção entre **métodos computacionais** e **problem
 
 ## Leituras
 
-- [Artigos](pt-br/research/anomaly-detection/articles) — Anotações de leitura sobre artigos científicos relevantes para minha pesquisa.
+- [Journal Clubs](pt-br/research/journal-clubs) — Lista curada de artigos discutidos em grupo (MWBR e ENGCOMP), com a discussão de cada um.
 - **[Fundamentos de Evolução Química da Galáxia](assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)** (W. Maciel, IAG/USP) — livro de referência da minha área, distribuído gratuitamente pelo autor.

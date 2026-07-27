@@ -634,3 +634,62 @@ details.author-details[open] .author-summary {
   color: var(--gray);
   margin: 0;
 }
+
+/* --- Journal Clubs (pt-br/research/journal-clubs) ---
+   Deliberately not the media-carousel component: these are article citations,
+   not images, so a vertical list of text cards reads better than a horizontal
+   image strip. */
+.jc-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  margin: 1.5rem 0;
+}
+
+.jc-card {
+  display: block;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background: var(--light);
+  text-decoration: none;
+  color: inherit;
+  transition:
+    border-color 0.15s ease,
+    transform 0.15s ease;
+}
+
+.jc-card:hover {
+  border-color: var(--secondary);
+  transform: translateX(2px);
+}
+
+.jc-card-title {
+  font-weight: 600;
+  color: var(--dark);
+  margin-bottom: 0.2rem;
+}
+
+.jc-card-meta {
+  font-size: 0.85rem;
+  color: var(--gray);
+  margin-bottom: 0.35rem;
+}
+
+.jc-card-summary {
+  font-size: 0.95rem;
+  color: var(--darkgray);
+  margin-bottom: 0.45rem;
+}
+
+.jc-card-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  background: var(--highlight);
+  color: var(--secondary);
+}
