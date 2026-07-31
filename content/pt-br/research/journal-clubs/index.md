@@ -3,6 +3,7 @@ publish: true
 title: Journal Clubs
 created: 2026-07-26
 modified: 2026-07-26
+published: 2026-07-26T23:14:10.362-03:00
 ---
 
 > [!note] Resumo
@@ -19,6 +20,7 @@ Diferente de uma simples anotação de leitura individual, um Journal Club aqui 
 
 > [!example] Modelo de nota de artigo
 > Toda nota de artigo discutido segue a mesma estrutura, para ficar fácil escanear a lista:
+>
 > ```markdown
 > ---
 > publish: true

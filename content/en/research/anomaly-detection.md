@@ -80,7 +80,7 @@ A central methodological decision was understanding the difference between feedi
 
 I ran t-SNE over the normalized spectra (HDU 1 of each star/CCD's FITS file) under several configurations, comparing against the column-based approach:
 
-![t-SNE over raw spectra (4 concatenated CCDs, ~5,900 stars), colored by catalog Teff, log g, and \[Fe/H\] — used as an honesty check on the clustering.](assets/anomaly-detection/tsne-espectros-brutos.png)
+![t-SNE over raw spectra (4 concatenated CCDs, ~5,900 stars), colored by catalog Teff, log g, and \[Fe/H\](assets/anomaly-detection/tsne-espectros-brutos.png)
 
 ![Comparison of different t-SNE perplexities over the spectra (pixel data), colored by effective temperature — higher perplexities smooth out local structure in favor of global structure.](assets/anomaly-detection/tsne-comparacao-perplexidade.png)
 

@@ -15,7 +15,7 @@ type: blog
 
 ## 🗓️ Sobre o evento
 
-Página dedicada à participação no **[Congresso de Ensino Pesquisa e Extensão](https://conepe.guarus.iff.edu.br) do IFF *Campus* Guarus**, em Campos Guarus - RJ, realizada de 21 a 23 de Setembro de 2026.
+Página dedicada à participação no **[Congresso de Ensino Pesquisa e Extensão](https://conepe.guarus.iff.edu.br) do IFF _Campus_ Guarus**, em Campos Guarus - RJ, realizada de 21 a 23 de Setembro de 2026.
 
 ## 👋 Minha participação
 

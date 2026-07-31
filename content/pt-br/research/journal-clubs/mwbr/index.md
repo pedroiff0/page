@@ -3,6 +3,7 @@ publish: true
 title: Journal Club — MWBR
 created: 2026-07-26
 modified: 2026-07-26
+published: 2026-07-26T23:19:25.683-03:00
 ---
 
 > [!note] Resumo

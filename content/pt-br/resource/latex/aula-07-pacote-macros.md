@@ -2,6 +2,8 @@
 publish: false
 title: "Aula 07 — Pacote de Conteúdo: macros.sty"
 created: 2026-07-26
+modified: 2026-07-26T23:54:06.103-03:00
+published: 2026-07-26T23:54:06.103-03:00
 tags:
   - latex
   - escrita

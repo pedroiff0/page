@@ -11,14 +11,12 @@ type: blog
 # 🏫 Mostra do Conhecimento - 2026
 
 > [!note] Resumo
-> 
 
 ## 🗓️ Sobre o evento
 
 Página dedicada à participação na **[Mostra do Conhecimento](https://eventos.iff.edu.br/mostradoconhecimento2026) do IFF, campus Bom Jesus do Itabapoana**, em Bom Jesus do Itabapoana - RJ, realizada de 21 a 26 de setembro de 2026.
 
 ## 👋 Minha participação
-
 
 ## 🎤 Palestras e minicursos assistidos
 

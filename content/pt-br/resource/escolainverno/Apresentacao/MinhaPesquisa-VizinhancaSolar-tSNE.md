@@ -1,11 +1,9 @@
 ---
 publish: true
 title: Vizinhança Solar com t-SNE
-titulo: MinhaPesquisa-VizinhancaSolar-tSNE
-disciplina: Apresentação de Pesquisa
-conteudo: Mapeamento não supervisionado da vizinhança solar com GCNS + GALAH DR4 usando t-SNE
-professor: Orientação de Maria Luiza Linhares Dantas
 created: 2026-07-22T00:00:00-03:00
+modified: 2026-07-26T17:53:06.252-03:00
+published: 2026-07-26T17:53:06.252-03:00
 tags:
   - pesquisa
   - t-sne
@@ -16,16 +14,24 @@ tags:
 cssclasses:
   - page-grid
   - center-images
+titulo: MinhaPesquisa-VizinhancaSolar-tSNE
+disciplina: Apresentação de Pesquisa
+conteudo: Mapeamento não supervisionado da vizinhança solar com GCNS + GALAH DR4 usando t-SNE
+professor: Orientação de Maria Luiza Linhares Dantas
 ---
+
 # 🔭 Minha Pesquisa — Mapeando a Vizinhança Solar com t-SNE
 
 > [!abstract] Sobre esta nota
 > Bem vindos ao site da minha pesquisa! Aqui vocês encontram os banners (versão inglês e português), e os atuais avanços já alcançados. Qualquer dúvida, entre em contato!
+
 ---
 
 > [!note] Disclaimer
 > O título original apresentado durante a escola não foi o mesmo enviado! Mas é o mesmo projeto, em fases diferentes.
+
 ---
+
 ## 📎 Banners
 
 > [[assets/banners/BannerSBPC26.pdf]]
@@ -44,16 +50,17 @@ cssclasses:
 ---
 
 ## 🎯 Do que se trata a pesquisa, em uma frase
-	
+
 Estou tentando entender **quem são as estrelas perto do Sol** — de onde vieram, que idade têm, que "sotaque químico" carregam — utilizando gráficos clássicos da literatura para caracterizar essas estrelas, e posteriormente utilizando um algoritmo não supervisionado para separar e analisar possíveis anomalias, com base no espectro!
 
 ---
 
 ## 🧑‍🤝‍🧑 Quem fez
 
-* Autor: [Pedro Henrique Rocha de Andrade](http://lattes.cnpq.br/6818168089966785)
-* Orientadora: [Prof. Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)
-* Co-orientadora: [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com)
+- Autor: [Pedro Henrique Rocha de Andrade](http://lattes.cnpq.br/6818168089966785)
+- Orientadora: [Prof. Dra. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja)
+- Co-orientadora: [Dra. Maria Luiza Linhares Dantas](https://www.mlldantas.com)
+
 ---
 
 ## 🌌 Por que olhar para a "vizinhança solar"?
@@ -66,16 +73,16 @@ Essa ideia de usar a composição química das estrelas como pista da história 
 
 Dois catálogos entram nessa história:
 
-- **[GCNS](https://www.cosmos.esa.int/web/gaia/edr3-gcns) (Gaia Catalogue of Nearby Stars):** vem da missão espacial *Gaia* e reúne astrometria e fotometria de altíssima precisão para cerca de **330 mil estrelas** dentro de 100 parsecs do Sol — basicamente o "censo" de quem mora no nosso quintal galáctico.
-- **[GALAH DR4](https://www.galah-survey.org/dr4/overview/):** um levantamento espectroscópico terrestre (*GALactic Archaeology with HERMES*) que observou quase **1 milhão de estrelas** e fornece, para cada uma, até **30 abundâncias químicas diferentes**, além do espectro reduzido e normalizado.
+- **[GCNS](https://www.cosmos.esa.int/web/gaia/edr3-gcns) (Gaia Catalogue of Nearby Stars):** vem da missão espacial _Gaia_ e reúne astrometria e fotometria de altíssima precisão para cerca de **330 mil estrelas** dentro de 100 parsecs do Sol — basicamente o "censo" de quem mora no nosso quintal galáctico.
+- **[GALAH DR4](https://www.galah-survey.org/dr4/overview/):** um levantamento espectroscópico terrestre (_GALactic Archaeology with HERMES_) que observou quase **1 milhão de estrelas** e fornece, para cada uma, até **30 abundâncias químicas diferentes**, além do espectro reduzido e normalizado.
 
-Cruzando esses dois catálogos por identificação segura de cada estrela (`sobject_id` do *Gaia*), sobra uma amostra de **cerca de 5 a 6 mil estrelas** que têm tanto a posição/movimento precisos do Gaia quanto a "ficha química" completa do GALAH. É nessa amostra combinada que a análise inteira acontece.
+Cruzando esses dois catálogos por identificação segura de cada estrela (`sobject_id` do _Gaia_), sobra uma amostra de **cerca de 5 a 6 mil estrelas** que têm tanto a posição/movimento precisos do Gaia quanto a "ficha química" completa do GALAH. É nessa amostra combinada que a análise inteira acontece.
 
 ---
 
 ## 🧠 A ideia central: deixar o t-SNE "descobrir" sozinho
 
-Eu alimento o algoritmo **diretamente com o fluxo espectral normalizado** — ou seja, o espectro bruto (já tratado) de cada estrela, que tem milhares de pontos (dimensões). O algoritmo usado é o **t-SNE** (*t-distributed Stochastic Neighbor Embedding*): ele pega esse espaço de altíssima dimensão e "achata" numa projeção 2D, tentando preservar ao máximo quem estava perto de quem originalmente — estrelas com espectros parecidos acabam próximas no mapa final, mesmo sem eu ter dito ao algoritmo o que procurar.
+Eu alimento o algoritmo **diretamente com o fluxo espectral normalizado** — ou seja, o espectro bruto (já tratado) de cada estrela, que tem milhares de pontos (dimensões). O algoritmo usado é o **t-SNE** (_t-distributed Stochastic Neighbor Embedding_): ele pega esse espaço de altíssima dimensão e "achata" numa projeção 2D, tentando preservar ao máximo quem estava perto de quem originalmente — estrelas com espectros parecidos acabam próximas no mapa final, mesmo sem eu ter dito ao algoritmo o que procurar.
 
 Só **depois** de gerar essa projeção 2D é que eu volto e coloro cada ponto pelos parâmetros físicos já conhecidos (temperatura efetiva `Teff`, gravidade superficial `logg`, metalicidade `[Fe/H]`) — isso funciona como um teste de honestidade do método: se o algoritmo realmente capturou física de verdade (e não só ruído), esses parâmetros deveriam variar suavemente pelo mapa, em vez de aparecerem espalhados ao acaso.
 
@@ -108,13 +115,14 @@ Usando a amostra pra **caracterizar de fato quem são essas estrelas da vizinhan
 - **Diagrama de Tinsley-Wallerstein** (`[Mg/Fe]` vs. `[Fe/H]`, comparado com a referência de Recio-Blanco et al. 2014): esse é o clássico "mapa" para separar disco fino de disco espesso químicamente, olhando o quanto cada população é enriquecida em elementos-$\alpha$ (como o magnésio) em relação ao ferro.
 
 ### O que esses diagramas mostram, na prática
+
 A vizinhança solar analisada é dominada por estrelas de **sequência principal dos tipos F, G e K**, com **idade mediana em torno de 1,6 bilhão de anos** e uma **leve deficiência de metais** em relação ao Sol (`[Fe/H]` mediano ≈ −0,19 dex — ou seja, um pouquinho menos "temperada" em metais que o Sol). O diagrama de Kiel bate bem com as isócronas teóricas, o que dá confiança nos parâmetros espectroscópicos usados. O diagrama de Toomre confirma que a amostra é majoritariamente de **disco galáctico**, com só uma fração pequena de estrelas de halo. E, entre as estrelas de disco espesso presentes na amostra, a componente mais comum é justamente a **rica em metais e enriquecida em elementos-$\alpha$** — só que aqui vale uma ressalva importante: isso pode ser, em parte, um efeito da **função de seleção** combinada dos dois catálogos (ou seja, um viés de quais estrelas entraram na amostra), não necessariamente um fato 100% intrínseco da Galáxia.
 
 ---
 
 ## 🔮 Próximos passos
 
-A ideia daqui pra frente é usar **clusterização baseada em densidade** (como o algoritmo **HDBSCAN**) em cima da projeção do t-SNE, para caracterizar de forma mais objetiva (e não só visual) aquele subgrupo destacado que apareceu tanto em perplexidade 30 quanto em 50 — e complementar com mais diagnósticos de *chemical tagging* (comparação detalhada de abundâncias químicas) pra testar se esse grupo é mesmo uma população à parte.
+A ideia daqui pra frente é usar **clusterização baseada em densidade** (como o algoritmo **HDBSCAN**) em cima da projeção do t-SNE, para caracterizar de forma mais objetiva (e não só visual) aquele subgrupo destacado que apareceu tanto em perplexidade 30 quanto em 50 — e complementar com mais diagnósticos de _chemical tagging_ (comparação detalhada de abundâncias químicas) pra testar se esse grupo é mesmo uma população à parte.
 
 ---
 
@@ -127,12 +135,13 @@ A ideia daqui pra frente é usar **clusterização baseada em densidade** (como 
 - **GALAH DR4:** levantamento espectroscópico com abundâncias químicas detalhadas de quase 1 milhão de estrelas.
 - **Diagrama de Kiel:** como o diagrama HR, mas com gravidade superficial no lugar de luminosidade — usado com isócronas para estimar idades.
 - **Diagrama de Toomre:** separa estrelas de disco e de halo pela velocidade espacial em relação ao Sol.
-- **`[Fe/H]`, `[Mg/Fe]`:** notações de abundância química 
+- **`[Fe/H]`, `[Mg/Fe]`:** notações de abundância química
 - **dex:** unidade logarítmica (base 10) usada para expressar essas razões de abundância.
 
 ---
 
 ## 🔗 Referências e correlatos
+
 - [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — conceitos de populações estelares, metalicidade e classificação espectral usados nesta pesquisa
 - [Computação — Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02) — aprendizado de máquina não supervisionado (t-SNE)
 - [Resumo Geral](Escola-de-Inverno.md) — panorama geral da Escola de Inverno

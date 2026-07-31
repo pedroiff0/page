@@ -80,8 +80,8 @@ Sempre que um projeto novo for adicionado: (a) criar a entrada em `pt-br/researc
 
 Sempre que uma nota mencionar uma destas pessoas pela primeira vez, linkar o nome pra página pessoal dela:
 
-- Ana Cecília Soja: [https://integra.iff.edu.br/p/ana-cecilia-soja](https://integra.iff.edu.br/p/ana-cecilia-soja)
-- Maria Luiza Linhares Dantas: [https://www.mlldantas.com](https://www.mlldantas.com)
-- Rogério Monteiro-Oliveira: [https://www.monteiro-oliveira.com](https://www.monteiro-oliveira.com)
-- Maycon Jorge Deláqua da Silva: [https://mayconjdelaqua.vercel.app/](https://mayconjdelaqua.vercel.app/)
-- Ana Mara Figueiredo de Oliveira: [https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora)
+- Ana Cecília Soja: <https://integra.iff.edu.br/p/ana-cecilia-soja>
+- Maria Luiza Linhares Dantas: <https://www.mlldantas.com>
+- Rogério Monteiro-Oliveira: <https://www.monteiro-oliveira.com>
+- Maycon Jorge Deláqua da Silva: <https://mayconjdelaqua.vercel.app/>
+- Ana Mara Figueiredo de Oliveira: <https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora>

@@ -1,8 +1,9 @@
 ---
 publish: false
-title: "Aula 09 — Slides com slidesiffmodelo.cls"
+title: Aula 09 — Slides com slidesiffmodelo.cls
 created: 2026-07-26
 modified: 2026-07-26
+published: 2026-07-26T23:54:06.103-03:00
 tags:
   - latex
   - escrita
@@ -221,6 +222,7 @@ A capa (`title page`) desenha três colunas — logos à esquerda, título/autor
 
 > [!warning] Terceira assinatura diferente — não confundir com Aula 07 nem Aula 10
 > Cada classe da "família" ABNT/IFF-BJI define seu próprio `\inserirfigura`, com ordem de argumentos própria:
+>
 > - `ifftese.cls` (Aula 07): `[opções]{arquivo}{legenda-longa}{legenda-curta}{fonte}{label}` — 6 posições, com legenda curta (Lista de Figuras).
 > - `iffposter.cls` (Aula 10): `[largura]{arquivo}{legenda}{fonte}{label}` — 5 posições, sem legenda curta.
 > - `slidesiffmodelo.cls` (aqui): `[opções={height=...,width=...}]{arquivo}{legenda}{fonte}{label}` — 5 posições como o pôster, mas o argumento opcional aceita chaves de `\includegraphics` inteiras (`height`/`width`/`keepaspectratio`), não só uma largura, e o `\caption` é montado **antes** do `\includegraphics` no código (a ordem de renderização na página não muda — legenda continua no topo, por causa de `\captionsetup{position=top}` no §9 abaixo).
@@ -283,7 +285,7 @@ Funciona em qualquer distribuição LaTeX moderna ou no Overleaf.
 
 ## 📦 Modelo completo preenchido
 
-**[Baixar modelo-slide-iffbji.zip](assets/biblioteca/latex-escrita/modelo-slide-iffbji.zip)** — não é um exemplo genérico: usa o conteúdo científico real do mesmo trabalho descrito em [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection), com o cabeçalho oficial do evento e os logos de fomento (FAPERJ/CNPq) inclusos — introdução, catálogos utilizados (Gaia GCNS, GALAH DR4), objetivos, metodologia, os mesmos 4 gráficos de resultado do pôster (Kiel, Toomre, Tinsley-Wallerstein, [Fe/H]–[Mg/Fe]) e conclusões. Título e segundo autor ficam como campos de exemplo, prontos para você substituir pelos seus. Compilado e verificado antes de publicar.
+**[Baixar modelo-slide-iffbji.zip](assets/biblioteca/latex-escrita/modelo-slide-iffbji.zip)** — não é um exemplo genérico: usa o conteúdo científico real do mesmo trabalho descrito em [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection), com o cabeçalho oficial do evento e os logos de fomento (FAPERJ/CNPq) inclusos — introdução, catálogos utilizados (Gaia GCNS, GALAH DR4), objetivos, metodologia, os mesmos 4 gráficos de resultado do pôster (Kiel, Toomre, Tinsley-Wallerstein, \[Fe/H]–\[Mg/Fe]) e conclusões. Título e segundo autor ficam como campos de exemplo, prontos para você substituir pelos seus. Compilado e verificado antes de publicar.
 
 ---
 

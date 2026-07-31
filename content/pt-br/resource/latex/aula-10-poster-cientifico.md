@@ -1,7 +1,9 @@
 ---
 publish: false
-title: "Aula 10 — Pôster Científico com iffposter.cls"
+title: Aula 10 — Pôster Científico com iffposter.cls
 created: 2026-07-26
+modified: 2026-07-26T23:54:06.103-03:00
+published: 2026-07-26T23:54:06.103-03:00
 tags:
   - latex
   - escrita
@@ -136,7 +138,7 @@ Sem `maior`: pôster "menor" (70×120cm), com fontes relativas padrão (`\huge`,
 }}
 ```
 
-O truque de layout: `\hspace*{\fill}...\hfill...\hfill...\hspace*{\fill}` cria espaço elástico **antes, entre e depois** das imagens presentes — não importa se você define uma, duas ou três, elas sempre ficam centralizadas como grupo, com espaçamento uniforme entre si. `\AddToShipoutPictureBG*` desenha isso no *background* da página (atrás do conteúdo), e a classe recalcula a área útil de texto (`\newgeometry` com `top`/`bottom` dependendo de `\headerH`/`\footerH`) automaticamente, para o texto nunca invadir essas faixas.
+O truque de layout: `\hspace*{\fill}...\hfill...\hfill...\hspace*{\fill}` cria espaço elástico **antes, entre e depois** das imagens presentes — não importa se você define uma, duas ou três, elas sempre ficam centralizadas como grupo, com espaçamento uniforme entre si. `\AddToShipoutPictureBG*` desenha isso no _background_ da página (atrás do conteúdo), e a classe recalcula a área útil de texto (`\newgeometry` com `top`/`bottom` dependendo de `\headerH`/`\footerH`) automaticamente, para o texto nunca invadir essas faixas.
 
 ## 7. Sistema de logos e `\maketitle`
 
@@ -200,7 +202,7 @@ Salva a implementação original (`\let\OLDthebibliography\thebibliography`) e a
 
 ## 📦 Modelo completo preenchido
 
-**[Baixar modelo-iffposter-banner.zip](assets/biblioteca/latex-escrita/modelo-iffposter-banner.zip)** — não é um exemplo fictício: é o pôster real que usei na XIV Mostra do Conhecimento e VII Feira de Oportunidades (IFF-BJI), a mesma pesquisa descrita em [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — introdução, metodologia, os 4 gráficos reais (diagramas de Kiel, Toomre, Tinsley-Wallerstein, distribuição \[Fe/H\]–\[Mg/Fe\]), resultados (228 estrelas candidatas a halo) e conclusões, com o cabeçalho oficial do evento e os logos de fomento (FAPERJ/CNPq) inclusos. Compilado e verificado (1 página, sem erros) antes de publicar.
+**[Baixar modelo-iffposter-banner.zip](assets/biblioteca/latex-escrita/modelo-iffposter-banner.zip)** — não é um exemplo fictício: é o pôster real que usei na XIV Mostra do Conhecimento e VII Feira de Oportunidades (IFF-BJI), a mesma pesquisa descrita em [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — introdução, metodologia, os 4 gráficos reais (diagramas de Kiel, Toomre, Tinsley-Wallerstein, distribuição \[Fe/H]–\[Mg/Fe]), resultados (228 estrelas candidatas a halo) e conclusões, com o cabeçalho oficial do evento e os logos de fomento (FAPERJ/CNPq) inclusos. Compilado e verificado (1 página, sem erros) antes de publicar.
 
 ---
 

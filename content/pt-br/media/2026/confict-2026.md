@@ -1,10 +1,13 @@
 ---
 publish: true
 title: CONFICT - 2026
-photoFolder: confict2026
 created: 2026-07-18T13:50:21.240-03:00
+modified: 2026-07-26T16:26:38.444-03:00
+published: 2026-07-26T16:26:38.444-03:00
+photoFolder: confict2026
 type: blog
 ---
+
 # 🔬 CONFICT - 2026
 
 > [!note] Resumo
@@ -31,4 +34,3 @@ Apresentei o meu trabalho de pesquisa em uma sessão de apresentação oral, e a
 
 - [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — pesquisa completa por trás do pôster
 - [SAB 2025](pt-br/media/2025/sab-2025) — versão anterior do mesmo pôster
-

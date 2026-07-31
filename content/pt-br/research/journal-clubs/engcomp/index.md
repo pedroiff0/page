@@ -3,6 +3,7 @@ publish: true
 title: Journal Club — ENGCOMP
 created: 2026-07-26
 modified: 2026-07-26
+published: 2026-07-26T23:19:25.671-03:00
 ---
 
 > [!note] Resumo
