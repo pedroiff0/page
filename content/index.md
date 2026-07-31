@@ -6,7 +6,7 @@ modified: 2026-07-18T15:19:07.958-03:00
 published: 2026-07-26T10:01:47.627-03:00
 ---
 
-[[pt-br/index|Sobre mim]] --- [[en/index|About me]] --- [[fr/index|# À propos de moi]] --- [[es/index|Sobre mí]]
+[[pt-br/index|Sobre mim]] --- [[en/index|About me]] --- [[fr/index|À propos de moi]] --- [[es/index|Sobre mí]]
 
 No painel superior esquerdo, selecione PT (Português Brasil).
 
