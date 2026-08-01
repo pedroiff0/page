@@ -90,7 +90,7 @@ LaTeX não é só para a universidade. As mesmas ferramentas que fazem um TCC ob
 
 Este material não nasceu de um tutorial: nasceu de um projeto de pesquisa. O **[ReLaTeX](pt-br/research/relatex)** desenvolveu a classe `ifftese.cls` e o pacote `macros.sty` para automatizar o cumprimento das normas ABNT (NBR 14724, NBR 6027) em trabalhos do Instituto Federal Fluminense — atacando exatamente a barreira que faz gente desistir do LaTeX no primeiro dia.
 
-O trabalho foi apresentado no **[CONEPE 2026](pt-br/media/2026/conepe-2026)**, em coautoria com [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja), [Maria Luiza Linhares Dantas](https://www.mlldantas.com) e [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora), e segue em desenvolvimento — inclusive uma interface web, no estilo do Overleaf, focada só nessa classe, para quem prefere preencher formulários a editar código.
+O trabalho será apresentado no **CONEPE 2026** (setembro), em coautoria com [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja), [Maria Luiza Linhares Dantas](https://www.mlldantas.com) e [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora), e segue em desenvolvimento — inclusive uma interface web, no estilo do Overleaf, focada só nessa classe, para quem prefere preencher formulários a editar código.
 
 As aulas 06 a 08 são, literalmente, a documentação interna desse projeto aberta ao público. [Conheça o ReLaTeX →](pt-br/research/relatex)
 

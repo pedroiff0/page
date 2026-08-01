@@ -2,26 +2,51 @@
 publish: true
 title: MWBR
 created: 2026-07-26
-modified: 2026-07-26
+modified: 2026-07-31
 ---
 
 > [!note] Resumo
 > Artigos discutidos no journal club do **MWBR**, grupo de pesquisa em Via Láctea, arqueologia galáctica e populações estelares. Ver o [padrão de cada entrada](pt-br/research/journal-clubs#padrão-de-cada-entrada).
 
-<div class="jc-list">
+A tabela abaixo é gerada a partir do frontmatter das próprias notas de artigo desta pasta — uma nota nova aparece sozinha no próximo build, sem editar esta página.
 
-<!-- Cada artigo discutido vira um card aqui, ex:
-<a href="/pt-br/research/journal-clubs/mwbr/NOME-DA-NOTA" class="jc-card">
-  <div class="jc-card-title">Título do artigo</div>
-  <div class="jc-card-meta">Autores et al. · Ano · discutido em AAAA-MM-DD</div>
-  <div class="jc-card-summary">Uma linha sobre do que trata / por que importa.</div>
-  <span class="jc-card-tag">arXiv</span>
-</a>
--->
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/research/journal-clubs/mwbr")'
+    - 'file.name != "index"'
+formulas:
+  artigo: 'link(file.path, note.title)'
+  # A URL do arXiv entra como texto e o Quartz a transforma em link externo
+  # sozinho. Não usar link() aqui: ele só resolve caminho interno e transforma
+  # uma URL em "../../https/arxiv.org/...". html() também não serve — o markup
+  # é escapado antes de chegar na célula.
+properties:
+  formula.artigo:
+    displayName: Artigo
+  note.authors:
+    displayName: Autoria
+  note.year:
+    displayName: Ano
+  note.discutido:
+    displayName: Discutido em
+  note.arxiv:
+    displayName: arXiv
+views:
+  - type: table
+    name: Artigos discutidos
+    order:
+      - formula.artigo
+      - note.authors
+      - note.year
+      - note.discutido
+      - note.arxiv
+    sort:
+      - property: note.discutido
+        direction: DESC
+```
 
-</div>
-
-_Nenhum artigo publicado ainda — em curadoria._
+_Nenhum artigo publicado ainda — em curadoria._ <!-- apagar esta linha quando a primeira nota de artigo entrar -->
 
 ---
 

@@ -15,10 +15,12 @@ Diferente de uma simples anotação de leitura individual, um Journal Club aqui 
 - **[MWBR](pt-br/research/journal-clubs/mwbr)** — grupo de pesquisa em Via Láctea, arqueologia galáctica e populações estelares.
 - **[ENGCOMP](pt-br/research/journal-clubs/engcomp)** — journal club de Engenharia de Computação.
 
+Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatter das notas da pasta, via [Bases do Obsidian](https://help.obsidian.md/bases) — não há lista escrita à mão para manter em dia.
+
 ## Padrão de cada entrada
 
 > [!example] Modelo de nota de artigo
-> Toda nota de artigo discutido segue a mesma estrutura, para ficar fácil escanear a lista:
+> Toda nota de artigo discutido segue a mesma estrutura. Os quatro primeiros campos alimentam a tabela da página do grupo, que é gerada automaticamente — basta criar a nota na pasta certa (`mwbr/` ou `engcomp/`) e ela aparece sozinha no próximo build.
 > ```markdown
 > ---
 > publish: true
@@ -26,7 +28,7 @@ Diferente de uma simples anotação de leitura individual, um Journal Club aqui 
 > authors: "Sobrenome, A. et al."
 > year: 2026
 > arxiv: "https://arxiv.org/abs/XXXX.XXXXX"
-> date-discussed: 2026-MM-DD
+> discutido: 2026-MM-DD
 > tags:
 >   - journal-club
 >   - mwbr # ou engcomp

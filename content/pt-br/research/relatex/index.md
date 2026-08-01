@@ -11,7 +11,7 @@ tags:
 # 📄 ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF
 
 > [!note] Resumo
-> Desenvolvimento da classe tipográfica `ifftese.cls` e do pacote de extensão `macros.sty` para LaTeX, com o objetivo de automatizar o cumprimento das normas ABNT (NBR 14724, NBR 6027) em trabalhos acadêmicos do Instituto Federal Fluminense — reduzindo drasticamente o tempo gasto formatando manualmente capas, tabelas, figuras e elementos pré/pós-textuais. Apresentado no [CONEPE 2026](pt-br/media/2026/conepe-2026) (Campos Guarus, RJ), em coautoria com [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja), [Maria Luiza Linhares Dantas](https://www.mlldantas.com) e [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora)
+> Desenvolvimento da classe tipográfica `ifftese.cls` e do pacote de extensão `macros.sty` para LaTeX, com o objetivo de automatizar o cumprimento das normas ABNT (NBR 14724, NBR 6027) em trabalhos acadêmicos do Instituto Federal Fluminense — reduzindo drasticamente o tempo gasto formatando manualmente capas, tabelas, figuras e elementos pré/pós-textuais. A ser apresentado no CONEPE 2026 (Campos Guarus, RJ, 21 a 23 de setembro), em coautoria com [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja), [Maria Luiza Linhares Dantas](https://www.mlldantas.com) e [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora)
 
 <div class="media-carousel">
   <a href="/pt-br/research/relatex" class="carousel-slide">
@@ -51,7 +51,7 @@ O encapsulamento dessas rotinas em macros parametrizadas cumpriu o objetivo: red
 
 ## 🏆 Apresentações
 
-Este projeto foi apresentado no **[CONEPE 2026](pt-br/media/2026/conepe-2026)** (Congresso de Ensino, Pesquisa e Extensão do IFF *Campus* Guarus).
+Este projeto será apresentado no **CONEPE 2026** (Congresso de Ensino, Pesquisa e Extensão do IFF *Campus* Guarus), de 21 a 23 de setembro de 2026.
 
 ## 🔗 Referências e correlatos
 
@@ -60,6 +60,6 @@ Este projeto foi apresentado no **[CONEPE 2026](pt-br/media/2026/conepe-2026)** 
 - KNUTH, D. E. *The TeXbook*. Reading, Massachusetts: Addison-Wesley, 1986.
 - LAMPORT, L. *LaTeX: A Document Preparation System*. 2ª ed. Reading, Massachusetts: Addison-Wesley, 1994.
 - EQUIPE ABNTEX2 — [a classe abntex2](https://github.com/abntex/abntex2), base de compatibilidade ABNT usada neste projeto.
-- [CONEPE - 2026](pt-br/media/2026/conepe-2026) — cobertura da apresentação
+- CONEPE 2026 — a cobertura da apresentação entra aqui depois do evento (setembro de 2026).
 - [LaTeX e Escrita Acadêmica](pt-br/resource/latex) — o curso construído em cima deste projeto; as aulas 06 a 08 documentam `ifftese.cls`, `macros.sty` e `metadados.sty` linha a linha.
 - [Modelos Corporativos](pt-br/resource/latex/modelos-corporativos) — a mesma arquitetura de classe aplicada fora da academia, com manual de marca no lugar da ABNT.

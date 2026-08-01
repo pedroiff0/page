@@ -754,3 +754,13 @@ details.author-details[open] .author-summary {
   text-align: center;
   color: var(--gray);
 }
+
+/* --- Bases (plugin bases-page) ---
+   O plugin só traz strings en-US, então uma view vazia imprime "No data found."
+   num site inteiramente pt-BR. Esconder é mais barato que forkar o plugin por
+   causa de uma string; as páginas que hoje têm view vazia trazem a própria
+   frase em português no markdown. Quando houver dados, a tabela renderiza
+   normalmente e esta regra não se aplica. */
+.bases-empty {
+  display: none;
+}
