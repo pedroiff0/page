@@ -43,7 +43,21 @@ Publicação normalmente acontece via:
 1. **Quartz Syncer** (plugin do Obsidian) — publica notas marcadas com `publish: true`. Tem um bug conhecido e aberto onde a central de publicação mostra "sucesso" mas não empurra nada de fato ([issue #123](https://github.com/saberzero1/quartz-syncer/issues/123)). Se isso acontecer, publicar manualmente com `npx quartz sync`.
 2. **`npx quartz sync`** — puxa, commita e dá push. Confiável, usar como plano B.
 
-**Configuração do plugin importa**: nas settings do Quartz Syncer (aba Frontmatter), `Frontmatter Format` precisa estar em **YAML** (não JSON) e `Include all frontmatter` precisa estar **ligado**. Já aconteceu de essas duas ficarem erradas (JSON + desligado) e o publish serializar o frontmatter inteiro como um JSON de uma linha, derrubando qualquer campo customizado que o plugin não gerencia (`titulo`, `disciplina`, `professor` em notas de aula, por exemplo) e republicando frontmatter desatualizado (títulos antigos, com emoji). Se um `git log`/diff mostrar frontmatter virando `{"publish":true,...}` numa linha só, é esse bug — conferir essas duas configurações antes de qualquer coisa.
+**Configuração do plugin importa**: nas settings do Quartz Syncer (aba Frontmatter), `Frontmatter Format` precisa estar em **YAML** (não JSON) e `Include all frontmatter` precisa estar **ligado**. Em 01/08/2026 as duas estavam erradas de novo no `data.json` do plugin (`"frontmatterFormat": "json"`, `"includeAllFrontmatter": false`) e foram corrigidas no arquivo; `useBases` também foi ligado, porque as páginas de Journal Club dependem de blocos ` ```base `. Como o Obsidian reescreve esse arquivo ao fechar, **conferir na interface** depois de mexer. Já aconteceu de essas duas ficarem erradas (JSON + desligado) e o publish serializar o frontmatter inteiro como um JSON de uma linha, derrubando qualquer campo customizado que o plugin não gerencia (`titulo`, `disciplina`, `professor` em notas de aula, por exemplo) e republicando frontmatter desatualizado (títulos antigos, com emoji). Se um `git log`/diff mostrar frontmatter virando `{"publish":true,...}` numa linha só, é esse bug — conferir essas duas configurações antes de qualquer coisa.
+
+### A armadilha das caixas de "despublicar" (já apagou o repo duas vezes)
+
+Este repositório guarda **o vault inteiro** — notas publicadas, rascunhos (`publish: false`), o motor do Quartz e a documentação. O Quartz Syncer, porém, trata `content/` como espelho do **subconjunto publicado**: tudo que existe no repo e não está publicável aparece na Central de Publicação como candidato a *despublicar*, e o que estiver marcado ali é **removido do repositório** junto com o publish.
+
+Foi isso — não um bug — que produziu os commits `Deleted 216 files` (31/07/2026) e `Deleted 222 files` (01/08/2026). A correlação é perfeita: dos 111 arquivos apagados no segundo caso, **110 eram `publish: false` e 1 não tinha o campo; nenhum arquivo publicado foi tocado**. Na primeira vez o site chegou a ir ao ar sem conteúdo.
+
+Ao publicar pelo plugin, portanto:
+
+1. Na Central de Publicação, conferir a seção de notas a **despublicar/remover** e **desmarcar tudo** que for rascunho ou arquivo de infraestrutura. Só marcar ali o que você realmente quer sumir do repositório.
+2. Publicar.
+3. Conferir com `git log --stat -1` que o commit não apagou nada inesperado.
+
+Há uma rede de segurança no CI: o job de deploy tem um passo **"Guarda contra deleção em massa"** que interrompe o deploy quando um push remove mais de 20 arquivos de `content/`, para o site não ir ao ar mutilado. Ele avisa, mas não desfaz — o conserto continua sendo reverter o commit. Para uma remoção grande e intencional, dispare o deploy pelo botão "Run workflow", que não passa pela checagem.
 
 **Cuidado com estado desatualizado**: publicações via Quartz Syncer refletem o estado local do vault Obsidian no momento do clique. Se este ambiente (onde outra sessão/Claude está editando) fez mudanças que ainda não "apareceram" no Obsidian local (ex: arquivos criados diretamente aqui), uma sincronização do plugin pode tentar reverter/apagar esse conteúdo. Sempre `git fetch && git log origin/main` antes de assumir que o remoto está no estado esperado, e resolver conflitos preservando conteúdo novo em vez de aceitar cegamente o lado remoto.
 
@@ -69,7 +83,7 @@ Sempre que um projeto novo for adicionado: (a) criar a entrada em `pt-br/researc
 
 ## Material de `hardcore-life` (outro vault)
 
-`/home/pedro/Documentos/hardcore-life` é um vault Obsidian separado (notas pessoais, projetos, recursos de estudo). **Não é a fonte do site** — é de onde materiais específicos são selecionados e copiados manualmente, um de cada vez, nunca em bloco.
+`~/hardcore-life` é um vault Obsidian separado (notas pessoais, projetos, recursos de estudo). **Não é a fonte do site** — é de onde materiais específicos são selecionados e copiados manualmente, um de cada vez, nunca em bloco.
 
 - Use `scripts/sync-material.sh "<caminho dentro de hardcore-life>" <topic-slug>` (na raiz do repo) pra copiar um arquivo pra `content/assets/computacao/<slug>/`. O script avisa (mas não bloqueia) se o nome do arquivo bate com padrões suspeitos (nome completo do usuário, "prova", "avaliação", fontes pirata como z-lib/kupdf/pdfcoffee).
 - **Nunca espelhar `05 - Recursos` inteiro.** Boa parte do conteúdo lá é: (a) cópias de livros com direitos autorais de terceiros, ou (b) provas/trabalhos pessoais com nome completo. Publicar isso no site público seria infração de copyright e exposição de dados pessoais, respectivamente.

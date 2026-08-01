@@ -47,7 +47,7 @@ npx quartz sync -m "descrição"  # commit + push do conteúdo (ver Deploy/Publi
 
 ## Localização física e múltiplos dispositivos
 
-Este repositório vive fisicamente em `~/Documentos/quartz-site` (standalone, fora do vault `hardcore-life`). Existe um symlink de compatibilidade em `~/Documentos/repositorios/quartz-site` apontando pra lá.
+Este repositório vive fisicamente em `~/Repositorios/pessoal/quartz-site` (standalone, fora do vault `hardcore-life`, que fica em `~/hardcore-life`). Ele já morou em `~/Documentos/quartz-site`, com um symlink em `~/Documentos/repositorios/quartz-site` — **os dois caminhos antigos não existem mais** (mudança de 01/08/2026). Se alguma automação ou anotação ainda apontar pra lá, é referência morta.
 
 - O Syncthing sincroniza `content/` (a pasta do vault Obsidian) como uma pasta própria (`quartz-content`, ver `.stfolder` em `content/`), independente do vault `hardcore-life` — não há mais aninhamento entre os dois.
 - O `.git` deste repo **não** é sincronizado pelo Syncthing (a pasta `content/` é a unidade sincronizada, e `.git` fica na raiz do repo, fora dela) — histórico e `origin` (pedroiff0/page) são geridos por git normalmente em cada dispositivo.
