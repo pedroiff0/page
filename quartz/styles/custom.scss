@@ -764,3 +764,47 @@ details.author-details[open] .author-summary {
 .bases-empty {
   display: none;
 }
+
+/* --- Journal Club: botão de ação e bloco de chamada ---
+   Usados direto no markdown das páginas do clube (mailto de sugestão, mailto de
+   inscrição no grupo, botão de copiar a chamada). As estatísticas do dashboard
+   trazem o próprio CSS, dentro de local-plugins/jc-dashboard. */
+.jc-button {
+  display: inline-block;
+  margin: 0.4rem 0 1.2rem;
+  padding: 0.55rem 1.1rem;
+  border: 1px solid var(--secondary);
+  border-radius: 8px;
+  background: var(--light);
+  color: var(--secondary);
+  font-size: 0.95rem;
+  font-weight: 600;
+  font-family: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    background 0.15s ease,
+    color 0.15s ease;
+}
+
+.jc-button:hover {
+  background: var(--secondary);
+  color: var(--light);
+}
+
+.jc-digest {
+  margin: 1rem 0 1.5rem;
+}
+
+.jc-digest pre {
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  background: var(--lightgray);
+  color: var(--darkgray);
+  font-family: inherit;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  overflow-x: auto;
+}

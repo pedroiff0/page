@@ -14,7 +14,9 @@ A tabela abaixo é gerada a partir do frontmatter das próprias notas de artigo 
 filters:
   and:
     - 'file.folder.startsWith("pt-br/research/journal-clubs/mwbr")'
-    - 'file.name != "index"'
+    # Só notas de artigo têm `arxiv`; é o que separa uma entrada das páginas
+    # de apoio da pasta (index e o que mais vier).
+    - 'note.arxiv'
 formulas:
   artigo: 'link(file.path, note.title)'
   # A URL do arXiv entra como texto e o Quartz a transforma em link externo
@@ -24,6 +26,8 @@ formulas:
 properties:
   formula.artigo:
     displayName: Artigo
+  note.apresentador:
+    displayName: Apresentou
   note.authors:
     displayName: Autoria
   note.year:
@@ -37,6 +41,7 @@ views:
     name: Artigos discutidos
     order:
       - formula.artigo
+      - note.apresentador
       - note.authors
       - note.year
       - note.discutido

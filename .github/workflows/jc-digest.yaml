@@ -1,0 +1,46 @@
+name: Journal Club — digest para o grupo
+
+# Só manual por enquanto. O agendamento semanal está comentado de propósito:
+# ligar só depois de (1) cadastrar os secrets SMTP_USER/SMTP_PASS e (2) rodar
+# uma vez pelo botão "Run workflow" e confirmar que a mensagem chegou no grupo.
+# Google Groups costuma segurar em moderação e-mail de remetente não-membro,
+# e isso não aparece como erro aqui — o workflow passa e ninguém recebe nada.
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 12 * * 1" # segundas, 12:00 UTC = 09:00 BRT
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Montar o corpo do e-mail
+        id: corpo
+        run: |
+          {
+            echo 'body<<JC_DIGEST_EOF'
+            node scripts/jc-digest.mjs
+            echo 'JC_DIGEST_EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Enviar para o grupo
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.SMTP_USER }}
+          password: ${{ secrets.SMTP_PASS }}
+          from: Journal Club ENGCOMP <${{ secrets.SMTP_USER }}>
+          to: engcompbji@googlegroups.com
+          subject: "Journal Club ENGCOMP — chamada da semana"
+          body: ${{ steps.corpo.outputs.body }}

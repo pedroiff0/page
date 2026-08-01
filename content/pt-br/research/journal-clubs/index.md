@@ -20,14 +20,18 @@ Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatt
 ## Padrão de cada entrada
 
 > [!example] Modelo de nota de artigo
-> Toda nota de artigo discutido segue a mesma estrutura. Os quatro primeiros campos alimentam a tabela da página do grupo, que é gerada automaticamente — basta criar a nota na pasta certa (`mwbr/` ou `engcomp/`) e ela aparece sozinha no próximo build.
+> Toda nota de artigo discutido segue a mesma estrutura. Esses campos alimentam sozinhos a tabela da página do grupo e o [dashboard](pt-br/research/journal-clubs/engcomp/dashboard) — basta criar a nota na pasta certa (`mwbr/` ou `engcomp/`) e ela aparece no próximo build.
+>
+> O campo `arxiv` é obrigatório: é ele que distingue uma nota de artigo das páginas de apoio da pasta (índice, tópicos, dashboard). E o nome do campo de data é `discutido`, sem hífen — propriedade com hífen quebra o motor de expressões das Bases.
 > ```markdown
 > ---
 > publish: true
 > title: "Título curto do artigo"
 > authors: "Sobrenome, A. et al."
+> apresentador: "Quem apresentou"
 > year: 2026
 > arxiv: "https://arxiv.org/abs/XXXX.XXXXX"
+> topico: cs.SE # categoria do arXiv; alimenta o dashboard
 > discutido: 2026-MM-DD
 > tags:
 >   - journal-club

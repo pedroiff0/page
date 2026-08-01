@@ -207,6 +207,11 @@ plugins:
       position: beforeBody
       priority: 25
       display: all
+  - source: ./local-plugins/jc-dashboard
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 24
   - source: ./local-plugins/page-title-i18n
     enabled: true
     layout:
