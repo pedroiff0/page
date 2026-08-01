@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md), [CSECBJI.37 - Eletrônica Analógica](eletronica-analogica.md) |
+| Pré-requisitos |
+| Professor | Fabrício Barros |
+| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md), [CSECBJI.37 - Eletrônica Analógica](eletronica-analogica.md) |
 
 ## 🔒 Trancas
 
@@ -92,5 +94,5 @@ Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/eletronica-digital/`)

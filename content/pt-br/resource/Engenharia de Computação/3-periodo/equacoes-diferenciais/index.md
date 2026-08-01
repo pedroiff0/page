@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 3º Período |
-| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
+| Pré-requisitos |
+| Professor | Gustavo Stênio |
+| Email | gustavo.neitzel@iff.edu.br | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
 
 ## 🔒 Trancas
 
@@ -105,5 +107,5 @@ Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explí
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/equacoes-diferenciais/`)

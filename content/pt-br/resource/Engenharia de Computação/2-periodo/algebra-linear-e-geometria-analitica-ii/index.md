@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 2º Período |
-| Pré-requisitos | [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
+| Pré-requisitos |
+| Professor | Paulo Emanuel |
+| Email |  | [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
 
 ## 🔒 Trancas
 
@@ -86,5 +88,5 @@ Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores au
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/`)

@@ -101,5 +101,5 @@ Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sinc
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/9-periodo/sistemas-distribuidos/`)

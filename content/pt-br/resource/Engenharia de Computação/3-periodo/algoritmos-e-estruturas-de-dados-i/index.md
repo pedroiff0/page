@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 3º Período |
-| Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) |
+| Pré-requisitos |
+| Professor | Ana Mara |
+| Email | ana.figueiredo@iff.edu.br | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) |
 
 ## 🔒 Trancas
 
@@ -99,5 +101,5 @@ Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/algoritmos-e-estruturas-de-dados-i/`)

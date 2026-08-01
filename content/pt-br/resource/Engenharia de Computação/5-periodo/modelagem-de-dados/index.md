@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 40 |
 | Período | 5º Período |
-| Pré-requisitos | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md) |
+| Pré-requisitos |
+| Professor | Fabrício Barros |
+| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md) |
 
 ## 🔒 Trancas
 
@@ -100,5 +102,5 @@ Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenc
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/modelagem-de-dados/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | [CSECBJI.42 - Análise de Software Orientada a Objetos](analise-de-software-orientada-a-objetos.md) |
+| Pré-requisitos |
+| Professor | Fabrício Barros |
+| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.42 - Análise de Software Orientada a Objetos](analise-de-software-orientada-a-objetos.md) |
 
 ## 📋 Ementa
 
@@ -90,5 +92,5 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/7-periodo/projeto-de-software-orientado-a-objetos/`)

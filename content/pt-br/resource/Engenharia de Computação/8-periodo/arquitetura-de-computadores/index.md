@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos | [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md), [CSECBJI.53 - Sistemas Digitais](sistemas-digitais.md) |
+| Pré-requisitos |
+| Professor | Fabrício Barros |
+| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md), [CSECBJI.53 - Sistemas Digitais](sistemas-digitais.md) |
 
 ## 📋 Ementa
 
@@ -83,5 +85,5 @@ Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; 
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/8-periodo/arquitetura-de-computadores/`)

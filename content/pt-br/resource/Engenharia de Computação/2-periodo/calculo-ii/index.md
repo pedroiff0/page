@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 2º Período |
-| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md) |
+| Pré-requisitos |
+| Professor | Gustavo Stênio |
+| Email | gustavo.neitzel@iff.edu.br | [CSECBJI.4 - Cálculo I](calculo-i.md) |
 
 ## 🔒 Trancas
 
@@ -89,5 +91,5 @@ Aplicações da integral definida; Integrais impróprias; Funções de várias v
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/calculo-ii/`)

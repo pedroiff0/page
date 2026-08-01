@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 3º Período |
-| Pré-requisitos | [CSECBJI.9 - Cálculo II](calculo-ii.md) |
+| Pré-requisitos |
+| Professor | Vital |
+| Email | tiago.vital@iff.edu.br | [CSECBJI.9 - Cálculo II](calculo-ii.md) |
 
 ## 🔒 Trancas
 
@@ -97,5 +99,5 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/calculo-iii/`)

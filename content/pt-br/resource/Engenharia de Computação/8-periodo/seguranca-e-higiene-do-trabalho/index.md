@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | — |
 | Período | 8º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Gardoni |
+| Email |  | — |
 
 ## 📋 Ementa
 
@@ -91,5 +93,5 @@ Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/8-periodo/seguranca-e-higiene-do-trabalho/`)

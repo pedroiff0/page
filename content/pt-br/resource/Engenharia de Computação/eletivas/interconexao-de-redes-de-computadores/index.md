@@ -19,7 +19,9 @@ tags:
 | Núcleo | Eletivo |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Wesley |
+| Email | wesley.souza@iff.edu.br | — |
 
 ## 📋 Ementa
 
@@ -59,5 +61,5 @@ Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame R
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/interconexao-de-redes-de-computadores/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 40 |
 | Período | 3º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Carlos Dambroz |
+| Email |  | — |
 
 ## 📋 Ementa
 
@@ -94,5 +96,5 @@ Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; 
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/ciencias-do-ambiente/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | — |
 | Período | 8º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Alcides |
+| Email | alcides.oliveira@iff.edu.br | — |
 
 ## 🔒 Trancas
 
@@ -71,5 +73,5 @@ Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboraç�
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/8-periodo/metodologia-cientifica-e-tecnologica/`)

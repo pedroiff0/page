@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | [CSECBJI.47 - Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) |
+| Pré-requisitos |
+| Professor | Wesley Folly |
+| Email | wesley.souza@iff.edu.br | [CSECBJI.47 - Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) |
 
 ## 🔒 Trancas
 
@@ -109,5 +111,5 @@ Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Re
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/7-periodo/redes-de-computadores-i/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos | [CSECBJI.35 - Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md) |
+| Pré-requisitos |
+| Professor | Fabrício Barros |
+| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.35 - Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md) |
 
 ## 📋 Ementa
 
@@ -83,5 +85,5 @@ Recuperação de falhas. Controle de concorrência. Noções básicas de bancos 
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/banco-de-dados/`)

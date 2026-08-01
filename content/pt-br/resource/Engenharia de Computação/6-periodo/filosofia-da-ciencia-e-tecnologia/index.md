@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Rafael Tardin |
+| Email |  | — |
 
 ## 📋 Ementa
 
@@ -69,5 +71,5 @@ Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O p
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/filosofia-da-ciencia-e-tecnologia/`)

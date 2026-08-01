@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 9º Período |
-| Pré-requisitos | [CSECBJI.62 - Microcontroladores](microcontroladores.md) |
+| Pré-requisitos |
+| Professor | Garcez |
+| Email | luiz.garcez@iff.edu.br | [CSECBJI.62 - Microcontroladores](microcontroladores.md) |
 
 ## 📋 Ementa
 
@@ -82,5 +84,5 @@ Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementaçã
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/9-periodo/sistemas-embarcados/`)

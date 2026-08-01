@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 3º Período |
-| Pré-requisitos | [CSECBJI.9 - Cálculo II](calculo-ii.md), [CSECBJI.11 - Física I](fisica-i.md) |
+| Pré-requisitos |
+| Professor | Ana Soja |
+| Email | ana.soja@iff.edu.br | [CSECBJI.9 - Cálculo II](calculo-ii.md), [CSECBJI.11 - Física I](fisica-i.md) |
 
 ## 🔒 Trancas
 
@@ -98,5 +100,5 @@ Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da ter
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/fisica-ii/`)

@@ -112,5 +112,5 @@ Análise e síntese de circuitos digitais sequenciais; contadores e registradore
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/7-periodo/sistemas-digitais/`)

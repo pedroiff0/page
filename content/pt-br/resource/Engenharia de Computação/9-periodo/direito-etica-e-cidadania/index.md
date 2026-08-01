@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 9º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Karina |
+| Email |  | — |
 
 ## 📋 Ementa
 
@@ -97,5 +99,5 @@ Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação 
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/9-periodo/direito-etica-e-cidadania/`)

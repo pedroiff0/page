@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | [CSECBJI.14 - Matemática Discreta](matematica-discreta.md) |
+| Pré-requisitos |
+| Professor | Fabrício Barros |
+| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.14 - Matemática Discreta](matematica-discreta.md) |
 
 ## 🔒 Trancas
 
@@ -75,5 +77,5 @@ Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. M
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/linguagens-formais-e-automatos/`)

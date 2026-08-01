@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos | [CSECBJI.17 - Cálculo III](calculo-iii.md), [CSECBJI.19 - Física II](fisica-ii.md) |
+| Pré-requisitos |
+| Professor | Rodrigo Lacerda |
+| Email | rodrigo.lacerda@iff.edu.br | [CSECBJI.17 - Cálculo III](calculo-iii.md), [CSECBJI.19 - Física II](fisica-ii.md) |
 
 ## 🔒 Trancas
 
@@ -94,5 +96,5 @@ Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/fisica-iii/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii.md), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) |
+| Pré-requisitos |
+| Professor | Ana Mara |
+| Email | ana.figueiredo@iff.edu.br | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii.md), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) |
 
 ## 🔒 Trancas
 
@@ -90,5 +92,5 @@ Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/computacao-grafica/`)

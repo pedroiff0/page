@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos | [CSECBJI.17 - Cálculo III](calculo-iii.md) |
+| Pré-requisitos |
+| Professor | Tacila |
+| Email |  | [CSECBJI.17 - Cálculo III](calculo-iii.md) |
 
 ## 🔒 Trancas
 
@@ -116,5 +118,5 @@ Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Sing
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/calculo-iv/`)

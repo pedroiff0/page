@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 80 |
 | Período | 10º Período |
-| Pré-requisitos | [CSECBJI.67 - Projeto Final de Curso I](projeto-final-de-curso-i.md) |
+| Pré-requisitos |
+| Professor | Alcides Oliveira |
+| Email | alcides.oliveira@iff.edu.br | [CSECBJI.67 - Projeto Final de Curso I](projeto-final-de-curso-i.md) |
 
 ## 📋 Ementa
 
@@ -66,5 +68,5 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/10-periodo/projeto-final-de-curso-ii/`)

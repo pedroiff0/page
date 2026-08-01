@@ -19,7 +19,9 @@ tags:
 | Núcleo | Eletivo |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Wesley |
+| Email | wesley.souza@iff.edu.br | — |
 
 ## 📋 Ementa
 
@@ -58,5 +60,5 @@ Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fi
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/dimensionamento-de-redes-de-computadores/`)

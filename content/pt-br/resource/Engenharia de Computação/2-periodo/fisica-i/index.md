@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 2º Período |
-| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
+| Pré-requisitos |
+| Professor | Thiago Juncal |
+| Email |  | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
 
 ## 🔒 Trancas
 
@@ -119,5 +121,5 @@ Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conserva
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/fisica-i/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos.md) |
+| Pré-requisitos |
+| Professor | Dambroz |
+| Email |  | [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos.md) |
 
 ## 📋 Ementa
 
@@ -91,5 +93,5 @@ Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Mé
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/geoprocessamento/`)

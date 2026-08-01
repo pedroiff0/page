@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 4º Período |
-| Pré-requisitos | [CSECBJI.22 - Algoritmos e Estruturas de Dados I](algoritmos-e-estruturas-de-dados-i.md) |
+| Pré-requisitos |
+| Professor | Ana Mara |
+| Email | ana.figueiredo@iff.edu.br | [CSECBJI.22 - Algoritmos e Estruturas de Dados I](algoritmos-e-estruturas-de-dados-i.md) |
 
 ## 🔒 Trancas
 
@@ -90,5 +92,5 @@ tags:
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/algoritmos-e-estruturas-de-dados-ii/`)

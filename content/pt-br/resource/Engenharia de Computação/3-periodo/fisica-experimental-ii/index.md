@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 40 |
 | Período | 3º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Rodrigo Lacerda |
+| Email | rodrigo.lacerda@iff.edu.br | — |
 
 ## 📋 Ementa
 
@@ -56,5 +58,5 @@ Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O P�
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/fisica-experimental-ii/`)

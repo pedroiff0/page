@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | [CSECBJI.26 - Física III](fisica-iii.md) |
+| Pré-requisitos |
+| Professor | Garcez |
+| Email | luiz.garcez@iff.edu.br | [CSECBJI.26 - Física III](fisica-iii.md) |
 
 ## 🔒 Trancas
 
@@ -121,5 +123,5 @@ Transistores bipolares e circuitos polarizados com transistor; Fonte de alimenta
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/eletronica-analogica/`)

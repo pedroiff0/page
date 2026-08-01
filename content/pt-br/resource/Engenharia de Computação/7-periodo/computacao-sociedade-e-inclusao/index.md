@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Karina |
+| Email |  | — |
 
 ## 📋 Ementa
 
@@ -101,5 +103,5 @@ Apropriações da computação e relações de poder: o espaço público, o priv
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/7-periodo/computacao-sociedade-e-inclusao/`)

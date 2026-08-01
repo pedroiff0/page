@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | [CSECBJI.77 - Computação Gráfica](pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica) |
+| Pré-requisitos |
+| Professor | Ana Mara |
+| Email | ana.figueiredo@iff.edu.br | [CSECBJI.77 - Computação Gráfica](pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica) |
 
 ## 📋 Ementa
 
@@ -85,5 +87,5 @@ Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/processamento-de-imagens/`)

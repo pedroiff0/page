@@ -98,5 +98,5 @@ Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/9-periodo/empreendedorismo/`)

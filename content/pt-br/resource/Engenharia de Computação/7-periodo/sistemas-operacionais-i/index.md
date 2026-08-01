@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos | [CSECBJI.1 - Fundamentos de Computação](fundamentos-de-computacao.md) |
+| Pré-requisitos |
+| Professor | Ana Mara |
+| Email | ana.figueiredo@iff.edu.br | [CSECBJI.1 - Fundamentos de Computação](fundamentos-de-computacao.md) |
 
 ## 🔒 Trancas
 
@@ -105,5 +107,5 @@ Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Me
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/7-periodo/sistemas-operacionais-i/`)

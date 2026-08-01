@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 40 |
 | Período | 1º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Alcides Oliveira |
+| Email | alcides.oliveira@iff.edu.br | — |
 
 ## 📋 Ementa
 
@@ -120,5 +122,5 @@ Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para S
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/1-periodo/introducao-a-engenharia/`)

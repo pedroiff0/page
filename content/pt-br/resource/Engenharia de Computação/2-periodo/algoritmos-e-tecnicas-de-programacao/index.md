@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | — |
 | Período | 2º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Ana Mara |
+| Email | ana.figueiredo@iff.edu.br | — |
 
 ## 🔒 Trancas
 
@@ -103,5 +105,5 @@ Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exempl
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/algoritmos-e-tecnicas-de-programacao/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos | [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md) |
+| Pré-requisitos |
+| Professor | Garcez |
+| Email | luiz.garcez@iff.edu.br | [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md) |
 
 ## 🔒 Trancas
 
@@ -112,5 +114,5 @@ Principais características; Tipos de arquiteturas; Memórias internas; Registra
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/8-periodo/microcontroladores/`)

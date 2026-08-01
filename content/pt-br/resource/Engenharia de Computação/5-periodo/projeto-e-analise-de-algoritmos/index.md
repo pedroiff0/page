@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | [CSECBJI.14 - Matemática Discreta](matematica-discreta.md), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) |
+| Pré-requisitos |
+| Professor | Ana Mara |
+| Email | ana.figueiredo@iff.edu.br | [CSECBJI.14 - Matemática Discreta](matematica-discreta.md), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) |
 
 ## 🔒 Trancas
 
@@ -96,5 +98,5 @@ Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limit
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/projeto-e-analise-de-algoritmos/`)

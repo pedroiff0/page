@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 3º Período |
-| Pré-requisitos | [CSECBJI.15 - Química](quimica.md) |
+| Pré-requisitos |
+| Professor | Alcides Oliveira |
+| Email | alcides.oliveira@iff.edu.br | [CSECBJI.15 - Química](quimica.md) |
 
 ## 📋 Ementa
 
@@ -117,5 +119,5 @@ Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em 
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/introducao-a-ciencia-dos-materiais/`)

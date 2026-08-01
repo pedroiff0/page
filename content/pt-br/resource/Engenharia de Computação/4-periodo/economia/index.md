@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 40 |
 | Período | 4º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Laert |
+| Email |  | — |
 
 ## 📋 Ementa
 
@@ -94,5 +96,5 @@ Apresentar elementos de cálculos financeiros básicos, fundamentais para o dese
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/economia/`)

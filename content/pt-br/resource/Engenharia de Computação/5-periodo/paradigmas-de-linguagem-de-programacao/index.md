@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | — |
 | Período | 5º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Wesley Folly |
+| Email | wesley.souza@iff.edu.br | — |
 
 ## 🔒 Trancas
 
@@ -104,5 +106,5 @@ Visão geral de linguagens de programação: valores e tipos; variáveis e coman
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/paradigmas-de-linguagem-de-programacao/`)

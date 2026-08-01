@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | [CSECBJI.29 - Probabilidade e Estatística](probabilidade-e-estatistica.md) |
+| Pré-requisitos |
+| Professor | Fabrício Barros |
+| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.29 - Probabilidade e Estatística](probabilidade-e-estatistica.md) |
 
 ## 📋 Ementa
 
@@ -81,5 +83,5 @@ Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilíst
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/avaliacao-e-desempenho-de-sistemas/`)

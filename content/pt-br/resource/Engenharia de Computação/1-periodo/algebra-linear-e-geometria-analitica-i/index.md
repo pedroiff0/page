@@ -13,15 +13,15 @@ tags:
 > **Período:** 1º Período · **Núcleo:** Básica · **Carga Horária:** 80h
 > **Tópicos:** Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
 
-| Campo          | Valor              |
-| -------------- | ------------------ |
-| Código         | CSECBJI.5          |
-| Núcleo         | Básica             |
-| Carga Horária  | 80                 |
-| Período        | 1º Período         |
-| Pré-requisitos | —                  |
-| Professor      | Roberto            |
-| Email          | roberto@iff.edu.br |
+| Campo          | Valor                                                           |     |
+| -------------- | --------------------------------------------------------------- | --- |
+| Código         | CSECBJI.5                                                       |     |
+| Núcleo         | Básica                                                          |     |
+| Carga Horária  | 80                                                              |     |
+| Período        | 1º Período                                                      |     |
+| Pré-requisitos |                                                                 |     |
+| Professor      | Roberto Carvalho                                                |     |
+| Email          | roberto.carvalho@gsuite.iff.edu.br, roberto.carvalho@iff.edu.br | —   |
 
 ## 🔒 Trancas
 
@@ -131,5 +131,5 @@ _(anotações, listas e trabalhos próprios — não são material oficial do cu
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/`)

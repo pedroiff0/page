@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | — |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Ana Mara |
+| Email | ana.figueiredo@iff.edu.br | — |
 
 ## 📋 Ementa
 
@@ -72,5 +74,5 @@ Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web.
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/desenvolvimento-web/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Gardoni |
+| Email |  | — |
 
 ## 📋 Ementa
 
@@ -101,5 +103,5 @@ Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo,
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/gestao-ambiental/`)

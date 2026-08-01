@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii.md) |
+| Pré-requisitos |
+| Professor | Gustavo Stênio |
+| Email | gustavo.neitzel@iff.edu.br | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii.md) |
 
 ## 🔒 Trancas
 
@@ -89,5 +91,5 @@ Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema d
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/pesquisa-operacional-i/`)

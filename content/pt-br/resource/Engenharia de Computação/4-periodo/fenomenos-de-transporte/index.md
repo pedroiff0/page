@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.19 - Física II](fisica-ii.md) |
+| Pré-requisitos |
+| Professor | Alcides Oliveira |
+| Email | alcides.oliveira@iff.edu.br | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.19 - Física II](fisica-ii.md) |
 
 ## 📋 Ementa
 
@@ -81,5 +83,5 @@ Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmic
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/fenomenos-de-transporte/`)

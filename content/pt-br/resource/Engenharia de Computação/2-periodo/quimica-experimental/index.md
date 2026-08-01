@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 40 |
 | Período | 2º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Érica/Marcione |
+| Email |  | — |
 
 ## 📋 Ementa
 
@@ -64,5 +66,5 @@ Normas de conduta e procedimentos de segurança em laboratórios de análise qu�
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/quimica-experimental/`)

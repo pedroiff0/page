@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) |
+| Pré-requisitos |
+| Professor | Rodrigo Lacerda |
+| Email | rodrigo.lacerda@iff.edu.br | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) |
 
 ## 📋 Ementa
 
@@ -105,5 +107,5 @@ Solução de equações não lineares; Interpolação e ajuste de curvas; Integr
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/calculo-numerico/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos | [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) |
+| Pré-requisitos |
+| Professor | Fabrício Barros |
+| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) |
 
 ## 📋 Ementa
 
@@ -111,5 +113,5 @@ Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de c�
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/compiladores/`)

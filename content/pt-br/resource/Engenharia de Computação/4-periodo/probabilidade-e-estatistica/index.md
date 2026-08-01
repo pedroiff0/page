@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 4º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Roberto Carvalho |
+| Email |  | — |
 
 ## 🔒 Trancas
 
@@ -85,5 +87,5 @@ Distribuições de Probabilidades.
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/probabilidade-e-estatistica/`)

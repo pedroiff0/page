@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básica |
 | Carga Horária | 60 |
 | Período | 2º Período |
-| Pré-requisitos | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md) |
+| Pré-requisitos |
+| Professor | Gustavo Stênio |
+| Email | gustavo.neitzel@iff.edu.br | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md) |
 
 ## 🔒 Trancas
 
@@ -106,5 +108,5 @@ Teoria dos conjuntos, relações e funções, indução e recursão, análise co
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/matematica-discreta/`)

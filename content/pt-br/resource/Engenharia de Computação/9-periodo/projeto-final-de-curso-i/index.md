@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 80 |
 | Período | 9º Período |
-| Pré-requisitos | [CSECBJI.64 - Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica.md) |
+| Pré-requisitos |
+| Professor | Alcides Oliveira |
+| Email | alcides.oliveira@iff.edu.br | [CSECBJI.64 - Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica.md) |
 
 ## 🔒 Trancas
 
@@ -70,5 +72,5 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/9-periodo/projeto-final-de-curso-i/`)

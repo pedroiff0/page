@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 40 |
 | Período | 2º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Rodrigo Lacerda |
+| Email | rodrigo.lacerda@iff.edu.br | — |
 
 ## 📋 Ementa
 
@@ -57,5 +59,5 @@ Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceit
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/fisica-experimental-i/`)

@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básica |
 | Carga Horária | 80 |
 | Período | 1º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Filipe Ambrósio |
+| Email | filipe.loures@gsuite.iff.edu.br | — |
 
 ## 📋 Ementa
 
@@ -103,5 +105,5 @@ _(anotações, listas e trabalhos próprios — não são material oficial do cu
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/`)

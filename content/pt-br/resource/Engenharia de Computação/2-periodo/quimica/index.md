@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 2º Período |
-| Pré-requisitos | — |
+| Pré-requisitos |
+| Professor | Renato Batista |
+| Email |  | — |
 
 ## 🔒 Trancas
 
@@ -117,5 +119,5 @@ Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Q
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/quimica/`)

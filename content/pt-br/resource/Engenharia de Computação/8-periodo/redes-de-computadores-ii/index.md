@@ -19,7 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos | [CSECBJI.55 - Redes de Computadores I](redes-de-computadores-i.md) |
+| Pré-requisitos |
+| Professor | Wesley Folly |
+| Email | wesley.souza@iff.edu.br | [CSECBJI.55 - Redes de Computadores I](redes-de-computadores-i.md) |
 
 ## 📋 Ementa
 
@@ -68,5 +70,5 @@ Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com S
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/8-periodo/redes-de-computadores-ii/`)

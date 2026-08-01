@@ -19,7 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos | [CSECBJI.26 - Física III](fisica-iii.md) |
+| Pré-requisitos |
+| Professor | Rodrigo Lacerda |
+| Email | rodrigo.lacerda@iff.edu.br | [CSECBJI.26 - Física III](fisica-iii.md) |
 
 ## 🔒 Trancas
 
@@ -89,5 +91,5 @@ Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. 
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/eletricidade-aplicada/`)

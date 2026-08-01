@@ -19,7 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos | [CSECBJI.56 - Sistemas Operacionais I](sistemas-operacionais-i.md) |
+| Pré-requisitos |
+| Professor | Ana Mara |
+| Email | ana.figueiredo@iff.edu.br | [CSECBJI.56 - Sistemas Operacionais I](sistemas-operacionais-i.md) |
 
 ## 📋 Ementa
 
@@ -81,5 +83,5 @@ Sistemas de Arquivos; Entrada/Saída; Deadlocks.
 
 ## 📝 Anotações e Arquivos
 
-- 🔒 [[anotacoes|Anotações de Aula]]
-- 📁 Arquivos (protegidos em `assets/`)
+- 📁 [[anotacoes/|Ver todas as anotações]]
+- 📁 Arquivos (protegidos em `assets/disciplinas/8-periodo/sistemas-operacionais-ii/`)
