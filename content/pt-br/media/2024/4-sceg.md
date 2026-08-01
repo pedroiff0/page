@@ -22,7 +22,6 @@ Fui organizador do evento, que priorizou protagonismo estudantil: minicursos de 
 > [!note] Opinião
 > Nunca tinha organizado um evento assim, e foi interessante ter essa experiência! Hoje em dia já sei como posso iniciar a organização de um evento e como fazer acontecer, e não saberia se não tivesse tido essa oportunidade ao lado do Prof. Dr. Fabrício Barros Gonçalves.
 
-
 ## 🔗 Referências e correlatos
 
 - Fonte: [IFF — Tecnologia, inovação e-sports e capacitação marcam programação da 4ª SCEG](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/tecnologia-inovacao-e-sports-e-capacitacao-marcam-programacao-da-4-sceg)

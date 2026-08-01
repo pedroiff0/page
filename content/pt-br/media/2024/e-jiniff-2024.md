@@ -20,7 +20,7 @@ Página dedicada à etapa institucional do **e-JINIFF 2024 (Jogos Eletrônicos d
 Fui organizador da equipe do campus Bom Jesus do Itabapoana, que competiu em cinco modalidades de e-sports (além de um torneio de xadrez). Conquistamos o **1º lugar em Valorant**, com o Marcus Vinicius (Curso Técnico em Informática), e o **3º lugar em Free Fire**. Também participamos de League of Legends, embora nenhuma vitória. A ideia agora é expandir os e-sports no campus com projetos de treino e um torneio próprio na Semana de Computação.
 
 > [!note] Opinião
-> Apesar do caos dos jogos, foi interessante ver que a comunidade também se interessa por jogos eletrônicos! Infelizmente por falta de suporte não levamos a participação à diante, mas foi uma boa experiência! 
+> Apesar do caos dos jogos, foi interessante ver que a comunidade também se interessa por jogos eletrônicos! Infelizmente por falta de suporte não levamos a participação à diante, mas foi uma boa experiência!
 
 ## 🔗 Referências e correlatos
 

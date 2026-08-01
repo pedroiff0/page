@@ -1,0 +1,108 @@
+---
+publish: true
+title: Paradigmas de Linguagem de Programação
+created: 2026-07-18
+modified: 2026-07-26T11:33:10.003-03:00
+published: 2026-07-26T11:33:10.003-03:00
+tags:
+  - disciplina
+  - profissionalizante
+---
+
+> [!note] Sobre esta disciplina
+> **Período:** 5º Período · **Núcleo:** Profissionalizante
+> **Tópicos:** Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros;
+
+| Campo | Valor |
+| --- | --- |
+| Código | CSECBJI.38 |
+| Núcleo | Profissionalizante |
+| Carga Horária | — |
+| Período | 5º Período |
+| Pré-requisitos | — |
+
+## 🔒 Trancas
+
+- [CSECBJI.45 - Programação Orientada a Objetos I](programacao-orientada-a-objetos-i.md)
+
+## 📋 Ementa
+
+Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros; encapsulamento; sistema de tipos; sequenciadores; concorrência. Paradigmas: imperativo, funcional, lógico, orientado a objetos e paradigmas híbridos.
+
+## 🎯 Objetivos
+
+- Compreender os principais conceitos e paradigmas das linguagens de programação permitindo a seleção de uma linguagem mais adequada para solução de um dado problema.
+
+## 📖 Conteúdo Programático
+
+1. Visão Geral de Linguagens de Programação
+
+- Conceito e Paradigmas
+- Sintaxe Semântica
+- Compiladores e Interpretadores
+
+2. Valores e Tipos
+
+- Valores e Tipos
+- Tipos Primitivos
+- Tipos Compostos
+- Tipos Recursivos
+- Sistemas de Tipos
+- Expressões
+
+3. Armazenamento
+
+- Variáveis e Constantes
+- Variáveis Compostas
+- Tempo de Vida de Variáveis
+- Ponteiros
+- Comandos
+- Expressões com Efeitos Colaterais
+
+4. Abstração Procedural
+
+- Tipos de Abstração
+- Parâmetros e Argumentos
+- Ordem de Avaliação
+
+5. Abstração de Dados
+
+- Pacotes
+- Encapsulamento
+- Tipo Abstrato de Dados
+- Objetos e Classes
+
+6. Fluxo de Controle
+
+- Sequenciadores
+- Jumps
+- Scapes
+- Exceções
+
+7. Paradigmas de Programação
+
+- Programação Imperativa
+- Programação Orientada a Objetos
+- Programação Funcional
+- Programação Lógico
+- Paradigmas híbridos
+
+## 📕 Bibliografia Básica
+
+1. SEBESTA, R. W. Conceitos de Linguagens de Programação. 11ª Edição. Porto Alegre: Bookman, 2018.
+2. TUCKER, A. B., NOOMAN, R. Linguagens de Programação: Princípios e Paradigmas. 2ª Edição. São Paulo: McGraw Hill, 2009.
+3. WAMPLER, D. Programação Funcional para Desenvolvedores Java. São Paulo: Novatec, 2012.
+
+## 📗 Bibliografia Complementar
+
+1. DONOVAN, A. A. A., KERNIGHAN, B. W. A Linguagem de Programação GO. São Paulo: Novatec, 2017.
+2. DOSXEY, C. Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis. São Paulo:
+3. Novatec: 2016.
+4. IERUSALIMSCHY, R. Programando em LUA. 3ª Edição. Rio de Janeiro: LTC, 2014.
+5. MANZANO, J. A. N. Primeiros Passos com a Linguagem Rust. São Paulo, Novatec, 2018.
+6. RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz. São Paulo: Novatec, 2015.
+
+## 📝 Anotações e Arquivos
+
+- 🔒 [[anotacoes|Anotações de Aula]]
+- 📁 Arquivos (protegidos em `assets/`)

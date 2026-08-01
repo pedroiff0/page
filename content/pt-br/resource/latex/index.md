@@ -45,7 +45,7 @@ Todo artigo que submeto — incluindo o trabalho descrito em [Detecção de Anom
 - **Um TCC pronto para preencher** — modelo completo em `ifftese.cls`, com capa, ficha catalográfica, banca e bibliografia ABNT já resolvidas.
 - **Slides e pôster institucionais** — os mesmos templates usados em bancas e mostras do IFF Campus Bom Jesus do Itabapoana.
 - **Um relatório e uma apresentação corporativos** com identidade visual trocável em seis linhas de código.
-- **A habilidade de escrever suas próprias classes** — que é o que diferencia quem usa LaTeX de quem *depende* de um template alheio.
+- **A habilidade de escrever suas próprias classes** — que é o que diferencia quem usa LaTeX de quem _depende_ de um template alheio.
 
 Tudo em português, gratuito, e com o código-fonte explicado linha a linha — inclusive as partes feias.
 
