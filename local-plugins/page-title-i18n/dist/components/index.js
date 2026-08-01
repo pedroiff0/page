@@ -1,15 +1,14 @@
 import { h } from "preact";
 
-// Content slugs are identical across locales (content/en/x mirrors
-// content/pt-br/x), so the language of a page is just its first slug
-// segment -- no separate translation lookup needed.
-const TITLES = {
-  "pt-br": "Bem-Vindo!",
-  en: "Welcome!",
-  es: "¡Bienvenido!",
-  fr: "Bienvenue !",
-};
-const DEFAULT_TITLE = "Bem-Vindo! / Welcome!";
+// The site title is deliberately language-neutral -- a name, not a greeting --
+// so there is nothing left to translate per locale: every page renders the
+// same `pageTitle` from quartz.config.yaml. This component stays in place
+// because it is what quartz.config.yaml registers in the PageTitle slot, and
+// because it is where a per-locale title would go again if one is ever wanted:
+// content slugs are identical across locales (content/en/x mirrors
+// content/pt-br/x), so the language of a page is just its first slug segment
+// -- key a lookup table on that, no translation dictionary needed.
+const DEFAULT_TITLE = "Pedro H. R. de Andrade";
 
 function pathToRoot(slug) {
   const rootPath = slug
@@ -21,18 +20,12 @@ function pathToRoot(slug) {
   return rootPath.length === 0 ? "." : rootPath;
 }
 
-function titleForSlug(slug, fallback) {
-  const firstSegment = (slug || "").split("/")[0];
-  return TITLES[firstSegment] ?? fallback;
-}
-
 function PageTitleConstructor() {
   const PageTitle = (props) => {
     const cfg = props?.cfg ?? {};
     const fileData = props?.fileData ?? {};
     const displayClass = props?.displayClass ?? "";
-    const fallback = cfg.pageTitle ?? DEFAULT_TITLE;
-    const title = titleForSlug(fileData.slug, fallback);
+    const title = cfg.pageTitle ?? DEFAULT_TITLE;
     const baseDir = pathToRoot(fileData.slug ?? "");
     const classes = ["page-title", displayClass].filter(Boolean).join(" ");
     return h("h2", { class: classes }, h("a", { href: baseDir }, title));

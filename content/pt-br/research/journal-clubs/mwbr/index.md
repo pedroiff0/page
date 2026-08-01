@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Journal Club — MWBR
+title: MWBR
 created: 2026-07-26
 modified: 2026-07-26
 ---

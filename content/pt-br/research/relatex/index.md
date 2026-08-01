@@ -61,3 +61,5 @@ Este projeto foi apresentado no **[CONEPE 2026](pt-br/media/2026/conepe-2026)** 
 - LAMPORT, L. *LaTeX: A Document Preparation System*. 2ª ed. Reading, Massachusetts: Addison-Wesley, 1994.
 - EQUIPE ABNTEX2 — [a classe abntex2](https://github.com/abntex/abntex2), base de compatibilidade ABNT usada neste projeto.
 - [CONEPE - 2026](pt-br/media/2026/conepe-2026) — cobertura da apresentação
+- [LaTeX e Escrita Acadêmica](pt-br/resource/latex) — o curso construído em cima deste projeto; as aulas 06 a 08 documentam `ifftese.cls`, `macros.sty` e `metadados.sty` linha a linha.
+- [Modelos Corporativos](pt-br/resource/latex/modelos-corporativos) — a mesma arquitetura de classe aplicada fora da academia, com manual de marca no lugar da ABNT.

@@ -196,6 +196,7 @@ Formatação padrão: Arial 12, justificado, recuo de 1,25 cm, espaçamento unif
 ## 🔗 Referências e correlatos
 
 - [Curso — visão geral](pt-br/resource/latex)
+- [Modelos Corporativos](pt-br/resource/latex/modelos-corporativos) — as versões com identidade visual do relatório e do Beamer desta página.
 - [Aula 03 — Templates e Classes](pt-br/resource/latex/aula-03-modelos) — conceitos de classe vs. template.
 - [ReLaTeX — pesquisa por trás da classe `ifftese.cls`](pt-br/research/relatex)
 - [Metodologia Científica e Tecnológica](pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica)

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Journal Club — ENGCOMP
+title: ENGCOMP
 created: 2026-07-26
 modified: 2026-07-26
 ---

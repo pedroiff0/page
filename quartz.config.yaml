@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Bem-Vindo! / Welcome!"
+  pageTitle: "Pedro H. R. de Andrade"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

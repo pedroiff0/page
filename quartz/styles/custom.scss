@@ -693,3 +693,64 @@ details.author-details[open] .author-summary {
   background: var(--highlight);
   color: var(--secondary);
 }
+
+/* --- Language picker (content/index.md) ---
+   Deliberately NOT .media-carousel/.carousel-slide: the photo-carousel plugin
+   binds a hover lightbox to every .carousel-slide on the page, and zooming a
+   flag that exists purely to be clicked through to another language would be
+   noise. Same visual language as the other card strips (rounded cards, brand
+   border on hover), minus the zoom. */
+.lang-carousel {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.lang-slide {
+  flex: 1 1 150px;
+  max-width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1.1rem 0.9rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  background: var(--light);
+  text-decoration: none;
+  color: inherit;
+  transition:
+    border-color 0.15s ease,
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.lang-slide:hover {
+  border-color: var(--secondary);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+.lang-slide img {
+  display: block;
+  width: 100%;
+  max-width: 120px;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+.lang-slide-name {
+  font-weight: 600;
+  color: var(--dark);
+}
+
+.lang-slide-note {
+  font-size: 0.8rem;
+  line-height: 1.3;
+  text-align: center;
+  color: var(--gray);
+}
