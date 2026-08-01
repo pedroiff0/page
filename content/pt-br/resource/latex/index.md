@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 title: LaTeX e Escrita Acadêmica
 created: 2026-07-23
 modified: 2026-07-26T11:10:37.194-03:00
