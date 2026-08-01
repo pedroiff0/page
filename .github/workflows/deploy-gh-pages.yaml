@@ -34,7 +34,7 @@ jobs:
         if: github.event_name == 'push'
         env:
           ANTES: ${{ github.event.before }}
-          LIMITE: 20
+          LIMITE: 200
         run: |
           if [ -z "$ANTES" ] || [ "$ANTES" = "0000000000000000000000000000000000000000" ]; then
             echo "Sem commit anterior para comparar — checagem ignorada."
