@@ -126,39 +126,86 @@ export default (() => {
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" style="background-color: transparent;">
                   <defs>
                     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-                      <feGaussianBlur stdDeviation="40" result="blur" />
+                      <feGaussianBlur stdDeviation="30" result="blur" />
                       <feComposite in="SourceGraphic" in2="blur" operator="over" />
                     </filter>
                     
                     <linearGradient id="starStream" x1="0%" y1="0%" x2="100%" y2="100%">
-                      <stop offset="0%" stop-color="#4a6fa5" stop-opacity="0.15" />
-                      <stop offset="30%" stop-color="#164e63" stop-opacity="0.25" />
-                      <stop offset="60%" stop-color="#eab308" stop-opacity="0.2" />
-                      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.1" />
+                      <stop offset="0%" stop-color="#1e3a8a" stop-opacity="0.2" />
+                      <stop offset="30%" stop-color="#1d4ed8" stop-opacity="0.3" />
+                      <stop offset="60%" stop-color="#eab308" stop-opacity="0.25" />
+                      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.15" />
                     </linearGradient>
                   </defs>
 
-                  <g id="cosmic-group" opacity="0.03" filter="url(#glow)" style="transition: transform 0.2s ease-out, opacity 0.5s ease;">
-                    <path d="M-100,700 C300,650 500,300 960,540 C1420,780 1600,400 2020,300 L2020,450 C1600,550 1420,930 960,690 C500,450 300,800 -100,850 Z" fill="url(#starStream)" />
-                    
-                    <path d="M100,550 Q450,250 850,480 T1700,400" fill="none" stroke="#60a5fa" stroke-width="40" stroke-linecap="round" stroke-dasharray="10 50" opacity="0.4" />
-                    <path d="M200,600 Q550,350 950,580 T1800,500" fill="none" stroke="#fef08a" stroke-width="15" stroke-linecap="round" stroke-dasharray="5 30" opacity="0.6" />
-                    <path d="M-50,620 Q300,400 750,520 T1600,450" fill="none" stroke="#1e3a8a" stroke-width="60" stroke-linecap="round" opacity="0.3" />
+                  <g id="cosmic-group" opacity="0.03" style="transition: transform 0.2s ease-out, opacity 0.5s ease;">
+                    <!-- 1. Colinas (Hills) -->
+                    <path d="M-50,950 Q300,900 800,980 T1920,930 L1920,1080 L-50,1080 Z" fill="#0f172a" opacity="0.5" />
+                    <path d="M-50,980 Q450,930 1100,1010 T1920,960 L1920,1080 L-50,1080 Z" fill="#020617" />
 
-                    <circle cx="960" cy="540" r="250" fill="#fef08a" opacity="0.15" filter="url(#glow)" />
-                    <circle cx="960" cy="540" r="120" fill="#ffffff" opacity="0.2" />
-
-                    <path d="M850,450 A60,60 0 1,1 910,510 A40,40 0 1,1 890,490" fill="none" stroke="#eab308" stroke-width="8" stroke-linecap="round" opacity="0.5" />
-                    <path d="M1050,600 A70,70 0 1,0 980,530 A50,50 0 1,0 1000,550" fill="none" stroke="#93c5fd" stroke-width="6" stroke-linecap="round" opacity="0.4" />
-
-                    <circle class="cosmic-star" data-depth="0.3" cx="400" cy="300" r="15" fill="#fef08a" opacity="0.7" style="transition: transform 0.2s ease-out;" />
-                    <circle class="cosmic-star" data-depth="0.3" cx="420" cy="280" r="4" fill="#ffffff" opacity="0.9" style="transition: transform 0.2s ease-out;" />
+                    <!-- 2. O Fluxo de Vento Espiral (Swirling flows) -->
+                    <path d="M-100,700 C300,650 500,300 960,540 C1420,780 1600,400 2020,300" fill="none" stroke="url(#starStream)" stroke-width="120" opacity="0.6" filter="url(#glow)" />
                     
-                    <circle class="cosmic-star" data-depth="0.5" cx="1400" cy="700" r="25" fill="#fef08a" opacity="0.5" style="transition: transform 0.2s ease-out;" />
-                    <circle class="cosmic-star" data-depth="0.5" cx="1400" cy="700" r="6" fill="#ffffff" opacity="0.8" style="transition: transform 0.2s ease-out;" />
-                    
-                    <circle class="cosmic-star" data-depth="0.2" cx="1650" cy="250" r="18" fill="#93c5fd" opacity="0.6" style="transition: transform 0.2s ease-out;" />
-                    <circle class="cosmic-star" data-depth="0.4" cx="800" cy="750" r="12" fill="#fef08a" opacity="0.5" style="transition: transform 0.2s ease-out;" />
+                    <path d="M-100,700 C300,650 500,300 960,540 C1420,780 1600,400 2020,300" fill="none" stroke="#3b82f6" stroke-width="30" stroke-linecap="round" stroke-dasharray="15 45" opacity="0.5" />
+                    <path d="M-100,720 C300,670 500,320 960,560 C1420,800 1600,420 2020,320" fill="none" stroke="#eab308" stroke-width="10" stroke-linecap="round" stroke-dasharray="10 30" opacity="0.6" />
+                    <path d="M-100,680 C300,630 500,280 960,520 C1420,760 1600,380 2020,280" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-dasharray="8 25" opacity="0.7" filter="url(#glow)" />
+                    <path d="M-100,660 C300,610 500,260 960,500 C1420,740 1600,360 2020,260" fill="none" stroke="#1d4ed8" stroke-width="20" stroke-linecap="round" stroke-dasharray="12 40" opacity="0.4" />
+
+                    <!-- Redemoinhos menores (Small swirls) -->
+                    <path d="M820,460 A80,80 0 1,1 900,540 A50,50 0 1,1 870,510" fill="none" stroke="#eab308" stroke-width="8" stroke-linecap="round" stroke-dasharray="6 15" opacity="0.6" />
+                    <path d="M1080,620 A90,90 0 1,0 990,530 A60,60 0 1,0 1020,560" fill="none" stroke="#60a5fa" stroke-width="6" stroke-linecap="round" stroke-dasharray="5 15" opacity="0.5" />
+
+                    <!-- 3. A Lua Crescente (Crescent Moon) -->
+                    <circle cx="1720" cy="180" r="120" fill="#fef08a" opacity="0.15" filter="url(#glow)" />
+                    <circle cx="1720" cy="180" r="60" fill="#facc15" opacity="0.25" filter="url(#glow)" />
+                    <path d="M1680,110 C1740,110 1790,150 1790,210 C1790,270 1730,310 1670,290 C1720,270 1750,220 1740,170 C1730,130 1700,120 1680,110 Z" fill="#facc15" opacity="0.95" filter="url(#glow)" />
+
+                    <!-- 4. Estrelas com Halo (Stars with Halos) -->
+                    <g class="cosmic-star" data-depth="0.3" style="transition: transform 0.2s ease-out;">
+                      <circle cx="400" cy="300" r="60" fill="none" stroke="#fef08a" stroke-width="1.5" stroke-dasharray="3 15" opacity="0.3" />
+                      <circle cx="400" cy="300" r="40" fill="none" stroke="#eab308" stroke-width="3" stroke-dasharray="4 10" opacity="0.5" />
+                      <circle cx="400" cy="300" r="20" fill="none" stroke="#ffffff" stroke-width="4" stroke-dasharray="3 8" opacity="0.7" />
+                      <circle cx="400" cy="300" r="12" fill="#fef08a" opacity="0.8" filter="url(#glow)" />
+                      <circle cx="400" cy="300" r="4" fill="#ffffff" opacity="0.9" />
+                    </g>
+
+                    <g class="cosmic-star" data-depth="0.5" style="transition: transform 0.2s ease-out;">
+                      <circle cx="1400" cy="650" r="70" fill="none" stroke="#fef08a" stroke-width="2" stroke-dasharray="4 16" opacity="0.3" />
+                      <circle cx="1400" cy="650" r="45" fill="none" stroke="#eab308" stroke-width="3" stroke-dasharray="5 12" opacity="0.5" />
+                      <circle cx="1400" cy="650" r="22" fill="none" stroke="#ffffff" stroke-width="4" stroke-dasharray="4 8" opacity="0.7" />
+                      <circle cx="1400" cy="650" r="16" fill="#fef08a" opacity="0.7" filter="url(#glow)" />
+                      <circle cx="1400" cy="650" r="5" fill="#ffffff" opacity="0.9" />
+                    </g>
+
+                    <g class="cosmic-star" data-depth="0.2" style="transition: transform 0.2s ease-out;">
+                      <circle cx="750" cy="200" r="40" fill="none" stroke="#60a5fa" stroke-width="2" stroke-dasharray="3 10" opacity="0.4" />
+                      <circle cx="750" cy="200" r="20" fill="none" stroke="#eab308" stroke-width="3" stroke-dasharray="4 8" opacity="0.6" />
+                      <circle cx="750" cy="200" r="10" fill="#fef08a" opacity="0.7" filter="url(#glow)" />
+                      <circle cx="750" cy="200" r="3" fill="#ffffff" opacity="0.9" />
+                    </g>
+
+                    <g class="cosmic-star" data-depth="0.4" style="transition: transform 0.2s ease-out;">
+                      <circle cx="1150" cy="800" r="50" fill="none" stroke="#fef08a" stroke-width="2" stroke-dasharray="4 12" opacity="0.4" />
+                      <circle cx="1150" cy="800" r="25" fill="none" stroke="#eab308" stroke-width="3" stroke-dasharray="3 8" opacity="0.6" />
+                      <circle cx="1150" cy="800" r="12" fill="#fef08a" opacity="0.7" filter="url(#glow)" />
+                      <circle cx="1150" cy="800" r="4" fill="#ffffff" opacity="0.9" />
+                    </g>
+
+                    <g class="cosmic-star" data-depth="0.3" style="transition: transform 0.2s ease-out;">
+                      <circle cx="1350" cy="180" r="40" fill="none" stroke="#fef08a" stroke-width="1.5" stroke-dasharray="3 10" opacity="0.4" />
+                      <circle cx="1350" cy="180" r="20" fill="#eab308" opacity="0.7" filter="url(#glow)" />
+                      <circle cx="1350" cy="180" r="5" fill="#ffffff" opacity="0.9" />
+                    </g>
+
+                    <g class="cosmic-star" data-depth="0.4" style="transition: transform 0.2s ease-out;">
+                      <circle cx="200" cy="750" r="40" fill="none" stroke="#60a5fa" stroke-width="2" stroke-dasharray="3 10" opacity="0.4" />
+                      <circle cx="200" cy="750" r="18" fill="#eab308" opacity="0.6" filter="url(#glow)" />
+                      <circle cx="200" cy="750" r="4" fill="#ffffff" opacity="0.9" />
+                    </g>
+
+                    <!-- 5. O Cipreste (Cypress) -->
+                    <path d="M0,1080 L180,1080 C150,900 240,700 200,500 C165,370 120,250 80,180 C70,300 75,450 60,600 C40,750 10,900 0,1080 Z" fill="#020617" opacity="0.85" />
+                    <path d="M0,1080 L150,1080 C120,930 200,750 170,550 C140,420 105,300 80,240 C75,320 70,470 55,620 C35,760 10,910 0,1080 Z" fill="#080e1e" />
                   </g>
                 </svg>
               \`;
@@ -168,7 +215,7 @@ export default (() => {
                 const group = document.getElementById("cosmic-group");
                 if (!group) return;
                 const isDark = document.documentElement.getAttribute("saved-theme") === "dark" || document.documentElement.dataset.theme === "dark";
-                group.setAttribute("opacity", isDark ? "0.035" : "0.018");
+                group.setAttribute("opacity", isDark ? "0.035" : "0.015");
               }
               
               updateOpacity();
