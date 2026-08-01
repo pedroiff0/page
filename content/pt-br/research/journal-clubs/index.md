@@ -3,6 +3,7 @@ publish: true
 title: Journal Clubs
 created: 2026-07-26
 modified: 2026-07-26
+published: 2026-08-01T16:28:51.169-03:00
 ---
 
 > [!note] Resumo
@@ -23,6 +24,7 @@ Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatt
 > Toda nota de artigo discutido segue a mesma estrutura. Esses campos alimentam sozinhos a tabela da página do grupo e o [dashboard](pt-br/research/journal-clubs/engcomp/dashboard) — basta criar a nota na pasta certa (`mwbr/` ou `engcomp/`) e ela aparece no próximo build.
 >
 > O campo `arxiv` é obrigatório: é ele que distingue uma nota de artigo das páginas de apoio da pasta (índice, tópicos, dashboard). E o nome do campo de data é `discutido`, sem hífen — propriedade com hífen quebra o motor de expressões das Bases.
+>
 > ```markdown
 > ---
 > publish: true

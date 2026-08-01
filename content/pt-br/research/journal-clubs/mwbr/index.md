@@ -3,6 +3,7 @@ publish: true
 title: MWBR
 created: 2026-07-26
 modified: 2026-07-31
+published: 2026-08-01T20:04:12.171-03:00
 ---
 
 > [!note] Resumo
@@ -50,8 +51,6 @@ views:
       - property: note.discutido
         direction: DESC
 ```
-
-_Nenhum artigo publicado ainda — em curadoria._ <!-- apagar esta linha quando a primeira nota de artigo entrar -->
 
 ---
 

@@ -3,6 +3,7 @@ publish: true
 title: ENGCOMP
 created: 2026-07-26
 modified: 2026-08-01
+published: 2026-08-01T20:04:04.327-03:00
 ---
 
 > [!note] Resumo
@@ -63,8 +64,6 @@ views:
         direction: DESC
 ```
 
-_Nenhum artigo publicado ainda — em curadoria._ <!-- apagar esta linha quando a primeira nota de artigo entrar -->
-
 ## 📣 Chamada para o grupo
 
 Texto pronto para anunciar o próximo encontro. Copie, preencha as duas lacunas e mande no grupo.
@@ -72,8 +71,8 @@ Texto pronto para anunciar o próximo encontro. Copie, preencha as duas lacunas 
 <div class="jc-digest">
   <pre id="jc-digest-texto">Pessoal, próximo encontro do Journal Club de Engenharia de Computação.
 
-📅 Quando: [DIA E HORA]
-📄 Artigo: [TÍTULO + LINK DO ARXIV]
+📅 Quando: \[DIA E HORA]
+📄 Artigo: \[TÍTULO + LINK DO ARXIV]
 
 Quem quiser sugerir leitura para as próximas semanas, os tópicos que acompanhamos estão aqui:
 https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/topicos
@@ -81,8 +80,7 @@ https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/topicos
 O histórico do que já discutimos fica em:
 https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp
 
-Até lá!</pre>
-<button type="button" class="jc-button" id="jc-digest-copiar">📋 Copiar texto</button>
+Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">📋 Copiar texto</button>
 
 </div>
 

@@ -57,3 +57,11 @@ Disciplinas do 2º período do curso de Engenharia de Computação.
 - [Química](quimica.md) — 60h, núcleo Básico.
 - [Química Experimental](quimica-experimental.md) — 40h, núcleo Básico.
 - [Cálculo II](calculo-ii.md) — 80h, núcleo Básico.
+
+
+## 📎 Documentos do período
+
+- [calendario-2024-cursos-semestrais](assets/disciplinas/2-periodo/calendario-2024-cursos-semestrais.pdf)
+- [horario_2p](assets/disciplinas/2-periodo/horario_2p.pdf)
+- [PPC 2 semestre](assets/disciplinas/2-periodo/PPC%202%20semestre.pdf)
+- [ch_cc](assets/disciplinas/2-periodo/ch_cc.pdf)

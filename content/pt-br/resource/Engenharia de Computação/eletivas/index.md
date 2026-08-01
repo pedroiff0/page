@@ -97,3 +97,9 @@ Disciplinas do eletivas (optativas) do curso de Engenharia de Computação.
 - [Pesquisa Operacional I](pesquisa-operacional-i.md) — 60h, núcleo Básico.
 - [Pesquisa Operacional II](pesquisa-operacional-ii.md) — 60h, núcleo Básico.
 - [Inteligência Artificial](inteligencia-artificial.md) — 60h, núcleo Específico.
+
+
+## 📎 Documentos do período
+
+- [cc_eletivas](assets/disciplinas/eletivas/cc_eletivas.pdf)
+- [ppc_eletivas](assets/disciplinas/eletivas/ppc_eletivas.pdf)

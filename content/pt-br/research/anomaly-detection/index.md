@@ -72,7 +72,7 @@ Uma decisão metodológica central foi entender a diferença entre alimentar o t
 
 Rodei o t-SNE sobre os espectros normalizados (HDU 1 do FITS de cada estrela/CCD) em várias configurações, comparando com a abordagem por colunas:
 
-![t-SNE sobre os espectros brutos (4 CCDs concatenados, ~5.900 estrelas), colorido por Teff, log g e \[Fe/H\] do catálogo — usado como teste de honestidade do agrupamento.](assets/anomaly-detection/tsne-espectros-brutos.png)
+![t-SNE sobre os espectros brutos (4 CCDs concatenados, ~5.900 estrelas), colorido por Teff, log g e \[Fe/H\](assets/anomaly-detection/tsne-espectros-brutos.png)
 
 ![Comparação de diferentes perplexidades do t-SNE sobre os espectros (dados de pixel), colorido pela temperatura efetiva — perplexidades mais altas suavizam a estrutura local em favor da global.](assets/anomaly-detection/tsne-comparacao-perplexidade.png)
 
@@ -117,7 +117,7 @@ Resumo das principais decisões metodológicas tomadas ao longo do projeto, a pa
 - Traven et al. (2017) — _The GALAH survey: classification and diagnostics with t-SNE reduction of spectral information_ — metodologia-base da Etapa 2. [📄 Artigo completo (arXiv)](assets/articles/Traven2017.pdf).
 - Buder et al. (2025) — GALAH DR4. [📄 Artigo completo (arXiv)](assets/articles/Buder2025.pdf).
 - Gaia Collaboration et al. (2021) — Gaia Catalogue of Nearby Stars. [📄 Artigo completo (arXiv)](assets/articles/GaiaCollaboration2021.pdf).
-- da Silva & Smiljanic (2023) — t-SNE em espaço quimiodinâmico (base para a comparação colunas vs. pixels). [📄 Artigo completo (acesso aberto, A&A)](assets/articles/DaSilvaSmiljanic2023.pdf).
+- da Silva & Smiljanic (2023) — t-SNE em espaço quimiodinâmico (base para a comparação colunas vs. pixels). [📄 Artigo completo (acesso aberto, A\&A)](assets/articles/DaSilvaSmiljanic2023.pdf).
 - Hughes et al. (2022) — descoberta de estrelas extremamente pobres em metais no GALAH DR3 via ML supervisionado. [📄 Artigo completo (acesso aberto, ApJ)](assets/articles/Hughes2022.pdf).
 - Pettee et al. (2023) — detecção fracamente supervisionada de streams estelares no Gaia (CWoLa).
 - Ver [Artigos](pt-br/research/anomaly-detection/articles) para as anotações completas de leitura de todos os papers usados nesta pesquisa.

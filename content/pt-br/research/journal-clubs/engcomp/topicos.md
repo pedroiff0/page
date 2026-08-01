@@ -3,6 +3,7 @@ publish: true
 title: Tópicos e onde procurar
 created: 2026-08-01
 modified: 2026-08-01
+published: 2026-08-01T16:22:00.830-03:00
 tags:
   - journal-club
   - engcomp

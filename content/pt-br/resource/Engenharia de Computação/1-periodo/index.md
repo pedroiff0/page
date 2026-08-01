@@ -60,6 +60,11 @@ Disciplinas do 1º período do curso de Engenharia de Computação.
 
 ## 📎 Documentos do período
 
+- [horario_1p](assets/disciplinas/1-periodo/horario_1p.pdf)
+- [Horario_Eng_2semestre](assets/disciplinas/1-periodo/Horario_Eng_2semestre.pdf)
+- [ppc1sem](assets/disciplinas/1-periodo/ppc1sem.pdf)
+- [Materias 1 Semestre](assets/disciplinas/1-periodo/Materias%201%20Semestre.pdf)
+- [Calendário - Cursos semestrais](assets/disciplinas/1-periodo/Calend%C3%A1rio%20-%20Cursos%20semestrais.pdf)
 - [PPC 1º Semestre](assets/disciplinas/1-periodo/PPC%201º%20Semestre.pdf)
 - [Horário 1º Período](assets/disciplinas/1-periodo/Horario%201º%20Período.pdf)
 - [Horário Geral - 2º Semestre](assets/disciplinas/1-periodo/Horario%20Geral%20-%202º%20Semestre.pdf)

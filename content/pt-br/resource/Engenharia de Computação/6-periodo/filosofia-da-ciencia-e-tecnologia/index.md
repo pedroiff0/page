@@ -1,0 +1,76 @@
+---
+publish: true
+title: Filosofia da Ciência e Tecnologia
+created: 2026-07-18
+modified: 2026-07-26T11:33:09.995-03:00
+published: 2026-07-26T11:33:09.995-03:00
+tags:
+  - disciplina
+  - especifica
+---
+
+> [!note] Sobre esta disciplina
+> **Período:** 6º Período · **Núcleo:** Específica · **Carga Horária:** 60h
+> **Tópicos:** Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O progresso científico. O progresso tecnológico. Civilização tecnológica.
+
+| Campo | Valor |
+| --- | --- |
+| Código | CSECBJI.43 |
+| Núcleo | Específica |
+| Carga Horária | 60 |
+| Período | 6º Período |
+| Pré-requisitos | — |
+| Professor | Rafael Tardin |
+| Email |  |
+
+## 📋 Ementa
+
+Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O progresso científico. O progresso tecnológico. Civilização tecnológica. Ciência, Tecnologia e Humanismo.
+
+## 🎯 Objetivos
+
+- Problematizar e contextualizar a crise da Ciência Moderna e das concepções dominantes de tecnologia, fazendo a crítica ao paradigma científico dominante.
+
+## 📖 Conteúdo Programático
+
+1. Teoria do conhecimento: arte, técnica, ciência e engenharia
+
+- Definição e contextualização sobre a condição humana
+- Definições ciência, técnica e tecnologia
+- O contexto do século XXI
+
+2. O Progresso Científico e o Progresso Tecnológico
+
+- Paradigma científico dominante
+- Definições sobre crise da Ciência, crise do paradigma científico
+- Contexto do século XXI
+
+3. Civilização Tecnológica, Ciência, Tecnologia e Humanismo
+
+- O laboratório como ambiente de conflito e crise
+- O questionamento do paradigma científico
+- O questionamento do paradigma científico e as polêmicas emergentes
+- O Contexto do século XXI
+
+## 📕 Bibliografia Básica
+
+1. CHAUI, M. S. Convite à filosofia. 14. ed. São Paulo: Ática, 2011.
+2. LATOUR, Bruno. Ciência em ação: como seguir cientistas e engenheiros sociedade afora. São Paulo:
+3. Ed. UNESP, 2000.
+4. MORIN, E. Ciência com consciência. 11. ed. Rio de Janeiro: Bertrand Brasil, 2008.
+
+## 📗 Bibliografia Complementar
+
+1. ARANHA, M. L. A.; MARTINS, M. H. P. Filosofando: introdução à filosofia. 4. ed. rev. São Paulo:
+2. Moderna, 2009.
+3. HARVEY, David. Condição pós-moderna: uma pesquisa sobre as origens da mudança cultural. 14. ed.
+4. São Paulo: Loyola, 2005.
+5. PINTO, Álvaro Vieira. O conceito de tecnologia. Rio de Janeiro: Contraponto, 2008.
+6. SANTOS, B. S. Um discurso sobre as ciências. 6. ed. São Paulo, SP: Cortez, 2009.
+7. LIVA, A. Filosofia da Ciência. Rio de Janeiro: Zahar, 2003.
+
+
+## 📝 Anotações e Arquivos
+
+- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/filosofia-da-ciencia-e-tecnologia/`)

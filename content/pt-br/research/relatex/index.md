@@ -2,6 +2,8 @@
 publish: true
 title: "ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF"
 created: 2026-06-18
+modified: 2026-07-31T23:45:03.282-03:00
+published: 2026-07-31T23:45:03.282-03:00
 tags:
   - latex
   - engenharia-de-software
@@ -51,14 +53,14 @@ O encapsulamento dessas rotinas em macros parametrizadas cumpriu o objetivo: red
 
 ## 🏆 Apresentações
 
-Este projeto será apresentado no **CONEPE 2026** (Congresso de Ensino, Pesquisa e Extensão do IFF *Campus* Guarus), de 21 a 23 de setembro de 2026.
+Este projeto será apresentado no **CONEPE 2026** (Congresso de Ensino, Pesquisa e Extensão do IFF _Campus_ Guarus), de 21 a 23 de setembro de 2026.
 
 ## 🔗 Referências e correlatos
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14724: Informação e documentação — Trabalhos acadêmicos — Apresentação. Rio de Janeiro, 2011.
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6027: Informação e documentação — Sumário — Apresentação. Rio de Janeiro, 2012.
-- KNUTH, D. E. *The TeXbook*. Reading, Massachusetts: Addison-Wesley, 1986.
-- LAMPORT, L. *LaTeX: A Document Preparation System*. 2ª ed. Reading, Massachusetts: Addison-Wesley, 1994.
+- KNUTH, D. E. _The TeXbook_. Reading, Massachusetts: Addison-Wesley, 1986.
+- LAMPORT, L. _LaTeX: A Document Preparation System_. 2ª ed. Reading, Massachusetts: Addison-Wesley, 1994.
 - EQUIPE ABNTEX2 — [a classe abntex2](https://github.com/abntex/abntex2), base de compatibilidade ABNT usada neste projeto.
 - CONEPE 2026 — a cobertura da apresentação entra aqui depois do evento (setembro de 2026).
 - [LaTeX e Escrita Acadêmica](pt-br/resource/latex) — o curso construído em cima deste projeto; as aulas 06 a 08 documentam `ifftese.cls`, `macros.sty` e `metadados.sty` linha a linha.
