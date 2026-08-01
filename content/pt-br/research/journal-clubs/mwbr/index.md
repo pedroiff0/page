@@ -3,6 +3,7 @@ publish: true
 title: MWBR
 created: 2026-07-26
 modified: 2026-07-31
+published: 2026-07-31T23:46:49.322-03:00
 ---
 
 > [!note] Resumo

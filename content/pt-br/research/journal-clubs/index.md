@@ -3,6 +3,7 @@ publish: true
 title: Journal Clubs
 created: 2026-07-26
 modified: 2026-07-26
+published: 2026-07-31T23:44:56.994-03:00
 ---
 
 > [!note] Resumo
@@ -21,6 +22,7 @@ Cada uma dessas páginas monta a própria lista de artigos a partir do frontmatt
 
 > [!example] Modelo de nota de artigo
 > Toda nota de artigo discutido segue a mesma estrutura. Os quatro primeiros campos alimentam a tabela da página do grupo, que é gerada automaticamente — basta criar a nota na pasta certa (`mwbr/` ou `engcomp/`) e ela aparece sozinha no próximo build.
+>
 > ```markdown
 > ---
 > publish: true

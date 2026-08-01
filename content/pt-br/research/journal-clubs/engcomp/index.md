@@ -3,6 +3,7 @@ publish: true
 title: ENGCOMP
 created: 2026-07-26
 modified: 2026-07-31
+published: 2026-07-31T23:46:47.810-03:00
 ---
 
 > [!note] Resumo
