@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 40 |
 | Período | 4º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Laert |
-| Email |  | — |
+| Email |  |
 
 ## 📋 Ementa
 

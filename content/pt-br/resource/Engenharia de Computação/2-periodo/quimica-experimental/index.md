@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 40 |
 | Período | 2º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Érica/Marcione |
-| Email |  | — |
+| Email |  |
 
 ## 📋 Ementa
 

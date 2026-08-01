@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Rafael Tardin |
-| Email |  | — |
+| Email |  |
 
 ## 📋 Ementa
 

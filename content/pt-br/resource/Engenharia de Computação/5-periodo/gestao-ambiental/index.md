@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Gardoni |
-| Email |  | — |
+| Email |  |
 
 ## 📋 Ementa
 

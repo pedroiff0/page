@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 2º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md) |
 | Professor | Gustavo Stênio |
-| Email | gustavo.neitzel@iff.edu.br | [CSECBJI.4 - Cálculo I](calculo-i.md) |
+| Email | gustavo.neitzel@iff.edu.br |
 
 ## 🔒 Trancas
 

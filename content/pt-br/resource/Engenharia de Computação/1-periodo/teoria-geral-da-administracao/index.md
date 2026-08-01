@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básica |
 | Carga Horária | 60 |
 | Período | 1º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Alexandre Alvim |
-| Email | alvimprof@gmail.com | — |
+| Email | alvimprof@gmail.com |
 
 ## 📋 Ementa
 
@@ -84,4 +84,4 @@ Campo da Administração; Estruturas Administrativas; Importância das Estrutura
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/|Ver todas as anotações]]
-- 📁 Arquivos (protegidos em `assets/disciplinas/1-periodo/teoria-geral-da-administracao/`)
+- 📁 [[assets/disciplinas/1-periodo/teoria-geral-da-administracao/|Ver todos os arquivos da disciplina]]

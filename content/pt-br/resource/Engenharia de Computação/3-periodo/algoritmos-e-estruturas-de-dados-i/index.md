@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 3º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) |
 | Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) |
+| Email | ana.figueiredo@iff.edu.br |
 
 ## 🔒 Trancas
 

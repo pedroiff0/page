@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md) |
 | Professor | Garcez |
-| Email | luiz.garcez@iff.edu.br | [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md) |
+| Email | luiz.garcez@iff.edu.br |
 
 ## 🔒 Trancas
 

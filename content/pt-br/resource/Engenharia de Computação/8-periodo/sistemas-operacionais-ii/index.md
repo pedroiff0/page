@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.56 - Sistemas Operacionais I](sistemas-operacionais-i.md) |
 | Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br | [CSECBJI.56 - Sistemas Operacionais I](sistemas-operacionais-i.md) |
+| Email | ana.figueiredo@iff.edu.br |
 
 ## 📋 Ementa
 

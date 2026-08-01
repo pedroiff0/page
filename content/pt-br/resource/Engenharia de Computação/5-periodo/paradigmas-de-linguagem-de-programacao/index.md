@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | — |
 | Período | 5º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Wesley Folly |
-| Email | wesley.souza@iff.edu.br | — |
+| Email | wesley.souza@iff.edu.br |
 
 ## 🔒 Trancas
 

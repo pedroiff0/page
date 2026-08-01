@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 120 |
 | Período | 1º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Gustavo Stênio |
-| Email | gustavo.neitzel@iff.edu.br | — |
+| Email | gustavo.neitzel@iff.edu.br |
 
 ## 🔒 Trancas
 
@@ -129,16 +129,7 @@ Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplic
 4. STWEART, J. Cálculo. 4ª Edição. São Paulo: Cengage Learning, 2017. Vol.
 5. WEIER, M., HASS, J., THOMAS, G. B. Cálculo 1. 12ª Edição. São Paulo: Pearson, 2012. Vol.
 
-## 📎 Meu material da disciplina
-
-_(anotações, listas e trabalhos próprios — não são material oficial do curso)_
-
-- [Calculo](assets/disciplinas/1-periodo/calculo-i/Calculo.pdf)
-- [LISTA DE EXERCÍCIOS 1 (1)\_230926\_180312\_230926\_180425](assets/disciplinas/1-periodo/calculo-i/LISTA%20DE%20EXERCÍCIOS%201%20\(1\)_230926_180312_230926_180425.pdf)
-- [LISTA DE EXERCÍCIOS 2\_231017\_182527](assets/disciplinas/1-periodo/calculo-i/LISTA%20DE%20EXERCÍCIOS%202_231017_182527.pdf)
-- [Lista Sugestão Funções](assets/disciplinas/1-periodo/calculo-i/Lista%20Sugestão%20Funções.pdf)
-
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/|Ver todas as anotações]]
-- 📁 Arquivos (protegidos em `assets/disciplinas/1-periodo/calculo-i/`)
+- 📁 [[assets/disciplinas/1-periodo/calculo-i/|Ver todos os arquivos da disciplina]]

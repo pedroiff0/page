@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.42 - Análise de Software Orientada a Objetos](analise-de-software-orientada-a-objetos.md) |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.42 - Análise de Software Orientada a Objetos](analise-de-software-orientada-a-objetos.md) |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 📋 Ementa
 

@@ -57,3 +57,12 @@ Disciplinas do 4º período do curso de Engenharia de Computação.
 - [Algoritmos e Estruturas de Dados II](pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii) — 60h, núcleo Profissionalizante.
 - [Cálculo IV](pt-br/resource/engenharia-de-computação/4-periodo/calculo-iv) — 80h, núcleo Básico.
 - [Economia](pt-br/resource/engenharia-de-computação/4-periodo/economia) — 40h, núcleo Básico.
+
+## 📎 Documentos do período
+
+- [PPC\_4\_Sem](assets/disciplinas/4-periodo/PPC_4_Sem.pdf)
+- [calendario\_2025\_cursossemestrais](assets/disciplinas/4-periodo/calendario_2025_cursossemestrais.pdf)
+- [Aulas](assets/disciplinas/4-periodo/Aulas.pdf)
+- [Modelo Planner Vertical (SEMESTRAL)](assets/disciplinas/4-periodo/Modelo%20Planner%20Vertical%20%28SEMESTRAL%29.pdf)
+- [horario\_4p - Planilha1](assets/disciplinas/4-periodo/horario_4p%20-%20Planilha1.pdf)
+- [PPC\_3\_Sem](assets/disciplinas/4-periodo/PPC_3_Sem.pdf)

@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md), [CSECBJI.53 - Sistemas Digitais](sistemas-digitais.md) |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md), [CSECBJI.53 - Sistemas Digitais](sistemas-digitais.md) |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 📋 Ementa
 

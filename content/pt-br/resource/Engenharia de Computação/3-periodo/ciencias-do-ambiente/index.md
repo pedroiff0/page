@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 40 |
 | Período | 3º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Carlos Dambroz |
-| Email |  | — |
+| Email |  |
 
 ## 📋 Ementa
 

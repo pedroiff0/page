@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.14 - Matemática Discreta](matematica-discreta.md), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) |
 | Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br | [CSECBJI.14 - Matemática Discreta](matematica-discreta.md), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) |
+| Email | ana.figueiredo@iff.edu.br |
 
 ## 🔒 Trancas
 

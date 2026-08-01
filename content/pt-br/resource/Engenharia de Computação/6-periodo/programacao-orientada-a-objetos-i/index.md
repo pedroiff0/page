@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md), [CSECBJI.38 - Paradigmas de Linguagem de Programação](paradigmas-de-linguagem-de-programacao.md) |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md), [CSECBJI.38 - Paradigmas de Linguagem de Programação](paradigmas-de-linguagem-de-programacao.md) |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 🔒 Trancas
 

@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.1 - Fundamentos de Computação](fundamentos-de-computacao.md) |
 | Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br | [CSECBJI.1 - Fundamentos de Computação](fundamentos-de-computacao.md) |
+| Email | ana.figueiredo@iff.edu.br |
 
 ## 🔒 Trancas
 

@@ -62,3 +62,11 @@ Disciplinas do 5º período do curso de Engenharia de Computação.
 - [Gestão Ambiental](gestao-ambiental.md) — 60h, núcleo Básico.
 - [Linguagens Formais e Autômatos](pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) — 60h, núcleo Profissionalizante.
 - [Avaliação e Desempenho de Sistemas](avaliacao-e-desempenho-de-sistemas.md) — 60h, núcleo Profissionalizante.
+
+## 📎 Documentos do período
+
+- [calendario-2026-cursos-superiores](assets/disciplinas/5-periodo/calendario-2026-cursos-superiores.pdf)
+- [PPC\_4\_Sem](assets/disciplinas/5-periodo/PPC_4_Sem.pdf)
+- [2026-1 5 periodo](assets/disciplinas/5-periodo/2026-1%205%20periodo.pdf)
+- [Eng 2026-1](assets/disciplinas/5-periodo/Eng%202026-1.pdf)
+- [PPC5Sem](assets/disciplinas/5-periodo/PPC5Sem.pdf)

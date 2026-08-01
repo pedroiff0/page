@@ -3,7 +3,7 @@ publish: true
 title: ENGCOMP
 created: 2026-07-26
 modified: 2026-08-01
-published: 2026-08-01T16:31:59.450-03:00
+published: 2026-08-01T20:04:04.327-03:00
 ---
 
 > [!note] Resumo
@@ -63,8 +63,6 @@ views:
       - property: note.discutido
         direction: DESC
 ```
-
-_Nenhum artigo publicado ainda — em curadoria._ <!-- apagar esta linha quando a primeira nota de artigo entrar -->
 
 ## 📣 Chamada para o grupo
 

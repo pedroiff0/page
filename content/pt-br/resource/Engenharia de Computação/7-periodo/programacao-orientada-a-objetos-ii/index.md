@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.45 - Programação Orientada a Objetos I](programacao-orientada-a-objetos-i.md) |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.45 - Programação Orientada a Objetos I](programacao-orientada-a-objetos-i.md) |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 🔒 Trancas
 

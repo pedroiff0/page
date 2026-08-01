@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 📋 Ementa
 

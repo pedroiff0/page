@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 3º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.15 - Química](quimica.md) |
 | Professor | Alcides Oliveira |
-| Email | alcides.oliveira@iff.edu.br | [CSECBJI.15 - Química](quimica.md) |
+| Email | alcides.oliveira@iff.edu.br |
 
 ## 📋 Ementa
 

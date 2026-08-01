@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii.md), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) |
 | Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii.md), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) |
+| Email | ana.figueiredo@iff.edu.br |
 
 ## 🔒 Trancas
 

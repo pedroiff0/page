@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 40 |
 | Período | 5º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md) |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md) |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 🔒 Trancas
 

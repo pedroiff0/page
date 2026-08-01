@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | — |
 | Período | 2º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br | — |
+| Email | ana.figueiredo@iff.edu.br |
 
 ## 🔒 Trancas
 

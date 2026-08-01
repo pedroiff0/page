@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) |
 | Professor | Rodrigo Lacerda |
-| Email | rodrigo.lacerda@iff.edu.br | [CSECBJI.13 - Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) |
+| Email | rodrigo.lacerda@iff.edu.br |
 
 ## 📋 Ementa
 

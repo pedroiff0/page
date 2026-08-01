@@ -57,3 +57,11 @@ Disciplinas do 3º período do curso de Engenharia de Computação.
 - [Algoritmos e Estruturas de Dados I](algoritmos-e-estruturas-de-dados-i.md) — 60h, núcleo Profissionalizante.
 - [Introdução à Ciência dos Materiais](introducao-a-ciencia-dos-materiais.md) — 60h, núcleo Básico.
 - [Ciências do Ambiente](ciencias-do-ambiente.md) — 40h, núcleo Básico.
+
+## 📎 Documentos do período
+
+- [Modelo Planner Horizontal (SEMESTRAL)](assets/disciplinas/3-periodo/Modelo%20Planner%20Horizontal%20%28SEMESTRAL%29.pdf)
+- [calendario-2024-cursos-semestrais](assets/disciplinas/3-periodo/calendario-2024-cursos-semestrais.pdf)
+- [horario\_3p - Planilha1](assets/disciplinas/3-periodo/horario_3p%20-%20Planilha1.pdf)
+- [ppc3sem](assets/disciplinas/3-periodo/ppc3sem.pdf)
+- [disciplinas](assets/disciplinas/3-periodo/disciplinas.pdf)

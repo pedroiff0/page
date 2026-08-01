@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 80 |
 | Período | 10º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.67 - Projeto Final de Curso I](projeto-final-de-curso-i.md) |
 | Professor | Alcides Oliveira |
-| Email | alcides.oliveira@iff.edu.br | [CSECBJI.67 - Projeto Final de Curso I](projeto-final-de-curso-i.md) |
+| Email | alcides.oliveira@iff.edu.br |
 
 ## 📋 Ementa
 

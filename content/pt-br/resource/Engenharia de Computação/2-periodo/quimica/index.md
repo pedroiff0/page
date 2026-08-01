@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 2º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Renato Batista |
-| Email |  | — |
+| Email |  |
 
 ## 🔒 Trancas
 

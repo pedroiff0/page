@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | — |
 | Período | 8º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Alcides |
-| Email | alcides.oliveira@iff.edu.br | — |
+| Email | alcides.oliveira@iff.edu.br |
 
 ## 🔒 Trancas
 

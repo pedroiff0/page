@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 9º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.62 - Microcontroladores](microcontroladores.md) |
 | Professor | Garcez |
-| Email | luiz.garcez@iff.edu.br | [CSECBJI.62 - Microcontroladores](microcontroladores.md) |
+| Email | luiz.garcez@iff.edu.br |
 
 ## 📋 Ementa
 

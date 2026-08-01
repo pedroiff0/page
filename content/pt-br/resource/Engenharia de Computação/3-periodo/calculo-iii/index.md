@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 3º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.9 - Cálculo II](calculo-ii.md) |
 | Professor | Vital |
-| Email | tiago.vital@iff.edu.br | [CSECBJI.9 - Cálculo II](calculo-ii.md) |
+| Email | tiago.vital@iff.edu.br |
 
 ## 🔒 Trancas
 

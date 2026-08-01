@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.26 - Física III](fisica-iii.md) |
 | Professor | Garcez |
-| Email | luiz.garcez@iff.edu.br | [CSECBJI.26 - Física III](fisica-iii.md) |
+| Email | luiz.garcez@iff.edu.br |
 
 ## 🔒 Trancas
 

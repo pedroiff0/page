@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 6º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.35 - Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md) |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.35 - Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md) |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 📋 Ementa
 

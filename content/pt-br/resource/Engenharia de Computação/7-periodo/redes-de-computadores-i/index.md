@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.47 - Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) |
 | Professor | Wesley Folly |
-| Email | wesley.souza@iff.edu.br | [CSECBJI.47 - Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) |
+| Email | wesley.souza@iff.edu.br |
 
 ## 🔒 Trancas
 

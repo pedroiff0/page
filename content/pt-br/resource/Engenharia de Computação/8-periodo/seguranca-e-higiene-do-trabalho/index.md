@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | — |
 | Período | 8º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Gardoni |
-| Email |  | — |
+| Email |  |
 
 ## 📋 Ementa
 

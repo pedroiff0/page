@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.17 - Cálculo III](calculo-iii.md) |
 | Professor | Tacila |
-| Email |  | [CSECBJI.17 - Cálculo III](calculo-iii.md) |
+| Email |  |
 
 ## 🔒 Trancas
 

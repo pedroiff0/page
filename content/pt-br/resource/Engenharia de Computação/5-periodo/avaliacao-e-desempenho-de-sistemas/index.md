@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.29 - Probabilidade e Estatística](probabilidade-e-estatistica.md) |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.29 - Probabilidade e Estatística](probabilidade-e-estatistica.md) |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 📋 Ementa
 

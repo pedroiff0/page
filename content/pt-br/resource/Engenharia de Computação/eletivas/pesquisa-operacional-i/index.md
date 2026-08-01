@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii.md) |
 | Professor | Gustavo Stênio |
-| Email | gustavo.neitzel@iff.edu.br | [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii.md) |
+| Email | gustavo.neitzel@iff.edu.br |
 
 ## 🔒 Trancas
 

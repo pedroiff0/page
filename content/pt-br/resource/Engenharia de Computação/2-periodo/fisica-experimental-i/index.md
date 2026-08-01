@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 40 |
 | Período | 2º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Rodrigo Lacerda |
-| Email | rodrigo.lacerda@iff.edu.br | — |
+| Email | rodrigo.lacerda@iff.edu.br |
 
 ## 📋 Ementa
 

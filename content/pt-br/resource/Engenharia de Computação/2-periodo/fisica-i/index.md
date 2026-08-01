@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 2º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
 | Professor | Thiago Juncal |
-| Email |  | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
+| Email |  |
 
 ## 🔒 Trancas
 

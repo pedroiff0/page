@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 3º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
 | Professor | Gustavo Stênio |
-| Email | gustavo.neitzel@iff.edu.br | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
+| Email | gustavo.neitzel@iff.edu.br |
 
 ## 🔒 Trancas
 

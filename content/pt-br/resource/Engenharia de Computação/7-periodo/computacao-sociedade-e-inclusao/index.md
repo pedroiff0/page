@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 7º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Karina |
-| Email |  | — |
+| Email |  |
 
 ## 📋 Ementa
 

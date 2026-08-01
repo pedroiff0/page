@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 3º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.11 - Física I](fisica-i.md) |
 | Professor | Ana Soja |
-| Email | ana.soja@iff.edu.br | [CSECBJI.11 - Física I](fisica-i.md) |
+| Email | ana.soja@iff.edu.br |
 
 ## 📋 Ementa
 

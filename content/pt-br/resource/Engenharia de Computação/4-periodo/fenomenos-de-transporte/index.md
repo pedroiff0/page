@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 80 |
 | Período | 4º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.19 - Física II](fisica-ii.md) |
 | Professor | Alcides Oliveira |
-| Email | alcides.oliveira@iff.edu.br | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.19 - Física II](fisica-ii.md) |
+| Email | alcides.oliveira@iff.edu.br |
 
 ## 📋 Ementa
 

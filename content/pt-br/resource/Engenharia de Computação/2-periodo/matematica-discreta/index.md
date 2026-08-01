@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básica |
 | Carga Horária | 60 |
 | Período | 2º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md) |
 | Professor | Gustavo Stênio |
-| Email | gustavo.neitzel@iff.edu.br | [CSECBJI.3 - Lógica para Computação](logica-para-computacao.md) |
+| Email | gustavo.neitzel@iff.edu.br |
 
 ## 🔒 Trancas
 

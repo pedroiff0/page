@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | — |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 🔒 Trancas
 

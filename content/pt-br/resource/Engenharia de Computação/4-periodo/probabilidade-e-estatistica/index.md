@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 4º Período |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Roberto Carvalho |
-| Email |  | — |
+| Email |  |
 
 ## 🔒 Trancas
 

@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.26 - Física III](fisica-iii.md) |
 | Professor | Rodrigo Lacerda |
-| Email | rodrigo.lacerda@iff.edu.br | [CSECBJI.26 - Física III](fisica-iii.md) |
+| Email | rodrigo.lacerda@iff.edu.br |
 
 ## 🔒 Trancas
 

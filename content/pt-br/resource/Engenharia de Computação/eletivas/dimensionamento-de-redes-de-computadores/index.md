@@ -19,9 +19,9 @@ tags:
 | Núcleo | Eletivo |
 | Carga Horária | 60 |
 | Período | Eletivas (optativas) |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Wesley |
-| Email | wesley.souza@iff.edu.br | — |
+| Email | wesley.souza@iff.edu.br |
 
 ## 📋 Ementa
 

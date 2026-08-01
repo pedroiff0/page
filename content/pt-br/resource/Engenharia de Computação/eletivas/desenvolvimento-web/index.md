@@ -19,9 +19,9 @@ tags:
 | Núcleo | Básico |
 | Carga Horária | — |
 | Período | Eletivas (optativas) |
-| Pré-requisitos |
+| Pré-requisitos | — |
 | Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br | — |
+| Email | ana.figueiredo@iff.edu.br |
 
 ## 📋 Ementa
 

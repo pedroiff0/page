@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 60 |
 | Período | 8º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.55 - Redes de Computadores I](redes-de-computadores-i.md) |
 | Professor | Wesley Folly |
-| Email | wesley.souza@iff.edu.br | [CSECBJI.55 - Redes de Computadores I](redes-de-computadores-i.md) |
+| Email | wesley.souza@iff.edu.br |
 
 ## 📋 Ementa
 

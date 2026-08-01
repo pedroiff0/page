@@ -19,9 +19,9 @@ tags:
 | Núcleo | Específica |
 | Carga Horária | 80 |
 | Período | 9º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.64 - Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica.md) |
 | Professor | Alcides Oliveira |
-| Email | alcides.oliveira@iff.edu.br | [CSECBJI.64 - Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica.md) |
+| Email | alcides.oliveira@iff.edu.br |
 
 ## 🔒 Trancas
 

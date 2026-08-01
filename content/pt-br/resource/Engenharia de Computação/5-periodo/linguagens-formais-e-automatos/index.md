@@ -19,9 +19,9 @@ tags:
 | Núcleo | Profissionalizante |
 | Carga Horária | 60 |
 | Período | 5º Período |
-| Pré-requisitos |
+| Pré-requisitos | [CSECBJI.14 - Matemática Discreta](matematica-discreta.md) |
 | Professor | Fabrício Barros |
-| Email | fabricio.goncalves@iff.edu.br | [CSECBJI.14 - Matemática Discreta](matematica-discreta.md) |
+| Email | fabricio.goncalves@iff.edu.br |
 
 ## 🔒 Trancas
 
