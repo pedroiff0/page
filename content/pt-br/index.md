@@ -30,35 +30,68 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 
 ---
 
-### 🎓 Currículo Lattes Embutido
+### 🎓 Currículo Lattes & CVs
 
-Abaixo você pode consultar diretamente o meu **Currículo Lattes oficial** embutido via leitor interativo, além de baixar os arquivos em PDF:
+Abaixo você pode acessar diretamente o meu **Currículo Lattes oficial (CNPq)** ou baixar as versões resumidas do meu Curriculum Vitae em PDF em diferentes idiomas:
 
-<div style="margin: 1.5rem 0; border: 1px solid var(--lightgray); border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-  <div style="background-color: var(--light); padding: 0.75rem 1rem; border-bottom: 1px solid var(--lightgray); display: flex; justify-content: space-between; align-items: center; font-weight: 600;">
-    <span>📄 Currículo Lattes (PDF)</span>
-    <a href="/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf" target="_blank" style="font-size: 0.9em;">↗ Abrir em nova aba</a>
-  </div>
-  <iframe src="/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf" width="100%" height="600px" style="border: none;">
-    <p>Seu navegador não suporta visualização de PDF. <a href="/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf">Clique aqui para baixar o PDF do Lattes.</a></p>
-  </iframe>
+<div class="cv-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
+
+  <a href="http://lattes.cnpq.br/6818168089966785" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 8px; padding: 1.25rem; transition: transform 0.2s, box-shadow 0.2s; height: 100%; display: flex; flex-direction: column; justify: space-between;">
+      <div>
+        <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">📜</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.25rem;">Currículo Lattes</div>
+        <div style="font-size: 0.85rem; color: var(--gray);">Plataforma oficial do CNPq (Atualizado 2026)</div>
+      </div>
+      <div style="margin-top: 1rem; font-weight: 600; font-size: 0.85rem; color: var(--tertiary);">Acessar Lattes CNPq ↗</div>
+    </div>
+  </a>
+
+  <a href="/assets/curriculo/portugueseCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 8px; padding: 1.25rem; transition: transform 0.2s, box-shadow 0.2s; height: 100%; display: flex; flex-direction: column; justify: space-between;">
+      <div>
+        <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🇧🇷</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.25rem;">CV em Português</div>
+        <div style="font-size: 0.85rem; color: var(--gray);">Versão em PDF de duas colunas</div>
+      </div>
+      <div style="margin-top: 1rem; font-weight: 600; font-size: 0.85rem; color: var(--tertiary);">Baixar / Visualizar PDF ↗</div>
+    </div>
+  </a>
+
+  <a href="/assets/curriculo/englishCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 8px; padding: 1.25rem; transition: transform 0.2s, box-shadow 0.2s; height: 100%; display: flex; flex-direction: column; justify: space-between;">
+      <div>
+        <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🇬🇧</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.25rem;">CV in English</div>
+        <div style="font-size: 0.85rem; color: var(--gray);">Two-column PDF version</div>
+      </div>
+      <div style="margin-top: 1rem; font-weight: 600; font-size: 0.85rem; color: var(--tertiary);">Download / View PDF ↗</div>
+    </div>
+  </a>
+
+  <a href="/assets/curriculo/spanishCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 8px; padding: 1.25rem; transition: transform 0.2s, box-shadow 0.2s; height: 100%; display: flex; flex-direction: column; justify: space-between;">
+      <div>
+        <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🇪🇸</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.25rem;">CV en Español</div>
+        <div style="font-size: 0.85rem; color: var(--gray);">Versión en PDF de dos columnas</div>
+      </div>
+      <div style="margin-top: 1rem; font-weight: 600; font-size: 0.85rem; color: var(--tertiary);">Descargar / Ver PDF ↗</div>
+    </div>
+  </a>
+
+  <a href="/assets/curriculo/frenchCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 8px; padding: 1.25rem; transition: transform 0.2s, box-shadow 0.2s; height: 100%; display: flex; flex-direction: column; justify: space-between;">
+      <div>
+        <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🇫🇷</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.25rem;">CV en Français</div>
+        <div style="font-size: 0.85rem; color: var(--gray);">Version PDF sur deux colonnes</div>
+      </div>
+      <div style="margin-top: 1rem; font-weight: 600; font-size: 0.85rem; color: var(--tertiary);">Télécharger / Voir PDF ↗</div>
+    </div>
+  </a>
+
 </div>
-
----
-
-### 📄 Curriculum Vitae (PDFs por Idioma)
-
-Você também pode baixar a versão resumida em PDF no idioma de sua preferência:
-
-- 🇧🇷 [Currículo em Português (PDF)](/assets/curriculo/portugueseCV.pdf)
-- 🇬🇧 [CV in English (PDF)](/assets/curriculo/englishCV.pdf)
-- 🇪🇸 [CV en Español (PDF)](/assets/curriculo/spanishCV.pdf)
-- 🇫🇷 [CV en Français (PDF)](/assets/curriculo/frenchCV.pdf)
-
-> [!info] Visualização do CV Resumido
-> Abaixo está a versão visual do meu currículo em Português:
-
-![[assets/curriculo/portugueseCV.pdf]]
 
 ---
 
