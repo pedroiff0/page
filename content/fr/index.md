@@ -13,7 +13,7 @@ published: 2026-07-26T12:36:37.259-03:00
 
 ### 1️⃣ Première étape : à propos de moi
 
-<img src="../assets/profilepic.jpeg" alt="Pedro Henrique" width="160" style="border-radius: 50%; float: right; margin-left: 1.5rem; margin-bottom: 1rem; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 Je m'appelle Pedro Henrique, étudiant en génie informatique à l'[Institut Fédéral Fluminense](https://portal1.iff.edu.br/), à Bom Jesus do Itabapoana, dans l'intérieur de l'État de Rio de Janeiro, au Brésil. Depuis 2022, je construis un pont entre l'**informatique** et l'**astronomie**, en travaillant sur des projets de recherche qui explorent les populations stellaires et la structure de la Voie lactée.
 

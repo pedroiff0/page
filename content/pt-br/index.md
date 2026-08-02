@@ -13,7 +13,7 @@ published: 2026-07-26T12:36:37.263-03:00
 
 ### 1️⃣ Primeiro passo: Sobre mim
 
-<img src="../assets/profilepic.jpeg" alt="Pedro Henrique" width="160" style="border-radius: 50%; float: right; margin-left: 1.5rem; margin-bottom: 1rem; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 Sou Pedro Henrique, estudante de Engenharia de Computação no [Instituto Federal Fluminense](https://portal1.iff.edu.br/), em Bom Jesus do Itabapoana, no interior do Rio de Janeiro, Brasil. Desde 2022, venho construindo uma ponte entre **ciência da computação** e **astronomia**, trabalhando em projetos de pesquisa que exploram populações estelares e a estrutura da Via Láctea.
 
