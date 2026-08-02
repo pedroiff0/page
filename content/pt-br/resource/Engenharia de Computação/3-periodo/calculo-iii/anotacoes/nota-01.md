@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Nota 01 - Calculo Iii
+title: Nota 01 - Calculo III
 password: "engcomp20232"
 ---
 

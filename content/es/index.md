@@ -23,11 +23,28 @@ Mi pasión está en la intersección entre **métodos computacionales** y **prob
 
 Si quieres ponerte en contacto, ¡envíame un correo!
 
+- 🎓 [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
 - 💻 [GitHub](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
 - 📸 [Instagram](https://instagram.com/fckpeeh)
 - 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
 - ✉️ [Correo](mailto:pedroiff0@gmail.com)
+
+### 📄 Currículum Vitae
+
+A continuación puedes descargar mi CV en diferentes idiomas y mi Currículo Lattes completo:
+
+- 🇧🇷 [Currículo em Português (PDF)](/assets/curriculo/portugueseCV.pdf)
+- 🇬🇧 [CV in English (PDF)](/assets/curriculo/englishCV.pdf)
+- 🇪🇸 [CV en Español (PDF)](/assets/curriculo/spanishCV.pdf)
+- 🇫🇷 [CV en Français (PDF)](/assets/curriculo/frenchCV.pdf)
+- 🎓 [Currículo Lattes (PDF)](/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf)
+
+> [!info] Visualizador de CV
+> Puedes ver la versión en español de mi **CV** a continuación.
+
+**CV (Español):**
+![[assets/curriculo/spanishCV.pdf]]
 
 ### 📬 Contáctame
 

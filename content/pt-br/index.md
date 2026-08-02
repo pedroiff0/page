@@ -23,22 +23,28 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 
 Caso queira entrar em contato, mande um email!
 
-- Lattes:  [**https://lattes.cnpq.br/6818168089966785**](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=57423C703C70B11AD5F2FFFB3B76E39E# "Endereço para acessar este CV:")
+- 🎓 [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
 - 💻 [GitHub](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
 - 📸 [Instagram](https://instagram.com/fckpeeh)
 - 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
 - ✉️ [E-mail](mailto:pedroiff0@gmail.com)
 
-### Curriculo Vitae
+### 📄 Curriculum Vitae
 
-Breve resumo.
-(inserir arquivo para download)
-Exibir arquivo.
+Abaixo você pode baixar meu currículo em diferentes idiomas e o meu Currículo Lattes completo:
 
+- 🇧🇷 [Currículo em Português (PDF)](/assets/curriculo/portugueseCV.pdf)
+- 🇬🇧 [CV in English (PDF)](/assets/curriculo/englishCV.pdf)
+- 🇪🇸 [CV en Español (PDF)](/assets/curriculo/spanishCV.pdf)
+- 🇫🇷 [CV en Français (PDF)](/assets/curriculo/frenchCV.pdf)
+- 🎓 [Currículo Lattes (PDF)](/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf)
+
+> [!info] Visualização Rápida
+> Abaixo está a versão em português do meu currículo. Para outras línguas ou para o Lattes completo, utilize os links acima.
+
+**Currículo (Português):**
 ![[assets/curriculo/portugueseCV.pdf]]
-![[assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf]]
-![[assets/curriculo/englishCV.pdf]]
 
 ### 📬 Fale comigo
 

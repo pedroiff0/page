@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Nota 01 - Pesquisa Operacional Ii
+title: Nota 01 - Pesquisa Operacional II
 password: "engcomp20232"
 ---
 

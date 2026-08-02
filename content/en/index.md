@@ -23,11 +23,28 @@ My passion lies at the intersection of **computational methods** and **astrophys
 
 If you'd like to get in touch, send an email!
 
+- 🎓 [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
 - 💻 [GitHub](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
 - 📸 [Instagram](https://instagram.com/fckpeeh)
 - 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
 - ✉️ [Email](mailto:pedroiff0@gmail.com)
+
+### 📄 Curriculum Vitae
+
+Below you can download my CV in different languages and my complete Lattes CV:
+
+- 🇧🇷 [Currículo em Português (PDF)](/assets/curriculo/portugueseCV.pdf)
+- 🇬🇧 [CV in English (PDF)](/assets/curriculo/englishCV.pdf)
+- 🇪🇸 [CV en Español (PDF)](/assets/curriculo/spanishCV.pdf)
+- 🇫🇷 [CV en Français (PDF)](/assets/curriculo/frenchCV.pdf)
+- 🎓 [Currículo Lattes (PDF)](/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf)
+
+> [!info] Resume Viewer
+> You can view the English version of my **CV** directly below.
+
+**CV (English):**
+![[assets/curriculo/englishCV.pdf]]
 
 ### 📬 Get in touch
 

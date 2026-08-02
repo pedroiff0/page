@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Nota 01 - Sistemas Operacionais Ii
+title: Nota 01 - Sistemas Operacionais II
 password: "engcomp20232"
 ---
 

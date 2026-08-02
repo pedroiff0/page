@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Nota 01 - Redes De Computadores Ii
+title: Nota 01 - Redes De Computadores II
 password: "engcomp20232"
 ---
 

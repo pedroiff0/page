@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Nota 01 - Projeto Final De Curso Ii
+title: Nota 01 - Projeto Final De Curso II
 password: "engcomp20232"
 ---
 
