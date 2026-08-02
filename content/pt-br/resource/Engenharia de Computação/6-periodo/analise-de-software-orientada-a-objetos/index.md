@@ -148,4 +148,4 @@ Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de M
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

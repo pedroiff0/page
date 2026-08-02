@@ -90,4 +90,4 @@ Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. T
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

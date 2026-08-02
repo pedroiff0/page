@@ -120,4 +120,4 @@ Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

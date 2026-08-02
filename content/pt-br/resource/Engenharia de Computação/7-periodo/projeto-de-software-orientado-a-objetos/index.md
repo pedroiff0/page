@@ -93,4 +93,4 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

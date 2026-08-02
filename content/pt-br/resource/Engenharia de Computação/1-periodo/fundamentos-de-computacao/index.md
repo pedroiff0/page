@@ -104,4 +104,4 @@ História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Softwa
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

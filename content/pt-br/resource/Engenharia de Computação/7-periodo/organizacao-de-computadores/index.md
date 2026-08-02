@@ -84,4 +84,4 @@ Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dis
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

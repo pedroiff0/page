@@ -97,4 +97,4 @@ Apresentar elementos de cálculos financeiros básicos, fundamentais para o dese
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

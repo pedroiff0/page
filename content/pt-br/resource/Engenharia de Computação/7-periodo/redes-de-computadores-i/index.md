@@ -112,4 +112,4 @@ Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Re
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

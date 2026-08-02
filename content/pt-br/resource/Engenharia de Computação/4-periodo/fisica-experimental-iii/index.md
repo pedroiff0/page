@@ -76,4 +76,4 @@ Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja,
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

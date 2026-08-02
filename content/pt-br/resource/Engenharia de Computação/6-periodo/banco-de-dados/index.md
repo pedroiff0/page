@@ -86,4 +86,4 @@ Recuperação de falhas. Controle de concorrência. Noções básicas de bancos 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

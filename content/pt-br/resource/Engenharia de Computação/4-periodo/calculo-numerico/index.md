@@ -108,4 +108,4 @@ Solução de equações não lineares; Interpolação e ajuste de curvas; Integr
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

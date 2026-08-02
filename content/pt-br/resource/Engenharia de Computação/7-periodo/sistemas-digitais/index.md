@@ -113,4 +113,4 @@ Análise e síntese de circuitos digitais sequenciais; contadores e registradore
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

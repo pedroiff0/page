@@ -75,4 +75,4 @@ Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web.
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

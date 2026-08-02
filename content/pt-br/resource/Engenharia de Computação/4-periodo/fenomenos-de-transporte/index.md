@@ -84,4 +84,4 @@ Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmic
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

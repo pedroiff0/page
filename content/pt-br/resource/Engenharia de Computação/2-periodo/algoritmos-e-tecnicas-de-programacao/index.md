@@ -106,4 +106,4 @@ Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exempl
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

@@ -1,15 +1,16 @@
 ---
 title: Anotações e Arquivos - Eletronica Analogica
 publish: true
+password: "engcomp20232"
 ---
 
 ## 📝 Base de Dados de Anotações
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 260324-Aula-Aula01-1 | [[260324-Aula-Aula01-1]] |
-| 📄 260405-Aula-Diodos-1 | [[260405-Aula-Diodos-1]] |
-| 📄 nota-01 | [[nota-01]] |
+| 📄 260324-Aula-Aula01-1 | [Acessar Anotação](./260324-Aula-Aula01-1) |
+| 📄 260405-Aula-Diodos-1 | [Acessar Anotação](./260405-Aula-Diodos-1) |
+| 📄 nota-01 | [Acessar Anotação](./nota-01) |
 
 ## 📎 Base de Dados de Arquivos
 

@@ -106,4 +106,4 @@ Desenvolvimento de software de complexidade média utilizando o paradigma de ori
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

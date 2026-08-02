@@ -94,4 +94,4 @@ Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Mé
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

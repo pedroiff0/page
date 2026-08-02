@@ -84,4 +84,4 @@ Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilíst
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

@@ -95,4 +95,4 @@ Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

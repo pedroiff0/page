@@ -74,4 +74,4 @@ Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboraç�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

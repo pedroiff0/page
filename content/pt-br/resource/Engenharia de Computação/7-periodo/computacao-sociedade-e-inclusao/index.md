@@ -104,4 +104,4 @@ Apropriações da computação e relações de poder: o espaço público, o priv
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

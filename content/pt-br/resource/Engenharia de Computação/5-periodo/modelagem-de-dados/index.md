@@ -103,4 +103,4 @@ Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenc
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

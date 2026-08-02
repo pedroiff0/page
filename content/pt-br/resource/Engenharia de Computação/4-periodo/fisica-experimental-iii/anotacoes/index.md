@@ -1,35 +1,36 @@
 ---
 title: Anotações e Arquivos - Fisica Experimental Iii
 publish: true
+password: "engcomp20232"
 ---
 
 ## 📝 Base de Dados de Anotações
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 nota-01 | [[nota-01]] |
+| 📄 nota-01 | [Acessar Anotação](./nota-01) |
 
 ## 📎 Base de Dados de Arquivos
 
 | Arquivo / Documento | Link de Acesso |
 |---------------------|----------------|
-| 📦 Exp1 Gerador de Van Der Graff.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp1 Gerador de Van Der Graff.pdf) |
-| 📦 Exp1 Gerador de Van Der Graff.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica1/Exp1 Gerador de Van Der Graff.pdf) |
-| 📦 Exp10 Magnetismo e Ímãs.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp10 Magnetismo e Ímãs.pdf) |
-| 📦 Exp11 Força Magnética.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp11 Força Magnética.pdf) |
-| 📦 Exp12 Campo magnético X Corrente elétrica.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp12 Campo magnético X Corrente elétrica.pdf) |
-| 📦 Exp13 Transformadores.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp13 Transformadores.pdf) |
-| 📦 Exp2 Resistividade Elétrica.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp2 Resistividade Elétrica.pdf) |
-| 📦 Exp2 Resistividade Elétrica.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica2/Exp2 Resistividade Elétrica.pdf) |
-| 📦 Exp3 Lei de Ohm.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp3 Lei de Ohm.pdf) |
-| 📦 Exp3 Lei de Ohm.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica3/Exp3 Lei de Ohm.pdf) |
-| 📦 Exp4 Multímetro e Resistores.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp4 Multímetro e Resistores.pdf) |
-| 📦 Exp5 Capacitores em série.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp5 Capacitores em série.pdf) |
-| 📦 Exp6 Capacitores em paralelo.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp6 Capacitores em paralelo.pdf) |
-| 📦 Exp6 Capacitores em paralelo.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica4/Exp6 Capacitores em paralelo.pdf) |
-| 📦 Exp8 Associação de resistores em série.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp8 Associação de resistores em série.pdf) |
-| 📦 Exp9 AssociaÃ§Ã£o de resistores em paralelo.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica8/Exp9 AssociaÃ§Ã£o de resistores em paralelo.pdf) |
-| 📦 Exp9 Associação de resistores em paralelo.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp9 Associação de resistores em paralelo.pdf) |
+| 📦 Exp1 Gerador de Van Der Graff.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp1%20Gerador%20de%20Van%20Der%20Graff.pdf) |
+| 📦 Exp1 Gerador de Van Der Graff.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica1/Exp1%20Gerador%20de%20Van%20Der%20Graff.pdf) |
+| 📦 Exp10 Magnetismo e Ímãs.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp10%20Magnetismo%20e%20%C3%8Dm%C3%A3s.pdf) |
+| 📦 Exp11 Força Magnética.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp11%20For%C3%A7a%20Magn%C3%A9tica.pdf) |
+| 📦 Exp12 Campo magnético X Corrente elétrica.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp12%20Campo%20magn%C3%A9tico%20X%20Corrente%20el%C3%A9trica.pdf) |
+| 📦 Exp13 Transformadores.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp13%20Transformadores.pdf) |
+| 📦 Exp2 Resistividade Elétrica.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp2%20Resistividade%20El%C3%A9trica.pdf) |
+| 📦 Exp2 Resistividade Elétrica.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica2/Exp2%20Resistividade%20El%C3%A9trica.pdf) |
+| 📦 Exp3 Lei de Ohm.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp3%20Lei%20de%20Ohm.pdf) |
+| 📦 Exp3 Lei de Ohm.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica3/Exp3%20Lei%20de%20Ohm.pdf) |
+| 📦 Exp4 Multímetro e Resistores.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp4%20Mult%C3%ADmetro%20e%20Resistores.pdf) |
+| 📦 Exp5 Capacitores em série.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp5%20Capacitores%20em%20s%C3%A9rie.pdf) |
+| 📦 Exp6 Capacitores em paralelo.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp6%20Capacitores%20em%20paralelo.pdf) |
+| 📦 Exp6 Capacitores em paralelo.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica4/Exp6%20Capacitores%20em%20paralelo.pdf) |
+| 📦 Exp8 Associação de resistores em série.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp8%20Associa%C3%A7%C3%A3o%20de%20resistores%20em%20s%C3%A9rie.pdf) |
+| 📦 Exp9 AssociaÃ§Ã£o de resistores em paralelo.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica8/Exp9%20Associa%C3%83%C2%A7%C3%83%C2%A3o%20de%20resistores%20em%20paralelo.pdf) |
+| 📦 Exp9 Associação de resistores em paralelo.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/Exp9%20Associa%C3%A7%C3%A3o%20de%20resistores%20em%20paralelo.pdf) |
 | 📦 PedroH_4EC-2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/PedroH_4EC-2.pdf) |
 | 📦 PedroH_4EC-3.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/PedroH_4EC-3.pdf) |
 | 📦 PedroH_4EC-4.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/FisExp3/PedroH_4EC-4.pdf) |

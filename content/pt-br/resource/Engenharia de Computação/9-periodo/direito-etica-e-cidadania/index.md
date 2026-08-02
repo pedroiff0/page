@@ -100,4 +100,4 @@ Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

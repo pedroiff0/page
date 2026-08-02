@@ -59,4 +59,4 @@ Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O P�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

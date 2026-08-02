@@ -77,4 +77,4 @@ Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Prime
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

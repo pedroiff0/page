@@ -94,4 +94,4 @@ Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

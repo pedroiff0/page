@@ -56,4 +56,4 @@ Dinâmica de sistemas lineares e não-lineares. Hierarquia de sistemas. Modelage
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

@@ -1,21 +1,22 @@
 ---
 title: Anotações e Arquivos - Algebra Linear E Geometria Analitica Ii
 publish: true
+password: "engcomp20232"
 ---
 
 ## 📝 Base de Dados de Anotações
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 nota-01 | [[nota-01]] |
+| 📄 nota-01 | [Acessar Anotação](./nota-01) |
 
 ## 📎 Base de Dados de Arquivos
 
 | Arquivo / Documento | Link de Acesso |
 |---------------------|----------------|
 | 📦 152113-ALGA_II.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/152113-ALGA_II.pdf) |
-| 📦 152114-Apresentação_2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/152114-Apresentação_2.pdf) |
-| 📦 152115-Apresentação_3.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/152115-Apresentação_3.pdf) |
+| 📦 152114-Apresentação_2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/152114-Apresenta%C3%A7%C3%A3o_2.pdf) |
+| 📦 152115-Apresentação_3.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/152115-Apresenta%C3%A7%C3%A3o_3.pdf) |
 | 📦 153042-Trabalho_1.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/153042-Trabalho_1.pdf) |
 | 📦 155101-Lista_1.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/155101-Lista_1.pdf) |
 | 📦 155571-Trabalho_ALGA_II.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/155571-Trabalho_ALGA_II.pdf) |

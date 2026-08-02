@@ -102,4 +102,4 @@ Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

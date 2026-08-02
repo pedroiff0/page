@@ -97,4 +97,4 @@ Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

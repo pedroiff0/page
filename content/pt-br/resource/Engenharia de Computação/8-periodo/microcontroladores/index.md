@@ -115,4 +115,4 @@ Principais características; Tipos de arquiteturas; Memórias internas; Registra
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

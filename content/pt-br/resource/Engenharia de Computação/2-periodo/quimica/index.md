@@ -120,4 +120,4 @@ Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Q
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

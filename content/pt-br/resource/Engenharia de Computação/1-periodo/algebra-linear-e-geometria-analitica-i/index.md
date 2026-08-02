@@ -120,4 +120,4 @@ Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espa�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

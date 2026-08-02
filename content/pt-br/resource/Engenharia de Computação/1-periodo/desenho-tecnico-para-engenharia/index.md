@@ -92,4 +92,4 @@ Utilização de instrumentos de desenho; Normas para desenho; Desenho geométric
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

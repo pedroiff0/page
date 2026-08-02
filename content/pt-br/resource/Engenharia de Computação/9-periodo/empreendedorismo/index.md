@@ -99,4 +99,4 @@ Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

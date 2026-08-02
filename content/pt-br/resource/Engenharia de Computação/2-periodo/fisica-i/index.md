@@ -122,4 +122,4 @@ Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conserva
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

@@ -92,4 +92,4 @@ Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

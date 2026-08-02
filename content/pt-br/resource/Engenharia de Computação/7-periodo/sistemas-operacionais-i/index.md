@@ -108,4 +108,4 @@ Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Me
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

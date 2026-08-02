@@ -107,4 +107,4 @@ Visão geral de linguagens de programação: valores e tipos; variáveis e coman
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

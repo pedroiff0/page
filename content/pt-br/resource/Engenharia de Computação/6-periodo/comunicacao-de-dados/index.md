@@ -110,4 +110,4 @@ Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. C
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

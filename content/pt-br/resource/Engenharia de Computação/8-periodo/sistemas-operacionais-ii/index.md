@@ -84,4 +84,4 @@ Sistemas de Arquivos; Entrada/Saída; Deadlocks.
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

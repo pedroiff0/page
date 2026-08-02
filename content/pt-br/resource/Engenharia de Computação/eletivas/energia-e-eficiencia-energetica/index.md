@@ -81,4 +81,4 @@ Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprime
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

@@ -109,4 +109,4 @@ Teoria dos conjuntos, relações e funções, indução e recursão, análise co
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

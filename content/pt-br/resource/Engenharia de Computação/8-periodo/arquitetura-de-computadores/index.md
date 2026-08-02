@@ -86,4 +86,4 @@ Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

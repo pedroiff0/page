@@ -61,4 +61,4 @@ Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fi
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

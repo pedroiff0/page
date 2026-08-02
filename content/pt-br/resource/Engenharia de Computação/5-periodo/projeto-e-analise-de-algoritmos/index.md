@@ -99,4 +99,4 @@ Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limit
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

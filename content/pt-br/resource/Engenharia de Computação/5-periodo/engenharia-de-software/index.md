@@ -120,4 +120,4 @@ Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

@@ -83,4 +83,4 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

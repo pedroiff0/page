@@ -108,4 +108,4 @@ Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explí
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

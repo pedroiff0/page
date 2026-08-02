@@ -1,13 +1,14 @@
 ---
 title: Anotações e Arquivos - Mecanica Dos Solidos
 publish: true
+password: "engcomp20232"
 ---
 
 ## 📝 Base de Dados de Anotações
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 nota-01 | [[nota-01]] |
+| 📄 nota-01 | [Acessar Anotação](./nota-01) |
 
 ## 📎 Base de Dados de Arquivos
 
@@ -17,5 +18,5 @@ publish: true
 | 📦 163071-concurso-de-estruturas-apostila.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/mecanica-dos-solidos/163071-concurso-de-estruturas-apostila.pdf) |
 | 📦 163981-Lista3.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/mecanica-dos-solidos/163981-Lista3.pdf) |
 | 📦 164101-Lista4.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/mecanica-dos-solidos/164101-Lista4.pdf) |
-| 📦 Relatório Mecânica dos Sólidos.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/mecanica-dos-solidos/Relatório Mecânica dos Sólidos.pdf) |
+| 📦 Relatório Mecânica dos Sólidos.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/mecanica-dos-solidos/Relat%C3%B3rio%20Mec%C3%A2nica%20dos%20S%C3%B3lidos.pdf) |
 | 📦 exsMec.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/mecanica-dos-solidos/exsMec.pdf) |

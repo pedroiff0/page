@@ -60,4 +60,4 @@ Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceit
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

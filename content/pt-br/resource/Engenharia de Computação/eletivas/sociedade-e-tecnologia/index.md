@@ -79,4 +79,4 @@ Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

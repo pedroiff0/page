@@ -72,4 +72,4 @@ Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O p
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)

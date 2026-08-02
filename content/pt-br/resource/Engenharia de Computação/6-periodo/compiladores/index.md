@@ -114,4 +114,4 @@ Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de c�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [[anotacoes/index|Anotações e Arquivos]]
+- 📁 [Anotações e Arquivos](./anotacoes/)
