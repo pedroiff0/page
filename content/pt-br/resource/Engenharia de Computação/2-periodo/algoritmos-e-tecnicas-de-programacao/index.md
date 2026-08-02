@@ -106,4 +106,4 @@ Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exempl
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes/index|Anotações e Arquivos]]

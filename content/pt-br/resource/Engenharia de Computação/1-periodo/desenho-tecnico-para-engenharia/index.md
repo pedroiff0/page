@@ -92,4 +92,4 @@ Utilização de instrumentos de desenho; Normas para desenho; Desenho geométric
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/anotacoes/index|Anotações e Arquivos]]

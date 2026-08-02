@@ -115,4 +115,4 @@ Principais características; Tipos de arquiteturas; Memórias internas; Registra
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/anotacoes/index|Anotações e Arquivos]]

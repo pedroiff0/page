@@ -102,4 +102,4 @@ Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sinc
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/anotacoes/index|Anotações e Arquivos]]

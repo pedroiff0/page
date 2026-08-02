@@ -59,4 +59,4 @@ Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O P�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/3-periodo/fisica-experimental-ii/anotacoes/index|Anotações e Arquivos]]

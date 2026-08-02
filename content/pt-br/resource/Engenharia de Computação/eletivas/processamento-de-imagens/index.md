@@ -88,4 +88,4 @@ Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-imagens/anotacoes/index|Anotações e Arquivos]]

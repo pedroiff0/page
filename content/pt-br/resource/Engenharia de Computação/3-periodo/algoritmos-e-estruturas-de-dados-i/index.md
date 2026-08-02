@@ -102,4 +102,4 @@ Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/3-periodo/algoritmos-e-estruturas-de-dados-i/anotacoes/index|Anotações e Arquivos]]

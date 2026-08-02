@@ -90,4 +90,4 @@ Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. T
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/pesquisa-operacional-ii/anotacoes/index|Anotações e Arquivos]]

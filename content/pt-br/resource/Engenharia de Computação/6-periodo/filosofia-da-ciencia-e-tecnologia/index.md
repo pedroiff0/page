@@ -72,4 +72,4 @@ Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O p
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/index|Anotações e Arquivos]]

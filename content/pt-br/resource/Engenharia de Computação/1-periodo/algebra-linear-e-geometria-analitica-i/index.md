@@ -120,4 +120,4 @@ Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espa�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/anotacoes/index|Anotações e Arquivos]]

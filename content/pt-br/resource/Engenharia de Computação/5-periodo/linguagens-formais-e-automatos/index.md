@@ -78,4 +78,4 @@ Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. M
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/5-periodo/linguagens-formais-e-automatos/anotacoes/index|Anotações e Arquivos]]

@@ -88,4 +88,4 @@ Distribuições de Probabilidades.
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/4-periodo/probabilidade-e-estatistica/anotacoes/index|Anotações e Arquivos]]

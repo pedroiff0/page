@@ -108,4 +108,4 @@ Solução de equações não lineares; Interpolação e ajuste de curvas; Integr
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/anotacoes/index|Anotações e Arquivos]]

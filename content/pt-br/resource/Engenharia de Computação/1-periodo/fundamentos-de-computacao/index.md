@@ -104,4 +104,4 @@ História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Softwa
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/anotacoes/index|Anotações e Arquivos]]

@@ -97,4 +97,4 @@ Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/3-periodo/ciencias-do-ambiente/anotacoes/index|Anotações e Arquivos]]

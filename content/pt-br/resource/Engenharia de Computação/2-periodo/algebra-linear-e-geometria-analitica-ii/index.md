@@ -89,4 +89,4 @@ Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores au
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/anotacoes/index|Anotações e Arquivos]]

@@ -97,4 +97,4 @@ Apresentar elementos de cálculos financeiros básicos, fundamentais para o dese
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/4-periodo/economia/anotacoes/index|Anotações e Arquivos]]

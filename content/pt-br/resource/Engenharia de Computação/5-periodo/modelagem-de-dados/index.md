@@ -103,4 +103,4 @@ Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenc
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes/index|Anotações e Arquivos]]

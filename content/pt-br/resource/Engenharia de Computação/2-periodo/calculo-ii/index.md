@@ -92,4 +92,4 @@ Aplicações da integral definida; Integrais impróprias; Funções de várias v
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/calculo-ii/anotacoes/index|Anotações e Arquivos]]

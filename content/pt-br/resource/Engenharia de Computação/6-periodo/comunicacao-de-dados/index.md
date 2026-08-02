@@ -110,4 +110,4 @@ Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. C
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/6-periodo/comunicacao-de-dados/anotacoes/index|Anotações e Arquivos]]

@@ -93,4 +93,4 @@ tags:
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/4-periodo/algoritmos-e-estruturas-de-dados-ii/anotacoes/index|Anotações e Arquivos]]

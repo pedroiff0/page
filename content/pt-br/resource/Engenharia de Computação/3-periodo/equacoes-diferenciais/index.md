@@ -108,4 +108,4 @@ Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explí
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/anotacoes/index|Anotações e Arquivos]]

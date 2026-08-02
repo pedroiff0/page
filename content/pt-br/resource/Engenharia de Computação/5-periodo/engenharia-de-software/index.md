@@ -120,4 +120,4 @@ Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/anotacoes/index|Anotações e Arquivos]]

@@ -99,4 +99,4 @@ Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/9-periodo/empreendedorismo/anotacoes/index|Anotações e Arquivos]]

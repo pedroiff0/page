@@ -100,4 +100,4 @@ Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/anotacoes/index|Anotações e Arquivos]]

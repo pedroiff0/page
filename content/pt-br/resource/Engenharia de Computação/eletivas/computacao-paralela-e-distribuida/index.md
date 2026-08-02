@@ -95,4 +95,4 @@ Arquiteturas paralelas. Modelos, ferramentas e ambientes de computação paralel
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/computacao-paralela-e-distribuida/anotacoes/index|Anotações e Arquivos]]

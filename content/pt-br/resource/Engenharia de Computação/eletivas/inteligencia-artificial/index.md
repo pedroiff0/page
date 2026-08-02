@@ -94,4 +94,4 @@ Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos d
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/inteligencia-artificial/anotacoes/index|Anotações e Arquivos]]

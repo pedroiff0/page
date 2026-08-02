@@ -109,4 +109,4 @@ Teoria dos conjuntos, relações e funções, indução e recursão, análise co
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/matematica-discreta/anotacoes/index|Anotações e Arquivos]]

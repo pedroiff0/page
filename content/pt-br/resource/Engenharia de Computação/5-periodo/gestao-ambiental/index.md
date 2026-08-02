@@ -104,4 +104,4 @@ Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo,
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/5-periodo/gestao-ambiental/anotacoes/index|Anotações e Arquivos]]

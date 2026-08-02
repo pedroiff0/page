@@ -120,4 +120,4 @@ Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/anotacoes/index|Anotações e Arquivos]]

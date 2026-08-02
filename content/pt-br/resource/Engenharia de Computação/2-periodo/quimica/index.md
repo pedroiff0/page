@@ -120,4 +120,4 @@ Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Q
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/anotacoes/index|Anotações e Arquivos]]

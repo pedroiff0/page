@@ -69,4 +69,4 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/10-periodo/projeto-final-de-curso-ii/anotacoes/index|Anotações e Arquivos]]

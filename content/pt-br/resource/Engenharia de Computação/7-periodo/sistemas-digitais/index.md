@@ -113,4 +113,4 @@ Análise e síntese de circuitos digitais sequenciais; contadores e registradore
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-digitais/anotacoes/index|Anotações e Arquivos]]

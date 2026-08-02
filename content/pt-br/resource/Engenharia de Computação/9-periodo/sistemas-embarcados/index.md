@@ -85,4 +85,4 @@ Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementaçã
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-embarcados/anotacoes/index|Anotações e Arquivos]]

@@ -79,4 +79,4 @@ Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/sociedade-e-tecnologia/anotacoes/index|Anotações e Arquivos]]

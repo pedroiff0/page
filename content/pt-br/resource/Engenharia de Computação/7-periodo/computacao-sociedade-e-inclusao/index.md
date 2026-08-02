@@ -104,4 +104,4 @@ Apropriações da computação e relações de poder: o espaço público, o priv
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/7-periodo/computacao-sociedade-e-inclusao/anotacoes/index|Anotações e Arquivos]]

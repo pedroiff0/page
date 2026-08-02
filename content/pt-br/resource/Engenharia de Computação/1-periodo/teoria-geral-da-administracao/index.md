@@ -84,4 +84,4 @@ Campo da Administração; Estruturas Administrativas; Importância das Estrutura
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/teoria-geral-da-administracao/anotacoes/index|Anotações e Arquivos]]

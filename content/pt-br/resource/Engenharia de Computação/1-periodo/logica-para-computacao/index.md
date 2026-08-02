@@ -77,4 +77,4 @@ Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Prime
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/logica-para-computacao/anotacoes/index|Anotações e Arquivos]]

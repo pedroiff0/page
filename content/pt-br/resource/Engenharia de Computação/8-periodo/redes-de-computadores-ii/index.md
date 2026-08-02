@@ -71,4 +71,4 @@ Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com S
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/8-periodo/redes-de-computadores-ii/anotacoes/index|Anotações e Arquivos]]

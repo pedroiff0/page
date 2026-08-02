@@ -81,4 +81,4 @@ Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprime
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/energia-e-eficiencia-energetica/anotacoes/index|Anotações e Arquivos]]

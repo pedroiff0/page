@@ -114,4 +114,4 @@ Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de c�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/6-periodo/compiladores/anotacoes/index|Anotações e Arquivos]]

@@ -108,4 +108,4 @@ Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Me
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/anotacoes/index|Anotações e Arquivos]]

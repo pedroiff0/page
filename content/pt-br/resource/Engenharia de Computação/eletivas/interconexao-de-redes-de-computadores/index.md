@@ -62,4 +62,4 @@ Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame R
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/interconexao-de-redes-de-computadores/anotacoes/index|Anotações e Arquivos]]

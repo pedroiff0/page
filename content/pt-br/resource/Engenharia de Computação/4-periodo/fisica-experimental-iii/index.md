@@ -76,4 +76,4 @@ Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja,
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-experimental-iii/anotacoes/index|Anotações e Arquivos]]

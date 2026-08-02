@@ -123,4 +123,4 @@ Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para S
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/introducao-a-engenharia/anotacoes/index|Anotações e Arquivos]]

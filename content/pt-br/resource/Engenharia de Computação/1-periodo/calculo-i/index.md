@@ -131,4 +131,4 @@ Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplic
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/anotacoes/index|Anotações e Arquivos]]

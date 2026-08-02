@@ -8,7 +8,7 @@ password: "engcomp20232"
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 nota-01 | [Acessar Anotação](./nota-01) |
+| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/4-periodo/fisica-experimental-iii/anotacoes/nota-01|Acessar Anotação]] |
 
 ## 📎 Base de Dados de Arquivos
 

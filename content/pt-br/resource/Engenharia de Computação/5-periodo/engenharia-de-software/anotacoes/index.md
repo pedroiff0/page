@@ -8,8 +8,8 @@ password: "engcomp20232"
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 260326-Aula-Intro-1 | [Acessar Anotação](./260326-Aula-Intro-1) |
-| 📄 nota-01 | [Acessar Anotação](./nota-01) |
+| 📄 260326-Aula-Intro-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/anotacoes/260326-Aula-Intro-1|Acessar Anotação]] |
+| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/5-periodo/engenharia-de-software/anotacoes/nota-01|Acessar Anotação]] |
 
 ## 📎 Base de Dados de Arquivos
 

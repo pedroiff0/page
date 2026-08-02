@@ -148,4 +148,4 @@ Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de M
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/6-periodo/analise-de-software-orientada-a-objetos/anotacoes/index|Anotações e Arquivos]]

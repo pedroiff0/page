@@ -81,4 +81,4 @@ Introdução ao processamento digital de sinais. Fundamentos matemáticos de sin
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/anotacoes/index|Anotações e Arquivos]]

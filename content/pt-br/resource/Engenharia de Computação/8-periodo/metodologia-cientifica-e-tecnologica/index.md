@@ -74,4 +74,4 @@ Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboraç�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/8-periodo/metodologia-cientifica-e-tecnologica/anotacoes/index|Anotações e Arquivos]]

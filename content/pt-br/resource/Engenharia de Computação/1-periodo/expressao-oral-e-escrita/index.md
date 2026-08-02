@@ -83,4 +83,4 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/anotacoes/index|Anotações e Arquivos]]

@@ -84,4 +84,4 @@ Sistemas de Arquivos; Entrada/Saída; Deadlocks.
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Anotações e Arquivos](./anotacoes/)
+- 📁 [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/anotacoes/index|Anotações e Arquivos]]
