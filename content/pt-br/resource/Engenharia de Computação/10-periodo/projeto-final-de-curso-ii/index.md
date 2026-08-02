@@ -69,5 +69,7 @@ Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/10-periodo/projeto-final-de-curso-ii/`)

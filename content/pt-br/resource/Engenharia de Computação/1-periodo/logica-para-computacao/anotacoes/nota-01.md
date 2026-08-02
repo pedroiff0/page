@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Logica Para Computacao
 password: "engcomp20232"
 ---

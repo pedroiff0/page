@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Fisica Experimental I
 password: "engcomp20232"
 ---

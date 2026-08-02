@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Sistemas Distribuidos
 password: "engcomp20232"
 ---

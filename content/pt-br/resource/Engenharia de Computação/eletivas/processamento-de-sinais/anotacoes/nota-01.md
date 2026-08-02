@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Processamento De Sinais
 password: "engcomp20232"
 ---

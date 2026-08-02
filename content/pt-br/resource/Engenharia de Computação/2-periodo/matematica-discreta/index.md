@@ -109,5 +109,7 @@ Teoria dos conjuntos, relações e funções, indução e recursão, análise co
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/matematica-discreta/`)

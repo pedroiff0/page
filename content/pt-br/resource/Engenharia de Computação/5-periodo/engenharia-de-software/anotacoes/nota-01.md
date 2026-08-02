@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Engenharia De Software
 password: "engcomp20232"
 ---

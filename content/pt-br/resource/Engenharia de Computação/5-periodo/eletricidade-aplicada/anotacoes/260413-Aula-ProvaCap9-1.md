@@ -1,4 +1,5 @@
 ---
+publish: true
 password: "engcomp20232"
 titulo:  260413-Aula-ProvaCap9-1
 disciplina:

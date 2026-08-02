@@ -112,5 +112,7 @@ Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Re
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/7-periodo/redes-de-computadores-i/`)

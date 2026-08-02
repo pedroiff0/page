@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Processamento De Imagens
 password: "engcomp20232"
 ---

@@ -103,5 +103,7 @@ Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenc
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/modelagem-de-dados/`)

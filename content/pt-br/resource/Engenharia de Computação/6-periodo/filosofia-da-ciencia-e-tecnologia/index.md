@@ -72,5 +72,7 @@ Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O p
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/filosofia-da-ciencia-e-tecnologia/`)

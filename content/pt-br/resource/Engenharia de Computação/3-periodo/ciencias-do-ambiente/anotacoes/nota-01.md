@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Ciencias Do Ambiente
 password: "engcomp20232"
 ---

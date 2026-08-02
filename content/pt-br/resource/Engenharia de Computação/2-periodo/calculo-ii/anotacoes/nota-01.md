@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Calculo Ii
 password: "engcomp20232"
 ---

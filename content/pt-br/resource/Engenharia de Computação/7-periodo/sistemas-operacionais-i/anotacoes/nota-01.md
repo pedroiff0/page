@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Sistemas Operacionais I
 password: "engcomp20232"
 ---

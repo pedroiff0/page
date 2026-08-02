@@ -1,4 +1,5 @@
 ---
+publish: true
 password: "engcomp20232"
 titulo:  260423-Aula-Atividades-1
 disciplina:

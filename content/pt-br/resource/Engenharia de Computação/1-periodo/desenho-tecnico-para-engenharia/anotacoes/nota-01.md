@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Desenho Tecnico Para Engenharia
 password: "engcomp20232"
 ---

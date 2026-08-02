@@ -122,5 +122,7 @@ Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conserva
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/fisica-i/`)

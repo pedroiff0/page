@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Desenvolvimento Web
 password: "engcomp20232"
 ---

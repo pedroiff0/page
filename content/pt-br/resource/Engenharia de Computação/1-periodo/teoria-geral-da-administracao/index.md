@@ -84,5 +84,6 @@ Campo da Administração; Estruturas Administrativas; Importância das Estrutura
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
-- 📁 [Ver todos os arquivos da disciplina](/assets/disciplinas/1-periodo/teoria-geral-da-administracao/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+

@@ -93,5 +93,7 @@ tags:
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/algoritmos-e-estruturas-de-dados-ii/`)

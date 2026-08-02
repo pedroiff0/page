@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Inteligencia Artificial
 password: "engcomp20232"
 ---

@@ -106,5 +106,7 @@ Desenvolvimento de software de complexidade média utilizando o paradigma de ori
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/programacao-orientada-a-objetos-i/`)

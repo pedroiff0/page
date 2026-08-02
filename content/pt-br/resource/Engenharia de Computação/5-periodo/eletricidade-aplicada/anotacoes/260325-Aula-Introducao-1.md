@@ -1,4 +1,5 @@
 ---
+publish: true
 password: "engcomp20232"
 titulo:  260325-Aula-Introducao-1
 disciplina:

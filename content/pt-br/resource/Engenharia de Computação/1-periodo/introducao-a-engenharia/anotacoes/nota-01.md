@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Introducao A Engenharia
 password: "engcomp20232"
 ---

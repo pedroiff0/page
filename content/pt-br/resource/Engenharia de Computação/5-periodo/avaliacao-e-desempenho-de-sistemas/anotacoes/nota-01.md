@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Avaliacao E Desempenho De Sistemas
 password: "engcomp20232"
 ---

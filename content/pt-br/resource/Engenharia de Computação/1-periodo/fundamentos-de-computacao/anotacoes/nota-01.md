@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Fundamentos De Computacao
 password: "engcomp20232"
 ---

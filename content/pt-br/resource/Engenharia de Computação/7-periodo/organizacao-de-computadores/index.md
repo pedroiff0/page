@@ -84,5 +84,7 @@ Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dis
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/7-periodo/organizacao-de-computadores/`)

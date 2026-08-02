@@ -95,5 +95,7 @@ Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/eletronica-digital/`)

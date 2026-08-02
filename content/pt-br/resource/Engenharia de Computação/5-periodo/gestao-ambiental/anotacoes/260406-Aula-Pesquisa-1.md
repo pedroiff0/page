@@ -1,4 +1,5 @@
 ---
+publish: true
 password: "engcomp20232"
 titulo:  260406-Aula-Pesquisa-1
 disciplina:

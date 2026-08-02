@@ -100,5 +100,7 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/calculo-iii/`)

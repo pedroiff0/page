@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Economia
 password: "engcomp20232"
 ---

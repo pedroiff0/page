@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Eletricidade Aplicada
 password: "engcomp20232"
 ---

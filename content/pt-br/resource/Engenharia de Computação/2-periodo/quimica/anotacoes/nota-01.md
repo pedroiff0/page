@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Quimica
 password: "engcomp20232"
 ---

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Expressao Oral E Escrita
 password: "engcomp20232"
 ---

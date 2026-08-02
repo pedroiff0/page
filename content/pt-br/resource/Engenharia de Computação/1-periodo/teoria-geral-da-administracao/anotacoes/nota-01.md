@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Teoria Geral Da Administracao
 password: "engcomp20232"
 ---

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Gestao Ambiental
 password: "engcomp20232"
 ---

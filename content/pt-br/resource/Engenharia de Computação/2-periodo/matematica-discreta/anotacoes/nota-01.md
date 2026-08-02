@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Matematica Discreta
 password: "engcomp20232"
 ---

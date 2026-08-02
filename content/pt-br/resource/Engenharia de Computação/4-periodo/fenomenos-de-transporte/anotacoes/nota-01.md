@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Fenomenos De Transporte
 password: "engcomp20232"
 ---

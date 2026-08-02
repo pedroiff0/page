@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Mecanica Dos Solidos
 password: "engcomp20232"
 ---

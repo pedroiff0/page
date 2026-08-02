@@ -61,5 +61,7 @@ Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Cri
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/7-periodo/programacao-orientada-a-objetos-ii/`)

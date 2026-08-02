@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Analise De Software Orientada A Objetos
 password: "engcomp20232"
 ---

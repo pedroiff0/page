@@ -1,4 +1,5 @@
 ---
+publish: true
 password: "engcomp20232"
 titulo:  260405-Aula-Diodos-1
 disciplina:

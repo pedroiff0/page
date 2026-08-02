@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Seguranca E Higiene Do Trabalho
 password: "engcomp20232"
 ---

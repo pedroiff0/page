@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Modelagem Ambiental
 password: "engcomp20232"
 ---

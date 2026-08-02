@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Computacao Sociedade E Inclusao
 password: "engcomp20232"
 ---

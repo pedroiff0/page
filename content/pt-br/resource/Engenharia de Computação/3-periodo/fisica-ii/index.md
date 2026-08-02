@@ -101,5 +101,7 @@ Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da ter
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/fisica-ii/`)

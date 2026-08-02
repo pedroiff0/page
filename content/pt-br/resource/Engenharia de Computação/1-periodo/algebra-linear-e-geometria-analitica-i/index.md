@@ -120,5 +120,6 @@ Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espa�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
-- 📁 [Ver todos os arquivos da disciplina](/assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+

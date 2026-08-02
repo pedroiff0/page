@@ -86,5 +86,7 @@ Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; 
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/8-periodo/arquitetura-de-computadores/`)

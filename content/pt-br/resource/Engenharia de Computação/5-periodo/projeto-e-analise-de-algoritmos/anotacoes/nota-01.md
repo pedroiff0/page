@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Projeto E Analise De Algoritmos
 password: "engcomp20232"
 ---

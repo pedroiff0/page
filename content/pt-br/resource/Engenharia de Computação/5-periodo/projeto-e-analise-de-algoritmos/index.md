@@ -99,5 +99,7 @@ Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limit
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/projeto-e-analise-de-algoritmos/`)

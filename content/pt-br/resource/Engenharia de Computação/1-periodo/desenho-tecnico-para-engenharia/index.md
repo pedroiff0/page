@@ -92,5 +92,6 @@ Utilização de instrumentos de desenho; Normas para desenho; Desenho geométric
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
-- 📁 [Ver todos os arquivos da disciplina](/assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+

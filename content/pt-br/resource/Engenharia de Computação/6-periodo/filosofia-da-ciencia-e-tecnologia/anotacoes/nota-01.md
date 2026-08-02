@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Filosofia Da Ciencia E Tecnologia
 password: "engcomp20232"
 ---

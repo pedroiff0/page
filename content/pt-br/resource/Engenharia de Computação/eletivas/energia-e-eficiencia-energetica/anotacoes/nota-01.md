@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Energia E Eficiencia Energetica
 password: "engcomp20232"
 ---

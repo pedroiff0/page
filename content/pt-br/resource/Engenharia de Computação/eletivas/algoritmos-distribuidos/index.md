@@ -85,5 +85,7 @@ Sistemas de troca de mensagens. Processadores de comunicação. Roteamento e con
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/algoritmos-distribuidos/`)

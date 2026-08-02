@@ -1,3 +1,12 @@
 ---
-title: Anotações - Analise De Software Orientada A Objetos
+title: Anotações e Arquivos - Analise De Software Orientada A Objetos
+publish: true
 ---
+
+## 📝 Anotações da Disciplina
+
+- [[nota-01|nota-01]]
+
+## 📎 Arquivos e Documentos
+
+Nenhum arquivo encontrado.

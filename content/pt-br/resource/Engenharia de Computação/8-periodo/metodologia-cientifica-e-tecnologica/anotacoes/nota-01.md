@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Metodologia Cientifica E Tecnologica
 password: "engcomp20232"
 ---

@@ -92,5 +92,7 @@ Aplicações da integral definida; Integrais impróprias; Funções de várias v
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/calculo-ii/`)

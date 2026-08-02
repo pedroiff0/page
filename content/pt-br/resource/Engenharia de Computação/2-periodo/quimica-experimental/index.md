@@ -67,5 +67,7 @@ Normas de conduta e procedimentos de segurança em laboratórios de análise qu�
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/2-periodo/quimica-experimental/`)

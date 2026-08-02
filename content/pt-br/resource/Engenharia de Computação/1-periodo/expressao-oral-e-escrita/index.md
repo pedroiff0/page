@@ -83,5 +83,6 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
-- 📁 [Ver todos os arquivos da disciplina](/assets/disciplinas/1-periodo/expressao-oral-e-escrita/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+

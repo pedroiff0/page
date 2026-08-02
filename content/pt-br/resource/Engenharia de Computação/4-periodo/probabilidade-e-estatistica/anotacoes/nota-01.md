@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Probabilidade E Estatistica
 password: "engcomp20232"
 ---

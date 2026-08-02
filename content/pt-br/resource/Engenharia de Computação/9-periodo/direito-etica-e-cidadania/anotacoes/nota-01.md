@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Direito Etica E Cidadania
 password: "engcomp20232"
 ---

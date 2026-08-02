@@ -1,4 +1,5 @@
 ---
+publish: true
 password: "engcomp20232"
 titulo:  20260610 - Redes de Filas
 criado: 2026-06-10

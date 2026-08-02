@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Algoritmos E Estruturas De Dados Ii
 password: "engcomp20232"
 ---

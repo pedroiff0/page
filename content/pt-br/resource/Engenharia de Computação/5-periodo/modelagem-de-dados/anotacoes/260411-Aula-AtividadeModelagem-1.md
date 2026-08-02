@@ -1,4 +1,5 @@
 ---
+publish: true
 password: "engcomp20232"
 titulo:  260411-Aula-AtividadeModelagem-1
 disciplina:

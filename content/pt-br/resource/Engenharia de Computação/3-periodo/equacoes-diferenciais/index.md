@@ -108,5 +108,7 @@ Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explí
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/equacoes-diferenciais/`)

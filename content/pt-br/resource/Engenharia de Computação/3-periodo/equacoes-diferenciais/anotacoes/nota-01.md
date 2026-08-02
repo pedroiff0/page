@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Equacoes Diferenciais
 password: "engcomp20232"
 ---

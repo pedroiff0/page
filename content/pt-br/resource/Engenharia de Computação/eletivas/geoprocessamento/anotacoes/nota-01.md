@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Geoprocessamento
 password: "engcomp20232"
 ---

@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Fisica Iii
 password: "engcomp20232"
 ---

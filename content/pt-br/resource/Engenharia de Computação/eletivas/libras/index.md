@@ -78,5 +78,7 @@ Línguas de sinais e minoria linguística; as diferentes línguas de sinais; sta
 
 ## 📝 Anotações e Arquivos
 
-- 📁 [Ver todas as anotações](./anotacoes/)
+- 📁 [[anotacoes/index|Anotações e Arquivos]]
+
+
 - 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/libras/`)

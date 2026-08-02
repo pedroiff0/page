@@ -1,4 +1,5 @@
 ---
+publish: true
 title: Nota 01 - Comunicacao De Dados
 password: "engcomp20232"
 ---
