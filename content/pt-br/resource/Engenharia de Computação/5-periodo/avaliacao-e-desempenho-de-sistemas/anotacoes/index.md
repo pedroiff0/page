@@ -8,13 +8,13 @@ password: "engcomp20232"
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 20260610 - Redes de Filas | [Acessar Anotação](20260610%20-%20Redes%20de%20Filas) |
-| 📄 260325-Aula-Introducao-1 | [Acessar Anotação](260325-Aula-Introducao-1) |
-| 📄 260401-Aula-Aula02-1 | [Acessar Anotação](260401-Aula-Aula02-1) |
-| 📄 260405-Aula-Atividades Filas-1 | [Acessar Anotação](260405-Aula-Atividades%20Filas-1) |
-| 📄 260423-Aula-Atividades-1 | [Acessar Anotação](260423-Aula-Atividades-1) |
-| 📄 260423-Prova | [Acessar Anotação](260423-Prova) |
-| 📄 nota-01 | [Acessar Anotação](nota-01) |
+| 📄 20260610 - Redes de Filas | [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/20260610 - Redes de Filas\|Acessar Anotação]] |
+| 📄 260325-Aula-Introducao-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/260325-Aula-Introducao-1\|Acessar Anotação]] |
+| 📄 260401-Aula-Aula02-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/260401-Aula-Aula02-1\|Acessar Anotação]] |
+| 📄 260405-Aula-Atividades Filas-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/260405-Aula-Atividades Filas-1\|Acessar Anotação]] |
+| 📄 260423-Aula-Atividades-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/260423-Aula-Atividades-1\|Acessar Anotação]] |
+| 📄 260423-Prova | [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/260423-Prova\|Acessar Anotação]] |
+| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/nota-01\|Acessar Anotação]] |
 
 ## 📎 Base de Dados de Arquivos
 

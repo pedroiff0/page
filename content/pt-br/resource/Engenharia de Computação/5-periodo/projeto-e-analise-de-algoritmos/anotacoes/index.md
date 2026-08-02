@@ -8,10 +8,10 @@ password: "engcomp20232"
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 260413-Aula-AtividadesAbril-1 | [Acessar Anotação](260413-Aula-AtividadesAbril-1) |
-| 📄 260611-Comparação | [Acessar Anotação](260611-Compara%C3%A7%C3%A3o) |
-| 📄 260618-RevisaoProva | [Acessar Anotação](260618-RevisaoProva) |
-| 📄 nota-01 | [Acessar Anotação](nota-01) |
+| 📄 260413-Aula-AtividadesAbril-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/anotacoes/260413-Aula-AtividadesAbril-1\|Acessar Anotação]] |
+| 📄 260611-Comparação | [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/anotacoes/260611-Comparação\|Acessar Anotação]] |
+| 📄 260618-RevisaoProva | [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/anotacoes/260618-RevisaoProva\|Acessar Anotação]] |
+| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/anotacoes/nota-01\|Acessar Anotação]] |
 
 ## 📎 Base de Dados de Arquivos
 

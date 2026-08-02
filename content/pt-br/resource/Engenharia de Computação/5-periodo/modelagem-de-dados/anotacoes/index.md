@@ -8,13 +8,13 @@ password: "engcomp20232"
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 260327-Aula-Introducao-1 | [Acessar Anotação](260327-Aula-Introducao-1) |
-| 📄 260411-Aula-AtividadeModelagem-1 | [Acessar Anotação](260411-Aula-AtividadeModelagem-1) |
-| 📄 260423-AtividadeClassroom | [Acessar Anotação](260423-AtividadeClassroom) |
-| 📄 260508-Atributos | [Acessar Anotação](260508-Atributos) |
-| 📄 260515-Aula 1505 | [Acessar Anotação](260515-Aula%201505) |
-| 📄 260630-3006 | [Acessar Anotação](260630-3006) |
-| 📄 nota-01 | [Acessar Anotação](nota-01) |
+| 📄 260327-Aula-Introducao-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes/260327-Aula-Introducao-1\|Acessar Anotação]] |
+| 📄 260411-Aula-AtividadeModelagem-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes/260411-Aula-AtividadeModelagem-1\|Acessar Anotação]] |
+| 📄 260423-AtividadeClassroom | [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes/260423-AtividadeClassroom\|Acessar Anotação]] |
+| 📄 260508-Atributos | [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes/260508-Atributos\|Acessar Anotação]] |
+| 📄 260515-Aula 1505 | [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes/260515-Aula 1505\|Acessar Anotação]] |
+| 📄 260630-3006 | [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes/260630-3006\|Acessar Anotação]] |
+| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes/nota-01\|Acessar Anotação]] |
 
 ## 📎 Base de Dados de Arquivos
 

@@ -8,10 +8,10 @@ password: "engcomp20232"
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 260325-Aula-Introducao-1 | [Acessar Anotação](260325-Aula-Introducao-1) |
-| 📄 260405-Aula-Atividades1-1 | [Acessar Anotação](260405-Aula-Atividades1-1) |
-| 📄 260413-Aula-ProvaCap9-1 | [Acessar Anotação](260413-Aula-ProvaCap9-1) |
-| 📄 nota-01 | [Acessar Anotação](nota-01) |
+| 📄 260325-Aula-Introducao-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/anotacoes/260325-Aula-Introducao-1\|Acessar Anotação]] |
+| 📄 260405-Aula-Atividades1-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/anotacoes/260405-Aula-Atividades1-1\|Acessar Anotação]] |
+| 📄 260413-Aula-ProvaCap9-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/anotacoes/260413-Aula-ProvaCap9-1\|Acessar Anotação]] |
+| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/anotacoes/nota-01\|Acessar Anotação]] |
 
 ## 📎 Base de Dados de Arquivos
 

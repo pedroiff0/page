@@ -51,8 +51,9 @@ def main():
                         md += "|------------------|---------|\n"
                         for fname, frel in sorted(anotacoes_files):
                             name = frel.replace('.md', '')
-                            encoded_name = urllib.parse.quote(name)
-                            md += f"| 📄 {name.split('/')[-1]} | [Acessar Anotação]({encoded_name}) |\n"
+                            # Use absolute unique wikilink with escaped pipe for table compatibility
+                            wiki_path = f"pt-br/resource/Engenharia de Computação/{period}/{disc}/anotacoes/{name}"
+                            md += f"| 📄 {name.split('/')[-1]} | [[{wiki_path}\\|Acessar Anotação]] |\n"
                     else:
                         md += "Nenhuma anotação encontrada.\n"
                         

@@ -23,11 +23,22 @@ Minha paixão está na interseção entre **métodos computacionais** e **proble
 
 Caso queira entrar em contato, mande um email!
 
+- Lattes:  [**https://lattes.cnpq.br/6818168089966785**](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=57423C703C70B11AD5F2FFFB3B76E39E# "Endereço para acessar este CV:")
 - 💻 [GitHub](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
 - 📸 [Instagram](https://instagram.com/fckpeeh)
 - 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
 - ✉️ [E-mail](mailto:pedroiff0@gmail.com)
+
+### Curriculo Vitae
+
+Breve resumo.
+(inserir arquivo para download)
+Exibir arquivo.
+
+![[assets/curriculo/portugueseCV.pdf]]
+![[assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf]]
+![[assets/curriculo/englishCV.pdf]]
 
 ### 📬 Fale comigo
 
