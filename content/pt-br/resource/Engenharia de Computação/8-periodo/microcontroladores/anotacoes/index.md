@@ -1,5 +1,5 @@
 ---
-title: Anotações e Arquivos - Microcontroladores
+title: Anotações e Arquivos
 publish: true
 password: "engcomp20232"
 ---
@@ -8,7 +8,7 @@ password: "engcomp20232"
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/anotacoes/nota-01|Acessar Anotação]] |
+| 📄 nota-01 | [Acessar Anotação](nota-01) |
 
 ## 📎 Base de Dados de Arquivos
 

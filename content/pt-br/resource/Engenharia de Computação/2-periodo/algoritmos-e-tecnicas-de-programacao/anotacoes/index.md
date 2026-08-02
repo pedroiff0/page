@@ -1,5 +1,5 @@
 ---
-title: Anotações e Arquivos - Algoritmos E Tecnicas De Programacao
+title: Anotações e Arquivos
 publish: true
 password: "engcomp20232"
 ---
@@ -8,7 +8,7 @@ password: "engcomp20232"
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes/nota-01|Acessar Anotação]] |
+| 📄 nota-01 | [Acessar Anotação](nota-01) |
 
 ## 📎 Base de Dados de Arquivos
 

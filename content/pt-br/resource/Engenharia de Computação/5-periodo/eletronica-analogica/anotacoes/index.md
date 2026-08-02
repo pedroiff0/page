@@ -1,5 +1,5 @@
 ---
-title: Anotações e Arquivos - Eletronica Analogica
+title: Anotações e Arquivos
 publish: true
 password: "engcomp20232"
 ---
@@ -8,9 +8,9 @@ password: "engcomp20232"
 
 | Nome da Anotação | Acessar |
 |------------------|---------|
-| 📄 260324-Aula-Aula01-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/eletronica-analogica/anotacoes/260324-Aula-Aula01-1|Acessar Anotação]] |
-| 📄 260405-Aula-Diodos-1 | [[pt-br/resource/Engenharia de Computação/5-periodo/eletronica-analogica/anotacoes/260405-Aula-Diodos-1|Acessar Anotação]] |
-| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/5-periodo/eletronica-analogica/anotacoes/nota-01|Acessar Anotação]] |
+| 📄 260324-Aula-Aula01-1 | [Acessar Anotação](260324-Aula-Aula01-1) |
+| 📄 260405-Aula-Diodos-1 | [Acessar Anotação](260405-Aula-Diodos-1) |
+| 📄 nota-01 | [Acessar Anotação](nota-01) |
 
 ## 📎 Base de Dados de Arquivos
 
