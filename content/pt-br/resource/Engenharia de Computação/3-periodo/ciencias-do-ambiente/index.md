@@ -98,6 +98,3 @@ Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; 
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/ciencias-do-ambiente/`)

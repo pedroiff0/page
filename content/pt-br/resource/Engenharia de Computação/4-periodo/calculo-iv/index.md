@@ -120,6 +120,3 @@ Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Sing
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/calculo-iv/`)

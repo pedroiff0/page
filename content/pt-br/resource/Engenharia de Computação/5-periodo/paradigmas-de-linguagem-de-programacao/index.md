@@ -108,6 +108,3 @@ Visão geral de linguagens de programação: valores e tipos; variáveis e coman
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/paradigmas-de-linguagem-de-programacao/`)

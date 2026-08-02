@@ -111,6 +111,3 @@ Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. C
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/comunicacao-de-dados/`)

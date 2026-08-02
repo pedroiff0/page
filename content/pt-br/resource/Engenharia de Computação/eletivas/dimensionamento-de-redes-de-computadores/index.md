@@ -62,6 +62,3 @@ Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fi
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/dimensionamento-de-redes-de-computadores/`)

@@ -89,6 +89,3 @@ Distribuições de Probabilidades.
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/probabilidade-e-estatistica/`)

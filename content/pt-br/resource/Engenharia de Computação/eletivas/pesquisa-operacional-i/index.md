@@ -93,6 +93,3 @@ Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema d
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/pesquisa-operacional-i/`)

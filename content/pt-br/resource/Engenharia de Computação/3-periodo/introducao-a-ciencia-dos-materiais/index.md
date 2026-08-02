@@ -121,6 +121,3 @@ Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em 
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/introducao-a-ciencia-dos-materiais/`)

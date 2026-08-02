@@ -85,6 +85,3 @@ Avaliação de Desempenho. Modelos de desempenho determinísticos e probabilíst
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/avaliacao-e-desempenho-de-sistemas/`)

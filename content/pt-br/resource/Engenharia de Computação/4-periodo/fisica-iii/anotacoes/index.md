@@ -3,11 +3,15 @@ title: Anotações e Arquivos - Fisica Iii
 publish: true
 ---
 
-## 📝 Anotações da Disciplina
+## 📝 Base de Dados de Anotações
 
-- [[nota-01|nota-01]]
+| Nome da Anotação | Acessar |
+|------------------|---------|
+| 📄 nota-01 | [[nota-01]] |
 
-## 📎 Arquivos e Documentos
+## 📎 Base de Dados de Arquivos
 
-- [cap30.pdf](/assets/disciplinas/4-periodo/fisica-iii/cap30.pdf)
-- [cap3031.pdf](/assets/disciplinas/4-periodo/fisica-iii/cap3031.pdf)
+| Arquivo / Documento | Link de Acesso |
+|---------------------|----------------|
+| 📦 cap30.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-iii/cap30.pdf) |
+| 📦 cap3031.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-iii/cap3031.pdf) |

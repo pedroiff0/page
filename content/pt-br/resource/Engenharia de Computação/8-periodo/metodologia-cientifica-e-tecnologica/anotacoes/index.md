@@ -3,11 +3,15 @@ title: Anotações e Arquivos - Metodologia Cientifica E Tecnologica
 publish: true
 ---
 
-## 📝 Anotações da Disciplina
+## 📝 Base de Dados de Anotações
 
-- [[nota-01|nota-01]]
+| Nome da Anotação | Acessar |
+|------------------|---------|
+| 📄 nota-01 | [[nota-01]] |
 
-## 📎 Arquivos e Documentos
+## 📎 Base de Dados de Arquivos
 
-- [260406-Aula-AulaPiloto-1.md](/assets/disciplinas/8-periodo/metodologia-cientifica-e-tecnologica/260406-Aula-AulaPiloto-1.md)
-- [PedroH_Metodologia.pdf](/assets/disciplinas/8-periodo/metodologia-cientifica-e-tecnologica/PedroH_Metodologia.pdf)
+| Arquivo / Documento | Link de Acesso |
+|---------------------|----------------|
+| 📦 260406-Aula-AulaPiloto-1.md | [Baixar / Ver Arquivo](/assets/disciplinas/8-periodo/metodologia-cientifica-e-tecnologica/260406-Aula-AulaPiloto-1.md) |
+| 📦 PedroH_Metodologia.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/8-periodo/metodologia-cientifica-e-tecnologica/PedroH_Metodologia.pdf) |

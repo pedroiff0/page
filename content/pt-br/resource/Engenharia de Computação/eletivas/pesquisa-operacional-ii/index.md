@@ -91,6 +91,3 @@ Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. T
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/pesquisa-operacional-ii/`)

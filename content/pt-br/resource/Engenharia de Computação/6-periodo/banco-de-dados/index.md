@@ -87,6 +87,3 @@ Recuperação de falhas. Controle de concorrência. Noções básicas de bancos 
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/6-periodo/banco-de-dados/`)

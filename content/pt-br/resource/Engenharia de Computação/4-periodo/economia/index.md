@@ -98,6 +98,3 @@ Apresentar elementos de cálculos financeiros básicos, fundamentais para o dese
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/economia/`)

@@ -93,6 +93,3 @@ Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. 
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/eletricidade-aplicada/`)

@@ -3,12 +3,16 @@ title: Anotações e Arquivos - Arquitetura De Computadores
 publish: true
 ---
 
-## 📝 Anotações da Disciplina
+## 📝 Base de Dados de Anotações
 
-- [[nota-01|nota-01]]
+| Nome da Anotação | Acessar |
+|------------------|---------|
+| 📄 nota-01 | [[nota-01]] |
 
-## 📎 Arquivos e Documentos
+## 📎 Base de Dados de Arquivos
 
-- [260423-Atividades.md](/assets/disciplinas/8-periodo/arquitetura-de-computadores/260423-Atividades.md)
-- [Introdução_à_Arquitetura_RISC_V.pdf](/assets/disciplinas/8-periodo/arquitetura-de-computadores/Introdução_à_Arquitetura_RISC_V.pdf)
-- [Programação_Assembly_RISC_V.pdf](/assets/disciplinas/8-periodo/arquitetura-de-computadores/Programação_Assembly_RISC_V.pdf)
+| Arquivo / Documento | Link de Acesso |
+|---------------------|----------------|
+| 📦 260423-Atividades.md | [Baixar / Ver Arquivo](/assets/disciplinas/8-periodo/arquitetura-de-computadores/260423-Atividades.md) |
+| 📦 Introdução_à_Arquitetura_RISC_V.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/8-periodo/arquitetura-de-computadores/Introdução_à_Arquitetura_RISC_V.pdf) |
+| 📦 Programação_Assembly_RISC_V.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/8-periodo/arquitetura-de-computadores/Programação_Assembly_RISC_V.pdf) |

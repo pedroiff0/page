@@ -101,6 +101,3 @@ Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação 
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/9-periodo/direito-etica-e-cidadania/`)

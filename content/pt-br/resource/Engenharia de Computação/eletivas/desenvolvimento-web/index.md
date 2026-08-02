@@ -76,6 +76,3 @@ Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web.
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/desenvolvimento-web/`)

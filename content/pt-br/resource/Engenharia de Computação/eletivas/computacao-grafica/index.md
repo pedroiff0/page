@@ -94,6 +94,3 @@ Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/computacao-grafica/`)

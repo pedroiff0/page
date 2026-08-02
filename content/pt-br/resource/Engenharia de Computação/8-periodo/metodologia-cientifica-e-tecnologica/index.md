@@ -75,6 +75,3 @@ Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboraç�
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/8-periodo/metodologia-cientifica-e-tecnologica/`)

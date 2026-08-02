@@ -124,5 +124,3 @@ Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para S
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-

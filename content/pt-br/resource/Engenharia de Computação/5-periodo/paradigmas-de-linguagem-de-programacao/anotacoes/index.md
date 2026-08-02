@@ -3,10 +3,14 @@ title: Anotações e Arquivos - Paradigmas De Linguagem De Programacao
 publish: true
 ---
 
-## 📝 Anotações da Disciplina
+## 📝 Base de Dados de Anotações
 
-- [[nota-01|nota-01]]
+| Nome da Anotação | Acessar |
+|------------------|---------|
+| 📄 nota-01 | [[nota-01]] |
 
-## 📎 Arquivos e Documentos
+## 📎 Base de Dados de Arquivos
 
-- [ParadigmaProcedural-2.pdf](/assets/disciplinas/5-periodo/paradigmas-de-linguagem-de-programacao/ParadigmaProcedural-2.pdf)
+| Arquivo / Documento | Link de Acesso |
+|---------------------|----------------|
+| 📦 ParadigmaProcedural-2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/paradigmas-de-linguagem-de-programacao/ParadigmaProcedural-2.pdf) |

@@ -125,6 +125,3 @@ Transistores bipolares e circuitos polarizados com transistor; Fonte de alimenta
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/eletronica-analogica/`)

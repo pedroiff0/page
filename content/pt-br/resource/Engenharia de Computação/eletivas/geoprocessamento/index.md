@@ -95,6 +95,3 @@ Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Mé
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/geoprocessamento/`)

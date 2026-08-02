@@ -120,6 +120,3 @@ Conceito de tensão, Forças distribuídas, Carregamentos axiais, Torção, Flex
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/mecanica-dos-solidos/`)

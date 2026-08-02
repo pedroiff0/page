@@ -103,6 +103,3 @@ Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/3-periodo/algoritmos-e-estruturas-de-dados-i/`)

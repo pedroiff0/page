@@ -77,6 +77,3 @@ Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja,
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/4-periodo/fisica-experimental-iii/`)

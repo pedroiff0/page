@@ -85,5 +85,3 @@ Campo da Administração; Estruturas Administrativas; Importância das Estrutura
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-

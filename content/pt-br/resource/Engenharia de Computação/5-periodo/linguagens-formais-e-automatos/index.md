@@ -79,6 +79,3 @@ Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. M
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/5-periodo/linguagens-formais-e-automatos/`)

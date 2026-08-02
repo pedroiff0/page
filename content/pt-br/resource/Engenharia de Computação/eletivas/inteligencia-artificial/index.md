@@ -95,6 +95,3 @@ Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos d
 ## 📝 Anotações e Arquivos
 
 - 📁 [[anotacoes/index|Anotações e Arquivos]]
-
-
-- 📁 Arquivos (protegidos em `assets/disciplinas/eletivas/inteligencia-artificial/`)
