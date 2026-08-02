@@ -2,7 +2,7 @@
 publish: true
 title: Sobre
 created: 2026-07-18T14:50:18.601-03:00
-modified: 2026-07-26T12:36:37.263-03:00
+modified: 2026-08-02
 published: 2026-07-26T12:36:37.263-03:00
 ---
 
@@ -19,32 +19,48 @@ Sou Pedro Henrique, estudante de Engenharia de Computação no [Instituto Federa
 
 Minha paixão está na interseção entre **métodos computacionais** e **problemas astrofísicos**. Acredito que ferramentas de código aberto e fluxos de trabalho reprodutíveis são essenciais para avançar a ciência e torná-la mais acessível a todos.
 
-### 🌐 Redes Sociais
+### 🌐 Redes Sociais & Identificadores
 
-Caso queira entrar em contato, mande um email!
-
-- 🎓 [**Currículo Lattes**](http://lattes.cnpq.br/6818168089966785)
-- 💻 [GitHub](https://github.com/pedroiff0)
+- 🎓 [**Currículo Lattes (Oficial CNPq)**](http://lattes.cnpq.br/6818168089966785)
+- 🔬 [**ORCID (0009-0003-6724-4640)**](https://orcid.org/0009-0003-6724-4640)
+- 💻 [GitHub (`pedroiff0`)](https://github.com/pedroiff0)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedroiff0/)
-- 📸 [Instagram](https://instagram.com/fckpeeh)
-- 🔬 [ORCID](https://orcid.org/0009-0003-6724-4640)
+- 📸 [Instagram (`@fckpeeh`)](https://instagram.com/fckpeeh)
 - ✉️ [E-mail](mailto:pedroiff0@gmail.com)
 
-### 📄 Curriculum Vitae
+---
 
-Abaixo você pode baixar meu currículo em diferentes idiomas e o meu Currículo Lattes completo:
+### 🎓 Currículo Lattes Embutido
+
+Abaixo você pode consultar diretamente o meu **Currículo Lattes oficial** embutido via leitor interativo, além de baixar os arquivos em PDF:
+
+<div style="margin: 1.5rem 0; border: 1px solid var(--lightgray); border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  <div style="background-color: var(--light); padding: 0.75rem 1rem; border-bottom: 1px solid var(--lightgray); display: flex; justify-content: space-between; align-items: center; font-weight: 600;">
+    <span>📄 Currículo Lattes (PDF)</span>
+    <a href="/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf" target="_blank" style="font-size: 0.9em;">↗ Abrir em nova aba</a>
+  </div>
+  <iframe src="/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf" width="100%" height="600px" style="border: none;">
+    <p>Seu navegador não suporta visualização de PDF. <a href="/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf">Clique aqui para baixar o PDF do Lattes.</a></p>
+  </iframe>
+</div>
+
+---
+
+### 📄 Curriculum Vitae (PDFs por Idioma)
+
+Você também pode baixar a versão resumida em PDF no idioma de sua preferência:
 
 - 🇧🇷 [Currículo em Português (PDF)](/assets/curriculo/portugueseCV.pdf)
 - 🇬🇧 [CV in English (PDF)](/assets/curriculo/englishCV.pdf)
 - 🇪🇸 [CV en Español (PDF)](/assets/curriculo/spanishCV.pdf)
 - 🇫🇷 [CV en Français (PDF)](/assets/curriculo/frenchCV.pdf)
-- 🎓 [Currículo Lattes (PDF)](/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf)
 
-> [!info] Visualização Rápida
-> Abaixo está a versão em português do meu currículo. Para outras línguas ou para o Lattes completo, utilize os links acima.
+> [!info] Visualização do CV Resumido
+> Abaixo está a versão visual do meu currículo em Português:
 
-**Currículo (Português):**
 ![[assets/curriculo/portugueseCV.pdf]]
+
+---
 
 ### 📬 Fale comigo
 
@@ -62,9 +78,6 @@ Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensa
 
 <script>
 (function() {
-  // TODO(Pedro): substitua pelas suas credenciais de https://dashboard.emailjs.com
-  // (crie uma conta grátis, um Email Service e um Email Template com as variáveis
-  // from_name / reply_to / message usadas no formulário acima).
   var EMAILJS_PUBLIC_KEY = "fh5Z3HcsBAXFKJ-Jd";
   var EMAILJS_SERVICE_ID = "service_myxxjn7";
   var EMAILJS_TEMPLATE_ID = "template_1baqk12";
@@ -98,7 +111,6 @@ Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensa
 
 - **Astrofísica**: Arqueologia galáctica, populações estelares, estrutura e evolução química da Via Láctea, análise de grandes volumes de dados astronômicos.
 - **Ciência da Computação**: Computação científica, pipelines de dados, aprendizado de máquina em astronomia, desenvolvimento open-source.
-- **Psicanálise**:
 
 ### 3️⃣ Terceiro passo: Explorar o conteúdo
 
@@ -136,7 +148,3 @@ Para navegar pelo meu trabalho, explore as seções deste site:
 - [Mídia](pt-br/media/) — Participações em eventos, feiras e apresentações.
 - [Projetos](pt-br/projects/) — Ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
 - [Blog](pt-br/blog/) — Pensamentos aleatórios, tutoriais e reflexões sobre a jornada de pesquisa.
-
-O enfoque deste site é ser um grande repositório de informações minhas. Ele está disponível em dois idiomas: todo o conteúdo é escrito primeiro em **Português (Brasil)** e traduzido para o inglês assim que possível — por isso, nem todas as páginas têm uma versão em inglês ainda.
-
-Se você notou algo sem tradução (ou traduzido de forma desatualizada), pode abrir uma [issue no repositório](https://github.com/pedroiff0/page/issues) contando o que falta, ou [clicar aqui para abrir uma já preenchida a partir do template de tradução](https://github.com/pedroiff0/page/issues/new?template=traducao.yml).
