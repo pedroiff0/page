@@ -7,11 +7,15 @@ tags: [latex, escrita-academica, abnt, ifftese]
 ---
 
 
+
+
 | Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
-| 📄 **Slides LaTeX (52 slides - .pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-12.pdf) |
-| 📊 **Slides PPTX Institucional (.pptx)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-12.pptx) |
-| 📝 **Notas de Aula LaTeX (100% .tex - .pdf)** | [Acessar Notas LaTeX](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf) |
+| 📄 **Slides LaTeX (52 slides — Modelo Branco .pdf)** | [Acessar Slide Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-12-branco.pdf) |
+| 📄 **Slides LaTeX (52 slides — Modelo Preto .pdf)** | [Acessar Slide Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-12-preto.pdf) |
+| 📊 **Slides PPTX Institucional (Modelo Branco .pptx)** | [Acessar PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-12-branco.pptx) |
+| 📊 **Slides PPTX Institucional (Modelo Preto .pptx)** | [Acessar PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-12-preto.pptx) |
+| 📝 **Notas de Aula Institucionais (100% LaTeX — .pdf)** | [Acessar Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf) |
 
 ## 📋 Sumário da Aula
 - 1. Introdução e Fundamentação Teórica

@@ -173,11 +173,11 @@ A programação do curso é alimentada **automaticamente** a partir das aulas (`
 
 - **Aula 01: [Introdução e Fundamentação Teórica](/templates/ModeloCurso/aula-01-introducao-exemplo)**  
   *Escopo e Normas:* ABNT NBR 10520:2023 / ABNT NBR 14724  
-  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/modelo-curso/slides-latex/aula-01.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/modelo-curso/slides-pptx/aula-01.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/modelo-curso/notes-latex/aula-01.pdf) • [🛠️ Recursos Adicionais](/templates/ModeloCurso/aula-01-introducao-exemplo#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/modelo-curso/slides-latex/aula-01-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/modelo-curso/slides-latex/aula-01-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/modelo-curso/slides-pptx/aula-01-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/modelo-curso/slides-pptx/aula-01-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/modelo-curso/notes-latex/aula-01.pdf) • [🛠️ Recursos Adicionais](/templates/ModeloCurso/aula-01-introducao-exemplo#recursos-adicionais)  
 
 - **Aula 02: [Fundamentos Metodológicos e Prática](/templates/ModeloCurso/aula-02-fundamentos-exemplo)**  
   *Escopo e Normas:* ABNT NBR 10520 / ABNT NBR 10520:2023  
-  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/modelo-curso/slides-latex/aula-02.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/modelo-curso/slides-pptx/aula-02.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/modelo-curso/notes-latex/aula-02.pdf) • [🛠️ Recursos Adicionais](/templates/ModeloCurso/aula-02-fundamentos-exemplo#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/modelo-curso/slides-latex/aula-02-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/modelo-curso/slides-latex/aula-02-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/modelo-curso/slides-pptx/aula-02-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/modelo-curso/slides-pptx/aula-02-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/modelo-curso/notes-latex/aula-02.pdf) • [🛠️ Recursos Adicionais](/templates/ModeloCurso/aula-02-fundamentos-exemplo#recursos-adicionais)  
 
 ---
 

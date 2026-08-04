@@ -7,11 +7,15 @@ tags: [latex, escrita-academica, etica, cep, conep, ia, llm]
 ---
 
 
+
+
 | Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
-| 📄 **Slides LaTeX (52 slides - .pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-08.pdf) |
-| 📊 **Slides PPTX Institucional (.pptx)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-08.pptx) |
-| 📝 **Notas de Aula LaTeX (100% .tex - .pdf)** | [Acessar Notas LaTeX](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf) |
+| 📄 **Slides LaTeX (52 slides — Modelo Branco .pdf)** | [Acessar Slide Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-08-branco.pdf) |
+| 📄 **Slides LaTeX (52 slides — Modelo Preto .pdf)** | [Acessar Slide Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-08-preto.pdf) |
+| 📊 **Slides PPTX Institucional (Modelo Branco .pptx)** | [Acessar PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-08-branco.pptx) |
+| 📊 **Slides PPTX Institucional (Modelo Preto .pptx)** | [Acessar PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-08-preto.pptx) |
+| 📝 **Notas de Aula Institucionais (100% LaTeX — .pdf)** | [Acessar Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf) |
 
 ## 📋 Sumário da Aula
 - 1. Introdução e Fundamentação Teórica

@@ -212,17 +212,21 @@ def update_lesson_files(lessons, course_dir, course_slug):
             content = f.read()
             
         num_str = f"{l['num']:02d}"
-        s_latex_url = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}.pdf"
-        s_pptx_url = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}.pptx"
+        s_latex_branco = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}-branco.pdf"
+        s_latex_preto = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}-preto.pdf"
+        s_pptx_branco = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-branco.pptx"
+        s_pptx_preto = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-preto.pptx"
         n_latex_url = f"/assets/biblioteca/{course_slug}/notes-latex/aula-{num_str}.pdf"
         
         tabela_didatica = f"""| Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
-| 📄 **Slides LaTeX (52 slides - .pdf)** | [Acessar Slide LaTeX]({s_latex_url}) |
-| 📊 **Slides PPTX Institucional (.pptx)** | [Acessar Slide PPTX]({s_pptx_url}) |
-| 📝 **Notas de Aula LaTeX (100% .tex - .pdf)** | [Acessar Notas LaTeX]({n_latex_url}) |"""
+| 📄 **Slides LaTeX (52 slides — Modelo Branco .pdf)** | [Acessar Slide Branco]({s_latex_branco}) |
+| 📄 **Slides LaTeX (52 slides — Modelo Preto .pdf)** | [Acessar Slide Preto]({s_latex_preto}) |
+| 📊 **Slides PPTX Institucional (Modelo Branco .pptx)** | [Acessar PPTX Branco]({s_pptx_branco}) |
+| 📊 **Slides PPTX Institucional (Modelo Preto .pptx)** | [Acessar PPTX Preto]({s_pptx_preto}) |
+| 📝 **Notas de Aula Institucionais (100% LaTeX — .pdf)** | [Acessar Notas Institucionais]({n_latex_url}) |"""
 
-        # Substituir tabela didática existente no arquivo por tabela atualizada com os 3 itens
+        # Substituir tabela didática existente no arquivo por tabela atualizada com os 5 itens
         pattern_tabela = r"\| Material Didático \|.*?(?=\n\n|\n## |\Z)"
         if re.search(pattern_tabela, content, re.DOTALL):
             content = re.sub(pattern_tabela, tabela_didatica, content, count=1, flags=re.DOTALL)
@@ -284,14 +288,16 @@ def generate_modules_table(lessons, course_slug, rel_base_url, root_repo):
             title = l["clean_title"]
             desc = l.get("normas", "Referencial teórico, normas ABNT vigentes e prática ReLaTeX.")
             
-            s_latex_url = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}.pdf"
-            s_pptx_url = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}.pptx"
+            s_latex_branco = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}-branco.pdf"
+            s_latex_preto = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}-preto.pdf"
+            s_pptx_branco = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-branco.pptx"
+            s_pptx_preto = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}-preto.pptx"
             n_latex_url = f"/assets/biblioteca/{course_slug}/notes-latex/aula-{num_str}.pdf"
             adicional_url = f"{note_link}#recursos-adicionais"
             
             lines.append(f"- **Aula {num_str}: [{title}]({note_link})**  ")
             lines.append(f"  *Escopo e Normas:* {desc}  ")
-            lines.append(f"  *Material Didático:* [📄 Slides LaTeX (52 slides)]({s_latex_url}) • [📊 Slides PPTX Institucional]({s_pptx_url}) • [📝 Notas LaTeX (100% TeX)]({n_latex_url}) • [🛠️ Recursos Adicionais]({adicional_url})  \n")
+            lines.append(f"  *Material Didático:* [📄 LaTeX Branco]({s_latex_branco}) • [📄 LaTeX Preto]({s_latex_preto}) • [📊 PPTX Branco]({s_pptx_branco}) • [📊 PPTX Preto]({s_pptx_preto}) • [📝 Notas Institucionais]({n_latex_url}) • [🛠️ Recursos Adicionais]({adicional_url})  \n")
             
         lines.append("---\n")
         
