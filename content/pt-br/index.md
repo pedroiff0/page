@@ -140,18 +140,8 @@ Para navegar pelo meu trabalho, explore as seções deste site:
     <img src="/assets/photos/febic2024/febic.jpeg" alt="Mídia" />
     <div class="slide-caption">Mídia</div>
   </a>
-  <a href="/pt-br/projects" class="carousel-slide">
-    <img src="/assets/illustrations/projects.svg" alt="Projetos" />
-    <div class="slide-caption">Projetos</div>
-  </a>
-  <a href="/pt-br/blog" class="carousel-slide">
-    <img src="/assets/illustrations/toolkit.svg" alt="Blog" />
-    <div class="slide-caption">Blog</div>
-  </a>
 </div>
 
 - [Pesquisa](pt-br/research/) — Conheça meus projetos atuais.
 - [Recursos](pt-br/resource/) — Materiais, scripts e ferramentas úteis que desenvolvi ou utilizo.
 - [Mídia](pt-br/media/) — Participações em eventos, feiras e apresentações.
-- [Projetos](pt-br/projects/) — Ferramentas e aplicações que desenvolvo fora da pesquisa acadêmica.
-- [Blog](pt-br/blog/) — Pensamentos aleatórios, tutoriais e reflexões sobre a jornada de pesquisa.

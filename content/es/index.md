@@ -145,14 +145,6 @@ Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés)
     <img src="/assets/photos/febic2024/febic.jpeg" alt="Medios" />
     <div class="slide-caption">Medios</div>
   </a>
-  <a href="/pt-br/projects" class="carousel-slide">
-    <img src="/assets/illustrations/projects.svg" alt="Proyectos" />
-    <div class="slide-caption">Proyectos</div>
-  </a>
-  <a href="/pt-br/blog" class="carousel-slide">
-    <img src="/assets/illustrations/toolkit.svg" alt="Blog" />
-    <div class="slide-caption">Blog</div>
-  </a>
 </div>
 
 Los enlaces que aparecen a continuación solo están disponibles actualmente en portugués.
@@ -160,7 +152,5 @@ Los enlaces que aparecen a continuación solo están disponibles actualmente en 
 - [Investigación](pt-br/research/) — Conoce mis proyectos actuales y publicaciones.
 - [Recursos](pt-br/resource/) — Materiales, scripts y herramientas útiles que he desarrollado o utilizo.
 - [Medios](pt-br/media/) — Participaciones en eventos, ferias y presentaciones.
-- [Proyectos](pt-br/projects/) — Herramientas y aplicaciones que desarrollo fuera de la investigación académica.
-- [Blog](pt-br/blog/) — Pensamientos sueltos, tutoriales y reflexiones sobre el camino de la investigación.
 
 Este sitio se escribe primero en **portugués (Brasil)** y se traduce al inglés a medida que el tiempo lo permite — el español es el idioma más reciente en incorporarse, así que todavía queda mucho por traducir. Si notaste algo que falta o está desactualizado, puedes abrir un [issue en el repositorio](https://github.com/pedroiff0/page/issues), o [hacer clic aquí para abrir uno ya completado desde la plantilla de traducción](https://github.com/pedroiff0/page/issues/new?template=traducao.yml).
