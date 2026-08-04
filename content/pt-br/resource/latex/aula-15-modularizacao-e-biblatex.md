@@ -1,0 +1,176 @@
+---
+publish: false
+password: escritaiff2026
+title: "Aula 15 - Modularização e BibLaTeX"
+created: "2026-08-04T14:33:27-03:00"
+modified: "2026-08-04T14:33:27-03:00"
+tags: ['latex', 'modularizacao', 'biblatex', 'abnt']
+---
+
+> **Aviso:** Os recursos adicionais desta aula (listas de exercícios estendidas, gabaritos e templates) são protegidos. Utilize a senha `escritaiff2026` para acessá-los no portal do aluno.
+
+**Carga Horária:** 2h (Aula Diária)
+
+
+## Objetivos da Aula
+Aprender a estruturar projetos longos com `\input` e `\include` e gerenciar bibliografias com `biblatex` e `biber` em conformidade com as normas NBR 6023 e NBR 10520.
+
+## Slide Referente da Aula (Beamer — Modelo Institucional IFF)
+
+Abaixo apresentamos o código LaTeX integral dos slides institucionais desta aula, construído com a classe **`slidesiffmodelo.cls`** (na proporção 16:9), integrando automaticamente os metadados oficiais do Instituto Federal Fluminense (IFF):
+
+```latex
+\documentclass[aspectratio=169]{slidesiffmodelo}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{tikz}
+
+% ==============================================================================
+% METADADOS INSTITUCIONAIS - IFF (PROJETO RELATEX)
+% ==============================================================================
+\titulo{Aula 15: Modularização do Projeto e BibLaTeX/Biber}
+\subtitulo{Curso Profissional de Escrita Acadêmica e LaTeX (80h)}
+\autor{Prof. Dr. Pedro Henrique Silva}
+\orientador{Projeto ReLaTeX -- IFF Campus Bom Jesus do Itabapoana}
+\curso{Engenharia de Computação / Pós-Graduação}
+\campus{Campus Bom Jesus do Itabapoana}
+\instituicao{Instituto Federal de Educação, Ciência e Tecnologia Fluminense}
+\data{\today}
+
+\begin{document}
+
+% ------------------------------------------------------------------------------
+% SLIDE 1: CAPA INSTITUCIONAL IFF
+% ------------------------------------------------------------------------------
+\begin{frame}[plain]
+    \imprimircapa
+\end{frame}
+
+% ------------------------------------------------------------------------------
+% SLIDE 2: SUMÁRIO E ROTEIRO DA AULA
+% ------------------------------------------------------------------------------
+\begin{frame}{Roteiro da Aula 15}
+    \tableofcontents
+\end{frame}
+
+% ------------------------------------------------------------------------------
+% SLIDE 3: FUNDAMENTAÇÃO TEÓRICA / NORMATIVA ABNT
+% ------------------------------------------------------------------------------
+\section{Fundamentação e Normativa}
+\begin{frame}{Fundamentação Teórica e Normativa ABNT/IBGE}
+    \begin{block}{Diretriz Institucional --- Arquitetura Multi-arquivo e Motor Biber}
+        Diferença fundamental entre \input e \include na gestão de grandes TCCs e teses.
+    \end{block}
+    \vspace{0.3cm}
+    \textbf{Pontos-Chave da Aula 15:}
+    \begin{itemize}
+        \item \textbf{Alinhamento Normativo:} Obediência estrita aos padrões canônicos da ABNT e IBGE.
+        \item \textbf{Rigor Metodológico:} Gestão avançada do banco bibliográfico (.bib) via biblatex-abnt e motor biber.
+        \item \textbf{Prática em LaTeX:} Automação tipográfica sem intervenção manual de formatação.
+    \end{itemize}
+\end{frame}
+
+% ------------------------------------------------------------------------------
+% SLIDE 4: ARQUITETURA E FLUXO METODOLÓGICO (COLUNAS)
+% ------------------------------------------------------------------------------
+\section{Arquitetura e Metodologia}
+\begin{frame}{Arquitetura de Implementação e Boas Práticas}
+    \begin{columns}[c]
+        \begin{column}{0.48\textwidth}
+            \begin{alertblock}{Atenção Epistemológica}
+                Evite desvios normativos ou formatações ad-hoc no código principal. Separe conteúdo de estilo.
+            \end{alertblock}
+        \end{column}
+        \begin{column}{0.48\textwidth}
+            \begin{exampleblock}{Padrão Oficial ReLaTeX}
+                Utilize as macros centralizadas do pacote \texttt{ifftese.cls} e \texttt{metadados.sty} para manter a conformidade.
+            \end{exampleblock}
+        \end{column}
+    \end{columns}
+\end{frame}
+
+% ------------------------------------------------------------------------------
+% SLIDE 5: IMPLEMENTAÇÃO NO CÓDIGO (LATEX / ABNT)
+% ------------------------------------------------------------------------------
+\section{Exemplo Prático (Código)}
+\begin{frame}[fragile]{Implementação Prática em LaTeX / ABNT}
+    \begin{block}{Snippet de Referência --- Aula 15}
+\begin{verbatim}
+\usepackage[style=abnt,backend=biber]{biblatex} \addbibresource{biblio.bib}
+\end{verbatim}
+    \end{block}
+\end{frame}
+
+% ------------------------------------------------------------------------------
+% SLIDE 6: SÍNTESE E REFERÊNCIAS BIBLIOGRÁFICAS
+% ------------------------------------------------------------------------------
+\section{Síntese e Referências}
+\begin{frame}{Síntese da Aula e Referências Normativas}
+    \begin{itemize}
+        \item Consolidação dos conhecimentos da Aula 15 no ecossistema IFF.
+        \item Próxima etapa: Aplicação no arquivo \texttt{metadados.sty} e validação do build.
+    \end{itemize}
+    \vspace{0.4cm}
+    \footnotesize
+    \textbf{Referência Principal:}
+    \begin{thebibliography}{10}
+        \bibitem{ref1} ARAUJO, L. C. A classe abntex2: Modelo canônico de trabalho acadêmico. 2015.
+    \end{thebibliography}
+\end{frame}
+
+\end{document}
+```
+
+
+
+## Slide Referente da Aula (PPTX — Modelo Institucional IFF)
+
+Para apresentações em auditórios do IFF ou defesas que utilizam o **Microsoft PowerPoint (.pptx)** (compatível com LibreOffice Impress e Google Slides), disponibilizamos o modelo institucional Widescreen (16:9) pronto para uso e estruturado nas normas canônicas da ABNT/IBGE abordadas nesta aula:
+
+### 1. Especificação Visual e Identidade IFF (Widescreen 16:9)
+- **Paleta Institucional:**
+  - Verde Oficial IFF: `#2D6238` (`RGB: 45, 98, 56`) — Primária para Títulos e Capa.
+  - Vermelho Destaque IFF: `#B3282D` (`RGB: 179, 40, 45`) — Secundária para Alertas e Código.
+  - Cinza Chumbo: `#333333` (`RGB: 51, 51, 51`) — Corpo de Texto.
+- **Rodapé Institucional Padronizado:** `Prof. Dr. Pedro Henrique Silva | IFF Campus Bom Jesus do Itabapoana | Curso de Escrita Acadêmica e LaTeX (80h) | Aula 15`.
+
+### 2. Download do Arquivo PPTX Institucional
+O arquivo `.pptx` institucional desta aula encontra-se gerado no repositório com todos os 4 slides (Capa, Roteiro, Fundamentação Teórica e Exemplo Prático/Referências):
+
+> [!TIP] **Download da Apresentação**
+> **[📥 Baixar Apresentação Institucional em PPTX — Aula 15: Modularização do Projeto e BibLaTeX/Biber](/assets/biblioteca/latex-escrita/slides-pptx/aula-15-iff-institucional.pptx)**
+
+### 3. Conversão Direta via Terminal (Pandoc)
+Caso prefira compilar seus próprios slides localmente a partir deste texto Markdown utilizando o template mestre institucional:
+```bash
+pandoc aula-15.md -o aula-15-iff-institucional.pptx --reference-doc=template-iff-widescreen.pptx --slide-level=2
+```
+
+
+## Normas ABNT Aplicáveis
+As normas NBR 6023:2018 (Referências) e NBR 10520:2023 (Citações) exigem rigor na pontuação e indicação de autoria (e.g., chamada autor-data em caixa alta ou baixa, dependendo da posição). O `biblatex-abnt` no LaTeX automatiza este rigor, controlando o formato da lista de referências e as chamadas (`\cite`, `\textcite`), eliminando erros de consistência manual.
+
+## Estudo de Caso
+Durante a produção de uma tese de 300 páginas, a compilação única tornava-se lenta e a organização textual confusa. Ao dividir a tese em capítulos (`\include{capitulos/01-introducao}`), o doutorando pôde trabalhar focadamente. A integração com o Zotero para exportar o `.bib` garantiu que 150 referências fossem citadas perfeitamente via `biblatex-abnt`.
+
+## Diagramas e Ilustrações
+```mermaid
+graph TD
+    A[main.tex] --> B(\include{cap1})
+    A --> C(\include{cap2})
+    A --> D(\include{cap3})
+    E[referencias.bib] -.->|biber| A
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+```
+
+## Exercício Prático
+1. Crie um projeto com um `main.tex` e dois arquivos separados `cap1.tex` e `cap2.tex`.
+2. Inclua um arquivo `.bib` contendo a referência de um livro de sua escolha.
+3. Cite o livro no `cap1.tex` usando `\textcite` e imprima a bibliografia no final.
+
+## Referências Bibliográficas
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: Informação e documentação — Referências — Elaboração. Rio de Janeiro: ABNT, 2018.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 10520**: Informação e documentação — Citações em documentos — Apresentação. Rio de Janeiro: ABNT, 2023.
