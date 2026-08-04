@@ -173,53 +173,81 @@ A barreira clássica do uso de LaTeX no Brasil sempre foi a complexidade de adap
 
 ---
 
-## 📅 Ementa Completa e Acesso Rápido às Aulas (Protegidas)
+## 📅 Ementa Completa, Notas de Aula (Notes) e Slides (Lectures)
 
-> 🔒 **Lembrete de Senha:** Para abrir qualquer arquivo de aula abaixo, insira a senha **`escritaiff2026`**.
+> [!IMPORTANT] **Acesso Restrito e Senha Institucional**
+> Todas as Notas de Aula (**Notes**) e páginas de Apresentação (**Lectures**) são protegidas por senha no Quartz.
+> **Senha única para todos os materiais:** **`escritaiff2026`**
+> 
+> *Estrutura no estilo internacional (`Notes | Lecture | PPTX`): As **Notes** contêm o livro-texto detalhado com fundamentação teórica, normas ABNT/IBGE, diagramas e código; as **Lectures** contêm o código Beamer institucional e a especificação de slides.*
+
+---
 
 ### 📘 PARTE 1: ESCRITA ACADÊMICA CIENTÍFICA (40 Horas / Meses 1 a 3)
 
-#### MÊS 1: Epistemologia, Metodologia e Elementos Pré-Textuais
-- [Aula 01: Epistemologia da Escrita Científica, Problematização e Hipóteses](pt-br/resource/latex/aula-01-epistemologia-problematizacao)
-- [Aula 02: Objetivos Geral e Específicos e Justificativa de Relevância](pt-br/resource/latex/aula-02-objetivos-e-justificativa)
-- [Aula 03: Elementos Pré-Textuais I: Resumo, Abstract e Palavras-Chave (NBR 6028)](pt-br/resource/latex/aula-03-resumo-abstract-palavras-chave)
-- [Aula 04: Elementos Pré-Textuais II: Dedicatória, Agradecimentos e Epígrafe](pt-br/resource/latex/aula-04-dedicatoria-agradecimentos-epigrafe)
+#### 🗓️ MÊS 1: Epistemologia, Metodologia e Elementos Pré-Textuais
+*Carga Horária Módulo: 8 horas (4 aulas de 2h/dia) | Foco: Construção do pensamento científico e elementos iniciais da NBR 14724.*
 
-#### MÊS 2: Estrutura Textual e Construção Argumentativa
-- [Aula 05: Introdução e Contextualização do Problema (Técnica do Funil)](pt-br/resource/latex/aula-05-introducao-e-contextualizacao)
-- [Aula 06: Revisão Sistemática da Literatura e Estado da Arte (Protocolo PRISMA)](pt-br/resource/latex/aula-06-revisao-sistematica-literatura)
-- [Aula 07: Seção de Metodologia, Materiais e Reprodutibilidade Científica](pt-br/resource/latex/aula-07-metodologia-e-materiais)
-- [Aula 08: Ética na Pesquisa, Comitê de Ética (CEP/CONEP) e Uso Ético de IA](pt-br/resource/latex/aula-08-etica-na-pesquisa-e-ia)
+| Aula | Competência e Conteúdo Programático | Recursos e Materiais de Aula (Acesso Restrito 🔒) |
+| :---: | :--- | :--- |
+| **01** | **Epistemologia, Problematização e Hipóteses**<br>*- Conhecimento científico vs. senso comum, método hipotético-dedutivo (Popper) e formulação de $H_0$ vs $H_1$.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-01-epistemologia-problematizacao) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-01-epistemologia-problematizacao) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-01-iff-institucional.pptx) |
+| **02** | **Objetivos Geral e Específicos e Justificativa de Relevância**<br>*- Taxonomia de Bloom na escolha de verbos científicos e argumentação da relevância tecnológica.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-02-objetivos-e-justificativa) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-02-objetivos-e-justificativa) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-02-iff-institucional.pptx) |
+| **03** | **Resumo, Abstract e Palavras-Chave (ABNT NBR 6028)**<br>*- Estrutura do resumo informativo (150 a 500 palavras) e vocabulários controlados (DeCS/IEEE).* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-03-resumo-abstract-palavras-chave) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-03-resumo-abstract-palavras-chave) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-03-iff-institucional.pptx) |
+| **04** | **Dedicatória, Agradecimentos e Epígrafe (ABNT NBR 14724)**<br>*- Normativa, ética de reconhecimento a agências de fomento e sobriedade institucional.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-04-dedicatoria-agradecimentos-epigrafe) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-04-dedicatoria-agradecimentos-epigrafe) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-04-iff-institucional.pptx) |
 
-#### MÊS 3: Resultados, Discussão e Pós-Textuais
-- [Aula 09: Resultados e Apresentação Visual de Dados (Tabelas IBGE vs Quadros)](pt-br/resource/latex/aula-09-resultados-e-apresentacao-de-dados)
-- [Aula 10: Discussão dos Resultados, Limitações e Conclusão](pt-br/resource/latex/aula-10-discussao-e-conclusao)
-- [Aula 11: Citações e Paráfrases conforme a NBR 10520](pt-br/resource/latex/aula-11-citacoes-e-parafrases)
-- [Aula 12: Referências Bibliográficas (NBR 6023), Apêndices e Anexos](pt-br/resource/latex/aula-12-referencias-apendices-anexos)
+#### 🗓️ MÊS 2: Estrutura Textual e Construção Argumentativa
+*Carga Horária Módulo: 8 horas (4 aulas de 2h/dia) | Foco: Técnica de redação do corpo principal da monografia ou artigo.*
+
+| Aula | Competência e Conteúdo Programático | Recursos e Materiais de Aula (Acesso Restrito 🔒) |
+| :---: | :--- | :--- |
+| **05** | **Introdução e Contextualização do Problema**<br>*- A técnica do funil argumentativo (macro para micro) e evidenciação clara do Research Gap.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-05-introducao-e-contextualizacao) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-05-introducao-e-contextualizacao) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-05-iff-institucional.pptx) |
+| **06** | **Revisão Sistemática da Literatura e Estado da Arte**<br>*- Protocolo PRISMA, buscas em bases indexadas (Scopus/WoS/IEEE) e matriz de síntese.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-06-revisao-sistematica-literatura) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-06-revisao-sistematica-literatura) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-06-iff-institucional.pptx) |
+| **07** | **Metodologia, Materiais e Reprodutibilidade Científica**<br>*- Desenho experimental, universo/amostra, instrumentação e critérios de replicabilidade.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-07-metodologia-e-materiais) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-07-metodologia-e-materiais) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-07-iff-institucional.pptx) |
+| **08** | **Ética na Pesquisa (CEP/CONEP) e Uso Ético de IA**<br>*- Plataforma Brasil, TCLE, prevenção a plágio e transparência no uso de LLMs na pesquisa.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-08-etica-na-pesquisa-e-ia) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-08-etica-na-pesquisa-e-ia) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-08-iff-institucional.pptx) |
+
+#### 🗓️ MÊS 3: Resultados, Discussão e Pós-Textuais
+*Carga Horária Módulo: 8 horas (4 aulas de 2h/dia) | Foco: Análise visual de dados, debate e fecho bibliográfico.*
+
+| Aula | Competência e Conteúdo Programático | Recursos e Materiais de Aula (Acesso Restrito 🔒) |
+| :---: | :--- | :--- |
+| **09** | **Resultados e Apresentação Visual de Dados**<br>*- Normas IBGE 1993 (Tabelas estatísticas abertas) vs Quadros classificatórios ABNT.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-09-resultados-e-apresentacao-de-dados) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-09-resultados-e-apresentacao-de-dados) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-09-iff-institucional.pptx) |
+| **10** | **Discussão dos Resultados, Limitações e Conclusão**<br>*- Triangulação de achados, modéstia acadêmica (limitações) e agenda de trabalhos futuros.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-10-discussao-e-conclusao) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-10-discussao-e-conclusao) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-10-iff-institucional.pptx) |
+| **11** | **Citações e Paráfrases (ABNT NBR 10520:2023)**<br>*- Sistema autor-data em caixa baixa, citações diretas (>3 linhas), indiretas e apud.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-11-citacoes-e-parafrases) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-11-citacoes-e-parafrases) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-11-iff-institucional.pptx) |
+| **12** | **Referências Bibliográficas (NBR 6023), Apêndices e Anexos**<br>*- Formatação canônica de monografias, artigos, leis, DOI obrigatório e produção extra.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-12-referencias-apendices-anexos) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-12-referencias-apendices-anexos) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-12-iff-institucional.pptx) |
 
 ---
 
 ### 📗 PARTE 2: AUTOMAÇÃO COM LATEX E A CLASSE IFFTESE (40 Horas / Meses 4 a 6)
 
-#### MÊS 4: Fundamentos de LaTeX e Arquitetura de Documentos
-- [Aula 13: Instalação, Compiladores (PDFLaTeX/LuaLaTeX) e Ambientes (VS Code / Overleaf)](pt-br/resource/latex/aula-13-instalacao-ambiente-latex)
-- [Aula 14: Sintaxe Fundamental, Ambientes Matemáticos e Tabelas Profissionais](pt-br/resource/latex/aula-14-sintaxe-latex-e-matematica)
-- [Aula 15: Modularização do Projeto (`\input`/`\include`) e BibLaTeX com Biber](pt-br/resource/latex/aula-15-modularizacao-e-biblatex)
-- [Aula 16: Computação Gráfica Vetorial com TikZ e PGFPlots](pt-br/resource/latex/aula-16-graphics-tikz-pgfplots)
+#### 🗓️ MÊS 4: Fundamentos de LaTeX e Arquitetura de Documentos
+*Carga Horária Módulo: 8 horas (4 aulas de 2h/dia) | Foco: Instalação, motores TeX, matemática e tabelas profissionais.*
 
-#### MÊS 5: Domínio da Classe `ifftese.cls` e Ecossistema ReLaTeX
-- [Aula 17: Arquivo de Configuração de Metadados (`metadados.sty`)](pt-br/resource/latex/aula-17-arquivo-metadados-sty)
-- [Aula 18: Produtividade e Macros Personalizadas (`macros.sty`)](pt-br/resource/latex/aula-18-pacote-macros-sty)
-- [Aula 19: Engenharia de Macros e Estrutura Interna da Classe `ifftese.cls`](pt-br/resource/latex/aula-19-classe-ifftese-engenharia)
-- [Aula 20: Customização Avançada de Floats, Listas e Sumário Dinâmico](pt-br/resource/latex/aula-20-floats-e-sumario-dinamico)
+| Aula | Competência e Conteúdo Programático | Recursos e Materiais de Aula (Acesso Restrito 🔒) |
+| :---: | :--- | :--- |
+| **13** | **Instalação, Compiladores (PDFLaTeX/LuaLaTeX) e Ambientes**<br>*- TeX Live/MacTeX, VS Code + LaTeX Workshop, Overleaf e suporte nativo a UTF-8.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-13-instalacao-ambiente-latex) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-13-instalacao-ambiente-latex) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-13-iff-institucional.pptx) |
+| **14** | **Sintaxe Fundamental, Matemática e Tabelas Profissionais**<br>*- Ambientes matemáticos (`amsmath`) e tabelas formais sem linhas verticais (`booktabs`).* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-14-sintaxe-latex-e-matematica) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-14-sintaxe-latex-e-matematica) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-14-iff-institucional.pptx) |
+| **15** | **Modularização do Projeto (`\input`/`\include`) e BibLaTeX com Biber**<br>*- Arquitetura multi-arquivo para teses e gestão automatizada de citações no estilo ABNT.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-15-modularizacao-e-biblatex) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-15-modularizacao-e-biblatex) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-15-iff-institucional.pptx) |
+| **16** | **Computação Gráfica Vetorial com TikZ e PGFPlots**<br>*- Criação de diagramas de blocos, fluxogramas, árvores e gráficos de dados em código .tex.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-16-graphics-tikz-pgfplots) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-16-graphics-tikz-pgfplots) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-16-iff-institucional.pptx) |
 
-#### MÊS 6: Ecossistema de Defesa, Apresentação e Publicação
-- [Aula 21: Slides de Defesa Institucionais em Beamer com Integração aos Metadados](pt-br/resource/latex/aula-21-beamer-slides-defesa)
-- [Aula 22: Pôster Científico em LaTeX com a Classe `iffposter.cls`](pt-br/resource/latex/aula-22-poster-cientifico-iffposter)
-- [Aula 23: Relatórios Corporativos e Documentação Técnica (`relatoriocorp.cls`)](pt-br/resource/latex/aula-23-relatorios-corporativos)
-- [Aula 24: Automação com `latexmk`, Versionamento Git e Checklist de Submissão](pt-br/resource/latex/aula-24-latexmk-git-e-submissao)
+#### 🗓️ MÊS 5: Domínio da Classe `ifftese.cls` e Ecossistema ReLaTeX
+*Carga Horária Módulo: 8 horas (4 aulas de 2h/dia) | Foco: A filosofia ReLaTeX de isolamento de metadados e macros.*
 
----
+| Aula | Competência e Conteúdo Programático | Recursos e Materiais de Aula (Acesso Restrito 🔒) |
+| :---: | :--- | :--- |
+| **17** | **Arquivo de Configuração de Metadados (`metadados.sty`)**<br>*- Preenchimento de autor, título, banca e orientadores sem tocar na formatação da classe.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-17-arquivo-metadados-sty) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-17-arquivo-metadados-sty) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-17-iff-institucional.pptx) |
+| **18** | **Produtividade e Macros Personalizadas (`macros.sty`)**<br>*- Atalhos unificados para inserir figuras, quadros e teoremas com referência cruzada.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-18-pacote-macros-sty) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-18-pacote-macros-sty) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-18-iff-institucional.pptx) |
+| **19** | **Engenharia de Macros e Estrutura Interna da Classe `ifftese.cls`**<br>*- Herança do abntex2, redefinição de comandos com `makeatletter` e margens NBR 14724.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-19-classe-ifftese-engenharia) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-19-classe-ifftese-engenharia) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-19-iff-institucional.pptx) |
+| **20** | **Customização Avançada de Floats, Listas e Sumário Dinâmico**<br>*- Lista de Quadros, Lista de Algoritmos, paginação NBR 6027 e cabeçalhos `fancyhdr`.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-20-floats-e-sumario-dinamico) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-20-floats-e-sumario-dinamico) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-20-iff-institucional.pptx) |
+
+#### 🗓️ MÊS 6: Ecossistema de Defesa, Apresentação e Publicação
+*Carga Horária Módulo: 8 horas (4 aulas de 2h/dia) | Foco: Slides, pôsteres científicos, relatórios corporativos e CI/CD.*
+
+| Aula | Competência e Conteúdo Programático | Recursos e Materiais de Aula (Acesso Restrito 🔒) |
+| :---: | :--- | :--- |
+| **21** | **Slides de Defesa Institucionais em Beamer com Integração aos Metadados**<br>*- Classe `slidesiffmodelo.cls` em 16:9, régua IFF, cartões KPI e reuso de metadados.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-21-beamer-slides-defesa) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-21-beamer-slides-defesa) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-21-iff-institucional.pptx) |
+| **22** | **Pôster Científico em LaTeX com a Classe `iffposter.cls`**<br>*- Formatação para congressos em A0/A1, colunas sem quebra e cabeçalho IFF.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-22-poster-cientifico-iffposter) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-22-poster-cientifico-iffposter) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-22-iff-institucional.pptx) |
+| **23** | **Relatórios Corporativos e Documentação Técnica (`relatoriocorp.cls`)**<br>*- Documentos para o setor produtivo, sumário executivo e paleta corporativa `marca.sty`.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-23-relatorios-corporativos) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-23-relatorios-corporativos) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-23-iff-institucional.pptx) |
+| **24** | **Automação com `latexmk`, Versionamento Git e Checklist de Submissão**<br>*- CI/CD para LaTeX, `.gitignore` profissional e verificação final antes do depósito.* | [📝 **Notes** (Notas de Aula)](pt-br/resource/latex/aula-24-latexmk-git-e-submissao) • [📊 **Lecture** (Beamer/Slides)](pt-br/resource/latex/lectures/lecture-24-latexmk-git-e-submissao) • [📥 **PPTX**](/assets/biblioteca/latex-escrita/slides-pptx/aula-24-iff-institucional.pptx) |
 
 ## 📚 Referências Bibliográficas Fundamentais
 
