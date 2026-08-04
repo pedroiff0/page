@@ -28,14 +28,13 @@ import sys
 import glob
 import argparse
 
-# Configuração canônica de nomes de Módulos (por índice de módulo 1..6)
+# Configuração canônica de nomes de Módulos (por índice de módulo 1..5 para 20 aulas)
 MODULOS_TITULOS = {
-    1: "📘 Módulo I — Epistemologia, Metodologia e Elementos Pré-Textuais",
-    2: "📘 Módulo II — Estrutura Textual e Construção Argumentativa",
-    3: "📘 Módulo III — Resultados, Discussão e Elementos Pós-Textuais",
-    4: "📗 Módulo IV — Fundamentos de LaTeX e Arquitetura de Documentos",
-    5: "📗 Módulo V — Domínio da Classe ifftese.cls e Ecossistema ReLaTeX",
-    6: "📗 Módulo VI — Defesa, Apresentação Científica, Pôsteres e Relatórios",
+    1: "📘 Módulo I — Epistemologia, Metodologia Científica e Elementos Pré-Textuais (Aulas 01 a 04)",
+    2: "📘 Módulo II — Estrutura Textual, Introdução, PRISMA e Metodologia (Aulas 05 a 08)",
+    3: "📘 Módulo III — Resultados, Discussão, Citações NBR 10520 e Referências NBR 6023 (Aulas 09 a 12)",
+    4: "📗 Módulo IV — Arquitetura LaTeX (.tex), Motores, Sintaxe, Tabelas e Gráficos (Aulas 13 a 16)",
+    5: "📗 Módulo V — Engenharia ReLaTeX (.cls e .sty), Metadados, Macros e Automação (Aulas 17 a 20)",
 }
 
 def parse_lesson_file(file_path):
@@ -162,10 +161,9 @@ def update_course_index(course_dir, course_slug, root_repo):
         print(f"[{course_dir}] AVISO: index.md não encontrado. Ignorando.")
         return False
         
-    # Identificar rel_base_url a partir da pasta content
+    # Identificar rel_base_url a partir da pasta content com barra inicial absoluta para o Quartz
     rel_path_from_content = os.path.relpath(course_dir, os.path.join(root_repo, "content"))
-    # Para o Quartz, wikilinks ou links markdown são baseados no caminho exato a partir do root content
-    rel_base_url = rel_path_from_content
+    rel_base_url = "/" + rel_path_from_content.lstrip("/")
     
     # Encontrar todos os arquivos aula-*.md
     lesson_files = glob.glob(os.path.join(course_dir, "aula-*.md"))

@@ -36,9 +36,9 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
 <!-- COURSE_CAROUSEL_START -->
 <div class="grid cards" markdown>
 
-- <img src="/assets/biblioteca/modelo-curso/thumbs/aula-01.png" alt="Capa Aula 01" /> **[Aula 01: Introdução e Fundamentação Teórica](templates/ModeloCurso/aula-01-introducao-exemplo)**  
+- <img src="/assets/biblioteca/modelo-curso/thumbs/aula-01.png" alt="Capa Aula 01" /> **[Aula 01: Introdução e Fundamentação Teórica](/templates/ModeloCurso/aula-01-introducao-exemplo)**  
   *Conteúdo programático da aula 01, fundamentação técnica e automação.*
-- <img src="/assets/biblioteca/modelo-curso/thumbs/aula-02.png" alt="Capa Aula 02" /> **[Aula 02: Fundamentos Metodológicos e Prática](templates/ModeloCurso/aula-02-fundamentos-exemplo)**  
+- <img src="/assets/biblioteca/modelo-curso/thumbs/aula-02.png" alt="Capa Aula 02" /> **[Aula 02: Fundamentos Metodológicos e Prática](/templates/ModeloCurso/aula-02-fundamentos-exemplo)**  
   *Conteúdo programático da aula 02, fundamentação técnica e automação.*
 
 </div>
@@ -53,12 +53,12 @@ A programação do curso é alimentada **automaticamente** a partir das aulas (`
 *(Acesso Restrito Institucional — Arquivos PDF Protegidos por Senha)*
 
 <!-- COURSE_TABLE_START -->
-### 📘 Módulo I — Epistemologia, Metodologia e Elementos Pré-Textuais
+### 📘 Módulo I — Epistemologia, Metodologia Científica e Elementos Pré-Textuais (Aulas 01 a 04)
 
 | Aula | Título da Lição & Conteúdo | Normas (ABNT / IBGE) | Material Didático |
 | :---: | :--- | :---: | :--- |
-| **01** | **Introdução e Fundamentação Teórica**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 10520:2023 / ABNT NBR 14724** | [Notas de Aula](templates/ModeloCurso/aula-01-introducao-exemplo)<br>*[Slides LaTeX em desenvolvimento]*<br>*[Slides PPTX em desenvolvimento]* |
-| **02** | **Fundamentos Metodológicos e Prática**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 10520 / ABNT NBR 10520:2023** | [Notas de Aula](templates/ModeloCurso/aula-02-fundamentos-exemplo)<br>*[Slides LaTeX em desenvolvimento]*<br>*[Slides PPTX em desenvolvimento]* |
+| **01** | **Introdução e Fundamentação Teórica**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 10520:2023 / ABNT NBR 14724** | [Notas de Aula](/templates/ModeloCurso/aula-01-introducao-exemplo)<br>*[Slides LaTeX em desenvolvimento]*<br>*[Slides PPTX em desenvolvimento]* |
+| **02** | **Fundamentos Metodológicos e Prática**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 10520 / ABNT NBR 10520:2023** | [Notas de Aula](/templates/ModeloCurso/aula-02-fundamentos-exemplo)<br>*[Slides LaTeX em desenvolvimento]*<br>*[Slides PPTX em desenvolvimento]* |
 
 ---
 
