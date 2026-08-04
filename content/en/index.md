@@ -9,6 +9,9 @@ published: 2026-07-26T12:36:37.259-03:00
 > [!info] Welcome!
 > This is your starting page! Here you will find everything you need to know about my journey, research, and work. Read in the suggested order to have the best possible experience. 😊
 
+> [!abstract] Also check out my portfolio
+> If you came from my **[projects portfolio](https://pedroiff0.github.io/webpage/)** (or just want a quick overview of everything I've built), it lists all my GitHub repositories — public and private — each with a *short brief*, plus my research grants and all contacts on a single page. This site here is the full content (research, classes, media and blog).
+
 ## 📚 Where to start?
 
 ### 1️⃣ First step: About me
@@ -32,19 +35,37 @@ If you'd like to get in touch, send an email!
 
 ### 📄 Curriculum Vitae
 
-Below you can download my CV in different languages and my complete Lattes CV:
+Below my CV in this page's language and the (multilingual LaTeX) repository that generates it:
 
-- 🇧🇷 [Currículo em Português (PDF)](/assets/curriculo/portugueseCV.pdf)
-- 🇬🇧 [CV in English (PDF)](/assets/curriculo/englishCV.pdf)
-- 🇪🇸 [CV en Español (PDF)](/assets/curriculo/spanishCV.pdf)
-- 🇫🇷 [CV en Français (PDF)](/assets/curriculo/frenchCV.pdf)
-- 🎓 [Currículo Lattes (PDF)](/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf)
+<div class="cv-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.25rem; margin: 1.75rem 0;">
 
-> [!info] Resume Viewer
-> You can view the English version of my **CV** directly below.
+  <a href="/assets/curriculo/englishCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
+      <div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">🇬🇧</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV in English</div>
+        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Two-column PDF version</div>
+      </div>
+      <div style="margin-top: 1.25rem; font-weight: 600; font-size: 0.85rem; color: var(--tertiary); display: flex; align-items: center; gap: 0.35rem;">
+        <span>Download / View PDF</span> <span>↗</span>
+      </div>
+    </div>
+  </a>
 
-**CV (English):**
-![[assets/curriculo/englishCV.pdf]]
+  <a href="https://github.com/pedroiff0/curriculo" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
+      <div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">📄</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV Repository</div>
+        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">LaTeX source (PT/EN/ES/FR)</div>
+      </div>
+      <div style="margin-top: 1.25rem; font-weight: 600; font-size: 0.85rem; color: var(--tertiary); display: flex; align-items: center; gap: 0.35rem;">
+        <span>View on GitHub</span> <span>↗</span>
+      </div>
+    </div>
+  </a>
+
+</div>
 
 ### 📬 Get in touch
 

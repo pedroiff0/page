@@ -9,6 +9,9 @@ published: 2026-07-26T12:36:37.259-03:00
 > [!info] ¡Bienvenido(a)!
 > Esta es tu página de inicio. Aquí encontrarás todo lo que necesitas saber sobre mi trayectoria, mis investigaciones y mi trabajo. Lee en el orden sugerido para tener la mejor experiencia posible. 😊
 
+> [!abstract] También visita mi portafolio
+> Si llegaste desde mi **[portafolio de proyectos](https://pedroiff0.github.io/webpage/)** (o quieres una vista rápida de todo lo que he construido), allí están todos mis repositorios de GitHub — públicos y privados — con un *short brief* de cada uno, además de las becas de investigación y los contactos en una sola página. Este sitio es el contenido completo (investigación, asignaturas, medios y blog).
+
 ## 📚 ¿Por dónde empezar?
 
 ### 1️⃣ Primer paso: Sobre mí
@@ -32,19 +35,37 @@ Si quieres ponerte en contacto, ¡envíame un correo!
 
 ### 📄 Currículum Vitae
 
-A continuación puedes descargar mi CV en diferentes idiomas y mi Currículo Lattes completo:
+A continuación mi CV en el idioma de esta página y el repositorio (LaTeX multilingüe) que lo genera:
 
-- 🇧🇷 [Currículo em Português (PDF)](/assets/curriculo/portugueseCV.pdf)
-- 🇬🇧 [CV in English (PDF)](/assets/curriculo/englishCV.pdf)
-- 🇪🇸 [CV en Español (PDF)](/assets/curriculo/spanishCV.pdf)
-- 🇫🇷 [CV en Français (PDF)](/assets/curriculo/frenchCV.pdf)
-- 🎓 [Currículo Lattes (PDF)](/assets/curriculo/Currículo do Sistema de Currículos Lattes (Pedro Henrique Rocha de Andrade).pdf)
+<div class="cv-cards-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.25rem; margin: 1.75rem 0;">
 
-> [!info] Visualizador de CV
-> Puedes ver la versión en español de mi **CV** a continuación.
+  <a href="/assets/curriculo/spanishCV.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
+      <div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">🇪🇸</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">CV en Español</div>
+        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Versión en PDF de dos columnas</div>
+      </div>
+      <div style="margin-top: 1.25rem; font-weight: 600; font-size: 0.85rem; color: var(--tertiary); display: flex; align-items: center; gap: 0.35rem;">
+        <span>Descargar / Ver PDF</span> <span>↗</span>
+      </div>
+    </div>
+  </a>
 
-**CV (Español):**
-![[assets/curriculo/spanishCV.pdf]]
+  <a href="https://github.com/pedroiff0/curriculo" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: flex;">
+    <div style="background: var(--light); border: 1px solid var(--lightgray); border-radius: 10px; padding: 1.25rem 1.5rem; width: 100%; display: flex; flex-direction: column; justify-content: space-between; transition: all 0.25s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.04);" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 6px 16px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 2px 6px rgba(0,0,0,0.04)';">
+      <div>
+        <div style="font-size: 1.6rem; margin-bottom: 0.75rem; line-height: 1;">📄</div>
+        <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 0.35rem; color: var(--dark);">Repositorio del CV</div>
+        <div style="font-size: 0.85rem; color: var(--gray); line-height: 1.4;">Código fuente LaTeX (PT/EN/ES/FR)</div>
+      </div>
+      <div style="margin-top: 1.25rem; font-weight: 600; font-size: 0.85rem; color: var(--tertiary); display: flex; align-items: center; gap: 0.35rem;">
+        <span>Ver en GitHub</span> <span>↗</span>
+      </div>
+    </div>
+  </a>
+
+</div>
 
 ### 📬 Contáctame
 
