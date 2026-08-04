@@ -112,7 +112,7 @@ O pacote **`metadados.sty`** centraliza todos os dados de autoria, filiação in
 \preambulo{Trabalho de Conclusão de Curso apresentado ao Curso de Bacharelado em Engenharia de Computação do Instituto Federal Fluminense como requisito parcial para obtenção do título de Bacharela em Engenharia de Computação.}
 
 % --- Orientação e Banca ---
-\orientador{Prof. Dr. Pedro Henrique Silva}
+\orientador{Prof. Dr. Pedro Henrique Rocha de Andrade}
 \orientadorfeminino{nao}
 \coorientador{Profa. Dra. Ana Clara Souza}
 \coorientadorfeminino{sim}
@@ -246,7 +246,7 @@ No mundo corporativo e industrial, a identidade de marca é governada pelo arqui
 \usepackage{marca} % Importa a cor da empresa e logotipo central
 
 \titulo{Diagnóstico de Eficiência em Infraestrutura Computacional}
-\autor{Eng. Pedro Henrique Silva}
+\autor{Eng. Pedro Henrique Rocha de Andrade}
 \data{\today}
 
 \begin{document}
