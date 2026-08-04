@@ -6,17 +6,20 @@ publish: true
 tags: [latex, escrita-academica, abnt, ifftese]
 ---
 
-# Aula 01: Epistemologia, Problematização, Falsificacionismo e Hipóteses
 
-> [!WARNING] Acesso Restrito Institucional
-> Este material é protegido por diretrizes institucionais. Senha de acesso: **escritaiff2026**.
-> **Carga Horária Equivalente:** 4 tempos de 50 minutos (3h20m / 4 horas-aula diárias).
-> **Professor Responsável:** Prof. Dr. Pedro Henrique Rocha de Andrade.
-
-| Material Didático | Link Institucional (Acesso Restrito / Senha Protegida) |
+| Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
-| 📄 **Slides LaTeX (.pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-01.pdf) |
-| 📊 **Slides PPTX (.pdf)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-01.pdf) |
+| 📄 **Slides LaTeX (52 slides - .pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-01.pdf) |
+| 📊 **Slides PPTX Institucional (.pptx)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-01.pptx) |
+| 📝 **Notas de Aula LaTeX (100% .tex - .pdf)** | [Acessar Notas LaTeX](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) |
+
+## 📋 Sumário da Aula
+- 1. Introdução e Fundamentação Teórica
+- 2. Normalização ABNT e Rigor Metodológico
+- 3. Prática e Engenharia no Ecossistema ReLaTeX
+- 4. Estudo de Caso Real e Resolução de Problemas
+- 5. Síntese e Conclusão
+
 
 ## 1. Introdução à Epistemologia da Pesquisa
 
@@ -88,3 +91,14 @@ Instruções para o aluno (Tempo estimado para resolução, em grupo: 30 minutos
 - KUHN, T. S. *A Estrutura das Revoluções Científicas*. 13. ed. São Paulo: Perspectiva, 2018.
 - MARCONI, M. de A.; LAKATOS, E. M. *Fundamentos de metodologia científica*. 8. ed. São Paulo: Atlas, 2017.
 - POPPER, K. R. *A lógica da pesquisa científica*. 2. ed. São Paulo: Cultrix, 2013.
+
+
+## 🛠️ Recursos Adicionais e Material Suplementar
+
+- **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
+- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
+- **[📜 Código de Conduta e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
+- **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — Portal oficial mundial de pacotes LaTeX2e.
+- **[ABNT Catálogo de Normas](https://www.abnt.org.br/)** — Acesso e consulta às normas técnicas vigentes.
+- **[Overleaf Documentation](https://www.overleaf.com/learn)** — Base de conhecimento e guias práticos sobre compilação TeX.
+

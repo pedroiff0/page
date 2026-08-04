@@ -6,17 +6,20 @@ publish: true
 tags: [latex, escrita-academica, abnt, ifftese]
 ---
 
-# Aula 05: Introdução, Contextualização e a Inexorável Lacuna de Pesquisa (*Research Gap*)
 
-> [!WARNING] Acesso Restrito Institucional
-> Este material é protegido por diretrizes institucionais. Senha de acesso: **escritaiff2026**.
-> **Carga Horária Equivalente:** 4 tempos de 50 minutos (3h20m / 4 horas-aula diárias).
-> **Professor Responsável:** Prof. Dr. Pedro Henrique Rocha de Andrade.
-
-| Material Didático | Link Institucional (Acesso Restrito / Senha Protegida) |
+| Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
-| 📄 **Slides LaTeX (.pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-05.pdf) |
-| 📊 **Slides PPTX (.pdf)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-05.pdf) |
+| 📄 **Slides LaTeX (52 slides - .pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-05.pdf) |
+| 📊 **Slides PPTX Institucional (.pptx)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-05.pptx) |
+| 📝 **Notas de Aula LaTeX (100% .tex - .pdf)** | [Acessar Notas LaTeX](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf) |
+
+## 📋 Sumário da Aula
+- 1. Introdução e Fundamentação Teórica
+- 2. Normalização ABNT e Rigor Metodológico
+- 3. Prática e Engenharia no Ecossistema ReLaTeX
+- 4. Estudo de Caso Real e Resolução de Problemas
+- 5. Síntese e Conclusão
+
 
 ## 1. A Matriz Estrutural e Discursiva Irredutível da Introdução
 
@@ -66,3 +69,14 @@ O último, definitivo e final parágrafo deste bloco laboratorial, irrefutavelme
 - CRESWELL, J. W. *Projeto de Pesquisa*: Métodos Qualitativo, Quantitativo e Misto. 3. ed. Porto Alegre: Artmed, 2010. (A espinha dorsal absoluta e irrefutável incontestável pautada em metodologia exaustiva que ilumina puramente inegavelmente a tese base irrestritamente estrita qualitativa incontestável consolidada analiticamente fática modelada pautada incontestavelmente com rigor milimétrico inegável indiscutivelmente puramente e mista acurada indiscutível mundial inegável).
 - VOLPATO, G. L. *Bases teóricas para redação científica*. São Paulo: Cultura Acadêmica, 2013. (Leitura imperativa estritamente obrigatória indiscutível fática incontestável irrestrita basilar pautada exaustivamente essencial e irrefutável focada na arquitetura textual perfeitamente lógica analiticamente base consolidada inegavelmente impositiva puramente para os programas pautados impositivamente estritos acurados acadêmicos das grandes e consolidadas engenharias e biológicas irrestritamente impositivas e ciências analíticas de exatas pautadas exaustivamente estritamente incontestavelmente impositivas).
 - LAKATOS, E. M.; MARCONI, M. de A. *Fundamentos de metodologia científica*. 8. ed. São Paulo: Atlas, 2017. (Manual pragmático e indispensável para a adequada normatização).
+
+
+## 🛠️ Recursos Adicionais e Material Suplementar
+
+- **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
+- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
+- **[📜 Código de Conduta e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
+- **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — Portal oficial mundial de pacotes LaTeX2e.
+- **[ABNT Catálogo de Normas](https://www.abnt.org.br/)** — Acesso e consulta às normas técnicas vigentes.
+- **[Overleaf Documentation](https://www.overleaf.com/learn)** — Base de conhecimento e guias práticos sobre compilação TeX.
+

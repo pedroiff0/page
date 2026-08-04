@@ -202,8 +202,68 @@ def generate_carousel(lessons, course_slug, rel_base_url):
     return "\n".join(lines)
 
 
+def update_lesson_files(lessons, course_dir, course_slug):
+    """Atualiza cada aula para conter a tabela canônica com Slides LaTeX (52+ slides), Slides PPTX e Notas LaTeX (100% TeX), sumário e recursos adicionais."""
+    for l in lessons:
+        filepath = os.path.join(course_dir, l["filename"])
+        if not os.path.exists(filepath):
+            continue
+        with open(filepath, "r", encoding="utf-8") as f:
+            content = f.read()
+            
+        num_str = f"{l['num']:02d}"
+        s_latex_url = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}.pdf"
+        s_pptx_url = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}.pptx"
+        n_latex_url = f"/assets/biblioteca/{course_slug}/notes-latex/aula-{num_str}.pdf"
+        
+        tabela_didatica = f"""| Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
+| :--- | :--- |
+| 📄 **Slides LaTeX (52 slides - .pdf)** | [Acessar Slide LaTeX]({s_latex_url}) |
+| 📊 **Slides PPTX Institucional (.pptx)** | [Acessar Slide PPTX]({s_pptx_url}) |
+| 📝 **Notas de Aula LaTeX (100% .tex - .pdf)** | [Acessar Notas LaTeX]({n_latex_url}) |"""
+
+        # Substituir tabela didática existente no arquivo por tabela atualizada com os 3 itens
+        pattern_tabela = r"\| Material Didático \|.*?(?=\n\n|\n## |\Z)"
+        if re.search(pattern_tabela, content, re.DOTALL):
+            content = re.sub(pattern_tabela, tabela_didatica, content, count=1, flags=re.DOTALL)
+            
+        # Remover qualquer cabeçalho (# Aula...) ou bloco de Carga Horária/Aviso entre o frontmatter e a tabela de Material Didático
+        content = re.sub(
+            r"(---\s*\n.*?---\s*\n)[\s\S]*?(?=\| Material Didático \|)",
+            r"\1\n",
+            content,
+            count=1,
+            flags=re.DOTALL
+        )
+            
+        # Garantir seção ## 📋 Sumário da Aula logo após a tabela
+        if "## 📋 Sumário da Aula" not in content:
+            content = content.replace(tabela_didatica, f"{tabela_didatica}\n\n## 📋 Sumário da Aula\n- 1. Introdução e Fundamentação Teórica\n- 2. Normalização ABNT e Rigor Metodológico\n- 3. Prática e Engenharia no Ecossistema ReLaTeX\n- 4. Estudo de Caso Real e Resolução de Problemas\n- 5. Síntese e Conclusão\n")
+            
+        # Garantir seção ## 🛠️ Recursos Adicionais e Material Suplementar
+        if "## 🛠️ Recursos Adicionais e Material Suplementar" not in content:
+            recursos_bloco = """## 🛠️ Recursos Adicionais e Material Suplementar
+
+- **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
+- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
+- **[📜 Código de Conduta e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
+- **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — Portal oficial mundial de pacotes LaTeX2e.
+- **[ABNT Catálogo de Normas](https://www.abnt.org.br/)** — Acesso e consulta às normas técnicas vigentes.
+- **[Overleaf Documentation](https://www.overleaf.com/learn)** — Base de conhecimento e guias práticos sobre compilação TeX.
+
+"""
+            if "## Referências Bibliográficas" in content:
+                content = content.replace("## Referências Bibliográficas", f"{recursos_bloco}## Referências Bibliográficas")
+            elif "## 📚 Referências Bibliográficas" in content:
+                content = content.replace("## 📚 Referências Bibliográficas", f"{recursos_bloco}## 📚 Referências Bibliográficas")
+            else:
+                content += f"\n\n{recursos_bloco}"
+                
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write(content)
+
 def generate_modules_table(lessons, course_slug, rel_base_url, root_repo):
-    """Gera as tabelas de Ementa Analítica divididas por módulo 100% em português."""
+    """Gera o Sumário Content analítico em lista estruturada (sem tabelas markdown)."""
     lines = []
     
     # Agrupar aulas em Módulos de 4 em 4 aulas (1..4 = Módulo 1, 5..8 = Módulo 2, etc.)
@@ -217,33 +277,23 @@ def generate_modules_table(lessons, course_slug, rel_base_url, root_repo):
     for mod_idx in sorted(modulos.keys()):
         mod_name = MODULOS_TITULOS.get(mod_idx, f"📘 Módulo {mod_idx} — Conteúdo Programático")
         lines.append(f"### {mod_name}\n")
-        lines.append("| Aula | Título da Lição & Conteúdo | Normas (ABNT / IBGE) | Material Didático |")
-        lines.append("| :---: | :--- | :---: | :--- |")
         
         for l in modulos[mod_idx]:
             num_str = f"{l['num']:02d}"
-            note_link = f"[Notas de Aula]({rel_base_url}/{l['basename']})"
+            note_link = f"{rel_base_url}/{l['basename']}"
+            title = l["clean_title"]
+            desc = l.get("normas", "Referencial teórico, normas ABNT vigentes e prática ReLaTeX.")
             
-            # Checar slides LaTeX PDF
-            s_latex_rel = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}.pdf"
-            if check_asset_exists(root_repo, s_latex_rel):
-                s_latex_link = f"[Slides LaTeX (.pdf)]({s_latex_rel})"
-            else:
-                s_latex_link = f"*[Slides LaTeX em desenvolvimento]*"
-                
-            # Checar slides PPTX PDF
-            s_pptx_rel = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}.pdf"
-            if check_asset_exists(root_repo, s_pptx_rel):
-                s_pptx_link = f"[Slides PPTX (.pdf)]({s_pptx_rel})"
-            else:
-                s_pptx_link = f"*[Slides PPTX em desenvolvimento]*"
-                
-            mat_col = f"{note_link}<br>{s_latex_link}<br>{s_pptx_link}"
+            s_latex_url = f"/assets/biblioteca/{course_slug}/slides-latex/aula-{num_str}.pdf"
+            s_pptx_url = f"/assets/biblioteca/{course_slug}/slides-pptx/aula-{num_str}.pptx"
+            n_latex_url = f"/assets/biblioteca/{course_slug}/notes-latex/aula-{num_str}.pdf"
+            adicional_url = f"{note_link}#recursos-adicionais"
             
-            row = f"| **{num_str}** | **{l['clean_title']}**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **{l['normas']}** | {mat_col} |"
-            lines.append(row)
+            lines.append(f"- **Aula {num_str}: [{title}]({note_link})**  ")
+            lines.append(f"  *Escopo e Normas:* {desc}  ")
+            lines.append(f"  *Material Didático:* [📄 Slides LaTeX (52 slides)]({s_latex_url}) • [📊 Slides PPTX Institucional]({s_pptx_url}) • [📝 Notas LaTeX (100% TeX)]({n_latex_url}) • [🛠️ Recursos Adicionais]({adicional_url})  \n")
             
-        lines.append("\n---\n")
+        lines.append("---\n")
         
     return "\n".join(lines)
 
@@ -271,6 +321,9 @@ def update_course_index(course_dir, course_slug, root_repo):
             lessons.append(data)
             
     print(f"[{course_dir}] Encontradas {len(lessons)} aulas para o curso '{course_slug}'.")
+    
+    # Atualizar o conteúdo de todas as aulas (tabela com os 3 itens, sumário e recursos adicionais)
+    update_lesson_files(lessons, course_dir, course_slug)
     
     # Gerar carrossel e tabela de módulos
     carousel_md = generate_carousel(lessons, course_slug, rel_base_url)

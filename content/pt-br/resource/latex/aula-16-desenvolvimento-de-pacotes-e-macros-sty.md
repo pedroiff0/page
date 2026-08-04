@@ -6,18 +6,20 @@ modified: '2026-08-04'
 tags: [latex, escrita-academica, abnt, ifftese]
 ---
 
-# Aula 16: Desenvolvimento de Pacotes .sty - Programação TeX e Macros
 
-**Carga Horária Equivalente:** 4 tempos de 50 minutos (3h20m / 4 horas-aula diárias).
-**Professor Responsável:** Prof. Dr. Pedro Henrique Rocha de Andrade.
-**Aviso:** O conteúdo institucional desta disciplina possui recursos protegidos pela senha "escritaiff2026".
-
-## Material Didático e Slides
-
-| Material Didático | Link Institucional (Acesso Restrito / Senha Protegida) |
+| Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
-| 📄 **Slides LaTeX (.pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-16.pdf) |
-| 📊 **Slides PPTX (.pdf)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-16.pdf) |
+| 📄 **Slides LaTeX (52 slides - .pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-16.pdf) |
+| 📊 **Slides PPTX Institucional (.pptx)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-16.pptx) |
+| 📝 **Notas de Aula LaTeX (100% .tex - .pdf)** | [Acessar Notas LaTeX](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf) |
+
+## 📋 Sumário da Aula
+- 1. Introdução e Fundamentação Teórica
+- 2. Normalização ABNT e Rigor Metodológico
+- 3. Prática e Engenharia no Ecossistema ReLaTeX
+- 4. Estudo de Caso Real e Resolução de Problemas
+- 5. Síntese e Conclusão
+
 
 ---
 
@@ -197,3 +199,14 @@ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 14724**: Informação e docum
 LAMPORT, Leslie. **LaTeX: A Document Preparation System**. 2. ed. Reading, Mass: Addison-Wesley Professional, 1994.
 MITTELBACH, Frank et al. **The LaTeX Companion**. 2. ed. Boston: Addison-Wesley, 2004.
 WRIGHT, Joseph. *xparse: A document command parser*. The LaTeX Project, 2024.
+
+
+## 🛠️ Recursos Adicionais e Material Suplementar
+
+- **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
+- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
+- **[📜 Código de Conduta e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
+- **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — Portal oficial mundial de pacotes LaTeX2e.
+- **[ABNT Catálogo de Normas](https://www.abnt.org.br/)** — Acesso e consulta às normas técnicas vigentes.
+- **[Overleaf Documentation](https://www.overleaf.com/learn)** — Base de conhecimento e guias práticos sobre compilação TeX.
+

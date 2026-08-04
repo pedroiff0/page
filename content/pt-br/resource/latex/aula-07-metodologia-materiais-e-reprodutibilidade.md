@@ -6,20 +6,20 @@ modified: '2026-08-04'
 tags: [latex, escrita-academica, abnt, ifftese, metodologia, ciencia]
 ---
 
-# Aula 07: Metodologia, Materiais, Delineamento Experimental e Reprodutibilidade Científica na ABNT NBR 14724
 
-**Carga Horária Equivalente:** 4 tempos de 50 minutos (3h20m / 4 horas-aula diárias)
-**Professor Responsável:** Prof. Dr. Pedro Henrique Rocha de Andrade
-
----
-
-> [!WARNING] AVISO INSTITUCIONAL
-> Os materiais associados a esta disciplina, incluindo links de acesso, bibliografia suplementar e recursos audiovisuais, são protegidos por senha. Em caso de solicitação, utilize a credencial: `escritaiff2026`.
-
-| Material Didático | Link Institucional (Acesso Restrito / Senha Protegida) |
+| Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
-| 📄 **Slides LaTeX (.pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-07.pdf) |
-| 📊 **Slides PPTX (.pdf)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-07.pdf) |
+| 📄 **Slides LaTeX (52 slides - .pdf)** | [Acessar Slide LaTeX](/assets/biblioteca/latex-escrita/slides-latex/aula-07.pdf) |
+| 📊 **Slides PPTX Institucional (.pptx)** | [Acessar Slide PPTX](/assets/biblioteca/latex-escrita/slides-pptx/aula-07.pptx) |
+| 📝 **Notas de Aula LaTeX (100% .tex - .pdf)** | [Acessar Notas LaTeX](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf) |
+
+## 📋 Sumário da Aula
+- 1. Introdução e Fundamentação Teórica
+- 2. Normalização ABNT e Rigor Metodológico
+- 3. Prática e Engenharia no Ecossistema ReLaTeX
+- 4. Estudo de Caso Real e Resolução de Problemas
+- 5. Síntese e Conclusão
+
 
 ---
 
@@ -114,3 +114,14 @@ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6023**: Informação e docume
 GIL, A. C. **Como elaborar projetos de pesquisa**. 4. ed. São Paulo: Atlas, 2002.
 
 MARCONI, M. de A.; LAKATOS, E. M. **Fundamentos de metodologia científica**. 8. ed. São Paulo: Atlas, 2017.
+
+
+## 🛠️ Recursos Adicionais e Material Suplementar
+
+- **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
+- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
+- **[📜 Código de Conduta e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
+- **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — Portal oficial mundial de pacotes LaTeX2e.
+- **[ABNT Catálogo de Normas](https://www.abnt.org.br/)** — Acesso e consulta às normas técnicas vigentes.
+- **[Overleaf Documentation](https://www.overleaf.com/learn)** — Base de conhecimento e guias práticos sobre compilação TeX.
+

@@ -28,6 +28,24 @@ Os documentos institucionais abaixo contêm a programação letiva completa, eme
 
 ---
 
+## 📊 Forma de Avaliação (Em Dois Bimestres) e Cronograma Letivo
+
+> **📅 Período Letivo:** **24/08/2026 a 20/12/2026**  
+> **⏰ Horário dos Encontros:** **Toda Terça-feira, das 14h30 às 17h30** (4 tempos de 50 minutos / aula teórica e laboratório prático)  
+> **👨‍🏫 Professor Responsável:** **Prof. Dr. Pedro Henrique Rocha de Andrade**  
+
+A avaliação da disciplina ocorre de forma formativa e somativa, estruturada em dois bimestres temáticos com focos avaliativos distintos. **Os pesos e datas apresentados são flexíveis**, podendo ser adaptados pelo professor conforme o andamento da turma em laboratório:
+
+- **🔹 1º Bimestre — Metodologia Científica, Normalização e ABNT (Aulas 01 a 10):**
+  - **60% — Trabalho Prático de Escrita Acadêmica:** Elaboração fundamentada de elementos pré-textuais, introdução com explicitação de lacuna de pesquisa (*Research Gap*), revisão sistemática da literatura (PRISMA 2020) e metodologia científica em conformidade com as normas ABNT vigentes.
+  - **40% — Teste Prático em Sala:** Avaliação prática contínua em laboratório durante os encontros do primeiro bimestre (exercícios de normalização, citações ABNT NBR 10520:2023, referências NBR 6023 e tabelas IBGE 1993).
+
+- **🔹 2º Bimestre — Engenharia TeX, Customização e Automação ReLaTeX (Aulas 11 a 20):**
+  - **80% — Implementação Customizada e Diferenciada em LaTeX:** Desenvolvimento de um projeto acadêmico original ou monografia partindo da **base do modelo institucional do professor** (`ifftese.cls` e `slidesiffmodelo.cls`), implementando modificações e melhorias próprias, macros customizadas (`macros.sty`), tabelas `booktabs` e gráficos vetoriais `TikZ`/`PGFPlots`.
+  - **20% — Teste Prático em Sala:** Avaliação prática em laboratório com resolução de erros de compilação, gestão bibliográfica com Biber e versionamento Git limpo.
+
+---
+
 ## 🎨 Carrossel de Aulas (Acesso Rápido)
 
 Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slides institucionais de cada encontro:
@@ -153,10 +171,13 @@ A programação do curso é alimentada **automaticamente** a partir das aulas (`
 <!-- COURSE_TABLE_START -->
 ### 📘 Módulo I — Epistemologia, Metodologia Científica e Elementos Pré-Textuais (Aulas 01 a 04)
 
-| Aula | Título da Lição & Conteúdo | Normas (ABNT / IBGE) | Material Didático |
-| :---: | :--- | :---: | :--- |
-| **01** | **Introdução e Fundamentação Teórica**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 10520:2023 / ABNT NBR 14724** | [Notas de Aula](/templates/ModeloCurso/aula-01-introducao-exemplo)<br>*[Slides LaTeX em desenvolvimento]*<br>*[Slides PPTX em desenvolvimento]* |
-| **02** | **Fundamentos Metodológicos e Prática**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 10520 / ABNT NBR 10520:2023** | [Notas de Aula](/templates/ModeloCurso/aula-02-fundamentos-exemplo)<br>*[Slides LaTeX em desenvolvimento]*<br>*[Slides PPTX em desenvolvimento]* |
+- **Aula 01: [Introdução e Fundamentação Teórica](/templates/ModeloCurso/aula-01-introducao-exemplo)**  
+  *Escopo e Normas:* ABNT NBR 10520:2023 / ABNT NBR 14724  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/modelo-curso/slides-latex/aula-01.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/modelo-curso/slides-pptx/aula-01.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/modelo-curso/notes-latex/aula-01.pdf) • [🛠️ Recursos Adicionais](/templates/ModeloCurso/aula-01-introducao-exemplo#recursos-adicionais)  
+
+- **Aula 02: [Fundamentos Metodológicos e Prática](/templates/ModeloCurso/aula-02-fundamentos-exemplo)**  
+  *Escopo e Normas:* ABNT NBR 10520 / ABNT NBR 10520:2023  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/modelo-curso/slides-latex/aula-02.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/modelo-curso/slides-pptx/aula-02.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/modelo-curso/notes-latex/aula-02.pdf) • [🛠️ Recursos Adicionais](/templates/ModeloCurso/aula-02-fundamentos-exemplo#recursos-adicionais)  
 
 ---
 

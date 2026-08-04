@@ -32,6 +32,24 @@ Os documentos institucionais abaixo contêm a programação integral de 80 horas
 
 ---
 
+## 📊 Forma de Avaliação (Em Dois Bimestres) e Cronograma Letivo
+
+> **📅 Período Letivo:** **24/08/2026 a 20/12/2026**  
+> **⏰ Horário dos Encontros:** **Toda Terça-feira, das 14h30 às 17h30** (4 tempos de 50 minutos / aula teórica e laboratório prático)  
+> **👨‍🏫 Professor Responsável:** **Prof. Dr. Pedro Henrique Rocha de Andrade**  
+
+A avaliação da disciplina ocorre de forma formativa e somativa, estruturada em dois bimestres temáticos com focos avaliativos distintos. **Os pesos e datas apresentados são flexíveis**, podendo ser adaptados pelo professor conforme o andamento da turma em laboratório:
+
+- **🔹 1º Bimestre — Metodologia Científica, Normalização e ABNT (Aulas 01 a 10):**
+  - **60% — Trabalho Prático de Escrita Acadêmica:** Elaboração fundamentada de elementos pré-textuais, introdução com explicitação de lacuna de pesquisa (*Research Gap*), revisão sistemática da literatura (PRISMA 2020) e metodologia científica em conformidade com as normas ABNT vigentes.
+  - **40% — Teste Prático em Sala:** Avaliação prática contínua em laboratório durante os encontros do primeiro bimestre (exercícios de normalização, citações ABNT NBR 10520:2023, referências NBR 6023 e tabelas IBGE 1993).
+
+- **🔹 2º Bimestre — Engenharia TeX, Customização e Automação ReLaTeX (Aulas 11 a 20):**
+  - **80% — Implementação Customizada e Diferenciada em LaTeX:** Desenvolvimento de um projeto acadêmico original ou monografia partindo da **base do modelo institucional do professor** (`ifftese.cls` e `slidesiffmodelo.cls`), implementando modificações e melhorias próprias, macros customizadas (`macros.sty`), tabelas `booktabs` e gráficos vetoriais `TikZ`/`PGFPlots`.
+  - **20% — Teste Prático em Sala:** Avaliação prática em laboratório com resolução de erros de compilação, gestão bibliográfica com Biber e versionamento Git limpo.
+
+---
+
 ## 🎨 Carrossel de Aulas (Acesso Rápido)
 
 Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slides institucionais de cada encontro:
@@ -130,7 +148,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Epistemologia, Problematização e Hipóteses</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa" class="course-carousel-card">
@@ -140,7 +158,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Objetivos, Taxonomia de Bloom e Justificativa</div>
-      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 14724</p>
+      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 14724 / CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028" class="course-carousel-card">
@@ -170,7 +188,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Introdução e Lacuna de Pesquisa (*Research Gap*)</div>
-      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 14724</p>
+      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 14724 / CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma" class="course-carousel-card">
@@ -210,7 +228,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Resultados: Tabelas IBGE vs. Quadros ABNT</div>
-      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 14724 / IBGE 1993</p>
+      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 14724 / CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023" class="course-carousel-card">
@@ -230,7 +248,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs" class="course-carousel-card">
@@ -240,7 +258,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber" class="course-carousel-card">
@@ -250,7 +268,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots" class="course-carousel-card">
@@ -260,7 +278,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty" class="course-carousel-card">
@@ -270,7 +288,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty" class="course-carousel-card">
@@ -280,7 +298,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Desenvolvimento de Pacotes .sty - Programação TeX e Macros</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls" class="course-carousel-card">
@@ -290,7 +308,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Engenharia de Classes .cls - Anatomia da ifftese e abntex2</div>
-      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 14724</p>
+      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 14724 / CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027" class="course-carousel-card">
@@ -300,7 +318,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Controle Avançado de Floats e NBR 6027</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp" class="course-carousel-card">
@@ -310,7 +328,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Classes Especializadas (Beamer, Poster e Relatório)</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
   <a href="/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua" class="course-carousel-card">
@@ -320,7 +338,7 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
     </div>
     <div class="course-carousel-body">
       <div class="course-carousel-title">Automação LaTeX, Git e Integração Contínua CI/CD</div>
-      <p class="course-carousel-desc">Normas em Foco: —</p>
+      <p class="course-carousel-desc">Normas em Foco: CEP/CONEP</p>
     </div>
   </a>
 </div>
@@ -335,56 +353,101 @@ A programação do curso está estruturada em **5 Módulos Didáticos**, cada um
 <!-- COURSE_TABLE_START -->
 ### 📘 Módulo I — Epistemologia, Metodologia Científica e Elementos Pré-Textuais (Aulas 01 a 04)
 
-| Aula | Título da Lição & Conteúdo | Normas (ABNT / IBGE) | Material Didático |
-| :---: | :--- | :---: | :--- |
-| **01** | **Epistemologia, Problematização e Hipóteses**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-01.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-01.pdf) |
-| **02** | **Objetivos, Taxonomia de Bloom e Justificativa**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 14724** | [Notas de Aula](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-02.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-02.pdf) |
-| **03** | **Resumo, Abstract e Palavras-Chave (NBR 6028:2021)**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 6028 / ABNT NBR 6028:2021** | [Notas de Aula](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-03.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-03.pdf) |
-| **04** | **Elementos Pré-Textuais NBR 14724**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 14724 / ABNT NBR 14724:** | [Notas de Aula](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-04.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-04.pdf) |
+- **Aula 01: [Epistemologia, Problematização e Hipóteses](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-01.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-01.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses#recursos-adicionais)  
+
+- **Aula 02: [Objetivos, Taxonomia de Bloom e Justificativa](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa)**  
+  *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-02.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-02.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-02.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa#recursos-adicionais)  
+
+- **Aula 03: [Resumo, Abstract e Palavras-Chave (NBR 6028:2021)](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028)**  
+  *Escopo e Normas:* ABNT NBR 6028 / ABNT NBR 6028:2021  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-03.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-03.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-03.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028#recursos-adicionais)  
+
+- **Aula 04: [Elementos Pré-Textuais NBR 14724](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724)**  
+  *Escopo e Normas:* ABNT NBR 14724 / ABNT NBR 14724:  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-04.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-04.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724#recursos-adicionais)  
 
 ---
 
 ### 📘 Módulo II — Estrutura Textual, Introdução, PRISMA e Metodologia (Aulas 05 a 08)
 
-| Aula | Título da Lição & Conteúdo | Normas (ABNT / IBGE) | Material Didático |
-| :---: | :--- | :---: | :--- |
-| **05** | **Introdução e Lacuna de Pesquisa (*Research Gap*)**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 14724** | [Notas de Aula](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-05.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-05.pdf) |
-| **06** | **Revisão Sistemática da Literatura e Protocolo PRISMA 2020**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 14724 / ABNT NBR 6023:2018** | [Notas de Aula](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-06.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-06.pdf) |
-| **07** | **Metodologia, Materiais e Reprodutibilidade na ABNT**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 14724 / ABNT NBR 14724:2011** | [Notas de Aula](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-07.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-07.pdf) |
-| **08** | **Ética na Pesquisa (Plataforma Brasil) e IA**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 6023:2018 / CEP/CONEP** | [Notas de Aula](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-08.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-08.pdf) |
+- **Aula 05: [Introdução e Lacuna de Pesquisa (*Research Gap*)](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa)**  
+  *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-05.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-05.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa#recursos-adicionais)  
+
+- **Aula 06: [Revisão Sistemática da Literatura e Protocolo PRISMA 2020](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma)**  
+  *Escopo e Normas:* ABNT NBR 14724 / ABNT NBR 6023:2018  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-06.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-06.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-06.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma#recursos-adicionais)  
+
+- **Aula 07: [Metodologia, Materiais e Reprodutibilidade na ABNT](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade)**  
+  *Escopo e Normas:* ABNT NBR 14724 / ABNT NBR 14724:2011  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-07.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-07.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade#recursos-adicionais)  
+
+- **Aula 08: [Ética na Pesquisa (Plataforma Brasil) e IA](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia)**  
+  *Escopo e Normas:* ABNT NBR 6023:2018 / CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-08.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-08.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia#recursos-adicionais)  
 
 ---
 
 ### 📘 Módulo III — Resultados, Discussão, Citações NBR 10520 e Referências NBR 6023 (Aulas 09 a 12)
 
-| Aula | Título da Lição & Conteúdo | Normas (ABNT / IBGE) | Material Didático |
-| :---: | :--- | :---: | :--- |
-| **09** | **Resultados: Tabelas IBGE vs. Quadros ABNT**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 14724 / IBGE 1993** | [Notas de Aula](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-09.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-09.pdf) |
-| **10** | **Discussão, Citações (10520) e Referências (6023)**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 10520:2023 / ABNT NBR 6023** | [Notas de Aula](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-10.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-10.pdf) |
-| **11** | **Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-11.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-11.pdf) |
-| **12** | **Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-12.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-12.pdf) |
+- **Aula 09: [Resultados: Tabelas IBGE vs. Quadros ABNT](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)**  
+  *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-09.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-09.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt#recursos-adicionais)  
+
+- **Aula 10: [Discussão, Citações (10520) e Referências (6023)](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023)**  
+  *Escopo e Normas:* ABNT NBR 10520:2023 / ABNT NBR 6023  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-10.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-10.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-10.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023#recursos-adicionais)  
+
+- **Aula 11: [Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-11.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-11.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex#recursos-adicionais)  
+
+- **Aula 12: [Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-12.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-12.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs#recursos-adicionais)  
 
 ---
 
 ### 📗 Módulo IV — Arquitetura LaTeX (.tex), Motores, Sintaxe, Tabelas e Gráficos (Aulas 13 a 16)
 
-| Aula | Título da Lição & Conteúdo | Normas (ABNT / IBGE) | Material Didático |
-| :---: | :--- | :---: | :--- |
-| **13** | **Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-13.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-13.pdf) |
-| **14** | **Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-14.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-14.pdf) |
-| **15** | **Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-15.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-15.pdf) |
-| **16** | **Desenvolvimento de Pacotes .sty - Programação TeX e Macros**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-16.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-16.pdf) |
+- **Aula 13: [Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-13.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-13.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-13.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber#recursos-adicionais)  
+
+- **Aula 14: [Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-14.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-14.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots#recursos-adicionais)  
+
+- **Aula 15: [Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-15.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-15.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-15.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty#recursos-adicionais)  
+
+- **Aula 16: [Desenvolvimento de Pacotes .sty - Programação TeX e Macros](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-16.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-16.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty#recursos-adicionais)  
 
 ---
 
 ### 📗 Módulo V — Engenharia ReLaTeX (.cls e .sty), Metadados, Macros e Automação (Aulas 17 a 20)
 
-| Aula | Título da Lição & Conteúdo | Normas (ABNT / IBGE) | Material Didático |
-| :---: | :--- | :---: | :--- |
-| **17** | **Engenharia de Classes .cls - Anatomia da ifftese e abntex2**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **ABNT NBR 14724** | [Notas de Aula](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-17.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-17.pdf) |
-| **18** | **Controle Avançado de Floats e NBR 6027**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-18.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-18.pdf) |
-| **19** | **Classes Especializadas (Beamer, Poster e Relatório)**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-19.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-19.pdf) |
-| **20** | **Automação LaTeX, Git e Integração Contínua CI/CD**<br>Fundamentação teórica, normas técnicas e prática ReLaTeX. | **—** | [Notas de Aula](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua)<br>[Slides LaTeX (.pdf)](/assets/biblioteca/latex-escrita/slides-latex/aula-20.pdf)<br>[Slides PPTX (.pdf)](/assets/biblioteca/latex-escrita/slides-pptx/aula-20.pdf) |
+- **Aula 17: [Engenharia de Classes .cls - Anatomia da ifftese e abntex2](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls)**  
+  *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-17.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-17.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls#recursos-adicionais)  
+
+- **Aula 18: [Controle Avançado de Floats e NBR 6027](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-18.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-18.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027#recursos-adicionais)  
+
+- **Aula 19: [Classes Especializadas (Beamer, Poster e Relatório)](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-19.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-19.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp#recursos-adicionais)  
+
+- **Aula 20: [Automação LaTeX, Git e Integração Contínua CI/CD](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua)**  
+  *Escopo e Normas:* CEP/CONEP  
+  *Material Didático:* [📄 Slides LaTeX (52 slides)](/assets/biblioteca/latex-escrita/slides-latex/aula-20.pdf) • [📊 Slides PPTX Institucional](/assets/biblioteca/latex-escrita/slides-pptx/aula-20.pptx) • [📝 Notas LaTeX (100% TeX)](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua#recursos-adicionais)  
 
 ---
 
