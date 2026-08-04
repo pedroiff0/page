@@ -17,14 +17,13 @@ Esta plataforma centraliza o referencial teórico-metodológico, material suplem
 
 ---
 
-## 🔒 Material Suplementar e Documentos Oficiais
+## 📚 Material Suplementar e Documentos Oficiais
 
-Os documentos institucionais abaixo contêm a programação letiva completa, ementa analítica, critérios de avaliação e diretrizes acadêmicas.  
-*(Acesso Restrito Institucional — Protegido por senha interna no arquivo PDF)*
+Os documentos institucionais abaixo contêm a programação letiva completa, ementa analítica, critérios de avaliação e diretrizes acadêmicas:
 
-- **[📅 Cronograma Geral e Ementa Analítica (PDF Protegido)](/assets/biblioteca/modelo-curso/documentos/cronograma-e-ementa.pdf)**  
+- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)**  
   *Planejamento letivo detalhado, carga horária total e cronograma das aulas.*
-- **[📖 Guia do Estudante e Diretrizes Acadêmicas (PDF Protegido)](/assets/biblioteca/modelo-curso/documentos/guia-e-diretrizes.pdf)**  
+- **[📜 Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)**  
   *Código de ética acadêmica, diretrizes de apresentação e critérios de avaliação.*
 
 ---
@@ -34,13 +33,112 @@ Os documentos institucionais abaixo contêm a programação letiva completa, eme
 Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slides institucionais de cada encontro:
 
 <!-- COURSE_CAROUSEL_START -->
-<div class="grid cards" markdown>
+<style>
+.course-carousel-wrapper {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1.5rem;
+  padding: 1.5rem 0.5rem;
+  scrollbar-width: thin;
+  scrollbar-color: var(--secondary, #0077b6) transparent;
+  -webkit-overflow-scrolling: touch;
+}
+.course-carousel-card {
+  flex: 0 0 280px;
+  scroll-snap-align: start;
+  border: 1px solid var(--lightgray, #e2e8f0);
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--light, #ffffff);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+  transition: all 0.35s cubic-bezier(0.25, 0.8, 0.25, 1);
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  position: relative;
+}
+.course-carousel-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 28px rgba(0,0,0,0.14);
+  border-color: var(--secondary, #0077b6);
+}
+.course-carousel-thumb-box {
+  position: relative;
+  width: 100%;
+  height: 160px;
+  overflow: hidden;
+  background: #1e293b;
+}
+.course-carousel-thumb {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(3.5px) brightness(0.85);
+  transform: scale(1.08);
+  transition: filter 0.4s ease, transform 0.4s ease, brightness 0.4s ease;
+}
+.course-carousel-card:hover .course-carousel-thumb {
+  filter: blur(0px) brightness(1);
+  transform: scale(1.0);
+}
+.course-carousel-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,0.2);
+  z-index: 2;
+}
+.course-carousel-body {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+.course-carousel-title {
+  font-size: 0.98rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--dark, #0f172a);
+  line-height: 1.35;
+}
+.course-carousel-desc {
+  font-size: 0.82rem;
+  color: var(--gray, #64748b);
+  line-height: 1.45;
+  margin: 0;
+}
+</style>
 
-- <img src="/assets/biblioteca/modelo-curso/thumbs/aula-01.png" alt="Capa Aula 01" /> **[Aula 01: Introdução e Fundamentação Teórica](/templates/ModeloCurso/aula-01-introducao-exemplo)**  
-  *Conteúdo programático da aula 01, fundamentação técnica e automação.*
-- <img src="/assets/biblioteca/modelo-curso/thumbs/aula-02.png" alt="Capa Aula 02" /> **[Aula 02: Fundamentos Metodológicos e Prática](/templates/ModeloCurso/aula-02-fundamentos-exemplo)**  
-  *Conteúdo programático da aula 02, fundamentação técnica e automação.*
-
+<div class="course-carousel-wrapper">
+  <a href="/templates/ModeloCurso/aula-01-introducao-exemplo" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 01</span>
+      <img src="/assets/biblioteca/modelo-curso/thumbs/aula-01.png" alt="Capa Aula 01" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Introdução e Fundamentação Teórica</div>
+      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 10520:2023 / ABNT NBR 14724</p>
+    </div>
+  </a>
+  <a href="/templates/ModeloCurso/aula-02-fundamentos-exemplo" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 02</span>
+      <img src="/assets/biblioteca/modelo-curso/thumbs/aula-02.png" alt="Capa Aula 02" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Fundamentos Metodológicos e Prática</div>
+      <p class="course-carousel-desc">Normas em Foco: ABNT NBR 10520 / ABNT NBR 10520:2023</p>
+    </div>
+  </a>
 </div>
 <!-- COURSE_CAROUSEL_END -->
 
