@@ -220,11 +220,11 @@ def update_lesson_files(lessons, course_dir, course_slug):
         
         tabela_didatica = f"""| Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
-| 📄 **Slides LaTeX (52 slides — Modelo Branco .pdf)** | [Acessar Slide Branco]({s_latex_branco}) |
-| 📄 **Slides LaTeX (52 slides — Modelo Preto .pdf)** | [Acessar Slide Preto]({s_latex_preto}) |
-| 📊 **Slides PPTX Institucional (Modelo Branco .pptx)** | [Acessar PPTX Branco]({s_pptx_branco}) |
-| 📊 **Slides PPTX Institucional (Modelo Preto .pptx)** | [Acessar PPTX Preto]({s_pptx_preto}) |
-| 📝 **Notas de Aula Institucionais (100% LaTeX — .pdf)** | [Acessar Notas Institucionais]({n_latex_url}) |"""
+| 📄 **Slides LaTeX — Modelo Branco (.pdf)** | [Acessar Slide Branco]({s_latex_branco}) |
+| 📄 **Slides LaTeX — Modelo Preto (.pdf)** | [Acessar Slide Preto]({s_latex_preto}) |
+| 📊 **Slides PPTX — Modelo Branco (.pptx)** | [Acessar PPTX Branco]({s_pptx_branco}) |
+| 📊 **Slides PPTX — Modelo Preto (.pptx)** | [Acessar PPTX Preto]({s_pptx_preto}) |
+| 📝 **Notas de Aula Institucionais (.pdf)** | [Acessar Notas Institucionais]({n_latex_url}) |"""
 
         # Substituir tabela didática existente no arquivo por tabela atualizada com os 5 itens
         pattern_tabela = r"\| Material Didático \|.*?(?=\n\n|\n## |\Z)"
@@ -243,6 +243,19 @@ def update_lesson_files(lessons, course_dir, course_slug):
         # Garantir seção ## 📋 Sumário da Aula logo após a tabela
         if "## 📋 Sumário da Aula" not in content:
             content = content.replace(tabela_didatica, f"{tabela_didatica}\n\n## 📋 Sumário da Aula\n- 1. Introdução e Fundamentação Teórica\n- 2. Normalização ABNT e Rigor Metodológico\n- 3. Prática e Engenharia no Ecossistema ReLaTeX\n- 4. Estudo de Caso Real e Resolução de Problemas\n- 5. Síntese e Conclusão\n")
+
+        if "```mermaid" not in content:
+            mermaid_block = """
+### 📊 Fluxograma de Normalização e Engenharia Documental (Mermaid)
+```mermaid
+flowchart TD
+    A[Lacuna Científica & Problematização] --> B[Revisão Sistemática PRISMA 2020]
+    B --> C[Normalização ABNT NBR 14724 / 10520 / 6023]
+    C --> D[Compilação e Modularização ReLaTeX ifftese.cls]
+    D --> E[Submissão Institucional no Campus Bom Jesus]
+```
+"""
+            content = content.replace("## 📋 Sumário da Aula", f"## 📋 Sumário da Aula\n{mermaid_block}")
             
         # Garantir seção ## 🛠️ Recursos Adicionais e Material Suplementar
         if "## 🛠️ Recursos Adicionais e Material Suplementar" not in content:

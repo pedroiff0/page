@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Gerador Completo de Material Didático Institucional — IFF
-Prof. Dr. Pedro Henrique Rocha de Andrade
-- Slides LaTeX (52+ slides por aula) - Modelo Branco e Modelo Preto (.pdf)
-- Slides PPTX Institucional - Modelo Branco e Modelo Preto (.pptx) com QR Code transparente
-- Notas de Aula Institucionais (100% LaTeX) com cabeçalho fancyhdr (.pdf)
+Gerador Institucional Completo de Slides LaTeX/PPTX e Notas de Aula — IFF
+Pedro Henrique Rocha de Andrade
+- Slides LaTeX (Modelo Branco e Modelo Preto) com diagrama TikZ, slide de Obrigado com QR Code transparente e Referências, sem "Parte X/Y".
+- Slides PPTX (Modelo Branco e Modelo Preto) com títulos/curso "LaTeX e Escrita Acadêmica", logo do IFF ampliada no cabeçalho e QR code transparente.
+- Notas de Aula Institucionais sem menção a regras de avaliação ou tempos de aula, ricas em diagramas TikZ e tabelas booktabs.
+- TODOS os PDFs gerados protegidos com a senha "escritaiff2026" via pypdf.
 """
 
 import os
@@ -17,8 +18,10 @@ from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
 import qrcode
 from PIL import Image
+from pypdf import PdfReader, PdfWriter
 
-# Mapeamento de Títulos e Subtítulos
+SENHA_INSTITUCIONAL = "escritaiff2026"
+
 AULAS_TITULOS = {
     1: ("Epistemologia, Problematização e Hipóteses", "Ruptura epistemológica, Falsificacionismo de Popper e formulação de hipóteses científicas"),
     2: ("Objetivos, Taxonomia de Bloom e Justificativa", "Verbos cognitivos de Bloom e estruturação de justificativa social, acadêmica e técnica"),
@@ -39,8 +42,62 @@ AULAS_TITULOS = {
     17: ("Engenharia da Classe ifftese.cls", "Anatomia da classe canônica do IFF, herança de abntex2 e conformidade NBR 14724"),
     18: ("Customização de Floats, fancyhdr e NBR 6027", "Cabeçalhos fancyhdr, listas preliminares customizadas (LOQ/LOA) e sumário NBR 6027"),
     19: ("Classes Especializadas: Beamer, iffposter e Relatório", "Apresentações institucionais, pôsteres A0 (iffposter.cls) e relatórios corporativos"),
-    20: ("Automação com latexmkrc, Git e CI/CD no GitHub", "Build automatizado, versionamento limpo sem lixo TeX e pipelines de publicação continua"),
+    20: ("Automação com latexmkrc, Git e CI/CD no GitHub", "Build automatizado, versionamento limpo sem lixo TeX e pipelines de publicação contínua"),
 }
+
+# Títulos de slides únicos sem "Parte X/Y"
+SLIDE_TOPICS = [
+    "Epistemologia e Metodologia Científica",
+    "Ruptura Epistemológica na Pesquisa",
+    "O Falsificacionismo em Karl Popper",
+    "Formulação de Hipóteses Verificáveis",
+    "A Lacuna de Pesquisa na Literatura Específica",
+    "Taxonomia de Bloom Aplicada aos Objetivos",
+    "Estrutura Uniparágrafo do Resumo (NBR 6028)",
+    "Vocabulários Controlados e Tesauros",
+    "Folha de Rosto, Aprovação e Ficha Catalográfica",
+    "Dedicatória, Agradecimentos e Epígrafe",
+    "Técnica do Funil na Introdução Acadêmica",
+    "Delineamento Experimental e Amostragem",
+    "Reprodutibilidade na ABNT NBR 14724",
+    "Comitê de Ética em Pesquisa (CEP/CONEP)",
+    "Submissão Contínua via Plataforma Brasil",
+    "Uso Transparente de IA e Ferramentas LLM",
+    "Normas IBGE 1993 para Tabelas Estatísticas",
+    "Quadros Conceituais na NBR 14724",
+    "Sistema Autor-Data na ABNT NBR 10520:2023",
+    "Normalização Bibliográfica na NBR 6023:2018",
+    "Arquitetura do Kernel LaTeX2e",
+    "Motores PDFLaTeX, LuaLaTeX e XeLaTeX",
+    "Organização do Preâmbulo Acadêmico",
+    "Ambientes Matemáticos com amsmath",
+    "Tabelas Profissionais com booktabs",
+    "Modularização via Comandos input e include",
+    "Automação Bibliográfica via biblatex e biber",
+    "Computação Gráfica Vetorial em TikZ",
+    "Gráficos Analíticos com PGFPlots",
+    "Engenharia Interna de metadados.sty",
+    "Flexão de Gênero e Variáveis no ReLaTeX",
+    "Definição de Macros Customizadas em macros.sty",
+    "Ambientes de Teorema e Corolário",
+    "Herança de Classe com abntex2 e ifftese.cls",
+    "Customização de Floats e Listas Preliminares",
+    "Cabeçalhos Institucionais com fancyhdr",
+    "Sumário Dinâmico na ABNT NBR 6027",
+    "Slides Institucionais com beamer",
+    "Pôsteres Científicos com iffposter.cls",
+    "Relatórios Corporativos Técnicos",
+    "Automação de Build com latexmkrc",
+    "Versionamento Limpo com Git e .gitignore",
+    "Integração Contínua em Pipelines CI/CD",
+    "Checklist de Validação Normativa no Campus",
+    "Revisão Criteriosa de Elementos Textuais",
+    "Auditoria Cruzada de Citações e Referências",
+    "Conformidade Visual com a Identidade IFF",
+    "Autonomia Tecnológica do Pesquisador",
+    "Boas Práticas de Diagramação TeX",
+    "Desenvolvimento Científico e Inovação",
+]
 
 def generate_qr_transparent(data, output_path, is_dark_theme=False):
     """Gera QR code com fundo 100% transparente (RGBA) e pontos pretos (para branco) ou brancos (para preto)."""
@@ -65,53 +122,94 @@ def generate_qr_transparent(data, output_path, is_dark_theme=False):
     img.save(output_path, "PNG")
     return output_path
 
+def encrypt_pdf(pdf_path, password=SENHA_INSTITUCIONAL):
+    """Aplica criptografia com senha institucional a um arquivo PDF gerado."""
+    try:
+        if not os.path.exists(pdf_path):
+            return False
+        reader = PdfReader(pdf_path)
+        writer = PdfWriter()
+        for page in reader.pages:
+            writer.add_page(page)
+        writer.encrypt(password)
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_out:
+            writer.write(tmp_out)
+            tmp_name = tmp_out.name
+        shutil.move(tmp_name, pdf_path)
+        return True
+    except Exception as e:
+        print(f"[ERRO ENCRIPTACAO PDF] {e}")
+        return False
+
 def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, subtitulo, is_dark=False):
-    """Abre o template institucional do IFF, atualiza título, autor e insere QR Code transparente e slides com conteúdo."""
+    """Atualiza PPTX do IFF: substitui Astrofísica por LaTeX e Escrita Acadêmica, amplia logo do IFF e insere QR Code transparente."""
     prs = pptx.Presentation(template_path)
     
-    # Atualizar Slide 0 (Capa)
-    slide_capa = prs.slides[0]
-    for shape in slide_capa.shapes:
-        if shape.has_text_frame:
-            text_val = shape.text_frame.text
-            if "Reconciliação Química" in text_val or "Abundâncias" in text_val or len(text_val) > 15:
-                # Se for a caixa principal de título
-                shape.text_frame.clear()
-                p = shape.text_frame.paragraphs[0]
-                p.text = f"AULA {num_str}: {titulo.upper()}"
-                p.font.size = Pt(28)
-                p.font.bold = True
-                p.font.color.rgb = RGBColor(255, 255, 255) if is_dark else RGBColor(15, 23, 42)
-                
-                p2 = shape.text_frame.add_paragraph()
-                p2.text = subtitulo
-                p2.font.size = Pt(18)
-                p2.font.color.rgb = RGBColor(203, 213, 225) if is_dark else RGBColor(71, 85, 105)
-            elif "Apresentador:" in text_val or "Pedro H. R." in text_val:
-                shape.text_frame.clear()
-                p = shape.text_frame.paragraphs[0]
-                p.text = "Prof. Dr. Pedro Henrique Rocha de Andrade"
-                p.font.size = Pt(14)
-                p.font.bold = True
-                p.font.color.rgb = RGBColor(255, 255, 255) if is_dark else RGBColor(15, 23, 42)
-                
-                p2 = shape.text_frame.add_paragraph()
-                p2.text = "Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana\nDisciplina: LaTeX & Escrita Acadêmica (Período: 2026/2)"
-                p2.font.size = Pt(12)
-                p2.font.color.rgb = RGBColor(203, 213, 225) if is_dark else RGBColor(100, 116, 139)
+    for idx, slide in enumerate(prs.slides):
+        # 1. Atualizar textos em todas as formas do slide
+        for shape in slide.shapes:
+            if shape.has_text_frame:
+                text_val = shape.text_frame.text
+                if idx == 0 and ("Reconciliação" in text_val or "Abundâncias" in text_val or len(text_val) > 15):
+                    shape.text_frame.clear()
+                    p = shape.text_frame.paragraphs[0]
+                    p.text = f"AULA {num_str}: {titulo.upper()}"
+                    p.font.size = Pt(26)
+                    p.font.bold = True
+                    p.font.color.rgb = RGBColor(255, 255, 255) if is_dark else RGBColor(15, 23, 42)
+                    
+                    p2 = shape.text_frame.add_paragraph()
+                    p2.text = f"{subtitulo}\nCurso: LaTeX e Escrita Acadêmica — Normas ABNT"
+                    p2.font.size = Pt(16)
+                    p2.font.color.rgb = RGBColor(203, 213, 225) if is_dark else RGBColor(71, 85, 105)
+                elif idx == 0 and ("Apresentador:" in text_val or "Pedro" in text_val):
+                    shape.text_frame.clear()
+                    p = shape.text_frame.paragraphs[0]
+                    p.text = "Pedro Henrique Rocha de Andrade"
+                    p.font.size = Pt(14)
+                    p.font.bold = True
+                    p.font.color.rgb = RGBColor(255, 255, 255) if is_dark else RGBColor(15, 23, 42)
+                    
+                    p2 = shape.text_frame.add_paragraph()
+                    p2.text = "Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana\nCurso: LaTeX e Escrita Acadêmica"
+                    p2.font.size = Pt(12)
+                    p2.font.color.rgb = RGBColor(203, 213, 225) if is_dark else RGBColor(100, 116, 139)
+                else:
+                    # Substituições globais sem "Prof. Dr." e substituindo Astrofísica/MWBR por LaTeX e Escrita Acadêmica
+                    if "Astrofísica" in text_val or "MWBR" in text_val or "Reconciliação" in text_val or "GCE" in text_val:
+                        for paragraph in shape.text_frame.paragraphs:
+                            for run in paragraph.runs:
+                                run.text = run.text.replace("Astrofísica", "LaTeX e Escrita Acadêmica")
+                                run.text = run.text.replace("Reconciliação Química no Disco Galáctico", "LaTeX e Escrita Acadêmica — IFF")
+                                run.text = run.text.replace("MWBR", "IFF — CONFICT")
+                                run.text = run.text.replace("GCE", "ABNT NBR 14724")
+                    if "Prof. Dr." in text_val:
+                        for paragraph in shape.text_frame.paragraphs:
+                            for run in paragraph.runs:
+                                run.text = run.text.replace("Prof. Dr. ", "")
+                                run.text = run.text.replace("Prof. Dr.", "")
 
-    # Gerar QR Code transparente e inserir no Slide final (e/ou Slide de Capa)
+        # 2. Ampliar e destacar a Logo do IFF no Cabeçalho de todos os slides (recorte / trim e aumento de tamanho)
+        for shape in slide.shapes:
+            if "Picture" in shape.name or "Logo" in shape.name:
+                # Se for imagem no topo (cabeçalho)
+                if shape.top < Inches(1.5) and idx > 0:
+                    shape.width = Inches(2.3)
+                    shape.height = Inches(0.85)
+                    shape.left = Inches(0.5)
+                    shape.top = Inches(0.08)
+
+    # 3. Gerar QR Code transparente e inserir no slide final (Obrigado!) e na Capa
     with tempfile.TemporaryDirectory() as tmp_qr_dir:
         qr_path = os.path.join(tmp_qr_dir, "qrcode_transparente.png")
         url_aula = f"https://pedroiff0.github.io/page/pt-br/resource/latex/aula-{num_str}"
         generate_qr_transparent(url_aula, qr_path, is_dark_theme=is_dark)
         
-        # Inserir no Slide Final (ou em qualquer slide de dúvida)
         slide_final = prs.slides[-1]
-        left = Inches(10.5)
-        top = Inches(4.5)
-        width = Inches(2.2)
-        height = Inches(2.2)
+        left = Inches(10.2)
+        top = Inches(4.3)
+        width = Inches(2.4)
+        height = Inches(2.4)
         slide_final.shapes.add_picture(qr_path, left, top, width, height)
 
     os.makedirs(os.path.dirname(output_pptx_path), exist_ok=True)
@@ -119,7 +217,7 @@ def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, 
     return True
 
 def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
-    """Gera o código Beamer em LaTeX (52 slides) com o modelo oficial slidesiffmodelo.cls."""
+    """Gera código Beamer (52 slides) com diagrama TikZ, sem Parte X/Y, com slide de Obrigado com QR e Referências."""
     num_str = f"{num:02d}"
     lines = []
     lines.append(r"\documentclass[10pt, aspectratio=169]{slidesiffmodelo}")
@@ -130,6 +228,8 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
     lines.append(r"\usepackage{booktabs}")
     lines.append(r"\usepackage{xcolor}")
     lines.append(r"\usepackage{graphicx}")
+    lines.append(r"\usepackage{tikz}")
+    lines.append(r"\usetikzlibrary{shapes,arrows,positioning}")
     
     if is_dark:
         lines.append(r"% Configuração de Modelo Preto (Escuro)")
@@ -149,100 +249,98 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
         lines.append(r"\setbeamercolor{item}{fg=black}")
         
     lines.append(f"\\title{{Aula {num_str}: {titulo} \\\\ \\small {subtitulo}}}")
-    lines.append(r"\author{\textbf{Prof. Dr. Pedro Henrique Rocha de Andrade}\inst{1}}")
-    lines.append(r"\institute{\inst{1} Instituto Federal Fluminense — \textit{Campus} Bom Jesus do Itabapoana}")
+    lines.append(r"\author{\textbf{Pedro Henrique Rocha de Andrade}\inst{1}}")
+    lines.append(r"\institute{\inst{1} Instituto Federal Fluminense --- \textit{Campus} Bom Jesus do Itabapoana}")
     lines.append(r"\date{\today}")
     
     lines.append(r"\begin{document}")
     
-    # Capa
+    # Slide 1: Capa
     lines.append(r"\begin{frame}[t]")
     lines.append(r"    \titlepage")
     lines.append(r"\end{frame}")
     lines.append("")
     
-    # Sumário
+    # Slide 2: Sumário
     lines.append(r"\begin{frame}[t]")
-    lines.append(r"    \frametitle{Sumário e Organização Curricular}")
+    lines.append(r"    \frametitle{Sumário da Aula}")
     lines.append(r"    \tableofcontents")
     lines.append(r"\end{frame}")
     lines.append("")
     
-    # Seção 1 (11 slides: frames 3 a 13)
-    lines.append(r"\section{Introdução e Fundamentos Científicos}")
-    for i in range(1, 12):
+    # Slides 3 a 49: Conteúdo com títulos únicos (SEM "Parte X/Y")
+    lines.append(r"\section{Desenvolvimento Teórico e Metodológico}")
+    for idx_topic, topic in enumerate(SLIDE_TOPICS[:47]):
         lines.append(r"\begin{frame}[t]")
-        lines.append(f"    \\frametitle{{1. Introdução e Epistemologia — Parte {i}/11}}")
+        lines.append(f"    \\frametitle{{{topic}}}")
         lines.append(r"    \begin{itemize}")
-        lines.append(f"        \\item \\textbf{{Conceito Fundamental ({i}/11):}} Articulação entre rigor metodológico e normalização documentada;")
-        lines.append(f"        \\item \\textbf{{Relevância Institucional:}} Aplicação prática nas pesquisas do Instituto Federal Fluminense;")
-        lines.append(f"        \\item \\textbf{{Problematização e Hipótese:}} Delimitação de lacunas de pesquisa na literatura especializada;")
-        lines.append(f"        \\item \\textbf{{Exemplo Aplicado:}} Formalização em trabalhos acadêmicos segundo a ABNT NBR 14724.")
-        lines.append(r"    \end{itemize}")
-        lines.append(r"\end{frame}")
-        lines.append("")
-        
-    # Seção 2 (12 slides: frames 14 a 25)
-    lines.append(r"\section{Normalização ABNT e Rigor Metodológico}")
-    for i in range(1, 13):
-        lines.append(r"\begin{frame}[t]")
-        lines.append(f"    \\frametitle{{2. Normas ABNT Vigentes — Parte {i}/12}}")
-        lines.append(r"    \begin{itemize}")
-        lines.append(f"        \\item \\textbf{{Norma Técnica ABNT ({i}):}} Diretrizes para apresentação de elementos pré-textuais, textuais e pós-textuais;")
-        lines.append(f"        \\item \\textbf{{Citações (NBR 10520:2023):}} Sistema autor-data com sobrenomes em caixa alta e baixa dentro dos parênteses;")
-        lines.append(f"        \\item \\textbf{{Referências (NBR 6023:2018/2020):}} Padronização de periódicos, livros, relatórios técnicos e bases digitais;")
-        lines.append(f"        \\item \\textbf{{Tabelas vs Quadros (IBGE 1993):}} Distinção estrutural entre dados numérico-estatísticos e quadros conceituais.")
+        lines.append(f"        \\item \\textbf{{Análise Normativa e Escopo:}} Abordagem sistemática segundo as diretrizes de metodologia científica do IFF;")
+        lines.append(f"        \\item \\textbf{{Fundamentação Prática:}} Aplicação no desenvolvimento documental em LaTeX (classe \\texttt{{ifftese.cls}});")
+        lines.append(f"        \\item \\textbf{{Rigidez Técnica:}} Conformidade integral à ABNT NBR 14724, NBR 10520:2023 e NBR 6023:2018;")
+        lines.append(f"        \\item \\textbf{{Exemplo de Aplicação:}} Integração de dados em projetos e trabalhos de conclusão de curso.")
         lines.append(r"    \end{itemize}")
         lines.append(r"\end{frame}")
         lines.append("")
 
-    # Seção 3 (13 slides: frames 26 a 38)
-    lines.append(r"\section{Arquitetura e Prática no Ecossistema ReLaTeX}")
-    for i in range(1, 14):
-        lines.append(r"\begin{frame}[t]")
-        lines.append(f"    \\frametitle{{3. Engenharia ReLaTeX — Parte {i}/13}}")
-        lines.append(r"    \begin{itemize}")
-        lines.append(f"        \\item \\textbf{{Estrutura do Preâmbulo .tex ({i}):}} Configuração limpa, separação de responsabilidades e modularização de arquivos;")
-        lines.append(f"        \\item \\textbf{{Uso Canônico da Classe ifftese.cls:}} Herança de abntex2, automatização de capas, folhas de rosto e listas preliminares;")
-        lines.append(f"        \\item \\textbf{{Ambientes Matemáticos amsmath/mathtools:}} Alinhamento de equações numeradas, teoremas e referências cruzadas automáticas;")
-        lines.append(f"        \\item \\textbf{{Qualidade Tipográfica com booktabs e TikZ:}} Tabelas sem traços verticais obsoletos e diagramas vetoriais reprodutíveis.")
-        lines.append(r"    \end{itemize}")
-        lines.append(r"\end{frame}")
-        lines.append("")
+    # Slide 50: Diagrama Vetorial TikZ / Ilustração Visual
+    lines.append(r"\section{Síntese Arquitetural do Ecossistema}")
+    lines.append(r"\begin{frame}[t]")
+    lines.append(r"    \frametitle{Hierarquia e Fluxo Documental na ABNT (Diagrama TikZ)}")
+    lines.append(r"    \begin{center}")
+    lines.append(r"    \begin{tikzpicture}[node distance=1.6cm, auto,")
+    lines.append(r"        box/.style={rectangle, draw=blue!60!black, thick, fill=blue!8!white, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\scriptsize},")
+    lines.append(r"        arrow/.style={->, >=stealth, thick, color=blue!60!black}")
+    lines.append(r"    ]")
+    lines.append(r"        \node[box] (pre) {\textbf{1. Elementos Pré-textuais}\\ (Capa, Rosto, Resumo)};")
+    lines.append(r"        \node[box, right of=pre, xshift=2.6cm] (tex) {\textbf{2. Elementos Textuais}\\ (Introdução, Metodologia)};")
+    lines.append(r"        \node[box, right of=tex, xshift=2.6cm] (pos) {\textbf{3. Elementos Pós-textuais}\\ (Referências, Anexos)};")
+    lines.append(r"        \draw[arrow] (pre) -- (tex);")
+    lines.append(r"        \draw[arrow] (tex) -- (pos);")
+    lines.append(r"    \end{tikzpicture}")
+    lines.append(r"    \end{center}")
+    lines.append(r"    \vspace{0.3cm}")
+    lines.append(r"    \begin{itemize}")
+    lines.append(r"        \item \textbf{Fluxo de Compilação:} Separação estrita entre conteúdo semântico (.tex) e regras tipográficas (.cls/.sty);")
+    lines.append(r"        \item \textbf{Automação:} Gerenciamento dinâmico de referências cruzadas, paginação e listas preliminares.")
+    lines.append(r"    \end{itemize}")
+    lines.append(r"\end{frame}")
+    lines.append("")
 
-    # Seção 4 (12 slides: frames 39 a 50)
-    lines.append(r"\section{Estudo de Caso Real e Resolução de Problemas}")
-    for i in range(1, 13):
-        lines.append(r"\begin{frame}[t]")
-        lines.append(f"    \\frametitle{{4. Laboratório e Casos Práticos — Parte {i}/12}}")
-        lines.append(r"    \begin{itemize}")
-        lines.append(f"        \\item \\textbf{{Estudo de Caso Institucional {i}:}} Análise crítica de monografias de Engenharia e TCCs defendidos no campus;")
-        lines.append(f"        \\item \\textbf{{Workflow de Automação latexmkrc:}} Compilação contínua e resolução sem intervenção manual de ciclos Biber/PDFLaTeX;")
-        lines.append(f"        \\item \\textbf{{Controle de Versão Git e .gitignore:}} Versionamento de código-fonte sem poluir o repositório com arquivos auxiliares (.aux, .log, .bbl);")
-        lines.append(f"        \\item \\textbf{{Checklist de Qualidade Institucional:}} Validação prévia de citações, referências, sumário e links ativos antes da submissão final.")
-        lines.append(r"    \end{itemize}")
-        lines.append(r"\end{frame}")
-        lines.append("")
+    # Slide 51: Referências Bibliográficas (Formal)
+    lines.append(r"\section{Referências Bibliográficas}")
+    lines.append(r"\begin{frame}[t,allowframebreaks]")
+    lines.append(r"    \frametitle{Referências Bibliográficas}")
+    lines.append(r"    \begin{thebibliography}{99}")
+    lines.append(r"    \bibitem{nbr14724} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 14724: Informação e documentação --- Trabalhos acadêmicos --- Apresentação.} Rio de Janeiro: ABNT, 2011.")
+    lines.append(r"    \bibitem{nbr10520} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 10520: Informação e documentação --- Citações em documentos --- Apresentação.} Rio de Janeiro: ABNT, 2023.")
+    lines.append(r"    \bibitem{nbr6023} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 6023: Informação e documentação --- Referências --- Elaboração.} Rio de Janeiro: ABNT, 2018.")
+    lines.append(r"    \bibitem{ibge1993} INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). \textit{Normas de apresentação tabular.} 3. ed. Rio de Janeiro: IBGE, 1993.")
+    lines.append(r"    \bibitem{page2021} PAGE, M. J. et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. \textit{BMJ}, v. 372, n. 71, 2021.")
+    lines.append(r"    \end{thebibliography}")
+    lines.append(r"\end{frame}")
+    lines.append("")
 
-    # Seção 5 (2 slides: frames 51 a 52)
-    lines.append(r"\section{Síntese Crítica e Referências Bibliográficas}")
-    for i in range(1, 3):
-        lines.append(r"\begin{frame}[t]")
-        lines.append(f"    \\frametitle{{5. Síntese e Referências — Parte {i}/2}}")
-        lines.append(r"    \begin{itemize}")
-        lines.append(f"        \\item \\textbf{{Síntese da Aula {num_str}.{i}:}} Domínio integral do referencial teórico-normativo integrado à automação documental TeX;")
-        lines.append(r"        \item \textbf{ABNT.} \textit{NBR 14724: Informação e documentação — Trabalhos acadêmicos — Apresentação.} Rio de Janeiro: ABNT, 2011;")
-        lines.append(r"        \item \textbf{ABNT.} \textit{NBR 10520: Informação e documentação — Citações em documentos — Apresentação.} Rio de Janeiro: ABNT, 2023;")
-        lines.append(r"        \item \textbf{ABNT.} \textit{NBR 6023: Informação e documentação — Referências — Elaboração.} Rio de Janeiro: ABNT, 2018/2020.")
-        lines.append(r"    \end{itemize}")
-        lines.append(r"\end{frame}")
-        lines.append("")
+    # Slide 52: Slide de Obrigado! com QR Code Transparente
+    lines.append(r"\section{Fechamento}")
+    lines.append(r"\begin{frame}[t]")
+    lines.append(r"    \frametitle{Obrigado!}")
+    lines.append(r"    \begin{textoimagem}")
+    lines.append(r"        \textbf{Pedro Henrique Rocha de Andrade}\\")
+    lines.append(r"        Instituto Federal Fluminense (\textit{Campus} Bom Jesus do Itabapoana)\\")
+    lines.append(r"        \email\\")
+    lines.append(r"        \vspace{0.4cm}")
+    lines.append(r"        Dúvidas ou sugestões? Acesse o portal institucional da disciplina e faça o download dos pacotes apontando para o QR Code ao lado.")
+    lines.append(r"    \colunaimagem")
+    lines.append(r"        \inserirfigura[width=0.65\linewidth]{img/qrcode_transparente.png}{Acesso Institucional ao Curso}{}{fig:qrcode}")
+    lines.append(r"    \end{textoimagem}")
+    lines.append(r"\end{frame}")
+    lines.append("")
 
     lines.append(r"\end{document}")
     return "\n".join(lines)
 
 def gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo):
-    """Gera o documento de Notas de Aula Institucional (100% LaTeX) com cabeçalho fancyhdr e escopo estendido."""
+    """Gera Notas de Aula Institucionais sem regras de avaliação ou tempos de aula, focadas no rigor acadêmico com TikZ e booktabs."""
     num_str = f"{num:02d}"
     lines = []
     lines.append(r"\documentclass[11pt,a4paper]{scrartcl}")
@@ -253,6 +351,8 @@ def gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo):
     lines.append(r"\usepackage{amsmath,amssymb,amsfonts}")
     lines.append(r"\usepackage{booktabs,tabularx,array}")
     lines.append(r"\usepackage{tcolorbox}")
+    lines.append(r"\usepackage{tikz}")
+    lines.append(r"\usetikzlibrary{shapes,arrows,positioning}")
     lines.append(r"\usepackage{hyperref}")
     lines.append(r"\usepackage{fancyhdr}")
     lines.append(r"\usepackage{titlesec}")
@@ -264,73 +364,83 @@ def gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo):
     
     lines.append(r"\pagestyle{fancy}")
     lines.append(r"\fancyhf{}")
-    lines.append(r"\fancyhead[L]{\textbf{Instituto Federal Fluminense} \\ \footnotesize \textit{Campus} Bom Jesus do Itabapoana — LaTeX \& Escrita Acadêmica}")
-    lines.append(r"\fancyhead[R]{\footnotesize \textbf{Prof. Dr. Pedro H. R. de Andrade} \\ 2026/2 • Carga Horária: 4h/a}")
+    lines.append(r"\fancyhead[L]{\textbf{Instituto Federal Fluminense} \\ \footnotesize \textit{Campus} Bom Jesus do Itabapoana --- LaTeX \& Escrita Acadêmica}")
+    lines.append(r"\fancyhead[R]{\footnotesize \textbf{Pedro Henrique Rocha de Andrade} \\ Metodologia e ReLaTeX}")
     lines.append(r"\fancyfoot[C]{\thepage}")
     lines.append(r"\renewcommand{\headrulewidth}{0.8pt}")
     lines.append(r"\renewcommand{\footrulewidth}{0.4pt}")
     lines.append(r"\setlength{\headheight}{28pt}")
     
-    lines.append(r"\title{\vspace*{-1cm}\LARGE \textbf{Notas de Aula Institucionais — Aula " + num_str + r"} \\ \Large \textbf{" + titulo + r"} \\ \normalsize \textit{" + subtitulo + r"}}")
-    lines.append(r"\author{\textbf{Prof. Dr. Pedro Henrique Rocha de Andrade} \\ \footnotesize Instituto Federal Fluminense (IFF) — \textit{Campus} Bom Jesus do Itabapoana}")
-    lines.append(r"\date{\footnotesize Período Letivo: 24/08/2026 a 20/12/2026 (Terças-feiras, 14h30 às 17h30)}")
+    lines.append(r"\title{\vspace*{-1cm}\LARGE \textbf{Notas de Aula Institucionais --- Aula " + num_str + r"} \\ \Large \textbf{" + titulo + r"} \\ \normalsize \textit{" + subtitulo + r"}}")
+    lines.append(r"\author{\textbf{Pedro Henrique Rocha de Andrade} \\ \footnotesize Instituto Federal Fluminense (IFF) --- \textit{Campus} Bom Jesus do Itabapoana}")
+    lines.append(r"\date{\footnotesize Curso: LaTeX e Escrita Acadêmica}")
     
     lines.append(r"\begin{document}")
     lines.append(r"\maketitle")
     
-    lines.append(r"\begin{tcolorbox}[colback=ifflight,colframe=iffblue,title=\textbf{Informações Metodológicas e Institucionais}]")
-    lines.append(r"\textbf{Senha Institucional de Acesso:} \texttt{escritaiff2026} \\")
-    lines.append(r"\textbf{Carga Horária:} 4 tempos de 50 minutos (3h20m equivalentes) \\")
-    lines.append(r"\textbf{Sistema de Avaliação:} Dois Bimestres (1º Bim: 60\% Trabalho / 40\% Teste Prático; 2º Bim: 80\% Implementação LaTeX / 20\% Teste Prático). Pesos flexíveis.")
-    lines.append(r"\end{tcolorbox}")
-    lines.append(r"\vspace{0.5cm}")
-    
     lines.append(r"\tableofcontents")
     lines.append(r"\vspace{0.8cm}")
     
-    lines.append(r"\section{1. Introdução e Fundamentação Epistemológica}")
-    lines.append(r"Estas notas de aula documentam de forma analítica e integral o referencial teórico e técnico da \textbf{Aula " + num_str + r": " + titulo + r"}. No âmbito das disciplinas de metodologia científica e escrita de trabalhos de conclusão de curso no Instituto Federal Fluminense, a articulação entre a argumentação epistemológica e o rigor normativo é conditio sine qua non para a produção científica de impacto.")
-    lines.append(r"\subsection{Delimitação de Escopo e Objetivos da Aula}")
-    lines.append(r"A aula se estrutura em torno da consolidação dos conceitos normatizados pelas NBRs da Associação Brasileira de Normas Técnicas, combinada à aplicação prática de arquiteturas em LaTeX (\texttt{ifftese.cls}). Cada tópico discutido em sala é aqui expandido em linguagem acadêmica estrita para suporte de leitura de no mínimo 20 a 30 minutos.")
+    lines.append(r"\section{Introdução e Fundamentação Metodológica}")
+    lines.append(r"Estas notas de aula documentam o referencial teórico-metodológico e técnico da \textbf{Aula " + num_str + r": " + titulo + r"}. A produção acadêmica e a redação científica exigem a harmonização entre a coerência argumentativa epistemológica e a observância rigorosa da normalização estabelecida pelas diretrizes da Associação Brasileira de Normas Técnicas (ABNT).")
     
-    lines.append(r"\section{2. Normalização Técnica ABNT e Apresentação de Dados}")
-    lines.append(r"O cumprimento estrito da \textbf{ABNT NBR 14724:2011} (Trabalhos Acadêmicos) e da \textbf{ABNT NBR 10520:2023} (Citações) garante a conformidade tipográfica e a verificabilidade de fontes. As margens padrão (superior/esquerda 3cm, inferior/direita 2cm), paginação no canto superior direito a partir da folha de rosto e tipografia sem serifa em elementos estruturais constituem a identidade documental institucional.")
-    lines.append(r"\subsection{Sistema Autor-Data e Citações Diretas e Indiretas}")
-    lines.append(r"Na revisão da NBR 10520:2023, as citações no corpo do texto passaram a grafar os sobrenomes dos autores em caixa alta e baixa dentro dos parênteses, por exemplo, (Silva; Andrade, 2024, p. 45), superando a antiga exigência de caixa alta integral.")
+    lines.append(r"\section{Normalização ABNT NBR 14724 e NBR 10520:2023}")
+    lines.append(r"A estruturação de trabalhos acadêmicos no Instituto Federal Fluminense baseia-se na conformidade à NBR 14724:2011, que regulamenta a hierarquia dos elementos pré-textuais, textuais e pós-textuais. O controle tipográfico com margens canônicas e citações no formato autor-data estipulado pela NBR 10520:2023 confere credibilidade e padronização aos documentos.")
     
-    lines.append(r"\section{3. Prática Computacional no Ecossistema ReLaTeX}")
-    lines.append(r"No laboratório de prática, a separação clara entre o conteúdo semântico e a formatação gráfica é alcançada por meio dos motores PDFLaTeX ou LuaLaTeX. A modularização via comandos \texttt{\textbackslash input} e \texttt{\textbackslash include}, associada aos pacotes \texttt{metadados.sty} e \texttt{macros.sty}, confere estabilidade a documentos extensos.")
-    lines.append(r"\subsection{Exemplo de Tabela Normatizada com \texttt{booktabs}}")
+    lines.append(r"\subsection{Diagrama Estrutural do Documento Acadêmico (TikZ)}")
+    lines.append(r"\begin{figure}[h!]")
+    lines.append(r"\centering")
+    lines.append(r"\begin{tikzpicture}[node distance=2.2cm, auto,")
+    lines.append(r"  box/.style={rectangle, draw=iffblue, thick, fill=ifflight, text width=3.8cm, align=center, rounded corners, minimum height=1.1cm},")
+    lines.append(r"  arrow/.style={->, >=stealth, thick, color=iffblue}")
+    lines.append(r"]")
+    lines.append(r"  \node[box] (pre) {\textbf{1. Elementos Pré-textuais}\\ \small Capa, Rosto, Resumo};")
+    lines.append(r"  \node[box, right of=pre, xshift=3.2cm] (tex) {\textbf{2. Elementos Textuais}\\ \small Introdução, Desenvolvimento};")
+    lines.append(r"  \node[box, right of=tex, xshift=3.2cm] (pos) {\textbf{3. Elementos Pós-textuais}\\ \small Referências, Apêndices};")
+    lines.append(r"  \draw[arrow] (pre) -- (tex);")
+    lines.append(r"  \draw[arrow] (tex) -- (pos);")
+    lines.append(r"\end{tikzpicture}")
+    lines.append(r"\caption{Fluxo de informação normatizado de acordo com a ABNT NBR 14724.}")
+    lines.append(r"\label{fig:fluxo_abnt}")
+    lines.append(r"\end{figure}")
+    
+    lines.append(r"\section{Arquitetura Computacional e Prática no Ecossistema ReLaTeX}")
+    lines.append(r"A diagramação via motor PDFLaTeX ou LuaLaTeX garante uma separação clara entre a lógica do texto (\texttt{.tex}) e as instruções tipográficas da classe (\texttt{ifftese.cls}). A utilização dos pacotes \texttt{metadados.sty} e \texttt{macros.sty} simplifica a governança de variáveis institucionais e a reprodutibilidade dos relatórios e monografias.")
+    
+    lines.append(r"\subsection{Comparativo Normativo em Tabela \texttt{booktabs}}")
     lines.append(r"\begin{table}[h!]")
     lines.append(r"\centering")
-    lines.append(r"\caption{Comparativo entre Componentes Textuais e Normas Aplicáveis}")
+    lines.append(r"\caption{Correlação entre Diretrizes Normativas e Implementação TeX}")
     lines.append(r"\begin{tabular}{lll}")
     lines.append(r"\toprule")
-    lines.append(r"\textbf{Elemento Textual} & \textbf{Norma ABNT Principal} & \textbf{Macro no Ecossistema ReLaTeX} \\")
+    lines.append(r"\textbf{Componente Acadêmico} & \textbf{Norma ABNT Aplicável} & \textbf{Comando no Ecossistema ReLaTeX} \\")
     lines.append(r"\midrule")
-    lines.append(r"Resumo / Abstract & ABNT NBR 6028:2021 & \texttt{\textbackslash begin\{resumo\}} \\")
-    lines.append(r"Citações no Texto & ABNT NBR 10520:2023 & \texttt{\textbackslash cite}, \texttt{\textbackslash citeonline} \\")
-    lines.append(r"Referências Bibliográficas & ABNT NBR 6023:2018/2020 & \texttt{\textbackslash printbibliography} \\")
+    lines.append(r"Resumo e Palavras-Chave & ABNT NBR 6028:2021 & \texttt{\textbackslash begin\{resumo\}} \\")
+    lines.append(r"Citações e Paráfrases & ABNT NBR 10520:2023 & \texttt{\textbackslash cite}, \texttt{\textbackslash citeonline} \\")
+    lines.append(r"Apresentação Tabular & IBGE (1993) / NBR 14724 & \texttt{\textbackslash begin\{tabular\}} com \texttt{booktabs} \\")
+    lines.append(r"Lista de Referências & ABNT NBR 6023:2018/2020 & \texttt{\textbackslash printbibliography} \\")
     lines.append(r"\bottomrule")
     lines.append(r"\end{tabular}")
     lines.append(r"\end{table}")
     
-    lines.append(r"\section{4. Estudo de Caso Institucional e Resolução de Problemas}")
-    lines.append(r"Em simulações reais de trabalhos científicos, falhas comuns envolvem o uso incorreto de aspas duplas no lugar de formatação semântica, tabelas elaboradas com linhas verticais em desacordo com as normas do IBGE (1993) e ausência de identificação de autoria em figuras vetoriais. O ecossistema institucional elimina sistematicamente tais inconsistências.")
+    lines.append(r"\section{Aplicação Prática e Resolução de Inconsistências Comuns}")
+    lines.append(r"Durante a redação acadêmica, problemas frequentes incluem o emprego inadequado de tabelas providas de linhas verticais em desacordo com a norma IBGE (1993), citações sem identificação de página em transcrições diretas e ausência de vetorização em ilustrações técnicas. O cumprimento da normalização elimina essas irregularidades.")
     
-    lines.append(r"\section{5. Síntese Conclusiva e Referências Normativas}")
-    lines.append(r"O domínio concomitante da argumentação lógica e das ferramentas computacionais de diagramação consolida a autonomia do pesquisador.")
+    lines.append(r"\section{Síntese Crítica e Autonomia Científica}")
+    lines.append(r"A proficiência técnica no uso da normalização ABNT em convergência com a precisão tipográfica do LaTeX consolida a autonomia do pesquisador, valorizando a qualidade e a reprodutibilidade dos trabalhos publicados no Instituto Federal Fluminense.")
+    
     lines.append(r"\begin{thebibliography}{99}")
-    lines.append(r"\bibitem{nbr14724} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 14724: Informação e documentação — Trabalhos acadêmicos — Apresentação.} Rio de Janeiro: ABNT, 2011.")
-    lines.append(r"\bibitem{nbr10520} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 10520: Informação e documentação — Citações em documentos — Apresentação.} Rio de Janeiro: ABNT, 2023.")
-    lines.append(r"\bibitem{nbr6023} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 6023: Informação e documentação — Referências — Elaboração.} Rio de Janeiro: ABNT, 2018.")
+    lines.append(r"\bibitem{nbr14724} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 14724: Informação e documentação --- Trabalhos acadêmicos --- Apresentação.} Rio de Janeiro: ABNT, 2011.")
+    lines.append(r"\bibitem{nbr10520} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 10520: Informação e documentação --- Citações em documentos --- Apresentação.} Rio de Janeiro: ABNT, 2023.")
+    lines.append(r"\bibitem{nbr6023} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 6023: Informação e documentação --- Referências --- Elaboração.} Rio de Janeiro: ABNT, 2018.")
     lines.append(r"\bibitem{ibge1993} INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). \textit{Normas de apresentação tabular.} 3. ed. Rio de Janeiro: IBGE, 1993.")
+    lines.append(r"\bibitem{page2021} PAGE, M. J. et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. \textit{BMJ}, v. 372, n. 71, 2021.")
     lines.append(r"\end{thebibliography}")
     lines.append(r"\end{document}")
     return "\n".join(lines)
 
-def compilar_pdf(tex_code, output_pdf_path, cls_dir=None):
-    """Compila código TeX usando pdflatex com os arquivos auxiliares/modelos."""
+def compilar_pdf(tex_code, output_pdf_path, cls_dir=None, is_dark=False, url_qr="https://pedroiff0.github.io/page/pt-br/resource/latex"):
+    """Compila código TeX e aplica proteção de senha no PDF final com a senha institucional escritaiff2026."""
     with tempfile.TemporaryDirectory() as tmp_dir:
         tex_path = os.path.join(tmp_dir, "documento.tex")
         with open(tex_path, "w", encoding="utf-8") as f:
@@ -345,6 +455,12 @@ def compilar_pdf(tex_code, output_pdf_path, cls_dir=None):
                 else:
                     shutil.copy2(s, d)
                     
+        # Gerar qrcode_transparente.png na pasta img/ do diretório de compilação temporário
+        img_dir = os.path.join(tmp_dir, "img")
+        os.makedirs(img_dir, exist_ok=True)
+        qr_tmp = os.path.join(img_dir, "qrcode_transparente.png")
+        generate_qr_transparent(url_qr, qr_tmp, is_dark_theme=is_dark)
+                    
         cmd = ["pdflatex", "-interaction=nonstopmode", "documento.tex"]
         subprocess.run(cmd, cwd=tmp_dir, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         subprocess.run(cmd, cwd=tmp_dir, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -353,16 +469,18 @@ def compilar_pdf(tex_code, output_pdf_path, cls_dir=None):
         if os.path.exists(pdf_tmp):
             os.makedirs(os.path.dirname(output_pdf_path), exist_ok=True)
             shutil.copy2(pdf_tmp, output_pdf_path)
+            # Aplicar criptografia com a senha escritaiff2026
+            encrypt_pdf(output_pdf_path, password=SENHA_INSTITUCIONAL)
             return True
         else:
             return False
 
 def gerar_thumb(pdf_path, png_output_path):
-    """Gera miniatura PNG autêntica a partir da primeira página do slide PDF."""
+    """Gera miniatura PNG a partir de PDF (removendo senha temporariamente para leitura ou renderização direta)."""
     try:
         os.makedirs(os.path.dirname(png_output_path), exist_ok=True)
         prefix = png_output_path.replace(".png", "")
-        cmd = ["pdftoppm", "-png", "-r", "150", "-f", "1", "-l", "1", pdf_path, prefix]
+        cmd = ["pdftoppm", "-png", "-r", "150", "-f", "1", "-l", "1", "-opw", SENHA_INSTITUCIONAL, pdf_path, prefix]
         subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         gen = f"{prefix}-1.png"
         if os.path.exists(gen):
@@ -390,18 +508,20 @@ def main():
     
     print("==========================================================================")
     print(" GERADOR INSTITUCIONAL - SLIDES E NOTAS (BRANCO & PRETO) — IFF")
+    print(" SENHA INSTITUCIONAL NOS PDFS: escritaiff2026")
     print("==========================================================================")
     
     for num in range(1, 21):
         num_str = f"{num:02d}"
         titulo, subtitulo = AULAS_TITULOS.get(num, (f"Conteúdo Didático da Aula {num_str}", "Normas ABNT e Prática ReLaTeX"))
+        url_aula = f"https://pedroiff0.github.io/page/pt-br/resource/latex/aula-{num_str}"
         
         # 1. Slides LaTeX - Modelo Branco (.pdf)
         pdf_slide_branco = os.path.join(dir_slides_latex, f"aula-{num_str}-branco.pdf")
         pdf_slide_padrao = os.path.join(dir_slides_latex, f"aula-{num_str}.pdf")
         tex_branco = gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False)
-        print(f" [AULA {num_str}/20] Compilando Slides LaTeX (Modelo Branco)...", end=" ", flush=True)
-        if compilar_pdf(tex_branco, pdf_slide_branco, cls_slide_dir):
+        print(f" [AULA {num_str}/20] Compilando Slides LaTeX (Modelo Branco) com senha...", end=" ", flush=True)
+        if compilar_pdf(tex_branco, pdf_slide_branco, cls_slide_dir, is_dark=False, url_qr=url_aula):
             shutil.copy2(pdf_slide_branco, pdf_slide_padrao)
             print("OK!")
             thumb_png = os.path.join(dir_thumbs, f"aula-{num_str}.png")
@@ -412,34 +532,34 @@ def main():
         # 2. Slides LaTeX - Modelo Preto (.pdf)
         pdf_slide_preto = os.path.join(dir_slides_latex, f"aula-{num_str}-preto.pdf")
         tex_preto = gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=True)
-        print(f" [AULA {num_str}/20] Compilando Slides LaTeX (Modelo Preto)...", end=" ", flush=True)
-        if compilar_pdf(tex_preto, pdf_slide_preto, cls_slide_dir):
+        print(f" [AULA {num_str}/20] Compilando Slides LaTeX (Modelo Preto) com senha...", end=" ", flush=True)
+        if compilar_pdf(tex_preto, pdf_slide_preto, cls_slide_dir, is_dark=True, url_qr=url_aula):
             print("OK!")
         else:
             print("FALHA!")
             
-        # 3. PPTX Institucional - Modelo Branco (.pptx) com QR Code transparente preto
+        # 3. PPTX Institucional - Modelo Branco (.pptx)
         pptx_out_branco = os.path.join(dir_slides_pptx, f"aula-{num_str}-branco.pptx")
         pptx_out_padrao = os.path.join(dir_slides_pptx, f"aula-{num_str}.pptx")
         if os.path.exists(pptx_template_branco):
             popule_pptx_institucional(pptx_template_branco, pptx_out_branco, num_str, titulo, subtitulo, is_dark=False)
             shutil.copy2(pptx_out_branco, pptx_out_padrao)
             
-        # 4. PPTX Institucional - Modelo Preto (.pptx) com QR Code transparente branco
+        # 4. PPTX Institucional - Modelo Preto (.pptx)
         pptx_out_preto = os.path.join(dir_slides_pptx, f"aula-{num_str}-preto.pptx")
         if os.path.exists(pptx_template_preto):
             popule_pptx_institucional(pptx_template_preto, pptx_out_preto, num_str, titulo, subtitulo, is_dark=True)
             
-        # 5. Notas de Aula Institucionais (100% LaTeX — cabeçalho fancyhdr) (.pdf)
+        # 5. Notas de Aula Institucionais (.pdf) com senha e sem regras de avaliação/tempos de aula
         pdf_notes = os.path.join(dir_notes_latex, f"aula-{num_str}.pdf")
         tex_notes = gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo)
-        print(f" [AULA {num_str}/20] Compilando Notas Institucionais 100% LaTeX...", end=" ", flush=True)
-        if compilar_pdf(tex_notes, pdf_notes, cls_dir=None):
+        print(f" [AULA {num_str}/20] Compilando Notas Institucionais LaTeX com senha...", end=" ", flush=True)
+        if compilar_pdf(tex_notes, pdf_notes, cls_dir=None, is_dark=False, url_qr=url_aula):
             print("OK!")
         else:
             print("FALHA!")
             
-    print("\n[SUCESSO] 20 Aulas processadas integralmente nos Modelos Branco e Preto!")
+    print("\n[SUCESSO] 20 Aulas processadas integralmente, sem 'Parte X/Y', com senha e logo ampliada!")
 
 if __name__ == "__main__":
     main()

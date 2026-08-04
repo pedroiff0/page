@@ -9,13 +9,15 @@ tags: [latex, escrita-academica, abnt, ifftese]
 
 
 
+
+
 | Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
 | :--- | :--- |
-| 📄 **Slides LaTeX (52 slides — Modelo Branco .pdf)** | [Acessar Slide Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf) |
-| 📄 **Slides LaTeX (52 slides — Modelo Preto .pdf)** | [Acessar Slide Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-05-preto.pdf) |
-| 📊 **Slides PPTX Institucional (Modelo Branco .pptx)** | [Acessar PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-05-branco.pptx) |
-| 📊 **Slides PPTX Institucional (Modelo Preto .pptx)** | [Acessar PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-05-preto.pptx) |
-| 📝 **Notas de Aula Institucionais (100% LaTeX — .pdf)** | [Acessar Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf) |
+| 📄 **Slides LaTeX — Modelo Branco (.pdf)** | [Acessar Slide Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf) |
+| 📄 **Slides LaTeX — Modelo Preto (.pdf)** | [Acessar Slide Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-05-preto.pdf) |
+| 📊 **Slides PPTX — Modelo Branco (.pptx)** | [Acessar PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-05-branco.pptx) |
+| 📊 **Slides PPTX — Modelo Preto (.pptx)** | [Acessar PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-05-preto.pptx) |
+| 📝 **Notas de Aula Institucionais (.pdf)** | [Acessar Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf) |
 
 ## 📋 Sumário da Aula
 - 1. Introdução e Fundamentação Teórica
