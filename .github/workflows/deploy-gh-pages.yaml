@@ -34,7 +34,7 @@ jobs:
         if: github.event_name == 'push'
         env:
           ANTES: ${{ github.event.before }}
-          LIMITE: 20
+          LIMITE: 50
         run: |
           if [ -z "$ANTES" ] || [ "$ANTES" = "0000000000000000000000000000000000000000" ]; then
             echo "Sem commit anterior para comparar — checagem ignorada."
@@ -58,6 +58,8 @@ jobs:
         run: npx quartz plugin install
       - name: Generate Dynamic Index Tables
         run: python3 scripts/generate_indexes.py
+      - name: Generate Course Tables and Carousels
+        run: python3 scripts/generate_course_table.py --all
       - name: Build Quartz
         run: npx quartz build
       - uses: actions/configure-pages@v4
