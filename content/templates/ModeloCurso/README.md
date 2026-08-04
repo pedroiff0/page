@@ -52,5 +52,28 @@ npm run update-courses
 
 ---
 
+## 🔒 Compilação Automática de LaTeX (.tex) já com Senha Padrão
+
+Para que os arquivos `.tex` gerados ou compilados já gerem os arquivos **PDF protegidos automaticamente pela senha padrão** (`escritaiff2026`), você tem três métodos prontos neste modelo:
+
+### Método 1: Script Gerador Oficial do Curso (`scripts/gerar_slides_aulas.py`)
+Sempre que você quiser gerar ou recompilar os slides de um curso inteiro a partir dos arquivos markdown (`aula-*.md`):
+```bash
+python3 scripts/gerar_slides_aulas.py --dir content/pt-br/resource/latex --slug latex-escrita --senha escritaiff2026
+```
+> [!NOTE]
+> O script compila os códigos LaTeX com `pdflatex`, aplica a criptografia automaticamente com a senha padrão no arquivo PDF final, gera a versão Widescreen PPTX (também com senha) e as imagens de capa em `thumbs/`.
+
+### Método 2: Script de Compilação Avulsa (`compilar_pdf_protegido.py`)
+Se você tiver um único arquivo `meu_slide.tex` e quiser compilar já saindo protegido:
+```bash
+python3 compilar_pdf_protegido.py meu_slide.tex --senha escritaiff2026
+```
+
+### Método 3: Via `latexmk` no VS Code ou Terminal (Arquivo `.latexmkrc`)
+O modelo já vem com o arquivo `.latexmkrc` na raiz da pasta. Ao compilar com `latexmk -pdf arquivo.tex` (ou clicando no botão **Build LaTeX Project** do VS Code), o pós-processamento de criptografia executa automaticamente ao fim do build e sela o PDF com a senha padrão!
+
+---
+
 ## 🏛️ Garantia Institucional
 Todos os arquivos PDF de slides e ementas devem ser protegidos pela senha institucional padrão (`escritaiff2026` ou a senha definida para a disciplina) para manter a conformidade de segurança acadêmica do IFF.
