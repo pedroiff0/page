@@ -20,6 +20,19 @@ tags:
 
 ---
 
+## 📂 Material Suplementar e Documentos Oficiais do Curso
+
+> [!WARNING] **Criptografia Interna do PDF**
+> Os arquivos de **Cronograma/Ementa (`Course Syllabus`)** e **Guia do Estudante (`Guidelines`)** abaixo possuem **criptografia de segurança internamente no arquivo PDF**.
+> Para abrir ou ler o arquivo no seu navegador ou leitor PDF, digite a senha institucional do curso: **`escritaiff2026`**.
+
+- **[📅 Cronograma Geral e Ementa Analítica (Course Syllabus — PDF Protegido)](/assets/biblioteca/latex-escrita/documentos/cronograma-e-ementa.pdf)**
+  *Documento completo em português contendo a programação das 80h/6 meses, competências de cada módulo, normas ABNT/IBGE vigentes, bibliografia oficial e critérios de avaliação.*
+- **[📖 Guia do Estudante e Diretrizes Acadêmicas (Course Guidelines — PDF Protegido)](/assets/biblioteca/latex-escrita/documentos/guia-e-diretrizes.pdf)**
+  *Manual de conduta discente do IFF-BJI, política de integridade científica, prevenção de plágio, uso ético e transparente de Inteligência Artificial (LLMs), regras dos laboratórios e fluxo de trabalho no GitHub.*
+- **[🏛️ Guia Oficial de Modelos, Classes (`.cls`) e Pacotes (`.sty`) ReLaTeX](pt-br/resource/latex/modelos-de-documento)**
+  *Página oficial contendo o index de todas as classes institucionais (`ifftese.cls`, `iffposter.cls`, `relatoriocorp.cls`, `metadados.sty`, `macros.sty`), com exemplos reais prontos para compilação e links para as aulas respectivas.*
+
 ## 🎠 Carrossel das 24 Aulas do Curso
 
 Navegue pelo carrossel abaixo para acessar diretamente cada uma das aulas do curso (protegidas por senha):
