@@ -1,0 +1,41 @@
+---
+publish: true
+title: Escola de Inverno ON - 2026
+created: 2026-07-18T13:50:21.240-03:00
+modified: 2026-07-26T10:16:40.175-03:00
+published: 2026-07-26T10:16:40.175-03:00
+photoFolder: escolainverno2026
+type: blog
+---
+
+# ❄️ École d'hiver ON - 2026
+
+> [!note] Résumé
+> École d'hiver en astrophysique 2026 de l'Observatoire national, à Rio de Janeiro - J'ai présenté une mise à jour de l'affiche de détection d'anomalies dans les données de Gaia / GALAH DR4 déjà prise au SAB 2025.
+
+## 🗓️ A propos de l'événement
+
+ Page dédiée à la participation à l'École d'hiver en astrophysique 2026[Observatoire national (ON)](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026) du 20 au 24 juillet 2026, à Rio de Janeiro.
+
+## 👋 Ma participation
+
+ Si vous êtes venu ici scanner le code QR de mon affiche, vous êtes les bienvenus! L'affiche présentée à cette école est une mise à jour de ce que j'ai apporté au SAB 2025, à Caxambu (MG) - avec la cartographie non supervisée via t-SNE et les projections les plus récentes. Voir le texte complet de la présentation [Présentation de la recherche](pt-br/resource/escolainverno/apresentacao) et l'état actuel [Détection d'anomalies dans les données de Gaia (en français)](en/research/anomaly-detection).
+
+> [!note] Avis
+> Mon deuxième congrès d'astronomie en moins d'un an ! C'était une occasion très légale et importante, le contact avec les différents domaines de recherche a montré les nombreuses possibilités de suivre la recherche, le réseautage avec les enseignants / chercheurs dans mon domaine de recherche a également grandement enrichi le progrès de mon travail en collaboration avec les enseignants [Dr. Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja) et [Dr. Maria Luiza Linhares Dantas](https://www.mlldantas.com)
+
+## 📎 Bannière
+
+> [!note] Bannières soumises:
+> Ancienne version :![[assets/banners/BannerSBPC26.pdf|BannerSBPC26]]
+
+> [!note] Bannières soumises:
+> Version par défaut :![[assets/banners/BannerEscolaInverno26.pdf]]
+
+ Plus de détails de la recherche peuvent être trouvés dans [Détection d'anomalies dans les données de Gaia (en français)](en/research/anomaly-detection); une version plus à jour sera également présentée en [SAB 2026](fr/media/2026/sab-2026) qui aura lieu à Noël (RN) du 25 au 30 octobre 2026.
+
+## 🔗 Références et corrections
+
+- 📓 Notes en classe complète, par minicurso:[École d'hiver (ON 2026)](pt-br/resource/escolainverno)
+- [Détection d'anomalies dans les données de Gaia (en français)](en/research/anomaly-detection)- enquête complète derrière l'affiche
+- [SAB 2025](fr/media/2025/sab-2025)- version précédente de la même affiche

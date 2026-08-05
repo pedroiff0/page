@@ -43,20 +43,55 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
                 window.location.replace(target);
                 return;
               }
-              
-              if (pathname.startsWith("pt-br/") || pathname.startsWith("en/") || pathname.startsWith("es/") || pathname.startsWith("fr/")) {
-                var msg;
-                if (pathname.startsWith("pt-br/")) {
-                  msg = "Oops, não foi possível obter a tradução para você. Sinto muito.... Em breve estará traduzido!";
-                } else if (pathname.startsWith("es/")) {
-                  msg = "Ups, no pudimos encontrar la traducción para ti. Lo siento... ¡Pronto estará traducida!";
-                } else if (pathname.startsWith("fr/")) {
-                  msg = "Oups, nous n'avons pas trouvé la traduction pour vous. Désolé... Elle sera bientôt traduite !";
-                } else {
-                  msg = "Oops, we couldn't find the translation for you. I'm sorry... It will be translated soon!";
-                }
+
+              // --- pagina de traducao ausente ---
+              var langs = ["pt-br", "en", "es", "fr"];
+              var langIdx = langs.findIndex(function(l){ return pathname.startsWith(l + "/"); });
+              if (langIdx !== -1) {
+                var lang = langs[langIdx];
+                var rest = pathname.slice(lang.length + 1);
+                var msgs = {
+                  "pt-br": "Oops, não foi possível obter a tradução para você. Sinto muito... Em breve estará traduzida!",
+                  "en": "Oops, we couldn't find the translation for you. I'm sorry... It will be translated soon!",
+                  "es": "Ups, no pudimos encontrar la traducción para ti. Lo siento... ¡Pronto estará traducida!",
+                  "fr": "Oups, nous n'avons pas trouvé la traduction pour vous. Désolé... Elle sera bientôt traduite !"
+                };
                 var p = document.querySelector('p');
-                if (p) p.textContent = msg;
+                if (p) p.textContent = msgs[lang] || msgs["en"];
+
+                // link para abrir issue pedindo a traducao (pre-preenchido)
+                var repo = "pedroiff0/page";
+                var title = encodeURIComponent("Tradução em falta: " + pathname);
+                var body = encodeURIComponent(
+                  "A página \`" + pathname + "\` foi acessada mas ainda não tem tradução para \`" + lang + "\`.\n" +
+                  "Por favor, adicione a tradução desta página (espelhar o slug em \`" + lang + "/\`)."
+                );
+                var issueUrl = "https://github.com/" + repo + "/issues/new?title=" + title + "&body=" + body + "&labels=translation";
+                var a = document.createElement("a");
+                a.href = issueUrl;
+                a.target = "_blank";
+                a.rel = "noopener";
+                a.textContent = (lang === "pt-br") ? "Pedir esta tradução (abrir issue)" :
+                               (lang === "en") ? "Request this translation (open issue)" :
+                               (lang === "es") ? "Solicitar esta traducción (abrir issue)" :
+                               "Demander cette traduction (ouvrir un issue)";
+                a.style.display = "inline-block";
+                a.style.marginTop = "0.8rem";
+                if (p && p.parentNode) p.parentNode.insertBefore(a, p.nextSibling);
+
+                // redireciona para o pt-br equivalente apos 5s (se existir)
+                var ptTarget = (hasBasePrefix ? basePath : "") + "/pt-br/" + rest;
+                var exists = index[ptTarget.toLowerCase()] != null || index["pt-br/" + rest.toLowerCase()] != null;
+                if (exists) {
+                  setTimeout(function () {
+                    var msg2 = (lang === "pt-br") ? "Redirecionando para a versão em português..." :
+                               (lang === "en") ? "Redirecting to the Portuguese version..." :
+                               (lang === "es") ? "Redirigiendo a la versión en portugués..." :
+                               "Redirection vers la version portugaise...";
+                    if (p) p.textContent = msg2;
+                    window.location.replace(ptTarget);
+                  }, 5000);
+                }
               }
             });
           }

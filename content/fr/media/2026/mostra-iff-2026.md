@@ -1,0 +1,40 @@
+---
+publish: false
+title: Mostra do Conhecimento - 2026
+created: 2026-07-18T13:50:21.240-03:00
+modified: 2026-07-26T10:40:28.909-03:00
+published: 2026-07-26T10:40:28.909-03:00
+photoFolder: mostra2026
+type: blog
+---
+
+# 🏫 Montre les connaissances - 2026
+
+> [!note] Résumé
+> 
+
+## 🗓️ A propos de l'événement
+
+ Page dédiée à la participation à * *[Échantillon de connaissances](https://eventos.iff.edu.br/mostradoconhecimento2026) de l'IFM, campus Bom Jesus do Itabapoana * *, à Bom Jesus do Itabapoana - RJ, tenue du 21 au 26 septembre 2026.
+
+## 👋 Ma participation
+
+
+## 🎤 Conférences et participation
+
+ (section optionnelle - éteignez toute cette section si l'événement n'a pas eu de programmation de conférence ou de mini-conférence, ou si vous n'en avez pas vu)
+
+- *\ [Titre du talk / minicurso] * * -\ [Palestrant],\ [données].\ [Une phrase sur le contenu vaut la peine d'être enregistrée.]
+
+> [!note] Avis
+> Attendez !
+
+## 📎 Bannière
+
+> [!note] Bannière présentée:
+> Ça n'a pas encore été fait !
+
+## 🔗 Références et corrections
+
+- [Détection d'anomalies dans les données de Gaia (en français)](en/research/anomaly-detection)- enquête complète derrière l'affiche
+- [SAB 2025](fr/media/2025/sab-2025)- version précédente de la même affiche
