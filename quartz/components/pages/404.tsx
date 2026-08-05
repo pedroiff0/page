@@ -92,9 +92,10 @@ NotFound.afterDOMLoaded = `
 
   var basePath = document.body.dataset.basepath || "";
   if (basePath.length > 1 && basePath.endsWith("/")) basePath = basePath.slice(0, -1);
-  var pathname = window.location.pathname;
-  if (basePath.length > 1 && pathname.indexOf(basePath) === 0) pathname = pathname.slice(basePath.length);
-  var slug = pathname.replace(/^\\//, "").replace(/\\.html$/, "").replace(/\\/index$/, "");
+  var rawPath = window.location.pathname;
+  if (basePath.length > 1 && rawPath.indexOf(basePath) === 0) rawPath = rawPath.slice(basePath.length);
+  var pathname = decodeURIComponent(rawPath);
+  var slug = pathname.replace(/^\//, "").replace(/\.html$/, "").replace(/\/index$/, "");
   var repo = "pedroiff0/page";
   var issueTitle = encodeURIComponent(T.issueTitle.replace("{{slug}}", slug).replace("{{lang}}", lang));
   var issueBody = encodeURIComponent(T.issueBody.replace("{{slug}}", slug).replace("{{lang}}", lang));
