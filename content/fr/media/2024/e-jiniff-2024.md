@@ -26,3 +26,6 @@ type: blog
 
 - Source:[IFF - Les étudiants du campus de Bom Jesus se distinguent dans les sports électroniques](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/estudantes-do-campus-bom-jesus-se-destacam-em-e-sports)
 - [4a SCEG 2024](fr/media/2024/4-sceg)- événement où les e-sports du campus se sont poursuivis, avec leurs propres compétitions
+
+> [!abstract] Avis de traduction automatique
+> Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

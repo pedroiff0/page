@@ -39,3 +39,6 @@ type: blog
 - 📓 Complete classroom notes by minicourse:[Winter School (ON 2026)](pt-br/resource/escolainverno)
 - [Gaia Data Anomalies Detection](en/research/anomaly-detection)— full search behind the poster
 - [SAB 2025](en/media/2025/sab-2025)— previous version of the same poster
+
+> [!abstract] Automatic translation notice
+> This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

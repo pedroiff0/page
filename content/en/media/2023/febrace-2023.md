@@ -32,3 +32,6 @@ type: blog
 - Source:[IFF — IFF project Good Jesus is finalist at Brazil’s largest science and engineering fair](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-finalista-na-maior-feira-de-ciencias-e-engenharia-do-brasil)
 - [Understanding Matter Dark from Extragalactic Shocks](en/research/dark-matter-shocks)— full search page of this project
 - [MOSTERTEC 2023](en/media/2023/mostratec-2023)— same project, submitted months later
+
+> [!abstract] Automatic translation notice
+> This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

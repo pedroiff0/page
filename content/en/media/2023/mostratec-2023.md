@@ -33,3 +33,6 @@ type: blog
 - Source:[IFF — IFF students Good Jesus participate in the largest and most traditional Latin American science fair](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/alunos-do-iff-bom-jesus-participam-da-maior-e-mais-tradicional-feira-de-ciencias-da-america-latina)
 - [Understanding Matter Dark from Extragalactic Shocks](en/research/dark-matter-shocks)— full search page of this project
 - [FEBRACE 2023](en/media/2023/febrace-2023)— same project, submitted months earlier
+
+> [!abstract] Automatic translation notice
+> This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

@@ -32,3 +32,6 @@ type: blog
 ## 🔗 References and correlations
 
 - [ReLaTeX](pt-br/research/relatex)— full search behind the poster
+
+> [!abstract] Automatic translation notice
+> This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.
