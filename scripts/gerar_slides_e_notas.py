@@ -45,6 +45,29 @@ AULAS_TITULOS = {
     20: ("Automação com latexmkrc, Git e CI/CD no GitHub", "Build automatizado, versionamento limpo sem lixo TeX e pipelines de publicação contínua"),
 }
 
+AULAS_SLUGS = {
+    1: "aula-01-epistemologia-problematizacao-e-hipoteses",
+    2: "aula-02-objetivos-taxonomia-de-bloom-e-justificativa",
+    3: "aula-03-resumo-abstract-e-palavras-chave-nbr-6028",
+    4: "aula-04-elementos-pre-textuais-nbr-14724",
+    5: "aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa",
+    6: "aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma",
+    7: "aula-07-metodologia-materiais-e-reprodutibilidade",
+    8: "aula-08-etica-plataforma-brasil-e-uso-de-ia",
+    9: "aula-09-resultados-tabelas-ibge-vs-quadros-abnt",
+    10: "aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023",
+    11: "aula-11-arquitetura-latex-motores-tex-e-preambulo-tex",
+    12: "aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs",
+    13: "aula-13-modularizacao-multi-arquivo-e-biblatex-biber",
+    14: "aula-14-graficos-vetoriais-tikz-e-pgfplots",
+    15: "aula-15-engenharia-do-arquivo-de-metadados-sty",
+    16: "aula-16-desenvolvimento-de-pacotes-e-macros-sty",
+    17: "aula-17-engenharia-da-classe-ifftese-cls",
+    18: "aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027",
+    19: "aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp",
+    20: "aula-20-automacao-latexmkrc-git-e-integracao-continua",
+}
+
 # Títulos de slides únicos sem "Parte X/Y"
 SLIDE_TOPICS = [
     "Epistemologia e Metodologia Científica",
@@ -141,8 +164,8 @@ def encrypt_pdf(pdf_path, password=SENHA_INSTITUCIONAL):
         print(f"[ERRO ENCRIPTACAO PDF] {e}")
         return False
 
-def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, subtitulo, is_dark=False):
-    """Atualiza PPTX do IFF: substitui Astrofísica por LaTeX e Escrita Acadêmica, amplia logo do IFF e insere QR Code transparente."""
+def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, subtitulo, is_dark=False, url_qr="https://www.phrandrade.com/pt-br/resource/latex"):
+    """Atualiza PPTX do IFF: substitui Astrofísica por LaTeX e Escrita Acadêmica, cores institucionais, amplia logo e insere QR Code canônico."""
     prs = pptx.Presentation(template_path)
     
     for idx, slide in enumerate(prs.slides):
@@ -156,24 +179,24 @@ def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, 
                     p.text = f"AULA {num_str}: {titulo.upper()}"
                     p.font.size = Pt(26)
                     p.font.bold = True
-                    p.font.color.rgb = RGBColor(255, 255, 255) if is_dark else RGBColor(15, 23, 42)
+                    p.font.color.rgb = RGBColor(239, 68, 68) if is_dark else RGBColor(185, 28, 28) # Vermelho Institucional
                     
                     p2 = shape.text_frame.add_paragraph()
                     p2.text = f"{subtitulo}\nCurso: LaTeX e Escrita Acadêmica — Normas ABNT"
                     p2.font.size = Pt(16)
-                    p2.font.color.rgb = RGBColor(203, 213, 225) if is_dark else RGBColor(71, 85, 105)
+                    p2.font.color.rgb = RGBColor(34, 197, 94) if is_dark else RGBColor(21, 128, 61) # Verde Institucional
                 elif idx == 0 and ("Apresentador:" in text_val or "Pedro" in text_val):
                     shape.text_frame.clear()
                     p = shape.text_frame.paragraphs[0]
                     p.text = "Pedro Henrique Rocha de Andrade"
                     p.font.size = Pt(14)
                     p.font.bold = True
-                    p.font.color.rgb = RGBColor(255, 255, 255) if is_dark else RGBColor(15, 23, 42)
+                    p.font.color.rgb = RGBColor(245, 158, 11) if is_dark else RGBColor(180, 83, 9) # Dourado Institucional
                     
                     p2 = shape.text_frame.add_paragraph()
                     p2.text = "Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana\nCurso: LaTeX e Escrita Acadêmica"
                     p2.font.size = Pt(12)
-                    p2.font.color.rgb = RGBColor(203, 213, 225) if is_dark else RGBColor(100, 116, 139)
+                    p2.font.color.rgb = RGBColor(167, 139, 250) if is_dark else RGBColor(109, 40, 217) # Violeta Institucional
                 else:
                     # Substituições globais sem "Prof. Dr." e substituindo Astrofísica/MWBR por LaTeX e Escrita Acadêmica
                     if "Astrofísica" in text_val or "MWBR" in text_val or "Reconciliação" in text_val or "GCE" in text_val:
@@ -189,6 +212,12 @@ def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, 
                                 run.text = run.text.replace("Prof. Dr. ", "")
                                 run.text = run.text.replace("Prof. Dr.", "")
 
+                    # Se for título do slide (cabeçalho da página > 0), aplicar Vermelho Institucional
+                    if shape.top < Inches(1.2) and idx > 0:
+                        for paragraph in shape.text_frame.paragraphs:
+                            for run in paragraph.runs:
+                                run.font.color.rgb = RGBColor(239, 68, 68) if is_dark else RGBColor(185, 28, 28)
+
         # 2. Ampliar e destacar a Logo do IFF no Cabeçalho de todos os slides (recorte / trim e aumento de tamanho)
         for shape in slide.shapes:
             if "Picture" in shape.name or "Logo" in shape.name:
@@ -199,11 +228,10 @@ def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, 
                     shape.left = Inches(0.5)
                     shape.top = Inches(0.08)
 
-    # 3. Gerar QR Code transparente e inserir no slide final (Obrigado!) e na Capa
+    # 3. Gerar QR Code transparente com URL canônica e inserir no slide final (Obrigado!) e na Capa
     with tempfile.TemporaryDirectory() as tmp_qr_dir:
         qr_path = os.path.join(tmp_qr_dir, "qrcode_transparente.png")
-        url_aula = f"https://pedroiff0.github.io/page/pt-br/resource/latex/aula-{num_str}"
-        generate_qr_transparent(url_aula, qr_path, is_dark_theme=is_dark)
+        generate_qr_transparent(url_qr, qr_path, is_dark_theme=is_dark)
         
         slide_final = prs.slides[-1]
         left = Inches(10.2)
@@ -221,9 +249,6 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
     num_str = f"{num:02d}"
     lines = []
     lines.append(r"\documentclass[10pt, aspectratio=169]{slidesiffmodelo}")
-    lines.append(r"\usepackage[utf8]{inputenc}")
-    lines.append(r"\usepackage[T1]{fontenc}")
-    lines.append(r"\usepackage[brazil]{babel}")
     lines.append(r"\usepackage{amsmath,amssymb}")
     lines.append(r"\usepackage{booktabs}")
     lines.append(r"\usepackage{xcolor}")
@@ -232,21 +257,68 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
     lines.append(r"\usetikzlibrary{shapes,arrows,positioning}")
     
     if is_dark:
-        lines.append(r"% Configuração de Modelo Preto (Escuro)")
+        lines.append(r"% Configuração de Modelo Preto (Escuro) — Paleta Institucional")
+        lines.append(r"\definecolor{iffred}{RGB}{239, 68, 68}")
+        lines.append(r"\definecolor{iffgreen}{RGB}{34, 197, 94}")
+        lines.append(r"\definecolor{iffgold}{RGB}{245, 158, 11}")
+        lines.append(r"\definecolor{ifforange}{RGB}{251, 146, 60}")
+        lines.append(r"\definecolor{iffviolet}{RGB}{167, 139, 250}")
+        lines.append(r"\definecolor{ifflight}{RGB}{30, 41, 59}")
         lines.append(r"\setbeamercolor{normal text}{fg=white,bg=black!94!white}")
-        lines.append(r"\setbeamercolor{structure}{fg=white}")
-        lines.append(r"\setbeamercolor{title}{fg=white}")
-        lines.append(r"\setbeamercolor{frametitle}{fg=white}")
-        lines.append(r"\setbeamercolor{item}{fg=white}")
+        lines.append(r"\setbeamercolor{structure}{fg=iffgreen}")
+        lines.append(r"\setbeamercolor{title}{fg=iffred}")
+        lines.append(r"\setbeamercolor{frametitle}{fg=iffred}")
+        lines.append(r"\setbeamercolor{item}{fg=iffgreen}")
+        lines.append(r"\setbeamercolor{subitem}{fg=iffgold}")
         lines.append(r"\setbeamercolor{caption}{fg=white}")
-        lines.append(r"\setbeamercolor{caption name}{fg=white}")
     else:
-        lines.append(r"% Configuração de Modelo Branco (Claro)")
-        lines.append(r"\setbeamercolor{normal text}{fg=black,bg=white}")
-        lines.append(r"\setbeamercolor{structure}{fg=black}")
-        lines.append(r"\setbeamercolor{title}{fg=black}")
-        lines.append(r"\setbeamercolor{frametitle}{fg=black}")
-        lines.append(r"\setbeamercolor{item}{fg=black}")
+        lines.append(r"% Configuração de Modelo Branco (Claro) — Paleta Institucional")
+        lines.append(r"\definecolor{iffred}{RGB}{185, 28, 28}")
+        lines.append(r"\definecolor{iffgreen}{RGB}{21, 128, 61}")
+        lines.append(r"\definecolor{iffgold}{RGB}{180, 83, 9}")
+        lines.append(r"\definecolor{ifforange}{RGB}{194, 65, 12}")
+        lines.append(r"\definecolor{iffviolet}{RGB}{109, 40, 217}")
+        lines.append(r"\definecolor{ifflight}{RGB}{248, 250, 252}")
+        lines.append(r"\setbeamercolor{normal text}{fg=black!90,bg=white}")
+        lines.append(r"\setbeamercolor{structure}{fg=iffgreen}")
+        lines.append(r"\setbeamercolor{title}{fg=iffred}")
+        lines.append(r"\setbeamercolor{frametitle}{fg=iffred}")
+        lines.append(r"\setbeamercolor{item}{fg=iffgreen}")
+        lines.append(r"\setbeamercolor{subitem}{fg=iffgold}")
+
+    lines.append(r"% Estrutura de Cabeçalho e Rodapé IDÊNTICA ao PPTX Institucional")
+    lines.append(r"\setbeamertemplate{headline}{%")
+    lines.append(r"  \vspace{0.18cm}%")
+    lines.append(r"  \hspace{0.5cm}%")
+    lines.append(r"  \begin{minipage}{0.35\linewidth}%")
+    lines.append(r"    \includegraphics[height=0.65cm]{img/logoiff.png}%")
+    lines.append(r"  \end{minipage}%")
+    lines.append(r"  \hfill%")
+    lines.append(r"  \begin{minipage}{0.55\linewidth}%")
+    lines.append(r"    \raggedleft\footnotesize\textbf{\color{iffred} LaTeX e Escrita Acadêmica --- NBR 14724}%")
+    lines.append(r"  \end{minipage}%")
+    lines.append(r"  \hspace{0.5cm}%")
+    lines.append(r"  \vspace{0.12cm}%")
+    lines.append(r"  {\color{iffgold}\hrule height 1.2pt}%")
+    lines.append(r"}")
+    lines.append(r"\setbeamertemplate{footline}{%")
+    lines.append(r"  {\color{iffgold}\hrule height 0.8pt}%")
+    lines.append(r"  \vspace{0.1cm}%")
+    lines.append(r"  \hspace{0.5cm}%")
+    lines.append(r"  \begin{minipage}{0.35\linewidth}%")
+    lines.append(r"    \scriptsize\textbf{\color{iffgreen} Pedro Henrique Rocha de Andrade}%")
+    lines.append(r"  \end{minipage}%")
+    lines.append(r"  \hfill%")
+    lines.append(r"  \begin{minipage}{0.35\linewidth}%")
+    lines.append(r"    \centering\scriptsize\textbf{\color{ifforange} IFF Bom Jesus do Itabapoana}%")
+    lines.append(r"  \end{minipage}%")
+    lines.append(r"  \hfill%")
+    lines.append(r"  \begin{minipage}{0.15\linewidth}%")
+    lines.append(r"    \raggedleft\scriptsize\textbf{\color{iffviolet} \insertframenumber{} / \inserttotalframenumber}%")
+    lines.append(r"  \end{minipage}%")
+    lines.append(r"  \hspace{0.5cm}%")
+    lines.append(r"  \vspace{0.15cm}%")
+    lines.append(r"}")
         
     lines.append(f"\\title{{Aula {num_str}: {titulo} \\\\ \\small {subtitulo}}}")
     lines.append(r"\author{\textbf{Pedro Henrique Rocha de Andrade}\inst{1}}")
@@ -288,12 +360,14 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
     lines.append(r"    \frametitle{Hierarquia e Fluxo Documental na ABNT (Diagrama TikZ)}")
     lines.append(r"    \begin{center}")
     lines.append(r"    \begin{tikzpicture}[node distance=1.6cm, auto,")
-    lines.append(r"        box/.style={rectangle, draw=blue!60!black, thick, fill=blue!8!white, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\scriptsize},")
-    lines.append(r"        arrow/.style={->, >=stealth, thick, color=blue!60!black}")
+    lines.append(r"        boxpre/.style={rectangle, draw=iffgreen, thick, fill=iffgreen!12!white, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\scriptsize},")
+    lines.append(r"        boxtex/.style={rectangle, draw=iffgold, thick, fill=iffgold!12!white, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\scriptsize},")
+    lines.append(r"        boxpos/.style={rectangle, draw=iffviolet, thick, fill=iffviolet!12!white, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\scriptsize},")
+    lines.append(r"        arrow/.style={->, >=stealth, thick, color=iffred}")
     lines.append(r"    ]")
-    lines.append(r"        \node[box] (pre) {\textbf{1. Elementos Pré-textuais}\\ (Capa, Rosto, Resumo)};")
-    lines.append(r"        \node[box, right of=pre, xshift=2.6cm] (tex) {\textbf{2. Elementos Textuais}\\ (Introdução, Metodologia)};")
-    lines.append(r"        \node[box, right of=tex, xshift=2.6cm] (pos) {\textbf{3. Elementos Pós-textuais}\\ (Referências, Anexos)};")
+    lines.append(r"        \node[boxpre] (pre) {\textbf{1. Elementos Pré-textuais}\\ (Capa, Rosto, Resumo)};")
+    lines.append(r"        \node[boxtex, right of=pre, xshift=2.6cm] (tex) {\textbf{2. Elementos Textuais}\\ (Introdução, Metodologia)};")
+    lines.append(r"        \node[boxpos, right of=tex, xshift=2.6cm] (pos) {\textbf{3. Elementos Pós-textuais}\\ (Referências, Anexos)};")
     lines.append(r"        \draw[arrow] (pre) -- (tex);")
     lines.append(r"        \draw[arrow] (tex) -- (pos);")
     lines.append(r"    \end{tikzpicture}")
@@ -358,22 +432,28 @@ def gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo):
     lines.append(r"\usepackage{titlesec}")
     lines.append(r"\usepackage{xcolor}")
     
-    lines.append(r"\definecolor{iffblue}{RGB}{0,119,182}")
-    lines.append(r"\definecolor{iffgray}{RGB}{71,85,105}")
-    lines.append(r"\definecolor{ifflight}{RGB}{241,245,249}")
+    lines.append(r"\definecolor{iffred}{RGB}{185,28,28}")
+    lines.append(r"\definecolor{iffgreen}{RGB}{21,128,61}")
+    lines.append(r"\definecolor{iffgold}{RGB}{180,83,9}")
+    lines.append(r"\definecolor{ifforange}{RGB}{194,65,12}")
+    lines.append(r"\definecolor{iffviolet}{RGB}{109,40,217}")
+    lines.append(r"\definecolor{ifflight}{RGB}{248,250,252}")
     
     lines.append(r"\pagestyle{fancy}")
     lines.append(r"\fancyhf{}")
-    lines.append(r"\fancyhead[L]{\textbf{Instituto Federal Fluminense} \\ \footnotesize \textit{Campus} Bom Jesus do Itabapoana --- LaTeX \& Escrita Acadêmica}")
-    lines.append(r"\fancyhead[R]{\footnotesize \textbf{Pedro Henrique Rocha de Andrade} \\ Metodologia e ReLaTeX}")
-    lines.append(r"\fancyfoot[C]{\thepage}")
+    lines.append(r"\fancyhead[L]{\textbf{\color{iffred} Instituto Federal Fluminense} \\ \footnotesize \textit{Campus} Bom Jesus do Itabapoana --- \color{iffgreen} LaTeX \& Escrita Acadêmica}")
+    lines.append(r"\fancyhead[R]{\footnotesize \textbf{\color{iffgreen} Pedro Henrique Rocha de Andrade} \\ \color{iffviolet} Metodologia e ReLaTeX}")
+    lines.append(r"\fancyfoot[C]{\textbf{\color{iffgold} \thepage}}")
     lines.append(r"\renewcommand{\headrulewidth}{0.8pt}")
     lines.append(r"\renewcommand{\footrulewidth}{0.4pt}")
     lines.append(r"\setlength{\headheight}{28pt}")
     
-    lines.append(r"\title{\vspace*{-1cm}\LARGE \textbf{Notas de Aula Institucionais --- Aula " + num_str + r"} \\ \Large \textbf{" + titulo + r"} \\ \normalsize \textit{" + subtitulo + r"}}")
+    lines.append(r"\titleformat{\section}{\large\bfseries\color{iffred}}{\thesection}{1em}{}")
+    lines.append(r"\titleformat{\subsection}{\normalsize\bfseries\color{iffgreen}}{\thesubsection}{1em}{}")
+    
+    lines.append(r"\title{\vspace*{-1cm}\LARGE \textbf{\color{iffred} Notas de Aula Institucionais --- Aula " + num_str + r"} \\ \Large \textbf{\color{iffgreen} " + titulo + r"} \\ \normalsize \textit{\color{iffviolet} " + subtitulo + r"}}")
     lines.append(r"\author{\textbf{Pedro Henrique Rocha de Andrade} \\ \footnotesize Instituto Federal Fluminense (IFF) --- \textit{Campus} Bom Jesus do Itabapoana}")
-    lines.append(r"\date{\footnotesize Curso: LaTeX e Escrita Acadêmica}")
+    lines.append(r"\date{\footnotesize \textbf{\color{ifforange} Curso: LaTeX e Escrita Acadêmica}}")
     
     lines.append(r"\begin{document}")
     lines.append(r"\maketitle")
@@ -391,12 +471,14 @@ def gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo):
     lines.append(r"\begin{figure}[h!]")
     lines.append(r"\centering")
     lines.append(r"\begin{tikzpicture}[node distance=2.2cm, auto,")
-    lines.append(r"  box/.style={rectangle, draw=iffblue, thick, fill=ifflight, text width=3.8cm, align=center, rounded corners, minimum height=1.1cm},")
-    lines.append(r"  arrow/.style={->, >=stealth, thick, color=iffblue}")
+    lines.append(r"  boxpre/.style={rectangle, draw=iffgreen, thick, fill=iffgreen!12!white, text width=3.8cm, align=center, rounded corners, minimum height=1.1cm},")
+    lines.append(r"  boxtex/.style={rectangle, draw=iffgold, thick, fill=iffgold!12!white, text width=3.8cm, align=center, rounded corners, minimum height=1.1cm},")
+    lines.append(r"  boxpos/.style={rectangle, draw=iffviolet, thick, fill=iffviolet!12!white, text width=3.8cm, align=center, rounded corners, minimum height=1.1cm},")
+    lines.append(r"  arrow/.style={->, >=stealth, thick, color=iffred}")
     lines.append(r"]")
-    lines.append(r"  \node[box] (pre) {\textbf{1. Elementos Pré-textuais}\\ \small Capa, Rosto, Resumo};")
-    lines.append(r"  \node[box, right of=pre, xshift=3.2cm] (tex) {\textbf{2. Elementos Textuais}\\ \small Introdução, Desenvolvimento};")
-    lines.append(r"  \node[box, right of=tex, xshift=3.2cm] (pos) {\textbf{3. Elementos Pós-textuais}\\ \small Referências, Apêndices};")
+    lines.append(r"  \node[boxpre] (pre) {\textbf{1. Elementos Pré-textuais}\\ \small Capa, Rosto, Resumo};")
+    lines.append(r"  \node[boxtex, right of=pre, xshift=3.2cm] (tex) {\textbf{2. Elementos Textuais}\\ \small Introdução, Desenvolvimento};")
+    lines.append(r"  \node[boxpos, right of=tex, xshift=3.2cm] (pos) {\textbf{3. Elementos Pós-textuais}\\ \small Referências, Apêndices};")
     lines.append(r"  \draw[arrow] (pre) -- (tex);")
     lines.append(r"  \draw[arrow] (tex) -- (pos);")
     lines.append(r"\end{tikzpicture}")
@@ -455,11 +537,18 @@ def compilar_pdf(tex_code, output_pdf_path, cls_dir=None, is_dark=False, url_qr=
                 else:
                     shutil.copy2(s, d)
                     
-        # Gerar qrcode_transparente.png na pasta img/ do diretório de compilação temporário
+        # Gerar qrcode_transparente.png e copiar logo IFF para a pasta img/ do diretório temporário
         img_dir = os.path.join(tmp_dir, "img")
         os.makedirs(img_dir, exist_ok=True)
         qr_tmp = os.path.join(img_dir, "qrcode_transparente.png")
         generate_qr_transparent(url_qr, qr_tmp, is_dark_theme=is_dark)
+        logo_light = "/home/pedro/Downloads/_cosmic_assets/iff/iff_bji_light.png"
+        logo_dark = "/home/pedro/Downloads/_cosmic_assets/iff/iff_bji_dark.png"
+        logo_src = logo_dark if is_dark else logo_light
+        if os.path.exists(logo_src):
+            shutil.copy2(logo_src, os.path.join(img_dir, "logoiff.png"))
+        elif os.path.exists("/home/pedro/Downloads/_cosmic_assets/iff/iffbomjesusvert-1.png"):
+            shutil.copy2("/home/pedro/Downloads/_cosmic_assets/iff/iffbomjesusvert-1.png", os.path.join(img_dir, "logoiff.png"))
                     
         cmd = ["pdflatex", "-interaction=nonstopmode", "documento.tex"]
         subprocess.run(cmd, cwd=tmp_dir, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -498,11 +587,12 @@ def main():
     dir_slides_pptx = os.path.join(base_lib, "slides-pptx")
     dir_notes_latex = os.path.join(base_lib, "notes-latex")
     dir_thumbs = os.path.join(base_lib, "thumbs")
+    dir_qrcodes = os.path.join(base_lib, "qrcodes")
     
-    for d in [dir_slides_latex, dir_slides_pptx, dir_notes_latex, dir_thumbs]:
+    for d in [dir_slides_latex, dir_slides_pptx, dir_notes_latex, dir_thumbs, dir_qrcodes]:
         os.makedirs(d, exist_ok=True)
         
-    cls_slide_dir = "/home/pedro/Documentos/latex/modelos/slide-mostra"
+    cls_slide_dir = "/home/pedro/Repositorios/latex/modelos/slide-mostra"
     pptx_template_branco = "/home/pedro/Downloads/slides/Slides_Artigo_MWBR_16_9_Institucional_IFF_Branco.pptx"
     pptx_template_preto = "/home/pedro/Downloads/slides/Slides_Artigo_MWBR_16_9_Institucional_IFF_Preto.pptx"
     
@@ -514,7 +604,16 @@ def main():
     for num in range(1, 21):
         num_str = f"{num:02d}"
         titulo, subtitulo = AULAS_TITULOS.get(num, (f"Conteúdo Didático da Aula {num_str}", "Normas ABNT e Prática ReLaTeX"))
-        url_aula = f"https://pedroiff0.github.io/page/pt-br/resource/latex/aula-{num_str}"
+        slug = AULAS_SLUGS.get(num, f"aula-{num_str}")
+        url_aula = f"https://www.phrandrade.com/pt-br/resource/latex/{slug}"
+        
+        # 0. Salvar QR Codes institucionais individuais (.png)
+        qr_branco = os.path.join(dir_qrcodes, f"aula-{num_str}-branco.png")
+        qr_preto = os.path.join(dir_qrcodes, f"aula-{num_str}-preto.png")
+        qr_padrao = os.path.join(dir_qrcodes, f"aula-{num_str}.png")
+        generate_qr_transparent(url_aula, qr_branco, is_dark_theme=False)
+        generate_qr_transparent(url_aula, qr_preto, is_dark_theme=True)
+        shutil.copy2(qr_branco, qr_padrao)
         
         # 1. Slides LaTeX - Modelo Branco (.pdf)
         pdf_slide_branco = os.path.join(dir_slides_latex, f"aula-{num_str}-branco.pdf")
@@ -542,13 +641,13 @@ def main():
         pptx_out_branco = os.path.join(dir_slides_pptx, f"aula-{num_str}-branco.pptx")
         pptx_out_padrao = os.path.join(dir_slides_pptx, f"aula-{num_str}.pptx")
         if os.path.exists(pptx_template_branco):
-            popule_pptx_institucional(pptx_template_branco, pptx_out_branco, num_str, titulo, subtitulo, is_dark=False)
+            popule_pptx_institucional(pptx_template_branco, pptx_out_branco, num_str, titulo, subtitulo, is_dark=False, url_qr=url_aula)
             shutil.copy2(pptx_out_branco, pptx_out_padrao)
             
         # 4. PPTX Institucional - Modelo Preto (.pptx)
         pptx_out_preto = os.path.join(dir_slides_pptx, f"aula-{num_str}-preto.pptx")
         if os.path.exists(pptx_template_preto):
-            popule_pptx_institucional(pptx_template_preto, pptx_out_preto, num_str, titulo, subtitulo, is_dark=True)
+            popule_pptx_institucional(pptx_template_preto, pptx_out_preto, num_str, titulo, subtitulo, is_dark=True, url_qr=url_aula)
             
         # 5. Notas de Aula Institucionais (.pdf) com senha e sem regras de avaliação/tempos de aula
         pdf_notes = os.path.join(dir_notes_latex, f"aula-{num_str}.pdf")
