@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Mostra do Conhecimento - 2026
+title: "Muestra conocimiento - 2026"
 created: 2026-07-18T13:50:21.240-03:00
 modified: 2026-07-26T10:40:28.909-03:00
 published: 2026-07-26T10:40:28.909-03:00

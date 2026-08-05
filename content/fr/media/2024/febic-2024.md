@@ -1,6 +1,6 @@
 ---
 publish: true
-title: IX FEBIC 2024
+title: "IX FÉBIC 2024"
 created: 2024-09-15
 modified: 2026-07-26T10:13:40.051-03:00
 published: 2026-07-26T10:13:40.051-03:00

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Journal Clubs
+title: "Clubs de revues"
 created: 2026-07-26
 modified: 2026-07-26
 published: 2026-08-01T16:28:51.169-03:00
@@ -13,7 +13,7 @@ published: 2026-08-01T16:28:51.169-03:00
 
 ## Groupes
 
-- *[MWBR](pt-br/research/journal-clubs/mwbr)* * - groupe de recherche sur la Voie lactée, l'archéologie galactique et les populations stellaires.
+- *[MWBR](fr/research/journal-clubs/mwbr)* * - groupe de recherche sur la Voie lactée, l'archéologie galactique et les populations stellaires.
 - *[ENGCOMP](fr/research/journal-clubs/engcomp)* * - club de revue de génie informatique.
 
  Chacune de ces pages met en place la propre liste des éléments de la matière première des notes dans le dossier, via [Bases des Obsidiens](https://help.obsidian.md/bases)- il n'y a pas de liste manuscrite à tenir.

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: ENGCOMP
+title: "ENGCOMP"
 created: 2026-07-26
 modified: 2026-08-01
 published: 2026-08-01T20:04:04.327-03:00
@@ -109,8 +109,8 @@ published: 2026-08-01T20:04:04.327-03:00
 
 - [Sujets et où regarder](fr/research/journal-clubs/engcomp/topicos)- les catégories de l'arXiv que le club accompagne.
 - [Tableau de bord du club](fr/research/journal-clubs/engcomp/dashboard)- activité par mois, sujet et présentateur.
-- [Clubs de Journal - aperçu](pt-br/research/journal-clubs)
-- [MWBR](pt-br/research/journal-clubs/mwbr)
+- [Clubs de Journal - aperçu](fr/research/journal-clubs)
+- [MWBR](fr/research/journal-clubs/mwbr)
 - [Recherche - aperçu](fr/research)
 
 > [!abstract] Avis de traduction automatique

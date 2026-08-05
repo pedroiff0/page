@@ -328,6 +328,20 @@ def split_frontmatter(md: str):
     return "", md
 
 
+def get_frontmatter_field(fm: str, key: str):
+    m = re.search(rf"(?m)^{key}:\s*(.*)$", fm)
+    return m.group(1).strip() if m else None
+
+
+def set_frontmatter_field(fm: str, key: str, value: str):
+    # coloca entre aspas para garantir YAML valido (titulos com ':' ou '#')
+    safe = value.replace('"', '\\"')
+    new = f'{key}: "{safe}"'
+    if re.search(rf"(?m)^{key}:", fm):
+        return re.sub(rf"(?m)^{key}:.*$", new, fm, count=1)
+    return fm + f"\n{new}\n"
+
+
 def list_target_files(section: str):
     files = []
     base = CONTENT / SRC / section
@@ -375,9 +389,16 @@ def main():
             fm, body = split_frontmatter(md)
             for lang in targets:
                 out_path = CONTENT / lang / rel
-                if out_path.exists() and not args.overwrite:
-                    print(f"  pulado {lang}/{rel} (ja existe; use --overwrite)")
-                    continue
+                if out_path.exists():
+                    if not args.overwrite:
+                        print(f"  pulado {lang}/{rel} (ja existe; use --overwrite)")
+                        continue
+                    # overwrite ligado: sobrescreve, EXCETO manuais en/.md planos
+                    # (anomaly-detection.md, dark-matter-shocks.md,
+                    #  satellite-trail-removal.md) que sao trabalho manual
+                    if lang == "en" and out_path.name != "index.md":
+                        print(f"  pulado {lang}/{rel} (manual en preservado)")
+                        continue
                 # index.md conflita com irmão <dir>.md ja existente (mesmo slug)
                 if out_path.name == "index.md":
                     sibling = out_path.parent.with_suffix(".md")
@@ -386,8 +407,17 @@ def main():
                         continue
                 if args.apply:
                     translated = translate_body(body, lang)
+                    # traduz metadados exibidos (title/description) por idioma,
+                    # mantendo slug/URL intacto (so a exibicao muda)
+                    out_fm = fm
+                    if lang != SRC:
+                        for field in ("title", "description"):
+                            val = get_frontmatter_field(fm, field)
+                            if val:
+                                tr = translate_line(val, lang).strip()
+                                out_fm = set_frontmatter_field(out_fm, field, tr)
                     out_path.parent.mkdir(parents=True, exist_ok=True)
-                    out_path.write_text(f"---\n{fm}\n---\n{translated}", encoding="utf-8")
+                    out_path.write_text(f"---\n{out_fm}\n---\n{translated}", encoding="utf-8")
                     print(f"  gravado {lang}/{rel}")
                 else:
                     sample = "\n".join(l for l in body.splitlines() if l.strip())[:240]

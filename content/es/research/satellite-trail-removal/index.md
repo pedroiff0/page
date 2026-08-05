@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Simulando o Impacto de Satélites em Observações Astronômicas
+title: "Simulando el Impacto de Satélites en Observaciones Astronómicas"
 created: 2024-03-06
 modified: 2026-07-26T10:19:39.079-03:00
 published: 2026-07-26T10:19:39.079-03:00

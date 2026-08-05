@@ -1,6 +1,6 @@
 ---
 publish: true
-title: MWBR
+title: "MWBR"
 created: 2026-07-26
 modified: 2026-07-31
 published: 2026-08-01T20:04:12.171-03:00

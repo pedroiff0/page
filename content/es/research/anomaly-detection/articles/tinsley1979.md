@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Tempos de Vida Estelares e Razões de Abundância
+title: "Tiempos de vida Estelares y Razones de Abundancia"
 created: 2026-07-18
 modified: 2026-07-25T23:58:08.061-03:00
 published: 2026-07-25T23:58:08.061-03:00

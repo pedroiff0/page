@@ -1,6 +1,6 @@
 ---
 publish: false
-title: GALAH — Classificação via t-SNE
+title: "GALAH — Clasificación vía t-SNE"
 created: 2026-07-18
 modified: 2026-07-25T23:58:08.061-03:00
 published: 2026-07-25T23:58:08.061-03:00

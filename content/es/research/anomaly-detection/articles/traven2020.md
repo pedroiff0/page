@@ -1,6 +1,6 @@
 ---
 publish: false
-title: GALAH — Binárias FGK
+title: "GALAH — Binaria FGK"
 created: 2026-07-18
 modified: 2026-07-25T23:58:08.061-03:00
 published: 2026-07-25T23:58:08.061-03:00

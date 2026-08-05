@@ -1,6 +1,6 @@
 ---
 publish: true
-title: MOSTRATEC 2023
+title: "MOSTRATEC 2023"
 created: 2023-10-23
 modified: 2026-07-26T10:13:26.021-03:00
 published: 2026-07-26T10:13:26.021-03:00

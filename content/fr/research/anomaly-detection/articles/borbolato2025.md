@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Coformação dos Discos Fino/Espesso (z>2)
+title: "Coformation de disques fins/épais (z > 2)"
 created: 2026-07-18
 modified: 2026-07-25T23:58:08.061-03:00
 published: 2026-07-25T23:58:08.061-03:00

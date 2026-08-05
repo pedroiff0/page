@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Journal Clubs
+title: "Journal Clubs"
 created: 2026-07-26
 modified: 2026-07-26
 published: 2026-08-01T16:28:51.169-03:00
@@ -13,7 +13,7 @@ published: 2026-08-01T16:28:51.169-03:00
 
 ## Groups
 
-- **[MWBR](pt-br/research/journal-clubs/mwbr)** — Milky Way research group, galactic archaeology and stellar populations.
+- **[MWBR](en/research/journal-clubs/mwbr)** — Milky Way research group, galactic archaeology and stellar populations.
 - **[ENGCOMP](en/research/journal-clubs/engcomp)** — Computer Engineering journal club.
 
  Each of these pages mounts its own list of articles from the frontmatter of the notes in the folder, via [Obsidian Bases](https://help.obsidian.md/bases)— there is no handwritten list to keep up to date.

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: CONFICT - 2026
+title: "CONFIT − 2026"
 created: 2026-07-18T13:50:21.240-03:00
 modified: 2026-07-31T22:59:58.715-03:00
 published: 2026-07-31T22:59:58.715-03:00

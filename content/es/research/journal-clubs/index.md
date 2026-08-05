@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Journal Clubs
+title: "Journal Clubs"
 created: 2026-07-26
 modified: 2026-07-26
 published: 2026-08-01T16:28:51.169-03:00
@@ -13,7 +13,7 @@ published: 2026-08-01T16:28:51.169-03:00
 
 ## Grupos
 
-- **[MWBR](pt-br/research/journal-clubs/mwbr)** — grupo de investigación en Vía Láctea, arqueología galáctica y poblaciones estelares.
+- **[MWBR](es/research/journal-clubs/mwbr)** — grupo de investigación en Vía Láctea, arqueología galáctica y poblaciones estelares.
 - **[ENGCOMP](es/research/journal-clubs/engcomp)** — journal club de Ingeniería de Computación.
 
  Cada una de estas páginas monta la propia lista de artículos desde el frontmatter de las notas de la carpeta, vía [Bases del Obsidian](https://help.obsidian.md/bases)— no hay lista escrita a mano para mantener en día.

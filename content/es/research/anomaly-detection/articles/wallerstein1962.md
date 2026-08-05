@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Abundâncias em Anãs G VI
+title: "Abundancias en Anãs G VI"
 created: 2026-07-18
 modified: 2026-07-25T23:58:08.057-03:00
 published: 2026-07-25T23:58:08.057-03:00

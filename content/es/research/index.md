@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Pesquisa
+title: "Investigación"
 created: 2026-07-18T14:50:18.101-03:00
 modified: 2026-07-26T10:31:15.908-03:00
 published: 2026-07-26T10:31:15.908-03:00
@@ -53,12 +53,12 @@ order: 1
 
 - [Detección de Anomalías en Datos de Gaia](es/research/anomaly-detection)— Construyendo un pipeline de aprendizaje de máquina para encontrar objetos estelares anómalos en Gaia y en levantamientos complementarios.
 - [Entendiendo la materia Escura a partir de Choques Extragalácticos](es/research/dark-matter-shocks)— Testando la precisión de un método de Monte Carlo para datar colisiones de cúmulos de galaxias, como proxy indirecto para el comportamiento de la materia oscura.
-- [Simulando el Impacto de Satélites en Observaciones Astronómicas (en español)](en/research/satellite-trail-removal)— Un algoritmo de IA para eliminar rastros de satélites artificiales de imágenes astronómicas, recuperando el 99,7% de la información perdida.
-- [ReLaTeX: Clase LaTeX para Trabajos Académicos de IFF](pt-br/research/relatex)— La clase `ifftese.cls` y el paquete `macros.sty`, automatización el cumplimiento de las normas ABNT en trabajos académicos del IFF.
+- [Simulando el Impacto de Satélites en Observaciones Astronómicas](es/research/satellite-trail-removal)— Un algoritmo de IA para eliminar rastros de satélites artificiales de imágenes astronómicas, recuperando el 99,7% de la información perdida.
+- [ReLaTeX: Clase LaTeX para Trabajos Académicos de IFF](es/research/relatex)— La clase `ifftese.cls` y el paquete `macros.sty`, automatización el cumplimiento de las normas ABNT en trabajos académicos del IFF.
 
 ## Lecturas
 
-- [Journal Clubs](pt-br/research/journal-clubs)— Lista curada de artículos discutidos en grupo (MWBR y ENGCOMP), con la discusión de cada uno.
+- [Journal Clubs](es/research/journal-clubs)— Lista curada de artículos discutidos en grupo (MWBR y ENGCOMP), con la discusión de cada uno.
 - **[Motivos de evolución química de la Galaxia](assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)** (W. Maciel, IAG/USP) — libro de referencia de mi área, distribuido gratuitamente por el autor.
 
 > [!abstract] Aviso de traducción automática

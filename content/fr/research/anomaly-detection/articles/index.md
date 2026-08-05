@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Artigos
+title: "Articles"
 created: 2026-07-23
 modified: 2026-07-25T23:58:08.061-03:00
 published: 2026-07-25T23:58:08.061-03:00

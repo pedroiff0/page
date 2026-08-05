@@ -1,6 +1,6 @@
 ---
 publish: true
-title: 4ª SCEG 2024
+title: "4a SCEG 2024"
 created: 2024-10-22
 modified: 2026-07-26T10:13:34.504-03:00
 published: 2026-07-26T10:13:34.504-03:00

@@ -1,6 +1,6 @@
 ---
 publish: false
-title: GALAH — Estrelas Extremamente Pobres em Metais
+title: "GALAH — Estrellas Extremamente Pobres en Metais"
 created: 2026-07-18
 modified: 2026-07-25T23:58:08.057-03:00
 published: 2026-07-25T23:58:08.057-03:00

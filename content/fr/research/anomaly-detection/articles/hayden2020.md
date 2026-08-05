@@ -1,6 +1,6 @@
 ---
 publish: false
-title: GALAH — Quimiodinâmica da Vizinhança Solar
+title: "GALAH - Chimiodynamique du quartier solaire"
 created: 2026-07-18
 modified: 2026-07-25T23:58:08.057-03:00
 published: 2026-07-25T23:58:08.057-03:00

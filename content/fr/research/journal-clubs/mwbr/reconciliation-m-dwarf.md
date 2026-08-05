@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Reconciliation of M Dwarf and FGK Stellar Abundances with Galactic Chemical Evolution"
+title: "\"Réconciliation de M Dwarf et FGK Stellar Abondances avec l'évolution chimique galactique\""
 authors: "Trueman, T. C. L., Wang, H. S., Mojzsis, S. J., Turrini, D., Heng, K., Pignatari, M."
 apresentador: "TBD"
 year: 2026

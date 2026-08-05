@@ -1,6 +1,6 @@
 ---
 publish: false
-title: LAMOST DR5 — Abundâncias de 16 Elementos
+title: "LAMOST DR5 - Abondances de 16 éléments"
 created: 2026-07-18
 modified: 2026-07-25T23:58:08.057-03:00
 published: 2026-07-25T23:58:08.057-03:00

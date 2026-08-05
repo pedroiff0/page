@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Entendendo a Matéria Escura a partir de Choques Extragalácticos
+title: "Entendiendo la materia Escura a partir de Choques Extragalácticos"
 created: 2023-03-01
 modified: 2026-07-26T10:19:47.462-03:00
 published: 2026-07-26T10:19:47.462-03:00
@@ -71,7 +71,7 @@ tags:
 - Clowe, D. et al. — Aglomerado de Bala, evidencia clásica de separación espacial entre materia oscura y gas.
 - [MOSTRATEC 2023](es/media/2023/mostratec-2023)— cobertura de la presentación de este proyecto
 - [Detección de Anomalías en Datos de Gaia](es/research/anomaly-detection)— otro proyecto de investigación en Astronomía, también orientado por dinámica/cinemática de sistemas gravitacionales
-- [Simulando el Impacto de Satélites en Observaciones Astronómicas (en español)](en/research/satellite-trail-removal)— proyecto siguiente, también con enfoque computacional aplicado a datos astronómicos
+- [Simulando el Impacto de Satélites en Observaciones Astronómicas](es/research/satellite-trail-removal)— proyecto siguiente, también con enfoque computacional aplicado a datos astronómicos
 - [Curso ON — Clase 05](pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf)— otro contexto de masa no-luminosa/materia oscura en la Galaxia
 
 > [!abstract] Aviso de traducción automática

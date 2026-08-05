@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF"
+title: "\"ReLaTeX: LaTeX Class for IFF Academic Work\""
 created: 2026-06-18
 modified: 2026-07-31T23:45:03.282-03:00
 published: 2026-07-31T23:45:03.282-03:00

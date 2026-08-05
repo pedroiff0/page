@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Tópicos e onde procurar
+title: "Sujets et où regarder"
 created: 2026-08-01
 modified: 2026-08-01
 published: 2026-08-01T16:22:00.830-03:00
@@ -63,9 +63,9 @@ tags:
 
 ## 🔗 Références et corrections
 
-- [ENGCOMP - articles déjà discutés](pt-br/research/journal-clubs/engcomp)
+- [ENGCOMP - articles déjà discutés](fr/research/journal-clubs/engcomp)
 - [Tableau de bord du club](fr/research/journal-clubs/engcomp/dashboard)
-- [Clubs de Journal - aperçu](pt-br/research/journal-clubs)
+- [Clubs de Journal - aperçu](fr/research/journal-clubs)
 - [Taxonomie complète des catégories arXiv](https://arxiv.org/category_taxonomy)- la liste officielle, si vous voulez proposer un nouvel axe.
 
 > [!abstract] Avis de traduction automatique

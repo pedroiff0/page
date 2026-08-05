@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "2025"
+title: "\"2025\""
 created: 2026-07-23
 modified: 2026-07-26T12:36:37.267-03:00
 published: 2026-07-26T12:36:37.267-03:00

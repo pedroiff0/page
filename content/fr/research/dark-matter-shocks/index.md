@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Entendendo a Matéria Escura a partir de Choques Extragalácticos
+title: "Comprendre la matière noire des chocs extragalactiques"
 created: 2023-03-01
 modified: 2026-07-26T10:19:47.462-03:00
 published: 2026-07-26T10:19:47.462-03:00
@@ -71,7 +71,7 @@ tags:
 - Clowe, D. et al. - Bala cluster, preuve classique de la séparation spatiale entre la matière noire et le gaz.
 - [MOSTRATEC 2023](fr/media/2023/mostratec-2023)- couverture de la présentation de ce projet
 - [Détection d'anomalies dans les données de Gaia](fr/research/anomaly-detection)- un autre projet de recherche en astronomie, également orienté par la dynamique / cinématique des systèmes gravitationnels
-- [Simulation de l'impact des satellites sur les observations astronomiques (en français)](en/research/satellite-trail-removal)- prochain projet, également avec une approche computationnelle appliquée aux données astronomiques
+- [Simulation de l'impact des satellites sur les observations astronomiques](fr/research/satellite-trail-removal)- prochain projet, également avec une approche computationnelle appliquée aux données astronomiques
 - [Cours ON - Classe 05](pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf)- un autre contexte de masse non-claire / matière noire dans la galaxie
 
 > [!abstract] Avis de traduction automatique

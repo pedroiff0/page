@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Prompt as a Data Type: In-Database LLM Prompt Management and Rewriting"
+title: "\"Prompt en tant que type de données: Gestion et réécriture de LLM dans la base de données\""
 authors: "Martins, D. M. L. & Vossen, G."
 apresentador: "TBD"
 year: 2026

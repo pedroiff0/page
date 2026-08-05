@@ -1,6 +1,6 @@
 ---
 publish: true
-title: e-JINIFF 2024
+title: "e-JINIFF 2024"
 created: 2024-08-23
 modified: 2026-07-26T10:13:37.621-03:00
 published: 2026-07-26T10:13:37.621-03:00

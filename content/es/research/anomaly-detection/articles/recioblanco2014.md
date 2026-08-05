@@ -1,6 +1,6 @@
 ---
 publish: false
-title: Gaia-ESO — Transição Disco Fino/Espesso
+title: "Gaia-ESO — Transición Disco Fino/Espesso"
 created: 2026-07-18
 modified: 2026-07-25T23:58:08.057-03:00
 published: 2026-07-25T23:58:08.057-03:00

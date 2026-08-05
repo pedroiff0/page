@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Tópicos e onde procurar
+title: "Temas y dónde buscar"
 created: 2026-08-01
 modified: 2026-08-01
 published: 2026-08-01T16:22:00.830-03:00
@@ -63,9 +63,9 @@ tags:
 
 ## 🔗 Referencias y correcciones
 
-- [ENGCOMP — artículos ya discutidos](pt-br/research/journal-clubs/engcomp)
+- [ENGCOMP — artículos ya discutidos](es/research/journal-clubs/engcomp)
 - [Dashboard del club](es/research/journal-clubs/engcomp/dashboard)
-- [Journal Clubs — visión general](pt-br/research/journal-clubs)
+- [Journal Clubs — visión general](es/research/journal-clubs)
 - [Taxonomía completa de categorías de arXiv](https://arxiv.org/category_taxonomy)— la lista oficial, si quiere proponer un eje nuevo.
 
 > [!abstract] Aviso de traducción automática

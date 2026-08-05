@@ -1,6 +1,6 @@
 ---
 publish: true
-title: MCTIA 2025
+title: "MCTIA 2025"
 created: 2025-12-01
 modified: 2026-07-26T10:13:50.721-03:00
 published: 2026-07-26T10:13:50.721-03:00
