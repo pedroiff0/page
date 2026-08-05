@@ -28,7 +28,7 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
 // O Quartz injeta afterDOMLoaded como um <script> real (executa no cliente).
 // Strings de UI por idioma, detectadas da URL.
 NotFound.afterDOMLoaded = `
-(function(){
+function fill404() {
   var root = document.querySelector(".notfound");
   if (!root) return;
 
@@ -72,7 +72,7 @@ NotFound.afterDOMLoaded = `
   };
 
   function detectLang() {
-    var p = window.location.pathname.replace(/^\\//, "");
+    var p = window.location.pathname.replace(/^\//, "");
     var langs = ["pt-br", "en", "es", "fr"];
     var hit = langs.find(function(l){ return p === l || p.indexOf(l + "/") === 0; });
     return hit === "pt-br" ? "pt" : (hit || "pt");
@@ -104,7 +104,7 @@ NotFound.afterDOMLoaded = `
   var w = window;
   if (typeof w.fetchData !== "undefined") {
     w.fetchData.then(function(index){
-      var rest = slug.replace(/^(pt-br|en|es|fr)\\/?/, "");
+      var rest = slug.replace(/^(pt-br|en|es|fr)\/?/, "");
       var ptTarget = (basePath.length > 1 ? basePath : "") + "/pt-br/" + rest;
       var exists = index[ptTarget.toLowerCase()] != null || index[("pt-br/" + rest).toLowerCase()] != null;
       if (exists) {
@@ -115,7 +115,11 @@ NotFound.afterDOMLoaded = `
       }
     });
   }
-})();
+}
+
+// roda no carregamento da pagina E em navegacao SPA (evento 'nav' do Quartz)
+fill404();
+document.addEventListener("nav", fill404);
 `
 
 export default (() => NotFound) satisfies QuartzComponentConstructor
