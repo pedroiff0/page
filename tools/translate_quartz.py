@@ -380,10 +380,27 @@ def translate_line(line: str, target: str) -> str:
     return sanitize(translate_text_preserving_wiki(line, target))
 
 
+def translate_carousel(html: str, target: str) -> str:
+    """Traduz so o TEXTO interno de um bloco de carrossel (slide-caption e
+    alt), preservando href/src/class literais. Assim o carrossel 'acompanha'
+    o idioma da pagina sem quebrar as tags/URLs."""
+    # slide-caption: <div class="slide-caption">TEXTO</div>
+    def _cap(m):
+        txt = m.group(1)
+        return f'<div class="slide-caption">{translate_line(txt, target).strip()}</div>'
+    html = re.sub(r'<div class="slide-caption">(.*?)</div>', _cap, html, flags=re.S)
+    # alt="TEXTO"
+    def _alt(m):
+        txt = m.group(1)
+        return f'alt="{translate_line(txt, target).strip()}"'
+    html = re.sub(r'alt="(.*?)"', _alt, html)
+    return html
+
+
 def translate_body(body: str, target: str) -> str:
-    # Extrai BLOCOS HTML de nivel 0 (carrossel etc.) ANTES de traduzir,
-    # preservando-os literais (o LT corrompe tags/URLs dentro de HTML).
-    # So traduzimos as partes entre eles, linha a linha.
+    # Extrai BLOCOS HTML de nivel 0 (carrossel etc.) ANTES de traduzir.
+    # Traduzimos as partes entre eles linha a linha, e o TEXTO interno dos
+    # blocos (slide-caption/alt) por idioma — preservando href/src/class.
     blocks = find_balanced_html(body)
     if blocks:
         parts, last = [], 0
@@ -391,7 +408,7 @@ def translate_body(body: str, target: str) -> str:
             before = body[last:s]
             if before:
                 parts.append("\n".join(translate_line(l, target) for l in before.split("\n")))
-            parts.append(body[s:e])  # literal
+            parts.append(translate_carousel(body[s:e], target))  # caption/alt traduzidos
             last = e
         if last < len(body):
             after = body[last:]

@@ -18,7 +18,7 @@ tags:
 
 <div class="media-carousel">
   <a href="/pt-br/research/dark-matter-shocks" class="carousel-slide">
-    <img src="/assets/illustrations/cosmologia.svg" alt="Choques de aglomerados de galáxias" />
+    <img src="/assets/illustrations/cosmologia.svg" alt="Choques de cúmulos de galaxias" />
     <div class="slide-caption">Choques de Aglomerados</div>
   </a>
 </div>

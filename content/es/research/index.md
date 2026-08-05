@@ -13,19 +13,19 @@ order: 1
 
 <div class="media-carousel">
   <a href="/pt-br/research/anomaly-detection" class="carousel-slide">
-    <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Detecção de Anomalias em Dados do Gaia" />
-    <div class="slide-caption">Detecção de Anomalias em Dados do Gaia</div>
+    <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Detección de Anomalías en Datos de Gaia" />
+    <div class="slide-caption">Detección de Anomalías en Datos de Gaia</div>
   </a>
   <a href="/pt-br/research/dark-matter-shocks" class="carousel-slide">
-    <img src="/assets/illustrations/cosmologia.svg" alt="Entendendo a Matéria Escura a partir de Choques Extragalácticos" />
-    <div class="slide-caption">Matéria Escura e Choques Extragalácticos</div>
+    <img src="/assets/illustrations/cosmologia.svg" alt="Entendiendo la materia Escura a partir de Choques Extragalácticos" />
+    <div class="slide-caption">Materia Escura y Choques Extragalácticos</div>
   </a>
   <a href="/pt-br/research/satellite-trail-removal" class="carousel-slide">
-    <img src="/assets/illustrations/informatica.svg" alt="Simulando o Impacto de Satélites em Observações Astronômicas" />
-    <div class="slide-caption">Impacto de Satélites em Observações</div>
+    <img src="/assets/illustrations/informatica.svg" alt="Simulando el Impacto de Satélites en Observaciones Astronómicas" />
+    <div class="slide-caption">Impacto de Satélites en Observaciones</div>
   </a>
   <a href="/pt-br/research/relatex" class="carousel-slide">
-    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF" />
+    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX: Clase LaTeX para Trabajos Académicos de IFF" />
     <div class="slide-caption">ReLaTeX (Classe LaTeX)</div>
   </a>
   <a href="/pt-br/research/journal-clubs" class="carousel-slide">

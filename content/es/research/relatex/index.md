@@ -19,7 +19,7 @@ tags:
 <div class="media-carousel">
   <a href="/pt-br/research/relatex" class="carousel-slide">
     <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX" />
-    <div class="slide-caption">Classe LaTeX ifftese.cls</div>
+    <div class="slide-caption">Clase LaTeX ifftese. cls</div>
   </a>
 </div>
 

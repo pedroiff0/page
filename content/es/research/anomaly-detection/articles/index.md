@@ -13,8 +13,8 @@ order: 1
 
 <div class="media-carousel">
   <a href="/pt-br/research/anomaly-detection/articles/collaboration2016" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="A Missão Gaia" />
-    <div class="slide-caption">A Missão Gaia</div>
+    <img src="/assets/illustrations/articles.svg" alt="La Misión Gaia" />
+    <div class="slide-caption">La Misión Gaia</div>
   </a>
   <a href="/pt-br/research/anomaly-detection/articles/buder2025" class="carousel-slide">
     <img src="/assets/illustrations/articles.svg" alt="GALAH DR4" />
@@ -29,8 +29,8 @@ order: 1
     <div class="slide-caption">GCNS × GALAH DR4</div>
   </a>
   <a href="/pt-br/research/anomaly-detection/articles/traven2017" class="carousel-slide">
-    <img src="/assets/illustrations/articles.svg" alt="GALAH — Classificação via t-SNE" />
-    <div class="slide-caption">GALAH — Classificação via t-SNE</div>
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Clasificación vía t-SNE" />
+    <div class="slide-caption">GALAH — Clasificación vía t-SNE</div>
   </a>
   <a href="/pt-br/research/anomaly-detection/articles/lochner2021" class="carousel-slide">
     <img src="/assets/illustrations/articles.svg" alt="ASTRONOMALY" />

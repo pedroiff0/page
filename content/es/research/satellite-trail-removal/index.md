@@ -19,8 +19,8 @@ tags:
 
 <div class="media-carousel">
   <a href="/pt-br/research/satellite-trail-removal" class="carousel-slide">
-    <img src="/assets/illustrations/informatica.svg" alt="Remoção de rastros de satélite em imagens astronômicas" />
-    <div class="slide-caption">Poluição Luminosa por Satélites</div>
+    <img src="/assets/illustrations/informatica.svg" alt="Eliminación de rastros de satélite en imágenes astronómicas" />
+    <div class="slide-caption">Contaminación Luminosa por Satélites</div>
   </a>
 </div>
 
