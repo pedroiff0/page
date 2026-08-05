@@ -1,4 +1,3 @@
-import { i18n } from "../../i18n"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
 const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
@@ -51,7 +50,11 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
         class="notfound-gif"
         src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif"
         alt="404"
-        onError={`this.style.display='none'; var e=document.getElementById('nf-emoji'); if(e) e.style.display='block';`}
+        onError={(e) => {
+          e.currentTarget.style.display = "none"
+          const em = document.getElementById("nf-emoji")
+          if (em) em.style.display = "block"
+        }}
       />
       <div id="nf-emoji" class="notfound-emoji" style="display:none">👻</div>
       <h1 id="nf-title" data-default="404">404</h1>
