@@ -26,11 +26,11 @@ tags:
 
 Galaxy clusters are the largest gravitationally-bound structures in the Universe — and when two of them collide, the event is among the most energetic known. During a collision, a cluster's three components (galaxies, intracluster gas, and dark matter) behave very differently: galaxies, made of ordinary matter but very sparse relative to each other, pass through each other with barely any interaction; gas, also ordinary matter, collides and is slowed by friction; and dark matter appears to follow the galaxies, but not exactly — indirect evidence that it interacts little (or not at all) through channels beyond gravity. The most famous example is the **Bullet Cluster**, whose gravitational-lensing maps show exactly this spatial separation between the three components.
 
-Since dark matter can't be observed directly, nor can a cluster collision be repeated in a lab, the strategy is indirect: compare **dynamical simulations** against **statistical estimation methods** for observational parameters (relative masses, redshift, projected separation), and check whether they agree.
+Since dark matter can't be observed directly, nor can a cluster collision be repeated in a lab, the strategy is indirect: compare **dynamical simulations**against**statistical estimation methods** for observational parameters (relative masses, redshift, projected separation), and check whether they agree.
 
 ## 🎯 Objective
 
-Assess the **accuracy** of **Dawson's (2013)** code — which uses a Monte Carlo method to estimate the elapsed time since a pair of clusters first collided, based on relatively simple-to-obtain observational parameters — by comparing its results against the known "ground truth" of ZuHone et al.'s (2018) high-resolution dynamical simulations.
+Assess the **accuracy**of**Dawson's (2013)** code — which uses a Monte Carlo method to estimate the elapsed time since a pair of clusters first collided, based on relatively simple-to-obtain observational parameters — by comparing its results against the known "ground truth" of ZuHone et al.'s (2018) high-resolution dynamical simulations.
 
 ## 🔧 Methodology
 
@@ -62,7 +62,7 @@ Dawson's (2013) method proved **reliable within uncertainties** for estimating t
 
 ## 🏆 Presentations and awards
 
-This project was presented at **FEBRACE 2023** and **MOSTRATEC 2023** (Novo Hamburgo, Brazil) — see the [MOSTRATEC coverage](pt-br/media/2023/mostratec-2023) (Portuguese only).
+This project was presented at **FEBRACE 2023**and**MOSTRATEC 2023** (Novo Hamburgo, Brazil) — see the [MOSTRATEC coverage](pt-br/media/2023/mostratec-2023) (Portuguese only).
 
 ## 🔗 References and related
 

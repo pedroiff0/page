@@ -17,7 +17,7 @@ type: blog
 
  Page dédiée à la phase institutionnelle de l'e- JINIFF 2024 (Jogues Électroniques du Réseau Fédéral) * *, organisée par le Campus Cape Frio avec la participation de plusieurs unités IFF, en août 2024.
 
- J'étais organisateur de l'équipe de campus Bom Jesus do Itabapoana, qui a participé à cinq façons de sports électroniques (en plus d'un tournoi d'échecs). Nous avons obtenu la * * 1ère place à Valorant * *, avec Marcus Vinicius (Cours technique en informatique), et la * * 3ème place à Free Fire * *. Nous avons également participé à la Ligue des Légendes, bien qu'aucune victoire. L'idée est maintenant d'élargir les sports électroniques sur le campus avec des projets d'entraînement et un tournoi de son propre à la semaine de l'informatique.
+ J'étais organisateur de l'équipe de campus Bom Jesus do Itabapoana, qui a participé à cinq façons de sports électroniques (en plus d'un tournoi d'échecs). Nous avons obtenu la **1ère place à Valorant**, avec Marcus Vinicius (Cours technique en informatique), et la**3ème place à Free Fire**. Nous avons également participé à la Ligue des Légendes, bien qu'aucune victoire. L'idée est maintenant d'élargir les sports électroniques sur le campus avec des projets d'entraînement et un tournoi de son propre à la semaine de l'informatique.
 
 > [!note] Avis
 > Malgré le chaos des jeux, il était intéressant de voir que la communauté s'intéresse aussi aux jeux vidéo ! Malheureusement, faute de soutien, nous n'avons pas pris la participation avant nous, mais c'était une bonne expérience!

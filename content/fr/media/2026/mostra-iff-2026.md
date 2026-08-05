@@ -15,7 +15,7 @@ type: blog
 
 ## 🗓️ A propos de l'événement
 
- Page dédiée à la participation à * *[Échantillon de connaissances](https://eventos.iff.edu.br/mostradoconhecimento2026) de l'IFM, campus Bom Jesus do Itabapoana * *, à Bom Jesus do Itabapoana - RJ, tenue du 21 au 26 septembre 2026.
+ Page dédiée à la participation à **[Échantillon de connaissances](https://eventos.iff.edu.br/mostradoconhecimento2026) de l'IFM, campus Bom Jesus do Itabapoana* *, à Bom Jesus do Itabapoana - RJ, tenue du 21 au 26 septembre 2026.
 
 ## 👋 Ma participation
 

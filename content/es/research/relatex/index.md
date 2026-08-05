@@ -15,12 +15,14 @@ tags:
 > [!note] Resumen
 > Desarrollo de la clase tipográfica `ifftese. cls` y el paquete de extensión `macros.sty` para LaTeX, con el objetivo de automatizar el cumplimiento de las normas ABNT (NBR 14724, NBR 6027) en trabajos académicos del Instituto Federal Fluminense — reduciendo drásticamente el tiempo gastado formando manualmente capas, tablas, figuras y elementos pre/posituales. A ser presentado en el CONEPE 2026 (Campos Guarus, RJ, 21 al 23 de septiembre), en coautoría con [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja),[Maria Luiza Linhares Dantas](https://www.mlldantas.com) y [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora)
 
- <div class="media-carousel">
- <a href="/pt-br/research/relatex" class="carousel-slide">
- <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX" />
- <div class="slide-caption">Classe LaTeX ifftese. cls
- </a>
- </div>
+
+<div class="media-carousel">
+  <a href="/pt-br/research/relatex" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX" />
+    <div class="slide-caption">Classe LaTeX ifftese.cls</div>
+  </a>
+</div>
+
 
 ## 🌌 El problema
 

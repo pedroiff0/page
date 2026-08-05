@@ -15,7 +15,7 @@ type: blog
 
 ## 🗓️ A propos de l'événement
 
- Page dédiée à la participation à * *[Congrès de recherche et de vulgarisation](https://conepe.guarus.iff.edu.br) IFF *Campus* Guarus * *, à Campos Guarus - RJ, fait du 21 au 23 septembre 2026.
+ Page dédiée à la participation à **[Congrès de recherche et de vulgarisation](https://conepe.guarus.iff.edu.br) IFF*Campus*Guarus* *, à Campos Guarus - RJ, fait du 21 au 23 septembre 2026.
 
 ## 👋 Ma participation
 

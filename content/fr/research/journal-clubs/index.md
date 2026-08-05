@@ -7,9 +7,9 @@ published: 2026-08-01T16:28:51.169-03:00
 ---
 
 > [!note] Résumé
-> Liste des articles déjà discutés dans le journal club, séparés par groupe / zone: * * MWBR * * (groupe de recherche en Voie lactée / archéologie galactique) et * * ENGCOMP * * (Computer Engenharia). Chaque entrée relie l'article à l'arXiv et apporte ma synthèse de la discussion - points soulevés, commentaires et connexions à d'autres œuvres - pas l'article complet.
+> Liste des articles déjà discutés dans le journal club, séparés par groupe / zone: **MWBR**(groupe de recherche en Voie lactée / archéologie galactique) et**ENGCOMP** (Computer Engenharia). Chaque entrée relie l'article à l'arXiv et apporte ma synthèse de la discussion - points soulevés, commentaires et connexions à d'autres œuvres - pas l'article complet.
 
- Contrairement à une simple notation de lecture individuelle, un Club de Journal ici est * * un article qui a traversé la discussion de groupe * * - la note enregistre également ce qui a été discuté, pas seulement le contenu de l'article.
+ Contrairement à une simple notation de lecture individuelle, un Club de Journal ici est **un article qui a traversé la discussion de groupe** - la note enregistre également ce qui a été discuté, pas seulement le contenu de l'article.
 
 ## Groupes
 

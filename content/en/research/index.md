@@ -1,6 +1,6 @@
 ---
 publish: true
-title: "Search"
+title: "Research"
 created: 2026-07-18T14:50:18.101-03:00
 modified: 2026-07-26T10:31:15.908-03:00
 published: 2026-07-26T10:31:15.908-03:00
@@ -10,40 +10,42 @@ order: 1
 > [!note] Summary
 > Galactic archaeology, stellar populations and machine learning applied to astronomical data.
 
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Gaia Data Anomalies Detection" />
- <div class="slide-caption" > Detection of Anomalies in Gaia Data</div>
- </a>
- == sync, corrected by elderman == @elder man
- "Understanding Dark Matter from Extragalactic Shocks" />
- == sync, corrected by elderman == @elder man
- </a>
- == sync, corrected by elderman == @elder man
- <img src="/assets/illustrations/informatica.svg" alt="Simulating Satellite Impact on Astronomical Observations" />
- ==References====External links==
- </a>
- == sync, corrected by elderman == @elder man
- <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX: LaTeX Class for Academic IFF Works" />
- ==References====External links==
- </a>
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- </a>
- </div>
 
- My work is at the intersection between ** computational methods** and ** astrophysical problems**, focusing on galactic archaeology, stellar populations and the Milky Way structure.
+<div class="media-carousel">
+  <a href="/pt-br/research/anomaly-detection" class="carousel-slide">
+    <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Detecção de Anomalias em Dados do Gaia" />
+    <div class="slide-caption">Detecção de Anomalias em Dados do Gaia</div>
+  </a>
+  <a href="/pt-br/research/dark-matter-shocks" class="carousel-slide">
+    <img src="/assets/illustrations/cosmologia.svg" alt="Entendendo a Matéria Escura a partir de Choques Extragalácticos" />
+    <div class="slide-caption">Matéria Escura e Choques Extragalácticos</div>
+  </a>
+  <a href="/pt-br/research/satellite-trail-removal" class="carousel-slide">
+    <img src="/assets/illustrations/informatica.svg" alt="Simulando o Impacto de Satélites em Observações Astronômicas" />
+    <div class="slide-caption">Impacto de Satélites em Observações</div>
+  </a>
+  <a href="/pt-br/research/relatex" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF" />
+    <div class="slide-caption">ReLaTeX (Classe LaTeX)</div>
+  </a>
+  <a href="/pt-br/research/journal-clubs" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="Journal Clubs" />
+    <div class="slide-caption">Journal Clubs</div>
+  </a>
+</div>
+
+
+ My work is at the intersection between **computational methods**and** astrophysical problems**, focusing on galactic archaeology, stellar populations and the Milky Way structure.
 
 ## Areas of Interest
 
- ** Astrophysics**
+ **Astrophysics**
 
 - Galactic archaeology and stellar populations
 - Structure and chemical evolution of the Milky Way
 - Analysis of large volumes of astronomical data
 
- ** Computer Science**
+ **Computer Science**
 
 - Scientific computing and data pipelines
 - Machine learning applications in astronomy

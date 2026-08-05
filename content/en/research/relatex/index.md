@@ -15,12 +15,14 @@ tags:
 > [!note] Summary
 > Development of the typographic class `iffthesis. cls` and the 'macros.sty' extension package for LaTeX, with the aim of automating compliance with ABNT standards (NBR 14724, NBR 6027) in academic works of the Fluminense Federal Institute — drastically reducing the time spent manually formatting covers, tables, figures and pre/post-textual elements. To be presented at CONEPE 2026 (Campos Guarus, RJ, 21-23 September), in co-authorship with [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja),[Maria Luiza Linhares Dantas](https://www.mlldantas.com) and [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora)
 
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- ==References====External links== cls</div>
- </a>
- </div>
+
+<div class="media-carousel">
+  <a href="/pt-br/research/relatex" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX" />
+    <div class="slide-caption">Classe LaTeX ifftese.cls</div>
+  </a>
+</div>
+
 
 ## 🌌 The Problem
 
@@ -34,7 +36,7 @@ tags:
 
  The project used the classes `abntex2` and `article' as a basis, with the bibliographic package `abntex2cite` (ABNT compatibility), compiled via TeX Live (`pdflatex`/`bibtex`), with TeXPage, CTAN and Overleaf support as online environments. The work was divided into three stages:
 
-1. ** Standards** — mapping of visual and structural constraints of NBR 14724 and NBR 6027, translated into class `iffthesis. cls`.
+1. **Standards** — mapping of visual and structural constraints of NBR 14724 and NBR 6027, translated into class `iffthesis. cls`.
 2. **Auxiliary Commands** — the 'macros.sty' package, created to avoid the primitive syntax of LaTeX and reduce build errors.
 3. **Main archive** —consolidation into a single 'main.tex', with all NBR 14724 environments already filled as ready commands.
 

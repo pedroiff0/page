@@ -15,12 +15,14 @@ tags:
 > [!note] Résumé
 > Développement de la classe typographique' iftese. cls' et le paquet d'extension 'macros.sty' pour LaTeX, dans le but d'automatiser la conformité aux normes ABNT (NBR 14724, NBR 6027) dans les travaux académiques de l'Institut fédéral de la lumière - réduire considérablement le temps passé manuellement à former des couches, des tableaux, des figures et des éléments pré / positionnels. Présentation au CONNEPE 2026 (Campos Guarus, RJ, 21-23 septembre), en co-auteur [Ana Cecília Soja](https://integra.iff.edu.br/p/ana-cecilia-soja),[Maria Luiza Linhares Dantas](https://www.mlldantas.com) et [Ana Mara Figueiredo de Oliveira](https://integra.iff.edu.br/ecossistema/pessoas/ana-mara-de-oliveira-figueiredo/colaboradora)
 
- < div classe = "media-carrousel" >
- < a href = classe "/ pt-br / recherche / rapport" = "carrousel-glide" >
- < img src = "/ actifs / illustrations / toolkit.svg" alt = "ReLaTeX" / >
- < div class = "slide-capture" > Classe LaTeX ifftese. cls
- < /a >
- < / div >
+
+<div class="media-carousel">
+  <a href="/pt-br/research/relatex" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX" />
+    <div class="slide-caption">Classe LaTeX ifftese.cls</div>
+  </a>
+</div>
+
 
 ## 🌌 Le problème
 
@@ -34,18 +36,18 @@ tags:
 
  Le projet a utilisé comme base les classes 'abntex2 'et' article ', avec le paquet bibliographique' abntex2cite '(Compatibilité ABNT), compilé via TeX Live (' pdflatex '/' bibtex '), supporté par TeXPage, CUN et Overleaf comme environnements en ligne. Le travail a été divisé en trois étapes:
 
-1. * Normes * * - cartographie des restrictions visuelles et structurelles du NBR 14724 et du NBR 6027, traduites en classe «ifftese». Oui.
-2. * * Commandes auxiliaires * * - le paquet 'macros.sty', créé pour éviter la syntaxe primitive de LaTeX et réduire les erreurs de compilation.
-3. * Fichier principal * * - consolidation dans un seul 'main.tex', avec tous les environnements NBR 14724 déjà remplis comme commandes prêtes.
+1. *Normes* * - cartographie des restrictions visuelles et structurelles du NBR 14724 et du NBR 6027, traduites en classe «ifftese». Oui.
+2. **Commandes auxiliaires** - le paquet 'macros.sty', créé pour éviter la syntaxe primitive de LaTeX et réduire les erreurs de compilation.
+3. *Fichier principal* * - consolidation dans un seul 'main.tex', avec tous les environnements NBR 14724 déjà remplis comme commandes prêtes.
 
 ## 📊 Résultats
 
  L'architecture suit la structure normative de l'ABNT (éléments prétextuels, textuels et posttextuels), éliminant la nécessité pour l'utilisateur de manipuler directement les paquets graphiques ou le formatage complexe:
 
-- * Variables de contrôle * * ('\ FrenteVerso', '\ corlink', '\ sumarioEscada', '\ numeraoPorSecao', '\ capiff', '\ legendacurta', '\ en-tête') - hors oui / non qui génèrent automatiquement des marges, en-têtes, liens et numérotation correctes.
-- * Eléments prétextuels * * - variables sémantiques ('\ auteur', '\ title', '\ orientalador', '\ local', '\ instituicao', '\ data') flux macros telles que '\ layer 'and'\ contracapa ', qui donnent des pages complètes déjà formatées selon la norme.
-- * Eléments textuels * * - la macro '\ insert' encapsula, en une seule ligne, le dimensionnement, l'alignement, les sous-titres, la source et l'étiquette ('label') pour la référence croisée d'une figure. '\ insert tabela 'and'\ insert frame 'automation la distinction standard de IBGE entre tableaux et tableaux, en envoyant les métadonnées directement aux listes de prétextes.
-- * * Éléments posttextuels * * - les macros propres convertissent la numérotation des appendices / annexes numériques pour l'alphabet sans corrompre la numérotation des chapitres, et uniformisent l'appel des glossaires et des indices rémisifs.
+- *Variables de contrôle* * ('\ FrenteVerso', '\ corlink', '\ sumarioEscada', '\ numeraoPorSecao', '\ capiff', '\ legendacurta', '\ en-tête') - hors oui / non qui génèrent automatiquement des marges, en-têtes, liens et numérotation correctes.
+- *Eléments prétextuels* * - variables sémantiques ('\ auteur', '\ title', '\ orientalador', '\ local', '\ instituicao', '\ data') flux macros telles que '\ layer 'and'\ contracapa ', qui donnent des pages complètes déjà formatées selon la norme.
+- *Eléments textuels* * - la macro '\ insert' encapsula, en une seule ligne, le dimensionnement, l'alignement, les sous-titres, la source et l'étiquette ('label') pour la référence croisée d'une figure. '\ insert tabela 'and'\ insert frame 'automation la distinction standard de IBGE entre tableaux et tableaux, en envoyant les métadonnées directement aux listes de prétextes.
+- **Éléments posttextuels** - les macros propres convertissent la numérotation des appendices / annexes numériques pour l'alphabet sans corrompre la numérotation des chapitres, et uniformisent l'appel des glossaires et des indices rémisifs.
 
 ## 🧾 Conclusion
 
@@ -53,7 +55,7 @@ tags:
 
 ## 🏆 Afficher
 
- Ce projet sera présenté en * * CONNEPE 2026 * * (Congrès d'éducation, de recherche et d'extension du campus de Guarus) du 21 au 23 septembre 2026.
+ Ce projet sera présenté en **CONNEPE 2026** (Congrès d'éducation, de recherche et d'extension du campus de Guarus) du 21 au 23 septembre 2026.
 
 ## 🔗 Références et corrections
 

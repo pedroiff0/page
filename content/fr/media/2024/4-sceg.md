@@ -15,7 +15,7 @@ type: blog
 
 ## 🗓️ A propos de l'événement
 
- * * 4ème Semaine de l'informatique, de l'ingénierie et de la gestion (SCEG) * *, dans IFF Bueno Jesús del Itabapoana, en octobre 2024, dans le cadre de la programmation du XII Knowledge Show.
+ **4ème Semaine de l'informatique, de l'ingénierie et de la gestion (SCEG)**, dans IFF Bueno Jesús del Itabapoana, en octobre 2024, dans le cadre de la programmation du XII Knowledge Show.
 
  J'ai été un organisateur de l'événement, qui a donné la priorité à l'étudiant en mettant l'accent sur les minicatures d'art numérique (ibisPaint X) et la cryptographie, les concours de sports électroniques (Valorant, Counter-Strike, FIFA), un hackathon pour développer un logiciel de surveillance de l'espace de stationnement, et une roue de conversation sur les femmes dans l'ordinateur. Comme on l'a vu à l'époque, la plupart des activités ont été menées par des élèves, et non par des enseignants, pour montrer en pratique les avantages de l'apprentissage par les pairs.
 

@@ -10,32 +10,34 @@ order: 1
 > [!note] Summary
 > Reading notes on 28 scientific articles relevant to the project [Gaia Data Anomalies Detection](en/research/anomaly-detection), organized by theme.
 
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- <div class="slide-caption" >The Gaia Mission</div>
- </a>
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- </a>
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- </a>
- == sync, corrected by elderman == @elder man
- ==References====External links==
- <div class="slide-caption" >GCNS × GALAH DR4</div>
- </a>
- == sync, corrected by elderman == @elder man
- ==References====External links==
- <div class="slide-caption">GALAH — Classification via t-SNE</div>
- </a>
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- == sync, corrected by elderman == @elder man
- </a>
- </div>
+
+<div class="media-carousel">
+  <a href="/pt-br/research/anomaly-detection/articles/collaboration2016" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="A Missão Gaia" />
+    <div class="slide-caption">A Missão Gaia</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/buder2025" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="GALAH DR4" />
+    <div class="slide-caption">GALAH DR4</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/majewski2017" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="APOGEE" />
+    <div class="slide-caption">APOGEE</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/deandrade2025" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="GCNS × GALAH DR4" />
+    <div class="slide-caption">GCNS × GALAH DR4</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/traven2017" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Classificação via t-SNE" />
+    <div class="slide-caption">GALAH — Classificação via t-SNE</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/lochner2021" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="ASTRONOMALY" />
+    <div class="slide-caption">ASTRONOMALY</div>
+  </a>
+</div>
+
 
  Reading notes on scientific articles relevant to my research in detecting anomalies in stellar populations — own syntheses, not complete articles (editors/arXiv copyrights remain with the original authors). Grouped by role in the project: the surveys and data I use, the machine learning methods I apply, the stellar models that calibrate my ages/isochrons, and the context of galactic dynamics/chemistry that interprets the results.
 

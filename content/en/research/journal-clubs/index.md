@@ -7,9 +7,9 @@ published: 2026-08-01T16:28:51.169-03:00
 ---
 
 > [!note] Summary
-> Curated list of articles that I have already discussed in the journal club, separated by group/area: **MWBR** (a research group in Milky Way/galactic archaeology) and **ENGCOMP** (Computer Engineering). Each entry links the article in the arXiv and brings my synthesis of the discussion — raised points, criticisms and connections with other works — not the complete article.
+> Curated list of articles that I have already discussed in the journal club, separated by group/area: **MWBR**(a research group in Milky Way/galactic archaeology) and**ENGCOMP** (Computer Engineering). Each entry links the article in the arXiv and brings my synthesis of the discussion — raised points, criticisms and connections with other works — not the complete article.
 
- Unlike a simple individual reading note, a Journal Club here is ** an article that went through group discussion** — the note also records what was discussed, not only the content of the article.
+ Unlike a simple individual reading note, a Journal Club here is **an article that went through group discussion** — the note also records what was discussed, not only the content of the article.
 
 ## Groups
 

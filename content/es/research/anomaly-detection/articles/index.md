@@ -10,32 +10,34 @@ order: 1
 > [!note] Resumen
 > Anotación de lectura sobre 28 artículos científicos relevantes para el proyecto [Detección de Anomalías en Datos de Gaia](es/research/anomaly-detection), organizadas por tema.
 
- <div class="media-carousel">
- <a href="/pt-br/research/anomaly-detection/articles/collaboration2016" class="carousel-slide">
- <img src="/assets/illustrations/articles.svg" alt="La Misión Gaia" />
- <div class="slide-caption" >La Misión Gaia</div>
- </a>
- <a href="/pt-br/research/anomaly-detection/articles/buder2025" class="carousel-slide">
- <img src="/assets/illustrations/articles.svg" alt="GALAH DR4" />
- <div class="slide-caption">GALAH DR4</div>
- </a>
- <a href="/pt-br/research/anomaly-detection/articles/majewski2017" class="carousel-slide">
- <img src="/assets/illustrations/articles.svg" alt="APOGEE" />
- <div class="slide-caption">APOGEE</div>
- </a>
- <a href="/pt-br/research/anomaly-detection/articles/deandrade2025" class="carousel-slide">
- <img src="/assets/illustrations/articles.svg" alt="GCNS × GALAH DR4" />
- <div class="slide-caption" >GCNS × GALAH DR4</div>
- </a>
- <a href="/pt-br/research/anomaly-detection/articles/traven2017" class="carousel-slide">
- <img src="/assets/illustrations/articles.svg" alt="GALAH — Clasificación vía t-SNE" />
- <div class="slide-caption">GALAH — Clasificación vía t-SNE</div>
- </a>
- <a href="/pt-br/research/anomaly-detection/articles/lochner2021" class="carousel-slide">
- <img src="/assets/illustrations/articles.svg" alt="ASTRONOMALY" />
- <div class="slide-caption">ASTRONOMALY</div>
- </a>
- </div>
+
+<div class="media-carousel">
+  <a href="/pt-br/research/anomaly-detection/articles/collaboration2016" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="A Missão Gaia" />
+    <div class="slide-caption">A Missão Gaia</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/buder2025" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="GALAH DR4" />
+    <div class="slide-caption">GALAH DR4</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/majewski2017" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="APOGEE" />
+    <div class="slide-caption">APOGEE</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/deandrade2025" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="GCNS × GALAH DR4" />
+    <div class="slide-caption">GCNS × GALAH DR4</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/traven2017" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Classificação via t-SNE" />
+    <div class="slide-caption">GALAH — Classificação via t-SNE</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/lochner2021" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="ASTRONOMALY" />
+    <div class="slide-caption">ASTRONOMALY</div>
+  </a>
+</div>
+
 
  Anotación de lectura sobre artículos científicos relevantes para mi investigación en detección de anomalías en poblaciones estelares — síntesis propias, no los artículos completos (derechos de autor de las editoriales/arXiv permanecen con los autores originales). Agrupadas por papel en el proyecto: los levantamientos y datos que uso, los métodos de aprendizaje de máquina que aplico, los modelos estelares que calibran mis edades/isócronas, y el contexto de dinámica/química galáctica que interpreta los resultados.
 

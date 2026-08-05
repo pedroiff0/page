@@ -15,22 +15,24 @@ tags:
 > [!note] Resumen
 > Proyecto de Iniciación Científica Junior (CNPq/PIBIC-EM, Edital 94/2022), orientado por [Prof.a Ana Cecília Soja ](https://integra.iff.edu.br/p/ana-cecilia-soja) en el IFF Bom Jesus do Itabapoana. Testi la exactitud del código de Dawson et al. (2013) —que estima el tiempo transcurrido desde la colisión de dos cúmulos de galaxias vía Monte Carlo— contra las simulaciones dinámicas de ZuHone et al. (2018), como forma indirecta de estudiar el comportamiento de la materia oscura durante colisiones extremas.
 
- <div class="media-carousel">
- <a href="/pt-br/research/dark-matter-shocks" class="carousel-slide">
- <img src="/assets/illustrations/cosmología.svg" alt="Choques de cúmulos de galaxias" />
- <div class="slide-caption">Choques de Aglomerados</div>
- </a>
- </div>
+
+<div class="media-carousel">
+  <a href="/pt-br/research/dark-matter-shocks" class="carousel-slide">
+    <img src="/assets/illustrations/cosmologia.svg" alt="Choques de aglomerados de galáxias" />
+    <div class="slide-caption">Choques de Aglomerados</div>
+  </a>
+</div>
+
 
 ## 🌌 El problema: ¿cómo "ver" la materia oscura?
 
  Aglomerados de galaxias son las mayores estructuras gravitacionalmente ligadas del universo, y, cuando dos de ellos coliden, el evento es uno de los más energéticos conocidos. En una colisión, los tres componentes de un cúmulo (galáxias, gas intraaglomerado y materia oscura) se comportan de formas diferentes: las galaxias, hechas de materia normal pero muy esparsas entre sí, se cruzan casi sin interactuar; el gas, también materia normal, colide y es freado por fricción; y la materia oscura parece acompañar las galaxias, pero no exactamente — evidencia indirecta de que interactúa poco (o nada) por vías más allá de la gravedad. El ejemplo más famoso es el **Aglomerado de Bala**, cuyas mapas de lentes gravitacionales muestran exactamente esa separación espacial entre los tres componentes.
 
- Como no es posible observar directamente la materia oscura, ni repetir una colisión de cúmulos en laboratorio, la estrategia adoptada es indirecta: comparar **simulaciones dinámicas** con **métodos estadísticos de estimación de parámetros observacionales** (masas relativas, redshift, separación proyectada) y verificar si están de acuerdo.
+ Como no es posible observar directamente la materia oscura, ni repetir una colisión de cúmulos en laboratorio, la estrategia adoptada es indirecta: comparar **simulaciones dinámicas**con**métodos estadísticos de estimación de parámetros observacionales** (masas relativas, redshift, separación proyectada) y verificar si están de acuerdo.
 
 ## 🎯 Objetivo
 
- Evaluar la **acurácia** del código de **Dawson (2013)** — que utiliza el método de Monte Carlo para estimar el tiempo transcurrido desde la primera colisión de un par de cúmulos, a partir de parámetros observacionales relativamente simples de obtener — comparando sus resultados con el "gabarito" conocido de las simulaciones dinámicas de alta resolución de **ZuHone et al. (2018)**.
+ Evaluar la **acurácia**del código de**Dawson (2013)**— que utiliza el método de Monte Carlo para estimar el tiempo transcurrido desde la primera colisión de un par de cúmulos, a partir de parámetros observacionales relativamente simples de obtener — comparando sus resultados con el "gabarito" conocido de las simulaciones dinámicas de alta resolución de**ZuHone et al. (2018)**.
 
 ## 🔧 Metodología
 
@@ -62,7 +64,7 @@ tags:
 
 ## 🏆 Presentaciones y premios
 
- Este proyecto fue presentado en la **[FEBRACE 2023](es/media/2023/febrace-2023)** y **[MOSTRATEC 2023](es/media/2023/mostratec-2023)** (Novo Hamburgo, RS).
+ Este proyecto fue presentado en la **[FEBRACE 2023](es/media/2023/febrace-2023)**y**[MOSTRATEC 2023](es/media/2023/mostratec-2023)** (Novo Hamburgo, RS).
 
 ## 🔗 Referencias y correcciones
 

@@ -10,30 +10,32 @@ order: 1
 > [!note] Résumé
 > Archéologie galactique, populations stellaires et apprentissage automatique appliqués aux données astronomiques.
 
- < div classe = "media-carrousel" >
- < a href = classe "/ pt-br / recherche / anomalie / détection" = "carrousel-glide" >
- < img src = "/ actifs / anomalie -détection / spectral-viewer.png" alt = "Détection des anomalies dans les données de Gaia" / >
- < div classe = "capture de glissement" > Détection d'anomalies dans les données de Gaia < / div >
- < /a >
- < a href = classe "/ pt-br/recherche/chocs de matière noire" = "carrousel-glide" >
- < img src = "/ actifs / illustrations / cosmologia.svg" alt = "Comprendre la matière noire des chocs extragalactiques" / >
- < div classe = "capture de glissement" > Matière noire et chocs extragalactiques < / div >
- < /a >
- < a href = classe "/ pt-br/recherche/rail-déplacement" = "glissière-carrousel" >
- < img src = "/ actifs / illustrations / informatica.svg" alt = "Simulant l'impact des satellites sur les observations astronomiques" / >
- < div classe = "capture de glissement" > Impact des satellites sur les commentaires < / div >
- < /a >
- < a href = classe "/ pt-br / recherche / rapport" = "carrousel-glide" >
- < img src = "/ assets / illustrations / toolkit.svg" alt = "ReLaTeX: LaTeX Class for IFF Academic Work" / >
- < div class = "slide-capture" > ReLaTeX (classe LaTeX) < / div >
- < /a >
- < a href = classe "/ pt-br / recherche / journal-clubs" = "carrousel-glide" >
- < img src = "/ actifs / illustrations / articles.svg" alt = "Journal Clubs" / >
- < div class = "slide-capture" > Journal Clubs < / div >
- < /a >
- < / div >
 
- Mon travail est à l'intersection entre * * méthodes informatiques * * et * problèmes astrophysiques * *, avec l'accent sur l'archéologie galactique, les populations stellaires et la structure de la Voie lactée.
+<div class="media-carousel">
+  <a href="/pt-br/research/anomaly-detection" class="carousel-slide">
+    <img src="/assets/anomaly-detection/spectra-viewer.png" alt="Detecção de Anomalias em Dados do Gaia" />
+    <div class="slide-caption">Detecção de Anomalias em Dados do Gaia</div>
+  </a>
+  <a href="/pt-br/research/dark-matter-shocks" class="carousel-slide">
+    <img src="/assets/illustrations/cosmologia.svg" alt="Entendendo a Matéria Escura a partir de Choques Extragalácticos" />
+    <div class="slide-caption">Matéria Escura e Choques Extragalácticos</div>
+  </a>
+  <a href="/pt-br/research/satellite-trail-removal" class="carousel-slide">
+    <img src="/assets/illustrations/informatica.svg" alt="Simulando o Impacto de Satélites em Observações Astronômicas" />
+    <div class="slide-caption">Impacto de Satélites em Observações</div>
+  </a>
+  <a href="/pt-br/research/relatex" class="carousel-slide">
+    <img src="/assets/illustrations/toolkit.svg" alt="ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF" />
+    <div class="slide-caption">ReLaTeX (Classe LaTeX)</div>
+  </a>
+  <a href="/pt-br/research/journal-clubs" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="Journal Clubs" />
+    <div class="slide-caption">Journal Clubs</div>
+  </a>
+</div>
+
+
+ Mon travail est à l'intersection entre **méthodes informatiques** et *problèmes astrophysiques* *, avec l'accent sur l'archéologie galactique, les populations stellaires et la structure de la Voie lactée.
 
 ## Domaines d'intérêt
 
@@ -43,7 +45,7 @@ order: 1
 - Structure et évolution chimique de la Voie lactée
 - Analyse de grands volumes de données astronomiques
 
- * * Informatique * *
+ **Informatique**
 
 - Calcul scientifique et pixels de données
 - Applications d'apprentissage automatique en astronomie

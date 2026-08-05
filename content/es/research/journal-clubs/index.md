@@ -7,7 +7,7 @@ published: 2026-08-01T16:28:51.169-03:00
 ---
 
 > [!note] Resumen
-> Lista curada de los artículos que ya discute en journal club, separada por grupo/área: **MWBR** (grupo de investigación en Vía Láctea/arqueología galáctica) y **ENGCOMP** (Engenharia de Computación). Cada entrada enlaza el artículo en el arXiv y trae mi síntesis de la discusión — puntos levantados, críticas y conexiones con otros trabajos—, no el artículo completo.
+> Lista curada de los artículos que ya discute en journal club, separada por grupo/área: **MWBR**(grupo de investigación en Vía Láctea/arqueología galáctica) y**ENGCOMP** (Engenharia de Computación). Cada entrada enlaza el artículo en el arXiv y trae mi síntesis de la discusión — puntos levantados, críticas y conexiones con otros trabajos—, no el artículo completo.
 
  A diferencia de una simple anotación de lectura individual, un Journal Club aquí es **un artículo que pasó por discusión en grupo** — la nota registra también lo que fue debatido, no sólo el contenido del artículo.
 

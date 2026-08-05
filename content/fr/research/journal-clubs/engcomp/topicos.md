@@ -10,11 +10,13 @@ tags:
 ---
 
 > [!note] Résumé
-> Les axes que le journal club de * * Engenharia de Computación * * accompagne dans l'arXiv, avec un lien direct à la liste des articles les plus récents dans chaque catégorie. C'est d'où viennent les suggestions de lecture pour la semaine.
+> Les axes que le journal club de **Engenharia de Computación** accompagne dans l'arXiv, avec un lien direct à la liste des articles les plus récents dans chaque catégorie. C'est d'où viennent les suggestions de lecture pour la semaine.
 
  Chaque catégorie ci-dessous conduit à la "/ récente 'liste des articles arXiv - soumis dans les derniers jours, toujours mis à jour dans la source. Il n'y a pas de copie de cette liste ici: l'arXiv est la source, et elle change toute journée utile (la semaine ivoire n'a pas de nouvelle soumission).
 
- < a class = "jc-bouton" href = "mailto: engcompbji @ googlegroups.com? objet = Sugest% C3% A3o% 20% Article% 20% E2% 80% 94% 20Journal% 20Club% 20ENGCOMP & corps = T% C3% ADTullo% 3A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% 0A% SE% 29% 3A% 0A% 20worth% 20discuss% 20% 28duas% 20tr% C3% AA% 20lines% 29% 3A% 0A" > ligne un article pour le groupe < / a >
+
+<a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artigo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0ALink%20do%20arXiv%3A%0A%0AT%C3%B3pico%20%28ex.%3A%20cs.SE%29%3A%0A%0APor%20que%20vale%20discutir%20%28duas%20ou%20tr%C3%AAs%20linhas%29%3A%0A">✉️ Sugerir um artigo para o grupo</a>
+
 
 ## 🔒 Sécurité
 
@@ -53,9 +55,9 @@ tags:
 
  Trois critères qui évitent la plupart des problèmes:
 
-1. * Cabine dans une semaine. * * Si vous ne pouvez pas lire et comprendre assez pour expliquer en 20 minutes, c'est un article pour une autre fois. Une préimpression de 60 pages avec 30 annexes fonctionne rarement.
-2. * La méthode est reproductible ou au moins vérifiable. * * article qui décrit ce qu'il a fait d'une manière qu'il donne pour questionner la discussion; article qui annonce seulement le résultat, non.
-3. * Intérêt pour plus d'une personne. * * L'objectif est la conversation après la présentation. Un article hyperspécifique de sa monographie est parfait pour vous et morno pour le groupe.
+1. *Cabine dans une semaine.* * Si vous ne pouvez pas lire et comprendre assez pour expliquer en 20 minutes, c'est un article pour une autre fois. Une préimpression de 60 pages avec 30 annexes fonctionne rarement.
+2. *La méthode est reproductible ou au moins vérifiable.* * article qui décrit ce qu'il a fait d'une manière qu'il donne pour questionner la discussion; article qui annonce seulement le résultat, non.
+3. *Intérêt pour plus d'une personne.* * L'objectif est la conversation après la présentation. Un article hyperspécifique de sa monographie est parfait pour vous et morno pour le groupe.
 
  Ça n'a pas besoin d'être un article de la semaine. Classique de la région, article que vous n'avez pas compris et que vous voulez aider à détrinchar, ou le papier qui incarne votre TCC - d'accord, car il tombe dans les trois critères.
 

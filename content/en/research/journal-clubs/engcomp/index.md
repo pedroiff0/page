@@ -13,11 +13,13 @@ published: 2026-08-01T20:04:04.327-03:00
 
  The whole organization happens in the email group **[engcompbji](https://groups.google.com/g/engcompbji)** — that's where the call comes from each meeting, the article of the week and who presents it.
 
-- ** Enter the group** —[subscribe by email](mailto:engcompbji+subscribe@googlegroups.com)(just send blank message) or [group on Google Groups](https://groups.google.com/g/engcompbji).
-- ** Suggesting an article** — anyone in the group can indicate reading, does not need to be the one to present.
-- ** Present** — 20 minutes are enough. The point is the discussion later, not the class.
+- **Enter the group** —[subscribe by email](mailto:engcompbji+subscribe@googlegroups.com)(just send blank message) or [group on Google Groups](https://groups.google.com/g/engcompbji).
+- **Suggesting an article** — anyone in the group can indicate reading, does not need to be the one to present.
+- **Present** — 20 minutes are enough. The point is the discussion later, not the class.
 
- <a class="jc-button" href="mailto:engcompbji@googleggroups.com?subject=Sugest%C3%A3%20%20by%20article%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulum%3A%0%0ALink%20%20arXiv%3A%0%0AT%C3%C3peak%20%28ex.%3A%20cs.SE%29%3A%0%0A%0A%20val%20discuss%20%28two%20%20%C3%A%20line%29%3A%0A%0A
+
+<a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artigo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0ALink%20do%20arXiv%3A%0A%0AT%C3%B3pico%20%28ex.%3A%20cs.SE%29%3A%0A%0APor%20que%20vale%20discutir%20%28duas%20ou%20tr%C3%AAs%20linhas%29%3A%0A">✉️ Sugerir um artigo para o grupo</a>
+
 
 ## 📚 Articles already discussed
 
@@ -68,40 +70,44 @@ published: 2026-08-01T20:04:04.327-03:00
 
  Text ready to announce the next meeting. Copy, fill in the two gaps and send them to the group.
 
- <div class="jc-digest">
- <pre id="jc-digest-text">People, next meeting of the Computer Engineering Journal Club.
 
-📅 When:
-📄 Article: \[TITLE + ARXIV LINK]
+<div class="jc-digest">
+  <pre id="jc-digest-texto">Pessoal, próximo encontro do Journal Club de Engenharia de Computação.
 
- Anyone who wants to suggest reading for the next few weeks, the topics we follow are here:
- https://www.phrantrade.com/en-br/research/journal-clubs/engcomp/topicos
+📅 Quando: \[DIA E HORA]
+📄 Artigo: \[TÍTULO + LINK DO ARXIV]
 
- The history of what we discussed is:
- https://www.phrantrade.com/en-br/research/journal-clubs/engcomp
+Quem quiser sugerir leitura para as próximas semanas, os tópicos que acompanhamos estão aqui:
+https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/topicos
 
- Until then!</pre> <button type="button" class="jc-button" id="jc-digest-copy">
+O histórico do que já discutimos fica em:
+https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp
 
- </div>
+Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">📋 Copiar texto</button>
 
- <script>
- (function() {
- var btn = document.getElementById("jc-digest-copy");
- var pre = document.getElementById("jc-digest-text");
- if (!btn ;
- btn.addEventListener("click", function() {
- navigator.clipboard.writeText(pre.textContent).then(
- function() {
- btn.textContent = ";
- setTimeout(function() {btn.textContent = ";
- },
- function() {
- btn.textContent = "Didn't -- Copy manually";
- }
- );
- });
- })();
- </script>
+</div>
+
+
+
+<script>
+(function () {
+  var btn = document.getElementById("jc-digest-copiar");
+  var pre = document.getElementById("jc-digest-texto");
+  if (!btn || !pre) return;
+  btn.addEventListener("click", function () {
+    navigator.clipboard.writeText(pre.textContent).then(
+      function () {
+        btn.textContent = "✅ Copiado!";
+        setTimeout(function () { btn.textContent = "📋 Copiar texto"; }, 2000);
+      },
+      function () {
+        btn.textContent = "Não deu — copie manualmente";
+      }
+    );
+  });
+})();
+</script>
+
 
  ---
 

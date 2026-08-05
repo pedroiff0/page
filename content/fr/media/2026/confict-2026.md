@@ -15,7 +15,7 @@ type: blog
 
 ## 🗓️ A propos de l'événement
 
- Page dédiée à la participation à * *[Congrès d'initiation scientifique et technologique](https://www.even3.com.br/confict-conpg-2026/) de l'IFF et de l'UENF * *, à Campos de los Goytacazes - RJ, tenue du 25 au 29 mai 2026.
+ Page dédiée à la participation à **[Congrès d'initiation scientifique et technologique](https://www.even3.com.br/confict-conpg-2026/) de l'IFF et de l'UENF* *, à Campos de los Goytacazes - RJ, tenue du 25 au 29 mai 2026.
 
 ## 👋 Ma participation
 

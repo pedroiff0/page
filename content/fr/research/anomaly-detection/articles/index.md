@@ -10,32 +10,34 @@ order: 1
 > [!note] Résumé
 > Lecture Annotation sur 28 articles scientifiques relatifs au projet [Détection d'anomalies dans les données de Gaia](fr/research/anomaly-detection), par thème.
 
- < div classe = "media-carrousel" >
- < a href = "/ pt-br / recherche / anomalie / détection / articles / collaboration2016" classe = "carrousel-glide" >
- < img src = "/ actifs / illustrations / articles.svg" alt = "La Misión Gaia" / >
- < div class = "slide-capture" > La mission Gaia < / div >
- < /a >
- < a href = "/ pt-br / recherche / anomalie / détection / articles / bouder2025" classe = "carrousel-glide" >
- < img src = "/ actifs / illustrations / articles.svg" alt = "GALAH DR4" / >
- < div classe = "capture de glissement" > GALAH DR4 < / div >
- < /a >
- < a href = "/ pt-br / recherche / anomalie / détection / articles / majewski2017" classe = "carousel-glide" >
- < img src = "/ actifs / illustrations / articles.svg" alt = "APOGEE" / >
- < div classe = "capture de glissement" > APOGEE < / div >
- < /a >
- < a href = "/ pt-br / recherche / anomalie / détection / articles / deandade2025" classe = "carrousel-glide" >
- < img src = "/ actifs / illustrations / articles.svg" alt = "GCNS × GALAH DR4" / >
- < div classe = "capture de glissement" > GCNS × GALAH DR4 < / div >
- < /a >
- < a href = "/ pt-br / recherche / anomalie / détection / articles / traven2017" classe = "carrousel-glide" >
- < img src = "/ actifs / illustrations / articles.svg" alt = "GALAH - Classification via t-SNE" / >
- < div class = "slide-capture" > GALAH - Classement via t-SNE < / div >
- < /a >
- < a href = "/ pt-br / recherche / anomalie / détection / articles / lochner2021" classe = "carrousel-glide" >
- < img src = "/ actifs / illustrations / articles.svg" alt = "ASTRONOMALY" / >
- < div class = "slide-capture" > ASTRONOMALY < / div >
- < /a >
- < / div >
+
+<div class="media-carousel">
+  <a href="/pt-br/research/anomaly-detection/articles/collaboration2016" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="A Missão Gaia" />
+    <div class="slide-caption">A Missão Gaia</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/buder2025" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="GALAH DR4" />
+    <div class="slide-caption">GALAH DR4</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/majewski2017" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="APOGEE" />
+    <div class="slide-caption">APOGEE</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/deandrade2025" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="GCNS × GALAH DR4" />
+    <div class="slide-caption">GCNS × GALAH DR4</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/traven2017" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="GALAH — Classificação via t-SNE" />
+    <div class="slide-caption">GALAH — Classificação via t-SNE</div>
+  </a>
+  <a href="/pt-br/research/anomaly-detection/articles/lochner2021" class="carousel-slide">
+    <img src="/assets/illustrations/articles.svg" alt="ASTRONOMALY" />
+    <div class="slide-caption">ASTRONOMALY</div>
+  </a>
+</div>
+
 
  Lire l'annotation d'articles scientifiques pertinents à ma recherche dans la détection d'anomalies dans les populations stellaires - sa synthèse, pas les articles complets (le droit d'auteur des éditoriaux / arXiv restent avec les auteurs originaux). Groupe par papier dans le projet: les soulèvements et les données que j'utilise, les méthodes d'apprentissage automatique que j'applique, les modèles stellaires qui étalonnent mes âges / isocrates, et le contexte de la chimie dynamique / galactique qui interprète les résultats.
 

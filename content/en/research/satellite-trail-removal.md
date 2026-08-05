@@ -44,8 +44,8 @@ The project was planned in 5 phases: (1) systematic review of the problem and ex
 | Stage | Event | Result |
 |---|---|---|
 | Initial proposal | Junior research grant call, IFF (2023) | Project approved |
-| **FEBIC 2024** (Pomerode, Brazil) | With Maycon Jorge Deláqua da Silva | **3rd place — Undergraduate category**, even with the project still incomplete, competing against already-patented applications — a result that qualified the team for MCTIA 2025 |
-| **MCTIA 2025** (Belém, Brazil) | With Maycon Jorge Deláqua da Silva and Arthur Miguelito Lopes | **1st place — Higher Education Exact Sciences category**, with an AI algorithm capable of **removing satellite trails from astronomical data, recovering 99.7% of the information that would otherwise be lost** — a result that qualified the team for the national Ciência Jovem event (Recife, Brazil, 2026) |
+| **FEBIC 2024**(Pomerode, Brazil) | With Maycon Jorge Deláqua da Silva |**3rd place — Undergraduate category**, even with the project still incomplete, competing against already-patented applications — a result that qualified the team for MCTIA 2025 |
+| **MCTIA 2025**(Belém, Brazil) | With Maycon Jorge Deláqua da Silva and Arthur Miguelito Lopes |**1st place — Higher Education Exact Sciences category**, with an AI algorithm capable of**removing satellite trails from astronomical data, recovering 99.7% of the information that would otherwise be lost** — a result that qualified the team for the national Ciência Jovem event (Recife, Brazil, 2026) |
 
 > [!note] Note on this text
 > This page combines the formal research proposal (submitted to IFF in 2023, with full introduction, rationale, and methodology) with the results publicly announced at the FEBIC 2024 and MCTIA 2025 awards. Technical details of the 99.7%-recovery algorithm haven't been documented on this page yet — to be updated as the work moves toward publication.

@@ -317,6 +317,17 @@ def local_link(url: str, target: str):
     return url, False
 
 
+def fix_bold(text: str) -> str:
+    """Remove espacos grudados pelo MT dentro de bold/italic:
+    '** texto **' -> '**texto**',  '* * x * *' -> '**x**'."""
+    text = re.sub(r"\*\*\s+(.+?)\s+\*\*", r"**\1**", text)   # ** texto **
+    text = re.sub(r"\*\*\s+(.+?)\*\*", r"**\1**", text)      # ** texto**
+    text = re.sub(r"\*\*(.+?)\s+\*\*", r"**\1**", text)      # **texto **
+    text = re.sub(r"\*\s+\*\s+(.+?)\s+\*\s+\*", r"**\1**", text)  # * * x * *
+    text = re.sub(r"(?<!\*)\*\s+(.+?)\s+\*(?!\*)", r"*\1*", text)  # * x *
+    return text
+
+
 def sanitize(line: str) -> str:
     """Corrige espacamentos que o MT gruda:
     - qualquer nao-espaco colado em '['  -> ' ['
@@ -370,7 +381,25 @@ def translate_line(line: str, target: str) -> str:
 
 
 def translate_body(body: str, target: str) -> str:
-    out = "\n".join(translate_line(l, target) for l in body.split("\n"))
+    # Extrai BLOCOS HTML de nivel 0 (carrossel etc.) ANTES de traduzir,
+    # preservando-os literais (o LT corrompe tags/URLs dentro de HTML).
+    # So traduzimos as partes entre eles, linha a linha.
+    blocks = find_balanced_html(body)
+    if blocks:
+        parts, last = [], 0
+        for (s, e) in blocks:
+            before = body[last:s]
+            if before:
+                parts.append("\n".join(translate_line(l, target) for l in before.split("\n")))
+            parts.append(body[s:e])  # literal
+            last = e
+        if last < len(body):
+            after = body[last:]
+            parts.append("\n".join(translate_line(l, target) for l in after.split("\n")))
+        out = "\n".join(parts)
+    else:
+        out = "\n".join(translate_line(l, target) for l in body.split("\n"))
+    out = fix_bold(out)
     # disclaimer de traducao automatica no fim da pagina (no idioma alvo)
     disc = DISCLAIMER.get(target, "")
     if disc:
@@ -474,8 +503,8 @@ def main():
                             if not val:
                                 continue
                             # index.md de secao de 1o nivel: titulo canonico
-                            if field == "title" and rel.parent.name == "content" and rel.name == "index.md":
-                                sec = rel.parent.parent.name  # ex.: 'research'
+                            if field == "title" and rel.name == "index.md":
+                                sec = rel.parent.name  # 'research', 'media', etc.
                                 if sec in SECTION_TITLES and lang in SECTION_TITLES[sec]:
                                     tr = SECTION_TITLES[sec][lang]
                                     out_fm = set_frontmatter_field(out_fm, field, tr)

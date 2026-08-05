@@ -17,7 +17,9 @@ published: 2026-08-01T20:04:04.327-03:00
 - **Sugerir un artículo** — cualquier persona del grupo puede indicar lectura, no necesita ser quien va a presentar.
 - **Mostrar** — 20 minutos bastan. El objetivo es la discusión después, no la clase.
 
- <a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artículo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%3A%0A%0A%20cs.SE%29%3A%0A%20vale%20discutir%20%28duas%20tr%C3%AAs%20líneas %29%3A%0A">rigar un artículo para el grupo</a>
+
+<a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artigo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0ALink%20do%20arXiv%3A%0A%0AT%C3%B3pico%20%28ex.%3A%20cs.SE%29%3A%0A%0APor%20que%20vale%20discutir%20%28duas%20ou%20tr%C3%AAs%20linhas%29%3A%0A">✉️ Sugerir um artigo para o grupo</a>
+
 
 ## 📚 Artículos ya discutidos
 
@@ -68,40 +70,44 @@ published: 2026-08-01T20:04:04.327-03:00
 
  Texto listo para anunciar el próximo encuentro. Copie, rellene las dos lagunas y envíe en el grupo.
 
- <div class="jc-digest">
- <pre id="jc-digest-texto">Personal, próximo encuentro del Journal Club de Ingeniería de Computación.
 
-📅 Cuando: \[DIA E HORA]
-📄 Artículo: \[TÍTULO + LINK DEL ARXIV]
+<div class="jc-digest">
+  <pre id="jc-digest-texto">Pessoal, próximo encontro do Journal Club de Engenharia de Computação.
 
- Quien quiera sugerir lectura para las próximas semanas, los temas que acompañamos están aquí:
- https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/topicos
+📅 Quando: \[DIA E HORA]
+📄 Artigo: \[TÍTULO + LINK DO ARXIV]
 
- El historial de lo que ya discutimos queda en:
- https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp
+Quem quiser sugerir leitura para as próximas semanas, os tópicos que acompanhamos estão aqui:
+https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/topicos
 
- ¡Hasta allí!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">📋 Copiar texto</button>
+O histórico do que já discutimos fica em:
+https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp
 
- </div>
+Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">📋 Copiar texto</button>
 
- <script>
- (function) {
- var btn = document.getElementById("jc-digest-copiar");
- var pre = document.getElementById("jc-digest-texto");
- if (!btn || !pre) return;
- btn.addEventListener("click", function() {
- navigator.clipboard.writeText(pre.textContent).then(
- function () {
- btn.textContent = "Gálatas Copiado!";
- setTimeout(function() { btn.textContent = "📋 Copiar texto"; }, 2000);
- },
- function () {
- btn.textContent = "No deu — copie manualmente";
- }
- );
- });
- }();
- </script>
+</div>
+
+
+
+<script>
+(function () {
+  var btn = document.getElementById("jc-digest-copiar");
+  var pre = document.getElementById("jc-digest-texto");
+  if (!btn || !pre) return;
+  btn.addEventListener("click", function () {
+    navigator.clipboard.writeText(pre.textContent).then(
+      function () {
+        btn.textContent = "✅ Copiado!";
+        setTimeout(function () { btn.textContent = "📋 Copiar texto"; }, 2000);
+      },
+      function () {
+        btn.textContent = "Não deu — copie manualmente";
+      }
+    );
+  });
+})();
+</script>
+
 
  ---
 

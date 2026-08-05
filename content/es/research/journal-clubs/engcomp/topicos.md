@@ -14,7 +14,9 @@ tags:
 
  Cada categoría por debajo lleva a la lista «/recent` del arXiv — los artículos sometidos en los últimos días, siempre actualizados en la fuente. No hay copia de esta lista aquí: el arXiv es la fuente, y cambia todo el día útil (fil de semana no tiene sumisión nueva).
 
- <a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artículo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%3A%0A%0A%20cs.SE%29%3A%0A%20vale%20discutir%20%28duas%20tr%C3%AAs%20líneas %29%3A%0A">rigar un artículo para el grupo</a>
+
+<a class="jc-button" href="mailto:engcompbji@googlegroups.com?subject=Sugest%C3%A3o%20de%20artigo%20%E2%80%94%20Journal%20Club%20ENGCOMP&body=T%C3%ADtulo%3A%0A%0ALink%20do%20arXiv%3A%0A%0AT%C3%B3pico%20%28ex.%3A%20cs.SE%29%3A%0A%0APor%20que%20vale%20discutir%20%28duas%20ou%20tr%C3%AAs%20linhas%29%3A%0A">✉️ Sugerir um artigo para o grupo</a>
+
 
 ## 🔒 Seguridad
 
