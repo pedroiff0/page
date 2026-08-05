@@ -1,5 +1,12 @@
 @use "./variables.scss" as *;
 
+// Largura do corpo um pouco maior: colunas de conteúdo mais perto das bordas,
+// mantendo margem de segurança (~110px de cada lado em telas 1920px).
+// Base do fork: .page { max-width: calc(desktop + 300px) } = 1500px.
+.page {
+  max-width: 1700px;
+}
+
 // --- Mobile layout fixes ---
 
 // The site title ("Bem-Vindo! / Welcome!") was fighting the explorer toggle,
