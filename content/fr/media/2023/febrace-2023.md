@@ -30,7 +30,7 @@ type: blog
 ## 🔗 Références et corrections
 
 - Source:[IFF - IFF Le projet Bon Jésus est finaliste au plus grand salon des sciences et de l'ingénierie au Brésil](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-finalista-na-maior-feira-de-ciencias-e-engenharia-do-brasil)
-- [Comprendre la matière noire des chocs extragalactiques (en français)](en/research/dark-matter-shocks)- page de recherche complète de ce projet
+- [Comprendre la matière noire des chocs extragalactiques](fr/research/dark-matter-shocks)- page de recherche complète de ce projet
 - [MOSTRATEC 2023](fr/media/2023/mostratec-2023)- même projet, soumis mois plus tard
 
 > [!abstract] Avis de traduction automatique

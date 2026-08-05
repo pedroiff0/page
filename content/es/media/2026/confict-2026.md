@@ -32,7 +32,7 @@ type: blog
 
 ## 🔗 Referencias y correcciones
 
-- [Detección de Anomalías en Datos de Gaia (en español)](en/research/anomaly-detection)— investigación completa detrás del póster
+- [Detección de Anomalías en Datos de Gaia](es/research/anomaly-detection)— investigación completa detrás del póster
 - [SAB 2025](es/media/2025/sab-2025)— versión anterior del mismo póster
 
 > [!abstract] Aviso de traducción automática

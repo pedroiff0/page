@@ -30,7 +30,7 @@ type: blog
 ## 🔗 Referencias y correcciones
 
 - Fuente:[IFF — Proyecto IFF Buen Jesús es finalista en la mayor feria de ciencias e ingeniería de Brasil](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-finalista-na-maior-feira-de-ciencias-e-engenharia-do-brasil)
-- [Entendiendo la materia Escura a partir de Choques Extragalácticos (en español)](en/research/dark-matter-shocks)— página de búsqueda completa de este proyecto
+- [Entendiendo la materia Escura a partir de Choques Extragalácticos](es/research/dark-matter-shocks)— página de búsqueda completa de este proyecto
 - [MOSTRATEC 2023](es/media/2023/mostratec-2023)— incluso proyecto, presentado meses después
 
 > [!abstract] Aviso de traducción automática

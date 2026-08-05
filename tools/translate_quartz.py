@@ -334,8 +334,9 @@ def list_target_files(section: str):
     if not base.exists():
         return files
     for p in sorted(base.rglob("*.md")):
-        if p.name == "index.md":
-            continue
+        # ignora o proprio index de secao? NAO — traduzimos os index.md tambem.
+        # (o slug do Quartz resolve index.md e <dir>.md para o mesmo path,
+        #  logo em main() pulamos index.md que conflite com irmão .md existente)
         files.append(p.relative_to(CONTENT / SRC))
     return files
 
@@ -377,6 +378,12 @@ def main():
                 if out_path.exists() and not args.overwrite:
                     print(f"  pulado {lang}/{rel} (ja existe; use --overwrite)")
                     continue
+                # index.md conflita com irmão <dir>.md ja existente (mesmo slug)
+                if out_path.name == "index.md":
+                    sibling = out_path.parent.with_suffix(".md")
+                    if sibling.exists():
+                        print(f"  pulado {lang}/{rel} (conflito de slug com {sibling.name})")
+                        continue
                 if args.apply:
                     translated = translate_body(body, lang)
                     out_path.parent.mkdir(parents=True, exist_ok=True)

@@ -31,7 +31,7 @@ type: blog
 ## 🔗 Références et corrections
 
 - Source:[IFF - Etudiants IFF Eh bien Jésus participe à la plus grande et plus traditionnelle foire scientifique en Amérique latine](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/alunos-do-iff-bom-jesus-participam-da-maior-e-mais-tradicional-feira-de-ciencias-da-america-latina)
-- [Comprendre la matière noire des chocs extragalactiques (en français)](en/research/dark-matter-shocks)- page de recherche complète de ce projet
+- [Comprendre la matière noire des chocs extragalactiques](fr/research/dark-matter-shocks)- page de recherche complète de ce projet
 - [FECURE 2023](fr/media/2023/febrace-2023)- même projet, soumis mois avant
 
 > [!abstract] Avis de traduction automatique
