@@ -58,7 +58,11 @@ Notas de aula da **Escola de Inverno em Astrofísica 2026** do [Observatório Na
 
 ## Palestras
 
-- [Palestras](pt-br/resource/escolainverno/palestras/) — Neutrinos e a Cosmologia (Gabriel Rodrigues), e mais.
+- [Palestras](pt-br/resource/escolainverno/palestras/) 
+- **P1** [[Neutrinos|Neutrinos e a Cosmologia]] — Gabriel Rodrigues
+* **P2** [[OASI|15 anos do OASI]] — Daniela Lazzaro
+* **P3** [[RaioX|De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo]] — Rebeca Batalha
+* **P4** [[Composicoes|Composições químicas estelares com alta precisão e acurácia]] — Marília Carlos
 
 ## Minha participação
 

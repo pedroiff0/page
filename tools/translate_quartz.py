@@ -30,6 +30,17 @@ SRC = "pt-br"
 TARGETS = ["en", "es", "fr"]
 SECTIONS = ["media", "research"]
 
+# Titulos canonicos de seções (index.md de 1o nivel). O LT erra o contexto
+# academico (ex.: "Pesquisa"->"Search" em EN, deveria ser "Research"),
+# entao forçamos o titulo certo por idioma nesses index.md.
+SECTION_TITLES = {
+    "research": {"pt-br": "Pesquisa", "en": "Research", "es": "Investigación", "fr": "Recherche"},
+    "media": {"pt-br": "Mídia", "en": "Media", "es": "Medios", "fr": "Médias"},
+    "resource": {"pt-br": "Recursos", "en": "Resources", "es": "Recursos", "fr": "Ressources"},
+    "projects": {"pt-br": "Projetos", "en": "Projects", "es": "Proyectos", "fr": "Projets"},
+    "blog": {"pt-br": "Blog", "en": "Blog", "es": "Blog", "fr": "Blog"},
+}
+
 # Disclaimer de tradução automática, anexado ao fim de cada página traduzida.
 # Cita o mecanismo implementado e fica no idioma da própria página.
 DISCLAIMER = {
@@ -82,6 +93,43 @@ PROPER_NAMES = [
     "Claudia Linhares Sales", "Linhares Sales",
 ]
 PROPER_RE = re.compile("|".join(re.escape(n) for n in PROPER_NAMES))
+# bloco HTML (carrossel, <div>/<a>/<img>/<span> etc.) — NAO vai pro LT,
+# preservado literal. Usamos parsing de profundidade (nao regex) para cobrir
+# tags aninhadas (o carrossel tem <div> > <a> > <div>).
+HTML_TAG_RE = re.compile(r"<\s*(/?)\s*([a-zA-Z][\w-]*)([^>]*?)(/?)>")
+
+
+def find_balanced_html(text: str):
+    """Retorna intervalos (start, end) de blocos HTML balanceados que comecam
+    em profundidade 0 (ex.: o <div class=\"media-carousel\"> ate seu </div>)."""
+    spans = []
+    opens = []          # pilha de (tag, start) em profundidade > 0
+    root_starts = []    # inicios de blocos em profundidade 0
+    i = 0
+    while i < len(text):
+        if text[i] != "<":
+            i += 1
+            continue
+        m = HTML_TAG_RE.match(text, i)
+        if not m:
+            i += 1
+            continue
+        closing, tag, selfclose = m.group(1), m.group(2).lower(), m.group(4)
+        j = m.end()
+        if closing:
+            if opens:
+                opens.pop()
+                if not opens:  # voltou a profundidade 0
+                    start = root_starts.pop()
+                    spans.append((start, j))
+        elif selfclose:
+            pass  # self-closing (<img .../>) nao empilha
+        else:
+            if not opens:
+                root_starts.append(i)
+            opens.append((tag, i))
+        i = j
+    return spans
 LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")  # qualquer [texto](url)
 EMOJI_CLASS = (
     r"[\U0001F000-\U0001FAFF\U00002600-\U000027BF\U0001F1E6-\U0001F1FF"
@@ -153,20 +201,26 @@ PROT_RE = re.compile(WIKI_RE.pattern + r"|" + PROPER_RE.pattern)
 
 
 def translate_spans(text: str, target: str) -> str:
-    """Traduz o texto, mantendo wikilinks e nomes proprios LITERAIS
-    (split posicional) e protegendo bold/italic via HTML."""
+    """Traduz o texto, mantendo wikilinks, nomes proprios e BLOCOS HTML
+    LITERAIS (split posicional) e protegendo bold/italic via HTML."""
     if not text.strip():
         return text
+    # coleta intervalos protegidos: wikilinks/nomes (PROT_RE) + HTML balanceado
+    spans = [(mm.start(), mm.end()) for mm in PROT_RE.finditer(text)]
+    spans += find_balanced_html(text)
+    spans.sort()
     parts, last = [], 0
-    for mm in PROT_RE.finditer(text):
-        before = text[last:mm.start()]
+    for (s, e) in spans:
+        if s < last:        # sobreposicao: ignora
+            continue
+        before = text[last:s]
         if before:
             parts.append(_translate_bold(before, target))
-            # garante espaco apos trecho traduzido se o nome comeca com letra
-            if parts[-1] and not parts[-1][-1].isspace() and mm.group(0)[0].isalpha():
+            # garante espaco apos trecho traduzido se o protegido comeca com letra
+            if parts[-1] and not parts[-1][-1].isspace() and text[s].isalpha():
                 parts.append(" ")
-        parts.append(mm.group(0))  # literal
-        last = mm.end()
+        parts.append(text[s:e])  # literal (wikilink/nome/HTML)
+        last = e
     if last < len(text):
         after = text[last:]
         if after:
@@ -277,6 +331,10 @@ def sanitize(line: str) -> str:
     line = re.sub(r"\)(?=[A-Za-zÀ-ÿ])(?!\*)", r") ", line)
     # apostrofo frances colado: ' x ' -> x'
     line = re.sub(r"(?<=[A-Za-zÀ-ÿ]) ' (?=[A-Za-zÀ-ÿ])", "'", line)
+    # bold/italic grudados pelo MT: '* * x * *' -> '**x**'  e  '** x **' -> '**x**'
+    line = re.sub(r"\*\s+\*\s+(.+?)\s+\*\s+\*", r"**\1**", line)
+    line = re.sub(r"\*\*\s+(.+?)\s+\*\*", r"**\1**", line)
+    line = re.sub(r"(?<!\*)\*\s+(.+?)\s+\*(?!\*)", r"*\1*", line)
     return line
 
 
@@ -413,9 +471,17 @@ def main():
                     if lang != SRC:
                         for field in ("title", "description"):
                             val = get_frontmatter_field(fm, field)
-                            if val:
-                                tr = translate_line(val, lang).strip()
-                                out_fm = set_frontmatter_field(out_fm, field, tr)
+                            if not val:
+                                continue
+                            # index.md de secao de 1o nivel: titulo canonico
+                            if field == "title" and rel.parent.name == "content" and rel.name == "index.md":
+                                sec = rel.parent.parent.name  # ex.: 'research'
+                                if sec in SECTION_TITLES and lang in SECTION_TITLES[sec]:
+                                    tr = SECTION_TITLES[sec][lang]
+                                    out_fm = set_frontmatter_field(out_fm, field, tr)
+                                    continue
+                            tr = translate_line(val, lang).strip()
+                            out_fm = set_frontmatter_field(out_fm, field, tr)
                     out_path.parent.mkdir(parents=True, exist_ok=True)
                     out_path.write_text(f"---\n{out_fm}\n---\n{translated}", encoding="utf-8")
                     print(f"  gravado {lang}/{rel}")

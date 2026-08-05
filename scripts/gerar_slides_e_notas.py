@@ -10,6 +10,8 @@ Pedro Henrique Rocha de Andrade
 """
 
 import os
+import re
+import glob
 import shutil
 import subprocess
 import tempfile
@@ -165,86 +167,168 @@ def encrypt_pdf(pdf_path, password=SENHA_INSTITUCIONAL):
         return False
 
 def popule_pptx_institucional(template_path, output_pptx_path, num_str, titulo, subtitulo, is_dark=False, url_qr="https://www.phrandrade.com/pt-br/resource/latex"):
-    """Atualiza PPTX do IFF: substitui Astrofísica por LaTeX e Escrita Acadêmica, cores institucionais, amplia logo e insere QR Code canônico."""
     prs = pptx.Presentation(template_path)
     
-    for idx, slide in enumerate(prs.slides):
-        # 1. Atualizar textos em todas as formas do slide
+    obrigado_idx = -1
+    for i, slide in enumerate(prs.slides):
         for shape in slide.shapes:
-            if shape.has_text_frame:
-                text_val = shape.text_frame.text
-                if idx == 0 and ("Reconciliação" in text_val or "Abundâncias" in text_val or len(text_val) > 15):
-                    shape.text_frame.clear()
-                    p = shape.text_frame.paragraphs[0]
-                    p.text = f"AULA {num_str}: {titulo.upper()}"
-                    p.font.size = Pt(26)
-                    p.font.bold = True
-                    p.font.color.rgb = RGBColor(239, 68, 68) if is_dark else RGBColor(185, 28, 28) # Vermelho Institucional
-                    
-                    p2 = shape.text_frame.add_paragraph()
-                    p2.text = f"{subtitulo}\nCurso: LaTeX e Escrita Acadêmica — Normas ABNT"
-                    p2.font.size = Pt(16)
-                    p2.font.color.rgb = RGBColor(34, 197, 94) if is_dark else RGBColor(21, 128, 61) # Verde Institucional
-                elif idx == 0 and ("Apresentador:" in text_val or "Pedro" in text_val):
-                    shape.text_frame.clear()
-                    p = shape.text_frame.paragraphs[0]
-                    p.text = "Pedro Henrique Rocha de Andrade"
-                    p.font.size = Pt(14)
-                    p.font.bold = True
-                    p.font.color.rgb = RGBColor(245, 158, 11) if is_dark else RGBColor(180, 83, 9) # Dourado Institucional
-                    
-                    p2 = shape.text_frame.add_paragraph()
-                    p2.text = "Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana\nCurso: LaTeX e Escrita Acadêmica"
-                    p2.font.size = Pt(12)
-                    p2.font.color.rgb = RGBColor(167, 139, 250) if is_dark else RGBColor(109, 40, 217) # Violeta Institucional
+            if shape.has_text_frame and "Obrigado" in shape.text_frame.text:
+                obrigado_idx = i
+                break
+        if obrigado_idx != -1: break
+    if obrigado_idx == -1: obrigado_idx = len(prs.slides) - 1
+    
+    for i in range(len(prs.slides)-1, 0, -1):
+        if i != obrigado_idx:
+            rId = prs.slides._sldIdLst[i].rId
+            prs.part.drop_rel(rId)
+            del prs.slides._sldIdLst[i]
+            
+    slide_capa = prs.slides[0]
+    for shape in slide_capa.shapes:
+        if shape.has_text_frame:
+            text_val = shape.text_frame.text
+            if "Apresentador:" in text_val or "Pedro" in text_val:
+                shape.text_frame.clear()
+                p = shape.text_frame.paragraphs[0]
+                p.text = "Pedro Henrique Rocha de Andrade"
+                p.font.size = Pt(14)
+                p.font.bold = True
+                p.font.color.rgb = RGBColor(245, 158, 11) if is_dark else RGBColor(180, 83, 9)
+                
+                p2 = shape.text_frame.add_paragraph()
+                p2.text = "Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana\\nCurso: LaTeX e Escrita Acadêmica"
+                p2.font.size = Pt(12)
+                p2.font.color.rgb = RGBColor(167, 139, 250) if is_dark else RGBColor(109, 40, 217)
+            elif "Reconciliação" in text_val or "Abundâncias" in text_val or len(text_val) > 15:
+                shape.text_frame.clear()
+                p = shape.text_frame.paragraphs[0]
+                p.text = f"AULA {num_str}: {titulo.upper()}"
+                p.font.size = Pt(26)
+                p.font.bold = True
+                p.font.color.rgb = RGBColor(245, 158, 11) if is_dark else RGBColor(180, 83, 9)
+                
+                p2 = shape.text_frame.add_paragraph()
+                p2.text = f"{subtitulo}\\nCurso: LaTeX e Escrita Acadêmica — Normas ABNT"
+                p2.font.size = Pt(16)
+                p2.font.color.rgb = RGBColor(34, 197, 94) if is_dark else RGBColor(21, 128, 61)
+                
+    slides_data = extract_slides_from_md(num_str)
+    logo_path = "/home/pedro/Downloads/_cosmic_assets/iff/iff_bji_dark.png" if is_dark else "/home/pedro/Downloads/_cosmic_assets/iff/iff_bji_light.png"
+    if not os.path.exists(logo_path): logo_path = "/home/pedro/Downloads/_cosmic_assets/iff/iffbomjesusvert-1.png"
+    
+    for idx_topic, sdata in enumerate(slides_data):
+        slide = prs.slides.add_slide(prs.slide_layouts[1])
+        if os.path.exists(logo_path):
+            slide.shapes.add_picture(logo_path, Inches(0.5), Inches(0.08), Inches(2.3), Inches(0.85))
+            
+        txBox = slide.shapes.add_textbox(Inches(12.0), Inches(7.0), Inches(1.0), Inches(0.5))
+        tf_num = txBox.text_frame
+        tf_num.text = str(idx_topic + 2)
+        tf_num.paragraphs[0].font.size = Pt(12)
+        tf_num.paragraphs[0].font.color.rgb = RGBColor(167, 139, 250) if is_dark else RGBColor(109, 40, 217)
+        
+        if slide.shapes.title:
+            title_shape = slide.shapes.title
+            title_shape.text = sdata['title']
+            p = title_shape.text_frame.paragraphs[0]
+            p.font.size = Pt(36)
+            p.font.bold = True
+            p.font.color.rgb = RGBColor(245, 158, 11) if is_dark else RGBColor(180, 83, 9)
+            
+        if len(slide.placeholders) > 1:
+            body_shape = slide.placeholders[1]
+            tf = body_shape.text_frame
+            tf.clear()
+            for j, item in enumerate(sdata['items']):
+                p = tf.add_paragraph()
+                item_clean = pptx_clean(item)
+                if '[AZUL]' in item_clean:
+                    item_text = item_clean.replace('[AZUL]', '').strip()
+                    p.text = f"[Vale Lembrar] {item_text}"
+                    p.font.color.rgb = RGBColor(96, 165, 250) if is_dark else RGBColor(37, 99, 235)
+                elif j % 3 == 0:
+                    p.text = f"[Importante] {item_clean}"
+                    p.font.color.rgb = RGBColor(34, 197, 94) if is_dark else RGBColor(21, 128, 61)
+                elif j % 3 == 1:
+                    p.text = f"[Prova/Trabalho] {item_clean}"
+                    p.font.color.rgb = RGBColor(167, 139, 250) if is_dark else RGBColor(109, 40, 217)
                 else:
-                    # Substituições globais sem "Prof. Dr." e substituindo Astrofísica/MWBR por LaTeX e Escrita Acadêmica
-                    if "Astrofísica" in text_val or "MWBR" in text_val or "Reconciliação" in text_val or "GCE" in text_val:
-                        for paragraph in shape.text_frame.paragraphs:
-                            for run in paragraph.runs:
-                                run.text = run.text.replace("Astrofísica", "LaTeX e Escrita Acadêmica")
-                                run.text = run.text.replace("Reconciliação Química no Disco Galáctico", "LaTeX e Escrita Acadêmica — IFF")
-                                run.text = run.text.replace("MWBR", "IFF — CONFICT")
-                                run.text = run.text.replace("GCE", "ABNT NBR 14724")
-                    if "Prof. Dr." in text_val:
-                        for paragraph in shape.text_frame.paragraphs:
-                            for run in paragraph.runs:
-                                run.text = run.text.replace("Prof. Dr. ", "")
-                                run.text = run.text.replace("Prof. Dr.", "")
+                    p.text = item_clean
+                    p.font.color.rgb = RGBColor(255, 255, 255) if is_dark else RGBColor(15, 23, 42)
+                p.font.size = Pt(20)
+                p.level = 0
 
-                    # Se for título do slide (cabeçalho da página > 0), aplicar Vermelho Institucional
-                    if shape.top < Inches(1.2) and idx > 0:
-                        for paragraph in shape.text_frame.paragraphs:
-                            for run in paragraph.runs:
-                                run.font.color.rgb = RGBColor(239, 68, 68) if is_dark else RGBColor(185, 28, 28)
-
-        # 2. Ampliar e destacar a Logo do IFF no Cabeçalho de todos os slides (recorte / trim e aumento de tamanho)
-        for shape in slide.shapes:
-            if "Picture" in shape.name or "Logo" in shape.name:
-                # Se for imagem no topo (cabeçalho)
-                if shape.top < Inches(1.5) and idx > 0:
-                    shape.width = Inches(2.3)
-                    shape.height = Inches(0.85)
-                    shape.left = Inches(0.5)
-                    shape.top = Inches(0.08)
-
-    # 3. Gerar QR Code transparente com URL canônica e inserir no slide final (Obrigado!) e na Capa
+    sldIdLst = prs.slides._sldIdLst
+    obrigado_sld = sldIdLst[1]
+    sldIdLst.remove(obrigado_sld)
+    sldIdLst.append(obrigado_sld)
+    
     with tempfile.TemporaryDirectory() as tmp_qr_dir:
         qr_path = os.path.join(tmp_qr_dir, "qrcode_transparente.png")
         generate_qr_transparent(url_qr, qr_path, is_dark_theme=is_dark)
-        
+        slide_capa.shapes.add_picture(qr_path, Inches(10.5), Inches(1.5), Inches(2.0), Inches(2.0))
         slide_final = prs.slides[-1]
-        left = Inches(10.2)
-        top = Inches(4.3)
-        width = Inches(2.4)
-        height = Inches(2.4)
-        slide_final.shapes.add_picture(qr_path, left, top, width, height)
+        slide_final.shapes.add_picture(qr_path, Inches(10.2), Inches(4.3), Inches(2.4), Inches(2.4))
 
     os.makedirs(os.path.dirname(output_pptx_path), exist_ok=True)
     prs.save(output_pptx_path)
-    return True
+    
+    zip_path = output_pptx_path.replace('.pptx', '.zip')
+    cmd = ["zip", "-j", "-P", SENHA_INSTITUCIONAL, zip_path, output_pptx_path]
+    res = subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    if res.returncode == 0:
+        os.remove(output_pptx_path)
+        return True
+    return False
 
-def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
+
+import glob
+def latex_escape(text):
+    math_blocks = re.findall(r'\$.*?\$', text)
+    for i, m in enumerate(math_blocks): text = text.replace(m, f"@@MATH{i}@@")
+    text = text.replace('\\', '@@BACKSLASH@@')
+    text = text.replace('{', r'\{').replace('}', r'\}')
+    text = text.replace('@@BACKSLASH@@', r'\textbackslash{}')
+    text = text.replace('%', r'\%').replace('&', r'\&').replace('#', r'\#').replace('_', r'\_').replace('"', "''")
+    text = text.replace('^', r'\textasciicircum{}').replace('~', r'\textasciitilde{}')
+    text = re.sub(r'\*\*(.*?)\*\*', r'\\textbf{\1}', text)
+    text = re.sub(r'\*(.*?)\*', r'\\textit{\1}', text)
+    text = re.sub(r'`(.*?)`', r'\\texttt{\1}', text)
+    for i, m in enumerate(math_blocks): text = text.replace(f"@@MATH{i}@@", m)
+    return text
+
+def pptx_clean(text):
+    text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
+    text = re.sub(r'\*(.*?)\*', r'\1', text)
+    text = re.sub(r'`(.*?)`', r'\1', text)
+    return text
+
+def extract_slides_from_md(num_str):
+    pattern = f"/home/pedro/Repositorios/pessoal/quartz-site/content/pt-br/resource/latex/aula-{num_str}-*.md"
+    files = glob.glob(pattern)
+    if not files: return [{"title": "Conteúdo indisponível", "items": ["Arquivo MD não encontrado."]}]
+    with open(files[0], 'r', encoding='utf-8') as f: content = f.read()
+    sections = re.split(r'\n##\s+', content)
+    slides_data = []
+    for sec in sections[1:]:
+        lines = sec.split('\n')
+        title = lines[0].strip()
+        if 'Recursos Adicionais' in title or 'Sumário' in title or 'Referências' in title or 'Material Didático' in title: continue
+        bullets = []
+        for line in lines[1:]:
+            line = line.strip()
+            if not line or line.startswith('```') or line.startswith('|') or line.startswith('<'): continue
+            if line.startswith('- ') or line.startswith('* '): bullets.append(line[2:])
+            elif line.startswith('### '): bullets.append('[AZUL] ' + line[4:])
+            else:
+                if len(line) > 10: bullets.append(line)
+        chunk_size = 4
+        for i in range(0, len(bullets), chunk_size):
+            slides_data.append({'title': title + (f' (Cont.)' if i > 0 else ''), 'items': bullets[i:i+chunk_size]})
+    return slides_data
+
+def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False, url_qr=""): 
     """Gera código Beamer (52 slides) com diagrama TikZ, sem Parte X/Y, com slide de Obrigado com QR e Referências."""
     num_str = f"{num:02d}"
     lines = []
@@ -260,6 +344,7 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
         lines.append(r"% Configuração de Modelo Preto (Escuro) — Paleta Institucional")
         lines.append(r"\definecolor{iffred}{RGB}{239, 68, 68}")
         lines.append(r"\definecolor{iffgreen}{RGB}{34, 197, 94}")
+        lines.append(r"\definecolor{iffblue}{RGB}{96, 165, 250}")
         lines.append(r"\definecolor{iffgold}{RGB}{245, 158, 11}")
         lines.append(r"\definecolor{ifforange}{RGB}{251, 146, 60}")
         lines.append(r"\definecolor{iffviolet}{RGB}{167, 139, 250}")
@@ -275,6 +360,7 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
         lines.append(r"% Configuração de Modelo Branco (Claro) — Paleta Institucional")
         lines.append(r"\definecolor{iffred}{RGB}{185, 28, 28}")
         lines.append(r"\definecolor{iffgreen}{RGB}{21, 128, 61}")
+        lines.append(r"\definecolor{iffblue}{RGB}{37, 99, 235}")
         lines.append(r"\definecolor{iffgold}{RGB}{180, 83, 9}")
         lines.append(r"\definecolor{ifforange}{RGB}{194, 65, 12}")
         lines.append(r"\definecolor{iffviolet}{RGB}{109, 40, 217}")
@@ -291,7 +377,7 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
     lines.append(r"  \vspace{0.18cm}%")
     lines.append(r"  \hspace{0.5cm}%")
     lines.append(r"  \begin{minipage}{0.35\linewidth}%")
-    lines.append(r"    \includegraphics[height=0.65cm]{img/logoiff.png}%")
+    lines.append(r"    \includegraphics[trim=0 30 0 30, clip, height=0.85cm]{img/logoiff.png}%")
     lines.append(r"  \end{minipage}%")
     lines.append(r"  \hfill%")
     lines.append(r"  \begin{minipage}{0.55\linewidth}%")
@@ -329,7 +415,17 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
     
     # Slide 1: Capa
     lines.append(r"\begin{frame}[t]")
+    lines.append(r"    \begin{tikzpicture}[remember picture, overlay]")
+    lines.append(r"      \node[opacity=0.15, at=(current page.center)] {\includegraphics[width=\paperwidth,height=\paperheight]{img/noite_estrelada.jpg}};")
+    lines.append(r"    \end{tikzpicture}")
     lines.append(r"    \titlepage")
+    lines.append(r"    \begin{tikzpicture}[remember picture, overlay]")
+    lines.append(r"      \node[anchor=east, xshift=-1cm, yshift=1.5cm] (qr) at (current page.east) {\includegraphics[width=2.5cm]{img/qrcode_transparente.png}};")
+    if url_qr:
+        # Escape the URL for LaTeX display safely
+        safe_url = url_qr.replace('%', '\\%').replace('#', '\\#').replace('_', '\\_')
+        lines.append(f"      \\node[anchor=north, yshift=-0.1cm, font=\\tiny, color=gray] at (qr.south) {{{safe_url}}};")
+    lines.append(r"    \end{tikzpicture}")
     lines.append(r"\end{frame}")
     lines.append("")
     
@@ -342,14 +438,22 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
     
     # Slides 3 a 49: Conteúdo com títulos únicos (SEM "Parte X/Y")
     lines.append(r"\section{Desenvolvimento Teórico e Metodológico}")
-    for idx_topic, topic in enumerate(SLIDE_TOPICS[:47]):
+    slides_data = extract_slides_from_md(num_str)
+    for idx_topic, sdata in enumerate(slides_data):
         lines.append(r"\begin{frame}[t]")
-        lines.append(f"    \\frametitle{{{topic}}}")
+        lines.append(f"    \\frametitle{{\\color{{iffgold}}{sdata['title']}}}")
         lines.append(r"    \begin{itemize}")
-        lines.append(f"        \\item \\textbf{{Análise Normativa e Escopo:}} Abordagem sistemática segundo as diretrizes de metodologia científica do IFF;")
-        lines.append(f"        \\item \\textbf{{Fundamentação Prática:}} Aplicação no desenvolvimento documental em LaTeX (classe \\texttt{{ifftese.cls}});")
-        lines.append(f"        \\item \\textbf{{Rigidez Técnica:}} Conformidade integral à ABNT NBR 14724, NBR 10520:2023 e NBR 6023:2018;")
-        lines.append(f"        \\item \\textbf{{Exemplo de Aplicação:}} Integração de dados em projetos e trabalhos de conclusão de curso.")
+        for j, item in enumerate(sdata['items']):
+            item_clean = latex_escape(item)
+            if '[AZUL]' in item_clean:
+                item_text = item_clean.replace('[AZUL]', '').strip()
+                lines.append(f"        \\item \\textcolor{{iffblue}}{{\\textbf{{[Vale Lembrar]}} {item_text}}}")
+            elif j % 3 == 0:
+                lines.append(f"        \\item \\textcolor{{iffgreen}}{{\\textbf{{[Importante]}} {item_clean}}}")
+            elif j % 3 == 1:
+                lines.append(f"        \\item \\textcolor{{iffviolet}}{{\\textbf{{[Para a Prova]}} {item_clean}}}")
+            else:
+                lines.append(f"        \\item {item_clean}")
         lines.append(r"    \end{itemize}")
         lines.append(r"\end{frame}")
         lines.append("")
@@ -359,10 +463,12 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
     lines.append(r"\begin{frame}[t]")
     lines.append(r"    \frametitle{Hierarquia e Fluxo Documental na ABNT (Diagrama TikZ)}")
     lines.append(r"    \begin{center}")
+    fill_shade = "!20!black" if is_dark else "!12!white"
+    text_color = "white" if is_dark else "black"
     lines.append(r"    \begin{tikzpicture}[node distance=1.6cm, auto,")
-    lines.append(r"        boxpre/.style={rectangle, draw=iffgreen, thick, fill=iffgreen!12!white, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\scriptsize},")
-    lines.append(r"        boxtex/.style={rectangle, draw=iffgold, thick, fill=iffgold!12!white, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\scriptsize},")
-    lines.append(r"        boxpos/.style={rectangle, draw=iffviolet, thick, fill=iffviolet!12!white, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\scriptsize},")
+    lines.append(f"        boxpre/.style={{rectangle, draw=iffgreen, thick, fill=iffgreen{fill_shade}, text={text_color}, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\\scriptsize}},")
+    lines.append(f"        boxtex/.style={{rectangle, draw=iffgold, thick, fill=iffgold{fill_shade}, text={text_color}, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\\scriptsize}},")
+    lines.append(f"        boxpos/.style={{rectangle, draw=iffviolet, thick, fill=iffviolet{fill_shade}, text={text_color}, text width=3.3cm, align=center, rounded corners, minimum height=0.9cm, font=\\scriptsize}},")
     lines.append(r"        arrow/.style={->, >=stealth, thick, color=iffred}")
     lines.append(r"    ]")
     lines.append(r"        \node[boxpre] (pre) {\textbf{1. Elementos Pré-textuais}\\ (Capa, Rosto, Resumo)};")
@@ -413,14 +519,87 @@ def gerar_tex_slides_52_frames(num, titulo, subtitulo, is_dark=False):
     lines.append(r"\end{document}")
     return "\n".join(lines)
 
+def md_to_latex_notes(md_text):
+    md_text = re.sub(r'^---.*?---\n', '', md_text, flags=re.DOTALL)
+    md_text = re.sub(r'\| Material Didático.*?(\n\s*\n|$)', '\n\n', md_text, flags=re.DOTALL)
+    md_text = md_text.replace('\u2014', '---').replace('\u2013', '--').replace('\u0106', "\\'C")
+    md_text = re.sub(r'[^\x00-\xFF]', '', md_text)
+    
+    math_blocks = []
+    def math_repl(m):
+        math_blocks.append(m.group(0))
+        return f"@@MATH{len(math_blocks)-1}@@"
+    md_text = re.sub(r'\$.*?\$', math_repl, md_text)
+    
+    def mermaid_repl(m):
+        code = m.group(1).strip()
+        return f"\n\\begin{{tcolorbox}}[title=Diagrama (Mermaid)]\n\\begin{{verbatim}}\n{code}\n\\end{{verbatim}}\n\\end{{tcolorbox}}\n"
+    md_text = re.sub(r'```mermaid\n(.*?)\n```', mermaid_repl, md_text, flags=re.DOTALL)
+    
+    code_blocks = []
+    def code_repl(m):
+        code_blocks.append(m.group(1))
+        return f"@@CODE{len(code_blocks)-1}@@"
+    md_text = re.sub(r'`(.*?)`', code_repl, md_text)
+    
+    md_text = md_text.replace('\\', '@@BACKSLASH@@')
+    md_text = md_text.replace('{', r'\{').replace('}', r'\}')
+    md_text = md_text.replace('@@BACKSLASH@@', r'\textbackslash{}')
+    md_text = md_text.replace('%', r'\%').replace('&', r'\&').replace('#', r'\#').replace('_', r'\_').replace('"', "''")
+    md_text = md_text.replace('^', r'\textasciicircum{}').replace('~', r'\textasciitilde{}')
+    
+    for i, cod in enumerate(code_blocks):
+        code_esc = cod.replace('\\', r'\textbackslash{}').replace('{', r'\{').replace('}', r'\}')
+        code_esc = code_esc.replace('%', r'\%').replace('&', r'\&').replace('#', r'\#').replace('_', r'\_')
+        md_text = md_text.replace(f"@@CODE{i}@@", f"\\texttt{{{code_esc}}}")
+        
+    md_text = re.sub(r'\*\*(.*?)\*\*', r'\\textbf{\1}', md_text)
+    md_text = re.sub(r'\*(.*?)\*', r'\\textit{\1}', md_text)
+    
+    md_text = re.sub(r'^### (.*?)$', r'\\subsection{\1}', md_text, flags=re.MULTILINE)
+    md_text = re.sub(r'^## (.*?)$', r'\\section{\1}', md_text, flags=re.MULTILINE)
+    md_text = re.sub(r'^# (.*?)$', r'\\section{\1}', md_text, flags=re.MULTILINE)
+    
+    lines = md_text.split('\n')
+    out_lines = []
+    in_list = False
+    for line in lines:
+        if re.match(r'^(\*|-|\d+\.)\s', line.strip()):
+            if not in_list:
+                out_lines.append(r'\begin{itemize}')
+                in_list = True
+            item_text = re.sub(r'^(\*|-|\d+\.)\s+', '', line.strip())
+            out_lines.append(f'  \\item {item_text}')
+        else:
+            if in_list and line.strip() == '':
+                continue
+            elif in_list:
+                out_lines.append(r'\end{itemize}')
+                in_list = False
+            
+            if line.strip() == '':
+                out_lines.append(r'\vspace{0.2cm}')
+            else:
+                out_lines.append(line)
+    if in_list:
+        out_lines.append(r'\end{itemize}')
+        
+    md_text = '\n'.join(out_lines)
+    for i, m in enumerate(math_blocks):
+        md_text = md_text.replace(f"@@MATH{i}@@", m)
+        
+    return md_text
+
 def gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo):
     """Gera Notas de Aula Institucionais sem regras de avaliação ou tempos de aula, focadas no rigor acadêmico com TikZ e booktabs."""
     num_str = f"{num:02d}"
     lines = []
-    lines.append(r"\documentclass[11pt,a4paper]{scrartcl}")
+    lines.append(r"\documentclass[12pt,a4paper]{scrartcl}")
     lines.append(r"\usepackage[utf8]{inputenc}")
     lines.append(r"\usepackage[T1]{fontenc}")
     lines.append(r"\usepackage[brazil]{babel}")
+    lines.append(r"\linespread{1.3}")
+    lines.append(r"\setlength{\parskip}{0.3cm}")
     lines.append(r"\usepackage[left=3cm,right=2cm,top=3cm,bottom=2cm]{geometry}")
     lines.append(r"\usepackage{amsmath,amssymb,amsfonts}")
     lines.append(r"\usepackage{booktabs,tabularx,array}")
@@ -456,60 +635,27 @@ def gerar_tex_notas_100_latex_institucional(num, titulo, subtitulo):
     lines.append(r"\date{\footnotesize \textbf{\color{ifforange} Curso: LaTeX e Escrita Acadêmica}}")
     
     lines.append(r"\begin{document}")
+    lines.append(r"\begin{titlepage}")
     lines.append(r"\maketitle")
+    lines.append(r"\vspace{2cm}")
+    lines.append(r"\begin{center}")
+    lines.append(r"\textbf{Resumo Estrutural da Aula}")
+    lines.append(r"\end{center}")
+    lines.append(r"Este material é um registro acadêmico e intelectual, contendo o arcabouço teórico, metodológico e prático referente aos encontros presenciais. É estritamente recomendado o acompanhamento deste documento em conjunto com os slides institucionais.")
+    lines.append(r"\end{titlepage}")
     
     lines.append(r"\tableofcontents")
+    lines.append(r"\newpage")
     lines.append(r"\vspace{0.8cm}")
     
-    lines.append(r"\section{Introdução e Fundamentação Metodológica}")
-    lines.append(r"Estas notas de aula documentam o referencial teórico-metodológico e técnico da \textbf{Aula " + num_str + r": " + titulo + r"}. A produção acadêmica e a redação científica exigem a harmonização entre a coerência argumentativa epistemológica e a observância rigorosa da normalização estabelecida pelas diretrizes da Associação Brasileira de Normas Técnicas (ABNT).")
-    
-    lines.append(r"\section{Normalização ABNT NBR 14724 e NBR 10520:2023}")
-    lines.append(r"A estruturação de trabalhos acadêmicos no Instituto Federal Fluminense baseia-se na conformidade à NBR 14724:2011, que regulamenta a hierarquia dos elementos pré-textuais, textuais e pós-textuais. O controle tipográfico com margens canônicas e citações no formato autor-data estipulado pela NBR 10520:2023 confere credibilidade e padronização aos documentos.")
-    
-    lines.append(r"\subsection{Diagrama Estrutural do Documento Acadêmico (TikZ)}")
-    lines.append(r"\begin{figure}[h!]")
-    lines.append(r"\centering")
-    lines.append(r"\begin{tikzpicture}[node distance=2.2cm, auto,")
-    lines.append(r"  boxpre/.style={rectangle, draw=iffgreen, thick, fill=iffgreen!12!white, text width=3.8cm, align=center, rounded corners, minimum height=1.1cm},")
-    lines.append(r"  boxtex/.style={rectangle, draw=iffgold, thick, fill=iffgold!12!white, text width=3.8cm, align=center, rounded corners, minimum height=1.1cm},")
-    lines.append(r"  boxpos/.style={rectangle, draw=iffviolet, thick, fill=iffviolet!12!white, text width=3.8cm, align=center, rounded corners, minimum height=1.1cm},")
-    lines.append(r"  arrow/.style={->, >=stealth, thick, color=iffred}")
-    lines.append(r"]")
-    lines.append(r"  \node[boxpre] (pre) {\textbf{1. Elementos Pré-textuais}\\ \small Capa, Rosto, Resumo};")
-    lines.append(r"  \node[boxtex, right of=pre, xshift=3.2cm] (tex) {\textbf{2. Elementos Textuais}\\ \small Introdução, Desenvolvimento};")
-    lines.append(r"  \node[boxpos, right of=tex, xshift=3.2cm] (pos) {\textbf{3. Elementos Pós-textuais}\\ \small Referências, Apêndices};")
-    lines.append(r"  \draw[arrow] (pre) -- (tex);")
-    lines.append(r"  \draw[arrow] (tex) -- (pos);")
-    lines.append(r"\end{tikzpicture}")
-    lines.append(r"\caption{Fluxo de informação normatizado de acordo com a ABNT NBR 14724.}")
-    lines.append(r"\label{fig:fluxo_abnt}")
-    lines.append(r"\end{figure}")
-    
-    lines.append(r"\section{Arquitetura Computacional e Prática no Ecossistema ReLaTeX}")
-    lines.append(r"A diagramação via motor PDFLaTeX ou LuaLaTeX garante uma separação clara entre a lógica do texto (\texttt{.tex}) e as instruções tipográficas da classe (\texttt{ifftese.cls}). A utilização dos pacotes \texttt{metadados.sty} e \texttt{macros.sty} simplifica a governança de variáveis institucionais e a reprodutibilidade dos relatórios e monografias.")
-    
-    lines.append(r"\subsection{Comparativo Normativo em Tabela \texttt{booktabs}}")
-    lines.append(r"\begin{table}[h!]")
-    lines.append(r"\centering")
-    lines.append(r"\caption{Correlação entre Diretrizes Normativas e Implementação TeX}")
-    lines.append(r"\begin{tabular}{lll}")
-    lines.append(r"\toprule")
-    lines.append(r"\textbf{Componente Acadêmico} & \textbf{Norma ABNT Aplicável} & \textbf{Comando no Ecossistema ReLaTeX} \\")
-    lines.append(r"\midrule")
-    lines.append(r"Resumo e Palavras-Chave & ABNT NBR 6028:2021 & \texttt{\textbackslash begin\{resumo\}} \\")
-    lines.append(r"Citações e Paráfrases & ABNT NBR 10520:2023 & \texttt{\textbackslash cite}, \texttt{\textbackslash citeonline} \\")
-    lines.append(r"Apresentação Tabular & IBGE (1993) / NBR 14724 & \texttt{\textbackslash begin\{tabular\}} com \texttt{booktabs} \\")
-    lines.append(r"Lista de Referências & ABNT NBR 6023:2018/2020 & \texttt{\textbackslash printbibliography} \\")
-    lines.append(r"\bottomrule")
-    lines.append(r"\end{tabular}")
-    lines.append(r"\end{table}")
-    
-    lines.append(r"\section{Aplicação Prática e Resolução de Inconsistências Comuns}")
-    lines.append(r"Durante a redação acadêmica, problemas frequentes incluem o emprego inadequado de tabelas providas de linhas verticais em desacordo com a norma IBGE (1993), citações sem identificação de página em transcrições diretas e ausência de vetorização em ilustrações técnicas. O cumprimento da normalização elimina essas irregularidades.")
-    
-    lines.append(r"\section{Síntese Crítica e Autonomia Científica}")
-    lines.append(r"A proficiência técnica no uso da normalização ABNT em convergência com a precisão tipográfica do LaTeX consolida a autonomia do pesquisador, valorizando a qualidade e a reprodutibilidade dos trabalhos publicados no Instituto Federal Fluminense.")
+    import glob
+    md_files = glob.glob(f"content/pt-br/resource/latex/aula-{num_str}-*.md")
+    if md_files:
+        with open(md_files[0], 'r', encoding='utf-8') as f:
+            md_content = f.read()
+        lines.append(md_to_latex_notes(md_content))
+    else:
+        lines.append(r"Conteúdo da aula não encontrado.")
     
     lines.append(r"\begin{thebibliography}{99}")
     lines.append(r"\bibitem{nbr14724} ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. \textit{NBR 14724: Informação e documentação --- Trabalhos acadêmicos --- Apresentação.} Rio de Janeiro: ABNT, 2011.")
@@ -549,6 +695,14 @@ def compilar_pdf(tex_code, output_pdf_path, cls_dir=None, is_dark=False, url_qr=
             shutil.copy2(logo_src, os.path.join(img_dir, "logoiff.png"))
         elif os.path.exists("/home/pedro/Downloads/_cosmic_assets/iff/iffbomjesusvert-1.png"):
             shutil.copy2("/home/pedro/Downloads/_cosmic_assets/iff/iffbomjesusvert-1.png", os.path.join(img_dir, "logoiff.png"))
+            
+        noite_src = "/home/pedro/Documentos/pesquisa/midias/noite_estrelada_original.jpg"
+        if os.path.exists(noite_src):
+            shutil.copy2(noite_src, os.path.join(img_dir, "noite_estrelada.jpg"))
+        else:
+            # Fallback mock file to avoid pdflatex error if missing
+            with open(os.path.join(img_dir, "noite_estrelada.jpg"), "w") as f:
+                f.write("")
                     
         cmd = ["pdflatex", "-interaction=nonstopmode", "documento.tex"]
         subprocess.run(cmd, cwd=tmp_dir, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
@@ -639,10 +793,11 @@ def main():
             
         # 3. PPTX Institucional - Modelo Branco (.pptx)
         pptx_out_branco = os.path.join(dir_slides_pptx, f"aula-{num_str}-branco.pptx")
-        pptx_out_padrao = os.path.join(dir_slides_pptx, f"aula-{num_str}.pptx")
+        pptx_out_padrao_zip = os.path.join(dir_slides_pptx, f"aula-{num_str}.zip")
         if os.path.exists(pptx_template_branco):
             popule_pptx_institucional(pptx_template_branco, pptx_out_branco, num_str, titulo, subtitulo, is_dark=False, url_qr=url_aula)
-            shutil.copy2(pptx_out_branco, pptx_out_padrao)
+            if os.path.exists(pptx_out_branco.replace('.pptx', '.zip')):
+                shutil.copy2(pptx_out_branco.replace('.pptx', '.zip'), pptx_out_padrao_zip)
             
         # 4. PPTX Institucional - Modelo Preto (.pptx)
         pptx_out_preto = os.path.join(dir_slides_pptx, f"aula-{num_str}-preto.pptx")

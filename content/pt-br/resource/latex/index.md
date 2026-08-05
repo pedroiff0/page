@@ -355,19 +355,19 @@ A programação do curso está estruturada em **5 Módulos Didáticos**, cada um
 
 - **Aula 01: [Epistemologia, Problematização e Hipóteses](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-01-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-01-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-01-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-01-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses#recursos-adicionais)  
 
 - **Aula 02: [Objetivos, Taxonomia de Bloom e Justificativa](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa)**  
   *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-02-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-02-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-02-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-02-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-02.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-02-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-02-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-02.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa#recursos-adicionais)  
 
 - **Aula 03: [Resumo, Abstract e Palavras-Chave (NBR 6028:2021)](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028)**  
   *Escopo e Normas:* ABNT NBR 6028 / ABNT NBR 6028:2021  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-03-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-03-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-03-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-03-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-03.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-03-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-03-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-03.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028#recursos-adicionais)  
 
 - **Aula 04: [Elementos Pré-Textuais NBR 14724](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724)**  
   *Escopo e Normas:* ABNT NBR 14724 / ABNT NBR 6027:2012  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-04-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-04-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-04-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-04-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-04-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-04-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724#recursos-adicionais)  
 
 ---
 
@@ -375,19 +375,19 @@ A programação do curso está estruturada em **5 Módulos Didáticos**, cada um
 
 - **Aula 05: [Introdução e Lacuna de Pesquisa (*Research Gap*)](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa)**  
   *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-05-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-05-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-05-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-05-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa#recursos-adicionais)  
 
 - **Aula 06: [Revisão Sistemática da Literatura e Protocolo PRISMA 2020](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma)**  
   *Escopo e Normas:* ABNT NBR 14724 / ABNT NBR 6023:2018  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-06-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-06-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-06-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-06-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-06.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-06-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-06-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-06.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma#recursos-adicionais)  
 
 - **Aula 07: [Metodologia, Materiais e Reprodutibilidade na ABNT](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade)**  
   *Escopo e Normas:* ABNT NBR 14724:2011 / ABNT NBR 6023:2018  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-07-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-07-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-07-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-07-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-07-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-07-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade#recursos-adicionais)  
 
 - **Aula 08: [Ética na Pesquisa (Plataforma Brasil) e IA](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia)**  
   *Escopo e Normas:* ABNT NBR 6023:2018 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-08-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-08-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-08-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-08-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-08-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-08-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia#recursos-adicionais)  
 
 ---
 
@@ -395,19 +395,19 @@ A programação do curso está estruturada em **5 Módulos Didáticos**, cada um
 
 - **Aula 09: [Resultados: Tabelas IBGE vs. Quadros ABNT](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)**  
   *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-09-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-09-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-09-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-09-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-09-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-09-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt#recursos-adicionais)  
 
 - **Aula 10: [Discussão, Citações (10520) e Referências (6023)](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023)**  
   *Escopo e Normas:* ABNT NBR 10520:2023 / ABNT NBR 6023  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-10-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-10-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-10-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-10-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-10.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-10-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-10-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-10.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023#recursos-adicionais)  
 
 - **Aula 11: [Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-11-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-11-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-11-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-11-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex#recursos-adicionais)  
 
 - **Aula 12: [Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-12-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-12-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-12-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-12-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-12-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-12-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs#recursos-adicionais)  
 
 ---
 
@@ -415,19 +415,19 @@ A programação do curso está estruturada em **5 Módulos Didáticos**, cada um
 
 - **Aula 13: [Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-13-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-13-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-13-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-13-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-13.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-13-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-13-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-13.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber#recursos-adicionais)  
 
 - **Aula 14: [Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-14-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-14-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-14-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-14-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots#recursos-adicionais)  
 
 - **Aula 15: [Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-15-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-15-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-15-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-15-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-15.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-15-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-15-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-15.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty#recursos-adicionais)  
 
 - **Aula 16: [Desenvolvimento de Pacotes .sty - Programação TeX e Macros](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-16-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-16-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-16-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-16-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-16-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-16-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty#recursos-adicionais)  
 
 ---
 
@@ -435,19 +435,19 @@ A programação do curso está estruturada em **5 Módulos Didáticos**, cada um
 
 - **Aula 17: [Engenharia de Classes .cls - Anatomia da ifftese e abntex2](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls)**  
   *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-17-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-17-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-17-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-17-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-17-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-17-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls#recursos-adicionais)  
 
 - **Aula 18: [Controle Avançado de Floats e NBR 6027](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-18-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-18-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-18-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-18-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027#recursos-adicionais)  
 
 - **Aula 19: [Classes Especializadas (Beamer, Poster e Relatório)](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-19-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-19-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-19-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-19-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-19-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-19-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp#recursos-adicionais)  
 
 - **Aula 20: [Automação LaTeX, Git e Integração Contínua CI/CD](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua)**  
   *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-20-preto.pdf) • [📊 PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-20-branco.pptx) • [📊 PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-20-preto.pptx) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua#recursos-adicionais)  
+  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-20-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua#recursos-adicionais)  
 
 ---
 

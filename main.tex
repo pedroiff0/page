@@ -1,0 +1,255 @@
+\documentclass[10pt, aspectratio=169]{slidesiffmodelo}
+\usepackage{metadados}
+
+% ==========================================
+% DADOS DO TRABALHO
+% ==========================================
+\title{Título do Trabalho: subtítulo do trabalho}
+
+\author{
+    \orcidlink{0009-0003-6724-4640}Pedro Henrique Rocha de Andrade\inst{1}, 
+    % (ORCID é OPCIONAL) Informe mais autores:
+    Fulano da Silva\inst{2},
+}
+
+\institute{
+    \inst{1} Instituto Federal Fluminense \textit{Campus} Bom Jesus do Itabapoana\\
+    % Para mais uma instituição, informe:
+    \inst{2} Instituto Federal Fluminense \textit{Campus} Itaperuna\\
+}
+
+\begin{document}
+
+% ==========================================
+% Comece a escrever aqui! Não apague \titlepage
+% ==========================================
+
+% ==========================================
+% CAPA
+% ==========================================
+\begin{frame}[t]
+    \titlepage
+\end{frame}
+
+% ==========================================
+% Sumário
+% Item opcional, se quiser, remova todo o frame (\begin{frame}{Frame Title}\end{frame})
+% ==========================================
+\begin{frame}[t,small]
+    \frametitle{Sumário}
+    \small
+    \tableofcontents[hideallsubsections,sectionstyle=show]
+\end{frame}
+
+% ==========================================
+% Introdução 
+% ==========================================
+\section{Introdução}
+
+% ==========================================
+% Slide 1 da Introdução (Com imagem!)
+% ==========================================
+\subsection{Contexto}
+\begin{frame}[t, allowframebreaks,small]
+    \frametitle{Contexto}    
+    \begin{textoimagem}
+        \begin{itemize}
+            \item Telescópios de grande porte;
+            \item \textit{Big Data};
+            \item Propriedades estelares;
+            \item Características químicas e dinâmicas da vizinhança solar;
+            \item Arqueologia Galáctica;
+            \item Evolução da Via Láctea.
+        \end{itemize}
+        
+    \colunaimagem
+% ==========================================
+% \inserirfigura[LARGURA (opcional, use para redimensionar)]{local do arquivvo}{Título}{Fonte (deixe vazio se prefrir.)}{Label para chamadas no texto} 
+% ==========================================    
+        \inserirfigura[width=0.8\linewidth]{img/gaia.jpg}{Satélite \emph{Gaia}, da Agência Espacial Europeia (ESA) Créditos: ESA/ATG medialab}{}{fig:gaia} 
+    \end{textoimagem}
+\end{frame}
+
+% ==========================================
+% Slide 2 da Introdução (Com imagem!)
+% ==========================================
+\subsection{Catálogos}
+\begin{frame}[t, allowframebreaks]
+    \frametitle{Surveys}
+    \begin{textoimagem}
+        \begin{itemize}
+            \item Cruzamento de Dados;
+            \item \emph{Gaia} Catalogue of Nearby Stars (GCNS), com $\sim 330$ mil \estrela até 100pc;
+            \item Galactic Archaeology with HERMES (GALAH DR4), com $\sim 900$ mil \estrela.
+        \end{itemize}
+        
+    \colunaimagem
+% ==========================================
+% \inserirfigura[LARGURA (opcional, use para redimensionar)]{local do arquivvo}{Título}{Fonte (deixe vazio se prefrir.)}{Label para chamadas no texto} 
+% ==========================================
+        \inserirfigura[width=0.8\linewidth]{img/aat_galah.jpeg}{Anglo-Australian Telescope. Créditos: Siding Spring Observatory.}{}{fig:galah} 
+    \end{textoimagem}
+\end{frame}
+
+% ==========================================
+% Objetivos 
+% ==========================================
+\section{Objetivos}
+\begin{frame}[t]
+    \frametitle{Objetivos}
+    \begin{itemize}
+        \item Caracterizar as propriedades físicas, químicas e cinemáticas das \estrela;
+        \item Compreender a composição química;
+        \item Evolução dinâmica da nossa vizinhança solar.
+    \end{itemize}
+\end{frame}
+
+% ==========================================
+% Metodologia 
+% ==========================================
+\section{Metodologia}
+\begin{frame}[t, img]
+\frametitle{Metodologia}
+    \begin{itemize}
+        \item Amostra final: $\sim 6\,000$ \estrela;
+        \item Parâmetros da limpeza: 
+        \begin{itemize}
+            \item \feh;
+            \item \mgfe; 
+            \item \teff;
+            \item \logg;
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+
+% ==========================================
+% Resultados 
+% ==========================================
+\section{Resultados}
+
+% ==========================================
+% Slide 1 de Resultado:
+% ==========================================
+\begin{frame}[t,img]
+    \frametitle{Resultados}
+    \begin{textoimagem}
+        \begin{enumerate}
+            \item Diagrama de Abundâncias Químicas;
+            \item Diagrama de Kiel e Idade;
+            \item Diagrama de Toomre;
+            \item Diagrama Tinsley-Wallerstein.
+        \end{enumerate}
+        
+    \colunaimagem
+    
+        \inserirfigura{img/anatomia.png}{Anatomia da Via Láctea. Créditos}{}{fig:anatomia} 
+    \end{textoimagem}
+\end{frame}
+
+% ==========================================
+% Slide 2 de Resultado:
+% ==========================================
+\subsection{Abundâncias Químicas}
+\begin{frame}[t,img]
+    \frametitle{Diagrama de Abundâncias Químicas}
+    % Sem colunas, ajustamos apenas o width para dar um visual equilibrado no centro
+    \vspace*{-1em}
+    \inserirfigura[width=0.9\linewidth]{img/SBPC_Fig1_Feh_MgFe.pdf}{Distribuição das abundâncias de \feh \, e \mgfe.}{}{fig:histograma}
+\end{frame}
+
+% ==========================================
+% Slide 3 de Resultado:
+% ==========================================
+\subsection{Kiel e Idade}
+\begin{frame}[t,img]
+    \frametitle{Diagrama de Kiel e Idade}
+    \vspace*{-1em}
+    \inserirfigura[width=0.9\linewidth]{img/SBPC_Fig2_Kiel_Idade.pdf}{Diagrama de Kiel e distribuição de idades estelares.}{}{fig:kiel}
+\end{frame}
+
+% ==========================================
+% Slide 4 de Resultado:
+% ==========================================
+\subsection{Toomre}
+\begin{frame}[t, img] % Ativa a fonte menor automaticamente
+    \frametitle{Diagrama de Toomre}
+    \begin{textoimagem}
+        \begin{itemize}
+            \item Círculos concêntricos em intervalos de 50 km s$^{-1}$;
+            \item 228 \estrela prováveis pertences ao halo; \cite{Bovy2015}
+            \item 5.970 \estrela prováveis pertencentes ao disco.
+        \end{itemize}
+    \colunaimagem
+        \inserirfigura[width=0.9\linewidth]{img/SBPC_Fig3_Toomre.pdf}{Diagrama de Toomre.}{}{fig:toomre}
+    \end{textoimagem}
+\end{frame}
+
+% ==========================================
+% Slide 5 de Resultado:
+% ==========================================
+\subsection{Tinsley-Wallerstein}
+\begin{frame}[t, img]
+    \frametitle{Diagrama Tinsley-Wallerstein}
+    \begin{textoimagem}
+        \begin{itemize}
+            \item \mgfe \, vs. \feh. Utilizado para separação do disco fino/espesso;
+            \item \estrela abaixo da \textit{spline} são do disco fino, acima, do espesso;
+            \item A opacidade reflete a incerteza na classificação. 
+        \end{itemize}
+        
+    \colunaimagem
+    \inserirfigura[width=0.9\linewidth]{img/SBPC_Fig4_Tinsley_Wallerstein.pdf}{Diagrama de Tinsley-Wallerstein.}{}{fig:tinsley}
+    \end{textoimagem}
+\end{frame}
+
+% ==========================================
+% Conclusões e Perspectivas
+% ==========================================
+\section{Conclusões e Perspectivas}
+\begin{frame}[t, allowframebreaks]
+    \frametitle{Conclusões e Perspectivas}
+    \begin{itemize}
+        \item \estrela predominantemente do tipo espectral parecidas com o Sol;
+        \item Idade mediana $\approx 1,6$ bilhões de anos (Ga);
+        \item Ligeira deficiência metálica ($\feh \approx -0,19$ dex.);
+        \item Concordância de espectroscopia e isócronas teóricas;
+        \item Dominância de \estrela do disco, poucas \estrela no halo;
+        \item As \estrela não são tão parecidas com o Sol quanto se esperava!
+    \end{itemize}
+\end{frame}
+
+% ==========================================
+% Slide Final
+% ==========================================
+\begin{frame}[t]
+    \begin{center}
+        \vfill
+        {\Huge \textbf{Obrigado!}} \\
+        \vspace*{1em}
+        % insira aqui seu email ou contato 
+    \end{center}
+\end{frame}
+
+% ==========================================
+% Agradecimentos (Opcional, caso queira, apague todo o frame)
+% ==========================================
+\section*{Agradecimentos}
+\begin{frame}[t,small]
+    \frametitle{Agradecimentos}
+    \small
+    \begin{itemize}
+        \item Agradecemos...
+    \end{itemize}   
+\end{frame}
+
+% ==========================================
+% Referências Bibliográficas
+% Indique o arquivo referencias.bib, e cole todas as suas citações em formato bibtex lá. As citações são automáticas quando você as chama no texto por \citeonline{} ou \cite{}. Se precisa forçar aparecer, use \nocite{} aqui.
+% ==========================================
+\section*{Referências}
+\begin{frame}[allowframebreaks]
+    \frametitle{Referências}   
+    \bibliography{referencias}
+\end{frame}
+
+\end{document}
