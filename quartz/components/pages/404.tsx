@@ -13,6 +13,8 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
       home: "Voltar à página inicial",
       request: "Solicitar esta tradução",
       redirect: "Redirecionando para a versão em português…",
+      issueTitle: "Tradução em falta: {{slug}}",
+      issueBody: "A página `{{slug}}` foi acessada mas ainda não tem tradução para `{{lang}}`.\nPor favor, adicione a tradução desta página.",
     },
     en: {
       title: "Page not found",
@@ -20,6 +22,8 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
       home: "Back to home page",
       request: "Request this translation",
       redirect: "Redirecting to the Portuguese version…",
+      issueTitle: "Missing translation: {{slug}}",
+      issueBody: "The page `{{slug}}` was accessed but has no translation into `{{lang}}` yet.\nPlease add the translation for this page.",
     },
     es: {
       title: "Página no encontrada",
@@ -27,6 +31,8 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
       home: "Volver a la página de inicio",
       request: "Solicitar esta traducción",
       redirect: "Redirigiendo a la versión en portugués…",
+      issueTitle: "Traducción en falta: {{slug}}",
+      issueBody: "La página `{{slug}}` fue accedida pero aún no tiene traducción a `{{lang}}`.\nPor favor, añade la traducción de esta página.",
     },
     fr: {
       title: "Page introuvable",
@@ -34,6 +40,8 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
       home: "Retour à l'accueil",
       request: "Demander cette traduction",
       redirect: "Redirection vers la version portugaise…",
+      issueTitle: "Traduction manquante : {{slug}}",
+      issueBody: "La page `{{slug}}` a été consultée mais n'a pas encore de traduction en `{{lang}}`.\nMerci d'ajouter la traduction de cette page.",
     },
   }
 
@@ -43,7 +51,7 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
         class="notfound-gif"
         src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif"
         alt="404"
-        onerror="this.style.display='none'; var e=document.getElementById('nf-emoji'); if(e) e.style.display='block';"
+        onError={`this.style.display='none'; var e=document.getElementById('nf-emoji'); if(e) e.style.display='block';`}
       />
       <div id="nf-emoji" class="notfound-emoji" style="display:none">👻</div>
       <h1 id="nf-title" data-default="404">404</h1>
@@ -81,12 +89,13 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
             if (basePath.length > 1 && basePath.endsWith("/")) basePath = basePath.slice(0,-1);
             var pathname = window.location.pathname;
             if (basePath.length > 1 && pathname.startsWith(basePath)) pathname = pathname.slice(basePath.length);
-            var slug = pathname.replace(/^\\//,"").replace(/\\.html$/,"").replace(/\\/index$/,"");
+            var slug = pathname.replace(/^\//,"").replace(/\.html$/,"").replace(/\/index$/,"");
             var repo = "pedroiff0/page";
-            var issueTitle = encodeURIComponent("Tradução em falta: " + slug);
+            var issueTitle = encodeURIComponent(
+              T.issueTitle.replace("{{slug}}", slug).replace("{{lang}}", lang)
+            );
             var issueBody = encodeURIComponent(
-              "A página \`" + slug + "\` foi acessada mas ainda não tem tradução para \`" + lang + "\`.\\n" +
-              "Por favor, adicione a tradução desta página."
+              T.issueBody.replace("{{slug}}", slug).replace("{{lang}}", lang)
             );
             if (issueEl) issueEl.href = "https://github.com/" + repo + "/issues/new?title=" + issueTitle + "&body=" + issueBody + "&labels=translation";
 
