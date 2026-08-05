@@ -815,3 +815,72 @@ details.author-details[open] .author-summary {
   white-space: pre-wrap;
   overflow-x: auto;
 }
+
+/* --- Página 404 (centralizada, bonita) --- */
+.notfound {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 1.1rem;
+  padding: 3rem 1.5rem;
+}
+
+.notfound-gif {
+  width: min(320px, 70vw);
+  height: auto;
+  border-radius: 14px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.18);
+}
+
+.notfound-emoji {
+  font-size: 6rem;
+  line-height: 1;
+  animation: nf-float 2.4s ease-in-out infinite;
+}
+
+@keyframes nf-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+
+.notfound h1 {
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  margin: 0;
+  background: linear-gradient(90deg, var(--secondary), var(--tertiary));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.notfound p {
+  max-width: 46ch;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--darkgray);
+  margin: 0;
+}
+
+.notfound-btn {
+  display: inline-block;
+  padding: 0.7rem 1.4rem;
+  border-radius: 999px;
+  background: var(--secondary);
+  color: var(--light);
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.notfound-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.notfound-btn-secondary {
+  background: transparent;
+  color: var(--secondary);
+  border: 1px solid var(--secondary);
+}

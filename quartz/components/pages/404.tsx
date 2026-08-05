@@ -5,96 +5,106 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
   const baseDir = ctx.argv.serve ? "/" : url.pathname
 
+  // textos por idioma (detectado da URL no cliente)
+  const I18N = {
+    pt: {
+      title: "Página não encontrada",
+      msg: "Ops! Não encontramos esta página. Ela pode ser privada ou ainda não foi traduzida para este idioma. Você pode solicitar a tradução abaixo.",
+      home: "Voltar à página inicial",
+      request: "Solicitar esta tradução",
+      redirect: "Redirecionando para a versão em português…",
+    },
+    en: {
+      title: "Page not found",
+      msg: "Oops! We couldn't find this page. It may be private or not translated into this language yet. You can request the translation below.",
+      home: "Back to home page",
+      request: "Request this translation",
+      redirect: "Redirecting to the Portuguese version…",
+    },
+    es: {
+      title: "Página no encontrada",
+      msg: "¡Ups! No encontramos esta página. Puede ser privada o no estar traducida a este idioma todavía. Puedes solicitar la traducción abajo.",
+      home: "Volver a la página de inicio",
+      request: "Solicitar esta traducción",
+      redirect: "Redirigiendo a la versión en portugués…",
+    },
+    fr: {
+      title: "Page introuvable",
+      msg: "Oups ! Nous n'avons pas trouvé cette page. Elle peut être privée ou pas encore traduite dans cette langue. Vous pouvez demander la traduction ci-dessous.",
+      home: "Retour à l'accueil",
+      request: "Demander cette traduction",
+      redirect: "Redirection vers la version portugaise…",
+    },
+  }
+
   return (
-    <article class="popover-hint">
-      <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+    <article class="notfound">
+      <img
+        class="notfound-gif"
+        src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif"
+        alt="404"
+        onerror="this.style.display='none'; var e=document.getElementById('nf-emoji'); if(e) e.style.display='block';"
+      />
+      <div id="nf-emoji" class="notfound-emoji" style="display:none">👻</div>
+      <h1 id="nf-title" data-default="404">404</h1>
+      <p id="nf-msg">…</p>
+      <a id="nf-home" class="notfound-btn" href={baseDir}>…</a>
+      <a id="nf-issue" class="notfound-btn notfound-btn-secondary" href="#" target="_blank" rel="noopener">
+        …
+      </a>
       <script
         dangerouslySetInnerHTML={{
           __html: `
-          if (typeof fetchData !== "undefined") {
-            fetchData.then(function(index) {
-              var basePath = document.body.dataset.basepath || "";
-              if (basePath.length > 1 && basePath.endsWith("/")) {
-                basePath = basePath.slice(0, -1);
-              }
-              var pathname = window.location.pathname;
-              var hasBasePrefix = basePath.length > 1 && pathname.startsWith(basePath);
-              if (hasBasePrefix) {
-                pathname = pathname.slice(basePath.length);
-              }
-              if (pathname.startsWith("/")) {
-                pathname = pathname.slice(1);
-              }
-              if (pathname.endsWith("/")) {
-                pathname = pathname.slice(0, -1);
-              }
-              if (pathname.endsWith(".html")) {
-                pathname = pathname.slice(0, -5);
-              }
-              if (pathname.endsWith("/index")) {
-                pathname = pathname.slice(0, -6);
-              }
-              var lowered = pathname.toLowerCase();
-              if (lowered !== pathname && index[lowered] != null) {
-                var prefix = hasBasePrefix ? basePath : "";
-                var target = prefix + (prefix.endsWith("/") ? "" : "/") + lowered;
-                window.location.replace(target);
-                return;
-              }
+          (function(){
+            var I18N = ${JSON.stringify(I18N)};
+            function detectLang() {
+              var p = window.location.pathname.replace(/^\\//, "");
+              var langs = ["pt-br","en","es","fr"];
+              var hit = langs.find(function(l){ return p === l || p.startsWith(l + "/"); });
+              if (hit === "pt-br") return "pt";
+              return hit || "pt";
+            }
+            var lang = detectLang();
+            var T = I18N[lang] || I18N.pt;
 
-              // --- pagina de traducao ausente ---
-              var langs = ["pt-br", "en", "es", "fr"];
-              var langIdx = langs.findIndex(function(l){ return pathname.startsWith(l + "/"); });
-              if (langIdx !== -1) {
-                var lang = langs[langIdx];
-                var rest = pathname.slice(lang.length + 1);
-                var msgs = {
-                  "pt-br": "Oops, não foi possível obter a tradução para você. Sinto muito... Em breve estará traduzida!",
-                  "en": "Oops, we couldn't find the translation for you. I'm sorry... It will be translated soon!",
-                  "es": "Ups, no pudimos encontrar la traducción para ti. Lo siento... ¡Pronto estará traducida!",
-                  "fr": "Oups, nous n'avons pas trouvé la traduction pour vous. Désolé... Elle sera bientôt traduite !"
-                };
-                var p = document.querySelector('p');
-                if (p) p.textContent = msgs[lang] || msgs["en"];
+            var titleEl = document.getElementById("nf-title");
+            var msgEl = document.getElementById("nf-msg");
+            var homeEl = document.getElementById("nf-home");
+            var issueEl = document.getElementById("nf-issue");
+            if (titleEl) titleEl.textContent = T.title;
+            if (msgEl) msgEl.textContent = T.msg;
+            if (homeEl) homeEl.textContent = T.home;
+            if (issueEl) issueEl.textContent = T.request;
 
-                // link para abrir issue pedindo a traducao (pre-preenchido)
-                var repo = "pedroiff0/page";
-                var title = encodeURIComponent("Tradução em falta: " + pathname);
-                var body = encodeURIComponent(
-                  "A página \`" + pathname + "\` foi acessada mas ainda não tem tradução para \`" + lang + "\`.\n" +
-                  "Por favor, adicione a tradução desta página (espelhar o slug em \`" + lang + "/\`)."
-                );
-                var issueUrl = "https://github.com/" + repo + "/issues/new?title=" + title + "&body=" + body + "&labels=translation";
-                var a = document.createElement("a");
-                a.href = issueUrl;
-                a.target = "_blank";
-                a.rel = "noopener";
-                a.textContent = (lang === "pt-br") ? "Pedir esta tradução (abrir issue)" :
-                               (lang === "en") ? "Request this translation (open issue)" :
-                               (lang === "es") ? "Solicitar esta traducción (abrir issue)" :
-                               "Demander cette traduction (ouvrir un issue)";
-                a.style.display = "inline-block";
-                a.style.marginTop = "0.8rem";
-                if (p && p.parentNode) p.parentNode.insertBefore(a, p.nextSibling);
+            // issue pre-preenchida pedindo a traducao da pagina acessada
+            var basePath = document.body.dataset.basepath || "";
+            if (basePath.length > 1 && basePath.endsWith("/")) basePath = basePath.slice(0,-1);
+            var pathname = window.location.pathname;
+            if (basePath.length > 1 && pathname.startsWith(basePath)) pathname = pathname.slice(basePath.length);
+            var slug = pathname.replace(/^\\//,"").replace(/\\.html$/,"").replace(/\\/index$/,"");
+            var repo = "pedroiff0/page";
+            var issueTitle = encodeURIComponent("Tradução em falta: " + slug);
+            var issueBody = encodeURIComponent(
+              "A página \`" + slug + "\` foi acessada mas ainda não tem tradução para \`" + lang + "\`.\\n" +
+              "Por favor, adicione a tradução desta página."
+            );
+            if (issueEl) issueEl.href = "https://github.com/" + repo + "/issues/new?title=" + issueTitle + "&body=" + issueBody + "&labels=translation";
 
-                // redireciona para o pt-br equivalente apos 5s (se existir)
-                var ptTarget = (hasBasePrefix ? basePath : "") + "/pt-br/" + rest;
-                var exists = index[ptTarget.toLowerCase()] != null || index["pt-br/" + rest.toLowerCase()] != null;
+            // redirect para pt-br equivalente apos 5s (se existir)
+            if (typeof fetchData !== "undefined") {
+              fetchData.then(function(index){
+                var rest = slug.replace(/^(pt-br|en|es|fr)\\/?/, "");
+                var ptTarget = (basePath.length>1?basePath:"") + "/pt-br/" + rest;
+                var exists = index[ptTarget.toLowerCase()] != null || index[("pt-br/"+rest).toLowerCase()] != null;
                 if (exists) {
-                  setTimeout(function () {
-                    var msg2 = (lang === "pt-br") ? "Redirecionando para a versão em português..." :
-                               (lang === "en") ? "Redirecting to the Portuguese version..." :
-                               (lang === "es") ? "Redirigiendo a la versión en portugués..." :
-                               "Redirection vers la version portugaise...";
-                    if (p) p.textContent = msg2;
+                  setTimeout(function(){
+                    if (msgEl) msgEl.textContent = T.redirect;
                     window.location.replace(ptTarget);
                   }, 5000);
                 }
-              }
-            });
-          }
+              });
+            }
+          })();
           `,
         }}
       />
