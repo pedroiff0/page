@@ -11,13 +11,29 @@ Bem-vindo ao portal da matriz curricular do curso de **Bacharelado em Engenharia
 
 ---
 
-> [!note] Ranking: Desempenho e Relevância Acadêmica
-> ### 🏆 Destaques e Classificação da Matriz Curricular
-> 
-> - 🥇 **Engenharia de Software e Sistemas Distribuidos** — *Foco estratégico em arquitetura de microsserviços, DevOps e sistemas de alta concorrência.*
-> - 🥈 **Metodologia Científica e ReLaTeX** — *Excelência em rigor metodológico (ABNT NBR 14724) e automação de trabalhos acadêmicos.*
-> - 🥉 **Sistemas Embarcados e Microcontroladores** — *Integração hardware-software, programação de baixo nível e Internet das Coisas (IoT).*
-> - ⭐ **Inteligência Artificial e Processamento de Sinais** — *Pesquisa avançada em algoritmos preditivos, visão computacional e séries temporais.*
+> [!note] Ranking:
+> 1. Equações Diferenciais
+> 2. Cálculo 1
+> 3. Cálculo 4 *
+> 4. Engenharia de Software
+> 5. Cálculo 2
+> 6. Cálculo 3
+> 7. Gestão de Projetos *
+> 8. Matemática Discreta *
+> 9. Probabilidade e Estatística *
+> 10. Física 1 *
+> 11. Física 2
+> 12. Física Experimental 1 *
+> 13. Física Experimental 2
+> 14. Fundamentos da Computação
+> 15. Lógica de Computação
+> 16. Teoria Geral da Administração
+> 17. Metodologia
+> 18. Expressão
+> 19. PFC 1 *
+> 20. PFC 2 *
+> 21. POO 1 *
+> 22. POO 2 *
 
 ---
 
