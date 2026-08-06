@@ -40,20 +40,19 @@ A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à ma
 
 ## 📖 Biblioteca Digital de Manuais, Apostilas e Modelos (.pdf & .zip)
 
-> [!info] Repositório Local de Manuais e Documentos Oficiais
-> ### 📅 Documentos da Disciplina
+> [!note] 📅 Documentos Oficiais da Disciplina
 > - 📅 **[Cronograma e Ementa Analítica da Formação (PDF)](/assets/biblioteca/latex-escrita/documentos/cronograma-e-ementa.pdf)** — *Documento em PDF com o detalhamento das 80h de curso.*
 > - 📜 **[Guia Institucional de Diretrizes e Integridade (PDF)](/assets/biblioteca/latex-escrita/documentos/guia-e-diretrizes.pdf)** — *Normativo ético e conduta discente em laboratório.*
->
-> ### 📑 Manuais, Apostilas e Guias de Normalização (PDF)
+
+> [!info] 📑 Manuais, Apostilas e Guias de Normalização (PDF)
 > - 📘 **[Apostila Completa de LaTeX — UFES (PDF)](/assets/biblioteca/latex-escrita/apostila-latex-ufes.pdf)** — *Guia prático e abrangente de introdução, ambientes e tópicos avançados em LaTeX.*
 > - 📕 **[Manual Oficial do Pacote biblatex-abnt (PDF)](/assets/biblioteca/latex-escrita/biblatex-abnt-manual.pdf)** — *Documentação canônica para gestão de citações e referências bibliográficas ABNT no Biber.*
 > - 📄 **[Guia Rápido / Cheatsheet BibLaTeX (PDF)](/assets/biblioteca/latex-escrita/biblatex-cheatsheet.pdf)** — *Folha de consulta rápida para tipos de entrada e comandos de citação.*
 > - 🎨 **[Figuras e Diagramas Vetoriais em TikZ — UFPB (PDF)](/assets/biblioteca/latex-escrita/figuras-diagramas-tikz-ufpb.pdf)** — *Manual de construção gráfica de esquemas, circuitos e diagramas vetoriais programáveis.*
 > - 📑 **[Guia Ilustrado de Normalização ABNT — PUC Minas (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf)** — *Manual prático e exemplificado de formatação de trabalhos acadêmicos.*
 > - 📙 **[Manual Complementar de Normalização — UNIP (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-unip.pdf)** — *Diretrizes complementares de elementos pré-textuais, citações e referências.*
->
-> ### 📦 Modelos de Código-Fonte e Templates Institucionais (.zip)
+
+> [!tip] 📦 Modelos de Código-Fonte e Templates Institucionais (.zip)
 > - 📦 **[Modelo de TCC e Monografia — ifftese.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — *Pacote zip com classe, preâmbulo, metadados e estrutura completa para TCC.*
 > - 📦 **[Modelo de Pôster / Banner A0 — iffposter.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-iffposter-banner.zip)** — *Pacote zip para confecção de banners e pôsteres acadêmicos.*
 > - 📦 **[Modelo de Slides Institucionais — slidesiffmodelo.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-slide-iffbji.zip)** — *Template zip 16:9 em Branco e Preto para apresentações de TCC.*
