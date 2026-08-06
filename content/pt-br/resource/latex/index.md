@@ -40,7 +40,11 @@ A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à ma
 
 ## 📖 Biblioteca Digital de Manuais, Apostilas e Modelos (.pdf & .zip)
 
-> [!info] Repositório Local de Manuais e Modelos de Código
+> [!info] Repositório Local de Manuais e Documentos Oficiais
+> ### 📅 Documentos da Disciplina
+> - 📅 **[Cronograma e Ementa Analítica da Formação (PDF)](/assets/biblioteca/latex-escrita/documentos/cronograma-e-ementa.pdf)** — *Documento em PDF com o detalhamento das 80h de curso.*
+> - 📜 **[Guia Institucional de Diretrizes e Integridade (PDF)](/assets/biblioteca/latex-escrita/documentos/guia-e-diretrizes.pdf)** — *Normativo ético e conduta discente em laboratório.*
+>
 > ### 📑 Manuais, Apostilas e Guias de Normalização (PDF)
 > - 📘 **[Apostila Completa de LaTeX — UFES (PDF)](/assets/biblioteca/latex-escrita/apostila-latex-ufes.pdf)** — *Guia prático e abrangente de introdução, ambientes e tópicos avançados em LaTeX.*
 > - 📕 **[Manual Oficial do Pacote biblatex-abnt (PDF)](/assets/biblioteca/latex-escrita/biblatex-abnt-manual.pdf)** — *Documentação canônica para gestão de citações e referências bibliográficas ABNT no Biber.*
@@ -48,8 +52,6 @@ A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à ma
 > - 🎨 **[Figuras e Diagramas Vetoriais em TikZ — UFPB (PDF)](/assets/biblioteca/latex-escrita/figuras-diagramas-tikz-ufpb.pdf)** — *Manual de construção gráfica de esquemas, circuitos e diagramas vetoriais programáveis.*
 > - 📑 **[Guia Ilustrado de Normalização ABNT — PUC Minas (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf)** — *Manual prático e exemplificado de formatação de trabalhos acadêmicos.*
 > - 📙 **[Manual Complementar de Normalização — UNIP (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-unip.pdf)** — *Diretrizes complementares de elementos pré-textuais, citações e referências.*
-> - 📅 **[Cronograma e Ementa Analítica da Formação (PDF)](/assets/biblioteca/latex-escrita/documentos/cronograma-e-ementa.pdf)** — *Documento em PDF com o detalhamento das 80h de curso.*
-> - 📜 **[Guia Institucional de Diretrizes e Integridade (PDF)](/assets/biblioteca/latex-escrita/documentos/guia-e-diretrizes.pdf)** — *Normativo ético e conduta discente em laboratório.*
 >
 > ### 📦 Modelos de Código-Fonte e Templates Institucionais (.zip)
 > - 📦 **[Modelo de TCC e Monografia — ifftese.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — *Pacote zip com classe, preâmbulo, metadados e estrutura completa para TCC.*
@@ -71,40 +73,11 @@ A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à ma
 
 ---
 
-## 📚 Aulas do Curso (Padrão JournalClub EngComp)
+## 🗺️ Tabela Geral e Acesso Direto às 20 Aulas
 
-A tabela abaixo é alimentada dinamicamente pelo ecossistema Quartz (bloco `base` nativo do JournalClub EngComp), listando todas as aulas e seus materiais didáticos:
+Acesse abaixo todas as 20 aulas do curso com links diretos para leitura das notas e download dos slides:
 
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("pt-br/resource/latex")'
-    - 'note.publish'
-    - 'note.notas'
-formulas:
-  aula: 'link(file.path, note.title)'
-properties:
-  formula.aula:
-    displayName: Aula & Título da Aula
-  note.notas:
-    displayName: Notas de Aula (PDF)
-  note.slide:
-    displayName: Slide Institucional (PDF)
-views:
-  - type: table
-    name: Aulas de LaTeX & Escrita Acadêmica
-    order:
-      - formula.aula
-      - note.notas
-      - note.slide
-    sort:
-      - property: file.name
-        direction: ASC
-```
-
-### 📋 Relação Completa de Aulas e Downloads Diretos
-
-| Aula | Título & Conteúdo | Notas de Aula (PDF) | Slide Institucional (PDF) |
+| Aula | Título & Conteúdo Central | Notas de Aula (PDF) | Slide Institucional (PDF) |
 | :---: | :--- | :---: | :---: |
 | Aula 01 | **[Epistemologia, Problematização e Hipóteses](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf) |
 | Aula 02 | **[Objetivos, Taxonomia de Bloom e Justificativa](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-02.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-02-branco.pdf) |
