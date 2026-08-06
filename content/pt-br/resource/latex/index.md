@@ -38,13 +38,30 @@ A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à ma
 
 ---
 
+## 📖 Biblioteca Digital de Manuais, Apostilas e Modelos (.pdf & .zip)
+
+> [!info] Repositório Local de Manuais e Modelos de Código
+> ### 📑 Manuais, Apostilas e Guias de Normalização (PDF)
+> - 📘 **[Apostila Completa de LaTeX — UFES (PDF)](/assets/biblioteca/latex-escrita/apostila-latex-ufes.pdf)** — *Guia prático e abrangente de introdução, ambientes e tópicos avançados em LaTeX.*
+> - 📕 **[Manual Oficial do Pacote biblatex-abnt (PDF)](/assets/biblioteca/latex-escrita/biblatex-abnt-manual.pdf)** — *Documentação canônica para gestão de citações e referências bibliográficas ABNT no Biber.*
+> - 📄 **[Guia Rápido / Cheatsheet BibLaTeX (PDF)](/assets/biblioteca/latex-escrita/biblatex-cheatsheet.pdf)** — *Folha de consulta rápida para tipos de entrada e comandos de citação.*
+> - 🎨 **[Figuras e Diagramas Vetoriais em TikZ — UFPB (PDF)](/assets/biblioteca/latex-escrita/figuras-diagramas-tikz-ufpb.pdf)** — *Manual de construção gráfica de esquemas, circuitos e diagramas vetoriais programáveis.*
+> - 📑 **[Guia Ilustrado de Normalização ABNT — PUC Minas (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf)** — *Manual prático e exemplificado de formatação de trabalhos acadêmicos.*
+> - 📙 **[Manual Complementar de Normalização — UNIP (PDF)](/assets/biblioteca/latex-escrita/guia-abnt-unip.pdf)** — *Diretrizes complementares de elementos pré-textuais, citações e referências.*
+> - 📅 **[Cronograma e Ementa Analítica da Formação (PDF)](/assets/biblioteca/latex-escrita/documentos/cronograma-e-ementa.pdf)** — *Documento em PDF com o detalhamento das 80h de curso.*
+> - 📜 **[Guia Institucional de Diretrizes e Integridade (PDF)](/assets/biblioteca/latex-escrita/documentos/guia-e-diretrizes.pdf)** — *Normativo ético e conduta discente em laboratório.*
+>
+> ### 📦 Modelos de Código-Fonte e Templates Institucionais (.zip)
+> - 📦 **[Modelo de TCC e Monografia — ifftese.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-ifftese-tcc.zip)** — *Pacote zip com classe, preâmbulo, metadados e estrutura completa para TCC.*
+> - 📦 **[Modelo de Pôster / Banner A0 — iffposter.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-iffposter-banner.zip)** — *Pacote zip para confecção de banners e pôsteres acadêmicos.*
+> - 📦 **[Modelo de Slides Institucionais — slidesiffmodelo.cls (.zip)](/assets/biblioteca/latex-escrita/modelo-slide-iffbji.zip)** — *Template zip 16:9 em Branco e Preto para apresentações de TCC.*
+
+---
+
 ## 📊 Sistema Resumido de Avaliação e Cronograma
 
-> [!info] Informações Gerais da Disciplina
-> - **📅 Período Letivo:** 24/08/2026 a 20/12/2026 | **⏰ Terças-feiras, 14h30 - 17h30**
-> - **👨‍🏫 Responsável:** Prof. Pedro Henrique Rocha de Andrade | **IFF — Campus Bom Jesus do Itabapoana**
-
 > [!tip] Distribuição de Pesos nos Bimestres
+> - **📅 Período Letivo:** 24/08/2026 a 20/12/2026 | **⏰ Terças-feiras, 14h30 - 17h30** (IFF — Campus Bom Jesus do Itabapoana)
 > - **🔹 1º Bimestre (Metodologia e Normalização ABNT — Aulas 01 a 10):**  
 >   - **60%** — Trabalho Prático de Escrita (Lacuna de Pesquisa, PRISMA 2020 e Estrutura ABNT NBR 14724).  
 >   - **40%** — Avaliação Prática em Laboratório (Citações NBR 10520:2023, Referências NBR 6023 e Tabelas IBGE 1993).
@@ -83,13 +100,15 @@ Navegue pelas 20 notas de aula com acesso rápido a downloads diretos de PDFs e 
 
 ---
 
-## 🏛️ Material de Referência e Normalização Científica
+## 🏛️ Material de Referência Externa e Normalização Mundial
 
 > [!important] Fontes Canônicas e Portais Oficiais
-> ### 📖 Normalização e Repositórios Institucionais
-> - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Directrizes canônicas ABNT NBR 14724, NBR 10520 e NBR 6023.*
-> - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório oficial mundial de pacotes e documentações LaTeX2e/LaTeX3.*
-> - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Base de conhecimento e tutoriais práticos da linguagem TeX.*
-> - **[Plataforma Brasil & CEP/CONEP](https://plataformabrasil.saude.gov.br/)** — *Registro e diretrizes éticas para pesquisas com seres humanos.*
-> - **[PRISMA 2020 Statement](http://www.prisma-statement.org/)** — *Protocolo internacional para revisões sistemáticas de literatura.*
-> - **[IBGE — Normas de Apresentação Tabular (1993)](https://biblioteca.ibge.gov.br/)** — *Manual técnico para confecção de tabelas estatísticas oficiais.*
+> ### 🌐 Normalização, Repositórios TeX e Comunidade Científica
+> - **[ABNT — Associação Brasileira de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de consulta às normas ABNT NBR 14724, NBR 10520 e NBR 6023.*
+> - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *O repositório mundial canônico de pacotes, documentações e classes LaTeX2e/LaTeX3.*
+> - **[Overleaf Documentation & TeX Live Guide](https://www.overleaf.com/learn)** — *Guias interativos, documentação de pacotes e tutoriais da linguagem LaTeX.*
+> - **[TUG (TeX Users Group) & TUGboat Journal](https://www.tug.org/)** — *Organização mundial de usuários TeX e publicação científica de engenharia tipográfica.*
+> - **[TikZ & PGF Manual Online (CTAN)](https://tikz.dev/)** — *Documentação técnica oficial para programação gráfica vetorial em LaTeX.*
+> - **[Plataforma Brasil & CEP/CONEP](https://plataformabrasil.saude.gov.br/)** — *Base nacional e unificada dos registros de pesquisas envolvendo seres humanos.*
+> - **[PRISMA 2020 Statement](http://www.prisma-statement.org/)** — *Diretrizes internacionais e fluxogramas recomendados para revisões sistemáticas da literatura.*
+> - **[IBGE — Normas de Apresentação Tabular (1993)](https://biblioteca.ibge.gov.br/)** — *Manual técnico oficial para elaboração e padronização de tabelas estatísticas brasileiras.*
