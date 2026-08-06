@@ -12,35 +12,71 @@ tags:
   - ifftese
 ---
 
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
+  <div>⬅️ <b><a href="/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls">Aula Anterior: 17</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/latex/">Índice do Curso</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp">Próxima Aula: 19</a></b></div>
+</div>
+
 > [!note] 📦 Material Didático e Recursos da Aula
-> - 📄 **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf)** — *Apresentação visual oficial.*
-> - 📄 **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-preto.pdf)** — *Apresentação visual em tema escuro.*
+> - 📄 **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf)** — *Apresentação visual institucional em tema claro.*
+> - 📄 **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > - 📝 **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
 > ### 🛠️ Recursos Adicionais e Links Externos
-> - **[🏛️ Guia Oficial de Modelos e Classes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — *Documentação técnica `ifftese.cls` e pacotes.*
+> - **[🏛️ Guia Oficial de Modelos e Classes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — *Documentação técnica `ifftese.cls`.*
 > - **[📅 Planejamento Letivo e Cronograma](/pt-br/resource/latex/planejamento-e-cronograma)** — *Planejamento analítico das 20 aulas.*
 > - **[📜 Código de Conduta e Diretrizes](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — *Normas éticas e regimento de IA.*
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
-> - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial ABNT NBR 14724, 10520 e 6023.*
-> - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos da linguagem LaTeX.*
+> - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Normas ABNT NBR 14724, 10520 e 6023.*
+> - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
 
-## 📋 Sumário da Aula
-- 1. Fundamentação Teórica e Normativa
-- 2. Aplicação Prática no Ecossistema ReLaTeX
-- 3. Estudo de Caso e Resolução de Problemas
-- 4. Síntese e Diretrizes de Laboratório
+## 📋 Sumário Interativo
+- [📍 1. Fundamentos e Contextualização](#-1-fundamentos-e-contextualização)
+- [📍 2. Conceitos-Chave e Normas ABNT](#-2-conceitos-chave-e-normas-abnt)
+- [📍 3. Aplicação Prática no Ecossistema ReLaTeX](#-3-aplicação-prática-no-ecossistema-relatex)
+- [🔗 Aulas Correlatas & Conexões](#-aulas-correlatas--conexões)
+- [📚 Referências Bibliográficas](#-referências-bibliográficas)
 
-### 📊 Fluxograma do Processo Metodológico (Mermaid)
+## 📖 Conteúdo da Aula
+
+Gestão e posicionamento de elementos flutuantes (*floats*: figuras, tabelas, quadros, algoritmos) e controle preciso de cabeçalhos e rodapés com `fancyhdr` conforme a ABNT NBR 6027.
+
+### 📍 1. Mecanismo de Flutuantes do TeX (`[htbp]`)
+
+Parâmetros de posicionamento de figuras e tabelas, controle do parâmetro `\clearpage` e prevenção do problema de acúmulo de flutuantes no final dos capítulos com o pacote `placeins` (`\FloatBarrier`).
+
+### 📍 2. Customização de Cabeçalhos e Rodapés com `fancyhdr`
+
+Formatação das páginas pré-textuais (sem cabeçalho visível, com contagem oculta) e textuais (cabeçalho com número de página alinhado à margem externa direita).
+
+### 📍 3. Criação de Novos Tipos de Flutuantes (`\newfloat`)
+
+Criação de ambientes de flutuantes personalizados para Listas de Algoritmos, Listas de Códigos Fonte (*Listings*) e Listas de Equações.
+
+### 📊 Fluxograma Metodológico da Aula (Mermaid)
 ```mermaid
 flowchart TD
-    A[Problematização & Referencial ABNT] --> B[Normalização e Estruturação TeX]
-    B --> C[Compilação em PDF Protegido ReLaTeX]
-    C --> D[Avaliação Formativa e Depósito Institucional]
+    A[Fundamentação Teórica] --> B[Normalização ABNT Vigente]
+    B --> C[Implementação em LaTeX/ReLaTeX]
+    C --> D[Compilação e Validação de Resultados]
 ```
+
+## 🔗 Aulas Correlatas & Conexões
+
+Esta aula conecta-se transversalmente aos seguintes tópicos da formação em LaTeX & Escrita Acadêmica:
+
+- 🔗 **[Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)**
+- 🔗 **[Aula 12: Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs)**
 
 ## 📚 Referências Bibliográficas
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 14724**: Informação e documentação — Trabalhos acadêmicos — Apresentação. Rio de Janeiro: ABNT, 2011.
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 10520**: Informação e documentação — Citações em documentos — Apresentação. Rio de Janeiro: ABNT, 2023.
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 6023**: Informação e documentação — Referências — Elaboração. Rio de Janeiro: ABNT, 2018.
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
+  <div>⬅️ <b><a href="/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls">Aula Anterior: 17</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/latex/">Índice do Curso</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp">Próxima Aula: 19</a></b></div>
+</div>

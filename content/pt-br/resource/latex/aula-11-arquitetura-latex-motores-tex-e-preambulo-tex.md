@@ -12,35 +12,71 @@ tags:
   - ifftese
 ---
 
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
+  <div>⬅️ <b><a href="/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023">Aula Anterior: 10</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/latex/">Índice do Curso</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs">Próxima Aula: 12</a></b></div>
+</div>
+
 > [!note] 📦 Material Didático e Recursos da Aula
-> - 📄 **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf)** — *Apresentação visual oficial.*
-> - 📄 **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-preto.pdf)** — *Apresentação visual em tema escuro.*
+> - 📄 **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf)** — *Apresentação visual institucional em tema claro.*
+> - 📄 **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > - 📝 **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf)** — *Apostila técnica completa em LaTeX.*
 > 
 > ### 🛠️ Recursos Adicionais e Links Externos
-> - **[🏛️ Guia Oficial de Modelos e Classes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — *Documentação técnica `ifftese.cls` e pacotes.*
+> - **[🏛️ Guia Oficial de Modelos e Classes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — *Documentação técnica `ifftese.cls`.*
 > - **[📅 Planejamento Letivo e Cronograma](/pt-br/resource/latex/planejamento-e-cronograma)** — *Planejamento analítico das 20 aulas.*
 > - **[📜 Código de Conduta e Diretrizes](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — *Normas éticas e regimento de IA.*
 > - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
-> - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial ABNT NBR 14724, 10520 e 6023.*
-> - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos da linguagem LaTeX.*
+> - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Normas ABNT NBR 14724, 10520 e 6023.*
+> - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
 
-## 📋 Sumário da Aula
-- 1. Fundamentação Teórica e Normativa
-- 2. Aplicação Prática no Ecossistema ReLaTeX
-- 3. Estudo de Caso e Resolução de Problemas
-- 4. Síntese e Diretrizes de Laboratório
+## 📋 Sumário Interativo
+- [📍 1. Fundamentos e Contextualização](#-1-fundamentos-e-contextualização)
+- [📍 2. Conceitos-Chave e Normas ABNT](#-2-conceitos-chave-e-normas-abnt)
+- [📍 3. Aplicação Prática no Ecossistema ReLaTeX](#-3-aplicação-prática-no-ecossistema-relatex)
+- [🔗 Aulas Correlatas & Conexões](#-aulas-correlatas--conexões)
+- [📚 Referências Bibliográficas](#-referências-bibliográficas)
 
-### 📊 Fluxograma do Processo Metodológico (Mermaid)
+## 📖 Conteúdo da Aula
+
+Introdução à Engenharia TeX. Arquitetura do sistema LaTeX, diferença entre motores de compilação (PDFLaTeX vs. LuaLaTeX vs. XeLaTeX), encoding de fontes e estruturação canônica do preâmbulo `.tex`.
+
+### 📍 1. Anatomia dos Motores TeX (PDFLaTeX vs. LuaLaTeX vs. XeLaTeX)
+
+PDFLaTeX compila diretamente para PDF utilizando codificação de 8 bits (T1/utf8). LuaLaTeX e XeLaTeX oferecem suporte nativo a Unicode e fontes do sistema (OTF/TTF) com motor de script Lua incorporado.
+
+### 📍 2. Estrutura do Preâmbulo e Classes de Documento
+
+O preâmbulo define os pacotes (`\usepackage{...}`) e parâmetros globais. Declaração da classe com `\documentclass[12pt,openright,oneside,a4paper]{ifftese}`.
+
+### 📍 3. Ciclo de Compilação e Arquivos Auxiliares (`.aux`, `.log`, `.toc`)
+
+Entendimento dos passos de compilação e gerenciamento de arquivos temporários de índices e referências gerados pelo motor TeX.
+
+### 📊 Fluxograma Metodológico da Aula (Mermaid)
 ```mermaid
 flowchart TD
-    A[Problematização & Referencial ABNT] --> B[Normalização e Estruturação TeX]
-    B --> C[Compilação em PDF Protegido ReLaTeX]
-    C --> D[Avaliação Formativa e Depósito Institucional]
+    A[Fundamentação Teórica] --> B[Normalização ABNT Vigente]
+    B --> C[Implementação em LaTeX/ReLaTeX]
+    C --> D[Compilação e Validação de Resultados]
 ```
+
+## 🔗 Aulas Correlatas & Conexões
+
+Esta aula conecta-se transversalmente aos seguintes tópicos da formação em LaTeX & Escrita Acadêmica:
+
+- 🔗 **[Aula 04: Elementos Pré-Textuais NBR 14724](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724)**
+- 🔗 **[Aula 15: Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty)**
 
 ## 📚 Referências Bibliográficas
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 14724**: Informação e documentação — Trabalhos acadêmicos — Apresentação. Rio de Janeiro: ABNT, 2011.
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 10520**: Informação e documentação — Citações em documentos — Apresentação. Rio de Janeiro: ABNT, 2023.
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 6023**: Informação e documentação — Referências — Elaboração. Rio de Janeiro: ABNT, 2018.
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
+  <div>⬅️ <b><a href="/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023">Aula Anterior: 10</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/latex/">Índice do Curso</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs">Próxima Aula: 12</a></b></div>
+</div>
