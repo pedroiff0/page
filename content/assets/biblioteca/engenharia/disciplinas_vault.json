@@ -1,0 +1,741 @@
+{
+  "CSECBJI.5": {
+    "nome": "Álgebra Linear e Geometria Analítica I",
+    "periodo": 1,
+    "ementa": "Matrizes, Determinantes, Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.",
+    "travas": [
+      "CSECBJI.10",
+      "CSECBJI.11",
+      "CSECBJI.18"
+    ]
+  },
+  "CSECBJI.4": {
+    "nome": "Cálculo I",
+    "periodo": 1,
+    "ementa": "Números Reais, Funções Elementares do Cálculo, Limites e Continuidade de Funções, Derivação, Aplicações da derivada, Integração, Integral Indefinida e Integral Definida.",
+    "travas": [
+      "CSECBJI.11",
+      "CSECBJI.18",
+      "CSECBJI.28",
+      "CSECBJI.9"
+    ]
+  },
+  "CSECBJI.7": {
+    "nome": "Desenho Técnico para Engenharia",
+    "periodo": 1,
+    "ementa": "Utilização de instrumentos de desenho; Normas para desenho; Desenho geométrico; Projeções ortogonais; Perspectiva isométrica; Dimensionamento e cotagem; Cortes e secções.",
+    "travas": []
+  },
+  "CSECBJI.8": {
+    "nome": "Expressão Oral e Escrita",
+    "periodo": 1,
+    "ementa": "Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação. Redação científica: resumo, resenha.",
+    "travas": []
+  },
+  "CSECBJI.1": {
+    "nome": "Fundamentos da Computação",
+    "periodo": 1,
+    "ementa": "História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Software; Unidades de Medida; Linguagens de Programação; Sistemas Operacionais; Redes de Computadores.",
+    "travas": [
+      "CSECBJI.52",
+      "CSECBJI.56"
+    ]
+  },
+  "CSECBJI.2": {
+    "nome": "Introdução à Engenharia",
+    "periodo": 1,
+    "ementa": "Introdução à Engenharia; Regulamentação Profissional; Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para Solução dos Problemas de Engenharia; Modelos e Modelagem na Engenharia; Busca da Solução Ótima; Desenho Universal e Engenharia; Análise de Engenharia; Mundo Quantificado de Engenheiros.",
+    "travas": []
+  },
+  "CSECBJI.3": {
+    "nome": "Lógica para Computação",
+    "periodo": 1,
+    "ementa": "Introdução à Lógica para Computação; Lógica Proposicional; Lógica de Predicados de Primeira Ordem; Aplicações de Lógica",
+    "travas": [
+      "CSECBJI.14",
+      "CSECBJI.35",
+      "CSECBJI.46"
+    ]
+  },
+  "CSECBJI.6": {
+    "nome": "Teoria Geral da Administração",
+    "periodo": 1,
+    "ementa": "O Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas; Planejamento da Ação Empresarial; Ambiente Organizacional.",
+    "travas": []
+  },
+  "CSECBJI.10": {
+    "nome": "Álgebra Linear e Geometria Analítica II",
+    "periodo": 2,
+    "ementa": "Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores autoadjuntos e ortogonais. Valores e vetores próprios. Formas Quadráticas, Cônicas e Quadráticas.",
+    "travas": [
+      "CSECBJI.5",
+      "CSECBJI.77",
+      "CSECBJI.85",
+      "CSECBJI.88"
+    ]
+  },
+  "CSECBJI.13": {
+    "nome": "Algoritmos e Técnicas de Programação",
+    "periodo": 2,
+    "ementa": "Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exemplos informais de algoritmos. Tipos primitivos de dados. Variáveis e constantes. Expressões aritméticas e operadores aritméticos. Expressões lógicas. Operadores relacionais e lógicos. Tabelas verdade. Comando de atribuição. Comandos de entrada e saída. Seleção simples, composta, encadeada e de múltipla escolha. Estruturas de repetição.",
+    "travas": [
+      "CSECBJI.22",
+      "CSECBJI.25",
+      "CSECBJI.38",
+      "CSECBJI.45"
+    ]
+  },
+  "CSECBJI.9": {
+    "nome": "Cálculo II",
+    "periodo": 2,
+    "ementa": "Aplicações da integral definida; Integrais impróprias; Funções de várias variáveis; Derivadas parciais; Aplicações das derivadas parciais; Integração múltipla.",
+    "travas": [
+      "CSECBJI.17",
+      "CSECBJI.19",
+      "CSECBJI.4"
+    ]
+  },
+  "CSECBJI.12": {
+    "nome": "Física Experimental I",
+    "periodo": 2,
+    "ementa": "Introdução à medida: como medir; como expressar corretamente os valores medidos; estimar a precisão de instrumentos. Incerteza de uma medida. Cinemática unidimensional: desenvolvimento dos conceitos de velocidade e aceleração. Representação e análise gráfica. Leis de Newton. Conservação da Energia Mecânica.",
+    "travas": [
+      "CSECBJI.11"
+    ]
+  },
+  "CSECBJI.11": {
+    "nome": "Física I",
+    "periodo": 2,
+    "ementa": "Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).",
+    "travas": [
+      "CSECBJI.19",
+      "CSECBJI.21",
+      "CSECBJI.4",
+      "CSECBJI.5"
+    ]
+  },
+  "CSECBJI.14": {
+    "nome": "Matemática Discreta",
+    "periodo": 2,
+    "ementa": "Teoria dos conjuntos, relações e funções, indução e recursão, análise combinatória, teoria dos números, teoria dos grafos e árvores.",
+    "travas": [
+      "CSECBJI.3",
+      "CSECBJI.34",
+      "CSECBJI.40"
+    ]
+  },
+  "CSECBJI.15": {
+    "nome": "Química Experimental",
+    "periodo": 2,
+    "ementa": "Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais. Ferramentas profissionais na área de química experimental. Teste de chama. Medidas de massa e de volume. Soluções. Reações químicas. Estequiometria. Titulação ácido-base. Termoquímica. Equilíbrio Químico. Cinética Química. Eletroquímica. Grupos funcionais orgânicos.",
+    "travas": [
+      "CSECBJI.23"
+    ]
+  },
+  "CSECBJI.22": {
+    "nome": "Algoritmos e Estruturas de Dados I",
+    "periodo": 3,
+    "ementa": "Estruturas de Dados Homogêneas; Estruturas de Dados Heterogêneas; Passagens de Parâmetros; Alocação Dinâmica de Memória; Estruturas de Dados Lineares; Recursividade; Algoritmos para Pesquisa e Ordenação.",
+    "travas": [
+      "CSECBJI.13",
+      "CSECBJI.30"
+    ]
+  },
+  "CSECBJI.24": {
+    "nome": "Ciências do Ambiente",
+    "periodo": 3,
+    "ementa": "Conceitos Básicos; Ecossistemas; Ciclos Biogeoquímicos; Poluição Ambiental; Desenvolvimento Sustentável.",
+    "travas": []
+  },
+  "CSECBJI.23": {
+    "nome": "Introdução à Ciência dos Materiais",
+    "periodo": 3,
+    "ementa": "Ciência e Engenharia dos Materiais; Estruturas de Sólidos Cristalinos; Imperfeições em Sólidos; Difusão; Propriedades Mecânicas dos Metais; Mecanismo de Aumento de Resistência; Falha; Diagrama de Fase; Ligas Metálicas; Corrosão e Degradação dos Materiais; Ensaios não Destrutivos.",
+    "travas": [
+      "CSECBJI.15"
+    ]
+  },
+  "CSECBJI.21": {
+    "nome": "Mecânica dos Sólidos",
+    "periodo": 3,
+    "ementa": "Conceito de tensão, Forças distribuídas, Carregamentos axiais, Torção, Flexão, Cisalhamento, Carregamento combinado, Análise de tensões, transformação de tensão e Flambagem de colunas.",
+    "travas": [
+      "CSECBJI.11"
+    ]
+  },
+  "CSECBJI.17": {
+    "nome": "Cálculo III",
+    "periodo": 3,
+    "ementa": "Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss; 109 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 111 de 317",
+    "travas": [
+      "CSECBJI.26",
+      "CSECBJI.31",
+      "CSECBJI.9"
+    ]
+  },
+  "CSECBJI.18": {
+    "nome": "Equações Diferenciais",
+    "periodo": 3,
+    "ementa": "Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explícitas. Equações lineares de 2.ª ordem. Equações diferenciais lineares de ordem superior. O método da variação dos parâmetros. Solução de equações diferenciais ordinárias. Introdução a equações diferenciais parciais.",
+    "travas": [
+      "CSECBJI.4",
+      "CSECBJI.5",
+      "CSECBJI.85"
+    ]
+  },
+  "CSECBJI.20": {
+    "nome": "Física Experimental II",
+    "periodo": 3,
+    "ementa": "Estudo das ondas num meio material. Ondas estacionárias. Ondas numa corda. O Pêndulo simples. Os princípios da Termodinâmica: características de substâncias simples e sua relação com as mudanças de temperatura. Dilatação linear. Calor Específico. Entropia e os processos reversíveis.",
+    "travas": [
+      "CSECBJI.19"
+    ]
+  },
+  "CSECBJI.19": {
+    "nome": "Física II",
+    "periodo": 3,
+    "ementa": "Oscilações e ondas (em meio elástico e ondas sonoras); Princípios da termodinâmica: conceitos de temperatura e calor; 1.ª lei da termodinâmica; Teoria cinética dos gases; Entropia; 2.ª lei da termodinâmica.",
+    "travas": [
+      "CSECBJI.11",
+      "CSECBJI.26",
+      "CSECBJI.28",
+      "CSECBJI.9"
+    ]
+  },
+  "CSECBJI.30": {
+    "nome": "Algoritmos e Estruturas de Dados II",
+    "periodo": 4,
+    "ementa": "Árvores binárias de pesquisa. Árvores balanceadas e discussão de desempenho. Fila de prioridades. Pesquisa digital. Ordenação externa. Espalhamento. Implementação de estruturas de dados eficientes em disco.",
+    "travas": [
+      "CSECBJI.22",
+      "CSECBJI.34",
+      "CSECBJI.77"
+    ]
+  },
+  "CSECBJI.31": {
+    "nome": "Cálculo IV",
+    "periodo": 4,
+    "ementa": "Sequências e séries. Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Singularidades e séries de Laurent. Resíduos e polos. Integração complexa. Teorema de Cauchy-Goursat. Teorema do resíduo. Transformada de Laplace. Séries de Fourier. Transformada de Fourier.",
+    "travas": [
+      "CSECBJI.17",
+      "CSECBJI.83"
+    ]
+  },
+  "CSECBJI.25": {
+    "nome": "Cálculo Numérico",
+    "periodo": 4,
+    "ementa": "Introdução: números binários e análise de erros; Solução de equações não lineares; Interpolação e ajuste de curvas; Integração numérica; Soluções numéricas de equações diferenciais ordinárias.",
+    "travas": [
+      "CSECBJI.13"
+    ]
+  },
+  "CSECBJI.32": {
+    "nome": "Economia",
+    "periodo": 4,
+    "ementa": "Capacitar o aluno a conhecer conceitos básicos de economia, os mecanismos de mercado e a formação dos preços. Apresentar elementos de cálculos financeiros básicos, fundamentais para o desenvolvimento de métodos quantitativos para seleção de alternativas econômicas e avaliação de projetos.",
+    "travas": []
+  },
+  "CSECBJI.28": {
+    "nome": "Fenômenos de Transporte",
+    "periodo": 4,
+    "ementa": "Mecânica dos Fluidos – Conceitos e definições. Hidrostática. Hidrodinâmica. Hidráulica técnica – Bombas e Medidores de Vazão. Perda de carga em tubulações. Transmissão de Calor – Conceitos fundamentais. Trocadores de Calor – Aplicação.",
+    "travas": [
+      "CSECBJI.19",
+      "CSECBJI.4"
+    ]
+  },
+  "CSECBJI.27": {
+    "nome": "Física Experimental III",
+    "periodo": 4,
+    "ementa": "Experimentos sobre os conceitos abordados na disciplina de Física III, ou seja, experimentos de eletrostática; Eletrodinâmica; Campo magnético; Eletromagnetismo; Capacitância, indutância, Circuitos Elétricos.",
+    "travas": [
+      "CSECBJI.26"
+    ]
+  },
+  "CSECBJI.26": {
+    "nome": "Física III",
+    "periodo": 4,
+    "ementa": "Eletrostática: conceitos fundamentais, cargas, força, campo e potencial elétrico; energia potencial elétrica, capacitância. Eletrodinâmica: corrente, resistência, Leis de Ohm e circuitos (simples e RC). Campo magnético: conceitos fundamentais, força magnética, momento magnético, efeito Hall, campo magnético em cargas móveis, Lei de Biot-Savart, Lei de Faraday, Lei de Ampère, indutância, circuitos RL e RLC.",
+    "travas": [
+      "CSECBJI.17",
+      "CSECBJI.19",
+      "CSECBJI.33",
+      "CSECBJI.37"
+    ]
+  },
+  "CSECBJI.29": {
+    "nome": "Probabilidade e Estatística",
+    "periodo": 4,
+    "ementa": "Introdução à Estatística; Estatística Descritiva; Probabilidades; Variáveis Aleatórias. Distribuições de Probabilidades.",
+    "travas": [
+      "CSECBJI.41"
+    ]
+  },
+  "CSECBJI.41": {
+    "nome": "Análise de Software Orientado a Objetos",
+    "periodo": 5,
+    "ementa": "Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de Modelagem Unificada; Modelagem de Negócio; Análise de Requisitos; Modelagem de Casos de Uso; Modelagem Conceitual; Modelagem Funcional; Projeto de Software Orientado a Objetos.",
+    "travas": [
+      "CSECBJI.29"
+    ]
+  },
+  "CSECBJI.33": {
+    "nome": "Eletricidade Aplicada",
+    "periodo": 5,
+    "ementa": "Conceitos de grandezas elétricas. Análise de circuitos em corrente alternada. Fornecimento de energia elétrica. Normas técnicas e órgãos reguladores. Automação e controle de processos.",
+    "travas": [
+      "CSECBJI.26",
+      "CSECBJI.82"
+    ]
+  },
+  "CSECBJI.37": {
+    "nome": "Eletrônica Analógica",
+    "periodo": 5,
+    "ementa": "Teoria e circuitos com diodos e diodos com finalidades específicas; Transistores bipolares e circuitos polarizados com transistor; Fonte de alimentação regulada; Osciladores e temporizadores; Tiristores; Amplificadores Operacionais (circuitos lineares e não-lineares).",
+    "travas": [
+      "CSECBJI.26",
+      "CSECBJI.46"
+    ]
+  },
+  "CSECBJI.36": {
+    "nome": "Engenharia de Software",
+    "periodo": 5,
+    "ementa": "149 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 151 de 317 Teoria dos sistemas. Processo de desenvolvimento de software. Análise e projeto de software. Arquitetura de software. Testes. Visão geral sobre manutenção de software.",
+    "travas": [
+      "CSECBJI.42"
+    ]
+  },
+  "CSECBJI.39": {
+    "nome": "Gestão Ambiental",
+    "periodo": 5,
+    "ementa": "Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo, reciclagem e reaproveitamento. Definição de lixo e poluição. Externalidades negativas. Responsabilidade ambiental. Noções de engenharia de materiais. Gestão de recursos hídricos. Gestão da energia. Certificado ISO 14001. Licenciamento ambiental. Estratégias ambientais para os negócios. 156 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 158 de 317",
+    "travas": []
+  },
+  "CSECBJI.40": {
+    "nome": "Linguagens Formais e Autômatos",
+    "periodo": 5,
+    "ementa": "Linguagens regulares, livres de contexto e sensíveis ao contexto. Autômatos. Máquina de turing. Problema da parada. Noções de cálculo lambda e funções recursivas.",
+    "travas": [
+      "CSECBJI.14",
+      "CSECBJI.48"
+    ]
+  },
+  "CSECBJI.35": {
+    "nome": "Modelagem de Dados",
+    "periodo": 5,
+    "ementa": "Evolução dos sistemas de informação. Conceitos Básicos de um Sistema Gerenciador de Banco de Dados. Modelo Entidade Relacionamento. Normalização e Dependências Funcionais. Modelo Relacional. Álgebra Relacional e Cálculo Relacional. Projeto e Implementação de Bancos de Dados.",
+    "travas": [
+      "CSECBJI.3",
+      "CSECBJI.44"
+    ]
+  },
+  "CSECBJI.38": {
+    "nome": "Paradigmas de Linguagem de Programação",
+    "periodo": 5,
+    "ementa": "Visão geral de linguagens de programação: valores e tipos; variáveis e comandos; associações e escopo; abstração e mecanismos de passagens de parâmetros; encapsulamento; sistema de tipos; sequenciadores; concorrência. Paradigmas: imperativo, funcional, lógico, orientado a objetos e paradigmas híbridos.",
+    "travas": [
+      "CSECBJI.13",
+      "CSECBJI.45"
+    ]
+  },
+  "CSECBJI.34": {
+    "nome": "Projeto e Análise de Algoritmos",
+    "periodo": 5,
+    "ementa": "Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limites de Complexidade. Análise de algoritmos iterativos e recursivos.",
+    "travas": [
+      "CSECBJI.14",
+      "CSECBJI.30",
+      "CSECBJI.84",
+      "CSECBJI.90"
+    ]
+  },
+  "CSECBJI.44": {
+    "nome": "Programação Orientada a Objetos I",
+    "periodo": 6,
+    "ementa": "Desenvolvimento de software de complexidade média utilizando o paradigma de orientação a objetos. Estudo e análise dos conceitos de herança e polimorfismo. Discussão de aspectos avançados sobre classes. Discussão sobre empacotamento e distribuição de aplicações. Implementação de estruturas de dados encadeadas. Uso de bibliotecas de coleções. Projeto de sistemas orientados a objetos.",
+    "travas": [
+      "CSECBJI.35"
+    ]
+  },
+  "CSECBJI.49": {
+    "nome": "Compiladores",
+    "periodo": 6,
+    "ementa": "Compiladores e Interpretadores. Análise Léxica e Sintática. Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de código. Otimização. Ambientes de tempo de execução.",
+    "travas": [
+      "CSECBJI.06"
+    ]
+  },
+  "CSECBJI.47": {
+    "nome": "Comunicação de Dados",
+    "periodo": 6,
+    "ementa": "Transmissão de Dados. Meios de Transmissão. Comunicação de Dados Digitais. Controle de Enlace. Multiplexação. Espalhamento Espectral.",
+    "travas": [
+      "CSECBJI.55",
+      "CSECBJI.83"
+    ]
+  },
+  "CSECBJI.46": {
+    "nome": "Eletrônica Digital",
+    "periodo": 6,
+    "ementa": "Sistema de numeração e códigos; Portas lógicas e álgebra booleana; análise de circuitos digitais combinacionais; formas padrão de funções lógicas; minimização de funções lógicas; mapas de Karnaugh; codificadores e decodificadores multiplexadores e demultiplexadores; flip-flops.",
+    "travas": [
+      "CSECBJI.3",
+      "CSECBJI.37",
+      "CSECBJI.53"
+    ]
+  },
+  "CSECBJI.43": {
+    "nome": "Filosofia da Ciência e Tecnologia",
+    "periodo": 6,
+    "ementa": "Teoria do Conhecimento. Arte, técnica, ciência, engenharia - definições. O progresso científico. O progresso tecnológico. Civilização tecnológica. Ciência, Tecnologia e Humanismo.",
+    "travas": []
+  },
+  "CSECBJI.54": {
+    "nome": "Computação, Sociedade e Inclusão",
+    "periodo": 7,
+    "ementa": "Fundamentação e discussão crítica sobre aspectos sociais, econômicos, políticos e culturais dos desdobramentos da computação na sociedade e da sociedade na computação. O computador na sociedade atual. Apropriações da computação e relações de poder: o espaço público, o privado e o sujeito. Recursos e repositórios educacionais abertos. Conteúdos e identidade cultural. Cidadania e educação na sociedade digital. Ferramental tecnológico como construção sócio-cultural.",
+    "travas": []
+  },
+  "CSECBJI.52": {
+    "nome": "Organização de Computadores",
+    "periodo": 7,
+    "ementa": "Arquitetura Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dispositivos de Entrada/Saída",
+    "travas": [
+      "CSECBJI.1",
+      "CSECBJI.61",
+      "CSECBJI.62"
+    ]
+  },
+  "CSECBJI.51": {
+    "nome": "Programação Orientada a Objetos II",
+    "periodo": 7,
+    "ementa": "Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.",
+    "travas": [
+      "CSECBJI.45",
+      "CSECBJI.79"
+    ]
+  },
+  "CSECBJI.50": {
+    "nome": "Projeto de Software Orientado a Objetos",
+    "periodo": 7,
+    "ementa": "177 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 179 de 317 Princípios de Projeto Orientado a Objetos; Padrões de Projeto; Padrões de Criação; Padrões Estruturais; Padrões Comportamentais.",
+    "travas": [
+      "CSECBJI.42"
+    ]
+  },
+  "CSECBJI.56": {
+    "nome": "Redes de Computadores I",
+    "periodo": 7,
+    "ementa": "Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Redes; Qualidade de Serviço; Segurança; Protocolo IP.",
+    "travas": [
+      "CSECBJI.1",
+      "CSECBJI.63",
+      "CSECBJI.71",
+      "CSECBJI.86"
+    ]
+  },
+  "CSECBJI.53": {
+    "nome": "Sistemas Digitais",
+    "periodo": 7,
+    "ementa": "Análise e síntese de circuitos digitais sequenciais; contadores e registradores; famílias lógicas, circuitos integrados; conversores: analógico / digital e digital/ analógico; dispositivos de memórias; noções de dispositivos programáveis.",
+    "travas": [
+      "CSECBJI.46",
+      "CSECBJI.61"
+    ]
+  },
+  "CSECBJI.59": {
+    "nome": "Arquitetura de Computadores",
+    "periodo": 8,
+    "ementa": "197 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 199 de 317 Arquitetura IA-32/IA-64; Memórias dinâmicas e subsistemas cachê; Processamento numérico e de sinais; Barramentos de computadores pessoais; Interfaceamento via rede; Práticas de laboratório.",
+    "travas": [
+      "CSECBJI.55"
+    ]
+  },
+  "CSECBJI.62": {
+    "nome": "Metodologia Cientifica e Tecnológica",
+    "periodo": 8,
+    "ementa": "Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.",
+    "travas": [
+      "CSECBJI.52",
+      "CSECBJI.70"
+    ]
+  },
+  "CSECBJI.60": {
+    "nome": "Microcontroladores",
+    "periodo": 8,
+    "ementa": "Principais características; Tipos de arquiteturas; Memórias internas; Registradores; Modos de endereçamento; Instruções; Linguagem assembly; Compiladores e ferramentas de desenvolvimento; Sistema de interrupções; Dispositivos de entrada e saída (I/O); Estudo dos conversores A/D; Estudo dos conversores D/A; Dispositivos periféricos; Desenvolvimento de projetos utilizando microcontroladores; Projetos com microcontrolador empregando conversores A/D e D/A; Atividades de laboratório.",
+    "travas": []
+  },
+  "CSECBJI.57": {
+    "nome": "Segurança e Higiene do Trabalho",
+    "periodo": 7,
+    "ementa": "Introdução à Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (NR-5), Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho – Sesmt (NR-4), Equipamento de Proteção Individual (NR-6), Programa de Controle Médico de Saúde Ocupacional – Pcmso (NR-7), Programa de Prevenção de Riscos Ambientais – Ppra (NR-9), Segurança em Instalações e Serviços em Eletricidade (NR-10), Atividades e Operações Insalubres (NR-15), Atividades e Operações Perigosas (NR-16), Proteção Contra Incêndio (NR23).",
+    "travas": []
+  },
+  "CSECBJI.61": {
+    "nome": "Sistemas Operacionais II",
+    "periodo": 8,
+    "ementa": "Sistemas de Arquivos; Entrada/Saída; Deadlocks.",
+    "travas": [
+      "CSECBJI.52",
+      "CSECBJI.53"
+    ]
+  },
+  "CSECBJI.69": {
+    "nome": "Direito, Ética e Cidadania",
+    "periodo": 9,
+    "ementa": "Estudo sobre o desenvolvimento do direito digital e eletrônico. Investigação dos novos aspectos e relações jurídicas da sociedade da informação. Análise das principais manifestações do direito digital e eletrônico nos 205 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 207 de 317 ramos do direito. Introdução aos mecanismos de governança da internet no Brasil e no mundo. Regulação do ambiente online e o Marco Civil da Internet. Direitos e deveres no ciberespaço. Responsabilidade de usuários, provedores e governo. Inovação nas tecnologias de informação e comunicação. Propriedade intelectual na era digital. Acessibilidade, inclusão digital e ciberativismo. Profissional de computação. Princípios de conduta ética e profissional do engenheiro de software. Propriedade intelectual e pirataria. Privacidade. Responsabilidade social. O que é ética; Código de ética da ACM e IEEE. Direitos autorais e estudos de casos sobre ética na computação. Ética na internet: liberdade de informação, privacidade e censura.",
+    "travas": []
+  },
+  "CSECBJI.68": {
+    "nome": "Empreendedorismo",
+    "periodo": 9,
+    "ementa": "O empreendedor e a economia de mercado; O mercado e as oportunidades de negócios; O empreendedor e os fatores de sucesso empresarial; Plano de negócio; Modelo de Negócio; Marketing pessoal do gerente empreendedor e medidas de qualidade. Startups.",
+    "travas": []
+  },
+  "CSECBJI.67": {
+    "nome": "Projeto Final de Curso I",
+    "periodo": 9,
+    "ementa": "Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de Elaboração de Documentos Técnicos; Técnicas de Criatividade; Orientação sobre Preparação e Apresentação de Palestra; Técnicas de 209 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 211 de 317 Subdivisão de Trabalho; Estabelecimento de Cronograma; Orçamento de Projeto; Desenvolvimento do Projeto de Fim de Curso.",
+    "travas": [
+      "CSECBJI.64",
+      "CSECBJI.74"
+    ]
+  },
+  "CSECBJI.71": {
+    "nome": "Sistemas Distribuídos",
+    "periodo": 9,
+    "ementa": "Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança; Middewares para Aplicações Distribuídas; Transações Distribuídas e Controle de Concorrência.",
+    "travas": [
+      "CSECBJI.55",
+      "CSECBJI.56"
+    ]
+  },
+  "CSECBJI.70": {
+    "nome": "Sistemas Embarcados",
+    "periodo": 9,
+    "ementa": "Sistemas de tempo real. Sistemas embarcados: modelagem, projeto e implementação. Programação concorrente. Núcleos operacionais. Escalonamento.",
+    "travas": [
+      "CSECBJI.62"
+    ]
+  },
+  "CSECBJI.74": {
+    "nome": "Projeto Final de Curso II",
+    "periodo": 10,
+    "ementa": "Metodologia de Planejamento; Orientação de Pesquisa Bibliográfica; Regras de Elaboração de Documentos Técnicos; Técnicas de Criatividade; Orientação sobre Preparação e Apresentação de Palestra; Técnicas de Subdivisão de Trabalho; Estabelecimento de Cronograma; Orçamento de Projeto; Desenvolvimento do Projeto de Fim de Curso.",
+    "travas": [
+      "CSECBJI.67"
+    ]
+  },
+  "CSECBJI.75": {
+    "nome": "Libras",
+    "periodo": 7,
+    "ementa": "Línguas de sinais e minoria linguística; as diferentes línguas de sinais; status da língua de sinais no Brasil; cultura surda; organização linguística da Libras para usos informais e cotidianos: vocabulário; morfologia; sintaxe e semântica; a expressão corporal como elemento linguístico",
+    "travas": []
+  },
+  "CSECBJI.76": {
+    "nome": "Sociedade e Tecnologia",
+    "periodo": 7,
+    "ementa": "Distinção das Ciências Sociais e Ciências Naturais. Conhecimento Científico e Tecnológico. Trabalho. Processos Produtivos e Relações de Trabalho na sociedade capitalista. Técnica e Tecnologia na sociedade contemporânea. Cultura e Diversidade Cultural",
+    "travas": []
+  },
+  "CSECBJI.77": {
+    "nome": "Computação Gráfica",
+    "periodo": 7,
+    "ementa": "Dispositivos gráficos. Primitivas gráficas. Modelagem geométrica. Sistemas de coordenadas e transformações 2D, 3D. Algoritmos de projeção e recorte/visibilidade. Implementação de algoritmos. Tópicos avançados.",
+    "travas": [
+      "CSECBJI.10",
+      "CSECBJI.30",
+      "CSECBJI.78"
+    ]
+  },
+  "CSECBJI.80": {
+    "nome": "Interconexão de Redes de Computadores",
+    "periodo": 9,
+    "ementa": "Projeto de Rede Hierárquico; Conexão à WAN; Conexões Point-to-Point; Frame Relay; NAT; Soluções de Banda Larga; Protegendo a Conectividade de Site para Site; Monitorando a Rede Solucionando Problemas de Rede",
+    "travas": []
+  },
+  "CSECBJI.78": {
+    "nome": "Processamento de Imagens",
+    "periodo": 8,
+    "ementa": "Fundamentação, aplicações, representação e modelagem de imagens digitais. Aquisição de imagens. Técnicas de realce e melhoria de imagens. Restauração de imagens. Fundamentos para um sistema de análise de imagens. Segmentação de imagens.",
+    "travas": [
+      "CSECBJI.77"
+    ]
+  },
+  "CSECBJI.84": {
+    "nome": "Modelagem Ambiental",
+    "periodo": 7,
+    "ementa": "Dinâmica de sistemas lineares e não-lineares. Hierarquia de sistemas. Modelagem da dinâmica de populações. Modelagem do ciclo do carbono. Modelagem da dinâmica de ecossistemas. Modelagem do sistema hidrológico. Modelagem do sistema climático. 237 RESOLUÇÃO CONSUP/IFFLU N° 130 | Página 239 de 317",
+    "travas": [
+      "CSECBJI.34"
+    ]
+  },
+  "CSECBJI.81": {
+    "nome": "Dimensionamento de Redes de Computadores",
+    "periodo": 8,
+    "ementa": "Dimensionamento de Redes; Redundância de LAN; Agregação de Links; LANs Sem Fio; Solução Problemas de OSPF de Área Única; OSPF Multiárea; EIGRP; Solução de Problemas de EIGRP",
+    "travas": []
+  },
+  "CSECBJI.86": {
+    "nome": "Inteligência Artificial",
+    "periodo": 9,
+    "ementa": "Histórico e Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos de busca. Heurísticas. Conhecimento e raciocínio. Tópicos avançados.Aplicações de IA-Inteligência Artificial.",
+    "travas": [
+      "CSECBJI.55",
+      "CSECBJI.56",
+      "CSECBJI.87"
+    ]
+  },
+  "CSECBJI.16": {
+    "nome": "Química Experimental",
+    "periodo": 2,
+    "ementa": "Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais. Ferramentas profissionais na área de química experimental. Teste de chama. Medidas de massa e de volume. Soluções. Reações químicas. Estequiometria. Titulação ácido-base. Termoquímica. Equilíbrio Químico. Cinética Química. Eletroquímica. Grupos funcionais orgânicos.\n***",
+    "travas": [
+      "CSECBJI.15"
+    ]
+  },
+  "CSECBJI.73": {
+    "nome": "Eletiva VI",
+    "periodo": 9,
+    "ementa": "",
+    "travas": []
+  },
+  "CSECBJI.72": {
+    "nome": "Eletiva V",
+    "periodo": 9,
+    "ementa": "",
+    "travas": []
+  },
+  "CSECBJI.58": {
+    "nome": "Eletiva II",
+    "periodo": 7,
+    "ementa": "",
+    "travas": []
+  },
+  "CSECBJI.55": {
+    "nome": "Redes de Computadores I",
+    "periodo": 7,
+    "ementa": "Introdução às Redes de Computadores; Modelos OSI e TCP/IP; Arquitetura das Redes; Qualidade de Serviço; Segurança; Protocolo IP.\n***",
+    "travas": [
+      "CSECBJI.47",
+      "CSECBJI.59",
+      "CSECBJI.71",
+      "CSECBJI.86"
+    ]
+  },
+  "CSECBJI.65": {
+    "nome": "Eletiva III",
+    "periodo": 8,
+    "ementa": "",
+    "travas": []
+  },
+  "CSECBJI.64": {
+    "nome": "Metodologia Cientifica e Tecnológica",
+    "periodo": 8,
+    "ementa": "Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.\n***",
+    "travas": [
+      "CSECBJI.67"
+    ]
+  },
+  "CSECBJI.66": {
+    "nome": "Eletiva IV",
+    "periodo": 8,
+    "ementa": "",
+    "travas": []
+  },
+  "CSECBJI.63": {
+    "nome": "Sistemas Operacionais II",
+    "periodo": 8,
+    "ementa": "Sistemas de Arquivos; Entrada/Saída; Deadlocks.\n***",
+    "travas": [
+      "CSECBJI.56"
+    ]
+  },
+  "CSECBJI.83": {
+    "nome": "Processamento de Sinais",
+    "periodo": 7,
+    "ementa": "Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais. Transformada discreta de Fourier (DFT) e transformada rápida de Fourier (FFT). Filtros digitais: análise, estruturas, técnicas de projeto e aspectos práticos\n***",
+    "travas": [
+      "CSECBJI.31",
+      "CSECBJI.47"
+    ]
+  },
+  "CSECBJI.79": {
+    "nome": "Desenvolvimento Web",
+    "periodo": 9,
+    "ementa": "Programação para Web. Frameworks Web. Acesso a banco de dados em sistemas Web. Engenharia Web\n***",
+    "travas": [
+      "CSECBJI.51"
+    ]
+  },
+  "CSECBJI.90": {
+    "nome": "Inteligência Artificial",
+    "periodo": 9,
+    "ementa": "Princípios de IA-Inteligência Artificial. Resolução de problemas. Métodos de busca. Heurísticas. Conhecimento e raciocínio. Tópicos avançados.Aplicações de IA-Inteligência Artificial.\n***",
+    "travas": [
+      "CSECBJI.34"
+    ]
+  },
+  "CSECBJI.85": {
+    "nome": "Modelagem Ambiental",
+    "periodo": 8,
+    "ementa": "Dinâmica de sistemas lineares e não-lineares. Hierarquia de sistemas. Modelagem da dinâmica de populações. Modelagem do ciclo do carbono. Modelagem da dinâmica de ecossistemas. Modelagem do sistema hidrológico. Modelagem do sistema climático.\n***",
+    "travas": [
+      "CSECBJI.10",
+      "CSECBJI.18"
+    ]
+  },
+  "CSECBJI.82": {
+    "nome": "Energia e Eficiência Energética",
+    "periodo": 7,
+    "ementa": "Cadeia energética. Reservas energéticas mundiais. Problema da energia. Suprimento de energia – estrutura brasileira. Energia e desenvolvimento. Fontes convencionais. Fontes não convencionais. Energia - Recursos naturais. Usos da energia, conservação. Recursos renováveis – Desenvolvimento sustentável.\n***",
+    "travas": [
+      "CSECBJI.33"
+    ]
+  },
+  "CSECBJI.89": {
+    "nome": "Pesquisa Operacional II",
+    "periodo": 9,
+    "ementa": "Programação por Metas. Programação Multiobjetivo. Programação Dinâmica. Teoria Clássica da Otimização. Programação Não-linear.\n***",
+    "travas": [
+      "CSECBJI.88"
+    ]
+  },
+  "CSECBJI.88": {
+    "nome": "Pesquisa Operacional I",
+    "periodo": 8,
+    "ementa": "Teoria da PL; Método Simplex; Dualidade e Análise de Sensibilidade; Problema do Transporte; Otimização de Redes; Modelos determinísticos de estoque; Tópicos em PL.\n***",
+    "travas": [
+      "CSECBJI.10",
+      "CSECBJI.89"
+    ]
+  },
+  "CSECBJI.48": {
+    "nome": "Compiladores",
+    "periodo": 6,
+    "ementa": "Tabelas de símbolo. Análise Semântica. Recuperação de erro. Geração de código. Otimização. Ambientes de tempo de execução.\n***",
+    "travas": [
+      "CSECBJI.40"
+    ]
+  },
+  "CSECBJI.42": {
+    "nome": "Análise de Software Orientado a Objetos",
+    "periodo": 6,
+    "ementa": "Introdução ao Desenvolvimento de Sistemas Orientados a Objetos; Linguagem de Modelagem Unificada; Modelagem de Negócio; Análise de Requisitos; Modelagem de Casos de Uso; Modelagem Conceitual; Modelagem Funcional; Projeto de Software Orientado a Objetos.\n***",
+    "travas": [
+      "CSECBJI.36",
+      "CSECBJI.50"
+    ]
+  },
+  "CSECBJI.45": {
+    "nome": "Programação Orientada a Objetos I",
+    "periodo": 6,
+    "ementa": "Desenvolvimento de software de complexidade média utilizando o paradigma de orientação a objetos. Estudo e análise dos conceitos de herança e polimorfismo. Discussão de aspectos avançados sobre classes. Discussão sobre empacotamento e distribuição de aplicações. Implementação de estruturas de dados encadeadas. Uso de bibliotecas de coleções. Projeto de sistemas orientados a objetos.\n***",
+    "travas": [
+      "CSECBJI.13",
+      "CSECBJI.38",
+      "CSECBJI.51"
+    ]
+  }
+}

@@ -35,6 +35,14 @@ Bem-vindo ao portal da matriz curricular do curso de **Bacharelado em Engenharia
 > 21. POO 1 *
 > 22. POO 2 *
 
+> [!info] 🚀 Sistema Acadêmico IFF & Grafo Completo de Disciplinas
+> ### 📊 Plataforma Interativa de Gestão Curricular
+> O **Sistema Acadêmico** realiza a extração automatizada, o mapeamento de dependências (*travas*) e o gerenciamento do fluxo curricular das 83 disciplinas da Engenharia de Computação do IFF.
+> 
+> - 📥 **[Baixar Base Completa de Disciplinas em JSON (`disciplinas_vault.json`)](/assets/biblioteca/engenharia/disciplinas_vault.json)** — *Grafo completo com ementas, códigos, períodos e pré-requisitos.*
+> - 💻 **[Repositório no GitHub (Sistema Acadêmico)](https://github.com/pedroiff0/sistema-academico)** — *Código-fonte, APIs e scripts de extração.*
+> - 🌐 **[Aplicação Online em Produção](https://planck.dwelf-bull.ts.net)** — *Acesse o sistema em execução no servidor `planck.dwelf-bull.ts.net`.*
+
 ---
 
 ## 🎨 Carrossel de Períodos Letivos
