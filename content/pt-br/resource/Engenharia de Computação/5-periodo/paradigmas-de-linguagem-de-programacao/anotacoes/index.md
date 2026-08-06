@@ -4,17 +4,7 @@ publish: true
 password: "engcomp20232"
 ---
 
-## 📝 Base de Dados de Anotações
 
-| Nome da Anotação | Acessar |
-|------------------|---------|
-| 📄 nota-01 | [[pt-br/resource/Engenharia de Computação/5-periodo/paradigmas-de-linguagem-de-programacao/anotacoes/nota-01\|Acessar Anotação]] |
-
-## 📎 Base de Dados de Arquivos
-
-| Arquivo / Documento | Link de Acesso |
-|---------------------|----------------|
-| 📦 ParadigmaProcedural-2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/paradigmas-de-linguagem-de-programacao/ParadigmaProcedural-2.pdf) |
 
 
 ## 📝 Base Dinâmica de Anotações (Quartz Base)

@@ -106,3 +106,29 @@ Exemplo:
 > [!PDF|important] [[Análise_de_Operacional_de_Redes_de_Filas.pdf#page=35&selection=13,0,27,45&color=important|Análise_de_Operacional_de_Redes_de_Filas, p.31]]
 > > A demanda de serviço, anteriormente definida como Di = Vi Di , pode ser relacionada a vazão do sistema e sua utilização
 
+## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes")'
+    - 'file.ext == "md"'
+    - 'file.name != "index"'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```
+

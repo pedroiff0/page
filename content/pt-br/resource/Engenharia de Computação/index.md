@@ -147,8 +147,6 @@ Acesse a relação de disciplinas e notas de aula de cada período do curso:
 
 ## 🗺️ Tabela Dinâmica dos Períodos da Engenharia (Quartz Base)
 
-A tabela abaixo exibe exclusivamente os índices principais de cada turma/período do curso:
-
 ```base
 filters:
   and:
