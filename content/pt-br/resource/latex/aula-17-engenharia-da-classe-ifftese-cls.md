@@ -11,13 +11,11 @@ tags: [latex, escrita-academica, abnt, ifftese]
 
 
 
-| Material Didático | Link Institucional (Acesso Aberto / PDF & PPTX) |
+| Material Didático | Link Institucional (Acesso Aberto / PDF) |
 | :--- | :--- |
 | 📄 **Slides LaTeX — Modelo Branco (.pdf)** | [Acessar Slide Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-17-branco.pdf) |
 | 📄 **Slides LaTeX — Modelo Preto (.pdf)** | [Acessar Slide Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-17-preto.pdf) |
 | 📄 **Notas de Aula Institucionais (.pdf)** | [Acessar Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf) |
-| 📊 **Slides PowerPoint — Modelo Branco (.pptx)** | [Acessar Slide PPTX Branco](/assets/biblioteca/latex-escrita/slides-pptx/aula-17-branco.pptx) |
-| 📊 **Slides PowerPoint — Modelo Preto (.pptx)** | [Acessar Slide PPTX Preto](/assets/biblioteca/latex-escrita/slides-pptx/aula-17-preto.pptx) |
 
 ## 📋 Sumário da Aula
 - 1. Introdução e Fundamentação Teórica
