@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-08-branco.pdf"
 publish: true
 title: "Aula 08: Ética na Pesquisa (Plataforma Brasil) e IA"
 created: '2026-08-04'

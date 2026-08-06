@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-13.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-13-branco.pdf"
 title: "Aula 13: Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber"
 publish: true
 created: '2026-08-04'

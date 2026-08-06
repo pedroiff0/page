@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-07-branco.pdf"
 publish: true
 title: "Aula 07: Metodologia, Materiais e Reprodutibilidade na ABNT"
 created: '2026-08-04'

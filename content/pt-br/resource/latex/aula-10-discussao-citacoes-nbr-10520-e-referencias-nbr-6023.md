@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-10.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-10-branco.pdf"
 publish: true
 title: "Aula 10: Discussão, Citações (10520) e Referências (6023)"
 created: '2026-08-04'

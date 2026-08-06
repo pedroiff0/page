@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf"
 publish: true
 title: "Aula 20: Automação LaTeX, Git e Integração Contínua CI/CD"
 created: '2026-08-04'

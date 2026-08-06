@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf"
 title: "Aula 05: Introdução e Lacuna de Pesquisa (*Research Gap*)"
 created: '2026-08-04'
 modified: '2026-08-04'

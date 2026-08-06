@@ -80,16 +80,23 @@ filters:
   and:
     - 'file.folder.startsWith("pt-br/resource/latex")'
     - 'note.publish'
+    - 'note.notas'
 formulas:
-  aula_link: 'link(file.path, note.title)'
+  aula: 'link(file.path, note.title)'
 properties:
-  formula.aula_link:
+  formula.aula:
     displayName: Aula & Título da Aula
+  note.notas:
+    displayName: Notas de Aula (PDF)
+  note.slide:
+    displayName: Slide Institucional (PDF)
 views:
   - type: table
-    name: Aulas do Curso de LaTeX & Escrita Acadêmica
+    name: Aulas de LaTeX & Escrita Acadêmica
     order:
-      - formula.aula_link
+      - formula.aula
+      - note.notas
+      - note.slide
     sort:
       - property: file.name
         direction: ASC

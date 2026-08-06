@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-06.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-06-branco.pdf"
 publish: true
 title: "Aula 06: Revisão Sistemática da Literatura e Protocolo PRISMA 2020"
 created: '2026-08-04'

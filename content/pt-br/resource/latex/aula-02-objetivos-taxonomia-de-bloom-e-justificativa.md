@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-02.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-02-branco.pdf"
 title: "Aula 02: Objetivos, Taxonomia de Bloom e Justificativa"
 created: '2026-08-04'
 modified: '2026-08-04'

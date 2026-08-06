@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf"
 publish: true
 title: "Aula 18: Controle Avançado de Floats e NBR 6027"
 created: '2026-08-04'

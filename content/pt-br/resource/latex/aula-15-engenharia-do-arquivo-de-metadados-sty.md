@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-15.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-15-branco.pdf"
 title: "Aula 15: Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero"
 publish: true
 created: '2026-08-04'

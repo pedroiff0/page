@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-17-branco.pdf"
 publish: true
 title: "Aula 17: Engenharia de Classes .cls - Anatomia da ifftese e abntex2"
 created: '2026-08-04'

@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-04-branco.pdf"
 title: "Aula 04: Elementos Pré-Textuais NBR 14724"
 created: '2026-08-04'
 modified: '2026-08-04'

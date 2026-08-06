@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-19-branco.pdf"
 publish: true
 title: "Aula 19: Classes Especializadas (Beamer, Poster e Relatório)"
 created: '2026-08-04'

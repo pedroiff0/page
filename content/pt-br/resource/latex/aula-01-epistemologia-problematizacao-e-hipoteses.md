@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf"
 title: "Aula 01: Epistemologia, Problematização e Hipóteses"
 created: '2026-08-04'
 modified: '2026-08-04'

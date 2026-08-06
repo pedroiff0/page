@@ -1,4 +1,6 @@
 ---
+notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf"
+slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-09-branco.pdf"
 publish: true
 title: "Aula 09: Resultados: Tabelas IBGE vs. Quadros ABNT"
 created: '2026-08-04'
