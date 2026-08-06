@@ -299,11 +299,7 @@ layout:
         left: []
         right: []
     content: {}
-    folder:
-      exclude:
-        - reader-mode
-    tag:
-      exclude:
-        - reader-mode
+    folder: {}
+    tag: {}
     canvas: {}
     bases: {}
