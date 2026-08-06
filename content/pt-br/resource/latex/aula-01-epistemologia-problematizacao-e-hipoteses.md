@@ -17,7 +17,7 @@ tags: [latex, escrita-academica, abnt, ifftese]
 | :--- | :--- |
 | 📄 **Slides LaTeX — Modelo Branco (.pdf)** | [Acessar Slide Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf) |
 | 📄 **Slides LaTeX — Modelo Preto (.pdf)** | [Acessar Slide Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-01-preto.pdf) |
-| 📄 **Notas de Aula Institucionais (.pdf)** | [Acessar Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) |
+| 📝 **Notas de Aula Institucionais (.pdf)** | [Acessar Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) |
 
 ## 📋 Sumário da Aula
 - 1. Introdução e Fundamentação Teórica

@@ -29,6 +29,300 @@ A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à ma
 
 ---
 
+## 🎨 Carrossel de Aulas (Acesso Rápido Interativo)
+
+Navegue diretamente pelas notas de aula e apresentações através do carrossel interativo:
+
+<style>
+.course-carousel-wrapper {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1.5rem;
+  padding: 1.5rem 0.5rem;
+  scrollbar-width: thin;
+  scrollbar-color: var(--secondary, #0077b6) transparent;
+  -webkit-overflow-scrolling: touch;
+}
+.course-carousel-card {
+  flex: 0 0 280px;
+  scroll-snap-align: start;
+  border: 1px solid var(--lightgray, #e2e8f0);
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--light, #ffffff);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+  transition: all 0.35s cubic-bezier(0.25, 0.8, 0.25, 1);
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  position: relative;
+}
+.course-carousel-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 28px rgba(0,0,0,0.14);
+  border-color: var(--secondary, #0077b6);
+}
+.course-carousel-thumb-box {
+  position: relative;
+  width: 100%;
+  height: 160px;
+  overflow: hidden;
+  background: #1e293b;
+}
+.course-carousel-thumb {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(3.5px) brightness(0.85);
+  transform: scale(1.08);
+  transition: filter 0.4s ease, transform 0.4s ease, brightness 0.4s ease;
+}
+.course-carousel-card:hover .course-carousel-thumb {
+  filter: blur(0px) brightness(1);
+  transform: scale(1.0);
+}
+.course-carousel-badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,0.2);
+  z-index: 2;
+}
+.course-carousel-body {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+.course-carousel-title {
+  font-size: 0.98rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--dark, #0f172a);
+  line-height: 1.35;
+}
+.course-carousel-desc {
+  font-size: 0.82rem;
+  color: var(--gray, #64748b);
+  line-height: 1.45;
+  margin: 0;
+}
+</style>
+
+<div class="course-carousel-wrapper">
+  <a href="/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 01</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-01.png" alt="Capa Aula 01" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Epistemologia, Problematização e Hipóteses</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 02</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-02.png" alt="Capa Aula 02" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Objetivos, Taxonomia de Bloom e Justificativa</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 03</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-03.png" alt="Capa Aula 03" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Resumo, Abstract e Palavras-Chave (NBR 6028:2021)</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 04</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-04.png" alt="Capa Aula 04" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Elementos Pré-Textuais NBR 14724</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 05</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-05.png" alt="Capa Aula 05" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Introdução e Lacuna de Pesquisa (*Research Gap*)</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 06</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-06.png" alt="Capa Aula 06" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Revisão Sistemática da Literatura e Protocolo PRISMA 2020</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 07</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-07.png" alt="Capa Aula 07" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Metodologia, Materiais e Reprodutibilidade na ABNT</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 08</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-08.png" alt="Capa Aula 08" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Ética na Pesquisa (Plataforma Brasil) e IA</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 09</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-09.png" alt="Capa Aula 09" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Resultados: Tabelas IBGE vs. Quadros ABNT</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 10</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-10.png" alt="Capa Aula 10" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Discussão, Citações (10520) e Referências (6023)</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 11</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-11.png" alt="Capa Aula 11" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 12</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-12.png" alt="Capa Aula 12" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 13</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-13.png" alt="Capa Aula 13" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 14</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-14.png" alt="Capa Aula 14" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 15</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-15.png" alt="Capa Aula 15" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 16</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-16.png" alt="Capa Aula 16" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Desenvolvimento de Pacotes .sty - Programação TeX e Macros</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 17</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-17.png" alt="Capa Aula 17" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Engenharia de Classes .cls - Anatomia da ifftese e abntex2</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 18</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-18.png" alt="Capa Aula 18" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Controle Avançado de Floats e NBR 6027</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 19</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-19.png" alt="Capa Aula 19" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Classes Especializadas (Beamer, Poster e Relatório)</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+  <a href="/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua" class="course-carousel-card">
+    <div class="course-carousel-thumb-box">
+      <span class="course-carousel-badge">AULA 20</span>
+      <img src="/assets/biblioteca/latex-escrita/thumbs/aula-20.png" alt="Capa Aula 20" class="course-carousel-thumb" />
+    </div>
+    <div class="course-carousel-body">
+      <div class="course-carousel-title">Automação LaTeX, Git e Integração Contínua CI/CD</div>
+      <p class="course-carousel-desc">Referencial Teórico e Prática ReLaTeX</p>
+    </div>
+  </a>
+</div>
+
+---
+
 ## 📚 Material Suplementar e Documentos Oficiais
 
 > [!note] Guia Rápido e Documentos Institucionais
@@ -72,32 +366,36 @@ A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à ma
 
 ---
 
-## 🗺️ Tabela Geral e Acesso Direto às 20 Aulas
+## 🗺️ Tabela Dinâmica de Aulas
 
-Acesse abaixo todas as 20 aulas do curso com links diretos para leitura das notas e download dos slides:
+Tabela gerada automaticamente pelo Quartz via bloco `base`, listando o acervo de aulas e materiais didáticos:
 
-| Aula | Título & Conteúdo Central | Notas de Aula (PDF) | Slide Institucional (PDF) |
-| :---: | :--- | :---: | :---: |
-| Aula 01 | **[Epistemologia, Problematização e Hipóteses](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf) |
-| Aula 02 | **[Objetivos, Taxonomia de Bloom e Justificativa](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-02.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-02-branco.pdf) |
-| Aula 03 | **[Resumo, Abstract e Palavras-Chave (NBR 6028:2021)](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-03.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-03-branco.pdf) |
-| Aula 04 | **[Elementos Pré-Textuais NBR 14724](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-04-branco.pdf) |
-| Aula 05 | **[Introdução e Lacuna de Pesquisa (*Research Gap*)](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf) |
-| Aula 06 | **[Revisão Sistemática da Literatura e Protocolo PRISMA 2020](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-06.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-06-branco.pdf) |
-| Aula 07 | **[Metodologia, Materiais e Reprodutibilidade na ABNT](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-07-branco.pdf) |
-| Aula 08 | **[Ética na Pesquisa (Plataforma Brasil) e IA](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-08-branco.pdf) |
-| Aula 09 | **[Resultados: Tabelas IBGE vs. Quadros ABNT](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-09-branco.pdf) |
-| Aula 10 | **[Discussão, Citações (10520) e Referências (6023)](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-10.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-10-branco.pdf) |
-| Aula 11 | **[Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf) |
-| Aula 12 | **[Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-12-branco.pdf) |
-| Aula 13 | **[Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-13.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-13-branco.pdf) |
-| Aula 14 | **[Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf) |
-| Aula 15 | **[Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-15.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-15-branco.pdf) |
-| Aula 16 | **[Desenvolvimento de Pacotes .sty - Programação TeX e Macros](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-16-branco.pdf) |
-| Aula 17 | **[Engenharia de Classes .cls - Anatomia da ifftese e abntex2](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-17-branco.pdf) |
-| Aula 18 | **[Controle Avançado de Floats e NBR 6027](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf) |
-| Aula 19 | **[Classes Especializadas (Beamer, Poster e Relatório)](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-19-branco.pdf) |
-| Aula 20 | **[Automação LaTeX, Git e Integração Contínua CI/CD](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf) |
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/latex")'
+    - 'note.publish'
+    - 'note.notas'
+formulas:
+  aula: 'link(file.path, note.title)'
+properties:
+  formula.aula:
+    displayName: Aula & Título da Aula
+  note.notas:
+    displayName: Notas de Aula (PDF)
+  note.slide:
+    displayName: Slide Institucional (PDF)
+views:
+  - type: table
+    name: Aulas do Curso de LaTeX & Escrita Acadêmica
+    order:
+      - formula.aula
+      - note.notas
+      - note.slide
+    sort:
+      - property: file.name
+        direction: ASC
+```
 
 ---
 
