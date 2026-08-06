@@ -28,3 +28,29 @@ password: "engcomp20232"
 | 📦 Resumo 2.odt | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/calculo-i/Resumo%202.odt) |
 | 📦 Resumo.odt | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/calculo-i/Resumo.odt) |
 | 📦 atividadesDerivadas.ggb | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/calculo-i/atividadesDerivadas.ggb) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/1-periodo/calculo-i/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

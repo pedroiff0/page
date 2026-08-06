@@ -16,3 +16,29 @@ password: "engcomp20232"
 |---------------------|----------------|
 | 📦 cap30.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-iii/cap30.pdf) |
 | 📦 cap3031.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-iii/cap3031.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/4-periodo/fisica-iii/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

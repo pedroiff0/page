@@ -51,3 +51,29 @@ password: "engcomp20232"
 | 📦 ordenacao.yml | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/algoritmos-e-estruturas-de-dados-ii/C%C3%B3digos%20A1/output/ordenacao.dSYM/Contents/Resources/Relocations/aarch64/ordenacao.yml) |
 | 📦 ordenacaobackup.cpp | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/algoritmos-e-estruturas-de-dados-ii/C%C3%B3digos%20A1/ordenacaobackup.cpp) |
 | 📦 polifasica.cpp | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/algoritmos-e-estruturas-de-dados-ii/C%C3%B3digos%20A1/polifasica.cpp) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/4-periodo/algoritmos-e-estruturas-de-dados-ii/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

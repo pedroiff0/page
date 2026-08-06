@@ -21,3 +21,29 @@ password: "engcomp20232"
 | 📦 Lista 1 Discreta.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/matematica-discreta/Lista%201%20Discreta.pdf) |
 | 📦 Matematica Discreta.ggb | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/matematica-discreta/Matematica%20Discreta.ggb) |
 | 📦 revisaoa2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/matematica-discreta/revisaoa2.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/2-periodo/matematica-discreta/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

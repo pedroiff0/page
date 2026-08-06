@@ -18,3 +18,29 @@ order: 7
 </div>
 
 - [Bem-vindo ao blog](pt-br/blog/bem-vindo) — Por que abri esse espaço e o que esperar por aqui.
+
+
+## 📝 Acervo Dinâmico de Publicações do Blog
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/blog")'
+    - 'note.publish'
+formulas:
+  post: 'link(file.path, note.title)'
+properties:
+  formula.post:
+    displayName: Artigo / Publicação
+  note.created:
+    displayName: Data
+views:
+  - type: table
+    name: Publicações do Blog
+    order:
+      - formula.post
+      - note.created
+    sort:
+      - property: note.created
+        direction: DESC
+```

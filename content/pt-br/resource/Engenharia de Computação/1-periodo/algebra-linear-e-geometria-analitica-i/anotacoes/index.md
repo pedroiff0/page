@@ -27,3 +27,29 @@ password: "engcomp20232"
 | 📦 Resumo.odt | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Resumo.odt) |
 | 📦 Vetores.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/Vetores.pdf) |
 | 📦 lista_de_exercícos_2_2023.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/algebra-linear-e-geometria-analitica-i/lista_de_exerc%C3%ADcos_2_2023.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

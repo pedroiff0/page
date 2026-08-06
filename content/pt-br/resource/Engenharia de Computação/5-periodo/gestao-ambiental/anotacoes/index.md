@@ -21,3 +21,29 @@ password: "engcomp20232"
 | 📦 Meio Ambiente e Gestão Ambiental.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/gestao-ambiental/Meio%20Ambiente%20e%20Gest%C3%A3o%20Ambiental.pdf) |
 | 📦 NBR-ISO-14.001-Sistemas-de-Gestão-Ambiental.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/gestao-ambiental/NBR-ISO-14.001-Sistemas-de-Gest%C3%A3o-Ambiental.pdf) |
 | 📦 introducao_SG.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/gestao-ambiental/introducao_SG.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/5-periodo/gestao-ambiental/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

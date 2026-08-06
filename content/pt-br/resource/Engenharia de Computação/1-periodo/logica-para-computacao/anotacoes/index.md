@@ -44,3 +44,29 @@ password: "engcomp20232"
 | 📦 Teste Lógica para computaçãoa2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/logica-para-computacao/Teste%20L%C3%B3gica%20para%20computa%C3%A7%C3%A3oa2.pdf) |
 | 📦 atvInferencialogica Correção.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/logica-para-computacao/atvInferencialogica%20Corre%C3%A7%C3%A3o.pdf) |
 | 📦 atvInferencialogica.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/logica-para-computacao/atvInferencialogica.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/1-periodo/logica-para-computacao/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

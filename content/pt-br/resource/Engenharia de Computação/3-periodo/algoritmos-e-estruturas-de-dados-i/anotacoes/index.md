@@ -37,3 +37,29 @@ password: "engcomp20232"
 | 📦 filename.txt | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/algoritmos-e-estruturas-de-dados-i/filename.txt) |
 | 📦 listaponterios.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/algoritmos-e-estruturas-de-dados-i/listaponterios.pdf) |
 | 📦 tes.cpp | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/algoritmos-e-estruturas-de-dados-i/tes.cpp) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/3-periodo/algoritmos-e-estruturas-de-dados-i/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

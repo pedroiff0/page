@@ -51,3 +51,29 @@ password: "engcomp20232"
 | 📦 Trabalho1Calc3Solucao.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/calculo-iii/Trabalho1Calc3Solucao.pdf) |
 | 📦 Trabalho2Calc3Solucao.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/calculo-iii/Trabalho2Calc3Solucao.pdf) |
 | 📦 Trabalho4Calc3.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/calculo-iii/Trabalho4Calc3.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

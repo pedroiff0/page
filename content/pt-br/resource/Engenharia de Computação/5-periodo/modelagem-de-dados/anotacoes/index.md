@@ -37,3 +37,29 @@ password: "engcomp20232"
 | 📦 Sistema de Reserva e Manutenção de Recursos de Laboratório.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/modelagem-de-dados/Sistema%20de%20Reserva%20e%20Manuten%C3%A7%C3%A3o%20de%20Recursos%20de%20Laborat%C3%B3rio.pdf) |
 | 📦 documento_professor_5_exercicios_modelagem_conceitual.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/modelagem-de-dados/documento_professor_5_exercicios_modelagem_conceitual.pdf) |
 | 📦 documento_professor_modelagem_conceitual_revisado_notacao_chen_sem_atributos.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/modelagem-de-dados/documento_professor_modelagem_conceitual_revisado_notacao_chen_sem_atributos.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

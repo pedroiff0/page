@@ -88,3 +88,29 @@ password: "engcomp20232"
 | 📦 tabela1.tex | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/fisica-experimental-ii/Pratica%206/Pr%C3%A1tica%20VI_%20Dilata%C3%A7%C3%A3o%20Linear/tabelas/tabela1.tex) |
 | 📦 tabela2.tex | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/fisica-experimental-ii/Pratica%206/Pr%C3%A1tica%20VI_%20Dilata%C3%A7%C3%A3o%20Linear/tabelas/tabela2.tex) |
 | 📦 tabelas.tex | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/fisica-experimental-ii/Pratica%206/Pr%C3%A1tica%20VI_%20Dilata%C3%A7%C3%A3o%20Linear/PRETEXTUAIS/tabelas.tex) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/3-periodo/fisica-experimental-ii/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

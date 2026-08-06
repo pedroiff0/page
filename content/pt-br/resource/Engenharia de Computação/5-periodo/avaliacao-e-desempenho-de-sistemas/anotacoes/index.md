@@ -34,3 +34,29 @@ password: "engcomp20232"
 | 📦 Teoria_de_Filas.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/avaliacao-e-desempenho-de-sistemas/Teoria_de_Filas.pdf) |
 | 📦 Teste___Teoria_de_Filas___2025_2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/avaliacao-e-desempenho-de-sistemas/Teste___Teoria_de_Filas___2025_2.pdf) |
 | 📦 lista_filas_professor.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/avaliacao-e-desempenho-de-sistemas/lista_filas_professor.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

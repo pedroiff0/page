@@ -24,3 +24,29 @@ password: "engcomp20232"
 | 📦 Prática 8 Preparo de Soluções.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/quimica-experimental/Pr%C3%A1tica%208%20Preparo%20de%20Solu%C3%A7%C3%B5es.pdf) |
 | 📦 Prática 9 Padronização de NaOH.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/quimica-experimental/Pr%C3%A1tica%209%20Padroniza%C3%A7%C3%A3o%20de%20NaOH.pdf) |
 | 📦 Teste de Chamas.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/quimica-experimental/Teste%20de%20Chamas.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/2-periodo/quimica-experimental/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

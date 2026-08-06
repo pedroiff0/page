@@ -26,3 +26,29 @@ password: "engcomp20232"
 | 📦 Formscap9simplificado.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/eletricidade-aplicada/Formscap9simplificado.pdf) |
 | 📦 Manual Analisador Trifásico.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/eletricidade-aplicada/Manual%20Analisador%20Trif%C3%A1sico.pdf) |
 | 📦 PedroH_5EC_Pratica1.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/5-periodo/eletricidade-aplicada/PedroH_5EC_Pratica1.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/5-periodo/eletricidade-aplicada/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

@@ -75,3 +75,29 @@ password: "engcomp20232"
 | 📦 pratica4.sciprj~ | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica4/pratica4.sciprj~) |
 | 📦 pratica5.sciprj | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica5/pratica5.sciprj) |
 | 📦 pratica6.sciprj | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/fisica-experimental-iii/Pratica6/pratica6.sciprj) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/4-periodo/fisica-experimental-iii/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

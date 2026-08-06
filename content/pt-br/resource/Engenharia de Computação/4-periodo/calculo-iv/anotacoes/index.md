@@ -20,3 +20,29 @@ password: "engcomp20232"
 | 📦 Lista Testes de Convergência.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/calculo-iv/Lista%20Testes%20de%20Converg%C3%AAncia.pdf) |
 | 📦 Sequências Crescente e decrescente.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/calculo-iv/Sequ%C3%AAncias%20Crescente%20e%20decrescente.pdf) |
 | 📦 cd947d06-558f-4dcb-b83c-a4384793bda2.PDF | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/calculo-iv/cd947d06-558f-4dcb-b83c-a4384793bda2.PDF) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

@@ -24,3 +24,29 @@ password: "engcomp20232"
 | 📦 157571-Lista_2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/157571-Lista_2.pdf) |
 | 📦 157572-Lista_2_-_Respostas.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/157572-Lista_2_-_Respostas.pdf) |
 | 📦 TrabalhoAlgebraII.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algebra-linear-e-geometria-analitica-ii/TrabalhoAlgebraII.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

@@ -73,3 +73,29 @@ password: "engcomp20232"
 | 📦 vista em cortes 2.dwg | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/vista%20em%20cortes%202.dwg) |
 | 📦 vista em cortes.bak | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/vista%20em%20cortes.bak) |
 | 📦 vista em cortes.dwg | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/desenho-tecnico-para-engenharia/vista%20em%20cortes.dwg) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

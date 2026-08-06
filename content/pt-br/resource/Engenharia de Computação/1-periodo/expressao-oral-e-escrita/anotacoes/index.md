@@ -26,3 +26,29 @@ password: "engcomp20232"
 | 📦 Resumo.odt | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/expressao-oral-e-escrita/Resumo.odt) |
 | 📦 f3286f_d5f6ef4be4654efba7d4b771eaf7b9ac (1).pdf | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/expressao-oral-e-escrita/f3286f_d5f6ef4be4654efba7d4b771eaf7b9ac%20%281%29.pdf) |
 | 📦 f3286f_d5f6ef4be4654efba7d4b771eaf7b9ac.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/1-periodo/expressao-oral-e-escrita/f3286f_d5f6ef4be4654efba7d4b771eaf7b9ac.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

@@ -54,3 +54,29 @@ password: "engcomp20232"
 | 📦 raizes.py | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/calculo-numerico/CalcNUm/raizes.py) |
 | 📦 sistemaslineares.ipynb | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/calculo-numerico/CalcNUm/sistemaslineares.ipynb) |
 | 📦 sistemaslineares.py | [Baixar / Ver Arquivo](/assets/disciplinas/4-periodo/calculo-numerico/CalcNUm/sistemaslineares.py) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/4-periodo/calculo-numerico/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

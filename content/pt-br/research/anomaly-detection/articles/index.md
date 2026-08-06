@@ -78,3 +78,32 @@ Anotações de leitura sobre artigos científicos relevantes para minha pesquisa
 - [Coformação dos Discos Fino/Espesso (z>2)](pt-br/research/anomaly-detection/articles/borbolato2025) — cenário de formação para a dicotomia disco fino/espesso.
 - [Tempos de Vida Estelares e Razões de Abundância](pt-br/research/anomaly-detection/articles/tinsley1979) — artigo clássico de evolução química, base teórica da nucleossíntese.
 - [Abundâncias em Anãs G VI](pt-br/research/anomaly-detection/articles/wallerstein1962) — artigo histórico, uma das primeiras determinações sistemáticas de abundância estelar.
+
+
+## 📚 Acervo Dinâmico de Artigos de Detecção de Anomalias
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/research/anomaly-detection/articles")'
+    - 'note.title'
+formulas:
+  artigo: 'link(file.path, note.title)'
+properties:
+  formula.artigo:
+    displayName: Artigo Científico
+  note.year:
+    displayName: Ano
+  note.authors:
+    displayName: Autoria
+views:
+  - type: table
+    name: Artigos de Detecção de Anomalias
+    order:
+      - formula.artigo
+      - note.authors
+      - note.year
+    sort:
+      - property: note.year
+        direction: DESC
+```

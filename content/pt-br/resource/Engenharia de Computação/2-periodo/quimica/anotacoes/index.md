@@ -49,3 +49,29 @@ password: "engcomp20232"
 | 📦 Slide apresentação do Grupo.docx | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/quimica/Slide%20apresenta%C3%A7%C3%A3o%20do%20Grupo.docx) |
 | 📦 Trabalho Química A2 (1).pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/quimica/Trabalho%20Qu%C3%ADmica%20A2%20%281%29.pdf) |
 | 📦 Trabalho Química A2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/quimica/Trabalho%20Qu%C3%ADmica%20A2.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/2-periodo/quimica/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

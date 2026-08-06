@@ -36,3 +36,29 @@ password: "engcomp20232"
 | 📦 Prática I - Experimento Coletivo_ Corpos em Queda Livre.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/fisica-experimental-i/Experimento%201/Pr%C3%A1tica%20I%20-%20Experimento%20Coletivo_%20Corpos%20em%20Queda%20Livre.pdf) |
 | 📦 grafico forca.jpg | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/fisica-experimental-i/Experimento%207/grafico%20forca.jpg) |
 | 📦 momentolinear.sciprj | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/fisica-experimental-i/Experimento%2010/momentolinear.sciprj) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/2-periodo/fisica-experimental-i/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

@@ -26,3 +26,29 @@ password: "engcomp20232"
 | 📦 PreTrabalhoA2 4.cpp | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algoritmos-e-tecnicas-de-programacao/PreTrabalhoA2%204.cpp) |
 | 📦 PreTrabalhoA2 Pedro.cpp | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algoritmos-e-tecnicas-de-programacao/PreTrabalhoA2%20Pedro.cpp) |
 | 📦 main.cpp | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/algoritmos-e-tecnicas-de-programacao/main.cpp) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

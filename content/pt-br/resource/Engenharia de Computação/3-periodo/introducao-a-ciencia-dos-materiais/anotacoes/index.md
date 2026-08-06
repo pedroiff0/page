@@ -15,3 +15,29 @@ password: "engcomp20232"
 | Arquivo / Documento | Link de Acesso |
 |---------------------|----------------|
 | 📦 Hahn1995.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/introducao-a-ciencia-dos-materiais/Hahn1995.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/3-periodo/introducao-a-ciencia-dos-materiais/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

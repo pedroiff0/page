@@ -57,3 +57,29 @@ password: "engcomp20232"
 | 📦 Trabalho Cálculo Eixo X V3.ggb | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/calculo-ii/Trabalho%20C%C3%A1lculo%20Eixo%20X%20V3.ggb) |
 | 📦 Trabalho Cálculo V4 (Funcionando).ggb | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/calculo-ii/Trabalho%20C%C3%A1lculo%20V4%20%28Funcionando%29.ggb) |
 | 📦 provaA3.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/calculo-ii/provaA3.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/2-periodo/calculo-ii/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

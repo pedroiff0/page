@@ -25,3 +25,29 @@ password: "engcomp20232"
 | 📦 Trabalho5Fis2Solucao.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/fisica-ii/Trabalho5Fis2Solucao.pdf) |
 | 📦 Trabalho7Fis2Solucao.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/fisica-ii/Trabalho7Fis2Solucao.pdf) |
 | 📦 padilha_ac_me_rcla.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/3-periodo/fisica-ii/padilha_ac_me_rcla.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/3-periodo/fisica-ii/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

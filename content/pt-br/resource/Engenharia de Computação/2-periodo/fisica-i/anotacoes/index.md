@@ -25,3 +25,29 @@ password: "engcomp20232"
 | 📦 gabaritolista1.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/fisica-i/gabaritolista1.pdf) |
 | 📦 gabaritolista2.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/fisica-i/gabaritolista2.pdf) |
 | 📦 lista-2.1.pdf | [Baixar / Ver Arquivo](/assets/disciplinas/2-periodo/fisica-i/lista-2.1.pdf) |
+
+
+## 📝 Base Dinâmica de Anotações (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/anotacoes")'
+    - 'note.publish'
+formulas:
+  anotacao: 'link(file.path, note.title)'
+properties:
+  formula.anotacao:
+    displayName: Anotação / Documento
+  note.created:
+    displayName: Data de Criação
+views:
+  - type: table
+    name: Anotações da Disciplina
+    order:
+      - formula.anotacao
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```
