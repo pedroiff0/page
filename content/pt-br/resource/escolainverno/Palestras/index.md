@@ -1,13 +1,13 @@
 ---
 publish: true
-title: Palestras
+title: Palestras da Escola de Inverno
 created: 2026-07-22
-modified: 2026-07-26T10:42:30.234-03:00
+modified: 2026-08-06
 published: 2026-07-26T10:42:30.234-03:00
 ---
 
 > [!note] Resumo
-> As quatro palestras da Escola de Inverno 2026, de neutrinos a composição química estelar.
+> Ciclo de palestras da Escola de Inverno em Astrofísica 2026 do Observatório Nacional.
 
 <div class="media-carousel">
   <a href="/pt-br/resource/escolainverno/palestras/neutrinos" class="carousel-slide">
@@ -32,11 +32,39 @@ published: 2026-07-26T10:42:30.234-03:00
   </a>
 </div>
 
-As quatro palestras numeradas da Escola de Inverno 2026:
+---
 
-* **P1** Gabriel Rodrigues ("Neutrinos e a Cosmologia", 20/07 — ver [[Neutrinos|nota completa]]),
-* **P2** Daniela Lazzaro ("15 anos do OASI", 21/07 — ver [[OASI|nota completa]]),
-* **P3** Rebeca Batalha ("De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo", 23/07 — ver [[RaioX|nota completa]]) e
-* **P4** Marília Carlos ("Composições químicas estelares com alta precisão e acurácia", 24/07 — ver [[Composicoes|nota mínima, aguardando slides oficiais]]).
+## 🎙️ Relação das Palestras Ministradas
 
-Além delas, a [[Bolsas|Sessão PG/PIBIC]] de 22/07 (sobre bolsas e programas de pós-graduação) não é uma das quatro palestras numeradas, mas fica registrada aqui também.
+- ⚛️ **P1:** [Neutrinos e a Cosmologia](/pt-br/resource/escolainverno/palestras/neutrinos) — Gabriel Rodrigues
+- 🔭 **P2:** [15 Anos do OASI](/pt-br/resource/escolainverno/palestras/oasi) — Daniela Lazzaro
+- 💥 **P3:** [Raios-X e Enriquecimento Químico no Universo](/pt-br/resource/escolainverno/palestras/raiox) — Rebeca Batalha
+- 🧪 **P4:** [Composições Químicas Estelares de Alta Precisão](/pt-br/resource/escolainverno/palestras/composicoes) — Marília Carlos
+- 🎓 **PG/PIBIC:** [Sessão de Pós-Graduação e Bolsas](/pt-br/resource/escolainverno/palestras/bolsas) — Coordenação ON
+
+---
+
+## 🗺️ Tabela Dinâmica de Palestras (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/escolainverno/Palestras")'
+    - 'file.name != "index"'
+formulas:
+  palestra: 'link(file.path, note.title)'
+properties:
+  formula.palestra:
+    displayName: Palestra / Documento
+  note.created:
+    displayName: Data
+views:
+  - type: table
+    name: Acervo de Palestras da Escola de Inverno
+    order:
+      - formula.palestra
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

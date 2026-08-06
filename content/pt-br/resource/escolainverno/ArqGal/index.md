@@ -25,3 +25,29 @@ published: 2026-07-26T11:03:14.091-03:00
 </div>
 
 A história da Via Láctea lida na composição química e cinemática das estrelas.
+
+
+## 🗺️ Tabela Dinâmica do Minicurso (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/escolainverno/ArqGal")'
+    - 'file.name != "index"'
+formulas:
+  aula: 'link(file.path, note.title)'
+properties:
+  formula.aula:
+    displayName: Aula / Conteúdo
+  note.created:
+    displayName: Data
+views:
+  - type: table
+    name: Aulas do Minicurso
+    order:
+      - formula.aula
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```

@@ -1,13 +1,13 @@
 ---
 publish: true
-title: Escola de Inverno (ON 2026)
+title: Escola de Inverno em Astrofísica (ON 2026)
 created: 2026-07-22
-modified: 2026-07-26T10:41:58.418-03:00
+modified: 2026-08-06
 published: 2026-07-26T10:41:58.418-03:00
 ---
 
-> [!note] Resumo
-> Notas de aula da Escola de Inverno em Astrofísica 2026 (Observatório Nacional), organizadas por minicurso.
+> [!note] Resumo Institucional
+> Notas de aula e palestras da **Escola de Inverno em Astrofísica 2026** do **Observatório Nacional (ON)**, realizada de 20 a 24 de julho de 2026.
 
 <div class="media-carousel">
   <a href="/pt-br/resource/escolainverno/escola-de-inverno" class="carousel-slide">
@@ -44,30 +44,57 @@ published: 2026-07-26T10:41:58.418-03:00
   </a>
 </div>
 
-Notas de aula da **Escola de Inverno em Astrofísica 2026** do [Observatório Nacional (ON)](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026), realizada de 20 a 24 de julho de 2026, organizadas por disciplina.
+---
 
-- [Resumo Geral](pt-br/resource/escolainverno/escola-de-inverno) — panorama de todas as áreas, programação completa e mapa de disciplinas.
+## 🔬 Minicursos Oficiais
 
-## Minicursos
-
-- [Aglomerados de Galáxias](pt-br/resource/escolainverno/aglomerados) — [Rogério Monteiro-Oliveira](https://www.monteiro-oliveira.com)
-- [Arqueologia Galáctica](pt-br/resource/escolainverno/arqgal) — João Victor Sales Silva
-- [Computação de Alto Desempenho](pt-br/resource/escolainverno/computação) — Fernando Roig e Lilianne Nakazono
-- [Cosmologia](pt-br/resource/escolainverno/cosmologia) — Carlos Bengaly
-- [Ciências Planetárias](pt-br/resource/escolainverno/planetaria) — Filipe Monteiro e Gustavo Madeira
-
-## Palestras
-
-- [Palestras](pt-br/resource/escolainverno/palestras/) 
-- **P1** [[Neutrinos|Neutrinos e a Cosmologia]] — Gabriel Rodrigues
-* **P2** [[OASI|15 anos do OASI]] — Daniela Lazzaro
-* **P3** [[RaioX|De supernovas a aglomerados de galáxias: o que os raios-X revelam sobre a história do enriquecimento químico do Universo]] — Rebeca Batalha
-* **P4** [[Composicoes|Composições químicas estelares com alta precisão e acurácia]] — Marília Carlos
-
-## Minha participação
-
-- [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) — notas de preparação para a apresentação do meu pôster, "Unveiling the Solar vicinity: unsupervised mapping stellar populations with GCNS and GALAH DR4 using t-SNE".
+- 🌌 **[Aglomerados de Galáxias](/pt-br/resource/escolainverno/aglomerados)** — *Prof. Rogério Monteiro-Oliveira*
+- 🏛️ **[Arqueologia Galáctica](/pt-br/resource/escolainverno/arqgal)** — *João Victor Sales Silva*
+- 💻 **[Computação de Alto Desempenho](/pt-br/resource/escolainverno/computação)** — *Fernando Roig e Lilianne Nakazono*
+- 🔭 **[Cosmologia](/pt-br/resource/escolainverno/cosmologia)** — *Carlos Bengaly*
+- 🪐 **[Ciências Planetárias](/pt-br/resource/escolainverno/planetaria)** — *Filipe Monteiro e Gustavo Madeira*
 
 ---
 
-Programação oficial completa e lista de pôsteres: [site do Observatório Nacional](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026).
+## 🎙️ Ciclo de Palestras do Observatório Nacional
+
+- ⚛️ **[P1 — Neutrinos e a Cosmologia](/pt-br/resource/escolainverno/palestras/neutrinos)** — *Gabriel Rodrigues*
+- 🔭 **[P2 — 15 anos do OASI](/pt-br/resource/escolainverno/palestras/oasi)** — *Daniela Lazzaro*
+- 💥 **[P3 — Raios-X, Supernovas e Enriquecimento Químico](/pt-br/resource/escolainverno/palestras/raiox)** — *Rebeca Batalha*
+- 🧪 **[P4 — Composições Químicas Estelares de Alta Precisão](/pt-br/resource/escolainverno/palestras/composicoes)** — *Marília Carlos*
+- 🎓 **[Sessão PG/PIBIC — Programas de Pós-Graduação e Bolsas](/pt-br/resource/escolainverno/palestras/bolsas)** — *Equipe ON*
+
+---
+
+## 🎤 Apresentação de Pesquisa Discente
+
+- 📜 **[Unveiling the Solar Vicinity (t-SNE & GALAH DR4)](/pt-br/resource/escolainverno/apresentacao)** — *Notas de preparação para apresentação de pôster.*
+
+---
+
+## 🗺️ Tabela Dinâmica dos Minicursos e Conteúdos (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/escolainverno")'
+    - 'file.name == "index"'
+    - 'file.path != "pt-br/resource/escolainverno/index.md"'
+formulas:
+  secao: 'link(file.path, note.title)'
+properties:
+  formula.secao:
+    displayName: Módulo / Minicurso / Palestras
+views:
+  - type: table
+    name: Módulos da Escola de Inverno 2026
+    order:
+      - formula.secao
+    sort:
+      - property: file.path
+        direction: ASC
+```
+
+---
+
+Programação oficial completa no [site do Observatório Nacional](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026).

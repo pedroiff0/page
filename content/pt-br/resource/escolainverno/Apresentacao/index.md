@@ -17,3 +17,29 @@ published: 2026-07-26T11:03:55.936-03:00
 </div>
 
 Notas de preparação para a apresentação da minha pesquisa
+
+
+## 🗺️ Tabela Dinâmica do Minicurso (Quartz Base)
+
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/escolainverno/Apresentacao")'
+    - 'file.name != "index"'
+formulas:
+  aula: 'link(file.path, note.title)'
+properties:
+  formula.aula:
+    displayName: Aula / Conteúdo
+  note.created:
+    displayName: Data
+views:
+  - type: table
+    name: Aulas do Minicurso
+    order:
+      - formula.aula
+      - note.created
+    sort:
+      - property: file.name
+        direction: ASC
+```
