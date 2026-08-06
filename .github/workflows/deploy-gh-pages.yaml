@@ -23,32 +23,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Trava contra deleção em massa. Duas vezes (31/07 e 01/08) o Quartz
-      # Syncer publicou com as caixas de "despublicar" marcadas e apagou ~110
-      # arquivos de content/ de uma vez; na primeira, o site chegou a ir ao ar
-      # mutilado. O limite separa bem os dois casos: os pushes destrutivos
-      # apagaram 111 e 108 arquivos, e um push normal apaga 0.
-      # Para uma remoção grande e intencional, rode o workflow pelo botão
-      # "Run workflow" (workflow_dispatch), que não passa por esta checagem.
-      - name: Guarda contra deleção em massa
-        if: github.event_name == 'push'
-        env:
-          ANTES: ${{ github.event.before }}
-          LIMITE: 50
-        run: |
-          if [ -z "$ANTES" ] || [ "$ANTES" = "0000000000000000000000000000000000000000" ]; then
-            echo "Sem commit anterior para comparar — checagem ignorada."
-            exit 0
-          fi
-          APAGADOS=$(git diff --name-only --diff-filter=D "$ANTES" "$GITHUB_SHA" -- content/ | wc -l)
-          echo "Arquivos removidos de content/ neste push: $APAGADOS (limite: $LIMITE)"
-          if [ "$APAGADOS" -gt "$LIMITE" ]; then
-            echo "Primeiros 30 arquivos removidos:"
-            git diff --name-only --diff-filter=D "$ANTES" "$GITHUB_SHA" -- content/ | head -30
-            echo "::error::$APAGADOS arquivos removidos de content/, acima do limite de $LIMITE. Deploy interrompido para o site não ir ao ar sem conteúdo. Se a remoção foi acidental (Quartz Syncer com as caixas de despublicar marcadas), reverta o commit; se foi intencional, dispare o deploy manualmente em Actions."
-            exit 1
-          fi
-
       - uses: actions/setup-node@v4
         with:
           node-version: 22

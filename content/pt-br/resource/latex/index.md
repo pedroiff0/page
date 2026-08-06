@@ -10,33 +10,42 @@ tags:
   - ifftese
   - relatex
 ---
-
-# LaTeX & Escrita Acadêmica
-
-Bem-vindo ao repositório oficial da formação em **LaTeX & Escrita Acadêmica** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**, ministrada pelo **Prof. Dr. Pedro Henrique Rocha de Andrade**.
+Bem-vindo ao repositório oficial da formação em **LaTeX & Escrita Acadêmica** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**, ministrada pelo **Prof. Pedro Henrique Rocha de Andrade**.
 
 Esta plataforma centraliza o referencial teórico-metodológico e a arquitetura de automação documental **ReLaTeX**, promovendo o alinhamento integral entre rigor científico (**ABNT NBR 14724, NBR 10520, NBR 6023, NBR 6027, NBR 6028 e IBGE 1993**) e excelência tipográfica.
 
 ---
 
+## 🎓 Articulação Curricular na Engenharia de Computação
+
+A formação em **LaTeX & Escrita Acadêmica** integra-se transversalmente à matriz curricular do curso de **Bacharelado em Engenharia de Computação** do IFF — Campus Bom Jesus do Itabapoana, fornecendo a instrumentação técnica, a automação tipográfica e a fundamentação epistêmica indispensáveis para a elaboração de trabalhos acadêmicos de alta complexidade:
+
+- ✍️ **[Expressão Oral e Escrita (1º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/expressao-oral-e-escrita)** — *Desenvolvimento da comunicação científica, sobriedade vocabular, coesão textual e estrutura argumentativa.*
+- 📊 **[Gestão de Projetos e Engenharia de Software (5º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/engenharia-de-software)** — *Planejamento, matrizes de análise, gerenciamento de requisitos e especificação formal de sistemas.*
+- 🔬 **[Metodologia Científica e Tecnológica (8º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/metodologia-cientifica-e-tecnologica)** — *Problematização, formulação de hipóteses, revisão sistemática da literatura (PRISMA 2020) e conformidade ABNT NBR 14724.*
+- 🚀 **[Projeto Final de Curso I — PFC 1 (9º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/projeto-final-de-curso-i)** — *Elaboração da proposta de monografia, elementos pré-textuais, referencial teórico e projeto de pesquisa na classe `ifftese.cls`.*
+- 🏆 **[Projeto Final de Curso II — PFC 2 (10º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/10-periodo/projeto-final-de-curso-ii)** — *Defesa final, consolidação do trabalho de conclusão de curso (TCC), apresentações com `slidesiffmodelo.cls` e depósito na biblioteca.*
+
+---
+
 ## 📚 Material Suplementar e Documentos Oficiais
 
-Os documentos institucionais abaixo contêm a programação integral de 80 horas (20 Aulas de 4 tempos de 50 minutos), critérios de avaliação, código de ética científica e diretrizes de uso transparente de Inteligência Artificial:
-
-- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)**  
+> [![note]] 
+>- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)**  
   *Planejamento analítico das 20 aulas, divisão em 5 módulos didáticos, matriz de competências e referencial normativo ABNT.*
-- **[📜 Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)**  
+>- **[📜 Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)**  
   *Código de ética científica, política institucional de integridade contra plágio/autoplágio, regimento de uso de IA (LLMs) e boas práticas de laboratório.*
-- **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)**  
+> **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)**  
   *Referência técnica unificada com documentação canônica das classes `ifftese.cls`, `iffposter.cls`, `relatoriocorp.cls` e pacotes `metadados.sty` e `macros.sty`.*
 
 ---
 
 ## 📊 Forma de Avaliação (Em Dois Bimestres) e Cronograma Letivo
 
-> **📅 Período Letivo:** **24/08/2026 a 20/12/2026**  
-> **⏰ Horário dos Encontros:** **Toda Terça-feira, das 14h30 às 17h30** (4 tempos de 50 minutos / aula teórica e laboratório prático)  
-> **👨‍🏫 Professor Responsável:** **Prof. Dr. Pedro Henrique Rocha de Andrade**  
+> [![note]]
+> **📅 Período Letivo:** **24/08/2026 a 20/12/2026**
+> **⏰ Horário dos Encontros:** **Toda Terça-feira, das 14h30 às 17h30**  
+> **👨‍🏫 Professor Responsável:** **Prof. Pedro Henrique Rocha de Andrade**  
 
 A avaliação da disciplina ocorre de forma formativa e somativa, estruturada em dois bimestres temáticos com focos avaliativos distintos. **Os pesos e datas apresentados são flexíveis**, podendo ser adaptados pelo professor conforme o andamento da turma em laboratório:
 
@@ -46,7 +55,7 @@ A avaliação da disciplina ocorre de forma formativa e somativa, estruturada em
 
 - **🔹 2º Bimestre — Engenharia TeX, Customização e Automação ReLaTeX (Aulas 11 a 20):**
   - **80% — Implementação Customizada e Diferenciada em LaTeX:** Desenvolvimento de um projeto acadêmico original ou monografia partindo da **base do modelo institucional do professor** (`ifftese.cls` e `slidesiffmodelo.cls`), implementando modificações e melhorias próprias, macros customizadas (`macros.sty`), tabelas `booktabs` e gráficos vetoriais `TikZ`/`PGFPlots`.
-  - **20% — Teste Prático em Sala:** Avaliação prática em laboratório com resolução de erros de compilação, gestão bibliográfica com Biber e versionamento Git limpo.
+  - **20% — Teste Prático em Sala:** Avaliação prática em laboratório com resolução de erros de compilação, gestão bibliográfica com Biber.
 
 ---
 
@@ -346,141 +355,18 @@ Acesse diretamente as notas de aula ilustradas pelas capas autênticas dos slide
 
 ---
 
-## 📅 Ementa Analítica por Módulos
-
-A programação do curso está estruturada em **5 Módulos Didáticos**, cada um composto por 4 encontros intensivos (4 tempos de 50 minutos / 3h20). Para cada aula, o estudante dispõe de **Notas de Aula** completas em português e dos **Slides de Apresentação** nos formatos LaTeX Institucional (`if-beamer.cls`) e PowerPoint Widescreen (`.pptx` / 16:9).
-
-<!-- COURSE_TABLE_START -->
-### 📘 Módulo I — Epistemologia, Metodologia Científica e Elementos Pré-Textuais (Aulas 01 a 04)
-
-- **Aula 01: [Epistemologia, Problematização e Hipóteses](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-01-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses#recursos-adicionais)  
-
-- **Aula 02: [Objetivos, Taxonomia de Bloom e Justificativa](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa)**  
-  *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-02-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-02-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-02.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa#recursos-adicionais)  
-
-- **Aula 03: [Resumo, Abstract e Palavras-Chave (NBR 6028:2021)](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028)**  
-  *Escopo e Normas:* ABNT NBR 6028 / ABNT NBR 6028:2021  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-03-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-03-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-03.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028#recursos-adicionais)  
-
-- **Aula 04: [Elementos Pré-Textuais NBR 14724](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724)**  
-  *Escopo e Normas:* ABNT NBR 14724 / ABNT NBR 6027:2012  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-04-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-04-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724#recursos-adicionais)  
-
----
-
-### 📘 Módulo II — Estrutura Textual, Introdução, PRISMA e Metodologia (Aulas 05 a 08)
-
-- **Aula 05: [Introdução e Lacuna de Pesquisa (*Research Gap*)](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa)**  
-  *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-05-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa#recursos-adicionais)  
-
-- **Aula 06: [Revisão Sistemática da Literatura e Protocolo PRISMA 2020](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma)**  
-  *Escopo e Normas:* ABNT NBR 14724 / ABNT NBR 6023:2018  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-06-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-06-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-06.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma#recursos-adicionais)  
-
-- **Aula 07: [Metodologia, Materiais e Reprodutibilidade na ABNT](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade)**  
-  *Escopo e Normas:* ABNT NBR 14724:2011 / ABNT NBR 6023:2018  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-07-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-07-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade#recursos-adicionais)  
-
-- **Aula 08: [Ética na Pesquisa (Plataforma Brasil) e IA](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia)**  
-  *Escopo e Normas:* ABNT NBR 6023:2018 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-08-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-08-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia#recursos-adicionais)  
-
----
-
-### 📘 Módulo III — Resultados, Discussão, Citações NBR 10520 e Referências NBR 6023 (Aulas 09 a 12)
-
-- **Aula 09: [Resultados: Tabelas IBGE vs. Quadros ABNT](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)**  
-  *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-09-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-09-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt#recursos-adicionais)  
-
-- **Aula 10: [Discussão, Citações (10520) e Referências (6023)](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023)**  
-  *Escopo e Normas:* ABNT NBR 10520:2023 / ABNT NBR 6023  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-10-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-10-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-10.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023#recursos-adicionais)  
-
-- **Aula 11: [Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-11-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex#recursos-adicionais)  
-
-- **Aula 12: [Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-12-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-12-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs#recursos-adicionais)  
-
----
-
-### 📗 Módulo IV — Arquitetura LaTeX (.tex), Motores, Sintaxe, Tabelas e Gráficos (Aulas 13 a 16)
-
-- **Aula 13: [Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-13-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-13-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-13.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber#recursos-adicionais)  
-
-- **Aula 14: [Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-14-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots#recursos-adicionais)  
-
-- **Aula 15: [Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-15-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-15-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-15.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty#recursos-adicionais)  
-
-- **Aula 16: [Desenvolvimento de Pacotes .sty - Programação TeX e Macros](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-16-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-16-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty#recursos-adicionais)  
-
----
-
-### 📗 Módulo V — Engenharia ReLaTeX (.cls e .sty), Metadados, Macros e Automação (Aulas 17 a 20)
-
-- **Aula 17: [Engenharia de Classes .cls - Anatomia da ifftese e abntex2](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls)**  
-  *Escopo e Normas:* ABNT NBR 14724 / CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-17-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-17-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls#recursos-adicionais)  
-
-- **Aula 18: [Controle Avançado de Floats e NBR 6027](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-18-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027#recursos-adicionais)  
-
-- **Aula 19: [Classes Especializadas (Beamer, Poster e Relatório)](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-19-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-19-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp#recursos-adicionais)  
-
-- **Aula 20: [Automação LaTeX, Git e Integração Contínua CI/CD](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua)**  
-  *Escopo e Normas:* CEP/CONEP  
-  *Material Didático:* [📄 LaTeX Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf) • [📄 LaTeX Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-20-preto.pdf) • [📝 Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf) • [🛠️ Recursos Adicionais](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua#recursos-adicionais)  
-
----
-
-<!-- COURSE_TABLE_END -->
-
-## 🏛️ Pacotes e Classes do Ecossistema ReLaTeX
-
-O desenvolvimento de monografias, TCCs, relatórios de estágio e dissertações no Instituto Federal Fluminense apoia-se na centralização documental do **ReLaTeX**. Consulte a [página oficial de modelos](pt-br/resource/latex/modelos-de-documento) para exemplos completos de código.
-
-```mermaid
-graph TD
-    A[Preâmbulo / main.tex] --> B[ifftese.cls / Classe Canônica NBR 14724]
-    A --> C[metadados.sty / Dados Acadêmicos]
-    A --> D[macros.sty / Produtividade e Tabelas ABNT]
-    A --> E[if-beamer.cls / Slides de Defesa]
-    A --> F[iffposter.cls / Pôster Científico A0]
-    B --> G[Compilador PDFLaTeX + Biber]
-    C --> G
-    D --> G
-    G --> H[Documento Final em Conformidade ABNT/IBGE]
-```
-
----
-
 ## 📚 Material de Referência, Interdisciplinaridade e Conteúdo Suplementar
 
 Abaixo, disponibilizamos referências canônicas internas (integração com disciplinas e laboratórios do IFF) e externas (portais de normalização científica, bases de dados e repositórios mundiais TeX) para complementar os estudos letivos:
 
 ### 🏛️ Interdisciplinaridade e Disciplinas do IFF — Campus Bom Jesus do Itabapoana
-- **[📐 Álgebra Linear e Geometria Analítica I](/pt-br/resource/Engenharia-de-Computacao/1-periodo/algebra-linear-e-geometria-analitica-i/)** — *Aplicação prática de ambientes matemáticos (`amsmath`, `mathtools`), matrizes e equações diferenciais em LaTeX.*
+- **[✍️ Expressão Oral e Escrita (1º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/expressao-oral-e-escrita)** — *Normas de escrita, sobriedade textual e estrutura analítica.*
+- **[📊 Gestão de Projetos e Engenharia de Software (5º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/engenharia-de-software)** — *Mapeamento de requisitos, diagramação UML e gerenciamento de projetos.*
+- **[🔬 Metodologia Científica e Tecnológica (8º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/metodologia-cientifica-e-tecnologica)** — *Fundamentação teórica, delimitação de lacuna de pesquisa e revisões sistemáticas PRISMA.*
+- **[🚀 Projeto Final de Curso I — PFC 1 (9º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/projeto-final-de-curso-i)** — *Projeto de pesquisa, elementos pré-textuais ABNT e proposta na classe `ifftese.cls`.*
+- **[🏆 Projeto Final de Curso II — PFC 2 (10º Período)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/10-periodo/projeto-final-de-curso-ii)** — *Defesa final, consolidação do trabalho de conclusão de curso (TCC) e apresentações institucionais.*
+- **[📐 Álgebra Linear e Geometria Analítica I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/algebra-linear-e-geometria-analitica-i/)** — *Aplicação prática de ambientes matemáticos (`amsmath`, `mathtools`), matrizes e equações diferenciais em LaTeX.*
 - **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — *Repositório institucional de modelos para trabalhos de conclusão de curso (`ifftese.cls`), pôsteres A0 (`iffposter.cls`) e relatórios técnicos.*
-- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)** — *Estruturação analítica das 80 horas de formação em 20 encontros temáticos.*
-- **[📜 Código de Conduta, Ética na Pesquisa e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — *Normativo disciplinar e boas práticas em laboratório de computação.*
 
 ### 🌐 Referências Externas, Manuais TeX e Normalização Mundial
 - **[ABNT — Associação Brasileira de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de consulta às normas ABNT NBR 14724 (Trabalhos Acadêmicos), NBR 10520 (Citações) e NBR 6023 (Referências).*
