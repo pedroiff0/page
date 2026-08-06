@@ -366,32 +366,36 @@ Navegue diretamente pelas notas de aula e apresentações através do carrossel 
 
 ---
 
-## 🗺️ Tabela Geral e Acesso Direto às 20 Aulas
+## 🗺️ Tabela Dinâmica de Aulas (Quartz Base)
 
-Acesse diretamente as notas de aula e faça o download instantâneo dos arquivos em PDF:
+A tabela abaixo é gerada dinamicamente pelo ecossistema Quartz (bloco `base`), alimentada diretamente a partir dos metadados das notas de aula:
 
-| Aula | Título & Conteúdo Central | Notas de Aula (PDF) | Slide Institucional (PDF) |
-| :---: | :--- | :---: | :---: |
-| Aula 01 | **[Epistemologia, Problematização e Hipóteses](/pt-br/resource/latex/aula-01-epistemologia-problematizacao-e-hipoteses)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-01.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-01-branco.pdf) |
-| Aula 02 | **[Objetivos, Taxonomia de Bloom e Justificativa](/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-02.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-02-branco.pdf) |
-| Aula 03 | **[Resumo, Abstract e Palavras-Chave (NBR 6028:2021)](/pt-br/resource/latex/aula-03-resumo-abstract-e-palavras-chave-nbr-6028)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-03.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-03-branco.pdf) |
-| Aula 04 | **[Elementos Pré-Textuais NBR 14724](/pt-br/resource/latex/aula-04-elementos-pre-textuais-nbr-14724)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-04-branco.pdf) |
-| Aula 05 | **[Introdução e Lacuna de Pesquisa (*Research Gap*)](/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-05.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-05-branco.pdf) |
-| Aula 06 | **[Revisão Sistemática da Literatura e Protocolo PRISMA 2020](/pt-br/resource/latex/aula-06-revisao-sistematica-da-literatura-e-protocolo-prisma)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-06.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-06-branco.pdf) |
-| Aula 07 | **[Metodologia, Materiais e Reprodutibilidade na ABNT](/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-07.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-07-branco.pdf) |
-| Aula 08 | **[Ética na Pesquisa (Plataforma Brasil) e IA](/pt-br/resource/latex/aula-08-etica-plataforma-brasil-e-uso-de-ia)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-08.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-08-branco.pdf) |
-| Aula 09 | **[Resultados: Tabelas IBGE vs. Quadros ABNT](/pt-br/resource/latex/aula-09-resultados-tabelas-ibge-vs-quadros-abnt)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-09.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-09-branco.pdf) |
-| Aula 10 | **[Discussão, Citações (10520) e Referências (6023)](/pt-br/resource/latex/aula-10-discussao-citacoes-nbr-10520-e-referencias-nbr-6023)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-10.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-10-branco.pdf) |
-| Aula 11 | **[Arquitetura do Kernel LaTeX2e, Motores PDFLaTeX/LuaLaTeX/XeLaTeX e Estrutura do Preâmbulo .tex](/pt-br/resource/latex/aula-11-arquitetura-latex-motores-tex-e-preambulo-tex)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-11.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-11-branco.pdf) |
-| Aula 12 | **[Sintaxe Canônica, Ambientes Matemáticos Avançados (amsmath) e Tabelas (booktabs)](/pt-br/resource/latex/aula-12-sintaxe-matematica-amsmath-e-tabelas-booktabs)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-12.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-12-branco.pdf) |
-| Aula 13 | **[Modularização Multi-arquivo e Gestão Bibliográfica com biblatex-biber](/pt-br/resource/latex/aula-13-modularizacao-multi-arquivo-e-biblatex-biber)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-13.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-13-branco.pdf) |
-| Aula 14 | **[Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots](/pt-br/resource/latex/aula-14-graficos-vetoriais-tikz-e-pgfplots)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf) |
-| Aula 15 | **[Engenharia de Metadados: Estrutura de metadados.sty, Escopo e Flexão de Gênero](/pt-br/resource/latex/aula-15-engenharia-do-arquivo-de-metadados-sty)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-15.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-15-branco.pdf) |
-| Aula 16 | **[Desenvolvimento de Pacotes .sty - Programação TeX e Macros](/pt-br/resource/latex/aula-16-desenvolvimento-de-pacotes-e-macros-sty)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-16.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-16-branco.pdf) |
-| Aula 17 | **[Engenharia de Classes .cls - Anatomia da ifftese e abntex2](/pt-br/resource/latex/aula-17-engenharia-da-classe-ifftese-cls)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-17.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-17-branco.pdf) |
-| Aula 18 | **[Controle Avançado de Floats e NBR 6027](/pt-br/resource/latex/aula-18-customizacao-de-floats-fancyhdr-e-nbr-6027)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-18.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-18-branco.pdf) |
-| Aula 19 | **[Classes Especializadas (Beamer, Poster e Relatório)](/pt-br/resource/latex/aula-19-classes-especializadas-if-beamer-iffposter-relatoriocorp)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-19.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-19-branco.pdf) |
-| Aula 20 | **[Automação LaTeX, Git e Integração Contínua CI/CD](/pt-br/resource/latex/aula-20-automacao-latexmkrc-git-e-integracao-continua)** | [📄 Baixar Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-20.pdf) | [📄 Baixar Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-20-branco.pdf) |
+```base
+filters:
+  and:
+    - 'file.folder.startsWith("pt-br/resource/latex")'
+    - 'note.publish'
+    - 'note.notas'
+formulas:
+  aula: 'link(file.path, note.title)'
+properties:
+  formula.aula:
+    displayName: Aula & Título da Aula
+  note.notas:
+    displayName: Notas de Aula (PDF)
+  note.slide:
+    displayName: Slide Institucional (PDF)
+views:
+  - type: table
+    name: Aulas do Curso de LaTeX & Escrita Acadêmica
+    order:
+      - formula.aula
+      - note.notas
+      - note.slide
+    sort:
+      - property: file.name
+        direction: ASC
+```
 
 ---
 
