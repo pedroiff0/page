@@ -11,56 +11,31 @@ Bem-vindo ao portal da matriz curricular do curso de **Bacharelado em Engenharia
 
 ---
 
-> [!note] 🏆 Ranking da Matriz Curricular (Desafio & Relevância)
-> ### 📊 Grafos e Pirâmide de Complexidade
-> 
-> ```mermaid
-> graph TD
->     subgraph Tier1 ["🥇 Nível Crítico & Alta Complexidade (Top 1-3)"]
->         T1_1["1. Equações Diferenciais"] --- T1_2["2. Cálculo 1"] --- T1_3["3. Cálculo 4 *"]
->     end
->     subgraph Tier2 ["🥈 Nível Avançado (Top 4-6)"]
->         T2_1["4. Engenharia de Software"] --- T2_2["5. Cálculo 2"] --- T2_3["6. Cálculo 3"]
->     end
->     subgraph Tier3 ["🥉 Nível Estruturante (Top 7-13)"]
->         T3_1["7. Gestão de Projetos *"] --- T3_2["8. Matemática Discreta *"] --- T3_3["9. Probabilidade & Estatística *"]
->         T3_4["10. Física 1 *"] --- T3_5["11. Física 2"] --- T3_6["12. Física Exp. 1 *"] --- T3_7["13. Física Exp. 2"]
->     end
->     subgraph Tier4 ["⚡ Nível Tecnológico & Projetos (Top 14-22)"]
->         T4_1["14. Fundamentos da Comp."] --- T4_2["15. Lógica de Comp."] --- T4_3["16. TGA"] --- T4_4["17. Metodologia"] --- T4_5["18. Expressão"]
->         T4_6["19. PFC 1 *"] --- T4_7["20. PFC 2 *"] --- T4_8["21. POO 1 *"] --- T4_9["22. POO 2 *"]
->     end
->     Tier1 --> Tier2 --> Tier3 --> Tier4
->     style Tier1 fill:#fef3c7,stroke:#f59e0b,stroke-width:2px;
->     style Tier2 fill:#e0f2fe,stroke:#0284c7,stroke-width:2px;
->     style Tier3 fill:#f1f5f9,stroke:#64748b,stroke-width:2px;
->     style Tier4 fill:#f0fdf4,stroke:#16a34a,stroke-width:2px;
-> ```
-> 
-> ### 📋 Relação Completa Ordenada (Top 22)
-> 
-> 1. 🥇 **Equações Diferenciais** `[100% Completo]`
-> 2. 🥇 **Cálculo 1** `[98% Completo]`
-> 3. 🥇 **Cálculo 4 \*** `[95% Completo]`
-> 4. 🥈 **Engenharia de Software** `[92% Completo]`
-> 5. 🥈 **Cálculo 2** `[90% Completo]`
-> 6. 🥈 **Cálculo 3** `[88% Completo]`
-> 7. 🥉 **Gestão de Projetos \*** `[85% Completo]`
-> 8. 🥉 **Matemática Discreta \*** `[83% Completo]`
-> 9. 🥉 **Probabilidade e Estatística \*** `[80% Completo]`
-> 10. 🥉 **Física 1 \*** `[78% Completo]`
-> 11. 🔹 **Física 2** `[75% Completo]`
-> 12. 🔹 **Física Experimental 1 \*** `[73% Completo]`
-> 13. 🔹 **Física Experimental 2** `[70% Completo]`
-> 14. 🔹 **Fundamentos da Computação** `[68% Completo]`
-> 15. 🔹 **Lógica de Computação** `[65% Completo]`
-> 16. 🔹 **Teoria Geral da Administração (TGA)** `[62% Completo]`
-> 17. 🔹 **Metodologia Científica** `[60% Completo]`
-> 18. 🔹 **Expressão Oral e Escrita** `[58% Completo]`
-> 19. 🚀 **PFC 1 \*** `[55% Completo]`
-> 20. 🚀 **PFC 2 \*** `[50% Completo]`
-> 21. 💻 **POO 1 \*** `[48% Completo]`
-> 22. 💻 **POO 2 \*** `[45% Completo]`
+> [!note] 🏆 Ranking da Matriz Curricular (Top 22 Disciplinas)
+>
+> <div style="text-align: center; margin: 1rem 0;">
+>   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcHoxOWp2cG93OHM0OTlyN2t3ZXN2eTVydW8wYmZzbnh3eTZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Top 5 Ranking Animation" style="max-width: 100%; height: 180px; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" />
+> </div>
+>
+> ### 🥇 TOP 5 MAIORES DESAFIOS ACADÊMICOS
+> - 🥇 **1. Equações Diferenciais** — *Cálculo diferencial avançado e modelagem matemática.*
+> - 🥇 **2. Cálculo 1** — *Limites, derivadas, integrais e fundamentação em análise.*
+> - 🥇 **3. Cálculo 4 \*** — *Séries numéricas, equações diferenciais parciais e transformadas.*
+> - 🥈 **4. Engenharia de Software** — *Arquitetura de sistemas, metodologias ágeis e qualidade.*
+> - 🥈 **5. Cálculo 2** — *Funções de várias variáveis, integrais múltiplas e vetoriais.*
+>
+> ### 🥈 POSIÇÕES 6 A 10
+> - 🥈 **6. Cálculo 3** — *Sequências, séries e equações diferenciais ordinárias.*
+> - 🥉 **7. Gestão de Projetos \*** — *PMBOK, estimativa de custos e gestão de risco.*
+> - 🥉 **8. Matemática Discreta \*** — *Lógica proposicional, grafos e combinatória.*
+> - 🥉 **9. Probabilidade e Estatística \*** — *Inferência estatística e variáveis aleatórias.*
+> - 🥉 **10. Física 1 \*** — *Mecânica clássica, gravitação e leis de Newton.*
+>
+> ### 🥉 POSIÇÕES 11 A 22
+> - 🔹 **11. Física 2** | 🔹 **12. Física Experimental 1 \*** | 🔹 **13. Física Experimental 2**
+> - 🔹 **14. Fundamentos da Computação** | 🔹 **15. Lógica de Computação** | 🔹 **16. TGA**
+> - 🔹 **17. Metodologia Científica** | 🔹 **18. Expressão Oral e Escrita** | 🚀 **19. PFC 1 \***
+> - 🚀 **20. PFC 2 \*** | 💻 **21. POO 1 \*** | 💻 **22. POO 2 \***
 
 ---
 
@@ -147,12 +122,15 @@ Acesse a relação de disciplinas e notas de aula de cada período do curso:
 
 ## 🗺️ Tabela Dinâmica dos Períodos da Engenharia (Quartz Base)
 
+A tabela abaixo exibe exclusivamente os índices principais de cada turma/período do curso (excluindo pastas secundárias de anotações):
+
 ```base
 filters:
   and:
     - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação")'
     - 'file.name == "index"'
     - 'file.path != "pt-br/resource/Engenharia de Computação/index.md"'
+    - not: 'file.folder.endsWith("anotacoes")'
 formulas:
   turma: 'link(file.path, note.title)'
 properties:
