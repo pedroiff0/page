@@ -72,10 +72,12 @@ function fill404() {
   };
 
   function detectLang() {
-    var p = window.location.pathname.replace(/^\//, "");
-    var langs = ["pt-br", "en", "es", "fr"];
-    var hit = langs.find(function(l){ return p === l || p.indexOf(l + "/") === 0; });
-    return hit === "pt-br" ? "pt" : (hit || "pt");
+    var segs = window.location.pathname.split("/").filter(Boolean);
+    var first = segs[0] || "";
+    if (["pt-br", "en", "es", "fr"].indexOf(first) !== -1) {
+      return first === "pt-br" ? "pt" : first;
+    }
+    return "pt";
   }
 
   var lang = detectLang();
@@ -95,7 +97,10 @@ function fill404() {
   var rawPath = window.location.pathname;
   if (basePath.length > 1 && rawPath.indexOf(basePath) === 0) rawPath = rawPath.slice(basePath.length);
   var pathname = decodeURIComponent(rawPath);
-  var slug = pathname.replace(/^\//, "").replace(/\.html$/, "").replace(/\/index$/, "");
+  var slug = pathname;
+  if (slug.startsWith("/")) slug = slug.slice(1);
+  if (slug.endsWith("/index")) slug = slug.slice(0, -6);
+  if (slug.endsWith(".html")) slug = slug.slice(0, -5);
   var repo = "pedroiff0/page";
   var issueTitle = encodeURIComponent(T.issueTitle.replace("{{slug}}", slug).replace("{{lang}}", lang));
   var issueBody = encodeURIComponent(T.issueBody.replace("{{slug}}", slug).replace("{{lang}}", lang));
@@ -104,7 +109,11 @@ function fill404() {
   var w = window;
   if (typeof w.fetchData !== "undefined") {
     w.fetchData.then(function(index){
-      var rest = slug.replace(/^(pt-br|en|es|fr)\/?/, "");
+      var rest = slug;
+      if (rest.startsWith("pt-br/")) rest = rest.slice(6);
+      else if (rest.startsWith("en/")) rest = rest.slice(3);
+      else if (rest.startsWith("es/")) rest = rest.slice(3);
+      else if (rest.startsWith("fr/")) rest = rest.slice(3);
       var ptTarget = (basePath.length > 1 ? basePath : "") + "/pt-br/" + rest;
       var exists = index[ptTarget.toLowerCase()] != null || index[("pt-br/" + rest).toLowerCase()] != null;
       if (exists) {
