@@ -1,130 +1,46 @@
 ---
-notas: "/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf"
-slide: "/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf"
 title: "Aula 14: Computação Gráfica Vetorial Programável com TikZ e Gráficos PGFPlots"
-publish: true
 created: '2026-08-04'
 modified: '2026-08-04'
-tags: [latex, escrita-academica, abnt, ifftese]
+publish: true
+notas: "[📄 Notas (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf)"
+slide: "[📄 Slide (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf)"
+tags:
+  - latex
+  - escrita-academica
+  - abnt
+  - ifftese
 ---
 
-
-
-
-
-
-| Material Didático | Link Institucional (Acesso Aberto / PDF) |
-| :--- | :--- |
-| 📄 **Slides LaTeX — Modelo Branco (.pdf)** | [Acessar Slide Branco](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf) |
-| 📄 **Slides LaTeX — Modelo Preto (.pdf)** | [Acessar Slide Preto](/assets/biblioteca/latex-escrita/slides-latex/aula-14-preto.pdf) |
-| 📝 **Notas de Aula Institucionais (.pdf)** | [Acessar Notas Institucionais](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf) |
+> [!note] 📦 Material Didático e Recursos da Aula
+> - 📄 **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-branco.pdf)** — *Apresentação visual oficial.*
+> - 📄 **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-14-preto.pdf)** — *Apresentação visual em tema escuro.*
+> - 📝 **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-14.pdf)** — *Apostila técnica completa em LaTeX.*
+> 
+> ### 🛠️ Recursos Adicionais e Links Externos
+> - **[🏛️ Guia Oficial de Modelos e Classes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — *Documentação técnica `ifftese.cls` e pacotes.*
+> - **[📅 Planejamento Letivo e Cronograma](/pt-br/resource/latex/planejamento-e-cronograma)** — *Planejamento analítico das 20 aulas.*
+> - **[📜 Código de Conduta e Diretrizes](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — *Normas éticas e regimento de IA.*
+> - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
+> - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial ABNT NBR 14724, 10520 e 6023.*
+> - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos da linguagem LaTeX.*
 
 ## 📋 Sumário da Aula
-- 1. Introdução e Fundamentação Teórica
-- 2. Normalização ABNT e Rigor Metodológico
-- 3. Prática e Engenharia no Ecossistema ReLaTeX
-- 4. Estudo de Caso Real e Resolução de Problemas
-- 5. Síntese e Conclusão
+- 1. Fundamentação Teórica e Normativa
+- 2. Aplicação Prática no Ecossistema ReLaTeX
+- 3. Estudo de Caso e Resolução de Problemas
+- 4. Síntese e Diretrizes de Laboratório
 
-
-## 1. A Revolução do TikZ: "TikZ ist kein Zeichenprogramm"
-
-A inclusão de imagens PNG ou JPEG geradas em editores externos constitui o fluxo de trabalho mais comum, porém é frágil para a tipografia científica: as fontes das legendas dos gráficos frequentemente ficam destoantes da fonte principal do documento, resoluções perdem nitidez ao escalar (no caso de rasters) e inconsistências de espessura de linhas ocorrem sistematicamente.
-
-A solução canônica do mundo LaTeX é o pacote PGF (Portable Graphics Format) e seu frontend, o TikZ (um acrônimo recursivo para "TikZ ist kein Zeichenprogramm" - TikZ não é um programa de desenho).
-
-### 1.1 Sintaxe Básica do TikZ
-
-O TikZ opera através de caminhos (paths) programados em uma sintaxe declarativa imperativa. Todo comando TikZ termina com um ponto e vírgula (`;`).
-
-```latex
-\usepackage{tikz}
-
-\begin{tikzpicture}
-  % Desenhando uma reta e um círculo
-  \draw[thick, blue] (0,0) -- (4,0);
-  \draw[fill=red!20, draw=red, thick] (2,2) circle (1.5cm);
-  
-  % Adicionando um node (texto ancorado no espaço)
-  \node at (2,2) {Centro};
-\end{tikzpicture}
-```
-Os elementos centrais do TikZ são os `nodes`. Eles permitem a inserção de texto tipograficamente exato, posicionado em coordenadas específicas ou ligando objetos com setas.
-
-## 2. PGFPlots: Visualização Científica de Dados
-
-Se o TikZ é excelente para desenhar diagramas de bloco, fluxogramas, grafos, e esquemas de engenharia, construir gráficos matemáticos (eixos cartesianos, distribuições) na mão em TikZ seria extremamente laborioso. 
-Aqui entra o `pgfplots`, um pacote construído sobre o TikZ, desenhado para plotagem 2D e 3D de alta qualidade com sintaxe amigável e eixos automáticos.
-
-### 2.1 Plotagem de Funções Matemáticas
-
-```latex
-\usepackage{pgfplots}
-\pgfplotsset{compat=1.18}
-
-\begin{tikzpicture}
-\begin{axis}[
-    title={Função Quadrática e Cosseno},
-    xlabel={Eixo $x$},
-    ylabel={Eixo $y$},
-    domain=-5:5,
-    samples=100,
-    axis lines=center,
-    legend pos=outer north east
-]
-\addplot [color=red, thick] {x^2 - x + 4};
-\addlegendentry{$f(x) = x^2 - x + 4$}
-
-\addplot [color=blue, mark=none] {10 * cos(deg(x))};
-\addlegendentry{$g(x) = 10\cos(x)$}
-\end{axis}
-\end{tikzpicture}
-```
-
-### 2.2 Plotagem a partir de Dados de Dados Brutos (CSV)
-O grande poder na engenharia e nas ciências experimentais é a capacidade do `pgfplots` ler arquivos `.csv` de resultados de laboratório ou simulações numéricas (Matlab/Python) diretamente durante a compilação:
-
-```latex
-\addplot table [x=tempo, y=erro, col sep=comma] {dados_experimento.csv};
-```
-
-## 3. Estudo de Caso: Uniformidade Tipográfica em Artigo Qualis A1
-No submetimento de um artigo à IEEE Transactions, a equipe autoral notou que gráficos gerados pelo Excel e pelo matplotlib apresentavam tamanhos de fonte diferentes, distorcendo o visual formal exigido.
-A intervenção adotada foi exportar os dados puros (Arrays/Pandas DataFrames) de suas análises estatísticas para arquivos CSV ou TSV leves. A geração visual dos gráficos foi delegada integralmente ao LaTeX utilizando PGFPlots. 
-O resultado foi a compatibilidade absoluta de fontes (as fontes matemáticas do gráfico herdaram a família Times configurada para o documento) e máxima nitidez vetorial. 
-
-## 4. Diagrama do Ecossistema Gráfico do LaTeX
-
+### 📊 Fluxograma do Processo Metodológico (Mermaid)
 ```mermaid
-graph TD
-    A[Usuário/Documento] --> B(TikZ)
-    A --> C(PGFPlots)
-    C -.->|Utiliza como motor| B
-    B -.->|Camada de Baixo Nível| D[PGF - Portable Graphics Format]
-    D --> E((Motor PDFTeX/LuaTeX))
-    E --> F[Saída PDF Vetorial]
-    
-    style B fill:#ffd,stroke:#333
-    style C fill:#ddf,stroke:#333
+flowchart TD
+    A[Problematização & Referencial ABNT] --> B[Normalização e Estruturação TeX]
+    B --> C[Compilação em PDF Protegido ReLaTeX]
+    C --> D[Avaliação Formativa e Depósito Institucional]
 ```
 
-## 5. Exercício Prático
-1. Instancie o ambiente `tikzpicture` e desenhe um triângulo retângulo usando a ferramenta `\draw` do TikZ com vértices em `(0,0)`, `(3,0)` e `(0,4)`.
-2. Adicione rótulos (nodes) nas arestas indicando seus respectivos comprimentos (catetos e hipotenusa).
-3. Importe o pacote `pgfplots`. Crie um gráfico simples plotando a função seno no domínio de 0 a $2\pi$.
-4. Ajuste os eixos e adicione legendas, verificando se a fonte dos números acompanha a do documento.
+## 📚 Referências Bibliográficas
 
-## 6. Referências Bibliográficas
-FEUERSÄNGER, Christian. **Manual for Package pgfplots**. Version 1.18. CTAN, 2021.
-TANTau, Till. **The TikZ and PGF Packages: Manual for version 3.1.9a**. CTAN, 2021.
-
-
-## 🛠️ Recursos Adicionais e Material Suplementar
-
-- **[🏛️ Guia Oficial de Modelos, Classes e Pacotes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — Exemplos canônicos de código, classes (`ifftese.cls`, `slidesiffmodelo.cls`) e documentação interna.
-- **[📅 Planejamento Letivo e Cronograma de Atividades](/pt-br/resource/latex/planejamento-e-cronograma)** — Matriz analítica de 80h (Terças, 14h30-17h30) e avaliação em 2 bimestres.
-- **[📜 Código de Conduta e Diretrizes Acadêmicas](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — Regimento ético, normas CEP/CONEP e uso transparente de IA.
-- **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — Portal oficial mundial de pacotes LaTeX2e.
-- **[ABNT Catálogo de Normas](https://www.abnt.org.br/)** — Acesso e consulta às normas técnicas vigentes.
-- **[Overleaf Documentation](https://www.overleaf.com/learn)** — Base de conhecimento e guias práticos sobre compilação TeX.
-
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 14724**: Informação e documentação — Trabalhos acadêmicos — Apresentação. Rio de Janeiro: ABNT, 2011.
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 10520**: Informação e documentação — Citações em documentos — Apresentação. Rio de Janeiro: ABNT, 2023.
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 6023**: Informação e documentação — Referências — Elaboração. Rio de Janeiro: ABNT, 2018.
