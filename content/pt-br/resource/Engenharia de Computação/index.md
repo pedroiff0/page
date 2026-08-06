@@ -130,7 +130,8 @@ filters:
     - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação")'
     - 'file.name == "index"'
     - 'file.path != "pt-br/resource/Engenharia de Computação/index.md"'
-    - not: 'file.folder.endsWith("anotacoes")'
+    - not:
+        - 'file.folder.includes("anotacoes")'
 formulas:
   turma: 'link(file.path, note.title)'
 properties:
