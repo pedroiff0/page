@@ -1,39 +1,30 @@
 ---
 publish: true
-title: Segurança e Higiene do Trabalho
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.995-03:00
-published: 2026-07-26T11:33:09.995-03:00
+title: "Segurança e Higiene do Trabalho"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - profissionalizante
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 8º Período · **Núcleo:** Profissionalizante
-> **Tópicos:** Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (NR-5), Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho – …
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.60`
+> - **Período:** 8º Período | **Núcleo:** Profissionalizante | **Carga Horária:** —
+> - **Docente Responsável:** Gardoni (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.60 |
-| Núcleo | Profissionalizante |
-| Carga Horária | — |
-| Período | 8º Período |
-| Pré-requisitos | — |
-| Professor | Gardoni |
-| Email |  |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (NR-5), Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho – Sesmt (NR-4), Equipamento de Proteção Individual (NR-6), Programa de Controle Médico de Saúde Ocupacional – Pcmso (NR-7), Programa de Prevenção de Riscos Ambientais – Ppra (NR-9), Segurança em Instalações e Serviços em Eletricidade (NR-10), Atividades e Operações Insalubres (NR-15), Atividades e Operações Perigosas (NR-16), Proteção Contra Incêndio (NR23).
+> 
+> ### 🎯 Objetivos
+> - Identificar os conceitos básicos de Higiene e Segurança do Trabalho, bem como sua aplicação tanto em estudo de casos como em situações cotidianas;
+> - Demonstrar a importância das Normas e Legislações pertinentes à HST.
 
-## 📋 Ementa
-
-Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (NR-5), Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho – Sesmt (NR-4), Equipamento de Proteção Individual (NR-6), Programa de Controle Médico de Saúde Ocupacional – Pcmso (NR-7), Programa de Prevenção de Riscos Ambientais – Ppra (NR-9), Segurança em Instalações e Serviços em Eletricidade (NR-10), Atividades e Operações Insalubres (NR-15), Atividades e Operações Perigosas (NR-16), Proteção Contra Incêndio (NR23).
-
-## 🎯 Objetivos
-
-- Identificar os conceitos básicos de Higiene e Segurança do Trabalho, bem como sua aplicação tanto em estudo de casos como em situações cotidianas;
-- Demonstrar a importância das Normas e Legislações pertinentes à HST.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Introdução à Segurança no Trabalho
 2. Comissão Interna de Prevenção de Acidentes – CIPA (NR-5)
 3. Equipamento de Proteção Individual (NR-6)
@@ -77,21 +68,18 @@ Segurança no Trabalho, Comissão Interna de Prevenção de Acidentes – Cipa (
 - Classe de Incêndio
 - Agentes e tipos de Extintores
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. BARSANO, P. R., BARBOSA, R. P. Higiene e Segurança do Trabalho. 2ª Edição. São Paulo: Erica, 2018.
+> 2. \_\_\_\_\_\_. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018.
+> 3. CAMISASSA, M. Q. Segurança e Saúde no Trabalho: NRs 1 a 36 Comentadas e Descomplicadas. 5ª Edição. São Paulo: Método, 2018.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. BARBOSA, R. P. Avaliação de Risco e Impacto Ambiental. São Paulo: Erica, 2014.
+> 2. CARDELLA, B. Segurança no Trabalho e Prevenção de Acidentes: Uma Abordagem Holística. 2ª Edição. Rio de Janeiro: LTC, 2016.
+> 3. MATTOS, U. Higiene e Segurança do Trabalho. São Paulo: Elsevier, 2011.
+> 4. PAOLESCHI. B. CIPA: Guia Prático de Segurança do Trabalho. São Paulo: Erica, 2009.
+> 5. PONTE JR, G. P. Gerenciamento de Riscos Baseado em Fatores Humanos e Cultura de Segurança. São Paulo: Elsevier, 2013.
 
-1. BARSANO, P. R., BARBOSA, R. P. Higiene e Segurança do Trabalho. 2ª Edição. São Paulo: Erica, 2018.
-2. \_\_\_\_\_\_. Segurança do Trabalho: Guia Prático e Didático. 2ª Edição. São Paulo: Erica, 2018.
-3. CAMISASSA, M. Q. Segurança e Saúde no Trabalho: NRs 1 a 36 Comentadas e Descomplicadas. 5ª Edição. São Paulo: Método, 2018.
-
-## 📗 Bibliografia Complementar
-
-1. BARBOSA, R. P. Avaliação de Risco e Impacto Ambiental. São Paulo: Erica, 2014.
-2. CARDELLA, B. Segurança no Trabalho e Prevenção de Acidentes: Uma Abordagem Holística. 2ª Edição. Rio de Janeiro: LTC, 2016.
-3. MATTOS, U. Higiene e Segurança do Trabalho. São Paulo: Elsevier, 2011.
-4. PAOLESCHI. B. CIPA: Guia Prático de Segurança do Trabalho. São Paulo: Erica, 2009.
-5. PONTE JR, G. P. Gerenciamento de Riscos Baseado em Fatores Humanos e Cultura de Segurança. São Paulo: Elsevier, 2013.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/8-periodo/seguranca-e-higiene-do-trabalho/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/seguranca-e-higiene-do-trabalho/anotacoes/index)**

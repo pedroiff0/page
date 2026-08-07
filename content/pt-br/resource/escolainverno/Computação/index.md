@@ -33,7 +33,7 @@ Programação paralela (OpenMP/MPI) para ciência de dados, com Fernando Roig.
 3. [Aula 03](pt-br/resource/escolainverno/computação/computacao-aula03) — _(nota provisória, aguardando material oficial)_ panorama de algoritmos clássicos de aprendizado de máquina, supervisionados (regressão linear, árvores de decisão, random forest, k-NN) e não supervisionados (PCA, t-SNE, UMAP).
 
 
-## 🗺️ Tabela Dinâmica do Minicurso (Quartz Base)
+## 🗺️ Aulas do Minicurso
 
 ```base
 filters:

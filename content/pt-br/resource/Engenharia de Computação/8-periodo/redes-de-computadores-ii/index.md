@@ -1,38 +1,29 @@
 ---
 publish: true
-title: Redes de Computadores II
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.995-03:00
-published: 2026-07-26T11:33:09.995-03:00
+title: "Redes de Computadores II"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - especifica
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 8º Período · **Núcleo:** Específica · **Carga Horária:** 60h
-> **Tópicos:** Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com Switches; Configuração de Switch; VLANs; Listas de Controle de Acesso; DHCP;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.59`
+> - **Período:** 8º Período | **Núcleo:** Específica | **Carga Horária:** 60
+> - **Docente Responsável:** Wesley Folly (wesley.souza@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.59 |
-| Núcleo | Específica |
-| Carga Horária | 60 |
-| Período | 8º Período |
-| Pré-requisitos | [CSECBJI.55 - Redes de Computadores I](redes-de-computadores-i.md) |
-| Professor | Wesley Folly |
-| Email | wesley.souza@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com Switches; Configuração de Switch; VLANs; Listas de Controle de Acesso; DHCP; NAT para IPv4; Descoberta, Gerenciamento e Manutenção de Dispositivos.
+> 
+> ### 🎯 Objetivos
+> - Aprofundar conhecimentos em redes de computadores acerca de redes comutadas, switching, roteamento.
 
-## 📋 Ementa
-
-Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com Switches; Configuração de Switch; VLANs; Listas de Controle de Acesso; DHCP; NAT para IPv4; Descoberta, Gerenciamento e Manutenção de Dispositivos.
-
-## 🎯 Objetivos
-
-- Aprofundar conhecimentos em redes de computadores acerca de redes comutadas, switching, roteamento.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Roteadores e suas Tecnologias
 2. Conceitos de Roteamento
 3. Roteamento Estático
@@ -45,30 +36,20 @@ Conceitos de Roteamento; Roteamento Estático; Roteamento Dinâmico; Redes com S
 10. NAT para IPv4
 11. Descoberta, Gerenciamento e Manutenção de Dispositivos
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
+> 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+> 3. Pearson, 2013.
+> 4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
+> 2. CARISSIMI, A. S., ROCHOL, J.
+> 3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman,
+> 4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013.
+> 5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015.
+> 6. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Redes de Computadores II](assets/biblioteca/computacao/redes-de-computadores-2-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-- **[Segurança da Informação](assets/biblioteca/computacao/seguranca-da-informacao-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-
-## 📕 Bibliografia Básica
-
-1. COMER, D. E. Redes de Computadores e Internet. 6ª Edição. Porto Alegre: Bookman, 2015.
-2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
-3. Pearson, 2013.
-4. TANENBAUM, A. S. Redes de Computadores. 5ª Edição. São Paulo: 2011.
-
-## 📗 Bibliografia Complementar
-
-1. ANDERSON, A., BENEDETTI, R. Use a Cabeça! Rede de Computadores. Rio de Janeiro: Alta Books,
-2. CARISSIMI, A. S., ROCHOL, J.
-3. GRANVILLE, L. Z. Redes de Computadores. Porto Alegre: Bookman,
-4. MAIA, L. P. Arquitetura de Redes de Computadores. 2ª Edição. Rio de Janeiro: LTC, 2013.
-5. MENDES, D. R. Redes de Computadores: Teoria e Prática. 2ª Edição. São Paulo: Novatec, 2015.
-6. PETERSON, L. L., DAVIE, B. S. Redes de Computadores: Uma Abordagem de Sistemas. 5ª Edição. Rio de Janeiro: LTC, 2018.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/8-periodo/redes-de-computadores-ii/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/redes-de-computadores-ii/anotacoes/index)**

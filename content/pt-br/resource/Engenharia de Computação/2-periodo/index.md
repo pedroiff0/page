@@ -1,67 +1,58 @@
 ---
 publish: true
-title: 2º Período
+title: "2º Período"
 created: 2026-07-21
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
-order: 2
+modified: 2026-08-06
 ---
 
-> [!note] Sobre este período
-> 8 disciplinas do 2º período do curso de Engenharia de Computação.
+> [!info] 🎓 Visão Geral e Carga Horária do Período
+> - **Carga Horária Total do Bloco:** `480h`
+> - **Resumo Pedagógico:** Aprofundamento em algoritmos de programação, equações diferenciais e física teórica.
+
+> [!note] 📚 Grade Curricular e Disciplinas Integrantes
+> - 📘 **[Algoritmos e Programação I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Profissionalizante)
+> - 📘 **[Cálculo II](calculo-ii/index)** (`80h` · Núcleo Básico)
+> - 📘 **[Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii/index)** (`60h` · Núcleo Básico)
+> - 📘 **[Matemática Discreta](matematica-discreta/index)** (`60h` · Núcleo Básico)
+> - 📘 **[Física I](fisica-i/index)** (`80h` · Núcleo Básico)
+> - 📘 **[Química Tecnológica](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`60h` · Núcleo Básico)
+> - 📘 **[Física Experimental I](fisica-experimental-i/index)** (`60h` · Núcleo Básico)
+
+> [!tip] 📎 Documentos e Horários Institucionais
+> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/Horario_1p.pdf)**
+> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/PPC_1p.pdf)**
+
+## 🎨 Carrossel de Disciplinas do Período
+
+Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
-  <a href="/pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Álgebra Linear e Geometria Analítica II" />
-    <div class="slide-caption">Álgebra Linear e Geometria Analítica II</div>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-programacao-i/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Programação I" />
+    <div class="slide-caption">Algoritmos e Programação I</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Técnicas de Programação" />
-    <div class="slide-caption">Algoritmos e Técnicas de Programação</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/2-periodo/calculo-ii" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/calculo-ii/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Cálculo II" />
     <div class="slide-caption">Cálculo II</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/2-periodo/fisica-experimental-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Física Experimental I" />
-    <div class="slide-caption">Física Experimental I</div>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algebra-linear-e-geometria-analitica-ii/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Álgebra Linear e Geometria Analítica II" />
+    <div class="slide-caption">Álgebra Linear e Geometria Analítica II</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/2-periodo/fisica-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Física I" />
-    <div class="slide-caption">Física I</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/matematica-discreta/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Matemática Discreta" />
     <div class="slide-caption">Matemática Discreta</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/2-periodo/quimica-experimental" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Química Experimental" />
-    <div class="slide-caption">Química Experimental</div>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/fisica-i/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Física I" />
+    <div class="slide-caption">Física I</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/2-periodo/quimica" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Química" />
-    <div class="slide-caption">Química</div>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/quimica-tecnologica/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Química Tecnológica" />
+    <div class="slide-caption">Química Tecnológica</div>
+  </a>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/fisica-experimental-i/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Física Experimental I" />
+    <div class="slide-caption">Física Experimental I</div>
   </a>
 </div>
-
-Disciplinas do 2º período do curso de Engenharia de Computação.
-
-## Disciplinas
-
-- [Álgebra Linear e Geometria Analítica II](algebra-linear-e-geometria-analitica-ii.md) — 80h, núcleo Básico.
-- [Física I](fisica-i.md) — 80h, núcleo Básico.
-- [Física Experimental I](fisica-experimental-i.md) — 40h, núcleo Básico.
-- [Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) — —h, núcleo Profissionalizante.
-- [Matemática Discreta](matematica-discreta.md) — 60h, núcleo Básica.
-- [Química](quimica.md) — 60h, núcleo Básico.
-- [Química Experimental](quimica-experimental.md) — 40h, núcleo Básico.
-- [Cálculo II](calculo-ii.md) — 80h, núcleo Básico.
-
-
-## 📎 Documentos do período
-
-- [calendario-2024-cursos-semestrais](assets/disciplinas/2-periodo/calendario-2024-cursos-semestrais.pdf)
-- [horario_2p](assets/disciplinas/2-periodo/horario_2p.pdf)
-- [PPC 2 semestre](assets/disciplinas/2-periodo/PPC%202%20semestre.pdf)
-- [ch_cc](assets/disciplinas/2-periodo/ch_cc.pdf)

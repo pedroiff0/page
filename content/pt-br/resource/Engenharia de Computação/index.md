@@ -17,25 +17,12 @@ Bem-vindo ao portal da matriz curricular do curso de **Bacharelado em Engenharia
 >   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcHoxOWp2cG93OHM0OTlyN2t3ZXN2eTVydW8wYmZzbnh3eTZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Top 5 Ranking Animation" style="max-width: 100%; height: 180px; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" />
 > </div>
 >
-> ### 🥇 TOP 5 MAIORES DESAFIOS ACADÊMICOS
+> ### 🥇 TOP 5 MELHORES DISCIPLINAS
 > - 🥇 **1. Equações Diferenciais** — *Cálculo diferencial avançado e modelagem matemática.*
 > - 🥇 **2. Cálculo 1** — *Limites, derivadas, integrais e fundamentação em análise.*
 > - 🥇 **3. Cálculo 4 \*** — *Séries numéricas, equações diferenciais parciais e transformadas.*
 > - 🥈 **4. Engenharia de Software** — *Arquitetura de sistemas, metodologias ágeis e qualidade.*
-> - 🥈 **5. Cálculo 2** — *Funções de várias variáveis, integrais múltiplas e vetoriais.*
->
-> ### 🥈 POSIÇÕES 6 A 10
-> - 🥈 **6. Cálculo 3** — *Sequências, séries e equações diferenciais ordinárias.*
-> - 🥉 **7. Gestão de Projetos \*** — *PMBOK, estimativa de custos e gestão de risco.*
-> - 🥉 **8. Matemática Discreta \*** — *Lógica proposicional, grafos e combinatória.*
-> - 🥉 **9. Probabilidade e Estatística \*** — *Inferência estatística e variáveis aleatórias.*
-> - 🥉 **10. Física 1 \*** — *Mecânica clássica, gravitação e leis de Newton.*
->
-> ### 🥉 POSIÇÕES 11 A 22
-> - 🔹 **11. Física 2** | 🔹 **12. Física Experimental 1 \*** | 🔹 **13. Física Experimental 2**
-> - 🔹 **14. Fundamentos da Computação** | 🔹 **15. Lógica de Computação** | 🔹 **16. TGA**
-> - 🔹 **17. Metodologia Científica** | 🔹 **18. Expressão Oral e Escrita** | 🚀 **19. PFC 1 \***
-> - 🚀 **20. PFC 2 \*** | 💻 **21. POO 1 \*** | 💻 **22. POO 2 \***
+> - 🥈 **5. Matemática Discreta** — *Relações de Recorrência, Indução.*
 
 ---
 
@@ -119,30 +106,3 @@ Acesse a relação de disciplinas e notas de aula de cada período do curso:
 - ⚙️ **[Disciplinas Eletivas (Optativas)](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas)** — *Inteligência Artificial, Computação Gráfica, Processamento de Imagens, Desenvolvimento Web, Computação Paralela.*
 
 ---
-
-## 🗺️ Tabela Dinâmica dos Períodos da Engenharia (Quartz Base)
-
-A tabela abaixo exibe exclusivamente os índices principais de cada turma/período do curso (excluindo pastas secundárias de anotações):
-
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação")'
-    - 'file.name == "index"'
-    - 'file.path != "pt-br/resource/Engenharia de Computação/index.md"'
-    - not:
-        - 'file.folder.includes("anotacoes")'
-formulas:
-  turma: 'link(file.path, note.title)'
-properties:
-  formula.turma:
-    displayName: Período / Turma
-views:
-  - type: table
-    name: Turmas e Períodos da Engenharia de Computação
-    order:
-      - formula.turma
-    sort:
-      - property: file.path
-        direction: ASC
-```

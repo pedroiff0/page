@@ -1,46 +1,33 @@
 ---
 publish: true
-title: Cálculo III
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.999-03:00
-published: 2026-07-26T11:33:09.999-03:00
+title: "Cálculo III"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 3º Período · **Núcleo:** Básico · **Carga Horária:** 80h
-> **Tópicos:** Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.17`
+> - **Período:** 3º Período | **Núcleo:** Básico | **Carga Horária:** 80
+> - **Docente Responsável:** Vital (tiago.vital@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.17 |
-| Núcleo | Básico |
-| Carga Horária | 80 |
-| Período | 3º Período |
-| Pré-requisitos | [CSECBJI.9 - Cálculo II](calculo-ii.md) |
-| Professor | Vital |
-| Email | tiago.vital@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss;
+> 
+> ### 🎯 Objetivos
+> - Compreender os conceitos, procedimentos e técnicas do Cálculo III, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação;
+> - Utilizar os conhecimentos e técnicas do Cálculo III na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários;
+> - Desenvolver a capacidade de interpretar e criticar resultados obtidos;
+> - Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
 
-## 🔒 Trancas
-
-- [CSECBJI.26 - Física III](fisica-iii.md)
-- [CSECBJI.31 - Cálculo IV](calculo-iv.md)
-
-## 📋 Ementa
-
-Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema de Stokes; Teorema da Divergência de Gauss;
-
-## 🎯 Objetivos
-
-- Compreender os conceitos, procedimentos e técnicas do Cálculo III, desenvolvendo a capacidade de formular hipóteses e selecionar estratégias de ação;
-- Utilizar os conhecimentos e técnicas do Cálculo III na resolução de problemas em outras áreas do currículo e principalmente em sua vida profissional quando esses conhecimentos e técnicas se fizerem necessários;
-- Desenvolver a capacidade de interpretar e criticar resultados obtidos;
-- Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.26 - Física III](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> - [CSECBJI.31 - Cálculo IV](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Funções a valores vetoriais
 
 - Definições, limite e continuidade
@@ -73,31 +60,22 @@ Noções de Cálculo Vetorial; Integrais Curvilíneas e de Superfície; Teorema 
 4. Teorema de Stokes
 5. Teorema da Divergência
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
+> 2. \_\_\_\_\_\_. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
+> 3. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 3. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
+> 4. \_\_\_\_\_\_. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
+> 5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro:
+> 2. Ciência Moderna, 2013.
+> 3. \_\_\_\_\_\_. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013.
+> 4. \_\_\_\_\_\_. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 3. Rio de Janeiro: Ciência Moderna, 2013.
+> 5. FLEMMING, M. B., GONÇALVES, D. M. Cálculo C: Funções Vetoriais, Integrais Curvilíneas e Integrais de Superfície. 3ª Edição. São Paulo: Pearson, 2000.
+> 6. VALADARES, R. J. C. Cálculo e Aplicações II: Funções Vetoriais. Rio de Janeiro: Ciência Moderna, WEIR, M. D., HASS, J.
+> 7. THOMAS, G. B. Cálculo: Volume 2. 12ª Edição. São Paulo: Pearson Learning, \_\_\_\_\_\_. Cálculo: Volume 1. 12ª Edição. São Paulo: Pearson Learning, 2012.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Cálculo III](assets/biblioteca/matematica/calculo-3-livro-aberto.pdf)** — livro aberto (licença Creative Commons).
-
-## 📕 Bibliografia Básica
-
-1. ANTON, H., BIVENS, I. C., DAVIS, S. L. Cálculo: Volume I 10ª Edição. Porto Alegre: Bookman, 2014.
-2. \_\_\_\_\_\_. Cálculo: Volume II. 10ª Edição. Porto Alegre: Bookman, 2014.
-3. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 3. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
-4. \_\_\_\_\_\_. Um Curso de Cálculo: Volume 4. 6ª Edição. Rio de Janeiro: Ed. LTC, 2018.
-5. STEWART, J. Cálculo: Volume 1. 8ª Edição. São Paulo: Cengage Learning, 2017.
-
-## 📗 Bibliografia Complementar
-
-1. FERREIRA, P. C. P. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 1. Rio de Janeiro:
-2. Ciência Moderna, 2013.
-3. \_\_\_\_\_\_. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 2. Rio de Janeiro: Ciência Moderna, 2013.
-4. \_\_\_\_\_\_. Cálculo e Análise Vetorial com Aplicações Práticas: Volume 3. Rio de Janeiro: Ciência Moderna, 2013.
-5. FLEMMING, M. B., GONÇALVES, D. M. Cálculo C: Funções Vetoriais, Integrais Curvilíneas e Integrais de Superfície. 3ª Edição. São Paulo: Pearson, 2000.
-6. VALADARES, R. J. C. Cálculo e Aplicações II: Funções Vetoriais. Rio de Janeiro: Ciência Moderna, WEIR, M. D., HASS, J.
-7. THOMAS, G. B. Cálculo: Volume 2. 12ª Edição. São Paulo: Pearson Learning, \_\_\_\_\_\_. Cálculo: Volume 1. 12ª Edição. São Paulo: Pearson Learning, 2012.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/3-periodo/calculo-iii/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/calculo-iii/anotacoes/index)**

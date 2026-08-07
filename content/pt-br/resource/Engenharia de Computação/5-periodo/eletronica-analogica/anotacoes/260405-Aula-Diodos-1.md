@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo:  260405-Aula-Diodos-1
 disciplina:
 conteudo:
@@ -98,7 +98,7 @@ PDF
 
 Exemplo 3.2
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

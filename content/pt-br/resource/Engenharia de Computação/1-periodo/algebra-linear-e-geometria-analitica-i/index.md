@@ -1,45 +1,32 @@
 ---
 publish: true
-title: Álgebra Linear e Geometria Analítica I
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Álgebra Linear e Geometria Analítica I"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basica
+  - engenharia-de-computacao
 ---
-> [!note] Sobre esta disciplina
-> **Período:** 1º Período · **Núcleo:** Básica · **Carga Horária:** 80h
-> **Tópicos:** Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
 
-| Campo          | Valor                                                           |     |
-| -------------- | --------------------------------------------------------------- | --- |
-| Código         | CSECBJI.5                                                       |     |
-| Núcleo         | Básica                                                          |     |
-| Carga Horária  | 80                                                              |     |
-| Período        | 1º Período                                                      |     |
-| Pré-requisitos |                                                                 |     |
-| Professor      | Roberto Carvalho                                                |     |
-| Email          | roberto.carvalho@gsuite.iff.edu.br, roberto.carvalho@iff.edu.br | —   |
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.5`
+> - **Período:** Eletiva | **Núcleo:** Específico | **Carga Horária:** 60h
+> - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
+> 
+> ### 🎯 Objetivos
+> - Introduzir e desenvolver em termos teóricos um conjunto de conceitos fundamentais da álgebra linear, que serão ferramentas essenciais para apoio às unidades curriculares mais específicas da engenharia;
+> - Abordar estudo de matrizes, determinantes, sistemas de equações lineares, vetores no plano e no espaço com aplicações na geometria analítica e ainda introduz conceitos básicos sobre espaços vetoriais e subespaços.
 
-## 🔒 Trancas
-
-- [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii)
-- [CSECBJI.11 - Física I](pt-br/resource/engenharia-de-computação/2-periodo/fisica-i)
-- [CSECBJI.18 - Equações Diferenciais](pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais)
-
-## 📋 Ementa
-
-Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espaços Vetoriais e Espaços Vetoriais Euclidianos.
-
-## 🎯 Objetivos
-
-- Introduzir e desenvolver em termos teóricos um conjunto de conceitos fundamentais da álgebra linear, que serão ferramentas essenciais para apoio às unidades curriculares mais específicas da engenharia;
-- Abordar estudo de matrizes, determinantes, sistemas de equações lineares, vetores no plano e no espaço com aplicações na geometria analítica e ainda introduz conceitos básicos sobre espaços vetoriais e subespaços.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii)
+> - [CSECBJI.11 - Física I](pt-br/resource/engenharia-de-computação/2-periodo/fisica-i)
+> - [CSECBJI.18 - Equações Diferenciais](pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais)
 
 ## 📖 Conteúdo Programático
-
 1. Matrizes:
 2. Definição e Tipos Especiais;
 3. Álgebra Matricial;
@@ -103,21 +90,19 @@ Inversão de matrizes, Sistemas de equações lineares, Álgebra vetorial, Espa�
 - Processo de Ortogonalização de Gram Schmidt;
 - Complemento Ortogonal.
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear. 3.ª Edição. São Paulo: Harbra, 1984.
+> 2. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
+> 3. STEINBRUCH, A., WINTERLE, P. Álgebra Linear. 2.ª Edição. São Paulo: Pearson, 1995.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
+> 2. LAY, D. C., LAY, S. R.
+> 3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC,
+> 4. LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018.
+> 5. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011.
+> 6. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.
 
-1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear. 3.ª Edição. São Paulo: Harbra, 1984.
-2. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
-3. STEINBRUCH, A., WINTERLE, P. Álgebra Linear. 2.ª Edição. São Paulo: Pearson, 1995.
-
-## 📗 Bibliografia Complementar
-
-1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
-2. LAY, D. C., LAY, S. R.
-3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC,
-4. LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018.
-5. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011.
-6. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/algebra-linear-e-geometria-analitica-i/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/algebra-linear-e-geometria-analitica-i/anotacoes/index)**

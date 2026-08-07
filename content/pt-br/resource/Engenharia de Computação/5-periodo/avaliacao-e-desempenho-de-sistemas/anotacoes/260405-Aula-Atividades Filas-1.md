@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo:  260405-Aula-Atividades Filas-1
 disciplina:
 conteudo:
@@ -235,7 +235,7 @@ $\rho^5 = 0,1296 \implies 12,96\%$
 d) A chance é baixa. 
 ***
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

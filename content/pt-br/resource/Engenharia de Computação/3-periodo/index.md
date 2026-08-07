@@ -1,68 +1,53 @@
 ---
 publish: true
-title: 3º Período
+title: "3º Período"
 created: 2026-07-21
-modified: 2026-07-26T11:33:09.999-03:00
-published: 2026-07-26T11:33:09.999-03:00
-order: 3
+modified: 2026-08-06
 ---
 
-> [!note] Sobre este período
-> 8 disciplinas do 3º período do curso de Engenharia de Computação.
+> [!info] 🎓 Visão Geral e Carga Horária do Período
+> - **Carga Horária Total do Bloco:** `460h`
+> - **Resumo Pedagógico:** Consolidação em estruturas de dados eficientes, cálculo avançado e eletromagnetismo.
+
+> [!note] 📚 Grade Curricular e Disciplinas Integrantes
+> - 📘 **[Algoritmos e Programação II](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Profissionalizante)
+> - 📘 **[Estruturas de Dados I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)** (`80h` · Núcleo Profissionalizante)
+> - 📘 **[Cálculo III](calculo-iii/index)** (`80h` · Núcleo Básico)
+> - 📘 **[Equações Diferenciais](equacoes-diferenciais/index)** (`80h` · Núcleo Básico)
+> - 📘 **[Física II](fisica-ii/index)** (`80h` · Núcleo Básico)
+> - 📘 **[Física Experimental II](fisica-experimental-ii/index)** (`60h` · Núcleo Básico)
+
+> [!tip] 📎 Documentos e Horários Institucionais
+> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/Horario_1p.pdf)**
+> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/PPC_1p.pdf)**
+
+## 🎨 Carrossel de Disciplinas do Período
+
+Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
-  <a href="/pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Estruturas de Dados I" />
-    <div class="slide-caption">Algoritmos e Estruturas de Dados I</div>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/algoritmos-e-programacao-ii/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Algoritmos e Programação II" />
+    <div class="slide-caption">Algoritmos e Programação II</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/3-periodo/calculo-iii" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/estruturas-de-dados-i/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Estruturas de Dados I" />
+    <div class="slide-caption">Estruturas de Dados I</div>
+  </a>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/calculo-iii/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Cálculo III" />
     <div class="slide-caption">Cálculo III</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/3-periodo/ciencias-do-ambiente" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Ciências do Ambiente" />
-    <div class="slide-caption">Ciências do Ambiente</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/equacoes-diferenciais/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Equações Diferenciais" />
     <div class="slide-caption">Equações Diferenciais</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/3-periodo/fisica-experimental-ii" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Física Experimental II" />
-    <div class="slide-caption">Física Experimental II</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/3-periodo/fisica-ii" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/fisica-ii/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Física II" />
     <div class="slide-caption">Física II</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/3-periodo/introducao-a-ciencia-dos-materiais" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Introdução à Ciência dos Materiais" />
-    <div class="slide-caption">Introdução à Ciência dos Materiais</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/3-periodo/mecanica-dos-solidos" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Mecânica dos Sólidos" />
-    <div class="slide-caption">Mecânica dos Sólidos</div>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/fisica-experimental-ii/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Física Experimental II" />
+    <div class="slide-caption">Física Experimental II</div>
   </a>
 </div>
-
-Disciplinas do 3º período do curso de Engenharia de Computação.
-
-## Disciplinas
-
-- [Cálculo III](calculo-iii.md) — 80h, núcleo Básico.
-- [Equações Diferenciais](equacoes-diferenciais.md) — 80h, núcleo Básico.
-- [Física II](fisica-ii.md) — 80h, núcleo Básico.
-- [Física Experimental II](fisica-experimental-ii.md) — 40h, núcleo Básico.
-- [Mecânica dos Sólidos](mecanica-dos-solidos.md) — 80h, núcleo Básico.
-- [Algoritmos e Estruturas de Dados I](algoritmos-e-estruturas-de-dados-i.md) — 60h, núcleo Profissionalizante.
-- [Introdução à Ciência dos Materiais](introducao-a-ciencia-dos-materiais.md) — 60h, núcleo Básico.
-- [Ciências do Ambiente](ciencias-do-ambiente.md) — 40h, núcleo Básico.
-
-
-## 📎 Documentos do período
-
-- [Modelo Planner Horizontal (SEMESTRAL)](assets/disciplinas/3-periodo/Modelo%20Planner%20Horizontal%20%28SEMESTRAL%29.pdf)
-- [calendario-2024-cursos-semestrais](assets/disciplinas/3-periodo/calendario-2024-cursos-semestrais.pdf)
-- [horario_3p - Planilha1](assets/disciplinas/3-periodo/horario_3p%20-%20Planilha1.pdf)
-- [ppc3sem](assets/disciplinas/3-periodo/ppc3sem.pdf)
-- [disciplinas](assets/disciplinas/3-periodo/disciplinas.pdf)

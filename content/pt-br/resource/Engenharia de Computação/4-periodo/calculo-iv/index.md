@@ -1,46 +1,33 @@
 ---
 publish: true
-title: Cálculo IV
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.987-03:00
-published: 2026-07-26T11:33:09.987-03:00
+title: "Cálculo IV"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 4º Período · **Núcleo:** Básico · **Carga Horária:** 80h
-> **Tópicos:** Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Singularidades e séries de Laurent. Resíduos e polos. Integração complexa.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.31`
+> - **Período:** 4º Período | **Núcleo:** Básico | **Carga Horária:** 80
+> - **Docente Responsável:** Tacila (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.31 |
-| Núcleo | Básico |
-| Carga Horária | 80 |
-| Período | 4º Período |
-| Pré-requisitos | [CSECBJI.17 - Cálculo III](calculo-iii.md) |
-| Professor | Tacila |
-| Email |  |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Singularidades e séries de Laurent. Resíduos e polos. Integração complexa. Teorema de Cauchy-Goursat. Teorema do resíduo. Transformada de Laplace. Séries de Fourier. Transformada de Fourier.
+> 
+> ### 🎯 Objetivos
+> - Compreender e aplicar os principais resultados sobre séries de potências que representam funções reais;
+> - Adquirir noções de funções de variável complexa;
+> - Desenvolver funções de variável complexa em séries de Laurent;
+> - Classificar singularidades e calcular resíduos de funções de variável complexa;
+> - Aplicar o cálculo de resíduos à obtenção da transformada inversa de Laplace;
 
-## 🔒 Trancas
-
-- [CSECBJI.83 - Processamento de Sinais](processamento-de-sinais.md)
-
-## 📋 Ementa
-
-Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Singularidades e séries de Laurent. Resíduos e polos. Integração complexa. Teorema de Cauchy-Goursat. Teorema do resíduo. Transformada de Laplace. Séries de Fourier. Transformada de Fourier.
-
-## 🎯 Objetivos
-
-- Compreender e aplicar os principais resultados sobre séries de potências que representam funções reais;
-- Adquirir noções de funções de variável complexa;
-- Desenvolver funções de variável complexa em séries de Laurent;
-- Classificar singularidades e calcular resíduos de funções de variável complexa;
-- Aplicar o cálculo de resíduos à obtenção da transformada inversa de Laplace;
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.83 - Processamento de Sinais](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Sequências e séries
 
 - Definições e notações;
@@ -101,22 +88,19 @@ Séries de Taylor e Maclaurin. Noções de funções de variável complexa. Sing
 - Definição e propriedades;
 - Aplicações.
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 10.ª Edição Rio de Janeiro: LTC, 2015.
+> 2. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 4. 3ª Edição. Rio de Janeiro: LTC, 2018
+> 3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
+> 2. BROWN, J. W., CHURCHIL, R. V. Variáveis Complexas e Aplicações. 9ª Edição. São Paulo: McGraw Hill, 2015.
+> 3. MCMAHON, D. Variáveis Complexas Desmitificadas: Um Guia para o Autoaprendizado. São Paulo:
+> 4. Ciência Moderna, 2009.
+> 5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman.
+> 6. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
 
-1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 10.ª Edição Rio de Janeiro: LTC, 2015.
-2. GUIDORIZZI, H. L. Um Curso de Cálculo: Volume 4. 3ª Edição. Rio de Janeiro: LTC, 2018
-3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
-
-## 📗 Bibliografia Complementar
-
-1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
-2. BROWN, J. W., CHURCHIL, R. V. Variáveis Complexas e Aplicações. 9ª Edição. São Paulo: McGraw Hill, 2015.
-3. MCMAHON, D. Variáveis Complexas Desmitificadas: Um Guia para o Autoaprendizado. São Paulo:
-4. Ciência Moderna, 2009.
-5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman.
-6. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/4-periodo/calculo-iv/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/4-periodo/calculo-iv/anotacoes/index)**

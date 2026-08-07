@@ -33,7 +33,7 @@ O modelo padrão ΛCDM e suas sondas observacionais, com Carlos Bengaly.
 3. [Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — _(nota provisória, aguardando material oficial)_ a Estrutura em Grande Escala do Universo — filamentos, aglomerados e vazios — como terceira e última sonda observacional do cronograma.
 
 
-## 🗺️ Tabela Dinâmica do Minicurso (Quartz Base)
+## 🗺️ Aulas do Minicurso
 
 ```base
 filters:

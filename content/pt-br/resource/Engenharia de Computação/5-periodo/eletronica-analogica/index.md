@@ -1,42 +1,29 @@
 ---
 publish: true
-title: Eletrônica Analógica
-created: 2026-07-18
-modified: 2026-07-26T11:33:10.003-03:00
-published: 2026-07-26T11:33:10.003-03:00
+title: "Eletrônica Analógica"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - profissionalizante
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 5º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
-> **Tópicos:** Transistores bipolares e circuitos polarizados com transistor; Fonte de alimentação regulada; Osciladores e temporizadores; Tiristores;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.37`
+> - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
+> - **Docente Responsável:** Garcez (luiz.garcez@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.37 |
-| Núcleo | Profissionalizante |
-| Carga Horária | 60 |
-| Período | 5º Período |
-| Pré-requisitos | [CSECBJI.26 - Física III](fisica-iii.md) |
-| Professor | Garcez |
-| Email | luiz.garcez@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Transistores bipolares e circuitos polarizados com transistor; Fonte de alimentação regulada; Osciladores e temporizadores; Tiristores; Amplificadores Operacionais (circuitos lineares e não-lineares).
+> 
+> ### 🎯 Objetivos
+> - ● Compreender o funcionamento dos componentes eletrônicos básicos abordados e de como eles funcionam ● Compreender o funcionamento dos CIs e dos sistemas eletrônicos atuais e suas aplicações no campo da Engenharia de Computação.
 
-## 🔒 Trancas
-
-- [CSECBJI.46 - Eletrônica Digital](eletronica-digital.md)
-
-## 📋 Ementa
-
-Transistores bipolares e circuitos polarizados com transistor; Fonte de alimentação regulada; Osciladores e temporizadores; Tiristores; Amplificadores Operacionais (circuitos lineares e não-lineares).
-
-## 🎯 Objetivos
-
-- ● Compreender o funcionamento dos componentes eletrônicos básicos abordados e de como eles funcionam ● Compreender o funcionamento dos CIs e dos sistemas eletrônicos atuais e suas aplicações no campo da Engenharia de Computação.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.46 - Eletrônica Digital](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Teoria dos Diodos
 
 - Teoria do semicondutor
@@ -96,32 +83,22 @@ Transistores bipolares e circuitos polarizados com transistor; Fonte de alimenta
 
 - Análise e Compreensão de Circuitos Eletrônicos
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. MALVINO, A. P., BATES, D. J. Eletrônica: Volume 1. 8ª Edição. Porto Alegre: Bookman, 2016.
+> 2. \_\_\_\_\_\_. Eletrônica: Volume 2. 8ª Edição. Porto Alegre: Bookman, 2016.
+> 3. PERTENCE, Antônio Jr. Amplificadores Operacionais e Filtros Ativos. 8ª Edição. Porto Alegre:
+> 4. Bookman, 2014.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. BOYLESTAD, R., NASHELSKY, L. Dispositivos Eletrônicos e Teoria dos Circuitos. 11ª Edição. São Paulo:
+> 2. Pearson, 2013.
+> 3. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:
+> 4. LTC, 2013.
+> 5. HART, D. W. Eletrônica de Potência: Análise e Projeto de Circuitos. Porto Alegre: Bookman, 2011.
+> 6. HOROWITZ, P. A Arte da Eletrônica: Circuitos Eletrônicos e Microeletrônica. 3ª Edição. Porto Alegre:
+> 7. Bookman, 2017.
+> 8. PLATT, C. Eletrônica para Makers: Um Manual Prático para o Novo Entusiasta de Eletrônica. São Paulo: Novatec, 2016.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Princípios Básicos de Eletrônica](assets/biblioteca/eletroeletronica/principios-basicos-eletronica-etec.pdf)** — e-Tec Brasil. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-- **[Eletrônica I](assets/biblioteca/eletroeletronica/eletronica-1-cetam.pdf)**, **[Eletrônica III](assets/biblioteca/eletroeletronica/eletronica-3-cetam.pdf)** e **[Eletrônica V](assets/biblioteca/eletroeletronica/eletronica-5-cetam.pdf)** — CETAM/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-
-## 📕 Bibliografia Básica
-
-1. MALVINO, A. P., BATES, D. J. Eletrônica: Volume 1. 8ª Edição. Porto Alegre: Bookman, 2016.
-2. \_\_\_\_\_\_. Eletrônica: Volume 2. 8ª Edição. Porto Alegre: Bookman, 2016.
-3. PERTENCE, Antônio Jr. Amplificadores Operacionais e Filtros Ativos. 8ª Edição. Porto Alegre:
-4. Bookman, 2014.
-
-## 📗 Bibliografia Complementar
-
-1. BOYLESTAD, R., NASHELSKY, L. Dispositivos Eletrônicos e Teoria dos Circuitos. 11ª Edição. São Paulo:
-2. Pearson, 2013.
-3. IRWIN, J. D., NELMS, R. M. Análise Básica de Circuitos para Engenharia. 10ª Edição. Rio de Janeiro:
-4. LTC, 2013.
-5. HART, D. W. Eletrônica de Potência: Análise e Projeto de Circuitos. Porto Alegre: Bookman, 2011.
-6. HOROWITZ, P. A Arte da Eletrônica: Circuitos Eletrônicos e Microeletrônica. 3ª Edição. Porto Alegre:
-7. Bookman, 2017.
-8. PLATT, C. Eletrônica para Makers: Um Manual Prático para o Novo Entusiasta de Eletrônica. São Paulo: Novatec, 2016.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/5-periodo/eletronica-analogica/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/eletronica-analogica/anotacoes/index)**

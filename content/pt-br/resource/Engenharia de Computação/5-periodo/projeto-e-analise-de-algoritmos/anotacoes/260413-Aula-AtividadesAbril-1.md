@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo:  260413-Aula-AtividadesAbril-1
 disciplina:
 conteudo:
@@ -310,7 +310,7 @@ a) Endereçamento Aberto.
 b) Endereçamento Aberto em termos de memória, só utilizou os 11 espaços disponiveis, Encadeamento utilizou MENOS espaços na lista, mas usou mais memória pra encadear no tratamento das colisões. 
 c) Encadeamento foi melhor.
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

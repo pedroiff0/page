@@ -1,7 +1,7 @@
 ---
 title: Anotações e Arquivos
 publish: true
-password: "engcomp20232"
+password: "eng232"
 ---
 
 
@@ -10,7 +10,7 @@ password: "engcomp20232"
 Nenhum arquivo encontrado.
 
 
-## 📝 Base Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações e Documentos
 
 ```base
 filters:

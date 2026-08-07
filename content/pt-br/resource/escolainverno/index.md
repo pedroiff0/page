@@ -72,7 +72,7 @@ published: 2026-07-26T10:41:58.418-03:00
 
 ---
 
-## 🗺️ Tabela Dinâmica dos Minicursos e Conteúdos (Quartz Base)
+## 🔬 Módulos e Minicursos
 
 ```base
 filters:

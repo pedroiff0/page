@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo:  20260610 - Redes de Filas
 criado: 2026-06-10
 modificado: 2026-06-10 17:48
@@ -106,7 +106,7 @@ Exemplo:
 > [!PDF|important] [[Análise_de_Operacional_de_Redes_de_Filas.pdf#page=35&selection=13,0,27,45&color=important|Análise_de_Operacional_de_Redes_de_Filas, p.31]]
 > > A demanda de serviço, anteriormente definida como Di = Vi Di , pode ser relacionada a vazão do sistema e sua utilização
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

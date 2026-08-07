@@ -1,43 +1,34 @@
 ---
 publish: true
-title: Introdução à Engenharia
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Introdução à Engenharia"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - profissionalizante
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 1º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 40h
-> **Tópicos:** Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para Solução dos Problemas de Engenharia; Modelos e Modelagem na Engenharia;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.2`
+> - **Período:** 1º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 40
+> - **Docente Responsável:** Alcides Oliveira (alcides.oliveira@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.2 |
-| Núcleo | Profissionalizante |
-| Carga Horária | 40 |
-| Período | 1º Período |
-| Pré-requisitos | — |
-| Professor | Alcides Oliveira |
-| Email | alcides.oliveira@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para Solução dos Problemas de Engenharia; Modelos e Modelagem na Engenharia; Busca da Solução Ótima; Desenho Universal e Engenharia; Análise de Engenharia; Mundo Quantificado de Engenheiros.
+> 
+> ### 🎯 Objetivos
+> - Compreender a importância da profissão de engenheiro;
+> - Conhecer as regulamentações relacionadas à profissão de engenheiro;
+> - Conhecer as atividades e habilidades relacionadas à profissão de engenheiro;
+> - Conhecer as especialidades de engenharia;
+> - Conhecer as etapas de desenvolvimento de soluções de engenharia;
+> - Compreender a importância do desenho universal em soluções de engenharia.
 
-## 📋 Ementa
-
-Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para Solução dos Problemas de Engenharia; Modelos e Modelagem na Engenharia; Busca da Solução Ótima; Desenho Universal e Engenharia; Análise de Engenharia; Mundo Quantificado de Engenheiros.
-
-## 🎯 Objetivos
-
-- Compreender a importância da profissão de engenheiro;
-- Conhecer as regulamentações relacionadas à profissão de engenheiro;
-- Conhecer as atividades e habilidades relacionadas à profissão de engenheiro;
-- Conhecer as especialidades de engenharia;
-- Conhecer as etapas de desenvolvimento de soluções de engenharia;
-- Compreender a importância do desenho universal em soluções de engenharia.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Introdução à Engenharia
 
 - A engenharia como profissão;
@@ -105,22 +96,19 @@ Atividades do Engenheiro; Habilidades Necessárias ao Engenheiro; Método para S
 - Unidades fora do SI;
 - A escrita das unidades e suas unidades;
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. COCIAN, L.F. E. Introdução à Engenharia. Bookman, 2016.
+> 2. DYM, C. L., LITLE, P., ORWIN, E., SPJUT, E. Introdução à Engenharia Baseada em Projeto. 3ª Edição.
+> 3. Bookman, 2010.
+> 4. HOLTZAPPLE, M., REECE, W. D. Introdução à Engenharia. LTC, 2006.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. BROCKMAN, J. B. Introdução à Engenharia: Modelagem e Solução de Problemas. LTC, 2010.
+> 2. CHAPMAN, S. Programação em Matlab para Engenheiros. 3ª Edição. Cengage Learning, 2016.
+> 3. CHAPRA, S. C., CANALE, R. P. Métodos Numéricos para Engenharia. 3ª Edição. AMGH, 2016.
+> 4. LEITE, M. SciLab: Uma Abordagem Prática e Didática. Ciência Moderna, 2015.
+> 5. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. Pearson, 2013
 
-1. COCIAN, L.F. E. Introdução à Engenharia. Bookman, 2016.
-2. DYM, C. L., LITLE, P., ORWIN, E., SPJUT, E. Introdução à Engenharia Baseada em Projeto. 3ª Edição.
-3. Bookman, 2010.
-4. HOLTZAPPLE, M., REECE, W. D. Introdução à Engenharia. LTC, 2006.
-
-## 📗 Bibliografia Complementar
-
-1. BROCKMAN, J. B. Introdução à Engenharia: Modelagem e Solução de Problemas. LTC, 2010.
-2. CHAPMAN, S. Programação em Matlab para Engenheiros. 3ª Edição. Cengage Learning, 2016.
-3. CHAPRA, S. C., CANALE, R. P. Métodos Numéricos para Engenharia. 3ª Edição. AMGH, 2016.
-4. LEITE, M. SciLab: Uma Abordagem Prática e Didática. Ciência Moderna, 2015.
-5. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. Pearson, 2013
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/introducao-a-engenharia/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/introducao-a-engenharia/anotacoes/index)**

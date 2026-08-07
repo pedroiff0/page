@@ -76,5 +76,5 @@ O que dominar: a ponte entre a teoria e o código — álgebra booleana em circu
 
 ## Conexão com as disciplinas do curso
 
-- [Lógica para Computação](logica-para-computacao.md) — a disciplina do 1º período que cobre as etapas 1 e 2 desta trilha.
-- [Matemática Discreta](matematica-discreta.md) — a continuação natural no 2º período: conjuntos, relações, contagem e grafos (etapa 3).
+- [Lógica para Computação](logica-para-computacao/index) — a disciplina do 1º período que cobre as etapas 1 e 2 desta trilha.
+- [Matemática Discreta](matematica-discreta/index) — a continuação natural no 2º período: conjuntos, relações, contagem e grafos (etapa 3).

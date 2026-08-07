@@ -1,39 +1,30 @@
 ---
 publish: true
-title: Gestão Ambiental
-created: 2026-07-18
-modified: 2026-07-26T11:33:10.003-03:00
-published: 2026-07-26T11:33:10.003-03:00
+title: "Gestão Ambiental"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 5º Período · **Núcleo:** Básico · **Carga Horária:** 60h
-> **Tópicos:** Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo, reciclagem e reaproveitamento. Definição de lixo e poluição.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.39`
+> - **Período:** 5º Período | **Núcleo:** Básico | **Carga Horária:** 60
+> - **Docente Responsável:** Gardoni (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.39 |
-| Núcleo | Básico |
-| Carga Horária | 60 |
-| Período | 5º Período |
-| Pré-requisitos | — |
-| Professor | Gardoni |
-| Email |  |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo, reciclagem e reaproveitamento. Definição de lixo e poluição. Externalidades negativas. Responsabilidade ambiental. Noções de engenharia de materiais. Gestão de recursos hídricos. Gestão da energia. Certificado ISO 14001. Licenciamento ambiental. Estratégias ambientais para os negócios.
+> 
+> ### 🎯 Objetivos
+> - Introduzir conceitos de gestão ambiental com intuito de levar o aluno a pensar sistemicamente e considerar os fatores externos ambientais que influenciam o ambiente interno e os reflexos no meio ambiente em função da ação do homem nas atividades produtivas;
+> - Capacitar o aluno para avaliar os empreendimentos do ponto de vista ambiental e compreender a importância da consciência ambiental como estratégia de negócios.
 
-## 📋 Ementa
-
-Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo, reciclagem e reaproveitamento. Definição de lixo e poluição. Externalidades negativas. Responsabilidade ambiental. Noções de engenharia de materiais. Gestão de recursos hídricos. Gestão da energia. Certificado ISO 14001. Licenciamento ambiental. Estratégias ambientais para os negócios.
-
-## 🎯 Objetivos
-
-- Introduzir conceitos de gestão ambiental com intuito de levar o aluno a pensar sistemicamente e considerar os fatores externos ambientais que influenciam o ambiente interno e os reflexos no meio ambiente em função da ação do homem nas atividades produtivas;
-- Capacitar o aluno para avaliar os empreendimentos do ponto de vista ambiental e compreender a importância da consciência ambiental como estratégia de negócios.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Conceito de Meio Ambiente
 2. Fundamentos de Teoria Geral dos Sistemas
 
@@ -82,26 +73,23 @@ Conceito de meio ambiente. Fundamentos de Teoria Geral dos Sistemas. Consumismo,
 11. Licenciamento ambiental
 12. Estratégias ambientais para os negócios
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. BARBIERI, J.C. Gestão Ambiental Empresarial.
+> 2. Conceitos, Modelos e Instrumentos. 4ª Edição. São Paulo: Saraiva. 2015.
+> 3. DIAS, R. Gestão Ambiental: Responsabilidade Social e Sustentabilidade. 3ª Edição. São Paulo: Atlas, 6.
+> 4. DONAIRE, D., OLIVEIRA, E. C. Gestão Ambiental na Empresa. 3ª Edição. São Paulo: Atlas, 2018.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
+> 2. Elsevier, 2012.
+> 3. CECH, T. V. Recursos Hídricos: História, Desenvolvimento, Política e Gestão. 3ª Edição. Rio de Janeiro:
+> 4. LTC, 2012.
+> 5. FIORILLO, C. A. P., MORITA, D. M., FERREIRA, P. Licenciamento Ambiental. 3ª Edição. São Paulo:
+> 6. Saraiva, 2018.
+> 7. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto.
+> 8. Rio de Janeiro: LTC, 2017.
+> 9. SEIFFERT, M. E. B. ISO 14001 Sistemas de Gestão Ambiental: Implantação Objetiva e Econômica. 5ª Edição. São Paulo, Atlas, 2017.
 
-1. BARBIERI, J.C. Gestão Ambiental Empresarial.
-2. Conceitos, Modelos e Instrumentos. 4ª Edição. São Paulo: Saraiva. 2015.
-3. DIAS, R. Gestão Ambiental: Responsabilidade Social e Sustentabilidade. 3ª Edição. São Paulo: Atlas, 6.
-4. DONAIRE, D., OLIVEIRA, E. C. Gestão Ambiental na Empresa. 3ª Edição. São Paulo: Atlas, 2018.
-
-## 📗 Bibliografia Complementar
-
-1. CALIJURI, M. C., CUNHA, D. G. F. Engenharia Ambiental: Conceitos, Tecnologia e Gestão. São Paulo:
-2. Elsevier, 2012.
-3. CECH, T. V. Recursos Hídricos: História, Desenvolvimento, Política e Gestão. 3ª Edição. Rio de Janeiro:
-4. LTC, 2012.
-5. FIORILLO, C. A. P., MORITA, D. M., FERREIRA, P. Licenciamento Ambiental. 3ª Edição. São Paulo:
-6. Saraiva, 2018.
-7. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto.
-8. Rio de Janeiro: LTC, 2017.
-9. SEIFFERT, M. E. B. ISO 14001 Sistemas de Gestão Ambiental: Implantação Objetiva e Econômica. 5ª Edição. São Paulo, Atlas, 2017.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/5-periodo/gestao-ambiental/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/gestao-ambiental/anotacoes/index)**

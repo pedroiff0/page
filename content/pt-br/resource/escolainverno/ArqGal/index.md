@@ -27,7 +27,7 @@ published: 2026-07-26T11:03:14.091-03:00
 A história da Via Láctea lida na composição química e cinemática das estrelas.
 
 
-## 🗺️ Tabela Dinâmica do Minicurso (Quartz Base)
+## 🗺️ Aulas do Minicurso
 
 ```base
 filters:

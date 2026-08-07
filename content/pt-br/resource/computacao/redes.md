@@ -75,7 +75,7 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 ## Conexão com as disciplinas do curso
 
 - [Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) — a base física e de enlace: como os bits realmente viajam.
-- [Redes de Computadores I](redes-de-computadores-i.md) — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
-- [Redes de Computadores II](redes-de-computadores-ii.md) — roteamento, serviços e tópicos avançados.
-- [Interconexão de Redes de Computadores](interconexao-de-redes-de-computadores.md) — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
-- [Dimensionamento de Redes de Computadores](dimensionamento-de-redes-de-computadores.md) — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.
+- [Redes de Computadores I](redes-de-computadores-i/index) — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
+- [Redes de Computadores II](redes-de-computadores-ii/index) — roteamento, serviços e tópicos avançados.
+- [Interconexão de Redes de Computadores](interconexao-de-redes-de-computadores/index) — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
+- [Dimensionamento de Redes de Computadores](dimensionamento-de-redes-de-computadores/index) — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.

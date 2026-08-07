@@ -1,38 +1,29 @@
 ---
 publish: true
-title: Sistemas Operacionais II
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.995-03:00
-published: 2026-07-26T11:33:09.995-03:00
+title: "Sistemas Operacionais II"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - profissionalizante
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 8º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
-> **Tópicos:** Sistemas de Arquivos; Entrada/Saída; Deadlocks.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.63`
+> - **Período:** 8º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
+> - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.63 |
-| Núcleo | Profissionalizante |
-| Carga Horária | 60 |
-| Período | 8º Período |
-| Pré-requisitos | [CSECBJI.56 - Sistemas Operacionais I](sistemas-operacionais-i.md) |
-| Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Sistemas de Arquivos; Entrada/Saída; Deadlocks.
+> 
+> ### 🎯 Objetivos
+> - Aprofundar os conhecimentos acerca das estruturas de um sistema operacional.
 
-## 📋 Ementa
-
-Sistemas de Arquivos; Entrada/Saída; Deadlocks.
-
-## 🎯 Objetivos
-
-- Aprofundar os conhecimentos acerca das estruturas de um sistema operacional.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Sistemas de Arquivos
 
 - Arquivos
@@ -60,28 +51,19 @@ Sistemas de Arquivos; Entrada/Saída; Deadlocks.
 - Prevenção de Deadlocks
 - Outras Questões
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
+> 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+> 3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
+> 2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
+> 3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição.
+> 4. Rio de Janeiro: LTC, 2015.
+> 5. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo: Novatec, 2015.
+> 6. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Sistemas Operacionais II](assets/biblioteca/computacao/sistemas-operacionais-2-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-
-## 📕 Bibliografia Básica
-
-1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
-2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
-3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição. Porto Alegre: Bookman, 2018.
-
-## 📗 Bibliografia Complementar
-
-1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
-2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
-3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição.
-4. Rio de Janeiro: LTC, 2015.
-5. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo: Novatec, 2015.
-6. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/8-periodo/sistemas-operacionais-ii/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/sistemas-operacionais-ii/anotacoes/index)**

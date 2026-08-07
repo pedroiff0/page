@@ -33,7 +33,7 @@ Sistema Solar: inventário, arquitetura e dinâmica orbital.
 3. [Aula 03](pt-br/resource/escolainverno/planetaria/planetaria-aula03) — _(nota provisória, tema ainda não confirmado)_ palpite mínimo de continuação rumo a exoplanetas e planetologia comparada.
 
 
-## 🗺️ Tabela Dinâmica do Minicurso (Quartz Base)
+## 🗺️ Aulas do Minicurso
 
 ```base
 filters:

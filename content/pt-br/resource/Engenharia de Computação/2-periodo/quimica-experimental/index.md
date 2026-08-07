@@ -1,38 +1,29 @@
 ---
 publish: true
-title: Química Experimental
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Química Experimental"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 40h
-> **Tópicos:** Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.16`
+> - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 40
+> - **Docente Responsável:** Érica/Marcione (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.16 |
-| Núcleo | Básico |
-| Carga Horária | 40 |
-| Período | 2º Período |
-| Pré-requisitos | — |
-| Professor | Érica/Marcione |
-| Email |  |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais. Ferramentas profissionais na área de química experimental. Teste de chama. Medidas de massa e de volume. Soluções. Reações químicas. Estequiometria. Titulação ácido-base. Termoquímica. Equilíbrio Químico. Cinética Química. Eletroquímica. Grupos funcionais orgânicos.
+> 
+> ### 🎯 Objetivos
+> - Relacionar as práticas envolvidas nesta disciplina com a teoria abordada na disciplina de Química, de tal forma a contribuir para a aquisição do aprendizado teórico. Somado a isso, adquirir o conhecimento básico sobre as principais ferramentas profissionais utilizadas em um laboratório de química e compreender como a metodologia científica está envolvida desde o planejamento do experimento até a interpretação dos resultados.
 
-## 📋 Ementa
-
-Normas de conduta e procedimentos de segurança em laboratórios de análise química. Incerteza dos resultados experimentais. Ferramentas profissionais na área de química experimental. Teste de chama. Medidas de massa e de volume. Soluções. Reações químicas. Estequiometria. Titulação ácido-base. Termoquímica. Equilíbrio Químico. Cinética Química. Eletroquímica. Grupos funcionais orgânicos.
-
-## 🎯 Objetivos
-
-- Relacionar as práticas envolvidas nesta disciplina com a teoria abordada na disciplina de Química, de tal forma a contribuir para a aquisição do aprendizado teórico. Somado a isso, adquirir o conhecimento básico sobre as principais ferramentas profissionais utilizadas em um laboratório de química e compreender como a metodologia científica está envolvida desde o planejamento do experimento até a interpretação dos resultados.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Estrutura, funcionamento e noções básicas de segurança em laboratório de química.
 2. Erros e medidas (precisão e exatidão). Incerteza nos resultados experimentais.
 3. Ferramentas Profissionais.
@@ -49,22 +40,19 @@ Normas de conduta e procedimentos de segurança em laboratórios de análise qu�
 14. Pilhas eletroquímicas. Eletrólise. Corrosão.
 15. Identificação de grupos funcionais orgânicos. Reatividade de álcoois, aldeídos, cetonas, ácidos carboxílicos e aminas.
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. BACCAN, N.; ANDRADE, J. C.; GODINHO, O. E. S.; BARONE, J. S. Química Analítica Quantitativa e Elementar. São Paulo: Edgard Blüche, 1998.
+> 2. MENDHAM, J.; DENNEY, R. C.; BARNES, J. D.; THOMAS, M. J. K. Vogel - Análise Química Quantitativa. 6 ed. Rio de Janeiro: LTC, 2002.
+> 3. VOGEL, A. I. Química Analítica Qualitativa. ed., São Paulo: Editora Mestre Jou, 1981.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. ATKINS, P. Princípios de Química: questionando a vida moderna e o meio ambiente, 5ª ed. Porto Alegre: Bookman, 2012.
+> 2. FIOROTTO, N. R. Técnicas Experimentais em Química – Normas e Procedimentos. 1 ed. São Paulo:
+> 3. Erica, 2014.
+> 4. HARRIS, D. 1948 - Análise Química Quantitativa/; Tradução Jairo Bordinhão..\[et al.], - \[Reimpr.], -Rio de Janeiro:LTC, 2011.
+> 5. ROCHA-FILHO, R. C.; SILVA, R. R. Cálculos Básicos da Química. 4ª ed. São Carlos: EdUFSCar, 2017.
+> 6. SILVA, R. R., BOCCHI, N., ROCHA-FILHO, R. C.; MACHADO, P. F. L. Introdução à Química Experimental. 3 ed. São Carlos: EdUFSCar, 2019.
 
-1. BACCAN, N.; ANDRADE, J. C.; GODINHO, O. E. S.; BARONE, J. S. Química Analítica Quantitativa e Elementar. São Paulo: Edgard Blüche, 1998.
-2. MENDHAM, J.; DENNEY, R. C.; BARNES, J. D.; THOMAS, M. J. K. Vogel - Análise Química Quantitativa. 6 ed. Rio de Janeiro: LTC, 2002.
-3. VOGEL, A. I. Química Analítica Qualitativa. ed., São Paulo: Editora Mestre Jou, 1981.
-
-## 📗 Bibliografia Complementar
-
-1. ATKINS, P. Princípios de Química: questionando a vida moderna e o meio ambiente, 5ª ed. Porto Alegre: Bookman, 2012.
-2. FIOROTTO, N. R. Técnicas Experimentais em Química – Normas e Procedimentos. 1 ed. São Paulo:
-3. Erica, 2014.
-4. HARRIS, D. 1948 - Análise Química Quantitativa/; Tradução Jairo Bordinhão..\[et al.], - \[Reimpr.], -Rio de Janeiro:LTC, 2011.
-5. ROCHA-FILHO, R. C.; SILVA, R. R. Cálculos Básicos da Química. 4ª ed. São Carlos: EdUFSCar, 2017.
-6. SILVA, R. R., BOCCHI, N., ROCHA-FILHO, R. C.; MACHADO, P. F. L. Introdução à Química Experimental. 3 ed. São Carlos: EdUFSCar, 2019.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/quimica-experimental/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/quimica-experimental/anotacoes/index)**

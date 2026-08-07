@@ -1,38 +1,29 @@
 ---
 publish: true
-title: Computação, Sociedade e Inclusão
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.987-03:00
-published: 2026-07-26T11:33:09.987-03:00
+title: "Computação, Sociedade e Inclusão"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - especifica
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 7º Período · **Núcleo:** Específica · **Carga Horária:** 60h
-> **Tópicos:** Apropriações da computação e relações de poder: o espaço público, o privado e o sujeito. Recursos e repositórios educacionais abertos.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.54`
+> - **Período:** 7º Período | **Núcleo:** Específica | **Carga Horária:** 60
+> - **Docente Responsável:** Karina (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.54 |
-| Núcleo | Específica |
-| Carga Horária | 60 |
-| Período | 7º Período |
-| Pré-requisitos | — |
-| Professor | Karina |
-| Email |  |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Apropriações da computação e relações de poder: o espaço público, o privado e o sujeito. Recursos e repositórios educacionais abertos.
+> 
+> ### 🎯 Objetivos
+> - Capacitar o aluno para entender as questões sociais, éticas, econômicas, culturais e políticas associadas ao uso do computador.
 
-## 📋 Ementa
-
-Apropriações da computação e relações de poder: o espaço público, o privado e o sujeito. Recursos e repositórios educacionais abertos.
-
-## 🎯 Objetivos
-
-- Capacitar o aluno para entender as questões sociais, éticas, econômicas, culturais e políticas associadas ao uso do computador.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Fundamentação e Discussão Crítica acerca de Computação e Sociedade:
 
 - Aspectos Sociais;
@@ -81,27 +72,24 @@ Apropriações da computação e relações de poder: o espaço público, o priv
 
 8. Relevância Social e Investimento em Tecnologia Social
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. HALL, S. A Identidade Cultural na Pós-Modernidade. Rio de Janeiro: Lamparina, 2019.
+> 2. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. São Paulo: Arquipélago, 2018.
+> 3. SOUZA, J. (et. al). A Sociedade de Controle: manipulação e modulação nas redes sociais. São Paulo:
+> 4. Hedra, 2021.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2013.
+> 2. \_\_\_\_\_\_. O Poder da Identidade. São Paulo: Paz e Terra, 2018.
+> 3. CAZELOTO, E. Inclusão Digital: uma visão crítica. São Paulo: Senac, 2019.
+> 4. FREIRE, P. Extensão ou Comunicação?. 8ª Edição. Rio de Janeiro: Paz e Terra, 2021.
+> 5. FREIRE, E., BATISTA, S. S. S. Sociedade e Tecnologia na Era Digital. São Paulo: Erica, 2014.
+> 6. HOOKS, B. Ensinando a Transgredir: A Educação como Prática da Liberdade. 2ª Edição. São Paulo:
+> 7. WMF Martins Fontes, 2017.
+> 8. PISCHETOLA, M. Inclusão digital e educação: a nova cultura da sala de aula.
+> 9. Petrópolis: Vozes, 2016.
+> 10. VALLEJO, A. P., ZWIEREWICZ, M., COPPETE, M. C., BORGES, M. K., PEREIRA, C. D. Sociedade da Informação, Educação Digital e Inclusão. Santa Catarina: Insular, 2007.
 
-1. HALL, S. A Identidade Cultural na Pós-Modernidade. Rio de Janeiro: Lamparina, 2019.
-2. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. São Paulo: Arquipélago, 2018.
-3. SOUZA, J. (et. al). A Sociedade de Controle: manipulação e modulação nas redes sociais. São Paulo:
-4. Hedra, 2021.
-
-## 📗 Bibliografia Complementar
-
-1. CASTELLS, M. A Sociedade em Rede. São Paulo: Paz e Terra, 2013.
-2. \_\_\_\_\_\_. O Poder da Identidade. São Paulo: Paz e Terra, 2018.
-3. CAZELOTO, E. Inclusão Digital: uma visão crítica. São Paulo: Senac, 2019.
-4. FREIRE, P. Extensão ou Comunicação?. 8ª Edição. Rio de Janeiro: Paz e Terra, 2021.
-5. FREIRE, E., BATISTA, S. S. S. Sociedade e Tecnologia na Era Digital. São Paulo: Erica, 2014.
-6. HOOKS, B. Ensinando a Transgredir: A Educação como Prática da Liberdade. 2ª Edição. São Paulo:
-7. WMF Martins Fontes, 2017.
-8. PISCHETOLA, M. Inclusão digital e educação: a nova cultura da sala de aula.
-9. Petrópolis: Vozes, 2016.
-10. VALLEJO, A. P., ZWIEREWICZ, M., COPPETE, M. C., BORGES, M. K., PEREIRA, C. D. Sociedade da Informação, Educação Digital e Inclusão. Santa Catarina: Insular, 2007.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/7-periodo/computacao-sociedade-e-inclusao/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/7-periodo/computacao-sociedade-e-inclusao/anotacoes/index)**

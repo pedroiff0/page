@@ -1,39 +1,30 @@
 ---
 publish: true
-title: Geoprocessamento
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.999-03:00
-published: 2026-07-26T11:33:09.999-03:00
+title: "Geoprocessamento"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
-> **Tópicos:** Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Métodos de abstração, conversão e estruturação em SIG.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.84`
+> - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
+> - **Docente Responsável:** Dambroz (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.84 |
-| Núcleo | Básico |
-| Carga Horária | 60 |
-| Período | Eletivas (optativas) |
-| Pré-requisitos | [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos.md) |
-| Professor | Dambroz |
-| Email |  |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Métodos de abstração, conversão e estruturação em SIG. Potencial das técnicas de geoprocessamento para a representação de fenômenos e modelos ambientais. Instrumentalização de técnicas do geoprocessamento. Atividades práticas.
+> 
+> ### 🎯 Objetivos
+> - Entender as diferenças entre os tipos de dados georreferenciados e como integrá-los em uma base de dados geográfica.
+> - Conhecer e aplicar as técnicas de geoprocessamento a fim de realizar análises ambientais com o apoio de sistemas computacionais.
 
-## 📋 Ementa
-
-Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Métodos de abstração, conversão e estruturação em SIG. Potencial das técnicas de geoprocessamento para a representação de fenômenos e modelos ambientais. Instrumentalização de técnicas do geoprocessamento. Atividades práticas.
-
-## 🎯 Objetivos
-
-- Entender as diferenças entre os tipos de dados georreferenciados e como integrá-los em uma base de dados geográfica.
-- Conhecer e aplicar as técnicas de geoprocessamento a fim de realizar análises ambientais com o apoio de sistemas computacionais.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Bases Conceituais e Teóricas
 
 - Fundamentos Teóricos de Geoprocessamento
@@ -77,21 +68,18 @@ Bases conceituais e teóricas. Sistemas de informações geográficas (SIG). Mé
 - Delimitação de bacias
 - Análises multitemporais
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
+> 2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.
+> 3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher,
+> 
+> ### 📗 Bibliografia Complementar
+> 1. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017.
+> 2. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos,
+> 3. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015.
+> 4. PONZONI, F. J., SHIMABUKURO, Y. E., KUPLICH, T. M. Sensoriamento Remoto da Vegetação. 2ª Edição. São Paulo: Oficina de Textos, 2012.
+> 5. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013.
 
-1. FITZ, P. R. Geoprocessamento sem complicação. São Paulo: Oficina de Textos, 2008.
-2. LONGLEY, P. A., GOODCHILD, M. F., MAGUIRE, D. J., RHIND, D. W. Sistemas e Ciência da Informação Geográfica. 3ª Edição. Porto Alegre: Bookman, 2012.
-3. NOVO, E. M. L. M. Sensoriamento remoto: princípios e aplicações. 4. ed. São Paulo: Edgard Blücher,
-
-## 📗 Bibliografia Complementar
-
-1. FORMAGGIO, A. R., SANCHES, L. D. Sensoriamento Remoto em Agricultura. São Paulo: Oficina de Textos, 2017.
-2. FLORENZANO, T. G. Iniciação em Sensoriamento Remoto. 3ª Edição. São Paulo: Oficina de Textos,
-3. LORENZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. São Paulo: Blucher, 2015.
-4. PONZONI, F. J., SHIMABUKURO, Y. E., KUPLICH, T. M. Sensoriamento Remoto da Vegetação. 2ª Edição. São Paulo: Oficina de Textos, 2012.
-5. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/geoprocessamento/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/geoprocessamento/anotacoes/index)**

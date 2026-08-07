@@ -71,4 +71,4 @@ Quando o sistema é complexo demais para fórmula fechada, entra a simulação d
 
 ## Conexão com as disciplinas do curso
 
-- [Avaliação e Desempenho de Sistemas](avaliacao-e-desempenho-de-sistemas.md) — a disciplina que este guia acompanha diretamente: métricas, teoria das filas, medição e simulação.
+- [Avaliação e Desempenho de Sistemas](avaliacao-e-desempenho-de-sistemas/index) — a disciplina que este guia acompanha diretamente: métricas, teoria das filas, medição e simulação.

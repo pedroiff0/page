@@ -75,4 +75,4 @@ O que dominar: uma primeira noção de sistema operacional, de redes e de como a
 
 ## Conexão com as disciplinas do curso
 
-- [Fundamentos de Computação](fundamentos-de-computacao.md) — a disciplina do 1º período que cobre exatamente esta trilha; este material serve de apoio direto a ela.
+- [Fundamentos de Computação](fundamentos-de-computacao/index) — a disciplina do 1º período que cobre exatamente esta trilha; este material serve de apoio direto a ela.

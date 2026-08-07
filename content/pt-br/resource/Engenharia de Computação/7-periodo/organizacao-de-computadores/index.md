@@ -1,41 +1,30 @@
 ---
 publish: true
-title: Organização de Computadores
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Organização de Computadores"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - profissionalizante
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 7º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
-> **Tópicos:** Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dispositivos de Entrada/Saída
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.52`
+> - **Período:** 7º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
+> - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.52 |
-| Núcleo | Profissionalizante |
-| Carga Horária | 60 |
-| Período | 7º Período |
-| Pré-requisitos | [CSECBJI.1 - Fundamentos de Computação](fundamentos-de-computacao.md) |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dispositivos de Entrada/Saída
+> 
+> ### 🎯 Objetivos
+> - Proporcionar conhecimentos introdutórios e essenciais de teoria e prática em Arquitetura e Organização de Computadores, bem como possibilitar ao aluno embasamento para as disciplinas seguintes do curso.
 
-## 🔒 Trancas
-
-- [CSECBJI.61 - Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md)
-- [CSECBJI.62 - Microcontroladores](microcontroladores.md)
-
-## 📋 Ementa
-
-Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dispositivos de Entrada/Saída
-
-## 🎯 Objetivos
-
-- Proporcionar conhecimentos introdutórios e essenciais de teoria e prática em Arquitetura e Organização de Computadores, bem como possibilitar ao aluno embasamento para as disciplinas seguintes do curso.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.61 - Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md)
+> - [CSECBJI.62 - Microcontroladores](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Arquitetura Básica de Processador
 
 - Unidade Central de Processamento
@@ -61,27 +50,18 @@ Básica de Processador; Memórias; Memória Primária; Memória Secundária; Dis
 - Impressoras
 - Equipamentos de Telecomunicações
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
+> 2. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
+> 3. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
+> 2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.
+> 3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017.
+> 4. HENESSY, J. L., PATTERSON, D. A. Arquitetura de Computadores. Uma Abordagem Quantitativa. 5ª Edição. São Paulo: Elsevier, 2013.
+> 5. WEBER, R. F. Fundamentos de Arquitetura de Computadores. 4ª Edição. Porto Alegre: Bookman,
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Organização e Arquitetura de Computadores](assets/biblioteca/computacao/organizacao-arquitetura-computadores-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-
-## 📕 Bibliografia Básica
-
-1. DELGADO, J., RIBEIRO, C. Arquitetura de Computadores. 5ª Edição. Rio de Janeiro, 2017.
-2. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
-3. STALLINGS, W. Arquitetura e Organização de Computadores. 10ª Edição. São Paulo: Pearson, 2017.
-
-## 📗 Bibliografia Complementar
-
-1. CARTER, N. Arquitetura de Computadores. Porto Alegre: Bookman, 2003.
-2. MONTEIRO, M. A. Introdução à Organização de Computadores. 5ª Edição. Rio de Janeiro: LTC, 2007.
-3. HENNESSY, J. Organização e Projeto de Computadores. 5ª Edição. São Paulo: Elsevier, 2017.
-4. HENESSY, J. L., PATTERSON, D. A. Arquitetura de Computadores. Uma Abordagem Quantitativa. 5ª Edição. São Paulo: Elsevier, 2013.
-5. WEBER, R. F. Fundamentos de Arquitetura de Computadores. 4ª Edição. Porto Alegre: Bookman,
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/7-periodo/organizacao-de-computadores/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/7-periodo/organizacao-de-computadores/anotacoes/index)**

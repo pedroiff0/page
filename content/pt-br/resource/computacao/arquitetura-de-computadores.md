@@ -76,7 +76,7 @@ O que dominar: superescalar, multicore, coerência de cache em alto nível; e do
 
 ## Conexão com as disciplinas do curso
 
-- [Organização de Computadores](organizacao-de-computadores.md) — etapas 1 e 2 da trilha: componentes, ciclo de instrução, ISA.
+- [Organização de Computadores](organizacao-de-computadores/index) — etapas 1 e 2 da trilha: componentes, ciclo de instrução, ISA.
 - [Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md) — etapa 3: pipeline, cache, memória e desempenho.
-- [Microcontroladores](microcontroladores.md) — a etapa 4 aplicada: programação direto no hardware.
-- [Sistemas Embarcados](sistemas-embarcados.md) — integração de tudo: hardware, firmware e restrições de tempo real.
+- [Microcontroladores](microcontroladores/index) — a etapa 4 aplicada: programação direto no hardware.
+- [Sistemas Embarcados](sistemas-embarcados/index) — integração de tudo: hardware, firmware e restrições de tempo real.

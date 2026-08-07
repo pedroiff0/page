@@ -1,44 +1,31 @@
 ---
 publish: true
-title: Metodologia Científica e Tecnológica
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.995-03:00
-published: 2026-07-26T11:33:09.995-03:00
+title: "Metodologia Científica e Tecnológica"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 8º Período · **Núcleo:** Básico
-> **Tópicos:** Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.64`
+> - **Período:** 8º Período | **Núcleo:** Básico | **Carga Horária:** —
+> - **Docente Responsável:** Alcides (alcides.oliveira@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.64 |
-| Núcleo | Básico |
-| Carga Horária | — |
-| Período | 8º Período |
-| Pré-requisitos | — |
-| Professor | Alcides |
-| Email | alcides.oliveira@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.
+> 
+> ### 🎯 Objetivos
+> - Desenvolver conhecimentos teórico-práticos necessários para estudo e pesquisa, na perspectiva de subsidiar a realização de trabalhos acadêmicos e de educação continuada;
+> - 2. Construir um referencial teórico capaz de fundamentar a elaboração de trabalhos monográficos;
+> - Redigir um projeto de pesquisa, de acordo com as normas técnicas de apresentação de trabalhos científicos.
 
-## 🔒 Trancas
-
-- [CSECBJI.67 - Projeto Final de Curso I](projeto-final-de-curso-i.md)
-
-## 📋 Ementa
-
-Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboração e execução de trabalhos científicos. Comunicação científica e resenhas.
-
-## 🎯 Objetivos
-
-- Desenvolver conhecimentos teórico-práticos necessários para estudo e pesquisa, na perspectiva de subsidiar a realização de trabalhos acadêmicos e de educação continuada;
-- 2. Construir um referencial teórico capaz de fundamentar a elaboração de trabalhos monográficos;
-- Redigir um projeto de pesquisa, de acordo com as normas técnicas de apresentação de trabalhos científicos.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.67 - Projeto Final de Curso I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. As Explicações Teleológicas
 2. Iluminismo e a Razão – Descartes – Kant
 3. A Ciência
@@ -48,30 +35,20 @@ Técnicas de pesquisas bibliográficas. Referências bibliográficas. Elaboraç�
 7. O Registro da Pesquisa Científica
 8. Normas Técnicas
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo:
+> 2. Atlas, 2017.
+> 3. \_\_\_\_\_\_. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
+> 4. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto.
+> 2. 3ª Edição. Porto Alegre: São Paulo, 2010.
+> 3. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
+> 4. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 4. \_\_\_\_\_\_. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
+> 5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição.
+> 6. São Paulo: Penso, 2013.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Orientação à Prática Profissional e Pesquisa](assets/biblioteca/computacao/orientacao-pratica-profissional-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-- **Guias de normalização ABNT** — bibliotecas da [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e da [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf), distribuição gratuita.
-
-## 📕 Bibliografia Básica
-
-1. MARCONI, M. A., LAKATOS, E. M. Metodologia Científica. 7ª Edição. São Paulo:
-2. Atlas, 2017.
-3. \_\_\_\_\_\_. Metodologia do Trabalho Científico. 8ª Edição. São Paulo: Atlas, 2018.
-4. WASLAWICK, R. Metodologia de Pesquisa para Ciência da Computação. 2ª Edição. São Paulo: Elsevier, 2014.
-
-## 📗 Bibliografia Complementar
-
-1. CRESWELL, J. W. Projeto de Pesquisa: Métodos Qualitativo, Quantitativo e Misto.
-2. 3ª Edição. Porto Alegre: São Paulo, 2010.
-3. GIL, A. C. Como Elaborar Projetos de Pesquisa. 6ª Edição. São Paulo: Atlas, 2017.
-4. MARCONI, M. A., LAKATOS, E. M. Técnicas de Pesquisa. 8ª Edição. São Paulo: Atlas, 4. \_\_\_\_\_\_. Fundamentos de Metodologia. 8ª Edição. São Paulo: Atlas, 2017.
-5. SAMPIERI, R. H., COLLADO, C. F., LUCIO, M. D. P. B. Metodologia de Pesquisa. 5ª Edição.
-6. São Paulo: Penso, 2013.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/8-periodo/metodologia-cientifica-e-tecnologica/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/metodologia-cientifica-e-tecnologica/anotacoes/index)**

@@ -1,37 +1,30 @@
 ---
 publish: true
-title: Libras
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.999-03:00
-published: 2026-07-26T11:33:09.999-03:00
+title: "Libras"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - eletivo
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** Eletivas (optativas) · **Núcleo:** Eletivo · **Carga Horária:** 60h
-> **Tópicos:** Línguas de sinais e minoria linguística; as diferentes línguas de sinais; status da língua de sinais no Brasil; cultura surda;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.75`
+> - **Período:** Eletivas (optativas) | **Núcleo:** Eletivo | **Carga Horária:** 60
+> - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.75 |
-| Núcleo | Eletivo |
-| Carga Horária | 60 |
-| Período | Eletivas (optativas) |
-| Pré-requisitos | — |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Línguas de sinais e minoria linguística; as diferentes línguas de sinais; status da língua de sinais no Brasil; cultura surda; organização linguística da Libras para usos informais e cotidianos: vocabulário; morfologia; sintaxe e semântica; a expressão corporal como elemento linguístico
+> 
+> ### 🎯 Objetivos
+> - Instrumentalizar os alunos para o estabelecimento de uma comunicação funcional com pessoas surdas. Favorecer a inclusão da pessoa surda no contexto escolar. Difusão e valorização da Libras na comunidade escolar e sociedade em geral;
+> - Reconhecer os diferentes profissionais que atuam na educação de surdos: Professor de Libras, Instrutor, Tradutor e Intérprete de Libras/Língua Portuguesa e Professor Bilíngüe Libras/Língua Portuguesa.
 
-## 📋 Ementa
-
-Línguas de sinais e minoria linguística; as diferentes línguas de sinais; status da língua de sinais no Brasil; cultura surda; organização linguística da Libras para usos informais e cotidianos: vocabulário; morfologia; sintaxe e semântica; a expressão corporal como elemento linguístico
-
-## 🎯 Objetivos
-
-- Instrumentalizar os alunos para o estabelecimento de uma comunicação funcional com pessoas surdas. Favorecer a inclusão da pessoa surda no contexto escolar. Difusão e valorização da Libras na comunidade escolar e sociedade em geral;
-- Reconhecer os diferentes profissionais que atuam na educação de surdos: Professor de Libras, Instrutor, Tradutor e Intérprete de Libras/Língua Portuguesa e Professor Bilíngüe Libras/Língua Portuguesa.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Línguas de Sinais e Minoria Línguistica
 
 - As diferentes línguas de sinais.
@@ -60,22 +53,19 @@ Línguas de sinais e minoria linguística; as diferentes línguas de sinais; sta
 - Sintaxe e semântica.
 - A expressão corporal como elemento linguístico
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. ANDREIS, S. Educação de surdos e preconceito. 1. ed. Curitiba: CRV, 2012.
+> 2. \_\_\_\_\_\_. Educação de surdos pelos próprios surdos: uma questão de direitos. ed. Curitiba: CRV,
+> 3. QUADROS, R. M., KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos. Porto Alegre, RS:
+> 4. Artmed, 2004.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. GESSER, A. Libras? que língua é essa?: crenças e preconceitos em torno da língua de sinais e da realidade surda. 1. ed. São Paulo, SP: Parábola, 2009.
+> 2. SACKS, O. W. Vendo vozes: uma viagem ao mundo dos surdos. São Paulo, SP: Companhia de Bolso,
+> 3. SKLIAR, C. A surdez: um olhar sobre as diferenças. 6. ed. Porto Alegre: Mediação, 2012.
+> 4. \_\_\_\_\_\_. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 1.
+> 5. \_\_\_\_\_\_. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 2.
 
-1. ANDREIS, S. Educação de surdos e preconceito. 1. ed. Curitiba: CRV, 2012.
-2. \_\_\_\_\_\_. Educação de surdos pelos próprios surdos: uma questão de direitos. ed. Curitiba: CRV,
-3. QUADROS, R. M., KARNOPP, L. Língua de sinais brasileira: estudos lingüísticos. Porto Alegre, RS:
-4. Artmed, 2004.
-
-## 📗 Bibliografia Complementar
-
-1. GESSER, A. Libras? que língua é essa?: crenças e preconceitos em torno da língua de sinais e da realidade surda. 1. ed. São Paulo, SP: Parábola, 2009.
-2. SACKS, O. W. Vendo vozes: uma viagem ao mundo dos surdos. São Paulo, SP: Companhia de Bolso,
-3. SKLIAR, C. A surdez: um olhar sobre as diferenças. 6. ed. Porto Alegre: Mediação, 2012.
-4. \_\_\_\_\_\_. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 1.
-5. \_\_\_\_\_\_. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 2.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/libras/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/libras/anotacoes/index)**

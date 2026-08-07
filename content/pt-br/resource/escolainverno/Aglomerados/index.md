@@ -33,7 +33,7 @@ Aglomerados de galáxias: as maiores estruturas gravitacionalmente ligadas do Un
 3. [Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03) — o formalismo de lentes gravitacionais fracas, e como aglomerados em fusão (como o Aglomerado Bala) funcionam como laboratórios para testar se a matéria escura interage consigo mesma (SIDM).
 
 
-## 🗺️ Tabela Dinâmica do Minicurso (Quartz Base)
+## 🗺️ Aulas do Minicurso
 
 ```base
 filters:

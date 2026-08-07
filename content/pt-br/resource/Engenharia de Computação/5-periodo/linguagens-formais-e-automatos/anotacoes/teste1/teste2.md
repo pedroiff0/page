@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 ---
 
 a
@@ -18,7 +18,7 @@ cc
 aaa
 aaab
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

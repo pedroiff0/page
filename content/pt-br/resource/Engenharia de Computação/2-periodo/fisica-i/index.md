@@ -1,43 +1,30 @@
 ---
 publish: true
-title: Física I
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Física I"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 80h
-> **Tópicos:** Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.11`
+> - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 80
+> - **Docente Responsável:** Thiago Juncal (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.11 |
-| Núcleo | Básico |
-| Carga Horária | 80 |
-| Período | 2º Período |
-| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
-| Professor | Thiago Juncal |
-| Email |  |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).
+> 
+> ### 🎯 Objetivos
+> - Apresentar aos alunos os conceitos fundamentais do estudo da mecânica.
 
-## 🔒 Trancas
-
-- [CSECBJI.19 - Física II](fisica-ii.md)
-- [CSECBJI.21 - Mecânica dos Sólidos](mecanica-dos-solidos.md)
-
-## 📋 Ementa
-
-Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conservação: da energia mecânica e do momento (linear e angular).
-
-## 🎯 Objetivos
-
-- Apresentar aos alunos os conceitos fundamentais do estudo da mecânica.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.19 - Física II](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> - [CSECBJI.21 - Mecânica dos Sólidos](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Movimento em uma dimensão
 
 - Velocidade média e instantânea – modelos de análise;
@@ -99,27 +86,18 @@ Introdução ao estudo do movimento; As leis de Newton-Galileu; Leis de conserva
 - Torque e o produto vetorial;
 - Momento angular e sua conservação.
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
+> 2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALLIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
+> 3. LTC, 2016. Vol.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
+> 2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.
+> 3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014.
+> 4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009.
+> 5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Mecânica. São Paulo: AMGH, 2012.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Fundamentos de Física](assets/biblioteca/fisica/fundamentos-de-fisica-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-
-## 📕 Bibliografia Básica
-
-1. YOUNG, H. D., FREEDMAN, R.A. Física I: Mecânica. 14ª Edição. São Paulo: Pearson, 2015. Vol.
-2. SERWAY, R., JEWETT, J. Princípios de Física I. 2ª Edição. São Paulo: Cengage Learning, 2014. Vol RESNICK, R., WALKER, J., HALLIDAY, D. Fundamentos de Física: Mecânica. 10ª Edição. Rio de Janeiro:
-3. LTC, 2016. Vol.
-
-## 📗 Bibliografia Complementar
-
-1. JEWETT JR, J. W., SERWAY, R. A. Física para Cientistas e Engenheiros – Volume 1: Mecânica. 9ª Edição. São Paulo: Cengage Learning, 2017.
-2. NUSSENZVEIG, H. M. Curso de Física Básica: Mecânica. 5ª Edição. São Paulo: Blucher, 2013.
-3. TAVARES, A. D. Mecânica Física: Abordagem Experimental e Teórica. Rio de Janeiro: LTC, 2014.
-4. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas, Termodinâmica. 6ª Edição. Rio de Janeiro: LTC, 2009.
-5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Mecânica. São Paulo: AMGH, 2012.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/fisica-i/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/fisica-i/anotacoes/index)**

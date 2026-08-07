@@ -1,50 +1,37 @@
 ---
 publish: true
-title: Algoritmos e Técnicas de Programação
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Algoritmos e Técnicas de Programação"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - profissionalizante
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 2º Período · **Núcleo:** Profissionalizante
-> **Tópicos:** Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exemplos informais de algoritmos. Tipos primitivos de dados. Variáveis e constantes.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.13`
+> - **Período:** 2º Período | **Núcleo:** Profissionalizante | **Carga Horária:** —
+> - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.13 |
-| Núcleo | Profissionalizante |
-| Carga Horária | — |
-| Período | 2º Período |
-| Pré-requisitos | — |
-| Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exemplos informais de algoritmos. Tipos primitivos de dados. Variáveis e constantes. Expressões aritméticas e operadores aritméticos. Expressões lógicas. Operadores relacionais e lógicos. Tabelas verdade. Comando de atribuição. Comandos de entrada e saída. Seleção simples, composta, encadeada e de múltipla escolha. Estruturas de repetição.
+> 
+> ### 🎯 Objetivos
+> - Identificar as diferenças entre algoritmo e programa de computador;
+> - Distinguir as etapas necessárias para elaboração de um algoritmo e de um programa de computador;
+> - Acompanhar a execução de um programa de computador;
+> - Conhecer as principais estruturas para construção de algoritmos voltados para a programação de computadores;
+> - Relacionar problemas com estruturas semelhantes;
+> - Aplicar o raciocínio lógico-dedutivo na criação de programas computacionais em linguagem de Programação C.
 
-## 🔒 Trancas
-
-- [CSECBJI.22 - Algoritmos e Estruturas de Dados I](algoritmos-e-estruturas-de-dados-i.md)
-- [CSECBJI.25 - Cálculo Numérico](calculo-numerico.md)
-- [CSECBJI.38 - Paradigmas de Linguagem de Programação](paradigmas-de-linguagem-de-programacao.md)
-- [CSECBJI.45 - Programação Orientada a Objetos I](programacao-orientada-a-objetos-i.md)
-
-## 📋 Ementa
-
-Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exemplos informais de algoritmos. Tipos primitivos de dados. Variáveis e constantes. Expressões aritméticas e operadores aritméticos. Expressões lógicas. Operadores relacionais e lógicos. Tabelas verdade. Comando de atribuição. Comandos de entrada e saída. Seleção simples, composta, encadeada e de múltipla escolha. Estruturas de repetição.
-
-## 🎯 Objetivos
-
-- Identificar as diferenças entre algoritmo e programa de computador;
-- Distinguir as etapas necessárias para elaboração de um algoritmo e de um programa de computador;
-- Acompanhar a execução de um programa de computador;
-- Conhecer as principais estruturas para construção de algoritmos voltados para a programação de computadores;
-- Relacionar problemas com estruturas semelhantes;
-- Aplicar o raciocínio lógico-dedutivo na criação de programas computacionais em linguagem de Programação C.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.22 - Algoritmos e Estruturas de Dados I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> - [CSECBJI.25 - Cálculo Numérico](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> - [CSECBJI.38 - Paradigmas de Linguagem de Programação](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> - [CSECBJI.45 - Programação Orientada a Objetos I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Introdução a Algoritmos e Linguagens de Programação:
 
 - Introdução à organização de computadores;
@@ -81,29 +68,17 @@ Conceitos de algoritmo e programa. Sintaxe e semântica na programação. Exempl
 - Repetição com teste no final (DO-WHILE);
 - Repetição com variável de controle (FOR).
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
+> 2. PIVA JR, D., NAKAMITI, G. S., ENGELBRECHT, A. M., BIANCHI, F. Algoritmos e Programação de Computadores. São Paulo: Elsevier, 2012.
+> 3. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
+> 2. FORBELLONE, A. L., EBERSPACHER, H. Lógica de Programação: A Construção de Algoritmos e Estrutura de dados. 3ª Edição. São Paulo: Pearson, 2005.
+> 3. LOPES, A., GARCIA, G. Introdução à Programação: 500 Algoritmos Resolvidos. São Paulo: Campus, MANZANO, J. A. Estudo Dirigido de Linguagem C. 17ª Edição. São Paulo: Editora Érica,2002.
+> 4. MANZANO, J. A., OLIVEIRA, J. F. Algoritmos: Lógica para Desenvolvimento de Programação de Computadores. 28º Edição. São Paulo: Editora Érica, 2016.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Lógica de Programação](assets/biblioteca/computacao/logica-de-programacao-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-- **[Técnicas de Programação](assets/biblioteca/computacao/tecnicas-de-programacao-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-- **[Fundamentos de Lógica e Algoritmo](assets/biblioteca/computacao/fundamentos-logica-algoritmo-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-- **[Linguagem C Descomplicada](assets/biblioteca/computacao/linguagem-c-descomplicada-backes.pdf)** (apostila) — Prof. André Backes/UFU, distribuição gratuita.
-
-## 📕 Bibliografia Básica
-
-1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
-2. PIVA JR, D., NAKAMITI, G. S., ENGELBRECHT, A. M., BIANCHI, F. Algoritmos e Programação de Computadores. São Paulo: Elsevier, 2012.
-3. SCHILDT, H. C: Completo e Total. 3ª Edição. São Paulo: Makron Books, 1997.
-
-## 📗 Bibliografia Complementar
-
-1. DAMAS, L. Linguagem C. 10ª Edição. Rio de Janeiro: LTC, 2006.
-2. FORBELLONE, A. L., EBERSPACHER, H. Lógica de Programação: A Construção de Algoritmos e Estrutura de dados. 3ª Edição. São Paulo: Pearson, 2005.
-3. LOPES, A., GARCIA, G. Introdução à Programação: 500 Algoritmos Resolvidos. São Paulo: Campus, MANZANO, J. A. Estudo Dirigido de Linguagem C. 17ª Edição. São Paulo: Editora Érica,2002.
-4. MANZANO, J. A., OLIVEIRA, J. F. Algoritmos: Lógica para Desenvolvimento de Programação de Computadores. 28º Edição. São Paulo: Editora Érica, 2016.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes/index)**

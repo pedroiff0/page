@@ -1,38 +1,29 @@
 ---
 publish: true
-title: Teoria Geral da Administração
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Teoria Geral da Administração"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basica
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 1º Período · **Núcleo:** Básica · **Carga Horária:** 60h
-> **Tópicos:** Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.6`
+> - **Período:** 1º Período | **Núcleo:** Básica | **Carga Horária:** 60
+> - **Docente Responsável:** Alexandre Alvim (alvimprof@gmail.com)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.6 |
-| Núcleo | Básica |
-| Carga Horária | 60 |
-| Período | 1º Período |
-| Pré-requisitos | — |
-| Professor | Alexandre Alvim |
-| Email | alvimprof@gmail.com |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas; Planejamento da Ação Empresarial; Ambiente Organizacional.
+> 
+> ### 🎯 Objetivos
+> - Capacitar o aluno a conhecer o contexto organizacional definindo as funções e estruturas administrativas bem como as ações que envolvem um planejamento empresarial.
 
-## 📋 Ementa
-
-Campo da Administração; Estruturas Administrativas; Importância das Estruturas; Técnicas de Estruturação; Áreas Administrativas; Planejamento da Ação Empresarial; Ambiente Organizacional.
-
-## 🎯 Objetivos
-
-- Capacitar o aluno a conhecer o contexto organizacional definindo as funções e estruturas administrativas bem como as ações que envolvem um planejamento empresarial.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. O Campo da Administração
 
 - Administração: Conceito, Importância e Campos de Atuação.
@@ -66,22 +57,19 @@ Campo da Administração; Estruturas Administrativas; Importância das Estrutura
 - Desenvolvimento Organizacional;
 - Gestão do Conhecimento.
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. MOTTA, F. C. P.; VASCONCELOS, I. F. G. Teoria Geral da Administração. 3ª Edição. São Paulo:
+> 2. Cengage Learning, 2006.
+> 3. MAXIMIANO, A. C. A. Teoria Geral da Administração – Da revolução Urbana à Revolução Digital. 8ª Edição. São Paulo: Atlas, 2017.
+> 4. CHIAVENATO, I. Introdução à Teoria Geral da Administração. 9ª Edição. São Paulo: Editora Manole,
+> 
+> ### 📗 Bibliografia Complementar
+> 1. CHIAVENATO, I., SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3ª Edição. Rio de Janeiro: Elsevier, 2015.
+> 2. MÜLLER, C. J. Planejamento Estratégico, Indicadores e Processos: Uma Integração Necessária. Rio de Janeiro: Atlas, 2013.
+> 3. TAKEUCHI, H., NONAKA, I. Gestão do Conhecimento. Porto Alegre: Bookman, 2008.
+> 4. GOVINDARAJAM, V., TRIMBLE, C. O Desafio da Inovação. Rio de Janeiro: Elsevier, 2013.
+> 5. TIDD, J., BESSANT, J. Gestão da Inovação: Integrando Tecnologia. 5ª Edição. Porto Alegre: Bookman,
 
-1. MOTTA, F. C. P.; VASCONCELOS, I. F. G. Teoria Geral da Administração. 3ª Edição. São Paulo:
-2. Cengage Learning, 2006.
-3. MAXIMIANO, A. C. A. Teoria Geral da Administração – Da revolução Urbana à Revolução Digital. 8ª Edição. São Paulo: Atlas, 2017.
-4. CHIAVENATO, I. Introdução à Teoria Geral da Administração. 9ª Edição. São Paulo: Editora Manole,
-
-## 📗 Bibliografia Complementar
-
-1. CHIAVENATO, I., SAPIRO, A. Planejamento Estratégico: Fundamentos e Aplicações. 3ª Edição. Rio de Janeiro: Elsevier, 2015.
-2. MÜLLER, C. J. Planejamento Estratégico, Indicadores e Processos: Uma Integração Necessária. Rio de Janeiro: Atlas, 2013.
-3. TAKEUCHI, H., NONAKA, I. Gestão do Conhecimento. Porto Alegre: Bookman, 2008.
-4. GOVINDARAJAM, V., TRIMBLE, C. O Desafio da Inovação. Rio de Janeiro: Elsevier, 2013.
-5. TIDD, J., BESSANT, J. Gestão da Inovação: Integrando Tecnologia. 5ª Edição. Porto Alegre: Bookman,
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/teoria-geral-da-administracao/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/teoria-geral-da-administracao/anotacoes/index)**

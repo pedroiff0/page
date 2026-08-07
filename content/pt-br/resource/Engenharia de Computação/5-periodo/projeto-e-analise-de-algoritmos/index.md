@@ -1,43 +1,30 @@
 ---
 publish: true
-title: Projeto e Análise de Algoritmos
-created: 2026-07-18
-modified: 2026-07-26T11:33:10.003-03:00
-published: 2026-07-26T11:33:10.003-03:00
+title: "Projeto e Análise de Algoritmos"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - profissionalizante
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 5º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
-> **Tópicos:** Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limites de Complexidade. Análise de algoritmos iterativos e recursivos.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.34`
+> - **Período:** 5º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
+> - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.34 |
-| Núcleo | Profissionalizante |
-| Carga Horária | 60 |
-| Período | 5º Período |
-| Pré-requisitos | [CSECBJI.14 - Matemática Discreta](matematica-discreta.md), [CSECBJI.30 - Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) |
-| Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limites de Complexidade. Análise de algoritmos iterativos e recursivos.
+> 
+> ### 🎯 Objetivos
+> - Conhecer as técnicas e formalismos fundamentais para analisar algoritmos
 
-## 🔒 Trancas
-
-- [CSECBJI.84 - Geoprocessamento](geoprocessamento.md)
-- [CSECBJI.90 - Inteligência Artificial](inteligencia-artificial.md)
-
-## 📋 Ementa
-
-Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limites de Complexidade. Análise de algoritmos iterativos e recursivos.
-
-## 🎯 Objetivos
-
-- Conhecer as técnicas e formalismos fundamentais para analisar algoritmos
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.84 - Geoprocessamento](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> - [CSECBJI.90 - Inteligência Artificial](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Medidas de Complexidade
 2. Notação Assintótica
 3. Análise Assintótica de Limites de Complexidade
@@ -74,29 +61,19 @@ Medidas de Complexidade. Notação Assintótica e Análise Assintótica de Limit
 - NP-Completo
 - NP-Difícil
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,
+> 2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014.
+> 3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C. São Paulo: Cengage, 2010.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo:
+> 2. McGrall Hill, 2007.
+> 3. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015.
+> 4. BACKES, A. Estrutura de Dados Descomplicada em Linguagem C. São Paulo: Elsevier, 2016.
+> 5. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016.
+> 6. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-
-## 📕 Bibliografia Básica
-
-1. DROZDEK, Adam. Estrutura de dados e algoritmos em C++. 2ª Edição. São Paulo: Cengage Learning,
-2. PIVA JR, D., NAKAMITI, G. S., BIANCHI, F., FREITAS, R. L., XASTRE, L. A. Estrutura de Dados e Técnicas de Programação. São Paulo: Elsevier, 2014.
-3. ZIVIANI, Nivio. Projeto de algoritmos com implementações em Pascal e C. São Paulo: Cengage, 2010.
-
-## 📗 Bibliografia Complementar
-
-1. AGUILAR, L. J. Programação em C++: Algoritmos, Estruturas de Dados e Objetos. 2ª Edição. São Paulo:
-2. McGrall Hill, 2007.
-3. ASCENCIO, A. F. G., ARAÚJO, G. A. Estruturas de Dados: Algoritmos, Análise da Complexidade e Implementações em Java e C/C++. São Paulo: Pearson, 2015.
-4. BACKES, A. Estrutura de Dados Descomplicada em Linguagem C. São Paulo: Elsevier, 2016.
-5. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016.
-6. CORMEN, T. H., LEISERSON, C. E., RIVEST, R. L., STEIN, C. Algoritmos: Teoria e Prática. 3ª Edição. São Paulo: Elsevier, 2012.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/5-periodo/projeto-e-analise-de-algoritmos/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/projeto-e-analise-de-algoritmos/anotacoes/index)**

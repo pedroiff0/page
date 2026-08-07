@@ -1,41 +1,30 @@
 ---
 publish: true
-title: Fundamentos de Computação
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Fundamentos de Computação"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basica
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 1º Período · **Núcleo:** Básica
-> **Tópicos:** História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Software; Unidades de Medida; Linguagens de Programação; Sistemas Operacionais;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.1`
+> - **Período:** 1º Período | **Núcleo:** Básica | **Carga Horária:** —
+> - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.1 |
-| Núcleo | Básica |
-| Carga Horária | — |
-| Período | 1º Período |
-| Pré-requisitos | — |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Software; Unidades de Medida; Linguagens de Programação; Sistemas Operacionais; Redes de Computadores.
+> 
+> ### 🎯 Objetivos
+> - Apresentar os principais conceitos acerca da informática e da computação, possibilitando que o discente compreenda, inicialmente, a organização e o funcionamento de sistemas computação.
 
-## 🔒 Trancas
-
-- [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md)
-- [CSECBJI.56 - Sistemas Operacionais I](sistemas-operacionais-i.md)
-
-## 📋 Ementa
-
-História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Software; Unidades de Medida; Linguagens de Programação; Sistemas Operacionais; Redes de Computadores.
-
-## 🎯 Objetivos
-
-- Apresentar os principais conceitos acerca da informática e da computação, possibilitando que o discente compreenda, inicialmente, a organização e o funcionamento de sistemas computação.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.52 - Organização de Computadores](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> - [CSECBJI.56 - Sistemas Operacionais I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. História da Computação:
 
 - Introdução;
@@ -80,28 +69,19 @@ História da Computação; Sistemas de Numeração; Algoritmos; Hardware; Softwa
 
 10. Equipamentos de Rede.
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 11ª Edição, Bookman, 2013.
+> 2. CARVALHO, C. P. L. F, LORENA, A. C. Introdução à Computação: Hardware, Software e Dados.
+> 3. LTC, WAZLAWICK, R. S. História da Computação. Elsevier, 2016.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. DALE, N., LEWIS, J. Ciência da Computação. 4ª Edição. LTC, 2010.
+> 2. FAROUZAN, B., MOSHARRAF, F. Fundamentos da Ciência da Computação. Cengage Learning, 2011.
+> 3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+> 4. Pearson, 2013.
+> 5. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
+> 6. \_\_\_\_\_\_. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Fundamentos da Computação](assets/biblioteca/computacao/fundamentos-computacao-cc.pdf)** — livro aberto (licença Creative Commons).
-- **[Introdução à Computação](assets/biblioteca/computacao/introducao-a-computacao-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-
-## 📕 Bibliografia Básica
-
-1. BROOKSHEAR, J. G. Ciência da Computação: Uma Visão Abrangente. 11ª Edição, Bookman, 2013.
-2. CARVALHO, C. P. L. F, LORENA, A. C. Introdução à Computação: Hardware, Software e Dados.
-3. LTC, WAZLAWICK, R. S. História da Computação. Elsevier, 2016.
-
-## 📗 Bibliografia Complementar
-
-1. DALE, N., LEWIS, J. Ciência da Computação. 4ª Edição. LTC, 2010.
-2. FAROUZAN, B., MOSHARRAF, F. Fundamentos da Ciência da Computação. Cengage Learning, 2011.
-3. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
-4. Pearson, 2013.
-5. TANENBAUM, A. S. Organização Estruturada de Computadores. 6ª Edição. Pearson, 2013.
-6. \_\_\_\_\_\_. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/fundamentos-de-computacao/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/fundamentos-de-computacao/anotacoes/index)**

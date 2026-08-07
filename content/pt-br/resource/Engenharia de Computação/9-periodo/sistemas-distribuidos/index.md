@@ -1,36 +1,29 @@
 ---
 publish: true
-title: Sistemas Distribuídos
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.995-03:00
-published: 2026-07-26T11:33:09.995-03:00
+title: "Sistemas Distribuídos"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - especifica
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 9º Período · **Núcleo:** Específica · **Carga Horária:** 60h
-> **Tópicos:** Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.71`
+> - **Período:** 9º Período | **Núcleo:** Específica | **Carga Horária:** 60
+> - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.71 |
-| Núcleo | Específica |
-| Carga Horária | 60 |
-| Período | 9º Período |
-| Pré-requisitos | [CSECBJI.55 - Redes de Computadores I](redes-de-computadores-i.md), [CSECBJI.56 - Sistemas Operacionais I](sistemas-operacionais-i.md) |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança; Middewares para Aplicações Distribuídas; Transações Distribuídas e Controle de Concorrência.
+> 
+> ### 🎯 Objetivos
+> - Conhecer e aplicar conceitos e tecnologias de Sistemas Distribuídos
 
-## 📋 Ementa
-
-Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sincronização em Sistemas Distribuídos; Modelo de Falha e Segurança; Middewares para Aplicações Distribuídas; Transações Distribuídas e Controle de Concorrência.
-
-## 🎯 Objetivos
-
-- Conhecer e aplicar conceitos e tecnologias de Sistemas Distribuídos
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Conceito de Sistemas Distribuídos
 
 - Definição e Principais Características de Sistemas Distribuídos
@@ -81,25 +74,22 @@ Conceitos de Sistemas Distribuídos; Arquitetura de Sistemas Distribuídos; Sinc
 13. Controle de concorrência
 14. Impasses
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
+> 2. Porto Alegre: Bookman, 2007.
+> 3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
+> 4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
+> 2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
+> 3. Pearson, 2013.
+> 4. RHODES, B.
+> 5. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015.
+> 6. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+> 7. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+> 8. Porto Alegre: Bookman, 2018.
 
-1. COLOURIS, G., DOLLIMORE, J., KINDBERG, T. Sistemas Distribuídos: Conceitos e Projeto. 4ª Edição.
-2. Porto Alegre: Bookman, 2007.
-3. STEVENS, W. R., FENNER, B., RUDOFF, A. M. Programação de Rede Unix: API para Soquetes de Rede. Porto Alegre: Booknan, 2005.
-4. TANENBAUM, A. S., VAN STEEN, M. Sistemas Distribuídos: Princípios e Paradigmas. 2ª Edição. São Paulo: Pearson, 2007.
-
-## 📗 Bibliografia Complementar
-
-1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
-2. KUROSE, J., ROSS, K. Redes de Computadores e a Internet: Uma Abordagem Top-Down. 6ª Edição.
-3. Pearson, 2013.
-4. RHODES, B.
-5. GOERZEN, J. Programação de Redes com Python: Guia Abrangente de Programação e Gerenciamento de Redes com Python 3. São Paulo: Novatec, 2015.
-6. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
-7. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
-8. Porto Alegre: Bookman, 2018.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/9-periodo/sistemas-distribuidos/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/sistemas-distribuidos/anotacoes/index)**

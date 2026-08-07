@@ -1,42 +1,29 @@
 ---
 publish: true
-title: Química
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Química"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 60h
-> **Tópicos:** Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Químicas. Introdução à Termodinâmica Química. Termoquímica, Combustíveis e Combustão.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.15`
+> - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 60
+> - **Docente Responsável:** Renato Batista (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.15 |
-| Núcleo | Básico |
-| Carga Horária | 60 |
-| Período | 2º Período |
-| Pré-requisitos | — |
-| Professor | Renato Batista |
-| Email |  |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Químicas. Introdução à Termodinâmica Química. Termoquímica, Combustíveis e Combustão. Equilíbrio Químico. Cinética Química. Eletroquímica. Noções de Química Orgânica.
+> 
+> ### 🎯 Objetivos
+> - Rever e aprofundar os conceitos relativos aos constituintes básicos da matéria permitindo uma avaliação das características físicas e químicas das substâncias e dos materiais, de tal forma a capacitar o aluno para reconhecer a importância da química na vida cotidiana, como também sua aplicação em outros domínios.
 
-## 🔒 Trancas
-
-- [CSECBJI.23 - Introdução à Ciência dos Materiais](introducao-a-ciencia-dos-materiais.md)
-
-## 📋 Ementa
-
-Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Químicas. Introdução à Termodinâmica Química. Termoquímica, Combustíveis e Combustão. Equilíbrio Químico. Cinética Química. Eletroquímica. Noções de Química Orgânica.
-
-## 🎯 Objetivos
-
-- Rever e aprofundar os conceitos relativos aos constituintes básicos da matéria permitindo uma avaliação das características físicas e químicas das substâncias e dos materiais, de tal forma a capacitar o aluno para reconhecer a importância da química na vida cotidiana, como também sua aplicação em outros domínios.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.23 - Introdução à Ciência dos Materiais](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Estrutura da matéria:
 
 - Esquemas básicos da química: sistema, matéria, propriedades, energia e transformações;
@@ -102,22 +89,19 @@ Estrutura da Matéria. Periodicidade Química. Ligações Químicas. Reações Q
 - As funções orgânicas;
 - Introdução aos polímeros.
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. ATKINS, P., JONES, L., LAVERMANM L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 7ª Edição. Porto Alegre: Bookman, 2018.
+> 2. KOTZ, J., TREICHEL, P. M., TOWNSEND, J., TREICHEL, D. Química Geral e Reações Químicas: Volume 1 e 2. 3ª Edição. São Paulo: Cengage Learning, 2015.
+> 3. RUSSEL, J. B. Química Geral: Volume 1 e 2. 2ª Edição. São Paulo: Pearson, 1994.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. BRADY, J. E., RUSSEL, J. W., HOLUM, J. R. Química: A Matéria e Suas Transformações.
+> 2. ª ed., vol. 1 e 2, Rio de Janeiro: LTC, 2009 BROWN, T. L., LEMAY, H. E., BURSTEN, B. E., BURDGE, J. R. Química: A Ciência Central. 10ª Edição.
+> 3. São Paulo: Pearson, 2016.
+> 4. BROWN, L., HOLME, T. Química Geral Aplicada à Engenharia. 2ª Edição. São Paulo: Cengage Learning, 2014.
+> 5. ROSENBERG, J. L., EPSTEIN, L. M., KRIEGER, P. J. Química Geral. 9ª Edição. Porto Alegre: Bookman, SOLOMONS, T. W. G, FRYHLE, C. B.
+> 6. SNYDER, S. A. Química Orgânica: Volume 1 e 2. 12ª Edição. Rio de Janeiro: LTC, 2018.
 
-1. ATKINS, P., JONES, L., LAVERMANM L. Princípios de Química: Questionando a Vida Moderna e o Meio Ambiente. 7ª Edição. Porto Alegre: Bookman, 2018.
-2. KOTZ, J., TREICHEL, P. M., TOWNSEND, J., TREICHEL, D. Química Geral e Reações Químicas: Volume 1 e 2. 3ª Edição. São Paulo: Cengage Learning, 2015.
-3. RUSSEL, J. B. Química Geral: Volume 1 e 2. 2ª Edição. São Paulo: Pearson, 1994.
-
-## 📗 Bibliografia Complementar
-
-1. BRADY, J. E., RUSSEL, J. W., HOLUM, J. R. Química: A Matéria e Suas Transformações.
-2. ª ed., vol. 1 e 2, Rio de Janeiro: LTC, 2009 BROWN, T. L., LEMAY, H. E., BURSTEN, B. E., BURDGE, J. R. Química: A Ciência Central. 10ª Edição.
-3. São Paulo: Pearson, 2016.
-4. BROWN, L., HOLME, T. Química Geral Aplicada à Engenharia. 2ª Edição. São Paulo: Cengage Learning, 2014.
-5. ROSENBERG, J. L., EPSTEIN, L. M., KRIEGER, P. J. Química Geral. 9ª Edição. Porto Alegre: Bookman, SOLOMONS, T. W. G, FRYHLE, C. B.
-6. SNYDER, S. A. Química Orgânica: Volume 1 e 2. 12ª Edição. Rio de Janeiro: LTC, 2018.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/quimica/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/quimica/anotacoes/index)**

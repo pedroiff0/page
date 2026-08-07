@@ -1,36 +1,29 @@
 ---
 publish: true
-title: Processamento de Sinais
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.999-03:00
-published: 2026-07-26T11:33:09.999-03:00
+title: "Processamento de Sinais"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** Eletivas (optativas) · **Núcleo:** Básico · **Carga Horária:** 60h
-> **Tópicos:** Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.83`
+> - **Período:** Eletivas (optativas) | **Núcleo:** Básico | **Carga Horária:** 60
+> - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.83 |
-| Núcleo | Básico |
-| Carga Horária | 60 |
-| Período | Eletivas (optativas) |
-| Pré-requisitos | [CSECBJI.31 - Cálculo IV](calculo-iv.md), [CSECBJI.47 - Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais. Transformada discreta de Fourier (DFT) e transformada rápida de Fourier (FFT). Filtros digitais: análise, estruturas, técnicas de projeto e aspectos práticos
+> 
+> ### 🎯 Objetivos
+> - Apresentar os conceitos básicos de Processamento Digital de Sinais nos domínios do tempo e da frequência.
 
-## 📋 Ementa
-
-Introdução ao processamento digital de sinais. Fundamentos matemáticos de sinais e sistemas discretos. Análise em frequência de sinais. Transformada discreta de Fourier (DFT) e transformada rápida de Fourier (FFT). Filtros digitais: análise, estruturas, técnicas de projeto e aspectos práticos
-
-## 🎯 Objetivos
-
-- Apresentar os conceitos básicos de Processamento Digital de Sinais nos domínios do tempo e da frequência.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Introdução ao Processamento Digital de Sinais
 
 - Domínios de Tempo Contínuo e Discreto
@@ -62,23 +55,20 @@ Introdução ao processamento digital de sinais. Fundamentos matemáticos de sin
 - Filtros Analógicos de Referência
 - Quantização de Coeficientes e Impacto
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. DINIZ, P. S. R., SILVA, E. A. B., NETTO, S. L. Processamento Digital de Sinais: Projeto e Análise de Sistemas. 2ª Edição. Porto Alegre: Bookman, 2014.
+> 2. GURJÃO, E., CARVALHO, J., VELOSO, L. R. Introdução à Análise de Sinais e Sistemas. São Paulo:
+> 3. Elsevier, 2015.
+> 4. PPENHEIM, A., SCHAFER, R. W. Processamento em Tempo Discreto de Sinais. 3ª Edição. São Paulo:
+> 5. Pearson, 2013.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. ALCAIN, A. Fundamentos de Processamento de Sinais Voz e Imagem. Rio de Janeiro: Interciência,
+> 2. COSTA, C. Processamento de Sinais para Engenheiros: Teoria e Prática. Rio de Janeiro: Bonecker,
+> 3. NALON, J. A. Introdução ao Processamento Digital de Sinais. Rio de Janeiro: LTC, 2009.
+> 4. ROBERTS, M. J. Fundamentos em Sinais e Sistemas. Porto Alegre: Bookman, 2009.
+> 5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman. 2003.
 
-1. DINIZ, P. S. R., SILVA, E. A. B., NETTO, S. L. Processamento Digital de Sinais: Projeto e Análise de Sistemas. 2ª Edição. Porto Alegre: Bookman, 2014.
-2. GURJÃO, E., CARVALHO, J., VELOSO, L. R. Introdução à Análise de Sinais e Sistemas. São Paulo:
-3. Elsevier, 2015.
-4. PPENHEIM, A., SCHAFER, R. W. Processamento em Tempo Discreto de Sinais. 3ª Edição. São Paulo:
-5. Pearson, 2013.
-
-## 📗 Bibliografia Complementar
-
-1. ALCAIN, A. Fundamentos de Processamento de Sinais Voz e Imagem. Rio de Janeiro: Interciência,
-2. COSTA, C. Processamento de Sinais para Engenheiros: Teoria e Prática. Rio de Janeiro: Bonecker,
-3. NALON, J. A. Introdução ao Processamento Digital de Sinais. Rio de Janeiro: LTC, 2009.
-4. ROBERTS, M. J. Fundamentos em Sinais e Sistemas. Porto Alegre: Bookman, 2009.
-5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman. 2003.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/eletivas/processamento-de-sinais/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/processamento-de-sinais/anotacoes/index)**

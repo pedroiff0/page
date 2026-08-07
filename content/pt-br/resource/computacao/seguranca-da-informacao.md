@@ -74,5 +74,5 @@ Consolide atacando (legalmente): capture-the-flag no [picoCTF](https://picoctf.o
 
 Não há disciplina dedicada de segurança na grade — o tema aparece dentro das disciplinas de redes, e o restante é por sua conta (use este guia como trilha):
 
-- [Redes de Computadores I](redes-de-computadores-i.md) — a base indispensável: TCP/IP, portas e serviços são o alfabeto de qualquer análise de segurança.
-- [Redes de Computadores II](redes-de-computadores-ii.md) — onde aparecem os tópicos de segurança de redes: firewalls, VPNs e proteção de perímetro.
+- [Redes de Computadores I](redes-de-computadores-i/index) — a base indispensável: TCP/IP, portas e serviços são o alfabeto de qualquer análise de segurança.
+- [Redes de Computadores II](redes-de-computadores-ii/index) — onde aparecem os tópicos de segurança de redes: firewalls, VPNs e proteção de perímetro.

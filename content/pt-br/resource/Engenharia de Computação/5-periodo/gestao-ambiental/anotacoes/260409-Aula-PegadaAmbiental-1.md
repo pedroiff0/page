@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo:  260409-Aula-PegadaAmbiental-1
 disciplina:
 conteudo:
@@ -35,7 +35,7 @@ Outro exemplo que podemos ver no cotidiano são as obras e o desmatamento de ár
 
 ***
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

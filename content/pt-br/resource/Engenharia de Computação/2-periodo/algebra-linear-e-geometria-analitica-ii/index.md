@@ -1,44 +1,31 @@
 ---
 publish: true
-title: Álgebra Linear e Geometria Analítica II
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Álgebra Linear e Geometria Analítica II"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 2º Período · **Núcleo:** Básico · **Carga Horária:** 80h
-> **Tópicos:** Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores autoadjuntos e ortogonais. Valores e vetores próprios.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.10`
+> - **Período:** 2º Período | **Núcleo:** Básico | **Carga Horária:** 80
+> - **Docente Responsável:** Paulo Emanuel (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.10 |
-| Núcleo | Básico |
-| Carga Horária | 80 |
-| Período | 2º Período |
-| Pré-requisitos | [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
-| Professor | Paulo Emanuel |
-| Email |  |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores autoadjuntos e ortogonais. Valores e vetores próprios. Formas Quadráticas, Cônicas e Quadráticas.
+> 
+> ### 🎯 Objetivos
+> - Aprofundar os estudos em transformações lineares, abordando a mudança de base, matrizes semelhantes, autovalores, autovetores e diagonalização de matrizes. Na geometria analítica é auxílio para encontrar formas canônicas de cônicas e quádricas.
 
-## 🔒 Trancas
-
-- [CSECBJI.77 - Computação Gráfica](pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica)
-- [CSECBJI.85 - Modelagem Ambiental](modelagem-ambiental.md)
-- [CSECBJI.88 - Pesquisa Operacional I](pesquisa-operacional-i.md)
-
-## 📋 Ementa
-
-Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores autoadjuntos e ortogonais. Valores e vetores próprios. Formas Quadráticas, Cônicas e Quadráticas.
-
-## 🎯 Objetivos
-
-- Aprofundar os estudos em transformações lineares, abordando a mudança de base, matrizes semelhantes, autovalores, autovetores e diagonalização de matrizes. Na geometria analítica é auxílio para encontrar formas canônicas de cônicas e quádricas.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.77 - Computação Gráfica](pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica)
+> - [CSECBJI.85 - Modelagem Ambiental](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> - [CSECBJI.88 - Pesquisa Operacional I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Transformações Lineares
 
 - Transformações lineares;
@@ -70,23 +57,20 @@ Transformações lineares. Mudança de base. Matrizes semelhantes. Operadores au
 - Forma quadrática no espaço;
 - Classificação de quádricas.
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear.
+> 2. ª Edição. São Paulo: Harbra, 1984.
+> 3. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
+> 4. STEINBRUCH, A., WINTERLE, P. Álgebra Linear.
+> 5. ª Edição. São Paulo: Pearson, 1995.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
+> 2. LAY, D. C., LAY, S. R.
+> 3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC, LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018.
+> 4. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011.
+> 5. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.
 
-1. BOLDRINI, J. L., COSTA, S. I. R, FIGUEIREDO, V. L., WETZLER, H. G. Álgebra linear.
-2. ª Edição. São Paulo: Harbra, 1984.
-3. LAWSON, T., GOMIDE, E. F. Álgebra linear. São Paulo: Blucher, 1997.
-4. STEINBRUCH, A., WINTERLE, P. Álgebra Linear.
-5. ª Edição. São Paulo: Pearson, 1995.
-
-## 📗 Bibliografia Complementar
-
-1. ANTON, H., BUBSY, R. C. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2005.
-2. LAY, D. C., LAY, S. R.
-3. MCDONALD, J. Álgebra Linear e suas Aplicações. 5ª Edição. Rio de Janeiro: LTC, LEON, S. J. Álgebra Linear com Aplicações. Rio de Janeiro: LTC, 2018.
-4. LIPSCHUTZ, S., LIPSON, M. Álgebra Linear. 4ª Edição. Porto Alegre: Bookman, 2011.
-5. PINTO, C. M. A., Álgebra Linear e Geometria Analítica: Teoria, Exercícios Resolvidos e Propostos Utilizando MatLab. Escolar, 2014.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/2-periodo/algebra-linear-e-geometria-analitica-ii/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algebra-linear-e-geometria-analitica-ii/anotacoes/index)**

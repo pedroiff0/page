@@ -1,49 +1,53 @@
 ---
 publish: true
-title: 8º Período
+title: "8º Período"
 created: 2026-07-21
-modified: 2026-07-26T11:33:09.995-03:00
-published: 2026-07-26T11:33:09.995-03:00
-order: 8
+modified: 2026-08-06
 ---
 
-> [!note] Sobre este período
-> 6 disciplinas do 8º período do curso de Engenharia de Computação.
+> [!info] 🎓 Visão Geral e Carga Horária do Período
+> - **Carga Horária Total do Bloco:** `420h`
+> - **Resumo Pedagógico:** Sistemas microcontrolados, arquitetura de alto desempenho e segurança do trabalho.
+
+> [!note] 📚 Grade Curricular e Disciplinas Integrantes
+> - 📘 **[Arquitetura de Computadores](arquitetura-de-computadores/index)** (`80h` · Núcleo Especifico)
+> - 📘 **[Microcontroladores](microcontroladores/index)** (`80h` · Núcleo Especifico)
+> - 📘 **[Redes de Computadores II](redes-de-computadores-ii/index)** (`80h` · Núcleo Especifico)
+> - 📘 **[Sistemas Operacionais II](sistemas-operacionais-ii/index)** (`60h` · Núcleo Especifico)
+> - 📘 **[Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica/index)** (`60h` · Núcleo Humanas)
+> - 📘 **[Segurança e Higiene do Trabalho](seguranca-e-higiene-do-trabalho/index)** (`60h` · Núcleo Humanas)
+
+> [!tip] 📎 Documentos e Horários Institucionais
+> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/Horario_1p.pdf)**
+> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/PPC_1p.pdf)**
+
+## 🎨 Carrossel de Disciplinas do Período
+
+Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
-  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/arquitetura-de-computadores/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Arquitetura de Computadores" />
     <div class="slide-caption">Arquitetura de Computadores</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Metodologia Científica e Tecnológica" />
-    <div class="slide-caption">Metodologia Científica e Tecnológica</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/microcontroladores" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/microcontroladores/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Microcontroladores" />
     <div class="slide-caption">Microcontroladores</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/redes-de-computadores-ii/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Redes de Computadores II" />
     <div class="slide-caption">Redes de Computadores II</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/seguranca-e-higiene-do-trabalho" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Segurança e Higiene do Trabalho" />
-    <div class="slide-caption">Segurança e Higiene do Trabalho</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/8-periodo/sistemas-operacionais-ii" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/sistemas-operacionais-ii/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Sistemas Operacionais II" />
     <div class="slide-caption">Sistemas Operacionais II</div>
   </a>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/metodologia-cientifica-e-tecnologica/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Metodologia Científica e Tecnológica" />
+    <div class="slide-caption">Metodologia Científica e Tecnológica</div>
+  </a>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/seguranca-e-higiene-do-trabalho/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Segurança e Higiene do Trabalho" />
+    <div class="slide-caption">Segurança e Higiene do Trabalho</div>
+  </a>
 </div>
-
-Disciplinas do 8º período do curso de Engenharia de Computação.
-
-## Disciplinas
-
-- [Redes de Computadores II](redes-de-computadores-ii.md) — 60h, núcleo Específica.
-- [Segurança e Higiene do Trabalho](seguranca-e-higiene-do-trabalho.md) — —h, núcleo Profissionalizante.
-- [Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md) — 60h, núcleo Específica.
-- [Microcontroladores](microcontroladores.md) — 60h, núcleo Específica.
-- [Sistemas Operacionais II](sistemas-operacionais-ii.md) — 60h, núcleo Profissionalizante.
-- [Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica.md) — —h, núcleo Básico.

@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo:  260618-RevisaoProva
 disciplina:
 conteudo:
@@ -124,7 +124,7 @@ for (i=1; i<=n-1;i++) {
 ```
 ***
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

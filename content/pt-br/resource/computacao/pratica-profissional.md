@@ -67,7 +67,7 @@ O que dominar: currículo Lattes completo e atualizado, ORCID vinculado, e a hab
 
 ## Conexão com as disciplinas do curso
 
-- [Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica.md) — método, normas e projeto de pesquisa.
-- [Projeto Final de Curso I](projeto-final-de-curso-i.md) — proposta, revisão bibliográfica e cronograma do TCC.
-- [Projeto Final de Curso II](projeto-final-de-curso-ii.md) — execução, escrita final e defesa.
-- [Empreendedorismo](empreendedorismo.md) — a face "mercado" da prática profissional.
+- [Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica/index) — método, normas e projeto de pesquisa.
+- [Projeto Final de Curso I](projeto-final-de-curso-i/index) — proposta, revisão bibliográfica e cronograma do TCC.
+- [Projeto Final de Curso II](projeto-final-de-curso-ii/index) — execução, escrita final e defesa.
+- [Empreendedorismo](empreendedorismo/index) — a face "mercado" da prática profissional.

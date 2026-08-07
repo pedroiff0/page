@@ -150,7 +150,7 @@ Curso de pós-graduação do Observatório Nacional (ON), com pré-requisito de 
 > **Professor:** Hélio Dotto Perottoni (Observatório Nacional). Agradecimentos do próprio material do curso a Prof. Dr. Helio Jacques Rocha-Pinto, Dr. Guilherme Limberg e notas do Prof. Dr. Steve Majewski.
 
 
-## 🗺️ Tabela Dinâmica do Curso de Arqueologia Galáctica (Quartz Base)
+## 🗺️ Aulas do Curso
 
 ```base
 filters:

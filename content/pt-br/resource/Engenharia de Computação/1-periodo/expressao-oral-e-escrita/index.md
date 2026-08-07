@@ -1,42 +1,32 @@
 ---
 publish: true
-title: Expressão Oral e Escrita
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Expressão Oral e Escrita"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basica
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 1º Período · **Núcleo:** Básica · **Carga Horária:** 40h
-> **Tópicos:** Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.8`
+> - **Período:** Eletiva | **Núcleo:** Específico | **Carga Horária:** 60h
+> - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 
-| Campo          | Valor        |     |
-| -------------- | ------------ | --- |
-| Código         | CSECBJI.8    |     |
-| Núcleo         | Básica       |     |
-| Carga Horária  | 40           |     |
-| Período        | 1º Período   |     |
-| Pré-requisitos |              |     |
-| Professor      | Karina Neves |     |
-| Email          |              | —   |
-|                |              |     |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação. Redação científica: resumo, resenha.
+> 
+> ### 🎯 Objetivos
+> - Capacitar o aluno a melhorar a compreensão, organização e a redação de textos narrativos, descritivos e dissertativos e elaborar textos relacionados com o curso;
+> - Instrumentar os estudantes a se expressarem tanto verbalmente quanto por escrito.
+> - rientar a leitura de textos diversos, especialmente os acadêmicos.
+> - Estimular os estudantes a participar de eventos científicos.
 
-## 📋 Ementa
-
-Noções de texto. A organização micro e macroestrutural do texto: coesão e coerência. Tipologia textual. Linguagem e argumentação. Redação científica: resumo, resenha.
-
-## 🎯 Objetivos
-
-- Capacitar o aluno a melhorar a compreensão, organização e a redação de textos narrativos, descritivos e dissertativos e elaborar textos relacionados com o curso;
-- Instrumentar os estudantes a se expressarem tanto verbalmente quanto por escrito.
-- rientar a leitura de textos diversos, especialmente os acadêmicos.
-- Estimular os estudantes a participar de eventos científicos.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Noções de texto
 
 - Linguagem verbal e não verbal;
@@ -58,29 +48,21 @@ Noções de texto. A organização micro e macroestrutural do texto: coesão e c
 
 - Elaboração de resumo, resenha e fichamento.
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012.
+> 2. MARTINS, D. S., ZILBERKNOP, L. S. Português Instrumental: De Acordo com as Normas Atuais da ABNT.
+> 3. Ed. Rio de Janeiro: Atlas, 2019.
+> 4. MATTOSO, C. J. G. Manual de Expressão Oral e Escrita. 23. Ed. Rio de janeiro: Editora Vozes, 2012
+> 
+> ### 📗 Bibliografia Complementar
+> 5. DEMAI, F. M. Português Instrumental. São Paulo: Editora Érica, 2014.
+> 6. DINTEL, F. Como Escrever Textos Técnicos e Profissionais: Todas as Orientações para Elaborar Relatórios, Cartas e Documentos Eficazes. São Paulo: Gutenberg, 2011.
+> 7. MEDEIROS, J. B. Português Instrumental: Contém Técnicas de Elaboração de Trabalho de Conclusão de Curso.
+> 8. Ed. Rio de Janeiro, Atlas, 2013.
+> 9. LIVEIRA, J. P. M., MOTTA, C. A. P. Como Escrever Textos Técnicos. 2. Ed. São Paulo: Cengage Learning, 10.
+> 10. LIVEIRA, J. L. Texto Acadêmico: Técnicas de Redação e de Pesquisa Científica. 9. Ed.. Rio de Janeiro:
+> 11. Editora Vozes, 2012
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **Guias de normalização ABNT** — bibliotecas da [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e da [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf), distribuição gratuita.
-
-## 📕 Bibliografia Básica
-
-1. ALMEIDA, D. S. A Produção de Textos no Ensino Superior. Curitiba: Editora CRV, 2012.
-2. MARTINS, D. S., ZILBERKNOP, L. S. Português Instrumental: De Acordo com as Normas Atuais da ABNT.
-3. Ed. Rio de Janeiro: Atlas, 2019.
-4. MATTOSO, C. J. G. Manual de Expressão Oral e Escrita. 23. Ed. Rio de janeiro: Editora Vozes, 2012
-
-## 📗 Bibliografia Complementar
-
-5. DEMAI, F. M. Português Instrumental. São Paulo: Editora Érica, 2014.
-6. DINTEL, F. Como Escrever Textos Técnicos e Profissionais: Todas as Orientações para Elaborar Relatórios, Cartas e Documentos Eficazes. São Paulo: Gutenberg, 2011.
-7. MEDEIROS, J. B. Português Instrumental: Contém Técnicas de Elaboração de Trabalho de Conclusão de Curso.
-8. Ed. Rio de Janeiro, Atlas, 2013.
-9. LIVEIRA, J. P. M., MOTTA, C. A. P. Como Escrever Textos Técnicos. 2. Ed. São Paulo: Cengage Learning, 10.
-10. LIVEIRA, J. L. Texto Acadêmico: Técnicas de Redação e de Pesquisa Científica. 9. Ed.. Rio de Janeiro:
-11. Editora Vozes, 2012
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/expressao-oral-e-escrita/anotacoes/index)**

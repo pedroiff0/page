@@ -366,9 +366,9 @@ Navegue diretamente pelas notas de aula e apresentações através do carrossel 
 
 ---
 
-## 🗺️ Tabela Dinâmica de Aulas (Quartz Base)
+## 🗺️ Tabela de Aulas
 
-A tabela abaixo é gerada dinamicamente pelo ecossistema Quartz (bloco `base`), alimentada diretamente a partir dos metadados das notas de aula:
+
 
 ```base
 filters:

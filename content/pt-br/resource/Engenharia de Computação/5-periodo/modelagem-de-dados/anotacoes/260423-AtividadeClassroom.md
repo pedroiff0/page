@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo:  260423-AtividadeClassrooom
 disciplina:
 conteudo:
@@ -122,7 +122,7 @@ cssclasses:
 - ITEM_ACERVO objeto_de RESERVA (1:N)
 ***
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

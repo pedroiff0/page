@@ -77,7 +77,7 @@ O que dominar: latches e flip-flops (a célula de memória de 1 bit), registrado
 
 ## Conexão com as disciplinas do curso
 
-- [Eletricidade Aplicada](eletricidade-aplicada.md) — etapa 1 da trilha: análise de circuitos elétricos.
-- [Eletrônica Analógica](eletronica-analogica.md) — etapa 2: diodos, transistores e amplificadores.
-- [Eletrônica Digital](eletronica-digital.md) — etapa 3 e início da 4: portas, Karnaugh, flip-flops.
-- [Sistemas Digitais](sistemas-digitais.md) — etapa 4 completa: registradores, contadores e máquinas de estados.
+- [Eletricidade Aplicada](eletricidade-aplicada/index) — etapa 1 da trilha: análise de circuitos elétricos.
+- [Eletrônica Analógica](eletronica-analogica/index) — etapa 2: diodos, transistores e amplificadores.
+- [Eletrônica Digital](eletronica-digital/index) — etapa 3 e início da 4: portas, Karnaugh, flip-flops.
+- [Sistemas Digitais](sistemas-digitais/index) — etapa 4 completa: registradores, contadores e máquinas de estados.

@@ -44,7 +44,7 @@ published: 2026-07-26T10:42:30.234-03:00
 
 ---
 
-## 🗺️ Tabela Dinâmica de Palestras (Quartz Base)
+## 🎙️ Palestras
 
 ```base
 filters:

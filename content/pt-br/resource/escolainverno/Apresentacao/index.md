@@ -19,7 +19,7 @@ published: 2026-07-26T11:03:55.936-03:00
 Notas de preparação para a apresentação da minha pesquisa
 
 
-## 🗺️ Tabela Dinâmica do Minicurso (Quartz Base)
+## 🗺️ Aulas do Minicurso
 
 ```base
 filters:

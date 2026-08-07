@@ -1,43 +1,30 @@
 ---
 publish: true
-title: Microcontroladores
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.995-03:00
-published: 2026-07-26T11:33:09.995-03:00
+title: "Microcontroladores"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - especifica
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 8º Período · **Núcleo:** Específica · **Carga Horária:** 60h
-> **Tópicos:** Principais características; Tipos de arquiteturas; Memórias internas; Registradores; Modos de endereçamento; Instruções; Linguagem assembly;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.62`
+> - **Período:** 8º Período | **Núcleo:** Específica | **Carga Horária:** 60
+> - **Docente Responsável:** Garcez (luiz.garcez@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.62 |
-| Núcleo | Específica |
-| Carga Horária | 60 |
-| Período | 8º Período |
-| Pré-requisitos | [CSECBJI.52 - Organização de Computadores](organizacao-de-computadores.md) |
-| Professor | Garcez |
-| Email | luiz.garcez@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Principais características; Tipos de arquiteturas; Memórias internas; Registradores; Modos de endereçamento; Instruções; Linguagem assembly; Compiladores e ferramentas de desenvolvimento; Sistema de interrupções; Dispositivos de entrada e saída (I/O); Estudo dos conversores A/D; Estudo dos conversores D/A; Dispositivos periféricos; Desenvolvimento de projetos utilizando microcontroladores; Projetos com microcontrolador empregando conversores A/D e D/A; Atividades de laboratório.
+> 
+> ### 🎯 Objetivos
+> - ●
+> - Fornecer conhecimentos necessários para analisar e projetar hardware e software de sistemas microcontrolados e suas interfaces
 
-## 🔒 Trancas
-
-- [CSECBJI.70 - Sistemas Embarcados](sistemas-embarcados.md)
-
-## 📋 Ementa
-
-Principais características; Tipos de arquiteturas; Memórias internas; Registradores; Modos de endereçamento; Instruções; Linguagem assembly; Compiladores e ferramentas de desenvolvimento; Sistema de interrupções; Dispositivos de entrada e saída (I/O); Estudo dos conversores A/D; Estudo dos conversores D/A; Dispositivos periféricos; Desenvolvimento de projetos utilizando microcontroladores; Projetos com microcontrolador empregando conversores A/D e D/A; Atividades de laboratório.
-
-## 🎯 Objetivos
-
-- ●
-- Fornecer conhecimentos necessários para analisar e projetar hardware e software de sistemas microcontrolados e suas interfaces
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.70 - Sistemas Embarcados](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Principais Características
 
 - Histórico dos Microcontroladores e Microprocessadores
@@ -97,22 +84,19 @@ Principais características; Tipos de arquiteturas; Memórias internas; Registra
 - iv. Sensores
 - v. Outros Dispositivos
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
+> 2. GIMENEZ, S. P. Microcontroladores 8051: Teoria e Prática. São Paulo: Erica, 2010.
+> 3. NICOLOSI, D. E. Microcontrolador 8051: Detalhado. São Paulo: Erica, 2013.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
+> 2. GIMENEZ, S. P. Microcontroladores 8051. São Paulo: Pearson, 2002.
+> 3. NICOLOSI, D. E. C. Laboratório de Microcontroladores Família 8051: Treino de Instruções, Hardware e Software. 6ª Edição. São Paulo: Erica, 2014.
+> 4. NICOLOSI, D. E. C., BRONZERI, R. B. Microcontrolador 8051 com Linguagem C: Prático e Didático. 2ª Edição. São Paulo: Erica, 2008.
+> 5. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.
+> 6. São Paulo: Erica, 2010.
 
-1. ALMEIDA, R. Programação de Sistemas Embarcados: Desenvolvimento de Software para Microcontroladores em Linguagem C. São Paulo: Elsevier, 2016.
-2. GIMENEZ, S. P. Microcontroladores 8051: Teoria e Prática. São Paulo: Erica, 2010.
-3. NICOLOSI, D. E. Microcontrolador 8051: Detalhado. São Paulo: Erica, 2013.
-
-## 📗 Bibliografia Complementar
-
-1. BACKES, A. Linguagem C: Completa e Descomplicada. São Paulo: Elsevier, 2012.
-2. GIMENEZ, S. P. Microcontroladores 8051. São Paulo: Pearson, 2002.
-3. NICOLOSI, D. E. C. Laboratório de Microcontroladores Família 8051: Treino de Instruções, Hardware e Software. 6ª Edição. São Paulo: Erica, 2014.
-4. NICOLOSI, D. E. C., BRONZERI, R. B. Microcontrolador 8051 com Linguagem C: Prático e Didático. 2ª Edição. São Paulo: Erica, 2008.
-5. LIVEIRA, A. S., ANDRADE, F. S. Sistemas Embarcados: Hardware e Firmware na Prática. 2ª Edição.
-6. São Paulo: Erica, 2010.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/8-periodo/microcontroladores/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/microcontroladores/anotacoes/index)**

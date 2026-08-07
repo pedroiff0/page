@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo:  260423-Aula-Atividades-1
 disciplina:
 conteudo:
@@ -3873,7 +3873,7 @@ $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

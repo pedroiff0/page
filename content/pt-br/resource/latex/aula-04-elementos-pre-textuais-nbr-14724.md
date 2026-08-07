@@ -19,15 +19,15 @@ tags:
 </div>
 
 > [!note] 📦 Material Didático e Recursos da Aula
+> ### 📑 Material da Aula
 > - 📄 **[Slides LaTeX — Modelo Branco (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-04-branco.pdf)** — *Apresentação visual institucional em tema claro.*
 > - 📄 **[Slides LaTeX — Modelo Preto (PDF)](/assets/biblioteca/latex-escrita/slides-latex/aula-04-preto.pdf)** — *Apresentação visual institucional em tema escuro.*
 > - 📝 **[Notas de Aula Institucionais (PDF)](/assets/biblioteca/latex-escrita/notes-latex/aula-04.pdf)** — *Apostila técnica completa em LaTeX.*
-> - 🏛️ **[Guia Oficial de Modelos e Classes ReLaTeX](/pt-br/resource/latex/modelos-de-documento)** — *Documentação técnica `ifftese.cls`.*
-> - 📅 **[Planejamento Letivo e Cronograma](/pt-br/resource/latex/planejamento-e-cronograma)** — *Planejamento analítico das 20 aulas.*
-> - 📜 **[Código de Conduta e Diretrizes](/pt-br/resource/latex/codigo-de-conduta-e-diretrizes)** — *Normas éticas e regimento de IA.*
-> - 🌐 **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
-> - 🌐 **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Normas ABNT NBR 14724, 10520 e 6023.*
-> - 🌐 **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
+> 
+> ### 🌐 Links Externos de Apoio
+> - **[CTAN (Comprehensive TeX Archive Network)](https://ctan.org/)** — *Repositório mundial de pacotes TeX.*
+> - **[ABNT — Catálogo de Normas Técnicas](https://www.abnt.org.br/)** — *Portal oficial de normas NBR 14724, 10520 e 6023.*
+> - **[Overleaf Documentation](https://www.overleaf.com/learn)** — *Guias interativos de compilação TeX.*
 
 ## 📋 Sumário Interativo
 - [📍 1. Fundamentos e Contextualização](#-1-fundamentos-e-contextualização)

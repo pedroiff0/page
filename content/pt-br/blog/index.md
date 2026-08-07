@@ -20,7 +20,7 @@ order: 7
 - [Bem-vindo ao blog](pt-br/blog/bem-vindo) — Por que abri esse espaço e o que esperar por aqui.
 
 
-## 📝 Acervo Dinâmico de Publicações do Blog
+## 📝 Publicações do Blog
 
 ```base
 filters:

@@ -78,9 +78,9 @@ O que dominar: classes, encapsulamento, herança, polimorfismo e interfaces (em 
 
 ## Conexão com as disciplinas do curso
 
-- [Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao.md) — etapas 1 e 2 da trilha.
-- [Algoritmos e Estruturas de Dados I](algoritmos-e-estruturas-de-dados-i.md) — início da etapa 3: listas, pilhas, filas.
-- [Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii.md) — continuação da etapa 3: árvores, hash, ordenação.
-- [Paradigmas de Linguagem de Programação](paradigmas-de-linguagem-de-programacao.md) — a visão comparada de paradigmas da etapa 4.
-- [Programação Orientada a Objetos I](programacao-orientada-a-objetos-i.md) — os pilares de OO na prática, com Java.
-- [Programação Orientada a Objetos II](programacao-orientada-a-objetos-ii.md) — aprofundamento: design, interfaces e projetos maiores.
+- [Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao/index) — etapas 1 e 2 da trilha.
+- [Algoritmos e Estruturas de Dados I](algoritmos-e-estruturas-de-dados-i/index) — início da etapa 3: listas, pilhas, filas.
+- [Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii/index) — continuação da etapa 3: árvores, hash, ordenação.
+- [Paradigmas de Linguagem de Programação](paradigmas-de-linguagem-de-programacao/index) — a visão comparada de paradigmas da etapa 4.
+- [Programação Orientada a Objetos I](programacao-orientada-a-objetos-i/index) — os pilares de OO na prática, com Java.
+- [Programação Orientada a Objetos II](programacao-orientada-a-objetos-ii/index) — aprofundamento: design, interfaces e projetos maiores.

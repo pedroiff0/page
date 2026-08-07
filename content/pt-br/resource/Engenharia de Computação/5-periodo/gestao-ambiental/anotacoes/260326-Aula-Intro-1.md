@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo: 260326-Aula-Intro-1
 disciplina:
 conteudo:
@@ -41,7 +41,7 @@ Vídeo 3: ???? ok
 
 ***
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

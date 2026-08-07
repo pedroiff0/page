@@ -1,44 +1,48 @@
 ---
 publish: true
-title: 9º Período
+title: "9º Período"
 created: 2026-07-21
-modified: 2026-07-26T11:33:09.995-03:00
-published: 2026-07-26T11:33:09.995-03:00
-order: 9
+modified: 2026-08-06
 ---
 
-> [!note] Sobre este período
-> 5 disciplinas do 9º período do curso de Engenharia de Computação.
+> [!info] 🎓 Visão Geral e Carga Horária do Período
+> - **Carga Horária Total do Bloco:** `400h`
+> - **Resumo Pedagógico:** Qualificação da proposta de TCC (PFC I), sistemas embarcados e computação distribuída.
+
+> [!note] 📚 Grade Curricular e Disciplinas Integrantes
+> - 📘 **[Projeto Final de Curso I (PFC I)](projeto-final-de-curso-i/index)** (`100h` · Núcleo Especifico)
+> - 📘 **[Sistemas Distribuídos](sistemas-distribuidos/index)** (`80h` · Núcleo Especifico)
+> - 📘 **[Sistemas Embarcados](sistemas-embarcados/index)** (`80h` · Núcleo Especifico)
+> - 📘 **[Empreendedorismo e Inovação](empreendedorismo/index)** (`60h` · Núcleo Humanas)
+> - 📘 **[Direito, Ética e Cidadania](direito-etica-e-cidadania/index)** (`80h` · Núcleo Humanas)
+
+> [!tip] 📎 Documentos e Horários Institucionais
+> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/Horario_1p.pdf)**
+> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/PPC_1p.pdf)**
+
+## 🎨 Carrossel de Disciplinas do Período
+
+Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
-  <a href="/pt-br/resource/engenharia-de-computação/9-periodo/direito-etica-e-cidadania" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Direito, Ética e Cidadania" />
-    <div class="slide-caption">Direito, Ética e Cidadania</div>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/projeto-final-de-curso-i/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Projeto Final de Curso I (PFC I)" />
+    <div class="slide-caption">Projeto Final de Curso I (PFC I)</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/9-periodo/empreendedorismo" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Empreendedorismo" />
-    <div class="slide-caption">Empreendedorismo</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/9-periodo/projeto-final-de-curso-i" class="carousel-slide">
-    <img src="/assets/illustrations/classes.svg" alt="Projeto Final de Curso I" />
-    <div class="slide-caption">Projeto Final de Curso I</div>
-  </a>
-  <a href="/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/sistemas-distribuidos/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Sistemas Distribuídos" />
     <div class="slide-caption">Sistemas Distribuídos</div>
   </a>
-  <a href="/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-embarcados" class="carousel-slide">
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/sistemas-embarcados/index" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Sistemas Embarcados" />
     <div class="slide-caption">Sistemas Embarcados</div>
   </a>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/empreendedorismo/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Empreendedorismo e Inovação" />
+    <div class="slide-caption">Empreendedorismo e Inovação</div>
+  </a>
+  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/direito-etica-e-cidadania/index" class="carousel-slide">
+    <img src="/assets/illustrations/classes.svg" alt="Direito, Ética e Cidadania" />
+    <div class="slide-caption">Direito, Ética e Cidadania</div>
+  </a>
 </div>
-
-Disciplinas do 9º período do curso de Engenharia de Computação.
-
-## Disciplinas
-
-- [Projeto Final de Curso I](projeto-final-de-curso-i.md) — 80h, núcleo Específica.
-- [Empreendedorismo](empreendedorismo.md) — 40h, núcleo Específica.
-- [Direito, Ética e Cidadania](direito-etica-e-cidadania.md) — 60h, núcleo Básico.
-- [Sistemas Embarcados](sistemas-embarcados.md) — 60h, núcleo Específica.
-- [Sistemas Distribuídos](pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos) — 60h, núcleo Específica.

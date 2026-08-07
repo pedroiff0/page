@@ -1,41 +1,32 @@
 ---
 publish: true
-title: Desenho Técnico para Engenharia
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.991-03:00
-published: 2026-07-26T11:33:09.991-03:00
+title: "Desenho Técnico para Engenharia"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basica
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 1º Período · **Núcleo:** Básica · **Carga Horária:** 80h
-> **Tópicos:** Utilização de instrumentos de desenho; Normas para desenho; Desenho geométrico; Projeções ortogonais; Perspectiva isométrica; Dimensionamento e cotagem;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.7`
+> - **Período:** 1º Período | **Núcleo:** Básica | **Carga Horária:** 80
+> - **Docente Responsável:** Filipe Ambrósio (filipe.loures@gsuite.iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.7 |
-| Núcleo | Básica |
-| Carga Horária | 80 |
-| Período | 1º Período |
-| Pré-requisitos | — |
-| Professor | Filipe Ambrósio |
-| Email | filipe.loures@gsuite.iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Utilização de instrumentos de desenho; Normas para desenho; Desenho geométrico; Projeções ortogonais; Perspectiva isométrica; Dimensionamento e cotagem; Cortes e secções.
+> 
+> ### 🎯 Objetivos
+> - Capacitar os alunos para interpretação e confecção de desenhos técnicos;
+> - Desenvolver raciocínio espacial;
+> - Adquirir conhecimentos e normas, técnicos, para confecção e leitura de desenhos;
+> - Introduzir conceitos de computação gráfica.
 
-## 📋 Ementa
-
-Utilização de instrumentos de desenho; Normas para desenho; Desenho geométrico; Projeções ortogonais; Perspectiva isométrica; Dimensionamento e cotagem; Cortes e secções.
-
-## 🎯 Objetivos
-
-- Capacitar os alunos para interpretação e confecção de desenhos técnicos;
-- Desenvolver raciocínio espacial;
-- Adquirir conhecimentos e normas, técnicos, para confecção e leitura de desenhos;
-- Introduzir conceitos de computação gráfica.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> Nenhuma trava pendente.
 
 ## 📖 Conteúdo Programático
-
 1. Utilização de instrumentos de desenho;
 2. Normas para desenho;
 3. Desenho geométrico
@@ -77,19 +68,17 @@ Utilização de instrumentos de desenho; Normas para desenho; Desenho geométric
 - Linha de corte AB e CD;
 - Identificação de hachuras pela ABNT.
 
-## 📕 Bibliografia Básica
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. PEREIRA, Patrícia; MICELI M.T. Desenho Técnico Básico. Rio de Janeiro: LTC, 2008.
+> 2. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. São Paulo: Pearson, 2013.
+> 3. SILVA, A., RIBEIRO, C. T., DIAS, J., SOUZA, L. Desenho Técnico Moderno. 4ª Edição. Rio de Janeiro: LTC,
+> 
+> ### 📗 Bibliografia Complementar
+> 1. LEAKE, J. M., BORGERSON, J. L. Manual de Desenho Técnico para Engenharia: Desenho, Modelagem e Visualização. 2ª Edição. Rio de Janeiro: LTC, 2014.
+> 2. MORIOKA, C. A., CRUZ, M. D., CRUZ, E. C. Desenho Técnico: Medidas e Representação Gráfica. São Paulo: Editora Érica, 2014.
+> 3. NETTO, C. C. Estudo Dirigido Autodesk: AutoCAD 2018 para Windows. São Paulo: Érica, 2017.
+> 4. NORTON, R. L. Projeto de Máquinas: Uma Abordagem Integrada. 4ª Edição. Porto Alegre: Bookman, RODRIGUES, A. R., SOUZA, A. F., JUNIOR, A. B., BRANDÃO, L. C., SILVEIRA, Z. C. Desenho Técnico Mecânico. Rio de Janeiro: Elsevier, 2015.
 
-1. PEREIRA, Patrícia; MICELI M.T. Desenho Técnico Básico. Rio de Janeiro: LTC, 2008.
-2. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. São Paulo: Pearson, 2013.
-3. SILVA, A., RIBEIRO, C. T., DIAS, J., SOUZA, L. Desenho Técnico Moderno. 4ª Edição. Rio de Janeiro: LTC,
-
-## 📗 Bibliografia Complementar
-
-1. LEAKE, J. M., BORGERSON, J. L. Manual de Desenho Técnico para Engenharia: Desenho, Modelagem e Visualização. 2ª Edição. Rio de Janeiro: LTC, 2014.
-2. MORIOKA, C. A., CRUZ, M. D., CRUZ, E. C. Desenho Técnico: Medidas e Representação Gráfica. São Paulo: Editora Érica, 2014.
-3. NETTO, C. C. Estudo Dirigido Autodesk: AutoCAD 2018 para Windows. São Paulo: Érica, 2017.
-4. NORTON, R. L. Projeto de Máquinas: Uma Abordagem Integrada. 4ª Edição. Porto Alegre: Bookman, RODRIGUES, A. R., SOUZA, A. F., JUNIOR, A. B., BRANDÃO, L. C., SILVEIRA, Z. C. Desenho Técnico Mecânico. Rio de Janeiro: Elsevier, 2015.
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/1-periodo/desenho-tecnico-para-engenharia/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/desenho-tecnico-para-engenharia/anotacoes/index)**

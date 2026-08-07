@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo:  260611-Comparação
 disciplina:
 conteudo:
@@ -28,7 +28,7 @@ $$n^2 - 600n + 150000 = T_2$$
 
 ***
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:

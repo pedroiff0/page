@@ -77,5 +77,5 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 ## Conexão com as disciplinas do curso
 
 - [Engenharia de Software](pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software.md) — processos, requisitos e ciclo de vida: o panorama da área.
-- [Análise de Software Orientada a Objetos](analise-de-software-orientada-a-objetos.md) — modelagem OO e UML: transformar requisitos em modelos.
-- [Projeto de Software Orientado a Objetos](projeto-de-software-orientado-a-objetos.md) — do modelo ao design implementável: princípios, padrões e arquitetura.
+- [Análise de Software Orientada a Objetos](analise-de-software-orientada-a-objetos/index) — modelagem OO e UML: transformar requisitos em modelos.
+- [Projeto de Software Orientado a Objetos](projeto-de-software-orientado-a-objetos/index) — do modelo ao design implementável: princípios, padrões e arquitetura.

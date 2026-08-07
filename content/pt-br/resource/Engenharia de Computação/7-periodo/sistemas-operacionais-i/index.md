@@ -1,44 +1,31 @@
 ---
 publish: true
-title: Sistemas Operacionais I
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.987-03:00
-published: 2026-07-26T11:33:09.987-03:00
+title: "Sistemas Operacionais I"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - profissionalizante
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 7º Período · **Núcleo:** Profissionalizante · **Carga Horária:** 60h
-> **Tópicos:** Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Memória.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.56`
+> - **Período:** 7º Período | **Núcleo:** Profissionalizante | **Carga Horária:** 60
+> - **Docente Responsável:** Ana Mara (ana.figueiredo@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.56 |
-| Núcleo | Profissionalizante |
-| Carga Horária | 60 |
-| Período | 7º Período |
-| Pré-requisitos | [CSECBJI.1 - Fundamentos de Computação](fundamentos-de-computacao.md) |
-| Professor | Ana Mara |
-| Email | ana.figueiredo@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Memória.
+> 
+> ### 🎯 Objetivos
+> - Compreender o funcionamento dos mecanismos internos de Sistemas Operacionais.
 
-## 🔒 Trancas
-
-- [CSECBJI.63 - Sistemas Operacionais II](sistemas-operacionais-ii.md)
-- [CSECBJI.71 - Sistemas Distribuídos](pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos)
-- [CSECBJI.86 - Algoritmos Distribuídos](algoritmos-distribuidos.md)
-
-## 📋 Ementa
-
-Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Memória.
-
-## 🎯 Objetivos
-
-- Compreender o funcionamento dos mecanismos internos de Sistemas Operacionais.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.63 - Sistemas Operacionais II](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> - [CSECBJI.71 - Sistemas Distribuídos](pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos)
+> - [CSECBJI.86 - Algoritmos Distribuídos](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Introdução
 
 - O que é um Sistema Operacional?
@@ -82,30 +69,20 @@ Introdução aos Sistemas Operacionais. Processos e Threads. Gerenciamento de Me
 - Questões de Implementação
 - Segmentação
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
+> 2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
+> 3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
+> 4. Porto Alegre: Bookman, 2018.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
+> 2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
+> 3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição. Rio de Janeiro: LTC, 2015.
+> 4. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo:
+> 5. Novatec, 2015.
+> 6. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Sistemas Operacionais](assets/biblioteca/computacao/sistemas-operacionais-ifro.pdf)** — Rede e-Tec Brasil/IFRO. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-- **[Introdução ao Linux](assets/biblioteca/computacao/introducao-ao-linux-etec.pdf)** — Escola Técnica Aberta/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-
-## 📕 Bibliografia Básica
-
-1. LIVEIRA, R. S., CARISSIMI, A. S. Sistemas Operacionais. 4ª Edição. Porto Alegre: Bookman, 2010.
-2. TANENBAUM, A. S. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
-3. TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3ª Edição.
-4. Porto Alegre: Bookman, 2018.
-
-## 📗 Bibliografia Complementar
-
-1. DEITEL, H., DEITEL, P., CHOFNES, K. S. Sistemas Operacionais. 3ª Edição. São Paulo: Pearson, 2005.
-2. NEGUS, C., BRESNAHAM, C., FURMANKIEWICZ, E. Linux a Bíblia: O Mais Abrangente e Definitivo Guia Sobre Linux. Rio de Janeiro: Alta Books, 2014.
-3. SILBERCHATZ, A., GALVIN, P. B., GAGNE, G. Fundamentos de Sistemas Operacionais. 9ª Edição. Rio de Janeiro: LTC, 2015.
-4. WARD, B. Como o Linux Funciona: O que Todo Super Usuário Deveria Saber. 2ª Edição. São Paulo:
-5. Novatec, 2015.
-6. MACHADO, F. B., MAIA, L. P. Arquitetura de Sistemas Operacionais: Incluindo Exercícios com o Simulador SOSIM e Questões do ENADE. 5ª Edição. Rio de Janeiro: LTC, 2013.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-operacionais-i/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/7-periodo/sistemas-operacionais-i/anotacoes/index)**

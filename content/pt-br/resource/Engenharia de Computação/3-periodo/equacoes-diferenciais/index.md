@@ -1,43 +1,30 @@
 ---
 publish: true
-title: Equações Diferenciais
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.999-03:00
-published: 2026-07-26T11:33:09.999-03:00
+title: "Equações Diferenciais"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - basico
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 3º Período · **Núcleo:** Básico · **Carga Horária:** 80h
-> **Tópicos:** Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explícitas. Equações lineares de 2.ª ordem. Equações diferenciais lineares de ordem superior.
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.18`
+> - **Período:** 3º Período | **Núcleo:** Básico | **Carga Horária:** 80
+> - **Docente Responsável:** Gustavo Stênio (gustavo.neitzel@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.18 |
-| Núcleo | Básico |
-| Carga Horária | 80 |
-| Período | 3º Período |
-| Pré-requisitos | [CSECBJI.4 - Cálculo I](calculo-i.md), [CSECBJI.5 - Álgebra Linear e Geometria Analítica I](algebra-linear-e-geometria-analitica-i.md) |
-| Professor | Gustavo Stênio |
-| Email | gustavo.neitzel@iff.edu.br |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explícitas. Equações lineares de 2.ª ordem. Equações diferenciais lineares de ordem superior. O método da variação dos parâmetros. Solução de equações diferenciais ordinárias. Introdução a equações diferenciais parciais.
+> 
+> ### 🎯 Objetivos
+> - Apresentar ao aluno os conceitos básicos de equações diferenciais ordinárias e parciais;
+> - Resolver problemas.
 
-## 🔒 Trancas
-
-- [CSECBJI.85 - Modelagem Ambiental](modelagem-ambiental.md)
-
-## 📋 Ementa
-
-Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explícitas. Equações lineares de 2.ª ordem. Equações diferenciais lineares de ordem superior. O método da variação dos parâmetros. Solução de equações diferenciais ordinárias. Introdução a equações diferenciais parciais.
-
-## 🎯 Objetivos
-
-- Apresentar ao aluno os conceitos básicos de equações diferenciais ordinárias e parciais;
-- Resolver problemas.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.85 - Modelagem Ambiental](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
 
 ## 📖 Conteúdo Programático
-
 1. Conceitos fundamentais em equações diferenciais
 
 - Definição de Equação Diferencial Ordinária
@@ -84,28 +71,19 @@ Equações diferenciais ordinárias de 1.ª ordem. Métodos de soluções explí
 - Soluções de Equações Diferenciais Parciais
 - Problemas com Condições Iniciais/de Contorno
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno.
+> 2. ª Edição Rio de Janeiro: LTC, 2015.
+> 3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
+> 4. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
+> 2. ÇENGEL, Y. A., PALM III, W. J. Equações Diferenciais. São Paulo: McGrall Hill, 2014.
+> 3. DIACU, F. Introdução à Equações Diferenciais: Teoria e Aplicações. Rio de Janeiro, 2004.
+> 4. KREYSZIG, E. Matemática Superior para Engenharia: Volume 1. 9ª Edição. São Paulo, LTC, 2008.
+> 5. NAGLE, K. R., SAFF, E. B., SNYDER, A. D. Equações Diferenciais. 8ª Edição. São Paulo: Pearson, 2012.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Equações Diferenciais](assets/biblioteca/matematica/equacoes-diferenciais-ufba.pdf)** (e-book) — UFBA/UAB.
-
-## 📕 Bibliografia Básica
-
-1. BOYCE, W. E, DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno.
-2. ª Edição Rio de Janeiro: LTC, 2015.
-3. ZILL, D. G., CULLEN, M. R. Equações Diferenciais: Volume 1. 3ª Edição. São Paulo: Pearson, 2001.
-4. ZILL, D. Equações Diferenciais: Com Aplicações em Modelagem. 3ª Edição. São Paulo: Cengage Learning, 2016.
-
-## 📗 Bibliografia Complementar
-
-1. BRONSON, R., COSTA, G. Equações Diferenciais. 3ª Edição. Porto Alegre: Bookman, 2008.
-2. ÇENGEL, Y. A., PALM III, W. J. Equações Diferenciais. São Paulo: McGrall Hill, 2014.
-3. DIACU, F. Introdução à Equações Diferenciais: Teoria e Aplicações. Rio de Janeiro, 2004.
-4. KREYSZIG, E. Matemática Superior para Engenharia: Volume 1. 9ª Edição. São Paulo, LTC, 2008.
-5. NAGLE, K. R., SAFF, E. B., SNYDER, A. D. Equações Diferenciais. 8ª Edição. São Paulo: Pearson, 2012.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/3-periodo/equacoes-diferenciais/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/equacoes-diferenciais/anotacoes/index)**

@@ -1,43 +1,32 @@
 ---
 publish: true
-title: Sistemas Digitais
-created: 2026-07-18
-modified: 2026-07-26T11:33:09.987-03:00
-published: 2026-07-26T11:33:09.987-03:00
+title: "Sistemas Digitais"
+created: '2026-07-18'
+modified: '2026-08-06'
 tags:
   - disciplina
-  - especifica
+  - engenharia-de-computacao
 ---
 
-> [!note] Sobre esta disciplina
-> **Período:** 7º Período · **Núcleo:** Específica · **Carga Horária:** 60h
-> **Tópicos:** Análise e síntese de circuitos digitais sequenciais; contadores e registradores; famílias lógicas, circuitos integrados;
+> [!info] 📌 Informações Gerais da Disciplina
+> - **Código:** `CSECBJI.53`
+> - **Período:** 7º Período | **Núcleo:** Específica | **Carga Horária:** 60
+> - **Docente Responsável:** Docente IFF (contato@iff.edu.br)
 
-| Campo | Valor |
-| --- | --- |
-| Código | CSECBJI.53 |
-| Núcleo | Específica |
-| Carga Horária | 60 |
-| Período | 7º Período |
-| Pré-requisitos | [CSECBJI.46 - Eletrônica Digital](eletronica-digital.md) |
+> [!note] 📋 Ementa e Objetivos Pedagógicos
+> ### 📋 Ementa
+> Análise e síntese de circuitos digitais sequenciais; contadores e registradores; famílias lógicas, circuitos integrados; conversores: analógico / digital e digital/ analógico; dispositivos de memórias; noções de dispositivos programáveis.
+> 
+> ### 🎯 Objetivos
+> - Dimensionar e interpretar circuitos eletrônicos digitais. Analisar e sintetizar circuitos sequenciais;
+> - Caracterizar as diferentes famílias lógicas aplicadas em circuitos digitais;
+> - Compreender as técnicas de conversão digital analógica e analógico-digital;
+> - Analisar e projetar sistemas digitais lógicos e programáveis.
 
-## 🔒 Trancas
-
-- [CSECBJI.61 - Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md)
-
-## 📋 Ementa
-
-Análise e síntese de circuitos digitais sequenciais; contadores e registradores; famílias lógicas, circuitos integrados; conversores: analógico / digital e digital/ analógico; dispositivos de memórias; noções de dispositivos programáveis.
-
-## 🎯 Objetivos
-
-- Dimensionar e interpretar circuitos eletrônicos digitais. Analisar e sintetizar circuitos sequenciais;
-- Caracterizar as diferentes famílias lógicas aplicadas em circuitos digitais;
-- Compreender as técnicas de conversão digital analógica e analógico-digital;
-- Analisar e projetar sistemas digitais lógicos e programáveis.
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> - [CSECBJI.61 - Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md)
 
 ## 📖 Conteúdo Programático
-
 1. Análise e Síntese de Circuitos Digitais
 
 - Contadores Síncronos e Assíncronos
@@ -88,29 +77,20 @@ Análise e síntese de circuitos digitais sequenciais; contadores e registradore
 - Saídas de Alta Impedância, Barramentos de I/O, Endereçamento e Sinais de Controle
 - Associação de Memórias
 
-## 📚 Materiais de Apoio (acesso aberto)
+> [!tip] 📚 Bibliografia Básica e Complementar (ABNT)
+> ### 📕 Bibliografia Básica
+> 1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
+> 2. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo:
+> 3. Elsevier, 2016.
+> 4. TOCCI, R. J., WIDMER, N. S., MOSS, G. L. Sistemas Digitais: Princípios e Aplicações. 11ª Edição. São Paulo: Pearson, 2011.
+> 
+> ### 📗 Bibliografia Complementar
+> 1. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
+> 2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
+> 3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
+> 4. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 2: Sistemas Sequenciais. São Paulo:
+> 5. Bookman, 2013.
+> 6. VAHID, F. Sistemas Digitais: Projeto, Otimização e HDLs. Porto Alegre: Bookman, 2008.
 
-> [!tip] Todos os materiais abaixo são de distribuição legal e gratuita — pode baixar e compartilhar.
-
-- **[Circuitos Digitais](assets/biblioteca/computacao/circuitos-digitais-etec.pdf)** — Rede e-Tec Brasil/MEC. Espelho oficial: [ProEdu](https://proedu.rnp.br).
-
-## 📕 Bibliografia Básica
-
-1. AMORE, R. VHDL: Descrição e Síntese de Circuitos Digitais. 2ª Edição. Rio de Janeiro, 2012.
-2. PIMENTA, T. C. Circuitos Digitais: Análise e Síntese Lógica e Aplicações em FPGA. São Paulo:
-3. Elsevier, 2016.
-4. TOCCI, R. J., WIDMER, N. S., MOSS, G. L. Sistemas Digitais: Princípios e Aplicações. 11ª Edição. São Paulo: Pearson, 2011.
-
-## 📗 Bibliografia Complementar
-
-1. IDOETA, I. V., CAPUANO, F. G. Elementos de Eletrônica Digital. 42ª Edição. São Paulo: Érica, 2019.
-2. HETEM JR., A. Fundamentos de informática: Eletrônica Digital. Rio de Janeiro: LTC, 2010.
-3. PEDRONI, V. Eletrônica Digital Moderna e VHDL: Princípios Digitais, Eletrônica Digital, Projeto Digital, Microeletrônica e VHDL. São Paulo: Elsevier, 2010.
-4. TOKHEIM, R. Fundamentos de Eletrônica Digital – Volume 2: Sistemas Sequenciais. São Paulo:
-5. Bookman, 2013.
-6. VAHID, F. Sistemas Digitais: Projeto, Otimização e HDLs. Porto Alegre: Bookman, 2008.
-
-
-## 📝 Anotações e Arquivos
-
-- 📁 [[pt-br/resource/Engenharia de Computação/7-periodo/sistemas-digitais/anotacoes/index|Anotações e Arquivos]]
+## 📝 Anotações e Arquivos Didáticos
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/7-periodo/sistemas-digitais/anotacoes/index)**

@@ -80,7 +80,7 @@ Anotações de leitura sobre artigos científicos relevantes para minha pesquisa
 - [Abundâncias em Anãs G VI](pt-br/research/anomaly-detection/articles/wallerstein1962) — artigo histórico, uma das primeiras determinações sistemáticas de abundância estelar.
 
 
-## 📚 Acervo Dinâmico de Artigos de Detecção de Anomalias
+## 📚 Artigos de Detecção de Anomalias
 
 ```base
 filters:

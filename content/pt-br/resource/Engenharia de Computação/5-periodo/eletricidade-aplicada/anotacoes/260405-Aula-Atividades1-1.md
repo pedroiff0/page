@@ -1,6 +1,6 @@
 ---
 publish: true
-password: "engcomp20232"
+password: "eng232"
 titulo: 260405-Aula-Atividades1-1
 disciplina:
 conteudo:
@@ -31,7 +31,7 @@ Lista de Atividades, Cap. 9 - Alexander:
 
 ***
 
-## 🗺️ Tabela Dinâmica de Anotações (Quartz Base)
+## 📝 Anotações da Disciplina
 
 ```base
 filters:
