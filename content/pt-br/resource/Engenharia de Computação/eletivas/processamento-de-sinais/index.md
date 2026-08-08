@@ -21,7 +21,11 @@ tags:
 > - Apresentar os conceitos básicos de Processamento Digital de Sinais nos domínios do tempo e da frequência.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Introdução ao Processamento Digital de Sinais

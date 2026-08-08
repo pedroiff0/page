@@ -22,9 +22,13 @@ tags:
 > - Abordar estudo de matrizes, determinantes, sistemas de equações lineares, vetores no plano e no espaço com aplicações na geometria analítica e ainda introduz conceitos básicos sobre espaços vetoriais e subespaços.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii)
-> - [CSECBJI.11 - Física I](pt-br/resource/engenharia-de-computação/2-periodo/fisica-i)
-> - [CSECBJI.18 - Equações Diferenciais](pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.10 - Álgebra Linear e Geometria Analítica II](/pt-br/resource/engenharia-de-computação/2-periodo/algebra-linear-e-geometria-analitica-ii)
+> - [CSECBJI.11 - Física I](/pt-br/resource/engenharia-de-computação/2-periodo/fisica-i)
+> - [CSECBJI.18 - Equações Diferenciais](/pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais)
 
 ## 📖 Conteúdo Programático
 1. Matrizes:

@@ -24,7 +24,11 @@ tags:
 > - Analisar e projetar sistemas digitais lógicos e programáveis.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.61 - Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.61 - Arquitetura de Computadores](/pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores)
 
 ## 📖 Conteúdo Programático
 1. Análise e Síntese de Circuitos Digitais

@@ -21,7 +21,11 @@ tags:
 > - Proporcionar ao aluno conhecimentos básicos sobre energia elétrica objetivando melhor utilizá-las no meio industrial, bem como estudar os equipamentos elétricos e eletrônicos e iluminação na indústria.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.82 - Energia e Eficiência Energética](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.82 - Energia e Eficiência Energética](/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica)
 
 ## 📖 Conteúdo Programático
 1. Análise de Circuitos Em Corrente Alternada

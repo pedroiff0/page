@@ -21,9 +21,13 @@ tags:
 > - Aprofundar os estudos em transformações lineares, abordando a mudança de base, matrizes semelhantes, autovalores, autovetores e diagonalização de matrizes. Na geometria analítica é auxílio para encontrar formas canônicas de cônicas e quádricas.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.77 - Computação Gráfica](pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica)
-> - [CSECBJI.85 - Modelagem Ambiental](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.88 - Pesquisa Operacional I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.77 - Computação Gráfica](/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica)
+> - [CSECBJI.85 - Modelagem Ambiental](/pt-br/resource/engenharia-de-computação/eletivas/modelagem-ambiental)
+> - [CSECBJI.88 - Pesquisa Operacional I](/pt-br/resource/engenharia-de-computação/eletivas/pesquisa-operacional-i)
 
 ## 📖 Conteúdo Programático
 1. Transformações Lineares

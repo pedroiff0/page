@@ -21,7 +21,11 @@ tags:
 > - Aprofundar os conhecimentos acerca de projetos de software orientado à objetos;
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Princípios de Projeto Orientado a Objetos

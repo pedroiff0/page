@@ -21,7 +21,11 @@ tags:
 > - Oferecer ao aluno o conhecimento básico sobre modelagem de sistemas ambientais.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Dinâmica de sistemas lineares e não-lineares.

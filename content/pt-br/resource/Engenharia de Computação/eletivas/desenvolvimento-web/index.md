@@ -21,7 +21,11 @@ tags:
 > - Apresentar diferentes maneiras de desenvolver sistemas e ferramentas web com tecnologias mais relevantes para o mercado.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Programação para Web

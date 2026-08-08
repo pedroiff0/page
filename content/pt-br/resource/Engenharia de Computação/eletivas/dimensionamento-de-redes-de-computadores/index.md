@@ -21,7 +21,11 @@ tags:
 > - Desenvolver o conhecimento e as habilidades necessárias para implementar operações de redes complexas.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Dimensionamento de Redes

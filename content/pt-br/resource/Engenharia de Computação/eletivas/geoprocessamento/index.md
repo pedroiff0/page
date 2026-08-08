@@ -22,7 +22,11 @@ tags:
 > - Conhecer e aplicar as técnicas de geoprocessamento a fim de realizar análises ambientais com o apoio de sistemas computacionais.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Bases Conceituais e Teóricas

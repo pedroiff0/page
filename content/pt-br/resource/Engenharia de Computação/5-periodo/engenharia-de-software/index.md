@@ -28,7 +28,11 @@ tags:
 > - Trabalhar com ambientes e ferramentas de suporte ao desenvolvimento de software
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.42 - Análise de Software Orientada a Objetos](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.42 - Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos)
 
 ## 📖 Conteúdo Programático
 1. Teoria dos Sistemas

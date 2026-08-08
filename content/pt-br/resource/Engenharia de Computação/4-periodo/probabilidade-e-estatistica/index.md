@@ -21,7 +21,11 @@ tags:
 > - Apresentar ao aluno os conceitos básicos de probabilidades e estatística descritiva que possibilitem a aplicação de métodos estatísticos na análise de problemas.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.41 - Avaliação e Desempenho de Sistemas](pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.41 - Avaliação e Desempenho de Sistemas](/pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas)
 
 ## 📖 Conteúdo Programático
 1. Introdução à Estatística

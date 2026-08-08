@@ -21,7 +21,11 @@ tags:
 > - Proporcionar aos acadêmicos o conhecimento das características empreendedoras, a busca das oportunidades de negócios e o desenvolvimento do plano de negócios de empresas, bem como prepará-los para empreender e avaliar os riscos em atividades voltadas a sua atuação na área da engenharia de computação.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Empreendedor e os Fatores de Sucesso

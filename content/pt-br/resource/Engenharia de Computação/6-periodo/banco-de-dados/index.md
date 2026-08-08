@@ -21,7 +21,11 @@ tags:
 > - Proporcionar aos alunos conhecimentos teóricos e práticos em Banco de Dados, envolvendo o estudo de conceitos fundamentais de Projeto de Sistemas de Banco de Dados, além da sua aplicação através do ensino de uma linguagem de programação de banco de dados e do desenvolvimento de aplicações de bancos de dados.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Linguagem de Definição e Manipulação de Dados

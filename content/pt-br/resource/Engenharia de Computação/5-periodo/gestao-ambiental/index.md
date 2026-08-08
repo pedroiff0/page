@@ -22,7 +22,11 @@ tags:
 > - Capacitar o aluno para avaliar os empreendimentos do ponto de vista ambiental e compreender a importância da consciência ambiental como estratégia de negócios.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Conceito de Meio Ambiente

@@ -26,7 +26,11 @@ tags:
 > - Realizar palestras, rodas de conversa e seminários sobre situações concretas que envolvem Direito, ética, cidadania e computação.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Introdução ao Direito, Estado Democrático de Direito e Cidadania:

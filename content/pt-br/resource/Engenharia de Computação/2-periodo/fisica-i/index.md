@@ -21,8 +21,12 @@ tags:
 > - Apresentar aos alunos os conceitos fundamentais do estudo da mecânica.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.19 - Física II](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.21 - Mecânica dos Sólidos](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.19 - Física II](/pt-br/resource/engenharia-de-computação/3-periodo/fisica-ii)
+> - [CSECBJI.21 - Mecânica dos Sólidos](/pt-br/resource/engenharia-de-computação/3-periodo/mecanica-dos-solidos)
 
 ## 📖 Conteúdo Programático
 1. Movimento em uma dimensão

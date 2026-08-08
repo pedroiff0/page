@@ -12,9 +12,9 @@ tags:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="../index">Índice da Disciplina</a></b></div>
-  <div>🏠 <b><a href="../index">Anotações da Disciplina</a></b></div>
-  <div>➡️ <b><a href="aula-01-princípios-de-projeto-orientado-a-objeto">Próxima Aula: 01</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos/anotacoes/aula-01-princípios-de-projeto-orientado-a-objeto">Próxima Aula</a></b></div>
 </div>
 
 > [!info] 📌 Informações Gerais do Plano de Ensino
@@ -77,7 +77,7 @@ flowchart TD
 - [ ] Consultar a bibliografia básica no repositório da biblioteca.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="../index">Índice da Disciplina</a></b></div>
-  <div>🏠 <b><a href="../index">Anotações da Disciplina</a></b></div>
-  <div>➡️ <b><a href="aula-01-princípios-de-projeto-orientado-a-objeto">Próxima Aula: 01</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos/anotacoes/aula-01-princípios-de-projeto-orientado-a-objeto">Próxima Aula</a></b></div>
 </div>

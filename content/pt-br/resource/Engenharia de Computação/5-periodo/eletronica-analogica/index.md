@@ -21,7 +21,11 @@ tags:
 > - ● Compreender o funcionamento dos componentes eletrônicos básicos abordados e de como eles funcionam ● Compreender o funcionamento dos CIs e dos sistemas eletrônicos atuais e suas aplicações no campo da Engenharia de Computação.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.46 - Eletrônica Digital](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.46 - Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital)
 
 ## 📖 Conteúdo Programático
 1. Teoria dos Diodos

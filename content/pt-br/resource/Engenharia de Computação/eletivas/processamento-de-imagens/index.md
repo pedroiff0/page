@@ -21,7 +21,11 @@ tags:
 > - Apresentar os fundamentos gerais sobre processamento de imagens e vídeos digitais. Desenvolver rotinas de processamento de imagens para diversas aplicações.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Fundamentação, aplicações, representação e modelagem de imagens digitais

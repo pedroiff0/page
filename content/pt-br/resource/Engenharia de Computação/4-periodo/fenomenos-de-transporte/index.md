@@ -21,7 +21,11 @@ tags:
 > - Analisar os fenômenos que envolvem Mecânica dos Fluidos e Transmissão de Calor e relacioná-los com os princípios da física e com suas situações práticas.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Mecânica dos Fluidos

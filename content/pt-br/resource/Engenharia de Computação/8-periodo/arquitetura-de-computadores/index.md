@@ -21,7 +21,11 @@ tags:
 > - Capacitar o aluno, através do conhecimento básico da arquitetura IA-32/IA-64, a interfacear e integrar novos projetos e produtos dentro dessa arquitetura que é a base da maioria dos computadores pessoais modernos.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Arquitetura IA-32 / IA-64

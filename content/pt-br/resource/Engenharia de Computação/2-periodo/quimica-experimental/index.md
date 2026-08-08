@@ -21,7 +21,11 @@ tags:
 > - Relacionar as práticas envolvidas nesta disciplina com a teoria abordada na disciplina de Química, de tal forma a contribuir para a aquisição do aprendizado teórico. Somado a isso, adquirir o conhecimento básico sobre as principais ferramentas profissionais utilizadas em um laboratório de química e compreender como a metodologia científica está envolvida desde o planejamento do experimento até a interpretação dos resultados.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Estrutura, funcionamento e noções básicas de segurança em laboratório de química.

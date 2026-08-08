@@ -13,9 +13,9 @@ tags:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa">Aula Anterior: 05</a></b></div>
-  <div>🏠 <b><a href="/pt-br/resource/latex/">Índice do Curso</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade">Próxima Aula: 07</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade">Próxima Aula</a></b></div>
 </div>
 
 > [!note] 📦 Material Didático e Recursos da Aula
@@ -74,7 +74,7 @@ Esta aula conecta-se transversalmente aos seguintes tópicos da formação em La
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 6023**: Informação e documentação — Referências — Elaboração. Rio de Janeiro: ABNT, 2018.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa">Aula Anterior: 05</a></b></div>
-  <div>🏠 <b><a href="/pt-br/resource/latex/">Índice do Curso</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade">Próxima Aula: 07</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/latex/aula-05-introducao-contextualizacao-e-lacuna-de-pesquisa">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/latex/aula-07-metodologia-materiais-e-reprodutibilidade">Próxima Aula</a></b></div>
 </div>

@@ -11,9 +11,9 @@ tags:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="aula-03-questão-energética-na-atualidade">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../index">Índice da Disciplina</a></b></div>
-  <div>➡️ <b><a href="aula-05-cadeia-energética">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica/anotacoes/aula-03-questão-energética-na-atualidade">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica/anotacoes/aula-05-cadeia-energética">Próxima Aula</a></b></div>
 </div>
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
@@ -89,7 +89,7 @@ flowchart TD
 - [ ] Exercício 02: Revisar os conceitos da bibliografia básica recomendada.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="aula-03-questão-energética-na-atualidade">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../index">Índice da Disciplina</a></b></div>
-  <div>➡️ <b><a href="aula-05-cadeia-energética">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica/anotacoes/aula-03-questão-energética-na-atualidade">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica/anotacoes/aula-05-cadeia-energética">Próxima Aula</a></b></div>
 </div>

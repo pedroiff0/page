@@ -21,7 +21,11 @@ tags:
 > - Compreender o funcionamento das empresas e dos mercados, através de aplicação da teoria do consumidor, da teoria da produção e da teoria dos custos, dotando os alunos de conhecimento básico em avaliação de projetos, ampliando de uma forma geral a visão de gestão,permitindo assim maiores possibilidades de inserção no mundo do trabalho empresarial.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Ciência Econômica

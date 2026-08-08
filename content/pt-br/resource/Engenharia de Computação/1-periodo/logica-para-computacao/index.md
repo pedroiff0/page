@@ -22,9 +22,13 @@ tags:
 > - Entender e aplicar os conceitos da lógica proposicional e de predicados na construção do raciocínio utilizado pelo computador em um software.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.14 - Matemática Discreta](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.35 - Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md)
-> - [CSECBJI.46 - Eletrônica Digital](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.14 - Matemática Discreta](/pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta)
+> - [CSECBJI.35 - Modelagem de Dados](/pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados)
+> - [CSECBJI.46 - Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital)
 
 ## 📖 Conteúdo Programático
 1. Introdução à Lógica para Computação;

@@ -21,7 +21,11 @@ tags:
 > - Apresentar os conceitos, as teorias e os métodos de soluções de problemas de vigas submetidas a deformações em virtude de cargas externas, efeitos térmicos e esforços internos.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Introdução ao conceito de tensão

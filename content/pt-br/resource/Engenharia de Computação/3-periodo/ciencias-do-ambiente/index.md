@@ -21,7 +21,11 @@ tags:
 > - Desenvolver a compreensão sobre os principais conceitos envolvidos e fundamentos ecológicos relacionados ao estudo da disciplina ciências do ambiente, mostrando a importância do estudo ao futuro profissional, capacitando-o de forma contextualizada com a profissão.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Conceitos Básicos

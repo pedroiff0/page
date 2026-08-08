@@ -22,7 +22,11 @@ tags:
 > - Proporcionar aos alunos a aquisição de conhecimentos em ciência e tecnologia de materiais, capacitando-o a reconhecer, classificar e selecionar materiais aplicados a equipamentos e processos no campo da tecnologia de automação.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Ciência e engenharia dos materiais

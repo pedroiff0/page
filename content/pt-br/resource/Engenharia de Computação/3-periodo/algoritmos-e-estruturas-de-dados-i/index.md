@@ -21,7 +21,11 @@ tags:
 > - Proporcionar aos alunos conhecimentos teóricos e práticos em programação, envolvendo o estudo de conceitos fundamentais de algoritmos e estruturas de dados.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.30 - Algoritmos e Estruturas de Dados II](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.30 - Algoritmos e Estruturas de Dados II](/pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii)
 
 ## 📖 Conteúdo Programático
 1. Estruturas de Dados Homogêneas:

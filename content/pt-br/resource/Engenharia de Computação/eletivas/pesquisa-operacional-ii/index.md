@@ -21,7 +21,11 @@ tags:
 > - Desenvolver a capacidade de formular, modelar, solucionar e analisar modelos matemáticos para tomada de decisão em gestão e planejamento de processos produtivos.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Programação Linear Inteira (PLI)

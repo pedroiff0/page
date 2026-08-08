@@ -21,7 +21,11 @@ tags:
 > - Rever e aprofundar os conceitos relativos aos constituintes básicos da matéria permitindo uma avaliação das características físicas e químicas das substâncias e dos materiais, de tal forma a capacitar o aluno para reconhecer a importância da química na vida cotidiana, como também sua aplicação em outros domínios.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.23 - Introdução à Ciência dos Materiais](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.23 - Introdução à Ciência dos Materiais](/pt-br/resource/engenharia-de-computação/3-periodo/introducao-a-ciencia-dos-materiais)
 
 ## 📖 Conteúdo Programático
 1. Estrutura da matéria:

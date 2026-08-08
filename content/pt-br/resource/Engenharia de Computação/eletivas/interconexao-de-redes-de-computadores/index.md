@@ -21,7 +21,11 @@ tags:
 > - Desenvolver o conhecimento e as habilidades necessários para executar operações IPsec e VPN (Virtual Private Network, Rede Virtual Privada) em uma rede complexa.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Projeto de Rede Hierárquico

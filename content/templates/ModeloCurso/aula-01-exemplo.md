@@ -11,9 +11,9 @@ tags:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="../index">Índice de Anotações</a></b></div>
-  <div>🏠 <b><a href="../index">Anotações da Disciplina</a></b></div>
-  <div>➡️ <b><a href="nota-02">Próxima Aula: 02</a></b></div>
+  <div>⬅️ <b><a href="/templates">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/templates">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/templates/modelocurso/aula-01-introducao-exemplo">Próxima Aula</a></b></div>
 </div>
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
@@ -48,11 +48,13 @@ tags:
 Se $f$ for contínua em $[a, b]$, então a função $F(x)$ definida por:
 $$F(x) = \int_{a}^{x} f(t) \, dt \quad 	ext{para } x \in [a, b]$$
 é contínua em $[a, b]$, derivável em $(a, b)$, e sua derivada é dada por:
-$$F'(x) = rac{d}{dx} \left( \int_{a}^{x} f(t) \, dt ight) = f(x)$$
+$$F'(x) = rac{d}{dx} \left( \int_{a}^{x} f(t) \, dt 
+ight) = f(x)$$
 
 ### 📐 Teorema Fundamental do Cálculo (Parte 2)
 Se $f$ for contínua em $[a, b]$ e $F$ for qualquer primitiva de $f$ em $[a, b]$ (isto é, $F'(x) = f(x)$), então:
-$$\int_{a}^{b} f(x) \, dx = F(b) - F(a) = \left[ F(x) ight]_{a}^{b}$$
+$$\int_{a}^{b} f(x) \, dx = F(b) - F(a) = \left[ F(x) 
+ight]_{a}^{b}$$
 
 ---
 
@@ -72,7 +74,10 @@ $$u = x^2 + 1 \implies rac{du}{dx} = 2x \implies du = 2x \, dx \implies x \, dx
 
 #### 🔹 Passo 3: Substituição e Integração
 $$\int_{0}^{2} x \sqrt{x^2 + 1} \, dx = \int_{1}^{5} \sqrt{u} \cdot rac{du}{2} = rac{1}{2} \int_{1}^{5} u^{1/2} \, du$$
-$$rac{1}{2} \left[ rac{u^{3/2}}{3/2} ight]_{1}^{5} = rac{1}{2} \cdot rac{2}{3} \left[ u^{3/2} ight]_{1}^{5} = rac{1}{3} \left( 5^{3/2} - 1^{3/2} ight) = rac{5\sqrt{5} - 1}{3}$$
+$$rac{1}{2} \left[ rac{u^{3/2}}{3/2} 
+ight]_{1}^{5} = rac{1}{2} \cdot rac{2}{3} \left[ u^{3/2} 
+ight]_{1}^{5} = rac{1}{3} \left( 5^{3/2} - 1^{3/2} 
+ight) = rac{5\sqrt{5} - 1}{3}$$
 
 > [!tip] 💡 Macete do Professor (Dica do Quadro)
 > Sempre que alterar a variável para $u$, recalcule imediatamente os **limites de integração** para não precisar voltar para a variável $x$ no final!
@@ -126,7 +131,7 @@ flowchart TD
 - 🔗 **[Aula 02: Aplicações Práticas e Resolução de Problemas](nota-02)** — *Próxima aula: Áreas entre curvas e volume de sólidos de revolução.*
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="../index">Índice de Anotações</a></b></div>
-  <div>🏠 <b><a href="../index">Anotações da Disciplina</a></b></div>
-  <div>➡️ <b><a href="nota-02">Próxima Aula: 02</a></b></div>
+  <div>⬅️ <b><a href="/templates">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/templates">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/templates/modelocurso/aula-01-introducao-exemplo">Próxima Aula</a></b></div>
 </div>

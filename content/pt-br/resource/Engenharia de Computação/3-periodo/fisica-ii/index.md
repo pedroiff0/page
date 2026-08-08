@@ -21,8 +21,12 @@ tags:
 > - ● Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas;
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.26 - Física III](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.28 - Fenômenos de Transporte](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.26 - Física III](/pt-br/resource/engenharia-de-computação/4-periodo/fisica-iii)
+> - [CSECBJI.28 - Fenômenos de Transporte](/pt-br/resource/engenharia-de-computação/4-periodo/fenomenos-de-transporte)
 
 ## 📖 Conteúdo Programático
 1. Oscilações

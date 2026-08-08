@@ -23,7 +23,11 @@ tags:
 > - .
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.44 - Banco de Dados](pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados.md)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.44 - Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados)
 
 ## 📖 Conteúdo Programático
 1. Evolução Histórica dos Sistemas de Informação

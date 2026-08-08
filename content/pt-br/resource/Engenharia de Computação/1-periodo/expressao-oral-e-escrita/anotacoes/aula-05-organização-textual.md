@@ -11,9 +11,9 @@ tags:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="aula-04-variações-linguísticas">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../index">Índice da Disciplina</a></b></div>
-  <div>➡️ <b><a href="aula-06-coerência-e-coesão">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/1-periodo/expressao-oral-e-escrita/anotacoes/aula-04-variações-linguísticas">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/1-periodo/expressao-oral-e-escrita">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/1-periodo/expressao-oral-e-escrita/anotacoes/aula-06-coerência-e-coesão">Próxima Aula</a></b></div>
 </div>
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
@@ -89,7 +89,7 @@ flowchart TD
 - [ ] Exercício 02: Revisar os conceitos da bibliografia básica recomendada.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="aula-04-variações-linguísticas">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../index">Índice da Disciplina</a></b></div>
-  <div>➡️ <b><a href="aula-06-coerência-e-coesão">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/1-periodo/expressao-oral-e-escrita/anotacoes/aula-04-variações-linguísticas">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/1-periodo/expressao-oral-e-escrita">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/1-periodo/expressao-oral-e-escrita/anotacoes/aula-06-coerência-e-coesão">Próxima Aula</a></b></div>
 </div>

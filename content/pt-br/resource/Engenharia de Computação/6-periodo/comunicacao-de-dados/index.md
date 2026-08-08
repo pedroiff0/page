@@ -22,8 +22,12 @@ tags:
 > - ● Apresentar conceitos básicos de capacidade de canal, relação entre taxa de transmissão e largura de faixa, modulação analógica e digital, controle de erros, multiplexação e espalhamento espectral devem ser dominados pelo aluno
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.55 - Redes de Computadores I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.83 - Processamento de Sinais](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.55 - Redes de Computadores I](/pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i)
+> - [CSECBJI.83 - Processamento de Sinais](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais)
 
 ## 📖 Conteúdo Programático
 1. Transmissão de Dados

@@ -22,7 +22,11 @@ tags:
 > - Apresentar ao aluno maneiras práticas de se desenvolver e utilizar métodos numéricos, isso significa mostrar como usar esses métodos numéricos na calculadora e em um computador.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Números Binários e Análise de Erros

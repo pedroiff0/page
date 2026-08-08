@@ -21,8 +21,12 @@ tags:
 > - Conhecer as técnicas e formalismos fundamentais para analisar algoritmos
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.84 - Geoprocessamento](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.90 - Inteligência Artificial](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.84 - Geoprocessamento](/pt-br/resource/engenharia-de-computação/eletivas/geoprocessamento)
+> - [CSECBJI.90 - Inteligência Artificial](/pt-br/resource/engenharia-de-computação/eletivas/inteligencia-artificial)
 
 ## 📖 Conteúdo Programático
 1. Medidas de Complexidade

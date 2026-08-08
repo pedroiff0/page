@@ -24,9 +24,13 @@ tags:
 > - Entender endereçamento IP para configuração e planejamento de redes.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.59 - Redes de Computadores II](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.71 - Sistemas Distribuídos](pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos)
-> - [CSECBJI.86 - Algoritmos Distribuídos](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.59 - Redes de Computadores II](/pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii)
+> - [CSECBJI.71 - Sistemas Distribuídos](/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos)
+> - [CSECBJI.86 - Computação Paralela e Distribuída](/pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida)
 
 ## 📖 Conteúdo Programático
 1. Introdução as Redes de Computadores

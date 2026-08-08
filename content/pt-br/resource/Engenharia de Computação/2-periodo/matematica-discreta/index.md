@@ -21,8 +21,12 @@ tags:
 > - Fornecer aos alunos conhecimento das principais técnicas de matemática discreta e sua relação com a Computação.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos.md)
-> - [CSECBJI.40 - Linguagens Formais e Autômatos](pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.34 - Projeto e Análise de Algoritmos](/pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos)
+> - [CSECBJI.40 - Linguagens Formais e Autômatos](/pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos)
 
 ## 📖 Conteúdo Programático
 1. Teoria dos Conjuntos:

@@ -22,7 +22,11 @@ tags:
 > - Dar subsídios físicos sobre os conceitos da Teoria Eletromagnética da natureza, assim como aplicá-los nas atividades profissionais do engenheiro.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Eletrostática

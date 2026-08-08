@@ -21,7 +21,11 @@ tags:
 > - Compreender os principais conceitos e paradigmas das linguagens de programação permitindo a seleção de uma linguagem mais adequada para solução de um dado problema.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.45 - Programação Orientada a Objetos I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.45 - Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i)
 
 ## 📖 Conteúdo Programático
 1. Visão Geral de Linguagens de Programação

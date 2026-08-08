@@ -24,8 +24,12 @@ tags:
 > - Desenvolver a capacidade de utilizar, de maneira consciente, calculadoras e computadores na resolução de problemas.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.26 - Física III](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.31 - Cálculo IV](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.26 - Física III](/pt-br/resource/engenharia-de-computação/4-periodo/fisica-iii)
+> - [CSECBJI.31 - Cálculo IV](/pt-br/resource/engenharia-de-computação/4-periodo/calculo-iv)
 
 ## 📖 Conteúdo Programático
 1. Funções a valores vetoriais

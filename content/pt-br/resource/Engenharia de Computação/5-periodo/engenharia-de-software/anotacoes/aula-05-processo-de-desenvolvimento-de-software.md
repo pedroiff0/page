@@ -11,9 +11,9 @@ tags:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="aula-04-categorias-de-software">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../index">Índice da Disciplina</a></b></div>
-  <div>➡️ <b><a href="aula-06-histórico-da-evolução-do-software">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software/anotacoes/aula-04-categorias-de-software">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software/anotacoes/aula-06-histórico-da-evolução-do-software">Próxima Aula</a></b></div>
 </div>
 
 > [!info] 📌 Informações da Aula & Contexto do Quadro
@@ -89,7 +89,7 @@ flowchart TD
 - [ ] Exercício 02: Revisar os conceitos da bibliografia básica recomendada.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div>⬅️ <b><a href="aula-04-categorias-de-software">Aula Anterior</a></b></div>
-  <div>🏠 <b><a href="../index">Índice da Disciplina</a></b></div>
-  <div>➡️ <b><a href="aula-06-histórico-da-evolução-do-software">Próxima Aula</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software/anotacoes/aula-04-categorias-de-software">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software/anotacoes/aula-06-histórico-da-evolução-do-software">Próxima Aula</a></b></div>
 </div>

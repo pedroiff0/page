@@ -21,8 +21,12 @@ tags:
 > - Proporcionar conhecimentos introdutórios e essenciais de teoria e prática em Arquitetura e Organização de Computadores, bem como possibilitar ao aluno embasamento para as disciplinas seguintes do curso.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.61 - Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md)
-> - [CSECBJI.62 - Microcontroladores](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.61 - Arquitetura de Computadores](/pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores)
+> - [CSECBJI.62 - Microcontroladores](/pt-br/resource/engenharia-de-computação/8-periodo/microcontroladores)
 
 ## 📖 Conteúdo Programático
 1. Arquitetura Básica de Processador

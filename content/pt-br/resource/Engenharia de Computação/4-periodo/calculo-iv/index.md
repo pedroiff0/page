@@ -25,7 +25,11 @@ tags:
 > - Aplicar o cálculo de resíduos à obtenção da transformada inversa de Laplace;
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.83 - Processamento de Sinais](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.83 - Processamento de Sinais](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais)
 
 ## 📖 Conteúdo Programático
 1. Sequências e séries

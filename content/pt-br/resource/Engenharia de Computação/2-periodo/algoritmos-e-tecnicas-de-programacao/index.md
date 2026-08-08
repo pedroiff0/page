@@ -26,10 +26,14 @@ tags:
 > - Aplicar o raciocínio lógico-dedutivo na criação de programas computacionais em linguagem de Programação C.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.22 - Algoritmos e Estruturas de Dados I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.25 - Cálculo Numérico](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.38 - Paradigmas de Linguagem de Programação](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.45 - Programação Orientada a Objetos I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.22 - Algoritmos e Estruturas de Dados I](/pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i)
+> - [CSECBJI.25 - Cálculo Numérico](/pt-br/resource/engenharia-de-computação/4-periodo/calculo-numerico)
+> - [CSECBJI.38 - Paradigmas de Linguagem de Programação](/pt-br/resource/engenharia-de-computação/5-periodo/paradigmas-de-linguagem-de-programacao)
+> - [CSECBJI.45 - Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i)
 
 ## 📖 Conteúdo Programático
 1. Introdução a Algoritmos e Linguagens de Programação:

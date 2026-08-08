@@ -21,8 +21,12 @@ tags:
 > - ● Dar subsídios físicos sobre os conceitos da Teoria Eletromagnética da natureza, assim como aplicá-los nas atividades profissionais do engenheiro.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.33 - Eletricidade Aplicada](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.37 - Eletrônica Analógica](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.33 - Eletricidade Aplicada](/pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada)
+> - [CSECBJI.37 - Eletrônica Analógica](/pt-br/resource/engenharia-de-computação/5-periodo/eletronica-analogica)
 
 ## 📖 Conteúdo Programático
 1. Eletrostática

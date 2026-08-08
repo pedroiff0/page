@@ -13,9 +13,9 @@ tags:
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div><span></span></div>
-  <div>🏠 <b><a href="/pt-br/resource/latex/">Índice do Curso</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa">Próxima Aula: 02</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa">Próxima Aula</a></b></div>
 </div>
 
 > [!note] 📦 Material Didático e Recursos da Aula
@@ -74,7 +74,7 @@ Esta aula conecta-se transversalmente aos seguintes tópicos da formação em La
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **ABNT NBR 6023**: Informação e documentação — Referências — Elaboração. Rio de Janeiro: ABNT, 2018.
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
-  <div><span></span></div>
-  <div>🏠 <b><a href="/pt-br/resource/latex/">Índice do Curso</a></b></div>
-  <div>➡️ <b><a href="/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa">Próxima Aula: 02</a></b></div>
+  <div>⬅️ <b><a href="/pt-br/resource">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/latex/aula-02-objetivos-taxonomia-de-bloom-e-justificativa">Próxima Aula</a></b></div>
 </div>

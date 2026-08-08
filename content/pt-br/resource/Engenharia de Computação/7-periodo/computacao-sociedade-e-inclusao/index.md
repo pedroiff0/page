@@ -21,7 +21,11 @@ tags:
 > - Capacitar o aluno para entender as questões sociais, éticas, econômicas, culturais e políticas associadas ao uso do computador.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Fundamentação e Discussão Crítica acerca de Computação e Sociedade:

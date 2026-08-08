@@ -21,7 +21,11 @@ tags:
 > - Prover conhecimento e experiência em programação paralela para o desenvolvimento de software que tenha como requisito a sua execução em um ambiente paralelo e distribuído.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Sistemas de Trocas de Mensagens

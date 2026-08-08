@@ -21,7 +21,11 @@ tags:
 > - Aprofundar os conhecimentos acerca de programação orientado à objetos;
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.79 - Desenvolvimento Web](pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.79 - Desenvolvimento Web](/pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web)
 
 ## 📖 Conteúdo Programático
 1. -

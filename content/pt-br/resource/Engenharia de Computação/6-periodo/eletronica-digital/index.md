@@ -23,7 +23,11 @@ tags:
 > - ● Introduzir o funcionamento dos Flip-Flop.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.53 - Sistemas Digitais](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.53 - Sistemas Digitais](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais)
 
 ## 📖 Conteúdo Programático
 1. Sistema de Numeração

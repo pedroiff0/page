@@ -24,10 +24,14 @@ tags:
 > - Promover um entendimento claro dos conceitos do Cálculo que são fundamentais na resolução de problemas enfatizando a utilidade do cálculo por meio do estudo de regras de derivação, taxas relacionadas e traçados de curvas com aplicações do cotidiano.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.9 - Cálculo II](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.11 - Física I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.18 - Equações Diferenciais](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
-> - [CSECBJI.28 - Fenômenos de Transporte](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.9 - Cálculo II](/pt-br/resource/engenharia-de-computação/2-periodo/calculo-ii)
+> - [CSECBJI.11 - Física I](/pt-br/resource/engenharia-de-computação/2-periodo/fisica-i)
+> - [CSECBJI.18 - Equações Diferenciais](/pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais)
+> - [CSECBJI.28 - Fenômenos de Transporte](/pt-br/resource/engenharia-de-computação/4-periodo/fenomenos-de-transporte)
 
 ## 📖 Conteúdo Programático
 1. Números Reais:

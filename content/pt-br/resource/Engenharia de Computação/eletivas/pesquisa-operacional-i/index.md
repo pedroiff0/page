@@ -21,7 +21,11 @@ tags:
 > - Desenvolver habilidades de modelagem e análise de problemas decisórios relacionados à produção, transporte e estocagem de materiais; com o apoio de recursos de informática.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.89 - Pesquisa Operacional II](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.89 - Pesquisa Operacional II](/pt-br/resource/engenharia-de-computação/eletivas/pesquisa-operacional-ii)
 
 ## 📖 Conteúdo Programático
 1. Introdução à Pesquisa Operacional

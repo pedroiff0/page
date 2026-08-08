@@ -21,7 +21,11 @@ tags:
 > - Analisar as possíveis alternativas energéticas (renováveis e não renováveis) com base nas diferentes tecnologias aplicáveis e nos respectivos impactos ambientais, visando à minoração de problemas ambientais e sociais.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Energia x Recursos Naturais

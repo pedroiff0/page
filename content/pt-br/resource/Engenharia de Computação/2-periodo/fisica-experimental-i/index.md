@@ -21,7 +21,11 @@ tags:
 > - Identificar fenômenos naturais em termos de regularidade e quantificação, bem como interpretar princípios fundamentais que generalizem as relações entre eles e aplicá-los na resolução de problemas.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Algarismos Significativos – cálculo do valor de $\pi$;

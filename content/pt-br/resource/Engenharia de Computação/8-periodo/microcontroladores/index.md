@@ -22,7 +22,11 @@ tags:
 > - Fornecer conhecimentos necessários para analisar e projetar hardware e software de sistemas microcontrolados e suas interfaces
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.70 - Sistemas Embarcados](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.70 - Sistemas Embarcados](/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-embarcados)
 
 ## 📖 Conteúdo Programático
 1. Principais Características

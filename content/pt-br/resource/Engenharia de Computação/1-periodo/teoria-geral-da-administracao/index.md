@@ -21,7 +21,11 @@ tags:
 > - Capacitar o aluno a conhecer o contexto organizacional definindo as funções e estruturas administrativas bem como as ações que envolvem um planejamento empresarial.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. O Campo da Administração

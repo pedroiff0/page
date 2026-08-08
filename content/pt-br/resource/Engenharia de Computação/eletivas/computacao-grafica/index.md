@@ -21,7 +21,11 @@ tags:
 > - Apresentar uma visão geral das técnicas de computação gráfica. Capacitar os alunos a projetar soluções envolvendo o uso dessas técnicas.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.78 - Processamento de Imagens](pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.78 - Processamento de Imagens](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens)
 
 ## 📖 Conteúdo Programático
 1. Dispositivos Gráficos

@@ -25,7 +25,11 @@ tags:
 > - ● Construir abstrações para tipos de dados, usando os conceitos de classe, objeto, mensagem, herança e interface.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.51 - Programação Orientada a Objetos II](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.51 - Programação Orientada a Objetos II](/pt-br/resource/engenharia-de-computação/7-periodo/programacao-orientada-a-objetos-ii)
 
 ## 📖 Conteúdo Programático
 1. Classes e Objetos

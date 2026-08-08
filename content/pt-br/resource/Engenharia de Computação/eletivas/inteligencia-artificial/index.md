@@ -22,7 +22,11 @@ tags:
 > - bjetivos e as limitações da Inteligência Artificial (IA). Aplicar os conceitos e técnicas da Inteligência Artificial.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Histórico e Princípios de Inteligência Artificial (IA)

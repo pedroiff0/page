@@ -22,7 +22,11 @@ tags:
 > - Reconhecer os diferentes profissionais que atuam na educação de surdos: Professor de Libras, Instrutor, Tradutor e Intérprete de Libras/Língua Portuguesa e Professor Bilíngüe Libras/Língua Portuguesa.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Línguas de Sinais e Minoria Línguistica

@@ -22,7 +22,11 @@ tags:
 > - Resolver problemas.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.85 - Modelagem Ambiental](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.85 - Modelagem Ambiental](/pt-br/resource/engenharia-de-computação/eletivas/modelagem-ambiental)
 
 ## 📖 Conteúdo Programático
 1. Conceitos fundamentais em equações diferenciais

@@ -21,7 +21,11 @@ tags:
 > - Problematizar e contextualizar a crise da Ciência Moderna e das concepções dominantes de tecnologia, fazendo a crítica ao paradigma científico dominante.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> Nenhuma trava pendente.
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - *Nenhuma trava pendente.*
 
 ## 📖 Conteúdo Programático
 1. Teoria do conhecimento: arte, técnica, ciência e engenharia

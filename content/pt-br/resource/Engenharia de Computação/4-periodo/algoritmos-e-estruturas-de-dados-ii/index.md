@@ -22,8 +22,12 @@ tags:
 > - aluno tenha habilidade de resolver problemas computacionais de forma mais eficiente.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.34 - Projeto e Análise de Algoritmos](pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos.md)
-> - [CSECBJI.77 - Computação Gráfica](pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.34 - Projeto e Análise de Algoritmos](/pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos)
+> - [CSECBJI.77 - Computação Gráfica](/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica)
 
 ## 📖 Conteúdo Programático
 1. Ordenação Externa

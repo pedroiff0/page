@@ -23,7 +23,11 @@ tags:
 > - Redigir um projeto de pesquisa, de acordo com as normas técnicas de apresentação de trabalhos científicos.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.67 - Projeto Final de Curso I](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.67 - Projeto Final de Curso I](/pt-br/resource/engenharia-de-computação/9-periodo/projeto-final-de-curso-i)
 
 ## 📖 Conteúdo Programático
 1. As Explicações Teleológicas

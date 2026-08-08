@@ -23,7 +23,11 @@ tags:
 > - Estudar e compreender conceitos de teoria da computação.
 
 > [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
-> - [CSECBJI.48 - Compiladores](pt-br/resource/engenharia-de-computação/6-periodo/compiladores)
+> ### 📋 Pré-requisitos Exigidos:
+> - *Nenhum pré-requisito pendente.*
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.48 - Compiladores](/pt-br/resource/engenharia-de-computação/6-periodo/compiladores)
 
 ## 📖 Conteúdo Programático
 1. Linguagens Regulares
