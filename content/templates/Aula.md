@@ -1,59 +1,101 @@
 ---
-publish: true
-created:
-  "{ DATE:YYYY-MM-DD }":
-modified: 2026-07-23T17:52:46.322-03:00
-published: 2026-07-23T17:52:46.322-03:00
+publish: false
+draft: true
+title: "Aula 01: [NOME DO TÓPICO] — [NOME DA DISCIPLINA]"
+created: '2026-08-08'
+modified: '2026-08-08'
+password: "SEU_PASSWORD_AQUI"
 tags:
-  - 
-cssclasses:
-  - page-grid
-  - center-images
-titulo:
-  "{ value }":
-disciplina:
-conteudo:
-professor:
+  - aula
+  - engenharia-de-computacao
+  - anotacoes-de-quadro
+disciplina: "[NOME DA DISCIPLINA]"
+professor: "[NOME DO PROFESSOR]"
+conteudo: "[RESUMO EM UMA FRASE DO CONTEÚDO MINISTRADO NA AULA]"
 ---
 
-# 📚 {{value}}
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]/anotacoes/aula-00-[SLUG]">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]/anotacoes/aula-02-[SLUG]">Próxima Aula</a></b></div>
+</div>
 
-> [!note] Resumo
+> [!info] 📌 Informações da Aula & Contexto do Quadro
+> - **Disciplina:** [NOME DA DISCIPLINA]
+> - **Docente Responsável:** [NOME DO PROFESSOR]
+> - **Tópico Principal do Quadro:** [TÓPICO PRINCIPAL]
+> - **Status das Anotações:** 🟢 Completo (Copiado do Quadro + Revisão Pessoal)
 
-> [!info] Informações da aula
-> **Tema:**
-> **Professor:**
+> [!note] 📦 Material Didático e Recursos da Aula
+> ### 📑 Material da Aula
+> - 📄 **[Slides da Aula — Modelo Branco (PDF)](/assets/biblioteca/[SLUG-DISCIPLINA]/slides-aula-01-branco.pdf)** — *Apresentação em tema claro.*
+> - 📄 **[Slides da Aula — Modelo Preto (PDF)](/assets/biblioteca/[SLUG-DISCIPLINA]/slides-aula-01-preto.pdf)** — *Apresentação em tema escuro.*
+> - 📝 **[Notas de Aula em PDF (Apostila Institucional)](/assets/biblioteca/[SLUG-DISCIPLINA]/notes-aula-01.pdf)** — *Material de apoio oficial.*
 
----
-
-## 🎯 Visão geral
-
-### 📑 Tópicos abordados
-
-1.
-
----
-
-## ⚠️ Pontos de atenção
-
-> [!important] Atenção
-> _(nenhuma anotação registrada ainda)_
-
----
-
-## 📌 Conceitos-chave
-
--
+## 📋 Sumário Interativo
+- [📍 1. Anotações do Quadro: Definições & Teoremas](#-1-anotações-do-quadro-definições--teoremas)
+- [🧮 2. Exemplo do Quadro Resolvido Passo a Passo](#-2-exemplo-do-quadro-resolvido-passo-a-passo)
+- [📊 3. Esquema Visual & Fluxograma (Mermaid)](#-3-esquema-visual--fluxograma-mermaid)
+- [🧠 4. Resumo Pessoal & Macetes do Professor](#-4-resumo-pessoal--macetes-do-professor)
+- [📝 5. Dúvidas & Exercícios Recomendados para Casa](#-5-dúvidas--exercícios-recomendados-para-casa)
 
 ---
 
-## ❓ Perguntas e discussões da aula
+## 📌 1. Anotações do Quadro: Definições & Teoremas
 
-> [!question] Perguntas
-> _(nenhuma pergunta registrada ainda)_
+### 📐 Definição Fundamental: [NOME DO CONCEITO]
+No contexto de **[NOME DA DISCIPLINA]**, a formulação fundamental estabelece que:
+
+$$\mathcal{F}(x) = \sum_{k=1}^{n} \alpha_k \cdot \phi_k(x) + \int_{0}^{\infty} \lambda(t) \, dt$$
 
 ---
 
-## 🔗 Referências e correlatos
+## 🧮 2. Exemplo do Quadro Resolvido Passo a Passo
 
--
+### ✏️ Exercício do Quadro
+Desenvolva a solução analítica para a aplicação de **[CONCEITO]**:
+
+1. **Passo 1:** Identificar os parâmetros de entrada e restrições do sistema.
+2. **Passo 2:** Aplicar as equações características da ementa.
+3. **Passo 3:** Obter o resultado e validar a estabilidade técnica.
+
+> [!tip] 💡 Macete do Professor (Dica de Prova)
+> Sempre verifique as condições de contorno e unidades antes de simplificar as equações na prova!
+
+> [!warning] ⚠️ Erro Comum em Provas (Pegadinha)
+> Cuidado com a conversão de unidades no Sistema Internacional (SI) e a prioridade dos operadores.
+
+---
+
+## 📊 3. Esquema Visual & Fluxograma (Mermaid)
+
+```mermaid
+flowchart TD
+    A[Entrada: Dados do Problema] --> B[Processamento Analítico]
+    B --> C{Validação das Restrições?}
+    C -- Sim --> D[Resultado Otimizado]
+    C -- Não --> E[Ajuste de Parâmetros]
+    E --> B
+```
+
+---
+
+## 🧠 4. Resumo Pessoal & Macetes do Professor
+
+| Tópico do Quadro | Princípio Ativo | Atenção Especial |
+| :--- | :--- | :--- |
+| **[TÓPICO 1]** | Formulação direta de [CONCEITO] | Verificar condições de contorno |
+| **[TÓPICO 2]** | Otimização paramétrica | Atenção aos sinais e unidades |
+
+---
+
+## 📝 5. Dúvidas & Exercícios Recomendados para Casa
+
+- [ ] Exercício 01: Resolver a lista do quadro sobre **[CONCEITO]**.
+- [ ] Exercício 02: Revisar os conceitos da bibliografia básica recomendada.
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
+  <div>⬅️ <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]/anotacoes/aula-00-[SLUG]">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG-DISCIPLINA]/anotacoes/aula-02-[SLUG]">Próxima Aula</a></b></div>
+</div>

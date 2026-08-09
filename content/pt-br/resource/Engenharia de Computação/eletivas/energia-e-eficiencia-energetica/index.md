@@ -75,4 +75,4 @@ tags:
 > 6. REIS, L. B. Geração de energia elétrica: tecnologia, inserção ambiental, planejamento, peração e análise de viabilidade. 3ª Edição. São Paulo: Manole, 2017.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/energia-e-eficiencia-energetica/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/eletivas/energia-e-eficiencia-energetica/anotacoes)**

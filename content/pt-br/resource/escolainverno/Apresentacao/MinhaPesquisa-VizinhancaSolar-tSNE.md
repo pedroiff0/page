@@ -142,8 +142,8 @@ A ideia daqui pra frente é usar **clusterização baseada em densidade** (como 
 
 ## 🔗 Referências e correlatos
 
-- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — conceitos de populações estelares, metalicidade e classificação espectral usados nesta pesquisa
-- [Computação — Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02) — aprendizado de máquina não supervisionado (t-SNE)
-- [Resumo Geral](Escola-de-Inverno.md) — panorama geral da Escola de Inverno
-- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — estado atual e completo desta pesquisa
-- [Escola de Inverno ON - 2026](pt-br/media/2026/escolainverno-2026) — página de mídia desta participação
+- [Arqueologia Galáctica — Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — conceitos de populações estelares, metalicidade e classificação espectral usados nesta pesquisa
+- [Computação — Aula 02](/pt-br/resource/escolainverno/computação/computacao-aula02) — aprendizado de máquina não supervisionado (t-SNE)
+- [Resumo Geral](/pt-br/resource/escolainverno/Escola-de-Inverno) — panorama geral da Escola de Inverno
+- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — estado atual e completo desta pesquisa
+- [Escola de Inverno ON - 2026](/pt-br/media/2026/escolainverno-2026) — página de mídia desta participação

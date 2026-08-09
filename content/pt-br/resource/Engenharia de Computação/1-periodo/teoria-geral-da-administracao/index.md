@@ -76,4 +76,4 @@ tags:
 > 5. TIDD, J., BESSANT, J. Gestão da Inovação: Integrando Tecnologia. 5ª Edição. Porto Alegre: Bookman,
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/teoria-geral-da-administracao/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/1-periodo/teoria-geral-da-administracao/anotacoes)**

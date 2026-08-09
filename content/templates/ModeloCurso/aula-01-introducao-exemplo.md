@@ -1,5 +1,6 @@
 ---
-publish: true
+publish: false
+draft: true
 title: "Aula 01: Introdução e Fundamentação Teórica"
 created: '2026-08-04'
 modified: '2026-08-04'

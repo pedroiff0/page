@@ -18,7 +18,7 @@ _Borbolato, Lais. (2025)_
 
 Combina dados astrométricos do Gaia, abundâncias de APOGEE e LAMOST, e idades StarHorse para mapear a evolução da Via Láctea e o dilema entre disco grosso e fino (possível origem em fusão gasosa-rica como Gaia-Sausage-Enceladus, filamentos cósmicos ou migração radial). Relevante para seu projeto: contexto de formação do disco e migração que o GAM do Dantas usa.
 
-[Ver artigo original](https://doi.org/10.3847/1538-4357/ae0c96) · [📄 Baixar PDF](assets/articles/Borbolato2025.pdf)
+[Ver artigo original](https://doi.org/10.3847/1538-4357/ae0c96) · [📄 Baixar PDF](/assets/articles/Borbolato2025.pdf)
 
 ## Citação
 

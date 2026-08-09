@@ -75,4 +75,4 @@ tags:
 > 5. SPIEGEL, M. R., WREDE, R. C. Cálculo Avançado. 2ª Edição. Porto Alegre: Bookman. 2003.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/processamento-de-sinais/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais/anotacoes)**

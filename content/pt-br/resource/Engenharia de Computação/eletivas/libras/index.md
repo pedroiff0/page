@@ -72,4 +72,4 @@ tags:
 > 5. \_\_\_\_\_\_. Atualidade da educação bilíngue para surdos: interfaces entre pedagogia e linguística. 3ª Edição. Porto Alegre, RS: Mediação, 2012. Vol 2.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/libras/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/eletivas/libras/anotacoes)**

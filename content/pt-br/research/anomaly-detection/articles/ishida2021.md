@@ -18,7 +18,7 @@ _Ishida, E.~E.~O. (2021)_
 
 Apresenta a primeira evidência de que técnicas de aprendizado adaptativo (active learning) aumentam a descoberta de objetos incomuns na astronomia. É DIRETO ao tema do seu projeto: detectar estrelas atípicas (anomalias) de forma eficiente.
 
-[Ver artigo original](https://doi.org/10.1051/0004-6361/202037709) · [📄 Baixar PDF](assets/articles/Ishida2021.pdf)
+[Ver artigo original](https://doi.org/10.1051/0004-6361/202037709) · [📄 Baixar PDF](/assets/articles/Ishida2021.pdf)
 
 ## Citação
 

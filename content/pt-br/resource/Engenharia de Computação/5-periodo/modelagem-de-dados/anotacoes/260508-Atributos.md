@@ -77,30 +77,3 @@ Um vigilante é substituído por nenhum ou por um vigilante
 
 > [!PDF|important] [[Modelagem_Conceitual___Parte_I (1).pdf#page=86&selection=17,0,35,27&color=important|Modelagem_Conceitual___Parte_I (1), p.82]]
 > > As três alternativas de classificação são: • 1:1 (leia-se um para um) • 1:N (leia-se um para muitos) • M: N (lei-se muitos para muitos)
-
-## 📝 Anotações da Disciplina
-
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/5-periodo/modelagem-de-dados/anotacoes")'
-    - 'file.ext == "md"'
-    - 'file.name != "index"'
-formulas:
-  anotacao: 'link(file.path, note.title)'
-properties:
-  formula.anotacao:
-    displayName: Anotação / Documento
-  note.created:
-    displayName: Data de Criação
-views:
-  - type: table
-    name: Anotações da Disciplina
-    order:
-      - formula.anotacao
-      - note.created
-    sort:
-      - property: file.name
-        direction: ASC
-```
-

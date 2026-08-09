@@ -85,7 +85,7 @@ Uma órbita simples, sem barra, é regular e previsível. A mesma órbita, com a
 - Documentação do [galpy](https://docs.galpy.org/) — `DehnenBarPotential`, `NonInertialFrameForce`
 - Pérez-Villegas et al. (2017) — modelo de barra longa e lenta, ressonância de corrotação
 - Dehnen (2000) — modelo de barra curta e rápida, Ressonância Externa de Lindblad
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 10 — Integração de Órbitas com galpy](pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — pré-requisito direto: fricção dinâmica e potenciais "vivos" (`MovingObjectPotential`), aqui estendidos à LMC
-- [Escola de Inverno — Arqueologia Galáctica, Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — Gaia-Sausage-Enceladus como o tipo de assinatura extragaláctica que precisa ser distinguida de estrutura secular gerada pela barra
-- [Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica](pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee) — as mesmas integrais de movimento aplicadas a mais de um milhão de estrelas reais (APOGEE DR19)
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 10 — Integração de Órbitas com galpy](/pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — pré-requisito direto: fricção dinâmica e potenciais "vivos" (`MovingObjectPotential`), aqui estendidos à LMC
+- [Escola de Inverno — Arqueologia Galáctica, Aula 03](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — Gaia-Sausage-Enceladus como o tipo de assinatura extragaláctica que precisa ser distinguida de estrutura secular gerada pela barra
+- [Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica](/pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee) — as mesmas integrais de movimento aplicadas a mais de um milhão de estrelas reais (APOGEE DR19)

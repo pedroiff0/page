@@ -57,7 +57,7 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 
 **Livros abertos (licença pública):**
 
-- **[Introdução a Banco de Dados](assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** (Rede e-Tec Brasil) — os capítulos de modelo ER e normalização cobrem o núcleo desta trilha, em português e com exemplos acessíveis. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Introdução a Banco de Dados](/assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** (Rede e-Tec Brasil) — os capítulos de modelo ER e normalização cobrem o núcleo desta trilha, em português e com exemplos acessíveis. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
@@ -71,5 +71,5 @@ Casos que os livros simplificam: dados temporais (histórico de preços, vigênc
 
 ## Conexão com as disciplinas do curso
 
-- [Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md) — a disciplina que este guia acompanha diretamente: ER, mapeamento e normalização.
-- [Banco de Dados](pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados.md) — onde o modelo vira sistema: SQL, transações e a implementação de tudo que foi projetado aqui.
+- [Modelagem de Dados](/pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados) — a disciplina que este guia acompanha diretamente: ER, mapeamento e normalização.
+- [Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados) — onde o modelo vira sistema: SQL, transações e a implementação de tudo que foi projetado aqui.

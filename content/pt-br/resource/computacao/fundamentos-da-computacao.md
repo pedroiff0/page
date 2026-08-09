@@ -59,8 +59,8 @@ O que dominar: uma primeira noção de sistema operacional, de redes e de como a
 
 ### Livros e apostilas abertas
 
-- **[Fundamentos da Computação](assets/biblioteca/computacao/fundamentos-computacao-cc.pdf)** (livro aberto, licença Creative Commons) — cobre representação de informação, hardware e uma introdução a algoritmos. Bom primeiro contato em português.
-- **[Introdução à Computação](assets/biblioteca/computacao/introducao-a-computacao-etec.pdf)** (Rede e-Tec/MEC) — apostila do sistema Rede e-Tec Brasil, disponível no portal público [proedu.rnp.br](https://proedu.rnp.br). Linguagem acessível, pensada pra quem está começando do zero.
+- **[Fundamentos da Computação](/assets/biblioteca/computacao/fundamentos-computacao-cc.pdf)** (livro aberto, licença Creative Commons) — cobre representação de informação, hardware e uma introdução a algoritmos. Bom primeiro contato em português.
+- **[Introdução à Computação](/assets/biblioteca/computacao/introducao-a-computacao-etec.pdf)** (Rede e-Tec/MEC) — apostila do sistema Rede e-Tec Brasil, disponível no portal público [proedu.rnp.br](https://proedu.rnp.br). Linguagem acessível, pensada pra quem está começando do zero.
 
 ### Bibliografia clássica (consultar na biblioteca)
 
@@ -75,4 +75,4 @@ O que dominar: uma primeira noção de sistema operacional, de redes e de como a
 
 ## Conexão com as disciplinas do curso
 
-- [Fundamentos de Computação](fundamentos-de-computacao/index) — a disciplina do 1º período que cobre exatamente esta trilha; este material serve de apoio direto a ela.
+- [Fundamentos de Computação](/pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao) — a disciplina do 1º período que cobre exatamente esta trilha; este material serve de apoio direto a ela.

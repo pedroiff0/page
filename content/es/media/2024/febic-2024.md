@@ -30,8 +30,8 @@ type: blog
 ## 🔗 Referencias y correcciones
 
 - Fuente:[IFF — Proyecto IFF Buen Jesús es premiado en evento nacional](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-premiado-em-evento-nacional)
-- [Simulando el Impacto de Satélites en Observaciones Astronómicas](es/research/satellite-trail-removal)— página de búsqueda completa de este proyecto
-- [MCTIA 2025](es/media/2025/mctia-2025)— incluso proyecto, un año después, ya con 1o lugar
+- [Simulando el Impacto de Satélites en Observaciones Astronómicas](/es/research/satellite-trail-removal)— página de búsqueda completa de este proyecto
+- [MCTIA 2025](/es/media/2025/mctia-2025)— incluso proyecto, un año después, ya con 1o lugar
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

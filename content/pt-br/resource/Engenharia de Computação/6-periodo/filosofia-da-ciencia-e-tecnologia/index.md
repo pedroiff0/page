@@ -64,4 +64,4 @@ tags:
 > 7. LIVA, A. Filosofia da Ciência. Rio de Janeiro: Zahar, 2003.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/6-periodo/filosofia-da-ciencia-e-tecnologia/anotacoes)**

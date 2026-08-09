@@ -18,7 +18,7 @@ _Majewski, Steven R. (2017)_
 
 Descreve o survey APOGEE (SDSS-III): 146.000 estrelas com espectros infravermelhos de alta resolução (R~22.500) e alto S/N. Apresenta design, seleção de alvos, redução e produtos. É outra fonte de abundâncias químicas usada para caracterizar populações estelares.
 
-[Ver artigo original](https://doi.org/10.3847/1538-3881/aa784d) · [📄 Baixar PDF](assets/articles/Majewski2017.pdf)
+[Ver artigo original](https://doi.org/10.3847/1538-3881/aa784d) · [📄 Baixar PDF](/assets/articles/Majewski2017.pdf)
 
 ## Citação
 

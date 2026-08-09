@@ -115,4 +115,4 @@ tags:
 > 5. PERES, M. P., RIBEIRO, N. I. A. Curso de Desenho Técnico e AutoCAD. Pearson, 2013
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/introducao-a-engenharia/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/1-periodo/introducao-a-engenharia/anotacoes)**

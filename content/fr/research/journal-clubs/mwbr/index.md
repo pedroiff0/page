@@ -7,7 +7,7 @@ published: 2026-08-01T20:04:12.171-03:00
 ---
 
 > [!note] Résumé
-> Articles discutés dans le journal club du **MWBR**, groupe de recherche en Voie lactée, archéologie galactique et populations d'étoiles. Voir [modèle de chaque entrée](pt-br/research/journal-clubs#padrão-de-cada-entrada).
+> Articles discutés dans le journal club du **MWBR**, groupe de recherche en Voie lactée, archéologie galactique et populations d'étoiles. Voir [modèle de chaque entrée](/pt-br/research/journal-clubs#padrão-de-cada-entrada).
 
  Le tableau suivant est généré à partir de la matière première des notes d'article de ce dossier lui-même - une nouvelle note apparaît seule dans la prochaine construction, sans modifier cette page.
 
@@ -56,9 +56,9 @@ published: 2026-08-01T20:04:12.171-03:00
 
 ## 🔗 Références et corrections
 
-- [Clubs de Journal - aperçu](fr/research/journal-clubs)
-- [ENGCOMP](fr/research/journal-clubs/engcomp)
-- [Recherche - aperçu](fr/research)
+- [Clubs de Journal - aperçu](/fr/research/journal-clubs)
+- [ENGCOMP](/fr/research/journal-clubs/engcomp)
+- [Recherche - aperçu](/fr/research)
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

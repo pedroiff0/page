@@ -7,7 +7,7 @@ published: 2026-08-01T20:04:12.171-03:00
 ---
 
 > [!note] Resumo
-> Artigos discutidos no journal club do **MWBR**, grupo de pesquisa em Via Láctea, arqueologia galáctica e populações estelares. Ver o [padrão de cada entrada](pt-br/research/journal-clubs#padrão-de-cada-entrada).
+> Artigos discutidos no journal club do **MWBR**, grupo de pesquisa em Via Láctea, arqueologia galáctica e populações estelares. Ver o [padrão de cada entrada](/pt-br/research/journal-clubs#padrão-de-cada-entrada).
 
 A tabela abaixo é gerada a partir do frontmatter das próprias notas de artigo desta pasta — uma nota nova aparece sozinha no próximo build, sem editar esta página.
 
@@ -56,6 +56,6 @@ views:
 
 ## 🔗 Referências e correlatos
 
-- [Journal Clubs — visão geral](pt-br/research/journal-clubs)
-- [ENGCOMP](pt-br/research/journal-clubs/engcomp)
-- [Pesquisa — visão geral](pt-br/research)
+- [Journal Clubs — visão geral](/pt-br/research/journal-clubs)
+- [ENGCOMP](/pt-br/research/journal-clubs/engcomp)
+- [Pesquisa — visão geral](/pt-br/research)

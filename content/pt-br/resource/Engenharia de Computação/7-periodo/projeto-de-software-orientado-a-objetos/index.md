@@ -78,4 +78,4 @@ tags:
 > 4. GOES, W. M. Aprenda UML por Meio de Estudos de Caso. São Paulo: Novatec, 2014.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/7-periodo/projeto-de-software-orientado-a-objetos/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos/anotacoes)**

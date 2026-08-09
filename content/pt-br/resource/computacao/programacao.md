@@ -59,13 +59,13 @@ O que dominar: classes, encapsulamento, herança, polimorfismo e interfaces (em 
 
 ### Livros e apostilas abertas
 
-- **[Lógica de Programação](assets/biblioteca/computacao/logica-de-programacao-etec.pdf)** e **[Técnicas de Programação](assets/biblioteca/computacao/tecnicas-de-programacao-ifro.pdf)** (Rede e-Tec/MEC) — a dupla de apostilas do portal público [proedu.rnp.br](https://proedu.rnp.br) pra fase inicial: algoritmos, pseudocódigo e primeiras estruturas.
-- **[Fundamentos de Lógica e Algoritmo](assets/biblioteca/computacao/fundamentos-logica-algoritmo-etec.pdf)** (Escola Técnica Aberta) — alternativa/complemento pra etapa 1, também via [proedu.rnp.br](https://proedu.rnp.br).
-- **[Linguagem C Descomplicada](assets/biblioteca/computacao/linguagem-c-descomplicada-backes.pdf)** (Prof. André Backes, UFU) — apostila gratuita que virou referência nacional pra aprender C; didática forte em ponteiros e alocação dinâmica, exatamente onde os livros tradicionais são áridos.
-- **[Apostila C++](assets/biblioteca/computacao/apostila-cpp-unesp.pdf)** (Prof. Alan Panosso, UNESP) — material gratuito pra transição de C pra C++.
-- **[Notas de Aula C++](assets/biblioteca/computacao/notas-aula-cpp-ufpr.pdf)** (Prof. Armando Delgado, UFPR) — notas de curso abertas, boas como segunda referência de C++.
-- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)**, 2 volumes (Rede e-Tec) — cobre as estruturas fundamentais da etapa 3 em português acessível, via [proedu.rnp.br](https://proedu.rnp.br).
-- **[Introdução à POO com Java](assets/biblioteca/computacao/intro-poo-java-etec.pdf)** (Rede e-Tec) — apoio direto às disciplinas de orientação a objetos, via [proedu.rnp.br](https://proedu.rnp.br).
+- **[Lógica de Programação](/assets/biblioteca/computacao/logica-de-programacao-etec.pdf)** e **[Técnicas de Programação](/assets/biblioteca/computacao/tecnicas-de-programacao-ifro.pdf)** (Rede e-Tec/MEC) — a dupla de apostilas do portal público [proedu.rnp.br](https://proedu.rnp.br) pra fase inicial: algoritmos, pseudocódigo e primeiras estruturas.
+- **[Fundamentos de Lógica e Algoritmo](/assets/biblioteca/computacao/fundamentos-logica-algoritmo-etec.pdf)** (Escola Técnica Aberta) — alternativa/complemento pra etapa 1, também via [proedu.rnp.br](https://proedu.rnp.br).
+- **[Linguagem C Descomplicada](/assets/biblioteca/computacao/linguagem-c-descomplicada-backes.pdf)** (Prof. André Backes, UFU) — apostila gratuita que virou referência nacional pra aprender C; didática forte em ponteiros e alocação dinâmica, exatamente onde os livros tradicionais são áridos.
+- **[Apostila C++](/assets/biblioteca/computacao/apostila-cpp-unesp.pdf)** (Prof. Alan Panosso, UNESP) — material gratuito pra transição de C pra C++.
+- **[Notas de Aula C++](/assets/biblioteca/computacao/notas-aula-cpp-ufpr.pdf)** (Prof. Armando Delgado, UFPR) — notas de curso abertas, boas como segunda referência de C++.
+- **[Estrutura de Dados](/assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)**, 2 volumes (Rede e-Tec) — cobre as estruturas fundamentais da etapa 3 em português acessível, via [proedu.rnp.br](https://proedu.rnp.br).
+- **[Introdução à POO com Java](/assets/biblioteca/computacao/intro-poo-java-etec.pdf)** (Rede e-Tec) — apoio direto às disciplinas de orientação a objetos, via [proedu.rnp.br](https://proedu.rnp.br).
 
 ## 🔗 Referências externas
 
@@ -78,9 +78,9 @@ O que dominar: classes, encapsulamento, herança, polimorfismo e interfaces (em 
 
 ## Conexão com as disciplinas do curso
 
-- [Algoritmos e Técnicas de Programação](algoritmos-e-tecnicas-de-programacao/index) — etapas 1 e 2 da trilha.
-- [Algoritmos e Estruturas de Dados I](algoritmos-e-estruturas-de-dados-i/index) — início da etapa 3: listas, pilhas, filas.
-- [Algoritmos e Estruturas de Dados II](algoritmos-e-estruturas-de-dados-ii/index) — continuação da etapa 3: árvores, hash, ordenação.
-- [Paradigmas de Linguagem de Programação](paradigmas-de-linguagem-de-programacao/index) — a visão comparada de paradigmas da etapa 4.
-- [Programação Orientada a Objetos I](programacao-orientada-a-objetos-i/index) — os pilares de OO na prática, com Java.
-- [Programação Orientada a Objetos II](programacao-orientada-a-objetos-ii/index) — aprofundamento: design, interfaces e projetos maiores.
+- [Algoritmos e Técnicas de Programação](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao) — etapas 1 e 2 da trilha.
+- [Algoritmos e Estruturas de Dados I](/pt-br/resource/engenharia-de-computação/3-periodo/algoritmos-e-estruturas-de-dados-i) — início da etapa 3: listas, pilhas, filas.
+- [Algoritmos e Estruturas de Dados II](/pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii) — continuação da etapa 3: árvores, hash, ordenação.
+- [Paradigmas de Linguagem de Programação](/pt-br/resource/engenharia-de-computação/5-periodo/paradigmas-de-linguagem-de-programacao) — a visão comparada de paradigmas da etapa 4.
+- [Programação Orientada a Objetos I](/pt-br/resource/engenharia-de-computação/6-periodo/programacao-orientada-a-objetos-i) — os pilares de OO na prática, com Java.
+- [Programação Orientada a Objetos II](/pt-br/resource/engenharia-de-computação/7-periodo/programacao-orientada-a-objetos-ii) — aprofundamento: design, interfaces e projetos maiores.

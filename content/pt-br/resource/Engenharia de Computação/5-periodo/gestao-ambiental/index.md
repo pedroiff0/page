@@ -96,4 +96,4 @@ tags:
 > 9. SEIFFERT, M. E. B. ISO 14001 Sistemas de Gestão Ambiental: Implantação Objetiva e Econômica. 5ª Edição. São Paulo, Atlas, 2017.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/gestao-ambiental/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/5-periodo/gestao-ambiental/anotacoes)**

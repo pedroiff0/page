@@ -93,4 +93,4 @@ tags:
 > 12. Negócios de impacto socioambiental no Brasil: como empreender, financiar e apoiar / Organizadores: Edgard Barki, Graziella Maria Comini, Haroldo da Gama Torres. - Rio de Janeiro : FGV Editora, 2019. 376 p.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/empreendedorismo/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/9-periodo/empreendedorismo/anotacoes)**

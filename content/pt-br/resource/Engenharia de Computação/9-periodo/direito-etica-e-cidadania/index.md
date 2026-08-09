@@ -92,4 +92,4 @@ tags:
 > 15. VALLS, Álvaro L. M. O que é Ética. São Paulo: Brasiliense, 2002.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/direito-etica-e-cidadania/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/9-periodo/direito-etica-e-cidadania/anotacoes)**

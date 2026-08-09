@@ -56,7 +56,7 @@ Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, pr
 
 **Livros abertos (licença pública):**
 
-- **[Protocolos e Serviços de Redes](assets/biblioteca/computacao/protocolos-servicos-redes-etec.pdf)** (Escola Técnica Aberta) — cobre a transição da transmissão de dados para os protocolos de rede; útil como leitura de ligação entre esta disciplina e Redes I. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Protocolos e Serviços de Redes](/assets/biblioteca/computacao/protocolos-servicos-redes-etec.pdf)** (Escola Técnica Aberta) — cobre a transição da transmissão de dados para os protocolos de rede; útil como leitura de ligação entre esta disciplina e Redes I. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
@@ -70,5 +70,5 @@ Detecção e correção de erros (paridade, CRC, Hamming), controle de fluxo, pr
 
 ## Conexão com as disciplinas do curso
 
-- [Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) — a disciplina que este guia acompanha diretamente: sinais, meios, modulação e enlace.
-- [Processamento de Sinais](processamento-de-sinais/index) — eletiva que aprofunda a matemática dos sinais (Fourier, filtragem, amostragem) por trás de tudo que se estuda aqui.
+- [Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados) — a disciplina que este guia acompanha diretamente: sinais, meios, modulação e enlace.
+- [Processamento de Sinais](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais) — eletiva que aprofunda a matemática dos sinais (Fourier, filtragem, amostragem) por trás de tudo que se estuda aqui.

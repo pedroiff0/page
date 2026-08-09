@@ -65,9 +65,9 @@ tags:
 
 ## 🔗 Références et corrections
 
-- [ENGCOMP - articles déjà discutés](fr/research/journal-clubs/engcomp)
-- [Tableau de bord du club](fr/research/journal-clubs/engcomp/dashboard)
-- [Clubs de Journal - aperçu](fr/research/journal-clubs)
+- [ENGCOMP - articles déjà discutés](/fr/research/journal-clubs/engcomp)
+- [Tableau de bord du club](/fr/research/journal-clubs/engcomp/dashboard)
+- [Clubs de Journal - aperçu](/fr/research/journal-clubs)
 - [Taxonomie complète des catégories arXiv](https://arxiv.org/category_taxonomy)- la liste officielle, si vous voulez proposer un nouvel axe.
 
 > [!abstract] Avis de traduction automatique

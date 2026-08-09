@@ -1,5 +1,6 @@
 ---
 publish: false
+draft: true
 title: "{{value}} - 2026"
 photoFolder: 
 created: {{DATE:YYYY-MM-DD}}

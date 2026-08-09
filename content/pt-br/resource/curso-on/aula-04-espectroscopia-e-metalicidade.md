@@ -111,8 +111,8 @@ Também é possível estimar metalicidade a partir de **fotometria** (cores), se
 
 - Beers & Christlieb (2005) — estrelas pobres em metais
 - Babusiaux et al. (2018) — metalicidade fotométrica com dados Gaia
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 03 — Magnitudes, Cores e Classificação Espectral](pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral)
-- [Aula 05 — Avermelhamento, Extinção e IMF](pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf)
-- [Escola de Inverno — Arqueologia Galáctica, Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — notação \[Fe/H] e \[α/Fe] aplicada à separação de populações
-- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — minha pesquisa usa espectros GALAH DR4 processados com os mesmos princípios vistos aqui
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 03 — Magnitudes, Cores e Classificação Espectral](/pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral)
+- [Aula 05 — Avermelhamento, Extinção e IMF](/pt-br/resource/curso-on/aula-05-avermelhamento-extincao-e-imf)
+- [Escola de Inverno — Arqueologia Galáctica, Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — notação \[Fe/H] e \[α/Fe] aplicada à separação de populações
+- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — minha pesquisa usa espectros GALAH DR4 processados com os mesmos princípios vistos aqui

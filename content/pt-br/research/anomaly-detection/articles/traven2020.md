@@ -18,7 +18,7 @@ _Traven, G. (2020)_
 
 Obtém uma grande amostra de binárias espectroscópicas de linha dupla (SB2) a partir do GALAH combinando espectros, fotometria e astrometria. Importante para o seu projeto: binárias podem aparecer como 'anomalias' falsas e precisam ser tratadas/removidas.
 
-[Ver artigo original](https://doi.org/10.1051/0004-6361/202037484) · [📄 Baixar PDF](assets/articles/Traven2020.pdf)
+[Ver artigo original](https://doi.org/10.1051/0004-6361/202037484) · [📄 Baixar PDF](/assets/articles/Traven2020.pdf)
 
 ## Citação
 

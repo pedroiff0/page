@@ -116,7 +116,7 @@ A partir da métrica FLRW e das equações de campo de Einstein, obtemos duas eq
 
 Combinando essas equações com a **equação de estado** $p = w\rho c^2$ (que relaciona pressão $p$ e densidade de energia $\rho$ para cada componente do Universo, via o parâmetro $w$) e a **equação do fluido** (conservação de energia em um Universo em expansão), conseguimos modelar como cada componente (matéria, radiação, energia escura) evolui ao longo do tempo cósmico.
 
-A **energia escura** é o componente com $w \approx -1$ que faz a taxa de expansão de Friedmann **aumentar** com o tempo — a origem da aceleração cósmica observada (ver [nota de Cosmologia](pt-br/resource/escolainverno/cosmologia)). Esse é o ingrediente central do **modelo $\Lambda$CDM**.
+A **energia escura** é o componente com $w \approx -1$ que faz a taxa de expansão de Friedmann **aumentar** com o tempo — a origem da aceleração cósmica observada (ver [nota de Cosmologia](/pt-br/resource/escolainverno/cosmologia)). Esse é o ingrediente central do **modelo $\Lambda$CDM**.
 
 ---
 
@@ -166,8 +166,8 @@ Atualmente, os **limites superiores cosmológicos** sobre $\sum m_\nu$ estão nu
 
 ## 🔗 Referências e correlatos
 
-- [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o modelo $\Lambda$CDM e os candidatos a matéria escura citados aqui
-- [Cosmologia — Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — a mesma métrica FLRW, motivada pelo Princípio Cosmológico
-- [OASI](pt-br/resource/escolainverno/palestras/oasi)
-- [Bolsas](pt-br/resource/escolainverno/palestras/bolsas)
-- [Raio-X](pt-br/resource/escolainverno/palestras/raiox) — outra palestra que conecta física fundamental (nucleossíntese) à escala de aglomerados de galáxias
+- [Cosmologia — Aula 01](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o modelo $\Lambda$CDM e os candidatos a matéria escura citados aqui
+- [Cosmologia — Aula 02](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — a mesma métrica FLRW, motivada pelo Princípio Cosmológico
+- [OASI](/pt-br/resource/escolainverno/palestras/oasi)
+- [Bolsas](/pt-br/resource/escolainverno/palestras/bolsas)
+- [Raio-X](/pt-br/resource/escolainverno/palestras/raiox) — outra palestra que conecta física fundamental (nucleossíntese) à escala de aglomerados de galáxias

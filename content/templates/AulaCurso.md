@@ -1,66 +1,92 @@
 ---
-publish: true
-title: "Aula XX: Título da Aula"
-created: '2026-08-04'
-modified: '2026-08-04'
+publish: false
+draft: true
+title: "Aula 01 — [TÍTULO DA AULA E SUBTÍTULO]"
+created: '2026-08-08'
+modified: '2026-08-08'
+published: '2026-08-08T12:00:00.000-03:00'
+password: "SENHA_DO_CURSO"
 tags:
-  - aula
-  - iff
+  - curso-on
+  - arqueologia-galactica
+  - populacoes-estelares
+  - evolucao-quimica
+cssclasses:
+  - page-grid
+  - center-images
+titulo: "CursoON-Aula01"
+disciplina: "[NOME DO CURSO DE EXTENSÃO OU PÓS-GRADUAÇÃO]"
+conteudo: "[RESUMO EXECUTIVO DOS TOPICOS TRATADOS NA AULA]"
+professor: "[NOME DO DOCENTE / PESQUISADOR]"
 ---
 
-# Aula XX: Título da Aula
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
+  <div>⬅️ <b><a href="/pt-br/resource/curso-on/aula-00-[SLUG]">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/curso-on">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/curso-on/aula-02-[SLUG]">Próxima Aula</a></b></div>
+</div>
 
-> [!IMPORTANT] Acesso Restrito Institucional
-> Este material pedagógico, bem como seus slides em **LaTeX (.pdf)** e **PowerPoint (.pptx)**, são de uso exclusivo dos estudantes do Instituto Federal Fluminense (*Campus* Bom Jesus do Itabapoana) e estão protegidos com senha institucional.
+# 📉 Aula 01 — [TÍTULO DA AULA]
 
-**Carga Horária Equivalente:** 2 horas/aula diárias.  
-**Professor Responsável:** Prof. Dr. Pedro Henrique Rocha de Andrade
+> [!note] Resumo
+> A metalicidade e estrutura estelar da galáxia não é uniforme: apresentamos o modelo teórico de formação *inside-out*, a evolução química interestelar e a dinâmica orbital envolvida.
+
+> [!info] Informações da aula
+> **Disciplina:** [NOME DO CURSO / ESPECIALIZAÇÃO]  
+> **Instituição:** Observatório Nacional (ON) / Instituto Federal Fluminense (IFF)  
+> **Professor:** [NOME DO PROFESSOR]  
+> **Fonte:** Slides oficiais da disciplina — "[NOME DO SLIDE/APRESENTAÇÃO]"
 
 ---
 
-## 1. Fundamentação Teórica e Metodológica
+## 📐 1. Formatação Teórica e Formulação Matemática
 
-*(Desenvolva o referencial teórico da aula e conceitos fundamentais)*
+Desde as primeiras estimativas observacionais até os levantamentos espectroscópicos modernos (GAIA, APOGEE, GALAH), observa-se um gradiente estrutural bem definido:
+
+$$\frac{\partial[\text{Fe/H}]}{\partial R} \approx -0{,}06\ \text{dex/kpc}$$
+
+---
+
+## 🔀 2. Mecanismos Dinâmicos e Oscilações Orbitais
+
+Dois mecanismos fundamentais atuam na evolução estrutural:
+
+- **Blurring:** Oscilação radial decorrente da excentricidade orbital estelar (sem alterar o raio-guia médio).
+- **Churning:** Migração radial efetiva causada por troca de momento angular com braços espirais e ressonâncias de barra.
 
 ```mermaid
-graph TD
-    A[Conceito A] --> B[Conceito B]
-    B --> C[Aplicação Prática]
+graph LR
+    A[Mecanismos Dinâmicos] --> B[Blurring: Borramento Orbital]
+    A --> C[Churning: Migração Radial Efetiva]
+    B --> D[Conserva Raio-Guia]
+    C --> E[Altera Momento Angular]
 ```
 
 ---
 
-## 2. Normas Técnicas e Padrões Aplicáveis
+## ❓ 3. Discussão Histórica e Modelos de Enriquecimento
 
-- **ABNT NBR 14724:2011**: Informação e documentação — Trabalhos acadêmicos — Apresentação.
-
----
-
-## 3. Código LaTeX Canônico dos Slides (Beamer)
-
-```latex
-\documentclass{if-beamer}
-\usepackage[utf8]{inputenc}
-
-\title{Aula XX: Título da Aula}
-\author{Prof. Dr. Pedro Henrique Rocha de Andrade}
-\date{\today}
-
-\begin{document}
-\begin{frame}
-  \titlepage
-\end{frame}
-\end{document}
-```
+> [!warning] O Problema da Relação Idade-Metalicidade (AMR)
+> Modelos simples de evolução química previam um crescimento monotônico e estrito da metalicidade com o tempo. Trabalhos como **Edvardsson et al. (1993)** e **Chiappini et al. (1997, 2001)** demonstraram uma dispersão substancial explicada pelo modelo *Two-Infall*.
 
 ---
 
-## 4. Estudo de Caso e Prática
+## 📌 Conceitos-Chave
 
-*(Insira exercícios, diagramas ou casos de uso para o estudante)*
+- **Gradiente Radial:** $\partial[\text{Fe/H}]/\partial R \approx -0{,}06\,$dex/kpc — mais rico no centro, mais pobre nas bordas.
+- **Blurring vs. Churning:** Borramento estático orbital vs. migração radial ativa por troca de momento angular.
+- **Modelo Two-Infall:** Dois episódios de queda de gás (halo/disco espesso e disco fino tardio).
 
 ---
 
-## 5. Referências Bibliográficas
+## 🔗 Referências e Correlatos
 
-- ABNT. **NBR 14724**: Informação e documentação — Trabalhos acadêmicos — Apresentação. Rio de Janeiro: ABNT, 2011.
+- Edvardsson et al. (1993) — Descoberta da dispersão na AMR.
+- Chiappini et al. (1997, 2001) — Modelo *Two-Infall*.
+- [Curso ON — Visão Geral](/pt-br/resource/curso-on)
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 16px; background: var(--light, #f8fafc); border: 1px solid var(--lightgray, #e2e8f0); border-radius: 10px; margin: 1.5rem 0;">
+  <div>⬅️ <b><a href="/pt-br/resource/curso-on/aula-00-[SLUG]">Aula Anterior</a></b></div>
+  <div>🏠 <b><a href="/pt-br/resource/curso-on">Anotações da Disciplina</a></b></div>
+  <div>➡️ <b><a href="/pt-br/resource/curso-on/aula-02-[SLUG]">Próxima Aula</a></b></div>
+</div>

@@ -64,7 +64,7 @@ Fechando o curso, a aula revisita a própria **definição formal de galáxia sa
 ## 🔗 Referências e correlatos
 
 - Simon (2019) — revisão sobre a definição e propriedades de galáxias anãs satélites, ARA\&A 57, 375
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — os processos nucleossintéticos cuja assinatura individual as UFDs preservam melhor que qualquer outro ambiente
-- [Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites](pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade) — pré-requisito direto: o mesmo formalismo de MDF, aqui levado ao regime mais extremo (UFDs) do espectro de galáxias satélites
-- [Escola de Inverno — Aglomerados, Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03) — o problema núcleo-cúspide e outras tensões do $\Lambda$CDM em pequena escala, testáveis também via UFDs
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — os processos nucleossintéticos cuja assinatura individual as UFDs preservam melhor que qualquer outro ambiente
+- [Aula 21 — Funções de Distribuição de Metalicidade em Galáxias Satélites](/pt-br/resource/curso-on/aula-21-funcoes-de-distribuicao-de-metalicidade) — pré-requisito direto: o mesmo formalismo de MDF, aqui levado ao regime mais extremo (UFDs) do espectro de galáxias satélites
+- [Escola de Inverno — Aglomerados, Aula 03](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula03) — o problema núcleo-cúspide e outras tensões do $\Lambda$CDM em pequena escala, testáveis também via UFDs

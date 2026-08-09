@@ -81,4 +81,4 @@ tags:
 > 5. SOLOMON, C., BRECKON, T. Fundamentos de Processamento Digital de Imagens: Uma Abordagem com Exemplos em Matlab. Rio de Janeiro: LTC, 2013.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/computacao-grafica/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica/anotacoes)**

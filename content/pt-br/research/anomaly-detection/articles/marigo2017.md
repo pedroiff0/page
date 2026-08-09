@@ -18,7 +18,7 @@ _Marigo, Paola. (2017)_
 
 Apresenta nova geração de isócronas PARSEC-COLIBRI incluindo fase TP-AGB detalhada e ampla faixa de metalicidade. Útil para estimar idades/parâmetros estelares que entram nas análises do seu projeto.
 
-[Ver artigo original](https://doi.org/10.3847/1538-4357/835/1/77) · [📄 Baixar PDF](assets/articles/Marigo2017.pdf)
+[Ver artigo original](https://doi.org/10.3847/1538-4357/835/1/77) · [📄 Baixar PDF](/assets/articles/Marigo2017.pdf)
 
 ## Citação
 

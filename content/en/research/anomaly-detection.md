@@ -39,7 +39,7 @@ GALAH observes each star in **4 bands (CCDs)**of the HERMES spectrograph, at the
 
 To inspect individual spectra during the analysis, I developed a **public web viewer for GALAH DR4 spectra** — it shows a star's 4 bands (by `sobject_id`), with wavelength regions annotated by chemical element group (iron-peak elements, neutron capture, α-process, CNO, Hα/Hβ, etc.):
 
-![GALAH DR4 spectrum viewer: a star's 4 bands (blue, green, red, infrared), with the spectral regions of each chemical element group marked in the legend.](assets/anomaly-detection/spectra-viewer.png)
+![GALAH DR4 spectrum viewer: a star's 4 bands (blue, green, red, infrared), with the spectral regions of each chemical element group marked in the legend.](/assets/anomaly-detection/spectra-viewer.png)
 
 ---
 
@@ -57,7 +57,7 @@ This work was published as:
 
 > ANDRADE, P. H. R. et al. _Stellar properties and chemical features of the Gaia Catalogue of Nearby Stars observed by GALAH DR4_. Boletim da Sociedade Astronômica Brasileira, 2025.
 
-And presented as a poster at **SAB 2025**, at the**78th Annual SBPC Meeting (2026)**, and at this**National Observatory Winter School (2026)** — see [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) (Portuguese) for the full text of that presentation.
+And presented as a poster at **SAB 2025**, at the**78th Annual SBPC Meeting (2026)**, and at this**National Observatory Winter School (2026)** — see [Apresentação de Pesquisa](/pt-br/resource/escolainverno/apresentacao) (Portuguese) for the full text of that presentation.
 
 ---
 
@@ -78,11 +78,11 @@ I ran t-SNE over the normalized spectra (HDU 1 of each star/CCD's FITS file) und
 
 ![t-SNE over raw spectra (4 concatenated CCDs, ~5,900 stars), colored by catalog Teff, log g, and \[Fe/H\] — used as an honesty check on the clustering.](assets/anomaly-detection/tsne-espectros-brutos.png)
 
-![Comparison of different t-SNE perplexities over the spectra (pixel data), colored by effective temperature — higher perplexities smooth out local structure in favor of global structure.](assets/anomaly-detection/tsne-comparacao-perplexidade.png)
+![Comparison of different t-SNE perplexities over the spectra (pixel data), colored by effective temperature — higher perplexities smooth out local structure in favor of global structure.](/assets/anomaly-detection/tsne-comparacao-perplexidade.png)
 
 I also quantitatively tested **cluster stability across different perplexities**, using the Adjusted Rand Index (ARI) to measure agreement between clusters obtained at each perplexity, and tracking how individual stars "migrate" between clusters as this hyperparameter varies:
 
-![Agreement between perplexities (ARI matrix), per-star stability score, and cluster migration between perplexity 5 and 30 — used to choose hyperparameters less arbitrarily.](assets/anomaly-detection/validacao-perplexidade-ari.png)
+![Agreement between perplexities (ARI matrix), per-star stability score, and cluster migration between perplexity 5 and 30 — used to choose hyperparameters less arbitrarily.](/assets/anomaly-detection/validacao-perplexidade-ari.png)
 
 ### Comparing dimensionality-reduction + clustering techniques
 
@@ -126,12 +126,12 @@ Summary of the main methodological decisions made throughout the project, from m
 - da Silva & Smiljanic (2023) — t-SNE in chemodynamical space (basis for the columns-vs-pixels comparison).
 - Hughes et al. (2022) — discovery of extremely metal-poor stars in GALAH DR3 via supervised ML.
 - Pettee et al. (2023) — weakly-supervised detection of stellar streams in Gaia (CWoLa).
-- See [Articles](pt-br/research/anomaly-detection/articles) (Portuguese) for the complete reading notes on every paper used in this research.
+- See [Articles](/pt-br/research/anomaly-detection/articles) (Portuguese) for the complete reading notes on every paper used in this research.
 
 ---
 
 ## 🔗 References and related
 
-- [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) — preparation text for presenting Stage 1 (Portuguese; SBPC 2026 Banner and this Winter School's Banner).
-- [Understanding Dark Matter from Extragalactic Shocks](en/research/dark-matter-shocks) — another astronomy research project, also grounded in the dynamics/kinematics of gravitational systems
-- [Simulating the Impact of Satellites on Astronomical Observations](en/research/satellite-trail-removal) — another project with a computational focus applied to astronomical data
+- [Apresentação de Pesquisa](/pt-br/resource/escolainverno/apresentacao) — preparation text for presenting Stage 1 (Portuguese; SBPC 2026 Banner and this Winter School's Banner).
+- [Understanding Dark Matter from Extragalactic Shocks](/en/research/dark-matter-shocks) — another astronomy research project, also grounded in the dynamics/kinematics of gravitational systems
+- [Simulating the Impact of Satellites on Astronomical Observations](/en/research/satellite-trail-removal) — another project with a computational focus applied to astronomical data

@@ -107,7 +107,7 @@ ou seja, **o tempo de vida na Sequência Principal decresce fortemente com a mas
 
 - Russell (1914) — diagrama HR original
 - Reid (1987) — relação massa-luminosidade
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 02 — Diagrama HR e Aglomerados Estelares](pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — isócronas e turnoffs como relógios de idade
-- [Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas](pt-br/resource/curso-on/aula-07-distancias-e-coordenadas)
-- [Escola de Inverno — Arqueologia Galáctica, Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — mesmo diagrama HR/cor-magnitude, com foco em populações estelares em vez de $t_{SP}\propto M^{-3}$
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 02 — Diagrama HR e Aglomerados Estelares](/pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — isócronas e turnoffs como relógios de idade
+- [Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas](/pt-br/resource/curso-on/aula-07-distancias-e-coordenadas)
+- [Escola de Inverno — Arqueologia Galáctica, Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — mesmo diagrama HR/cor-magnitude, com foco em populações estelares em vez de $t_{SP}\propto M^{-3}$

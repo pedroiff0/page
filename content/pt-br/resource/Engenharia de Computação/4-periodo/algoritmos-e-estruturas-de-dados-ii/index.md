@@ -74,4 +74,4 @@ tags:
 > 8. CELES, W., CERQUEIRA, R., RANGEL, J. L. Introdução à Estruturas de Dados: Com Técnicas de Programação em C. 2ª Edição. São Paulo: Elsevier, 2016.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/4-periodo/algoritmos-e-estruturas-de-dados-ii/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/4-periodo/algoritmos-e-estruturas-de-dados-ii/anotacoes)**

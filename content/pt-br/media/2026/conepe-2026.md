@@ -31,4 +31,4 @@ Apresentei o meu trabalho de pesquisa em uma sessão de apresentação oral, e a
 
 ## 🔗 Referências e correlatos
 
-- [ReLaTeX](pt-br/research/relatex) — pesquisa completa por trás do pôster
+- [ReLaTeX](/pt-br/research/relatex) — pesquisa completa por trás do pôster

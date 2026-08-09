@@ -1,20 +1,35 @@
 ---
-publish: true
-title: "[NOME DO CURSO OU DISCIPLINE]"
-created: '2026-08-06'
-modified: '2026-08-06'
+publish: false
+draft: true
+title: "[NOME DA DISCIPLINA OU CURSO]"
+created: '2026-08-08'
+modified: '2026-08-08'
 tags:
-  - nome-do-curso
+  - disciplina
+  - engenharia-de-computacao
   - iff
 ---
 
-Bem-vindo ao repositório oficial da disciplina **[NOME DO CURSO]** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**, ministrada pelo **Prof. Pedro Henrique Rocha de Andrade**.
+Bem-vindo ao repositório oficial da disciplina **[NOME DA DISCIPLINA OU CURSO]** do **Instituto Federal Fluminense (IFF) — Campus Bom Jesus do Itabapoana**, ministrada pelo **Prof. Dr. Pedro Henrique Rocha de Andrade**.
 
 ---
 
-## 🎨 Carrossel de Aulas (Acesso Rápido Interativo)
+## 📌 Informações Gerais da Disciplina
 
-<!-- O carrossel horizontal interativo pode ser colado aqui com os cards das aulas -->
+> [!info] Dados Institucionais
+> - **Código:** `CSECBJI.X` | **Carga Horária:** 60h | **Período:** Nº Período
+> - **Docente:** Prof. Dr. Pedro Henrique Rocha de Andrade (pedro.andrade@iff.edu.br)
+
+> [!note] 📋 Ementa e Objetivos
+> - **Ementa:** [DESCREVA A EMENTA RESUMIDA AQUI]
+> - **Objetivos:** Capacitar os alunos na fundamentação teórica e prática de [DISCIPLINA].
+
+> [!warning] 🔒 Pré-requisitos e Dependências Curriculares (Trancas)
+> ### 📋 Pré-requisitos Exigidos:
+> - [CSECBJI.Y - Disciplina Anterior](/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG])
+> 
+> ### 🔓 Disciplinas Trancadas (Liberadas após conclusão):
+> - [CSECBJI.Z - Disciplina Posterior](/pt-br/resource/engenharia-de-computação/[PERIODO]/[SLUG])
 
 ---
 
@@ -29,40 +44,16 @@ Bem-vindo ao repositório oficial da disciplina **[NOME DO CURSO]** do **Institu
 ## 📊 Sistema Resumido de Avaliação e Cronograma
 
 > [!tip] Distribuição de Pesos nos Bimestres
-> - **📅 Período Letivo:** [DATA INÍCIO] a [DATA FIM] | **⏰ [DIA E HORÁRIO DA AULA]**
+> - **📅 Horário das Aulas:** [SEGUNDA / QUARTA - 08:00 às 10:00]
 > - **🔹 1º Bimestre:** 60% Trabalho Prático / Projeto + 40% Avaliação em Sala.
 > - **🔹 2º Bimestre:** 80% Projeto Final + 20% Avaliação em Sala.
 
 ---
 
-## 🗺️ Tabela Dinâmica de Aulas
+## 📝 Anotações e Arquivos Didáticos
 
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("CAMINHO/DA/PASTA/DO/CURSO")'
-    - 'note.publish'
-    - 'note.notas'
-formulas:
-  aula: 'link(file.path, note.title)'
-properties:
-  formula.aula:
-    displayName: Aula & Título da Aula
-  note.notas:
-    displayName: Notas de Aula (PDF)
-  note.slide:
-    displayName: Slide Institucional (PDF)
-views:
-  - type: table
-    name: Aulas da Disciplina
-    order:
-      - formula.aula
-      - note.notas
-      - note.slide
-    sort:
-      - property: file.name
-        direction: ASC
-```
+- 📂 **[Acesse o Repositório de Anotações e Documentos da Disciplina](anotacoes/)**
+
 
 ---
 

@@ -97,8 +97,8 @@ Estrelas enriquecidas pelo processo-r (Aula 13) podem conter elementos radioativ
 
 - Skumanich (1972) — relação rotação-idade $v\propto t^{-1/2}$, base da girocronologia
 - Aerts et al. (2010) — fundamentos de astrossismologia estelar
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 02 — Diagrama HR e Aglomerados Estelares](pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — isócronas, o método de referência para datação de aglomerados
-- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — o processo-r que produz tanto os cronômetros radioativos (Th, U) quanto a referência estável (Eu)
-- [Escola de Inverno — Arqueologia Galáctica, Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — astrossismologia de gigantes vermelhas como uma das "três revoluções" da área, com a mesma precisão de idade (~10%) discutida ali
-- [Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade](pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr) — as idades estimadas por estes métodos são exatamente o que alimenta a relação idade-metalicidade discutida a seguir
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 02 — Diagrama HR e Aglomerados Estelares](/pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — isócronas, o método de referência para datação de aglomerados
+- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — o processo-r que produz tanto os cronômetros radioativos (Th, U) quanto a referência estável (Eu)
+- [Escola de Inverno — Arqueologia Galáctica, Aula 02](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — astrossismologia de gigantes vermelhas como uma das "três revoluções" da área, com a mesma precisão de idade (~10%) discutida ali
+- [Aula 17 — Gradientes de Metalicidade e a Relação Idade-Metalicidade](/pt-br/resource/curso-on/aula-17-gradientes-de-metalicidade-e-amr) — as idades estimadas por estes métodos são exatamente o que alimenta a relação idade-metalicidade discutida a seguir

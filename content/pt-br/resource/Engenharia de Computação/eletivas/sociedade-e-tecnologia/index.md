@@ -73,4 +73,4 @@ tags:
 > 8. REIS, A. Sociedade.com: Como as Tecnologias Digitais Afetam quem Somos e como Vivemos. Porto Alegre: Arquipélago Editorial, 2018
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/sociedade-e-tecnologia/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/eletivas/sociedade-e-tecnologia/anotacoes)**

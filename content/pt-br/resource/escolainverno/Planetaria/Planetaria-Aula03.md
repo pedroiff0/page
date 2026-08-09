@@ -66,5 +66,5 @@ Depois de tratar a arquitetura do Sistema Solar (Aula 01) e seus pequenos corpos
 
 ## 🔗 Referências e correlatos
 
-- [Aula 01](pt-br/resource/escolainverno/planetaria/planetaria-aula01) — modelos Grand Tack e Nice, aqui potencialmente testados contra exoplanetas
-- [Aula 02](pt-br/resource/escolainverno/planetaria/planetaria-aula02) — pequenos corpos como vínculo observacional de formação planetária
+- [Aula 01](/pt-br/resource/escolainverno/planetaria/planetaria-aula01) — modelos Grand Tack e Nice, aqui potencialmente testados contra exoplanetas
+- [Aula 02](/pt-br/resource/escolainverno/planetaria/planetaria-aula02) — pequenos corpos como vínculo observacional de formação planetária

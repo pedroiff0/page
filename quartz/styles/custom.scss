@@ -327,6 +327,16 @@ details.author-details[open] .author-summary {
 
   & .center {
     max-width: 100% !important;
+    box-sizing: border-box !important;
+    padding-top: 4.5rem !important;
+  }
+
+  /* Ocultar Relógio UTC-3, Título do Site e Cabeçalho no Modo Leitura */
+  .utc3-live-clock,
+  .site-header-block,
+  .site-header-title-container,
+  .header {
+    display: none !important;
   }
 
   @media all and ($desktop), all and ($tablet) {
@@ -340,43 +350,30 @@ details.author-details[open] .author-summary {
         "grid-footer" !important;
     }
 
-    /* Text used to run flush to the viewport edge once the sidebar column
-       collapsed — right under the floating reader-mode button, which sits
-       at left:1rem and is 44px wide, so the two overlapped. A side margin
-       keeps the text clear of the button and just generally reads better
-       at full width. Right gets more than left since there's no floating
-       button to clear on that side, just breathing room. box-sizing:
-       border-box is required here — .center's max-width:100% above is a
-       content-box width, so content-box padding stacked on top of it used
-       to push the element past its grid track and produce a page-level
-       horizontal scrollbar; border-box keeps the padding inside that
-       100%. */
     & .center,
     & footer {
-      box-sizing: border-box;
-      padding: 0 6rem 0 4.5rem;
+      box-sizing: border-box !important;
+      padding: 4.5rem 6rem 2rem 5rem !important;
     }
 
+    /* Botão Flutuante do Modo Leitura no Desktop - Topo Esquerdo */
     & .sidebar.left {
       position: fixed !important;
-      top: 50%;
-      left: 1rem;
-      transform: translateY(-50%);
+      top: 1.25rem !important;
+      left: 1.25rem !important;
+      transform: none !important;
       height: auto !important;
       width: auto !important;
       padding: 0 !important;
-      z-index: 600;
-      /* The reader-mode plugin's own default CSS fades .sidebar.left to
-         opacity:0 with a :hover fallback (fine when the sidebar is a big
-         nav column someone might mouse over anyway — not fine now that
-         it's shrunk down to a single floating button, which would be
-         invisible until randomly hovered). Force it visible. */
+      z-index: 1000 !important;
       opacity: 1 !important;
+      background: transparent !important;
 
-      /* Everything except the reader-mode toggle itself goes away —
-         language switcher, page title, search, dark mode, Explorer. */
       & .nav-lang,
       & .page-title,
+      & .site-header-block,
+      & .site-header-title-container,
+      & .utc3-live-clock,
       & .mobile-only,
       & .search,
       & .darkmode,
@@ -388,45 +385,90 @@ details.author-details[open] .author-summary {
         gap: 0;
       }
 
-      /* Give the now-solitary button a visible floating-button treatment
-         instead of the bare toolbar-icon look it has when sitting in a
-         row next to search/dark-mode. */
       & .readermode {
-        width: 44px;
-        height: 44px;
-        border-radius: 50%;
-        background: rgba(0, 0, 0, 0.6);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        transition: background 0.15s ease;
+        width: 44px !important;
+        height: 44px !important;
+        border-radius: 12px !important;
+        background: var(--lightgray) !important;
+        border: 1px solid var(--gray) !important;
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15) !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        cursor: pointer !important;
+        transition: all 0.2s ease !important;
 
         &:hover {
-          background: rgba(0, 0, 0, 0.85);
+          background: var(--secondary) !important;
+          transform: scale(1.06) !important;
+
+          svg {
+            fill: var(--light) !important;
+            stroke: var(--light) !important;
+          }
         }
 
         & svg {
-          position: static;
-          width: 20px;
-          height: 20px;
-          fill: #fff;
-          stroke: #fff;
+          position: static !important;
+          width: 20px !important;
+          height: 20px !important;
+          fill: var(--dark) !important;
+          stroke: var(--dark) !important;
         }
       }
     }
   }
 
-  /* On mobile, .sidebar.left isn't an off-canvas drawer — it's laid out
-     inline as the icon toolbar row above the content (search, dark mode,
-     reader-mode toggle, Explorer hamburger). The reader-mode plugin's own
-     default CSS fades .sidebar.left to opacity:0 with a `:hover` fallback
-     to bring it back — which on a touch screen never fires, permanently
-     hiding the very toggle needed to turn reader mode back off and the
-     hamburger that opens the Explorer. Override it here so the toolbar
-     (and the tap targets in it) stay visible on mobile too. */
   @media all and ($mobile) {
     & .sidebar.left {
+      position: fixed !important;
+      top: 0.85rem !important;
+      right: 0.85rem !important;
+      left: auto !important;
+      transform: none !important;
+      height: auto !important;
+      width: auto !important;
+      padding: 0 !important;
+      z-index: 1000 !important;
       opacity: 1 !important;
+
+      & .nav-lang,
+      & .page-title,
+      & .site-header-block,
+      & .site-header-title-container,
+      & .utc3-live-clock,
+      & .mobile-only,
+      & .search,
+      & .darkmode,
+      & .explorer {
+        display: none !important;
+      }
+
+      & .readermode {
+        width: 40px !important;
+        height: 40px !important;
+        border-radius: 10px !important;
+        background: var(--lightgray) !important;
+        border: 1px solid var(--gray) !important;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+
+        & svg {
+          position: static !important;
+          width: 18px !important;
+          height: 18px !important;
+          fill: var(--dark) !important;
+          stroke: var(--dark) !important;
+        }
+      }
+    }
+
+    & .center {
+      padding-top: 4.2rem !important;
+      padding-left: 1rem !important;
+      padding-right: 1rem !important;
     }
   }
 }
@@ -884,3 +926,134 @@ details.author-details[open] .author-summary {
   color: var(--secondary);
   border: 1px solid var(--secondary);
 }
+
+/* ==========================================================================
+   📱 FULL-WIDTH EQUALLY DISTRIBUTED MOBILE HEADER (SOMENTE MOBILE)
+   ========================================================================== */
+
+@media all and ($mobile) {
+  .sidebar.left {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+    padding: 0.5rem 0 !important;
+    gap: 0.35rem !important;
+
+    /* 1. Botão do Explorar (Apenas ícone 40x40) */
+    .explorer-toggle.mobile-explorer {
+      order: 1 !important;
+      display: inline-flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      min-width: 40px !important;
+      height: 40px !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      border-radius: 8px !important;
+      background: var(--lightgray) !important;
+      border: 1px solid var(--gray, #e2e8f0) !important;
+      color: var(--dark) !important;
+      box-shadow: none !important;
+
+      &::after {
+        content: none !important;
+      }
+    }
+
+    /* 2. Botão de Pesquisa (Largura expandida para preencher o centro) */
+    .search {
+      order: 2 !important;
+      flex: 1 1 auto !important;
+      display: inline-flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      min-width: 70px !important;
+      height: 40px !important;
+      margin: 0 !important;
+      padding: 0 0.4rem !important;
+      border-radius: 8px !important;
+      background: var(--lightgray) !important;
+
+      button {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        width: 100% !important;
+        height: 100% !important;
+        padding: 0 !important;
+      }
+    }
+
+    /* 3. Ícone do Modo Noturno */
+    .darkmode, .readermode {
+      order: 3 !important;
+      display: inline-flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      min-width: 40px !important;
+      height: 40px !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      border-radius: 8px !important;
+      background: var(--lightgray) !important;
+    }
+
+    /* 4. Bandeiras de Idioma (Distribuídas com espaçamento igual) */
+    .nav-lang {
+      order: 4 !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: space-between !important;
+      gap: 0.35rem !important;
+      margin: 0 !important;
+
+      a {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        flex: 1 !important;
+        min-width: 36px !important;
+        height: 40px !important;
+        padding: 0 0.35rem !important;
+        border-radius: 8px !important;
+        background: var(--lightgray) !important;
+        font-size: 1rem !important;
+        color: var(--dark) !important;
+        text-decoration: none !important;
+      }
+    }
+
+    /* 5. Linha 2: Título "Pedro H. R. de Andrade" e Relógio UTC-3 centralizados */
+    .site-header-title-container {
+      order: 10 !important;
+      flex: 1 1 100% !important;
+      align-items: center !important;
+      text-align: center !important;
+      margin: 0.35rem 0 0.1rem 0 !important;
+
+      .page-title {
+        font-size: 1.35rem !important;
+        font-weight: 700 !important;
+        line-height: 1.25 !important;
+        text-align: center !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        color: var(--dark) !important;
+      }
+
+      .utc3-live-clock {
+        margin-top: 0.2rem !important;
+        font-size: 0.8rem !important;
+        justify-content: center !important;
+      }
+    }
+  }
+}
+
+
+
+
+
+

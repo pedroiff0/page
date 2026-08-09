@@ -100,4 +100,4 @@ tags:
 > 6. SAMPAIO, C. Qualidade de Software na Prática: Como Reduzir o Custo de Manutenção de Software com a Análise de Código. São Paulo: Ciência Moderna, 2014.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/engenharia-de-software/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software/anotacoes)**

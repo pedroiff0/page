@@ -47,7 +47,7 @@ Esta aula apresenta o Sistema Solar como um sistema físico: quais objetos o com
 
 ## 1. O Sol e o inventário do Sistema Solar
 
-O **Sol** é uma **anã amarela** (_yellow dwarf_, tipo espectral G — ver [nota de Arqueologia Galáctica](pt-br/resource/escolainverno/arqgal)) que concentra **99,8% da massa** total do Sistema Solar, mas apenas **0,6% do momento angular total** — quase todo o momento angular do sistema está, na verdade, nas órbitas dos planetas (principalmente os gigantes gasosos), não na rotação do Sol. Essa distribuição é uma pista importante sobre como o sistema se formou (ver [seção 5](#5-como-o-sistema-solar-se-formou)).
+O **Sol** é uma **anã amarela** (_yellow dwarf_, tipo espectral G — ver [nota de Arqueologia Galáctica](/pt-br/resource/escolainverno/arqgal)) que concentra **99,8% da massa** total do Sistema Solar, mas apenas **0,6% do momento angular total** — quase todo o momento angular do sistema está, na verdade, nas órbitas dos planetas (principalmente os gigantes gasosos), não na rotação do Sol. Essa distribuição é uma pista importante sobre como o sistema se formou (ver [seção 5](#5-como-o-sistema-solar-se-formou)).
 
 Composição do Sol (em massa): **~74% Hidrogênio, ~24% Hélio, ~2% elementos mais pesados**.
 
@@ -194,7 +194,7 @@ Uma órbita fechada completa é definida por **6 parâmetros** (os _elementos or
 
 ## 🔗 Referências e correlatos
 
-- [Aula 02](pt-br/resource/escolainverno/planetaria/planetaria-aula02) — pequenos corpos do Sistema Solar
-- [Aula 03](pt-br/resource/escolainverno/planetaria/planetaria-aula03)
-- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — classificação espectral (o Sol como anã amarela tipo G)
-- [Computação — Aula 01](pt-br/resource/escolainverno/computação/computacao-aula01) — simulações de N-corpos via HPC
+- [Aula 02](/pt-br/resource/escolainverno/planetaria/planetaria-aula02) — pequenos corpos do Sistema Solar
+- [Aula 03](/pt-br/resource/escolainverno/planetaria/planetaria-aula03)
+- [Arqueologia Galáctica — Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — classificação espectral (o Sol como anã amarela tipo G)
+- [Computação — Aula 01](/pt-br/resource/escolainverno/computação/computacao-aula01) — simulações de N-corpos via HPC

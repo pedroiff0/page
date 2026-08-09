@@ -56,9 +56,9 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 
 **Livros abertos (licença pública):**
 
-- **[Redes de Computadores](assets/biblioteca/computacao/redes-de-computadores-ifro.pdf)** (Rede e-Tec Brasil / IFRO) — apostila introdutória em português, ótima primeira leitura. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
-- **[Redes de Computadores II](assets/biblioteca/computacao/redes-de-computadores-2-etec.pdf)** (Rede e-Tec Brasil) — continuação cobrindo roteamento e serviços de rede. Também no [Proedu](https://proedu.rnp.br).
-- **[Protocolos e Serviços de Redes](assets/biblioteca/computacao/protocolos-servicos-redes-etec.pdf)** (Escola Técnica Aberta) — foco na pilha TCP/IP e nos serviços do dia a dia (DNS, DHCP, HTTP). No [Proedu](https://proedu.rnp.br).
+- **[Redes de Computadores](/assets/biblioteca/computacao/redes-de-computadores-ifro.pdf)** (Rede e-Tec Brasil / IFRO) — apostila introdutória em português, ótima primeira leitura. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Redes de Computadores II](/assets/biblioteca/computacao/redes-de-computadores-2-etec.pdf)** (Rede e-Tec Brasil) — continuação cobrindo roteamento e serviços de rede. Também no [Proedu](https://proedu.rnp.br).
+- **[Protocolos e Serviços de Redes](/assets/biblioteca/computacao/protocolos-servicos-redes-etec.pdf)** (Escola Técnica Aberta) — foco na pilha TCP/IP e nos serviços do dia a dia (DNS, DHCP, HTTP). No [Proedu](https://proedu.rnp.br).
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
@@ -74,8 +74,8 @@ Protocolos de roteamento (OSPF, BGP), VLANs, redes sem fio, qualidade de serviç
 
 ## Conexão com as disciplinas do curso
 
-- [Comunicação de Dados](pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados.md) — a base física e de enlace: como os bits realmente viajam.
-- [Redes de Computadores I](redes-de-computadores-i/index) — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
-- [Redes de Computadores II](redes-de-computadores-ii/index) — roteamento, serviços e tópicos avançados.
-- [Interconexão de Redes de Computadores](interconexao-de-redes-de-computadores/index) — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
-- [Dimensionamento de Redes de Computadores](dimensionamento-de-redes-de-computadores/index) — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.
+- [Comunicação de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/comunicacao-de-dados) — a base física e de enlace: como os bits realmente viajam.
+- [Redes de Computadores I](/pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i) — o núcleo: modelos de referência, IP, TCP/UDP e os principais protocolos.
+- [Redes de Computadores II](/pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii) — roteamento, serviços e tópicos avançados.
+- [Interconexão de Redes de Computadores](/pt-br/resource/engenharia-de-computação/eletivas/interconexao-de-redes-de-computadores) — eletiva sobre como redes distintas se conectam: roteamento entre domínios e equipamentos de borda.
+- [Dimensionamento de Redes de Computadores](/pt-br/resource/engenharia-de-computação/eletivas/dimensionamento-de-redes-de-computadores) — eletiva de projeto: calcular capacidade e planejar redes que aguentam a carga prometida.

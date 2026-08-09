@@ -73,4 +73,4 @@ tags:
 > 7. SVOBODA, J. A, DORF, R. C. Introdução aos Circuitos Elétricos. 9ª Edição. Rio de Janeiro: LTC, 2016.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/eletricidade-aplicada/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada/anotacoes)**

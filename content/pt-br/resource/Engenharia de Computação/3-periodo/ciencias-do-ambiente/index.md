@@ -83,4 +83,4 @@ tags:
 > 7. MIHELCIC, J. R., ZIMMERMAN, J. B. Engenharia Ambiental: Fundamentos, Sustentabilidade e Projeto. Rio de Janeiro: LTC, 2017.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/ciencias-do-ambiente/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/3-periodo/ciencias-do-ambiente/anotacoes)**

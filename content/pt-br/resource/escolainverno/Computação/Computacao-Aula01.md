@@ -174,5 +174,5 @@ Quando o problema é grande demais para caber (ou processar) em um único nó co
 
 ## 🔗 Referências e correlatos
 
-- [Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02) — desempenho de MPI e introdução a dados/ML em astronomia
-- [Aula 03](pt-br/resource/escolainverno/computação/computacao-aula03)
+- [Aula 02](/pt-br/resource/escolainverno/computação/computacao-aula02) — desempenho de MPI e introdução a dados/ML em astronomia
+- [Aula 03](/pt-br/resource/escolainverno/computação/computacao-aula03)

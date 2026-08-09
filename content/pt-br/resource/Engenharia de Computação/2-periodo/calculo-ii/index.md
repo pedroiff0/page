@@ -80,4 +80,4 @@ tags:
 > 5. ZEGARELLI, M. Cálculo II para Leigos. Rio de Janeiro: Alta Books, 2012.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/calculo-ii/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/2-periodo/calculo-ii/anotacoes)**

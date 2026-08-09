@@ -32,8 +32,8 @@ type: blog
 
 ## 🔗 Références et corrections
 
-- [Détection d'anomalies dans les données de Gaia](fr/research/anomaly-detection)- enquête complète derrière l'affiche
-- [SAB 2025](fr/media/2025/sab-2025)- version précédente de la même affiche
+- [Détection d'anomalies dans les données de Gaia](/fr/research/anomaly-detection)- enquête complète derrière l'affiche
+- [SAB 2025](/fr/media/2025/sab-2025)- version précédente de la même affiche
 
 > [!abstract] Avis de traduction automatique
 > Cette page a été traduite automatiquement du portugais à l'aide du traducteur automatique basé sur LibreTranslate implémenté dans `tools/translate_quartz.py` (qui préserve les wikilinks, les embeds et les noms propres par découpage positionnel). Il s'agit d'une traduction automatique pouvant contenir des inexactitudes — la version portugaise originale fait foi.

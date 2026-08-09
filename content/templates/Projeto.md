@@ -1,5 +1,6 @@
 ---
-publish: true
+publish: false
+draft: true
 title: "{{value}}"
 created:
   "{ DATE:YYYY-MM-DD }":

@@ -18,7 +18,7 @@ tags:
 
  Describe el survey APOGEE (SDSS-III): 146.000 estrellas con espectros infrarrojos de alta resolución (R~22.500) y alto S/N. Presenta diseño, selección de objetivos, reducción y productos. Es otra fuente de abundancia química usada para caracterizar poblaciones estelares.
 
- [Véase el artículo original](https://doi.org/10.3847/1538-3881/aa784d)·[Reflexión Descargar PDF](assets/articles/Majewski2017.pdf)
+ [Véase el artículo original](https://doi.org/10.3847/1538-3881/aa784d)·[Reflexión Descargar PDF](/assets/articles/Majewski2017.pdf)
 
 ## Citación
 

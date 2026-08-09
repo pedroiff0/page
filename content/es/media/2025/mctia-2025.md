@@ -30,8 +30,8 @@ type: blog
 ## 🔗 Referencias y correcciones
 
 - Fuente:[IFF — Proyecto IFF Buen Jesús conquista más una premiación en evento científico en el Pará](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-conquista-mais-uma-premiacao-em-evento-cientifico-no-para)
-- [Simulando el Impacto de Satélites en Observaciones Astronómicas](es/research/satellite-trail-removal)— página de búsqueda completa de este proyecto
-- [FEBIC 2024](es/media/2024/febic-2024)— incluso proyecto, un año antes, aún incompleto
+- [Simulando el Impacto de Satélites en Observaciones Astronómicas](/es/research/satellite-trail-removal)— página de búsqueda completa de este proyecto
+- [FEBIC 2024](/es/media/2024/febic-2024)— incluso proyecto, un año antes, aún incompleto
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

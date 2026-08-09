@@ -25,4 +25,4 @@ Fui organizador do evento, que priorizou protagonismo estudantil: minicursos de 
 ## 🔗 Referências e correlatos
 
 - Fonte: [IFF — Tecnologia, inovação e-sports e capacitação marcam programação da 4ª SCEG](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/tecnologia-inovacao-e-sports-e-capacitacao-marcam-programacao-da-4-sceg)
-- [e-JINIFF 2024](pt-br/media/2024/e-jiniff-2024) — outra frente de e-sports estudantis no campus
+- [e-JINIFF 2024](/pt-br/media/2024/e-jiniff-2024) — outra frente de e-sports estudantis no campus

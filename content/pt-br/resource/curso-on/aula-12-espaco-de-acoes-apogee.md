@@ -82,8 +82,8 @@ Esse tipo de diagrama comprime toda a informação dinâmica de uma órbita (for
 
 - Helmi, White, de Zeeuw & Zhao (1999) — _Debris streams in the solar neighbourhood as relics from the formation of the Galaxy_, Nature 402, 53 (bibcode `1999Natur.402...53H`) — paper fundador do uso do espaço de integrais de movimento
 - Outras leituras citadas nos slides originais (bibcodes ADS, sem título extraído): `2022ApJ...935L..22T`, `2023A&A...670L...2D`, `2023ApJ...946...66L`, `2023MNRAS.518.6200B`, `2024MNRAS.532.4389D`, `2021A&A...654A..15B`
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 09 — Órbitas, Potenciais e Integrais de Movimento](pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento) — base teórica de $E$, $L_z$ e das ações usadas aqui
-- [Aula 10 — Integração de Órbitas com galpy](pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — como esses mesmos parâmetros orbitais são calculados a partir de dados 6D individuais
-- [Apresentação de Pesquisa — Vizinhança Solar com t-SNE](pt-br/resource/escolainverno/apresentacao/minhapesquisa-vizinhancasolar-tsne) — o mesmo diagrama de Toomre usado aqui aparece na minha própria pesquisa para separar disco de halo
-- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — a dinâmica orbital vista aqui volta o foco para a química que originou essas populações
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 09 — Órbitas, Potenciais e Integrais de Movimento](/pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento) — base teórica de $E$, $L_z$ e das ações usadas aqui
+- [Aula 10 — Integração de Órbitas com galpy](/pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — como esses mesmos parâmetros orbitais são calculados a partir de dados 6D individuais
+- [Apresentação de Pesquisa — Vizinhança Solar com t-SNE](/pt-br/resource/escolainverno/apresentacao/minhapesquisa-vizinhancasolar-tsne) — o mesmo diagrama de Toomre usado aqui aparece na minha própria pesquisa para separar disco de halo
+- [Aula 13 — Nucleossíntese Estelar e Enriquecimento Químico](/pt-br/resource/curso-on/aula-13-nucleossintese-e-enriquecimento-quimico) — a dinâmica orbital vista aqui volta o foco para a química que originou essas populações

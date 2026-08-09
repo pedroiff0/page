@@ -63,10 +63,10 @@ O que dominar: uma visão geral de performance web (tempo de carregamento, cache
 
 ### Livros e apostilas abertas
 
-- **[Programação Web](assets/biblioteca/computacao/programacao-web-etec.pdf)** (Escola Técnica Aberta/MEC) — cobre os fundamentos de programação para Web em português, boa base pra quem está começando.
-- **[Aplicativos para Web II](assets/biblioteca/computacao/aplicativos-web-2-etec.pdf)** (Rede e-Tec Brasil/MEC) — continuação prática, com foco em construção de aplicações completas.
-- **[Web Design](assets/biblioteca/computacao/web-design-utfpr.pdf)** (Rede e-Tec Brasil/UTFPR) — front-end e design de interfaces, com boas práticas de usabilidade.
-- **[Projeto de Sistemas Web](assets/biblioteca/computacao/projeto-sistemas-web-ifro.pdf)** (e-Tec Brasil/IFRO) — projeto e arquitetura de sistemas web de ponta a ponta.
+- **[Programação Web](/assets/biblioteca/computacao/programacao-web-etec.pdf)** (Escola Técnica Aberta/MEC) — cobre os fundamentos de programação para Web em português, boa base pra quem está começando.
+- **[Aplicativos para Web II](/assets/biblioteca/computacao/aplicativos-web-2-etec.pdf)** (Rede e-Tec Brasil/MEC) — continuação prática, com foco em construção de aplicações completas.
+- **[Web Design](/assets/biblioteca/computacao/web-design-utfpr.pdf)** (Rede e-Tec Brasil/UTFPR) — front-end e design de interfaces, com boas práticas de usabilidade.
+- **[Projeto de Sistemas Web](/assets/biblioteca/computacao/projeto-sistemas-web-ifro.pdf)** (e-Tec Brasil/IFRO) — projeto e arquitetura de sistemas web de ponta a ponta.
 
 ### Referência e currículo completo (gratuitos)
 
@@ -79,6 +79,6 @@ O que dominar: uma visão geral de performance web (tempo de carregamento, cache
 
 ## Conexão com as disciplinas do curso
 
-- [Desenvolvimento Web](pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web) — a eletiva que cobre exatamente esta trilha: programação para Web, frameworks, acesso a banco de dados e engenharia Web.
-- [Redes](pt-br/resource/computacao/redes) — a base de protocolos (TCP/IP, DNS) sobre a qual HTTP roda.
-- [Banco de Dados](pt-br/resource/computacao/banco-de-dados) — o que sustenta a persistência de dados de qualquer aplicação web real.
+- [Desenvolvimento Web](/pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web) — a eletiva que cobre exatamente esta trilha: programação para Web, frameworks, acesso a banco de dados e engenharia Web.
+- [Redes](/pt-br/resource/computacao/redes) — a base de protocolos (TCP/IP, DNS) sobre a qual HTTP roda.
+- [Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados) — o que sustenta a persistência de dados de qualquer aplicação web real.

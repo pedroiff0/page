@@ -89,8 +89,8 @@ Movimentos próprios típicos são $< 0{,}1''$/ano; poucas estrelas têm $\mu > 
 ## 🔗 Referências e correlatos
 
 - Mihalas & Binney (1980), Cap. 6 — determinação do movimento solar em relação ao LSR
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas](pt-br/resource/curso-on/aula-07-distancias-e-coordenadas) — pré-requisito direto (distância entra na conversão $\mu \to v_{tan}$)
-- [Aula 09 — Órbitas, Potenciais e Integrais de Movimento](pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento) — $(U,V,W)$ e o LSR desta aula tornam-se condições iniciais para integração de órbitas
-- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — cinemática LSR é um dos filtros de pré-processamento usados na minha pesquisa
-- [Escola de Inverno — Arqueologia Galáctica, Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — LSR e velocidade peculiar aplicadas na prática para separar disco fino/espesso/halo via diagrama de Toomre
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 07 — Distâncias, Escala de Distância e Sistemas de Coordenadas](/pt-br/resource/curso-on/aula-07-distancias-e-coordenadas) — pré-requisito direto (distância entra na conversão $\mu \to v_{tan}$)
+- [Aula 09 — Órbitas, Potenciais e Integrais de Movimento](/pt-br/resource/curso-on/aula-09-orbitas-potenciais-e-integrais-de-movimento) — $(U,V,W)$ e o LSR desta aula tornam-se condições iniciais para integração de órbitas
+- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — cinemática LSR é um dos filtros de pré-processamento usados na minha pesquisa
+- [Escola de Inverno — Arqueologia Galáctica, Aula 03](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — LSR e velocidade peculiar aplicadas na prática para separar disco fino/espesso/halo via diagrama de Toomre

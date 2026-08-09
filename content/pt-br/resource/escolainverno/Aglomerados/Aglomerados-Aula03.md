@@ -108,7 +108,7 @@ Aglomerados em fusão funcionam como **grandes colisores de partículas**: a des
 É exatamente esse tipo de anatomia pós-colisão — o deslocamento relativo entre os componentes, comparado com modelos físicos da colisão — que [Rogério Monteiro-Oliveira](https://www.monteiro-oliveira.com) pesquisa no Observatório Nacional: determinar com precisão a anatomia de aglomerados pós-colisão, integrando o mapeamento de massa via lentes fracas à dinâmica das galáxias membro (obtida via espectroscopia). A aula cita como exemplos os aglomerados **A1758**, **A3376** e **SPT-CL J0307-6225**.
 
 > [!tip] Conexão com minha própria pesquisa
-> Esse é exatamente o mesmo tipo de problema da minha pesquisa em [Entendendo a Matéria Escura a partir de Choques Extragalácticos](pt-br/research/dark-matter-shocks): o código de Dawson (2013) estima o tempo decorrido desde a colisão de um par de aglomerados (incluindo o próprio Aglomerado Bala como caso de referência) a partir de parâmetros observacionais — o mesmo tipo de "anatomia pós-colisão" discutida aqui, embora com foco na cronologia da colisão em vez da seção de choque de autointeração da matéria escura.
+> Esse é exatamente o mesmo tipo de problema da minha pesquisa em [Entendendo a Matéria Escura a partir de Choques Extragalácticos](/pt-br/research/dark-matter-shocks): o código de Dawson (2013) estima o tempo decorrido desde a colisão de um par de aglomerados (incluindo o próprio Aglomerado Bala como caso de referência) a partir de parâmetros observacionais — o mesmo tipo de "anatomia pós-colisão" discutida aqui, embora com foco na cronologia da colisão em vez da seção de choque de autointeração da matéria escura.
 
 ---
 
@@ -140,9 +140,9 @@ Aglomerados em fusão funcionam como **grandes colisores de partículas**: a des
 
 ## 🔗 Referências e correlatos
 
-- [Slides oficiais da Aula 03 (PDF)](assets/escolainverno/aulas/mc4/L03.pdf)
+- [Slides oficiais da Aula 03 (PDF)](/assets/escolainverno/aulas/mc4/L03.pdf)
 - [Página do Prof. Rogério Monteiro-Oliveira](https://www.monteiro-oliveira.com/talks)
-- [Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — lentes fracas já introduzidas como técnica de detecção de aglomerados, e a descoberta da matéria escura por Zwicky
-- [Aula 02](pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — o cenário hierárquico de formação de aglomerados
-- [Raio-X e Enriquecimento Químico](pt-br/resource/escolainverno/palestras/raiox) — outra palestra sobre o ICM em aglomerados, visto aqui em raio-X em vez de lentes gravitacionais
-- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](pt-br/research/dark-matter-shocks) — minha própria pesquisa, mesmo objeto de estudo (anatomia pós-colisão de aglomerados) por outro método (cronologia via Dawson 2013, em vez da seção de choque de autointeração)
+- [Aula 01](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — lentes fracas já introduzidas como técnica de detecção de aglomerados, e a descoberta da matéria escura por Zwicky
+- [Aula 02](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — o cenário hierárquico de formação de aglomerados
+- [Raio-X e Enriquecimento Químico](/pt-br/resource/escolainverno/palestras/raiox) — outra palestra sobre o ICM em aglomerados, visto aqui em raio-X em vez de lentes gravitacionais
+- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](/pt-br/research/dark-matter-shocks) — minha própria pesquisa, mesmo objeto de estudo (anatomia pós-colisão de aglomerados) por outro método (cronologia via Dawson 2013, em vez da seção de choque de autointeração)

@@ -55,4 +55,4 @@ tags:
 > 6. São Paulo: Penso, 2013.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/8-periodo/metodologia-cientifica-e-tecnologica/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica/anotacoes)**

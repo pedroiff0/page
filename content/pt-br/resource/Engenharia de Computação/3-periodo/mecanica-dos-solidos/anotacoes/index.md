@@ -1,19 +1,14 @@
 ---
 title: Anotações e Arquivos
 publish: true
-password: "eng232"
 ---
-
-
-
-
 ## 📝 Anotações e Documentos
 
 ```base
 filters:
   and:
     - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/3-periodo/mecanica-dos-solidos/anotacoes")'
-    - 'note.publish'
+    - '!file.name.endsWith("index")'
 formulas:
   anotacao: 'link(file.path, note.title)'
 properties:

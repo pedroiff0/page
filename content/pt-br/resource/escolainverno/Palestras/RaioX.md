@@ -154,6 +154,6 @@ O satélite **NewAthena**, previsto para ser lançado em 2037, deve permitir obs
 
 ## 🔗 Referências e correlatos
 
-- [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — detecção de aglomerados via raio-X (ICM) e as outras 3 vias complementares
-- [Neutrinos](pt-br/resource/escolainverno/palestras/neutrinos) — outra palestra conectando física de partículas/nucleossíntese à escala cosmológica
-- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](pt-br/research/dark-matter-shocks) — minha própria pesquisa sobre colisões de aglomerados, mesmo objeto de estudo (ICM, matéria escura) por outro método
+- [Aglomerados — Aula 01](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — detecção de aglomerados via raio-X (ICM) e as outras 3 vias complementares
+- [Neutrinos](/pt-br/resource/escolainverno/palestras/neutrinos) — outra palestra conectando física de partículas/nucleossíntese à escala cosmológica
+- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](/pt-br/research/dark-matter-shocks) — minha própria pesquisa sobre colisões de aglomerados, mesmo objeto de estudo (ICM, matéria escura) por outro método

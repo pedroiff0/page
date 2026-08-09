@@ -88,4 +88,4 @@ tags:
 > 6. \_\_\_\_\_\_. Sistemas Operacionais Modernos. 4ª Edição. Pearson, 2015.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/fundamentos-de-computacao/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/1-periodo/fundamentos-de-computacao/anotacoes)**

@@ -69,6 +69,6 @@ A Relatividade Geral (RG) é descrita pela **equação de campo de Einstein** ($
 ## 🔗 Referências e correlatos
 
 - Liddle, A. — _An Introduction to Modern Cosmology_ (livro-texto citado na aula para o Princípio Cosmológico)
-- [Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01)
-- [Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03)
-- [Neutrinos e a Cosmologia](pt-br/resource/escolainverno/palestras/neutrinos) — a mesma métrica FLRW, motivada aqui pelo Princípio Cosmológico
+- [Aula 01](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula01)
+- [Aula 03](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula03)
+- [Neutrinos e a Cosmologia](/pt-br/resource/escolainverno/palestras/neutrinos) — a mesma métrica FLRW, motivada aqui pelo Princípio Cosmológico

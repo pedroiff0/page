@@ -1,16 +1,14 @@
 ---
 title: Anotações e Arquivos
 publish: true
-password: "eng232"
 ---
-
 ## 📝 Anotações e Documentos
 
 ```base
 filters:
   and:
     - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/1-periodo/expressao-oral-e-escrita/anotacoes")'
-    - 'note.publish'
+    - '!file.name.endsWith("index")'
 formulas:
   anotacao: 'link(file.path, note.title)'
 properties:

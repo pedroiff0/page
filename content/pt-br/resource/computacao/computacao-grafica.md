@@ -76,5 +76,5 @@ O que dominar: o modelo de iluminação de Phong (componentes ambiente, difusa e
 
 ## Conexão com as disciplinas do curso
 
-- [Computação Gráfica](pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica) — a eletiva que cobre exatamente esta trilha; tem como pré-requisitos Álgebra Linear e Geometria Analítica II e Algoritmos e Estruturas de Dados II.
-- [Processamento de Imagens](pt-br/resource/computacao/processamento-de-imagens) — a tranca direta: uma vez que uma imagem é gerada (ou capturada), processá-la usa as mesmas noções de matriz, pixel e espaço de cor apresentadas aqui.
+- [Computação Gráfica](/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica) — a eletiva que cobre exatamente esta trilha; tem como pré-requisitos Álgebra Linear e Geometria Analítica II e Algoritmos e Estruturas de Dados II.
+- [Processamento de Imagens](/pt-br/resource/computacao/processamento-de-imagens) — a tranca direta: uma vez que uma imagem é gerada (ou capturada), processá-la usa as mesmas noções de matriz, pixel e espaço de cor apresentadas aqui.

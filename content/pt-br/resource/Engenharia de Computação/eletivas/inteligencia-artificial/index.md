@@ -86,4 +86,4 @@ tags:
 > 5. SIMÕES, M. G., SHAW, I. S. Controle e Modelagem Fuzzy. 2ª Edição. São Paulo: Blucher, 2007.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/inteligencia-artificial/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/eletivas/inteligencia-artificial/anotacoes)**

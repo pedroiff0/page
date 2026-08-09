@@ -221,10 +221,10 @@ Mapeia a massa **total** (incluindo matéria escura) de forma independente do g�
 
 ## 🔗 Referências e correlatos
 
-- [Slides oficiais da Aula 01 (PDF)](assets/escolainverno/aulas/mc4/L01.pdf)
+- [Slides oficiais da Aula 01 (PDF)](/assets/escolainverno/aulas/mc4/L01.pdf)
 - [Página do Prof. Rogério Monteiro-Oliveira — Aula 01](https://www.monteiro-oliveira.com/talks)
 - Simulação **Millennium Run**
-- [Aula 02](pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — formação hierárquica e transformação ambiental de galáxias em aglomerados
-- [Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03)
-- [Cosmologia — Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — a mesma matéria escura vista aqui em escala cosmológica
-- [Arqueologia Galáctica — Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — aglomerados globulares, a contraparte estelar dos aglomerados de galáxias
+- [Aula 02](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — formação hierárquica e transformação ambiental de galáxias em aglomerados
+- [Aula 03](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula03)
+- [Cosmologia — Aula 01](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — a mesma matéria escura vista aqui em escala cosmológica
+- [Arqueologia Galáctica — Aula 02](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — aglomerados globulares, a contraparte estelar dos aglomerados de galáxias

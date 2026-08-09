@@ -63,9 +63,9 @@ tags:
 
 ## 🔗 References and correlations
 
-- [ENGCOMP — Articles discussed](pt-br/research/journal-clubs/engcomp)
-- [Club Dashboard](en/research/journal-clubs/engcomp/dashboard)
-- [Journal Clubs — Overview](pt-br/research/journal-clubs)
+- [ENGCOMP — Articles discussed](/pt-br/research/journal-clubs/engcomp)
+- [Club Dashboard](/en/research/journal-clubs/engcomp/dashboard)
+- [Journal Clubs — Overview](/pt-br/research/journal-clubs)
 - [Full taxonomy of arXiv categories](https://arxiv.org/category_taxonomy)— the official list, if you wish to propose a new axis.
 
 > [!abstract] Automatic translation notice

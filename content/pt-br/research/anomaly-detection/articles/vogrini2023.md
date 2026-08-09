@@ -18,7 +18,7 @@ _Vogrin\vc, i\vc, Rok. (2023)_
 
 Usa >872.000 espectros do GALAH para isolar Bandas Difusas Interestelares (DIBs), gerando catálogo de 183 features. Menos central ao seu tema, mas mostra uso de big data espectroscópico do GALAH.
 
-[Ver artigo original](https://doi.org/10.1093/mnras/stad678) · [📄 Baixar PDF](assets/articles/Vogrini2023.pdf)
+[Ver artigo original](https://doi.org/10.1093/mnras/stad678) · [📄 Baixar PDF](/assets/articles/Vogrini2023.pdf)
 
 ## Citação
 

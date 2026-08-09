@@ -16,7 +16,7 @@ published: 2026-07-26T12:36:37.259-03:00
 
 ### 1️⃣ Primer paso: Sobre mí
 
-<img src="../assets/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="..[Profilepic.Jpe](/assets/profilepic.jpe)g" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 Soy Pedro Henrique, estudiante de Ingeniería Informática en el [Instituto Federal Fluminense](https://portal1.iff.edu.br/), en Bom Jesus do Itabapoana, en el interior de Río de Janeiro, Brasil. Desde 2022 vengo construyendo un puente entre la **ciencia de la computación** y la **astronomía**, trabajando en proyectos de investigación que exploran poblaciones estelares y la estructura de la Vía Láctea.
 
@@ -149,8 +149,8 @@ Para navegar mi trabajo, explora las secciones del sitio (en portugués/inglés)
 
 Los enlaces que aparecen a continuación solo están disponibles actualmente en portugués.
 
-- [Investigación](pt-br/research/) — Conoce mis proyectos actuales y publicaciones.
-- [Recursos](pt-br/resource/) — Materiales, scripts y herramientas útiles que he desarrollado o utilizo.
-- [Medios](pt-br/media/) — Participaciones en eventos, ferias y presentaciones.
+- [Investigación](/pt-br/research/) — Conoce mis proyectos actuales y publicaciones.
+- [Recursos](/pt-br/resource/) — Materiales, scripts y herramientas útiles que he desarrollado o utilizo.
+- [Medios](/pt-br/media/) — Participaciones en eventos, ferias y presentaciones.
 
-Este sitio se escribe primero en **portugués (Brasil)** y se traduce al inglés a medida que el tiempo lo permite — el español es el idioma más reciente en incorporarse, así que todavía queda mucho por traducir. Si notaste algo que falta o está desactualizado, puedes abrir un [issue en el repositorio](https://github.com/pedroiff0/page/issues), o [hacer clic aquí para abrir uno ya completado desde la plantilla de traducción](https://github.com/pedroiff0/page/issues/new?template=traducao.yml).
+Este sitio se escribe primero en **portugués (Brasil)** y se traduce al inglés a medida que el tiempo lo permite — el español es el idioma más reciente en incorporarse, así que todavía queda mucho por traducir. Si notaste algo que falta o está desactualizado, puedes abrir un [issue en el repositorio](https://github.com/pedroiff0/quartz-site/issues), o [hacer clic aquí para abrir uno ya completado desde la plantilla de traducción](https://github.com/pedroiff0/quartz-site/issues/new?template=traducao.yml).

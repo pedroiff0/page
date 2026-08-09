@@ -30,5 +30,5 @@ Com o [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) e o A
 ## 🔗 Referências e correlatos
 
 - Fonte: [IFF — Projeto do IFF Bom Jesus conquista mais uma premiação em evento científico no Pará](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-conquista-mais-uma-premiacao-em-evento-cientifico-no-para)
-- [Simulando o Impacto de Satélites em Observações Astronômicas](pt-br/research/satellite-trail-removal) — página de pesquisa completa deste projeto
-- [FEBIC 2024](pt-br/media/2024/febic-2024) — mesmo projeto, um ano antes, ainda incompleto
+- [Simulando o Impacto de Satélites em Observações Astronômicas](/pt-br/research/satellite-trail-removal) — página de pesquisa completa deste projeto
+- [FEBIC 2024](/pt-br/media/2024/febic-2024) — mesmo projeto, um ano antes, ainda incompleto

@@ -25,7 +25,7 @@ Aprenda o que é tabela, linha, coluna, chave primária e chave estrangeira, e d
 
 ### 2. Modelagem e normalização (intermediário)
 
-Aprenda a projetar o banco antes de criá-lo: modelo entidade-relacionamento, mapeamento para tabelas e formas normais (1FN, 2FN, 3FN). Pratique modelando sistemas que você conhece: a biblioteca do campus, um sistema de matrículas, um delivery. Este passo tem trilha própria em [Modelagem de Dados](pt-br/resource/computacao/modelagem-de-dados). Tempo típico: 4 a 6 semanas.
+Aprenda a projetar o banco antes de criá-lo: modelo entidade-relacionamento, mapeamento para tabelas e formas normais (1FN, 2FN, 3FN). Pratique modelando sistemas que você conhece: a biblioteca do campus, um sistema de matrículas, um delivery. Este passo tem trilha própria em [Modelagem de Dados](/pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados). Tempo típico: 4 a 6 semanas.
 
 ### 3. Transações, índices e desempenho (intermediário-avançado)
 
@@ -58,8 +58,8 @@ Backup e recuperação, controle de acesso, replicação e noções de bancos n�
 
 **Livros abertos (licença pública):**
 
-- **[Introdução a Banco de Dados](assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** (Rede e-Tec Brasil / MEC) — apostila introdutória em português: modelo relacional, modelagem e primeiros passos de SQL. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
-- **[Banco de Dados I](assets/biblioteca/computacao/banco-de-dados-1-etec.pdf)** (Rede e-Tec Brasil / MEC) — sequência natural da anterior, aprofundando SQL e projeto de banco. Também no [Proedu](https://proedu.rnp.br).
+- **[Introdução a Banco de Dados](/assets/biblioteca/computacao/introducao-banco-de-dados-etec.pdf)** (Rede e-Tec Brasil / MEC) — apostila introdutória em português: modelo relacional, modelagem e primeiros passos de SQL. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Banco de Dados I](/assets/biblioteca/computacao/banco-de-dados-1-etec.pdf)** (Rede e-Tec Brasil / MEC) — sequência natural da anterior, aprofundando SQL e projeto de banco. Também no [Proedu](https://proedu.rnp.br).
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
@@ -75,5 +75,5 @@ Backup e recuperação, controle de acesso, replicação e noções de bancos n�
 
 ## Conexão com as disciplinas do curso
 
-- [Modelagem de Dados](pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados.md) — o projeto conceitual que antecede o banco: entidades, relacionamentos e normalização.
-- [Banco de Dados](pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados.md) — a disciplina central: SQL, transações, índices e a prática com SGBDs reais.
+- [Modelagem de Dados](/pt-br/resource/engenharia-de-computação/5-periodo/modelagem-de-dados) — o projeto conceitual que antecede o banco: entidades, relacionamentos e normalização.
+- [Banco de Dados](/pt-br/resource/engenharia-de-computação/6-periodo/banco-de-dados) — a disciplina central: SQL, transações, índices e a prática com SGBDs reais.

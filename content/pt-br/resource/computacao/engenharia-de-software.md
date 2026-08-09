@@ -33,7 +33,7 @@ Estude os princípios SOLID e o vocabulário de padrões de projeto (Strategy, O
 
 ### 4. Arquitetura, testes e entrega (avançado)
 
-Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços, e os artigos do [Martin Fowler](https://martinfowler.com/) como guia. Em paralelo, leve testes a sério: pirâmide de testes, TDD, integração contínua. Pratique num projeto de verdade com equipe — o material de [Prática Profissional](pt-br/resource/computacao/pratica-profissional) complementa. Tempo típico: 8+ semanas, contínuo pela carreira.
+Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços, e os artigos do [Martin Fowler](https://martinfowler.com/) como guia. Em paralelo, leve testes a sério: pirâmide de testes, TDD, integração contínua. Pratique num projeto de verdade com equipe — o material de [Prática Profissional](/pt-br/resource/computacao/pratica-profissional) complementa. Tempo típico: 8+ semanas, contínuo pela carreira.
 
 ## Conceitos que você precisa dominar
 
@@ -58,9 +58,9 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 
 **Livros abertos (licença pública):**
 
-- **[Análise e Projeto de Sistemas](assets/biblioteca/computacao/analise-projeto-sistemas-ifb.pdf)** (IFB, licença Creative Commons) — livro aberto de instituto federal cobrindo o ciclo de análise e projeto com notação UML. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
-- **[Análise de Sistemas](assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** (Rede e-Tec Brasil / MEC) — apostila introdutória de levantamento de requisitos e análise. Também no [Proedu](https://proedu.rnp.br).
-- **[Projeto de Sistemas](assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** (Rede e-Tec Brasil / MEC) — a continuação: do modelo de análise ao projeto implementável. No [Proedu](https://proedu.rnp.br).
+- **[Análise e Projeto de Sistemas](/assets/biblioteca/computacao/analise-projeto-sistemas-ifb.pdf)** (IFB, licença Creative Commons) — livro aberto de instituto federal cobrindo o ciclo de análise e projeto com notação UML. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Análise de Sistemas](/assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** (Rede e-Tec Brasil / MEC) — apostila introdutória de levantamento de requisitos e análise. Também no [Proedu](https://proedu.rnp.br).
+- **[Projeto de Sistemas](/assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** (Rede e-Tec Brasil / MEC) — a continuação: do modelo de análise ao projeto implementável. No [Proedu](https://proedu.rnp.br).
 
 **Bibliografia clássica (procure na biblioteca do campus):**
 
@@ -76,6 +76,6 @@ Suba de altitude: camadas, arquitetura hexagonal, monólito vs. microsserviços,
 
 ## Conexão com as disciplinas do curso
 
-- [Engenharia de Software](pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software.md) — processos, requisitos e ciclo de vida: o panorama da área.
-- [Análise de Software Orientada a Objetos](analise-de-software-orientada-a-objetos/index) — modelagem OO e UML: transformar requisitos em modelos.
-- [Projeto de Software Orientado a Objetos](projeto-de-software-orientado-a-objetos/index) — do modelo ao design implementável: princípios, padrões e arquitetura.
+- [Engenharia de Software](/pt-br/resource/engenharia-de-computação/5-periodo/engenharia-de-software) — processos, requisitos e ciclo de vida: o panorama da área.
+- [Análise de Software Orientada a Objetos](/pt-br/resource/engenharia-de-computação/6-periodo/analise-de-software-orientada-a-objetos) — modelagem OO e UML: transformar requisitos em modelos.
+- [Projeto de Software Orientado a Objetos](/pt-br/resource/engenharia-de-computação/7-periodo/projeto-de-software-orientado-a-objetos) — do modelo ao design implementável: princípios, padrões e arquitetura.

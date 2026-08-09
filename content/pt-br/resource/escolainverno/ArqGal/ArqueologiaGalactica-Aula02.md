@@ -129,10 +129,10 @@ O **J-PAS** (_Javalambre Physics of the Accelerating Universe Astrophysical Surv
 - Pinsonneault et al. (2025) — precisão de idades astrossismológicas para gigantes
 - Montalbán et al. (2021) — separação de disco fino/espesso por idade astrossismológica
 - Missão **Gaia**; levantamentos **APOGEE**, **GALAH**, **J-PAS**; método **StarHorse**
-- [Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01)
-- [Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03)
-- [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao) — uso o GALAH DR4 citado aqui na minha própria pesquisa
-- [Curso ON — Aula 02: Diagrama HR e Aglomerados Estelares](pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — a mesma dicotomia aberto/globular, com IMF e isócronas desenvolvidas em detalhe
-- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection)
+- [Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01)
+- [Aula 03](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03)
+- [Apresentação de Pesquisa](/pt-br/resource/escolainverno/apresentacao) — uso o GALAH DR4 citado aqui na minha própria pesquisa
+- [Curso ON — Aula 02: Diagrama HR e Aglomerados Estelares](/pt-br/resource/curso-on/aula-02-diagrama-hr-e-aglomerados) — a mesma dicotomia aberto/globular, com IMF e isócronas desenvolvidas em detalhe
+- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection)
 
 ---

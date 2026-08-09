@@ -57,8 +57,8 @@ Quando o sistema é complexo demais para fórmula fechada, entra a simulação d
 
 **Livros abertos (licença pública):**
 
-- **[Análise de Sistemas](assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** (Rede e-Tec Brasil) — apostila em português cobrindo a análise de sistemas de informação; útil para a parte metodológica da disciplina. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
-- **[Projeto de Sistemas](assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** (Rede e-Tec Brasil) — continuação natural, do modelo de análise ao projeto. Também no [Proedu](https://proedu.rnp.br).
+- **[Análise de Sistemas](/assets/biblioteca/computacao/analise-de-sistemas-etec.pdf)** (Rede e-Tec Brasil) — apostila em português cobrindo a análise de sistemas de informação; útil para a parte metodológica da disciplina. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Projeto de Sistemas](/assets/biblioteca/computacao/projeto-de-sistemas-etec.pdf)** (Rede e-Tec Brasil) — continuação natural, do modelo de análise ao projeto. Também no [Proedu](https://proedu.rnp.br).
 
 > [!tip] Para a parte quantitativa (filas, probabilidade, simulação), os materiais da própria disciplina e as notas de aula são o caminho — e a bibliografia indicada pelo professor cobre os modelos em profundidade.
 
@@ -71,4 +71,4 @@ Quando o sistema é complexo demais para fórmula fechada, entra a simulação d
 
 ## Conexão com as disciplinas do curso
 
-- [Avaliação e Desempenho de Sistemas](avaliacao-e-desempenho-de-sistemas/index) — a disciplina que este guia acompanha diretamente: métricas, teoria das filas, medição e simulação.
+- [Avaliação e Desempenho de Sistemas](/pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas) — a disciplina que este guia acompanha diretamente: métricas, teoria das filas, medição e simulação.

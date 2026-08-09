@@ -18,7 +18,7 @@ _Buder, Sven. (2025)_
 
 Quarto release do GALAH (DR4): 917.588 estrelas com até 32 elementos (incluindo nitrogênio e elementos terras-raras), usando redes neurais para ajustar parâmetros e abundâncias. É a mais recente e vasta fonte de dados químicos para o seu projeto.
 
-[Ver artigo original](https://doi.org/10.1017/pasa.2025.26) · [📄 Baixar PDF](assets/articles/Buder2025.pdf)
+[Ver artigo original](https://doi.org/10.1017/pasa.2025.26) · [📄 Baixar PDF](/assets/articles/Buder2025.pdf)
 
 ## Citação
 

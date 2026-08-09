@@ -25,7 +25,7 @@ type: blog
 ## 🔗 References and correlations
 
 - Source:[IFF — Technology, innovation e-sports and training mark 4th SCEG programming](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/tecnologia-inovacao-e-sports-e-capacitacao-marcam-programacao-da-4-sceg)
-- [e-JINIFF 2024](en/media/2024/e-jiniff-2024)— another front of student e-sports on campus
+- [e-JINIFF 2024](/en/media/2024/e-jiniff-2024)— another front of student e-sports on campus
 
 > [!abstract] Automatic translation notice
 > This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

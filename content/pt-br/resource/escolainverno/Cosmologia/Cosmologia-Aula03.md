@@ -81,8 +81,8 @@ A ideia central, em linha com as outras duas sondas da disciplina (Supernovas Ia
 
 ## 🔗 Referências e correlatos
 
-- [Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — RCF e o modelo $\Lambda$CDM que a EGE também testa
-- [Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — Princípio Cosmológico, base teórica da homogeneidade em grande escala
-- [Aglomerados — Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — a teia cósmica (voids, filamentos, nós)
-- [Aglomerados — Aula 02](pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — colapso hierárquico, o mecanismo físico por trás da formação da EGE
-- [Curso ON — Aula 15: Espectroscopia e Fotometria em Grandes Levantamentos](pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos) — os mesmos levantamentos (SDSS, DESI, Euclid, LSST) usados para mapear a EGE
+- [Aula 01](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — RCF e o modelo $\Lambda$CDM que a EGE também testa
+- [Aula 02](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — Princípio Cosmológico, base teórica da homogeneidade em grande escala
+- [Aglomerados — Aula 01](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — a teia cósmica (voids, filamentos, nós)
+- [Aglomerados — Aula 02](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula02) — colapso hierárquico, o mecanismo físico por trás da formação da EGE
+- [Curso ON — Aula 15: Espectroscopia e Fotometria em Grandes Levantamentos](/pt-br/resource/curso-on/aula-15-levantamentos-fotometricos-e-espectroscopicos) — os mesmos levantamentos (SDSS, DESI, Euclid, LSST) usados para mapear a EGE

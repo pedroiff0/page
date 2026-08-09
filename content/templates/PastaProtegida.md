@@ -1,16 +1,21 @@
 ---
-publish: true
-title: "{{value}}"
-created:
-  "{ DATE:YYYY-MM-DD }":
-modified: 2026-07-23T17:53:01.806-03:00
-published: 2026-07-23T17:53:01.806-03:00
-password: TROQUE-ESTA-SENHA
+publish: false
+draft: true
+title: "Página Protegida por Senha Institucional"
+created: '2026-08-08'
+modified: '2026-08-08'
+password: "SENHA_AQUI"
+tags:
+  - protegido
+  - restricao-acesso
 ---
 
-# 🔒 {{value}}
+> [!important] 🔒 Conteúdo Restrito Institucional
+> As informações contidas nesta página e seus materiais anexos são protegidos com senha de acesso restrito aos discentes autorizados do Instituto Federal Fluminense.
 
-> [!note] Resumo
+## 📝 Conteúdo Protegido
 
-> [!warning] Cada nota dentro desta pasta precisa da própria senha
-> A proteção por senha do Quartz (plugin `encrypted-pages`) é por **arquivo**, não por pasta — não existe uma senha "de pasta" que proteja tudo automaticamente. Ao criar novas notas aqui dentro, copie o mesmo campo `password: "TROQUE-ESTA-SENHA"` (com a mesma senha desta página) no frontmatter de cada uma delas.
+Coloque aqui todo o texto, gabaritos de provas, notas de aulas ou links de arquivos PDF que devem ser criptografados via AES-GCM 256-bit no momento do build.
+
+- **Item 1:** Informação restrita.
+- **Item 2:** Gabarito da avaliação.

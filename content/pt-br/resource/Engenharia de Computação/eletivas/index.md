@@ -10,63 +10,63 @@ modified: 2026-08-06
 > - **Resumo Pedagógico:** Acervo de disciplinas optativas avançadas para especialização no curso.
 
 > [!note] 📚 Grade Curricular e Disciplinas Integrantes
-> - 📘 **[Inteligência Artificial](inteligencia-artificial/index)** (`60h` · Núcleo Eletiva)
-> - 📘 **[Computação Gráfica](computacao-grafica/index)** (`60h` · Núcleo Eletiva)
-> - 📘 **[Processamento de Imagens](processamento-de-imagens/index)** (`60h` · Núcleo Eletiva)
-> - 📘 **[Desenvolvimento Web](desenvolvimento-web/index)** (`60h` · Núcleo Eletiva)
-> - 📘 **[Computação Paralela e Distribuída](computacao-paralela-e-distribuida/index)** (`60h` · Núcleo Eletiva)
-> - 📘 **[Algoritmos Distribuição](algoritmos-distribuidos/index)** (`60h` · Núcleo Eletiva)
-> - 📘 **[Geoprocessamento](geoprocessamento/index)** (`60h` · Núcleo Eletiva)
-> - 📘 **[Processamento de Sinais](processamento-de-sinais/index)** (`60h` · Núcleo Eletiva)
-> - 📘 **[Libras](libras/index)** (`60h` · Núcleo Eletiva)
-> - 📘 **[Sociedade e Tecnologia](sociedade-e-tecnologia/index)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Inteligência Artificial](/pt-br/resource/engenharia-de-computação/eletivas/inteligencia-artificial)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Computação Gráfica](/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Processamento de Imagens](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Desenvolvimento Web](/pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Computação Paralela e Distribuída](/pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Algoritmos Distribuição](/pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Geoprocessamento](/pt-br/resource/engenharia-de-computação/eletivas/geoprocessamento)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Processamento de Sinais](/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Libras](/pt-br/resource/engenharia-de-computação/eletivas/libras)** (`60h` · Núcleo Eletiva)
+> - 📘 **[Sociedade e Tecnologia](/pt-br/resource/engenharia-de-computação/eletivas/sociedade-e-tecnologia)** (`60h` · Núcleo Eletiva)
 
 > [!tip] 📎 Documentos e Horários Institucionais
-> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/Horario_1p.pdf)**
-> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/PPC_1p.pdf)**
+> - 📄 **[Horário das Aulas em PDF](/assets/disciplinas/1-periodo/horario-1p.pdf)**
+> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/1-periodo/ppc-1p.pdf)**
 
 ## 🎨 Carrossel de Disciplinas do Período
 
 Navegue interativamente pelas disciplinas deste bloco letivo:
 
 <div class="media-carousel">
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/inteligencia-artificial/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/inteligencia-artificial" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Inteligência Artificial" />
     <div class="slide-caption">Inteligência Artificial</div>
   </a>
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/computacao-grafica/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/computacao-grafica" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Computação Gráfica" />
     <div class="slide-caption">Computação Gráfica</div>
   </a>
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/processamento-de-imagens/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-imagens" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Processamento de Imagens" />
     <div class="slide-caption">Processamento de Imagens</div>
   </a>
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/desenvolvimento-web/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Desenvolvimento Web" />
     <div class="slide-caption">Desenvolvimento Web</div>
   </a>
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/computacao-paralela-e-distribuida/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Computação Paralela e Distribuída" />
     <div class="slide-caption">Computação Paralela e Distribuída</div>
   </a>
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/algoritmos-distribuidos/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Algoritmos Distribuição" />
     <div class="slide-caption">Algoritmos Distribuição</div>
   </a>
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/geoprocessamento/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/geoprocessamento" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Geoprocessamento" />
     <div class="slide-caption">Geoprocessamento</div>
   </a>
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/processamento-de-sinais/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/processamento-de-sinais" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Processamento de Sinais" />
     <div class="slide-caption">Processamento de Sinais</div>
   </a>
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/libras/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/libras" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Libras" />
     <div class="slide-caption">Libras</div>
   </a>
-  <a href="/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/sociedade-e-tecnologia/index" class="carousel-slide">
+  <a href="/pt-br/resource/engenharia-de-computação/eletivas/sociedade-e-tecnologia" class="carousel-slide">
     <img src="/assets/illustrations/classes.svg" alt="Sociedade e Tecnologia" />
     <div class="slide-caption">Sociedade e Tecnologia</div>
   </a>

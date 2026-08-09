@@ -16,7 +16,7 @@ published: 2026-07-26T12:36:37.259-03:00
 
 ### 1️⃣ First step: About me
 
-<img src="../assets/profilepic.jpeg" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="..[Profilepic.Jpe](/assets/profilepic.jpe)g" alt="Pedro Henrique" width="160" height="160" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; float: right; margin-left: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 I am Pedro Henrique, an undergraduate Computer Engineering student at the [Fluminense Federal Institute](https://portal1.iff.edu.br/), in Rio de Janeiro, Brazil. Since 2022, I have been building a bridge between **computer science** and **astronomy**, working on research projects that explore stellar populations and the structure of the Milky Way.
 
@@ -146,8 +146,8 @@ To navigate my work, explore the sections of this site:
 
 The links below are currently available only in Portuguese:
 
-- [Research](pt-br/research/) — Learn about my current projects and publications.
-- [Resources](pt-br/resource/) — Materials, scripts, and useful tools I've developed or use.
-- [Media](pt-br/media/) — Participations in events, fairs, and presentations.
+- [Research](/pt-br/research/) — Learn about my current projects and publications.
+- [Resources](/pt-br/resource/) — Materials, scripts, and useful tools I've developed or use.
+- [Media](/pt-br/media/) — Participations in events, fairs, and presentations.
 
-This site is written in two languages: all content is first written in **Portuguese (Brazil)** and translated to English as time allows — so not every page has an English version yet. If you noticed something missing or outdated in translation, feel free to open an [issue in the repository](https://github.com/pedroiff0/page/issues), or [click here to open one pre-filled from the translation template](https://github.com/pedroiff0/page/issues/new?template=traducao.yml).
+This site is written in two languages: all content is first written in **Portuguese (Brazil)** and translated to English as time allows — so not every page has an English version yet. If you noticed something missing or outdated in translation, feel free to open an [issue in the repository](https://github.com/pedroiff0/quartz-site/issues), or [click here to open one pre-filled from the translation template](https://github.com/pedroiff0/quartz-site/issues/new?template=traducao.yml).

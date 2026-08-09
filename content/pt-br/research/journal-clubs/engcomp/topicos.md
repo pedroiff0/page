@@ -63,7 +63,7 @@ Não precisa ser artigo da semana. Clássico da área, artigo que você não ent
 
 ## 🔗 Referências e correlatos
 
-- [ENGCOMP — artigos já discutidos](pt-br/research/journal-clubs/engcomp)
-- [Dashboard do clube](pt-br/research/journal-clubs/engcomp/dashboard)
-- [Journal Clubs — visão geral](pt-br/research/journal-clubs)
+- [ENGCOMP — artigos já discutidos](/pt-br/research/journal-clubs/engcomp)
+- [Dashboard do clube](/pt-br/research/journal-clubs/engcomp/dashboard)
+- [Journal Clubs — visão geral](/pt-br/research/journal-clubs)
 - [Taxonomia completa de categorias do arXiv](https://arxiv.org/category_taxonomy) — a lista oficial, caso queira propor um eixo novo.

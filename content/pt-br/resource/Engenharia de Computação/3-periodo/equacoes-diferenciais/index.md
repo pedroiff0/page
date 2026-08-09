@@ -90,4 +90,4 @@ tags:
 > 5. NAGLE, K. R., SAFF, E. B., SNYDER, A. D. Equações Diferenciais. 8ª Edição. São Paulo: Pearson, 2012.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/equacoes-diferenciais/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/3-periodo/equacoes-diferenciais/anotacoes)**

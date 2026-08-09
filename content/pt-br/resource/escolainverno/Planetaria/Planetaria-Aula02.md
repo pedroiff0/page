@@ -90,5 +90,5 @@ A ideia-chave desta aula é que a **distribuição orbital atual** (excentricida
 
 ## 🔗 Referências e correlatos
 
-- [Aula 01](pt-br/resource/escolainverno/planetaria/planetaria-aula01)
-- [Aula 03](pt-br/resource/escolainverno/planetaria/planetaria-aula03)
+- [Aula 01](/pt-br/resource/escolainverno/planetaria/planetaria-aula01)
+- [Aula 03](/pt-br/resource/escolainverno/planetaria/planetaria-aula03)

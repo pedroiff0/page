@@ -80,5 +80,5 @@ O que dominar: uma visão panorâmica de dois modelos alternativos de computaç�
 
 ## Conexão com as disciplinas do curso
 
-- [Linguagens Formais e Autômatos](pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) — a disciplina do 5º período que cobre exatamente esta trilha.
-- [Compiladores](pt-br/resource/computacao/compiladores) — a tranca direta: análise léxica usa expressões regulares/AFD, e análise sintática usa gramáticas livres de contexto/autômato de pilha, ambos apresentados aqui pela primeira vez.
+- [Linguagens Formais e Autômatos](/pt-br/resource/engenharia-de-computação/5-periodo/linguagens-formais-e-automatos) — a disciplina do 5º período que cobre exatamente esta trilha.
+- [Compiladores](/pt-br/resource/computacao/compiladores) — a tranca direta: análise léxica usa expressões regulares/AFD, e análise sintática usa gramáticas livres de contexto/autômato de pilha, ambos apresentados aqui pela primeira vez.

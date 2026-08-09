@@ -59,4 +59,4 @@ tags:
 > 6. SILVA, R. R., BOCCHI, N., ROCHA-FILHO, R. C.; MACHADO, P. F. L. Introdução à Química Experimental. 3 ed. São Carlos: EdUFSCar, 2019.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/quimica-experimental/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/2-periodo/quimica-experimental/anotacoes)**

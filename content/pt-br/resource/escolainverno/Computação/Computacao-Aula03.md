@@ -53,7 +53,7 @@ Esta aula parece ter percorrido, na prática, os dois lados da taxonomia supervi
 ## 🧭 Algoritmos não supervisionados (redução de dimensionalidade)
 
 - **PCA (Análise de Componentes Principais):** projeta os dados nas direções de maior variância, uma técnica linear de redução de dimensionalidade — o ponto de partida clássico antes de métodos não lineares.
-- **t-SNE:** técnica não linear de redução de dimensionalidade que preserva relações de vizinhança local, muito usada para visualizar dados de alta dimensão em 2D (ver a página de [Machine Learning](pt-br/resource/computacao/machine-learning) e minha própria pesquisa, que usa exatamente esse algoritmo).
+- **t-SNE:** técnica não linear de redução de dimensionalidade que preserva relações de vizinhança local, muito usada para visualizar dados de alta dimensão em 2D (ver a página de [Machine Learning](/pt-br/resource/computacao/machine-learning) e minha própria pesquisa, que usa exatamente esse algoritmo).
 - **UMAP:** alternativa mais recente ao t-SNE, também não linear, geralmente mais rápida e melhor em preservar tanto estrutura local quanto global dos dados.
 
 ---
@@ -82,7 +82,7 @@ Esta aula parece ter percorrido, na prática, os dois lados da taxonomia supervi
 
 ## 🔗 Referências e correlatos
 
-- [Aula 01](pt-br/resource/escolainverno/computação/computacao-aula01)
-- [Aula 02](pt-br/resource/escolainverno/computação/computacao-aula02) — a taxonomia supervisionado/não-supervisionado que esta aula coloca em prática
-- [Recursos — Machine Learning](pt-br/resource/computacao/machine-learning) — PCA, t-SNE e os demais algoritmos aqui, explicados em mais profundidade
-- [Apresentação de Pesquisa — Vizinhança Solar com t-SNE](pt-br/resource/escolainverno/apresentacao/minhapesquisa-vizinhancasolar-tsne) — uso real do t-SNE citado aqui, aplicado a espectros estelares
+- [Aula 01](/pt-br/resource/escolainverno/computação/computacao-aula01)
+- [Aula 02](/pt-br/resource/escolainverno/computação/computacao-aula02) — a taxonomia supervisionado/não-supervisionado que esta aula coloca em prática
+- [Recursos — Machine Learning](/pt-br/resource/computacao/machine-learning) — PCA, t-SNE e os demais algoritmos aqui, explicados em mais profundidade
+- [Apresentação de Pesquisa — Vizinhança Solar com t-SNE](/pt-br/resource/escolainverno/apresentacao/minhapesquisa-vizinhancasolar-tsne) — uso real do t-SNE citado aqui, aplicado a espectros estelares

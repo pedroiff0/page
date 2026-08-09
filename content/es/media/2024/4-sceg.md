@@ -25,7 +25,7 @@ type: blog
 ## 🔗 Referencias y correcciones
 
 - Fuente:[IFF — Tecnología, innovación e-sports y capacitación marcan programación de la 4a SCEG](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/tecnologia-inovacao-e-sports-e-capacitacao-marcam-programacao-da-4-sceg)
-- [e-JINIFF 2024](es/media/2024/e-jiniff-2024)— otro frente de estudiantes en el campus
+- [e-JINIFF 2024](/es/media/2024/e-jiniff-2024)— otro frente de estudiantes en el campus
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

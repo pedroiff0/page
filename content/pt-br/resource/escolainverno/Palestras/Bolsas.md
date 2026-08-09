@@ -33,7 +33,7 @@ professor: Hélio Dotto Perottoni
 
 ## 🔗 Referências e correlatos
 
-- [Neutrinos](pt-br/resource/escolainverno/palestras/neutrinos)
-- [OASI](pt-br/resource/escolainverno/palestras/oasi)
-- [Raio-X](pt-br/resource/escolainverno/palestras/raiox)
-- [Composições](pt-br/resource/escolainverno/palestras/composicoes)
+- [Neutrinos](/pt-br/resource/escolainverno/palestras/neutrinos)
+- [OASI](/pt-br/resource/escolainverno/palestras/oasi)
+- [Raio-X](/pt-br/resource/escolainverno/palestras/raiox)
+- [Composições](/pt-br/resource/escolainverno/palestras/composicoes)

@@ -97,4 +97,4 @@ views:
 
 ---
 
-Programação oficial completa no [site do Observatório Nacional](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026).
+Programação oficial completa no [site do Observatório Nacional](https://www.gov.br/observatorio[202](/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/202)6).

@@ -142,7 +142,7 @@ Por a Terra não ser uma esfera perfeita, torques diferenciais da Lua e do Sol s
 - Leavitt (1912) — relação período-luminosidade das Cefeidas
 - Hubble (1926, 1929) — Cefeidas em M31; Lei de Hubble
 - Oliveira et al. (2020) — ajuste de isócrona em Messier 69
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 03 — Magnitudes, Cores e Classificação Espectral](pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral) — módulo de distância
-- [Aula 08 — Velocidades e Movimento Próprio](pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio)
-- [Escola de Inverno — Cosmologia, Aula 01](pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o mesmo topo da escada (supernovas Ia como velas padrão), aplicado à escala cosmológica em vez da galáctica
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 03 — Magnitudes, Cores e Classificação Espectral](/pt-br/resource/curso-on/aula-03-magnitudes-cores-e-classificacao-espectral) — módulo de distância
+- [Aula 08 — Velocidades e Movimento Próprio](/pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio)
+- [Escola de Inverno — Cosmologia, Aula 01](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula01) — o mesmo topo da escada (supernovas Ia como velas padrão), aplicado à escala cosmológica em vez da galáctica

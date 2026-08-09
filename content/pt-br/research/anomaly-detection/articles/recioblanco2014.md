@@ -18,7 +18,7 @@ _Recio-Blanco, A. (2014)_
 
 Debate a natureza do disco grosso e sua relação com o disco fino (estrutura, cinemática, química). Relevante para o contexto de populações estelares e migração do seu projeto.
 
-[Ver artigo original](https://doi.org/10.1051/0004-6361/201322944) · [📄 Baixar PDF](assets/articles/RecioBlanco2014.pdf)
+[Ver artigo original](https://doi.org/10.1051/0004-6361/201322944) · [📄 Baixar PDF](/assets/articles/RecioBlanco2014.pdf)
 
 ## Citação
 

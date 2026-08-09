@@ -18,7 +18,7 @@ tags:
 
  Il discute de la nature du disque épais et de sa relation avec le disque fin (structure, cinématique, chimique). Par rapport au contexte des populations stellaires et de la migration de leur projet.
 
- [Voir article original](https://doi.org/10.1051/0004-6361/201322944)·[Réflexion Télécharger le PDF](assets/articles/RecioBlanco2014.pdf)
+ [Voir article original](https://doi.org/10.1051/0004-6361/201322944)·[Réflexion Télécharger le PDF](/assets/articles/RecioBlanco2014.pdf)
 
 ## Citation
 

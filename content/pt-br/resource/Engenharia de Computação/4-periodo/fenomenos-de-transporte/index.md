@@ -76,4 +76,4 @@ tags:
 > 8. Elsevier, 2016.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/4-periodo/fenomenos-de-transporte/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/4-periodo/fenomenos-de-transporte/anotacoes)**

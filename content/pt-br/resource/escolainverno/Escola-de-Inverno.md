@@ -21,7 +21,7 @@ professor:
 > [!info] Sobre este arquivo
 > Panorama de todas as áreas cobertas até agora na Escola de Inverno. Cada seção resume a nota detalhada correspondente — clique nos links para ver a aula completa, com explicações, fórmulas e imagens.
 
-Confira aqui a [programação completa](#-programação-completa-20-a-2407) da semana, o [[Escola de inverno 2026 - programa atualizado.pdf|programa oficial atualizado (PDF)]] e o [site oficial da Escola de Inverno em Astrofísica 2026 do Observatório Nacional](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026).
+Confira aqui a [programação completa](#-programação-completa-20-a-2407) da semana, o [[Escola de inverno 2026 - programa atualizado.pdf|programa oficial atualizado (PDF)]] e o [site oficial da Escola de Inverno em Astrofísica 2026 do Observatório Nacional](https://www.gov.br/observatorio[202](/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/202)6).
 
 ---
 
@@ -58,7 +58,7 @@ Confira aqui a [programação completa](#-programação-completa-20-a-2407) da s
 > [!info] Sessões de pôsteres
 > Todos os dias há intervalos com **sessão de pôsteres** (grupo I nos dias 20–22/07, grupo II nos dias 22–24/07). Meu próprio pôster está na sessão II: **"Unveiling the Solar vicinity: unsupervised mapping stellar populations with GCNS and GALAH DR4 using t-SNE"** — ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]].
 
-Programação e lista completa de pôsteres: ver o [site oficial da Escola de Inverno em Astrofísica 2026 (Observatório Nacional)](https://www.gov.br/observatorio/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/2026).
+Programação e lista completa de pôsteres: ver o [site oficial da Escola de Inverno em Astrofísica 2026 (Observatório Nacional)](https://www.gov.br/observatorio[202](/pt-br/assuntos/areas-de-atuacao/astronomia-e-astrofisica/ensino/escola-de-inverno-em-astrofisica/202)6).
 
 ---
 
@@ -136,9 +136,9 @@ Status das notas de cada aula/palestra e se já existe material oficial (slides/
 
 | Nota | Status das notas | Slides/PDF oficial |
 | --- | --- | --- |
-| [[Aglomerados-Aula01\|Aglomerados — Aula 01]] | ✅ Completa | ✅ [Disponível](assets/escolainverno/aulas/mc4/L01.pdf) |
-| [[Aglomerados-Aula02\|Aglomerados — Aula 02]] | ✅ Completa | ✅ [Disponível](assets/escolainverno/aulas/mc4/L02.pdf) |
-| [[Aglomerados-Aula03\|Aglomerados — Aula 03]] | ✅ Completa | ✅ [Disponível](assets/escolainverno/aulas/mc4/L03.pdf) |
+| [[Aglomerados-Aula01\|Aglomerados — Aula 01]] | ✅ Completa | ✅ [Disponível](/assets/escolainverno/aulas/mc4/L01.pdf) |
+| [[Aglomerados-Aula02\|Aglomerados — Aula 02]] | ✅ Completa | ✅ [Disponível](/assets/escolainverno/aulas/mc4/L02.pdf) |
+| [[Aglomerados-Aula03\|Aglomerados — Aula 03]] | ✅ Completa | ✅ [Disponível](/assets/escolainverno/aulas/mc4/L03.pdf) |
 | [[ArqueologiaGalactica-Aula01\|Arqueologia Galáctica — Aula 01]] | ✅ Completa | ⏳ Não disponível |
 | [[ArqueologiaGalactica-Aula02\|Arqueologia Galáctica — Aula 02]] | ✅ Completa | ⏳ Não disponível |
 | [[ArqueologiaGalactica-Aula03\|Arqueologia Galáctica — Aula 03]] | ✅ Completa | ⏳ Não disponível |

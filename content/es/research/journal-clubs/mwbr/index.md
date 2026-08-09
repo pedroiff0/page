@@ -7,7 +7,7 @@ published: 2026-08-01T20:04:12.171-03:00
 ---
 
 > [!note] Resumen
-> Artículos discutidos en el journal club del **MWBR**, grupo de investigación en Vía Láctea, arqueología galáctica y poblaciones estelares. Ver el [patrón de cada entrada](pt-br/research/journal-clubs#padrão-de-cada-entrada).
+> Artículos discutidos en el journal club del **MWBR**, grupo de investigación en Vía Láctea, arqueología galáctica y poblaciones estelares. Ver el [patrón de cada entrada](/pt-br/research/journal-clubs#padrão-de-cada-entrada).
 
  La siguiente tabla se genera a partir del frontmatter de las propias notas de artículo de esta carpeta — una nota nueva aparece sola en el siguiente build, sin editar esta página.
 
@@ -56,9 +56,9 @@ published: 2026-08-01T20:04:12.171-03:00
 
 ## 🔗 Referencias y correcciones
 
-- [Journal Clubs — visión general](es/research/journal-clubs)
-- [ENGCOMP](es/research/journal-clubs/engcomp)
-- [Investigación — visión general](es/research)
+- [Journal Clubs — visión general](/es/research/journal-clubs)
+- [ENGCOMP](/es/research/journal-clubs/engcomp)
+- [Investigación — visión general](/es/research)
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

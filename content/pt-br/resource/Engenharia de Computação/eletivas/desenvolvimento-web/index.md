@@ -58,4 +58,4 @@ tags:
 > 6. POWERS, S. Aprendendo Node: Usando JavaScript no Servidor. São Paulo: Novatec, 2017.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/desenvolvimento-web/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/eletivas/desenvolvimento-web/anotacoes)**

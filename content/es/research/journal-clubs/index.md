@@ -13,15 +13,15 @@ published: 2026-08-01T16:28:51.169-03:00
 
 ## Grupos
 
-- **[MWBR](es/research/journal-clubs/mwbr)** — grupo de investigación en Vía Láctea, arqueología galáctica y poblaciones estelares.
-- **[ENGCOMP](es/research/journal-clubs/engcomp)** — journal club de Ingeniería de Computación.
+- **[MWBR](/es/research/journal-clubs/mwbr)** — grupo de investigación en Vía Láctea, arqueología galáctica y poblaciones estelares.
+- **[ENGCOMP](/es/research/journal-clubs/engcomp)** — journal club de Ingeniería de Computación.
 
  Cada una de estas páginas monta la propia lista de artículos desde el frontmatter de las notas de la carpeta, vía [Bases del Obsidian](https://help.obsidian.md/bases)— no hay lista escrita a mano para mantener en día.
 
 ## Patrón de cada entrada
 
 > [!example] Modelo de nota de artículo
-> Toda nota de artículo discutido sigue la misma estructura. Estos campos alimentan solos la tabla de la página del grupo y el [dashboard](es/research/journal-clubs/engcomp/dashboard)— simplemente crea la nota en la carpeta correcta (`mwbr/` o `engcomp/`) y aparece en el siguiente build.
+> Toda nota de artículo discutido sigue la misma estructura. Estos campos alimentan solos la tabla de la página del grupo y el [dashboard](/es/research/journal-clubs/engcomp/dashboard)— simplemente crea la nota en la carpeta correcta (`mwbr/` o `engcomp/`) y aparece en el siguiente build.
 >
 > El campo `arxiv` es obligatorio: es él que distingue una nota de artículo de las páginas de apoyo de la carpeta (índice, tópicos, dashboard). Y el nombre del campo de fecha es `discutido`, sin hífen — propiedad con hífen rompe el motor de expresiones de las bases.
 >
@@ -58,7 +58,7 @@ published: 2026-08-01T16:28:51.169-03:00
 
 ## 🔗 Referencias y correcciones
 
-- [Investigación — visión general](es/research)
+- [Investigación — visión general](/es/research)
 
 > [!abstract] Aviso de traducción automática
 > Esta página fue traducida automáticamente del portugués utilizando el traductor automático basado en LibreTranslate implementado en `tools/translate_quartz.py` (que preserva wikilinks, embeds y nombres propios mediante división posicional). Es traducción automática y puede contener imprecisiones — la versión original en portugués es la fuente autoritativa.

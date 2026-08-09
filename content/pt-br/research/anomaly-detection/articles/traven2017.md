@@ -18,7 +18,7 @@ _Traven, G. (2017)_
 
 GALAH: survey de alta resolução para desvendar a formação da Via Láctea. Apresenta esquema semi-automático (t-SNE) para classificar morfologias espectrais peculiares e flagrar espectros problemáticos, preservando a integridade do survey. Exemplo de detecção de 'peculiaridades' espectrais — conexão com anomalias.
 
-[Ver artigo original](https://doi.org/10.3847/1538-4365/228/2/24) · [📄 Baixar PDF](assets/articles/Traven2017.pdf)
+[Ver artigo original](https://doi.org/10.3847/1538-4365/228/2/24) · [📄 Baixar PDF](/assets/articles/Traven2017.pdf)
 
 ## Citação
 

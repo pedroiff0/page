@@ -69,4 +69,4 @@ tags:
 > 7. YATES, R. D., GOODMAN, D. J. Probabilidade e Processos Estocásticos: Uma Introdução Amigável para Engenheiros Eletricistas e da Computação. 3ª Edição. Rio de Janeiro: LTC,
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes)**

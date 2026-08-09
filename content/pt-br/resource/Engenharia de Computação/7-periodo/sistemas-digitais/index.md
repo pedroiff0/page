@@ -97,4 +97,4 @@ tags:
 > 6. VAHID, F. Sistemas Digitais: Projeto, Otimização e HDLs. Porto Alegre: Bookman, 2008.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/7-periodo/sistemas-digitais/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais/anotacoes)**

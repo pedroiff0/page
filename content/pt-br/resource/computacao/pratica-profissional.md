@@ -26,11 +26,11 @@ O que dominar: texto técnico claro — parágrafos com uma ideia central, voz a
 
 ### 2. Método científico e leitura de artigos (a partir da primeira IC)
 
-O que dominar: a anatomia de um artigo (introdução → método → resultados → discussão), o que é uma pergunta de pesquisa bem-posta, e como fazer revisão bibliográfica sem se afogar. O que praticar: fichamento sistemático — para cada artigo lido, registre em meia página o problema, o método e o resultado. Minhas [anotações de leitura](pt-br/research/anomaly-detection/articles) são exatamente isso, publicadas.
+O que dominar: a anatomia de um artigo (introdução → método → resultados → discussão), o que é uma pergunta de pesquisa bem-posta, e como fazer revisão bibliográfica sem se afogar. O que praticar: fichamento sistemático — para cada artigo lido, registre em meia página o problema, o método e o resultado. Minhas [anotações de leitura](/pt-br/research/anomaly-detection/articles) são exatamente isso, publicadas.
 
 ### 3. Normas, citação e ferramentas (antes do TCC)
 
-O que dominar: ABNT para estrutura e citações, um gerenciador de referências (Zotero) e LaTeX com abnTeX2 — a combinação que elimina o trabalho braçal de formatação. O que praticar: formatar um relatório antigo inteiro na norma, do sumário às referências. Veja a página dedicada de [LaTeX e Escrita Acadêmica](pt-br/resource/latex).
+O que dominar: ABNT para estrutura e citações, um gerenciador de referências (Zotero) e LaTeX com abnTeX2 — a combinação que elimina o trabalho braçal de formatação. O que praticar: formatar um relatório antigo inteiro na norma, do sumário às referências. Veja a página dedicada de [LaTeX e Escrita Acadêmica](/pt-br/resource/latex).
 
 ### 4. Identidade acadêmica e carreira (contínuo)
 
@@ -55,9 +55,9 @@ O que dominar: currículo Lattes completo e atualizado, ORCID vinculado, e a hab
 
 ## 📚 Materiais recomendados
 
-- **[Orientação à Prática Profissional e Pesquisa](assets/biblioteca/computacao/orientacao-pratica-profissional-ifro.pdf)** (Rede e-Tec/IFRO) — apostila aberta que cobre método científico e postura profissional, via [proedu.rnp.br](https://proedu.rnp.br).
-- **Guias de normalização ABNT** — [PUC Minas](assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e [UNIP](assets/biblioteca/latex-escrita/guia-abnt-unip.pdf): resumos práticos e gratuitos das normas pra trabalhos acadêmicos.
-- Para LaTeX, abnTeX2 e escrita: veja a página completa de [LaTeX e Escrita Acadêmica](pt-br/resource/latex).
+- **[Orientação à Prática Profissional e Pesquisa](/assets/biblioteca/computacao/orientacao-pratica-profissional-ifro.pdf)** (Rede e-Tec/IFRO) — apostila aberta que cobre método científico e postura profissional, via [proedu.rnp.br](https://proedu.rnp.br).
+- **Guias de normalização ABNT** — [PUC Minas](/assets/biblioteca/latex-escrita/guia-abnt-puc-minas.pdf) e [UNIP](/assets/biblioteca/latex-escrita/guia-abnt-unip.pdf): resumos práticos e gratuitos das normas pra trabalhos acadêmicos.
+- Para LaTeX, abnTeX2 e escrita: veja a página completa de [LaTeX e Escrita Acadêmica](/pt-br/resource/latex).
 
 ## 🔗 Referências externas
 
@@ -67,7 +67,7 @@ O que dominar: currículo Lattes completo e atualizado, ORCID vinculado, e a hab
 
 ## Conexão com as disciplinas do curso
 
-- [Metodologia Científica e Tecnológica](metodologia-cientifica-e-tecnologica/index) — método, normas e projeto de pesquisa.
+- [Metodologia Científica e Tecnológica](/pt-br/resource/engenharia-de-computação/8-periodo/metodologia-cientifica-e-tecnologica) — método, normas e projeto de pesquisa.
 - [Projeto Final de Curso I](projeto-final-de-curso-i/index) — proposta, revisão bibliográfica e cronograma do TCC.
 - [Projeto Final de Curso II](projeto-final-de-curso-ii/index) — execução, escrita final e defesa.
 - [Empreendedorismo](empreendedorismo/index) — a face "mercado" da prática profissional.

@@ -154,7 +154,7 @@ onde $K$ é a energia cinética total do sistema ($K=\tfrac{1}{2}M\langle v^2\ra
 - Binney & Tremaine — _Galactic Dynamics_ (livro-texto de referência da disciplina para esta unidade)
 - Bovy, J. — _Dynamics and Astrophysics of Galaxies_
 - Notas de aula de Amina Helmi; apresentações de Eugene Vasiliev
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 08 — Velocidades e Movimento Próprio](pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio) — pré-requisito direto: $(U,V,W)$ e o LSR introduzidos ali reaparecem aqui como condições iniciais de órbitas
-- [Escola de Inverno — Aglomerados, Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — o mesmo teorema do virial ($2K+W=0$), aplicado à escala de aglomerados de galáxias em vez de estrelas individuais
-- [Aula 10 — Integração de Órbitas com galpy](pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — todo este formalismo posto em prática com código real
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 08 — Velocidades e Movimento Próprio](/pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio) — pré-requisito direto: $(U,V,W)$ e o LSR introduzidos ali reaparecem aqui como condições iniciais de órbitas
+- [Escola de Inverno — Aglomerados, Aula 01](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — o mesmo teorema do virial ($2K+W=0$), aplicado à escala de aglomerados de galáxias em vez de estrelas individuais
+- [Aula 10 — Integração de Órbitas com galpy](/pt-br/resource/curso-on/aula-10-integracao-de-orbitas-com-galpy) — todo este formalismo posto em prática com código real

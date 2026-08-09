@@ -59,8 +59,8 @@ O que dominar: a ponte entre a teoria e o código — álgebra booleana em circu
 
 ### Livros e apostilas abertas
 
-- **[Fundamentos de Lógica Matemática](assets/biblioteca/computacao/fundamentos-logica-matematica-uab.pdf)** (UAB — Universidade Aberta do Brasil) — material aberto que cobre proposicional, predicados e técnicas de demonstração em português, no ritmo certo pra graduação.
-- **[Lógica de Programação](assets/biblioteca/computacao/logica-de-programacao-etec.pdf)** (Rede e-Tec/MEC) — apostila do portal público [proedu.rnp.br](https://proedu.rnp.br); faz a ponte entre a lógica formal e a construção de algoritmos, útil pra ver a teoria virando prática.
+- **[Fundamentos de Lógica Matemática](/assets/biblioteca/computacao/fundamentos-logica-matematica-uab.pdf)** (UAB — Universidade Aberta do Brasil) — material aberto que cobre proposicional, predicados e técnicas de demonstração em português, no ritmo certo pra graduação.
+- **[Lógica de Programação](/assets/biblioteca/computacao/logica-de-programacao-etec.pdf)** (Rede e-Tec/MEC) — apostila do portal público [proedu.rnp.br](https://proedu.rnp.br); faz a ponte entre a lógica formal e a construção de algoritmos, útil pra ver a teoria virando prática.
 
 ### Bibliografia clássica (consultar na biblioteca)
 
@@ -76,5 +76,5 @@ O que dominar: a ponte entre a teoria e o código — álgebra booleana em circu
 
 ## Conexão com as disciplinas do curso
 
-- [Lógica para Computação](logica-para-computacao/index) — a disciplina do 1º período que cobre as etapas 1 e 2 desta trilha.
-- [Matemática Discreta](matematica-discreta/index) — a continuação natural no 2º período: conjuntos, relações, contagem e grafos (etapa 3).
+- [Lógica para Computação](/pt-br/resource/engenharia-de-computação/1-periodo/logica-para-computacao) — a disciplina do 1º período que cobre as etapas 1 e 2 desta trilha.
+- [Matemática Discreta](/pt-br/resource/engenharia-de-computação/2-periodo/matematica-discreta) — a continuação natural no 2º período: conjuntos, relações, contagem e grafos (etapa 3).

@@ -59,7 +59,7 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 
 ### Livros e apostilas abertas
 
-- **[Estrutura de Dados](assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)** (Rede e-Tec, 2 volumes) — a base necessária antes desta trilha: as estruturas sobre as quais os algoritmos operam. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
+- **[Estrutura de Dados](/assets/biblioteca/computacao/estrutura-de-dados-etec.pdf)** (Rede e-Tec, 2 volumes) — a base necessária antes desta trilha: as estruturas sobre as quais os algoritmos operam. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
 
 ### Bibliografia clássica (consultar na biblioteca)
 
@@ -75,4 +75,4 @@ O que dominar: BFS, DFS, Dijkstra, árvore geradora mínima, ordenação topoló
 
 ## Conexão com as disciplinas do curso
 
-- [Projeto e Análise de Algoritmos](pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos.md) — a disciplina do 5º período que cobre exatamente esta trilha; chegue nela com as estruturas de dados frescas na cabeça.
+- [Projeto e Análise de Algoritmos](/pt-br/resource/engenharia-de-computação/5-periodo/projeto-e-analise-de-algoritmos) — a disciplina do 5º período que cobre exatamente esta trilha; chegue nela com as estruturas de dados frescas na cabeça.

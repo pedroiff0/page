@@ -18,7 +18,7 @@ _Lochner, M. (2021)_
 
 Discute que surveys como Vera Rubin e SKA gerarão bilhões de fontes que nunca serão vistas por humanos; ML é útil para detectar anomalias, mas confunde anomalias interessantes com artefatos instrumentais. Propõe active learning (humano + ML). É LEITURA OBRIGATÓRIA para seu projeto de detecção de anomalias.
 
-[Ver artigo original](https://doi.org/10.1016/j.ascom.2021.100481) · [📄 Baixar PDF](assets/articles/Lochner2021.pdf)
+[Ver artigo original](https://doi.org/10.1016/j.ascom.2021.100481) · [📄 Baixar PDF](/assets/articles/Lochner2021.pdf)
 
 ## Citação
 

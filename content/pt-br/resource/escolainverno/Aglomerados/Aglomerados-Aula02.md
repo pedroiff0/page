@@ -48,7 +48,7 @@ A formação de estruturas em grande escala é descrita pelo **parâmetro de con
 
 $\delta(\mathbf{x}, t) = \frac{\rho(\mathbf{x}, t) - \bar\rho(t)}{\bar\rho(t)}$
 
-que compara a densidade local $\rho(\mathbf{x},t)$ com a densidade média do Universo $\bar\rho(t)$ naquele instante. Por definição, **sobredensidades** têm $\delta > 0$ (regiões que vão colapsar) e **subdensidades** têm $\delta < 0$ (os _voids_ da teia cósmica — ver [Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01); como $\delta$ é limitado inferiormente em $-1$, regiões subdensas nunca "esvaziam" completamente, apenas se expandem mais rápido que a média e ficam cada vez mais rarefeitas em relação ao resto do Universo).
+que compara a densidade local $\rho(\mathbf{x},t)$ com a densidade média do Universo $\bar\rho(t)$ naquele instante. Por definição, **sobredensidades** têm $\delta > 0$ (regiões que vão colapsar) e **subdensidades** têm $\delta < 0$ (os _voids_ da teia cósmica — ver [Aula 01](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01); como $\delta$ é limitado inferiormente em $-1$, regiões subdensas nunca "esvaziam" completamente, apenas se expandem mais rápido que a média e ficam cada vez mais rarefeitas em relação ao resto do Universo).
 
 O colapso é **hierárquico**: estruturas menores colapsam primeiro (porque suas flutuações de densidade atingem o limiar não linear mais cedo) e depois se agregam em estruturas maiores. Isso aparece no valor de $\delta$ necessário para cada escala descolar do fundo:
 
@@ -148,8 +148,8 @@ O gás do ICM no núcleo do aglomerado é denso o suficiente para que seu **temp
 
 ## 🔗 Referências e correlatos
 
-- [Slides oficiais da Aula 02 (PDF)](assets/escolainverno/aulas/mc4/L02.pdf)
-- [Aula 01](pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — teorema do virial, ICM e detecção de aglomerados
-- [Aula 03](pt-br/resource/escolainverno/aglomerados/aglomerados-aula03)
-- [Cosmologia — Aula 03](pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — teia cósmica e estrutura em grande escala
-- [Arqueologia Galáctica — Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — diagrama cor-magnitude estelar, análogo ao diagrama cor × massa de galáxias visto aqui
+- [Slides oficiais da Aula 02 (PDF)](/assets/escolainverno/aulas/mc4/L02.pdf)
+- [Aula 01](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula01) — teorema do virial, ICM e detecção de aglomerados
+- [Aula 03](/pt-br/resource/escolainverno/aglomerados/aglomerados-aula03)
+- [Cosmologia — Aula 03](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula03) — teia cósmica e estrutura em grande escala
+- [Arqueologia Galáctica — Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01) — diagrama cor-magnitude estelar, análogo ao diagrama cor × massa de galáxias visto aqui

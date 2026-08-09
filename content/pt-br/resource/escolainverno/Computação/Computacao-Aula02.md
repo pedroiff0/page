@@ -80,7 +80,7 @@ Fundamentalmente, um telescópio mede quatro coisas sobre a luz que chega: **qua
 - **Fotometria e curvas de luz** — brilho medido ao longo do tempo.
 - **Cubos de dados** — combinações 2D (espaço) + 1D (comprimento de onda ou tempo), comuns em espectroscopia de campo integral.
 
-Esses dados são organizados em **catálogos (surveys)** — como o GCNS e o GALAH DR4 já usados na minha própria pesquisa (ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]). Vale notar que nem todo dado vem de observação direta: **simulações numéricas** (ver [Aula 01](pt-br/resource/escolainverno/computação/computacao-aula01)) e até textos da literatura científica também são fontes de dado tratáveis computacionalmente.
+Esses dados são organizados em **catálogos (surveys)** — como o GCNS e o GALAH DR4 já usados na minha própria pesquisa (ver [[MinhaPesquisa-VizinhancaSolar-tSNE|Apresentação de Pesquisa]]). Vale notar que nem todo dado vem de observação direta: **simulações numéricas** (ver [Aula 01](/pt-br/resource/escolainverno/computação/computacao-aula01)) e até textos da literatura científica também são fontes de dado tratáveis computacionalmente.
 
 ### Aprendizado de máquina: os três tipos
 
@@ -125,8 +125,8 @@ Isto é: primeiro os dados brutos são reduzidos a **atributos** (as variáveis 
 
 ## 🔗 Referências e correlatos
 
-- [Aula 01](pt-br/resource/escolainverno/computação/computacao-aula01)
-- [Aula 03](pt-br/resource/escolainverno/computação/computacao-aula03)
-- [Recursos — Machine Learning](pt-br/resource/computacao/machine-learning)
-- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — a pesquisa citada nesta aula como exemplo de ML não supervisionado
-- [Apresentação de Pesquisa](pt-br/resource/escolainverno/apresentacao)
+- [Aula 01](/pt-br/resource/escolainverno/computação/computacao-aula01)
+- [Aula 03](/pt-br/resource/escolainverno/computação/computacao-aula03)
+- [Recursos — Machine Learning](/pt-br/resource/computacao/machine-learning)
+- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — a pesquisa citada nesta aula como exemplo de ML não supervisionado
+- [Apresentação de Pesquisa](/pt-br/resource/escolainverno/apresentacao)

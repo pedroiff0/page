@@ -108,4 +108,4 @@ tags:
 > 6. SNYDER, S. A. Química Orgânica: Volume 1 e 2. 12ª Edição. Rio de Janeiro: LTC, 2018.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/quimica/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/2-periodo/quimica/anotacoes)**

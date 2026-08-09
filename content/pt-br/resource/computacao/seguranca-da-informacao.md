@@ -60,7 +60,7 @@ Consolide atacando (legalmente): capture-the-flag no [picoCTF](https://picoctf.o
 
 **Livros abertos (licença pública):**
 
-- **[Segurança da Informação](assets/biblioteca/computacao/seguranca-da-informacao-ifro.pdf)** (Rede e-Tec Brasil / IFRO) — apostila em português cobrindo fundamentos, políticas de segurança e proteção de sistemas; boa porta de entrada no vocabulário da área. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
+- **[Segurança da Informação](/assets/biblioteca/computacao/seguranca-da-informacao-ifro.pdf)** (Rede e-Tec Brasil / IFRO) — apostila em português cobrindo fundamentos, políticas de segurança e proteção de sistemas; boa porta de entrada no vocabulário da área. Disponível no portal [Proedu](https://proedu.rnp.br), repositório público da Rede e-Tec.
 
 ## 🔗 Referências externas
 
@@ -74,5 +74,5 @@ Consolide atacando (legalmente): capture-the-flag no [picoCTF](https://picoctf.o
 
 Não há disciplina dedicada de segurança na grade — o tema aparece dentro das disciplinas de redes, e o restante é por sua conta (use este guia como trilha):
 
-- [Redes de Computadores I](redes-de-computadores-i/index) — a base indispensável: TCP/IP, portas e serviços são o alfabeto de qualquer análise de segurança.
-- [Redes de Computadores II](redes-de-computadores-ii/index) — onde aparecem os tópicos de segurança de redes: firewalls, VPNs e proteção de perímetro.
+- [Redes de Computadores I](/pt-br/resource/engenharia-de-computação/7-periodo/redes-de-computadores-i) — a base indispensável: TCP/IP, portas e serviços são o alfabeto de qualquer análise de segurança.
+- [Redes de Computadores II](/pt-br/resource/engenharia-de-computação/8-periodo/redes-de-computadores-ii) — onde aparecem os tópicos de segurança de redes: firewalls, VPNs e proteção de perímetro.

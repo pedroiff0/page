@@ -17,7 +17,7 @@ order: 7
   </a>
 </div>
 
-- [Bem-vindo ao blog](pt-br/blog/bem-vindo) — Por que abri esse espaço e o que esperar por aqui.
+- [Bem-vindo ao blog](/pt-br/blog/bem-vindo) — Por que abri esse espaço e o que esperar por aqui.
 
 
 ## 📝 Publicações do Blog

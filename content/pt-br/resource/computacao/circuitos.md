@@ -59,9 +59,9 @@ O que dominar: latches e flip-flops (a célula de memória de 1 bit), registrado
 
 ### Livros e apostilas abertas
 
-- **[Fundamentos de Eletricidade](assets/biblioteca/eletroeletronica/fundamentos-eletricidade-etec.pdf)** (Escola Técnica Aberta) — base da etapa 1: grandezas elétricas, Lei de Ohm e análise de circuitos resistivos. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
-- **[Princípios Básicos de Eletrônica](assets/biblioteca/eletroeletronica/principios-basicos-eletronica-etec.pdf)** (e-Tec) — apoio à etapa 2: diodos, transistores e circuitos analógicos introdutórios. Também via [proedu.rnp.br](https://proedu.rnp.br).
-- **[Circuitos Digitais](assets/biblioteca/computacao/circuitos-digitais-etec.pdf)** (Rede e-Tec/MEC) — cobre as etapas 3 e 4: portas, Karnaugh, flip-flops e contadores, em português didático. Também via [proedu.rnp.br](https://proedu.rnp.br).
+- **[Fundamentos de Eletricidade](/assets/biblioteca/eletroeletronica/fundamentos-eletricidade-etec.pdf)** (Escola Técnica Aberta) — base da etapa 1: grandezas elétricas, Lei de Ohm e análise de circuitos resistivos. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
+- **[Princípios Básicos de Eletrônica](/assets/biblioteca/eletroeletronica/principios-basicos-eletronica-etec.pdf)** (e-Tec) — apoio à etapa 2: diodos, transistores e circuitos analógicos introdutórios. Também via [proedu.rnp.br](https://proedu.rnp.br).
+- **[Circuitos Digitais](/assets/biblioteca/computacao/circuitos-digitais-etec.pdf)** (Rede e-Tec/MEC) — cobre as etapas 3 e 4: portas, Karnaugh, flip-flops e contadores, em português didático. Também via [proedu.rnp.br](https://proedu.rnp.br).
 
 ### Bibliografia clássica (consultar na biblioteca)
 
@@ -77,7 +77,7 @@ O que dominar: latches e flip-flops (a célula de memória de 1 bit), registrado
 
 ## Conexão com as disciplinas do curso
 
-- [Eletricidade Aplicada](eletricidade-aplicada/index) — etapa 1 da trilha: análise de circuitos elétricos.
-- [Eletrônica Analógica](eletronica-analogica/index) — etapa 2: diodos, transistores e amplificadores.
-- [Eletrônica Digital](eletronica-digital/index) — etapa 3 e início da 4: portas, Karnaugh, flip-flops.
-- [Sistemas Digitais](sistemas-digitais/index) — etapa 4 completa: registradores, contadores e máquinas de estados.
+- [Eletricidade Aplicada](/pt-br/resource/engenharia-de-computação/5-periodo/eletricidade-aplicada) — etapa 1 da trilha: análise de circuitos elétricos.
+- [Eletrônica Analógica](/pt-br/resource/engenharia-de-computação/5-periodo/eletronica-analogica) — etapa 2: diodos, transistores e amplificadores.
+- [Eletrônica Digital](/pt-br/resource/engenharia-de-computação/6-periodo/eletronica-digital) — etapa 3 e início da 4: portas, Karnaugh, flip-flops.
+- [Sistemas Digitais](/pt-br/resource/engenharia-de-computação/7-periodo/sistemas-digitais) — etapa 4 completa: registradores, contadores e máquinas de estados.

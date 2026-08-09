@@ -96,4 +96,4 @@ tags:
 > 8. Porto Alegre: Bookman, 2018.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/9-periodo/sistemas-distribuidos/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos/anotacoes)**

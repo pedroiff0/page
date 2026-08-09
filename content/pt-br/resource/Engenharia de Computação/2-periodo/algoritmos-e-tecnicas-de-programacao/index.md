@@ -85,4 +85,4 @@ tags:
 > 4. MANZANO, J. A., OLIVEIRA, J. F. Algoritmos: Lógica para Desenvolvimento de Programação de Computadores. 28º Edição. São Paulo: Editora Érica, 2016.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/2-periodo/algoritmos-e-tecnicas-de-programacao/anotacoes)**

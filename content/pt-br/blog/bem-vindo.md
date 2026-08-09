@@ -20,5 +20,5 @@ Se quiser comentar algum post, dá pra usar a caixa de comentários no fim da p�
 
 ## 🔗 Referências e correlatos
 
-- [Blog — todos os posts](pt-br/blog)
-- [Pesquisa](pt-br/research) — as notas mais formais que este blog complementa
+- [Blog — todos os posts](/pt-br/blog)
+- [Pesquisa](/pt-br/research) — as notas mais formais que este blog complementa

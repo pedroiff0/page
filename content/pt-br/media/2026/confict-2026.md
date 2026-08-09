@@ -32,5 +32,5 @@ Apresentei o meu trabalho de pesquisa em uma sessão de apresentação oral, e a
 
 ## 🔗 Referências e correlatos
 
-- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — pesquisa completa por trás do pôster
-- [SAB 2025](pt-br/media/2025/sab-2025) — versão anterior do mesmo pôster
+- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — pesquisa completa por trás do pôster
+- [SAB 2025](/pt-br/media/2025/sab-2025) — versão anterior do mesmo pôster

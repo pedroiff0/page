@@ -34,7 +34,7 @@ O **OASI (Observatório Astronômico do Sertão de Itaparica)** fica em Itacurub
 
 ## 🔗 Referências e correlatos
 
-- [Neutrinos](pt-br/resource/escolainverno/palestras/neutrinos)
-- [Bolsas](pt-br/resource/escolainverno/palestras/bolsas)
-- [Raio-X](pt-br/resource/escolainverno/palestras/raiox)
-- [Composições](pt-br/resource/escolainverno/palestras/composicoes)
+- [Neutrinos](/pt-br/resource/escolainverno/palestras/neutrinos)
+- [Bolsas](/pt-br/resource/escolainverno/palestras/bolsas)
+- [Raio-X](/pt-br/resource/escolainverno/palestras/raiox)
+- [Composições](/pt-br/resource/escolainverno/palestras/composicoes)

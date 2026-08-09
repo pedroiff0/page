@@ -59,7 +59,7 @@ O que dominar: superescalar, multicore, coerência de cache em alto nível; e do
 
 ### Livros e apostilas abertas
 
-- **[Organização e Arquitetura de Computadores](assets/biblioteca/computacao/organizacao-arquitetura-computadores-etec.pdf)** (Escola Técnica Aberta/MEC) — apostila aberta em português que cobre a etapa 1 e parte da 2 desta trilha. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
+- **[Organização e Arquitetura de Computadores](/assets/biblioteca/computacao/organizacao-arquitetura-computadores-etec.pdf)** (Escola Técnica Aberta/MEC) — apostila aberta em português que cobre a etapa 1 e parte da 2 desta trilha. Disponível no portal público [proedu.rnp.br](https://proedu.rnp.br).
 
 ### Bibliografia clássica (consultar na biblioteca)
 
@@ -76,7 +76,7 @@ O que dominar: superescalar, multicore, coerência de cache em alto nível; e do
 
 ## Conexão com as disciplinas do curso
 
-- [Organização de Computadores](organizacao-de-computadores/index) — etapas 1 e 2 da trilha: componentes, ciclo de instrução, ISA.
-- [Arquitetura de Computadores](pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores.md) — etapa 3: pipeline, cache, memória e desempenho.
-- [Microcontroladores](microcontroladores/index) — a etapa 4 aplicada: programação direto no hardware.
-- [Sistemas Embarcados](sistemas-embarcados/index) — integração de tudo: hardware, firmware e restrições de tempo real.
+- [Organização de Computadores](/pt-br/resource/engenharia-de-computação/7-periodo/organizacao-de-computadores) — etapas 1 e 2 da trilha: componentes, ciclo de instrução, ISA.
+- [Arquitetura de Computadores](/pt-br/resource/engenharia-de-computação/8-periodo/arquitetura-de-computadores) — etapa 3: pipeline, cache, memória e desempenho.
+- [Microcontroladores](/pt-br/resource/engenharia-de-computação/8-periodo/microcontroladores) — a etapa 4 aplicada: programação direto no hardware.
+- [Sistemas Embarcados](/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-embarcados) — integração de tudo: hardware, firmware e restrições de tempo real.

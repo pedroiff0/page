@@ -7,7 +7,7 @@ published: 2026-08-01T20:04:04.327-03:00
 ---
 
 > [!note] Summary
-> Journal club de **Computer Engineering** of the IFF Campus Bom Jesus do Itabapoana: we choose a recent article from the arXiv, someone presents, and the rest of the conversation is to discuss what was read. This page saves what has already been discussed [topics followed](en/research/journal-clubs/engcomp/topicos) show you where to look for the next one.
+> Journal club de **Computer Engineering** of the IFF Campus Bom Jesus do Itabapoana: we choose a recent article from the arXiv, someone presents, and the rest of the conversation is to discuss what was read. This page saves what has already been discussed [topics followed](/en/research/journal-clubs/engcomp/topicos) show you where to look for the next one.
 
 ## 👥 Join
 
@@ -23,7 +23,7 @@ published: 2026-08-01T20:04:04.327-03:00
 
 ## 📚 Articles already discussed
 
- The table is generated from the frontmatter of the notes themselves in this folder — a new note appears on the next build alone without editing this page. View [default of each input](pt-br/research/journal-clubs#padrão-de-cada-entrada).
+ The table is generated from the frontmatter of the notes themselves in this folder — a new note appears on the next build alone without editing this page. View [default of each input](/pt-br/research/journal-clubs#padrão-de-cada-entrada).
 
  '`base
  filters:
@@ -78,10 +78,10 @@ published: 2026-08-01T20:04:04.327-03:00
 📄 Artigo: \[TÍTULO + LINK DO ARXIV]
 
 Quem quiser sugerir leitura para as próximas semanas, os tópicos que acompanhamos estão aqui:
-https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp/topicos
+https://www.phrandrade.com[Topicos](/pt-br/research/journal-clubs/engcomp/topicos)
 
 O histórico do que já discutimos fica em:
-https://www.phrandrade.com/pt-br/research/journal-clubs/engcomp
+https://www.phrandrade.com[Engcomp](/pt-br/research/journal-clubs/engcomp)
 
 Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">📋 Copiar texto</button>
 
@@ -113,11 +113,11 @@ Até lá!</pre> <button type="button" class="jc-button" id="jc-digest-copiar">�
 
 ## 🔗 References and correlations
 
-- [Topics and where to look](en/research/journal-clubs/engcomp/topicos)— the categories of the arXiv which the club accompanies.
-- [Club Dashboard](en/research/journal-clubs/engcomp/dashboard)— activity per month, topic and presenter.
-- [Journal Clubs — Overview](en/research/journal-clubs)
-- [MWBR](en/research/journal-clubs/mwbr)
-- [Research — Overview](en/research)
+- [Topics and where to look](/en/research/journal-clubs/engcomp/topicos)— the categories of the arXiv which the club accompanies.
+- [Club Dashboard](/en/research/journal-clubs/engcomp/dashboard)— activity per month, topic and presenter.
+- [Journal Clubs — Overview](/en/research/journal-clubs)
+- [MWBR](/en/research/journal-clubs/mwbr)
+- [Research — Overview](/en/research)
 
 > [!abstract] Automatic translation notice
 > This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

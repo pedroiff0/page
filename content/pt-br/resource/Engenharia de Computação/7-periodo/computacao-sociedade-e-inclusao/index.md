@@ -96,4 +96,4 @@ tags:
 > 10. VALLEJO, A. P., ZWIEREWICZ, M., COPPETE, M. C., BORGES, M. K., PEREIRA, C. D. Sociedade da Informação, Educação Digital e Inclusão. Santa Catarina: Insular, 2007.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/7-periodo/computacao-sociedade-e-inclusao/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/7-periodo/computacao-sociedade-e-inclusao/anotacoes)**

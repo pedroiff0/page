@@ -105,4 +105,4 @@ tags:
 > 8. PLATT, C. Eletrônica para Makers: Um Manual Prático para o Novo Entusiasta de Eletrônica. São Paulo: Novatec, 2016.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/5-periodo/eletronica-analogica/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/5-periodo/eletronica-analogica/anotacoes)**

@@ -114,4 +114,4 @@ tags:
 > 5. WEIER, M., HASS, J., THOMAS, G. B. Cálculo 1. 12ª Edição. São Paulo: Pearson, 2012. Vol.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/1-periodo/calculo-i/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/1-periodo/calculo-i/anotacoes)**

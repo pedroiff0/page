@@ -53,15 +53,15 @@ order: 1
 
 ## Projects
 
-- [Gaia Data Anomalies Detection](en/research/anomaly-detection)— Building a machine learning pipeline to find anomalous stellar objects in Gaia and in complementary surveys.
-- [Understanding Matter Dark from Extragalactic Shocks](en/research/dark-matter-shocks)— Testing the accuracy of a Monte Carlo method to date collisions of galaxy clusters, such as indirect proxy for dark matter behavior.
-- [Simulating Satellite Impact on Astronomical Observations](en/research/satellite-trail-removal)— An AI algorithm to remove artificial satellite tracks from astronomical images, recovering 99.7% of lost information.
-- [ReLaTeX: LaTeX Class for Academic IFF Works](en/research/relatex)— The class `ifftese.cls` and the package `macros.sty`, automating compliance with ABNT standards in IFF academic works.
+- [Gaia Data Anomalies Detection](/en/research/anomaly-detection)— Building a machine learning pipeline to find anomalous stellar objects in Gaia and in complementary surveys.
+- [Understanding Matter Dark from Extragalactic Shocks](/en/research/dark-matter-shocks)— Testing the accuracy of a Monte Carlo method to date collisions of galaxy clusters, such as indirect proxy for dark matter behavior.
+- [Simulating Satellite Impact on Astronomical Observations](/en/research/satellite-trail-removal)— An AI algorithm to remove artificial satellite tracks from astronomical images, recovering 99.7% of lost information.
+- [ReLaTeX: LaTeX Class for Academic IFF Works](/en/research/relatex)— The class `ifftese.cls` and the package `macros.sty`, automating compliance with ABNT standards in IFF academic works.
 
 ## Readings
 
-- [Journal Clubs](en/research/journal-clubs)— Curated list of articles discussed in group (MWBR and ENGCOMP), with each discussion.
-- **[Foundations of Chemical Evolution of the Galaxy](assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)** (W. Maciel, IAG/USP) — reference book of my area, distributed free of charge by the author.
+- [Journal Clubs](/en/research/journal-clubs)— Curated list of articles discussed in group (MWBR and ENGCOMP), with each discussion.
+- **[Foundations of Chemical Evolution of the Galaxy](/assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)** (W. Maciel, IAG/USP) — reference book of my area, distributed free of charge by the author.
 
 > [!abstract] Automatic translation notice
 > This page was automatically translated from Portuguese using the LibreTranslate-based automated translator implemented in `tools/translate_quartz.py` (it preserves wikilinks, embeds and proper names via positional splitting). Machine translation may contain inaccuracies — the original Portuguese version is the authoritative source.

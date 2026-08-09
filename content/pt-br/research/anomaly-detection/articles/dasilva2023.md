@@ -18,4 +18,4 @@ _da Silva, A. R. (2023)_
 
 (OCR extraído; síntese a confirmar pela leitura do abstract abaixo.)
 
-[Ver artigo original](https://doi.org/10.1051/0004-6361/202347229) · [📄 Baixar PDF](assets/articles/DaSilvaSmiljanic2023.pdf)
+[Ver artigo original](https://doi.org/10.1051/0004-6361/202347229) · [📄 Baixar PDF](/assets/articles/DaSilvaSmiljanic2023.pdf)

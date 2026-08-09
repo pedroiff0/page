@@ -50,4 +50,4 @@ tags:
 > 8. YAMAMOTO, J. K., LANDIM, P. M. B. Geoestatística: Conceitos e Aplicações. São Paulo: Oficina de Textos, 2013.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/modelagem-ambiental/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/eletivas/modelagem-ambiental/anotacoes)**

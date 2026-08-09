@@ -25,8 +25,8 @@ tags:
 
 > [!note] 📦 Material Didático e Recursos Institucionais
 > ### 📑 Material da Aula
-> - 📄 **[Plano de Ensino Oficial em PDF](/assets/disciplinas/plano-de-ensino-CSECBJI.13.pdf)**
-> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/PPC_Engenharia_Computacao.pdf)**
+> - 📄 **[Plano de Ensino Oficial em PDF](/assets/disciplinas/plano-de-ensino-csecbji.13.pdf)**
+> - 📄 **[Projeto Pedagógico do Curso (PPC)](/assets/disciplinas/ppc-engenharia-computacao.pdf)**
 
 ## 📋 Sumário Interativo
 - [📍 1. Ementário Oficial da Disciplina](#-1-ementário-oficial-da-disciplina)

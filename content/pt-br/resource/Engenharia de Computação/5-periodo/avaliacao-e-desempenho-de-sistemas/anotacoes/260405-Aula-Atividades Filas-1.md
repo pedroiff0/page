@@ -234,30 +234,3 @@ Passo 4: $P(N\geq5)$
 $\rho^5 = 0,1296 \implies 12,96\%$
 d) A chance é baixa. 
 ***
-
-## 📝 Anotações da Disciplina
-
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes")'
-    - 'file.ext == "md"'
-    - 'file.name != "index"'
-formulas:
-  anotacao: 'link(file.path, note.title)'
-properties:
-  formula.anotacao:
-    displayName: Anotação / Documento
-  note.created:
-    displayName: Data de Criação
-views:
-  - type: table
-    name: Anotações da Disciplina
-    order:
-      - formula.anotacao
-      - note.created
-    sort:
-      - property: file.name
-        direction: ASC
-```
-

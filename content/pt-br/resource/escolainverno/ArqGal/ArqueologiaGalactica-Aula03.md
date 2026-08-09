@@ -123,8 +123,8 @@ Essa arqueologia revela uma estrutura em camadas: um **halo** dividido entre uma
 
 ## 🔗 Referências e correlatos
 
-- [Aula 01](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01)
-- [Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02)
-- [Cosmologia — Aula 02](pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — o princípio cosmológico (homogeneidade/isotropia) que contrasta com a estrutura em camadas da própria Via Láctea
-- [Curso ON — Aula 08: Velocidades e Movimento Próprio](pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio) — o formalismo completo de LSR e velocidade peculiar por trás da cinemática usada aqui para separar disco/halo
-- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — minha própria pesquisa aplica aprendizado não supervisionado à vizinhança solar, mesmo tipo de arqueologia galáctica discutido aqui
+- [Aula 01](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula01)
+- [Aula 02](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02)
+- [Cosmologia — Aula 02](/pt-br/resource/escolainverno/cosmologia/cosmologia-aula02) — o princípio cosmológico (homogeneidade/isotropia) que contrasta com a estrutura em camadas da própria Via Láctea
+- [Curso ON — Aula 08: Velocidades e Movimento Próprio](/pt-br/resource/curso-on/aula-08-velocidades-e-movimento-proprio) — o formalismo completo de LSR e velocidade peculiar por trás da cinemática usada aqui para separar disco/halo
+- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — minha própria pesquisa aplica aprendizado não supervisionado à vizinhança solar, mesmo tipo de arqueologia galáctica discutido aqui

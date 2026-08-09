@@ -51,4 +51,4 @@ tags:
 > 5. BAUER, W., WESTFALL, G. D., DIAS, H. Física para Universitários: Relatividade, Oscilações, Ondas e Calor. São Paulo: AMGH, 2013.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/3-periodo/fisica-experimental-ii/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/3-periodo/fisica-experimental-ii/anotacoes)**

@@ -1,22 +1,14 @@
 ---
 title: Anotações e Arquivos
 publish: true
-password: "eng232"
 ---
-
-
-## 📎 Base de Dados de Arquivos
-
-Nenhum arquivo encontrado.
-
-
 ## 📝 Anotações e Documentos
 
 ```base
 filters:
   and:
     - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/9-periodo/direito-etica-e-cidadania/anotacoes")'
-    - 'note.publish'
+    - '!file.name.endsWith("index")'
 formulas:
   anotacao: 'link(file.path, note.title)'
 properties:

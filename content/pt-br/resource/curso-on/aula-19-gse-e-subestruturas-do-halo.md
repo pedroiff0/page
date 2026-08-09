@@ -92,9 +92,9 @@ Por fim, evidências mais recentes (Xandra et al. 2025) discutem a relação ent
 - Limberg, Queiroz & Perottoni (2023); Almeida-Fernandes, Limberg & Perottoni (submetido) — população estelar e gradiente de metalicidade de Sagitário
 - Perottoni et al. (2018); Sales Silva, Perottoni et al. (2019, 2020); Abuchaim, Perottoni et al. (2023) — série de trabalhos sobre TriAnd
 - Borbolato, Perottoni et al. (2024) — caracterização do Monoceros Ring
-- [Curso ON — visão geral](pt-br/resource/curso-on)
-- [Aula 18 — Proto-Disco, Spin-Up e o Disco Splash](pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash) — pré-requisito direto: a cronologia e o disco splash que a GSE produz
-- [Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica](pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee) — o espaço $(E,L_z)$ usado para identificar toda subestrutura discutida aqui
-- [Escola de Inverno — Arqueologia Galáctica, Aula 02](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — Omega Centauri como núcleo remanescente de galáxia anã, aqui conectado explicitamente à GSE
-- [Escola de Inverno — Arqueologia Galáctica, Aula 03](pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — a GSE já introduzida ali como um dos mergers que estruturam o halo
-- [Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico](pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco) — a GSE recolocada no contexto mais amplo dos mergers confirmados e da formação do disco espesso
+- [Curso ON — visão geral](/pt-br/resource/curso-on)
+- [Aula 18 — Proto-Disco, Spin-Up e o Disco Splash](/pt-br/resource/curso-on/aula-18-proto-disco-spin-up-e-disco-splash) — pré-requisito direto: a cronologia e o disco splash que a GSE produz
+- [Aula 12 — Espaço de Ações e Diagramas de Arqueologia Galáctica](/pt-br/resource/curso-on/aula-12-espaco-de-acoes-apogee) — o espaço $(E,L_z)$ usado para identificar toda subestrutura discutida aqui
+- [Escola de Inverno — Arqueologia Galáctica, Aula 02](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula02) — Omega Centauri como núcleo remanescente de galáxia anã, aqui conectado explicitamente à GSE
+- [Escola de Inverno — Arqueologia Galáctica, Aula 03](/pt-br/resource/escolainverno/arqgal/arqueologiagalactica-aula03) — a GSE já introduzida ali como um dos mergers que estruturam o halo
+- [Aula 20 — O Bojo, a Barra e a Estrutura do Disco Galáctico](/pt-br/resource/curso-on/aula-20-bojo-barra-e-estrutura-do-disco) — a GSE recolocada no contexto mais amplo dos mergers confirmados e da formação do disco espesso

@@ -16,7 +16,7 @@ tags:
 
 Praticamente todo sistema relevante hoje é distribuído: um app de banco replica dados em vários datacenters, um serviço de streaming particiona conteúdo entre servidores, um banco de dados moderno aceita que a rede vai falhar e projeta em torno disso. A parte contraintuitiva — e o motivo de esta disciplina existir — é que **distribuir um sistema não é só "colocar mais máquinas"**: rede tem latência, pacotes se perdem, relógios de máquinas diferentes divergem, e processos podem falhar independentemente uns dos outros sem avisar. Ignorar isso é como prometer uma garantia que a física da rede simplesmente não permite.
 
-Entender os limites fundamentais (o Teorema CAP, consistência eventual vs. forte, os modelos de falha) evita o erro mais caro em sistemas reais: prometer uma consistência que o sistema, sob partição de rede, não consegue entregar. E entender computação paralela (a outra metade desta trilha) é o que permite tirar proveito de múltiplos núcleos/GPUs/nós de um cluster — a mesma motivação, inclusive, do minicurso de [Computação de Alto Desempenho](pt-br/resource/escolainverno/computação) que fiz na Escola de Inverno.
+Entender os limites fundamentais (o Teorema CAP, consistência eventual vs. forte, os modelos de falha) evita o erro mais caro em sistemas reais: prometer uma consistência que o sistema, sob partição de rede, não consegue entregar. E entender computação paralela (a outra metade desta trilha) é o que permite tirar proveito de múltiplos núcleos/GPUs/nós de um cluster — a mesma motivação, inclusive, do minicurso de [Computação de Alto Desempenho](/pt-br/resource/escolainverno/computação) que fiz na Escola de Inverno.
 
 ## Trilha de estudo
 
@@ -64,7 +64,7 @@ O que dominar: a Taxonomia de Flynn (SISD, SIMD, MISD, MIMD) para classificar ar
 
 ### Cross-link no próprio site
 
-- **[Computação de Alto Desempenho](pt-br/resource/escolainverno/computação)** — o minicurso de HPC (OpenMP/MPI) que fiz na Escola de Inverno em Astrofísica 2026 é, literalmente, a metade "computação paralela" desta trilha aplicada a processamento de dados científicos.
+- **[Computação de Alto Desempenho](/pt-br/resource/escolainverno/computação)** — o minicurso de HPC (OpenMP/MPI) que fiz na Escola de Inverno em Astrofísica 2026 é, literalmente, a metade "computação paralela" desta trilha aplicada a processamento de dados científicos.
 
 ### Bibliografia clássica (consultar na biblioteca)
 
@@ -79,6 +79,6 @@ O que dominar: a Taxonomia de Flynn (SISD, SIMD, MISD, MIMD) para classificar ar
 
 ## Conexão com as disciplinas do curso
 
-- [Sistemas Distribuídos](pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos) — a disciplina do 9º período que cobre as etapas 1 a 4 desta trilha: conceitos, comunicação, middleware e tolerância a falhas.
-- [Algoritmos Distribuídos](pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos) — eletiva que aprofunda a etapa 5: modelos síncrono/assíncrono, algoritmos de eleição e exclusão mútua.
-- [Computação Paralela e Distribuída](pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida) — eletiva-continuação que foca na parte de arquiteturas paralelas (OpenMP/MPI/CUDA) da etapa 5.
+- [Sistemas Distribuídos](/pt-br/resource/engenharia-de-computação/9-periodo/sistemas-distribuidos) — a disciplina do 9º período que cobre as etapas 1 a 4 desta trilha: conceitos, comunicação, middleware e tolerância a falhas.
+- [Algoritmos Distribuídos](/pt-br/resource/engenharia-de-computação/eletivas/algoritmos-distribuidos) — eletiva que aprofunda a etapa 5: modelos síncrono/assíncrono, algoritmos de eleição e exclusão mútua.
+- [Computação Paralela e Distribuída](/pt-br/resource/engenharia-de-computação/eletivas/computacao-paralela-e-distribuida) — eletiva-continuação que foca na parte de arquiteturas paralelas (OpenMP/MPI/CUDA) da etapa 5.

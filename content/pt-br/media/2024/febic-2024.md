@@ -30,5 +30,5 @@ Eu e o [Maycon Jorge Deláqua da Silva](https://mayconjdelaqua.vercel.app/) repr
 ## 🔗 Referências e correlatos
 
 - Fonte: [IFF — Projeto do IFF Bom Jesus é premiado em evento nacional](https://portal1.iff.edu.br/nossos-campi/bom-jesus-do-itabapoana/noticias/projeto-do-iff-bom-jesus-e-premiado-em-evento-nacional)
-- [Simulando o Impacto de Satélites em Observações Astronômicas](pt-br/research/satellite-trail-removal) — página de pesquisa completa deste projeto
-- [MCTIA 2025](pt-br/media/2025/mctia-2025) — mesmo projeto, um ano depois, já com 1º lugar
+- [Simulando o Impacto de Satélites em Observações Astronômicas](/pt-br/research/satellite-trail-removal) — página de pesquisa completa deste projeto
+- [MCTIA 2025](/pt-br/media/2025/mctia-2025) — mesmo projeto, um ano depois, já com 1º lugar

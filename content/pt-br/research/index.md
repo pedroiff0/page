@@ -51,12 +51,12 @@ Meu trabalho está na interseção entre **métodos computacionais** e **problem
 
 ## Projetos
 
-- [Detecção de Anomalias em Dados do Gaia](pt-br/research/anomaly-detection) — Construindo um pipeline de aprendizado de máquina para encontrar objetos estelares anômalos no Gaia e em levantamentos complementares.
-- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](pt-br/research/dark-matter-shocks) — Testando a acurácia de um método de Monte Carlo para datar colisões de aglomerados de galáxias, como proxy indireto para o comportamento da matéria escura.
-- [Simulando o Impacto de Satélites em Observações Astronômicas](pt-br/research/satellite-trail-removal) — Um algoritmo de IA para remover rastros de satélites artificiais de imagens astronômicas, recuperando 99,7% da informação perdida.
-- [ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF](pt-br/research/relatex) — A classe `ifftese.cls` e o pacote `macros.sty`, automatizando o cumprimento das normas ABNT em trabalhos acadêmicos do IFF.
+- [Detecção de Anomalias em Dados do Gaia](/pt-br/research/anomaly-detection) — Construindo um pipeline de aprendizado de máquina para encontrar objetos estelares anômalos no Gaia e em levantamentos complementares.
+- [Entendendo a Matéria Escura a partir de Choques Extragalácticos](/pt-br/research/dark-matter-shocks) — Testando a acurácia de um método de Monte Carlo para datar colisões de aglomerados de galáxias, como proxy indireto para o comportamento da matéria escura.
+- [Simulando o Impacto de Satélites em Observações Astronômicas](/pt-br/research/satellite-trail-removal) — Um algoritmo de IA para remover rastros de satélites artificiais de imagens astronômicas, recuperando 99,7% da informação perdida.
+- [ReLaTeX: Classe LaTeX para Trabalhos Acadêmicos do IFF](/pt-br/research/relatex) — A classe `ifftese.cls` e o pacote `macros.sty`, automatizando o cumprimento das normas ABNT em trabalhos acadêmicos do IFF.
 
 ## Leituras
 
-- [Journal Clubs](pt-br/research/journal-clubs) — Lista curada de artigos discutidos em grupo (MWBR e ENGCOMP), com a discussão de cada um.
-- **[Fundamentos de Evolução Química da Galáxia](assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)** (W. Maciel, IAG/USP) — livro de referência da minha área, distribuído gratuitamente pelo autor.
+- [Journal Clubs](/pt-br/research/journal-clubs) — Lista curada de artigos discutidos em grupo (MWBR e ENGCOMP), com a discussão de cada um.
+- **[Fundamentos de Evolução Química da Galáxia](/assets/biblioteca/astronomia/maciel-evolucao-quimica-galaxia.pdf)** (W. Maciel, IAG/USP) — livro de referência da minha área, distribuído gratuitamente pelo autor.

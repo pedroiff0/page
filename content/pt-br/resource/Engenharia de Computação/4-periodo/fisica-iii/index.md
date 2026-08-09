@@ -85,4 +85,4 @@ tags:
 > 5. TIPLER, P. A., MOSCA, G. Física para Cientistas e Engenheiros: Eletricidade, Magnetismo e Ótica. 6ª Edição. Rio de Janeiro: LTC, 2009.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/4-periodo/fisica-iii/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/4-periodo/fisica-iii/anotacoes)**

@@ -84,4 +84,4 @@ tags:
 > 10. VIRGILLITO, S. B. Pesquisa Operacional: Métodos de Modelagem Quantitativa para a Tomada de Decisões. São Paulo: Saraiva, 2017.
 
 ## 📝 Anotações e Arquivos Didáticos
-- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/Engenharia%20de%20Computa%C3%A7%C3%A3o/eletivas/pesquisa-operacional-ii/anotacoes/index)**
+- 📁 **[Acessar Repositório Dinâmico de Anotações da Disciplina](/pt-br/resource/engenharia-de-computação/eletivas/pesquisa-operacional-ii/anotacoes)**

@@ -3872,30 +3872,3 @@ $$E[s] = \frac{E[n]}{\lambda(1-P_B)}$$
 $$E[w] = \frac{E[n_w]}{\lambda(1-P_B)}$$
 ***
 d) emita parecer técnico.
-
-## 📝 Anotações da Disciplina
-
-```base
-filters:
-  and:
-    - 'file.folder.startsWith("pt-br/resource/Engenharia de Computação/5-periodo/avaliacao-e-desempenho-de-sistemas/anotacoes")'
-    - 'file.ext == "md"'
-    - 'file.name != "index"'
-formulas:
-  anotacao: 'link(file.path, note.title)'
-properties:
-  formula.anotacao:
-    displayName: Anotação / Documento
-  note.created:
-    displayName: Data de Criação
-views:
-  - type: table
-    name: Anotações da Disciplina
-    order:
-      - formula.anotacao
-      - note.created
-    sort:
-      - property: file.name
-        direction: ASC
-```
-
