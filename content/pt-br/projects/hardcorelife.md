@@ -1,11 +1,20 @@
 ---
 publish: false
-title: HardCoreLife — Plataforma de Vida Modular
+title: HardCoreLife (plataforma)
 created: 2026-03-13
 modified: 2026-07-26T10:03:04.736-03:00
 published: 2026-07-26T10:03:04.736-03:00
-password: 409182ph
+tags: [Life OS, Modular, Multi-módulo, Família]
+status: planejamento
 ---
+
+<!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->
+
+**Stack:** Node.js, Express, MongoDB, Docker
+
+Sem repositório público ainda. · em planejamento
+
+<!-- fim do bloco gerado -->
 
 > [!note] Em uma frase
 > Plataforma pessoal modular, em **planejamento**, para reunir controle financeiro, investimentos, veículos, tarefas e compartilhamento familiar em um só lugar.

@@ -1,11 +1,21 @@
 ---
 publish: false
-title: AcademicoWeb (arquivado)
+title: Portal Acadêmico IFF (academicoWeb)
 created: 2026-03-13
 modified: 2026-07-26T10:02:50.481-03:00
 published: 2026-07-26T10:02:50.481-03:00
-password: 409182ph
+tags: [Web App, IFF, Scraping, Arquivado]
+repo: https://github.com/pedroiff0/academicoWeb
+status: privado
 ---
+
+<!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->
+
+**Stack:** Python, Flask, Jinja2, Scraping
+
+**Repositório:** [https://github.com/pedroiff0/academicoWeb](https://github.com/pedroiff0/academicoWeb) · privado
+
+<!-- fim do bloco gerado -->
 
 > [!note] Em uma frase
 > Ferramenta de automação/scraping para o sistema acadêmico do IFF. **Arquivado.**

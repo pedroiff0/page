@@ -1,11 +1,21 @@
 ---
 publish: false
-title: Guia de Git & GitHub
+title: guia-github
 created: 2026-03-13
 modified: 2026-07-26T10:03:00.381-03:00
 published: 2026-07-26T10:03:00.381-03:00
-password: 409182ph
+tags: [Boas Práticas, Templates, Versionamento]
+repo: https://github.com/pedroiff0/guia-github
+status: público
 ---
+
+<!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->
+
+**Stack:** Docs, GitHub Actions, Shell
+
+**Repositório:** [https://github.com/pedroiff0/guia-github](https://github.com/pedroiff0/guia-github) · público
+
+<!-- fim do bloco gerado -->
 
 > [!note] Em uma frase
 > Guia próprio de Git e boas práticas de versionamento, em **planejamento inicial**.

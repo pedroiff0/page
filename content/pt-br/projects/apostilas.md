@@ -4,8 +4,17 @@ title: Arquivo de Apostilas
 created: 2026-04-05
 modified: 2026-07-26T10:02:56.002-03:00
 published: 2026-07-26T10:02:56.002-03:00
-password: 409182ph
+tags: [Material Didático, Engenharia de Computação, Autoral]
+status: planejamento
 ---
+
+<!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->
+
+**Stack:** LaTeX
+
+Sem repositório público ainda. · em planejamento
+
+<!-- fim do bloco gerado -->
 
 > [!note] Em uma frase
 > Plano, em **planejamento**, de escrever apostilas próprias cobrindo toda a grade do curso de Engenharia de Computação.
@@ -29,4 +38,4 @@ Ideia de cobrir, em apostilas próprias com teoria, exercícios e experimentos c
 - **Gestão de Projetos, Metodologia da Pesquisa Científica, TCC** (escrita ABNT, normas atuais)
 - **Astrofísica**
 
-Complementa as [notas de disciplinas](pt-br/resource/engenharia-de-computação) já publicadas no site.
+Complementa as [notas de disciplinas](/pt-br/resource/engenharia-de-computação) já publicadas no site.

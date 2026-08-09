@@ -4,8 +4,17 @@ title: Livro-Texto de Cálculo
 created: 2026-03-13
 modified: 2026-07-26T10:03:13.435-03:00
 published: 2026-07-26T10:03:13.435-03:00
-password: 409182ph
+tags: [Material Didático, Cálculo, Algoritmos, Autoral]
+status: elaboracao
 ---
+
+<!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->
+
+**Stack:** LaTeX, Python, Sphinx
+
+Sem repositório público ainda. · em elaboração
+
+<!-- fim do bloco gerado -->
 
 > [!note] Em uma frase
 > Material didático próprio de Cálculo, **em elaboração**, dos fundamentos a sistemas lineares, com exemplos e algoritmos próprios.

@@ -5,13 +5,52 @@ created: 2026-07-22
 modified: 2026-07-26T10:03:08.687-03:00
 published: 2026-07-26T10:03:08.687-03:00
 order: 5
-password: 409182ph
 ---
 
 > [!note] Resumo
 > Ferramentas, aplicações e material didático que construo fora da pesquisa acadêmica.
 
 <div class="media-carousel">
+  <a href="/pt-br/projects/financas" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="Finanças App" />
+    <div class="slide-caption">Finanças App</div>
+  </a>
+  <a href="/pt-br/projects/sistema-academico" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="Sistema Acadêmico" />
+    <div class="slide-caption">Sistema Acadêmico</div>
+  </a>
+  <a href="/pt-br/projects/projeto-profissional" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="Projeto Profissional" />
+    <div class="slide-caption">Projeto Profissional</div>
+  </a>
+  <a href="/pt-br/projects/relatex" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="ReLaTeX" />
+    <div class="slide-caption">ReLaTeX</div>
+  </a>
+  <a href="/pt-br/projects/avaliacoes" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="Sistema de Avaliações" />
+    <div class="slide-caption">Sistema de Avaliações</div>
+  </a>
+  <a href="/pt-br/projects/avaliacoes-professores" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="Avaliações Professores" />
+    <div class="slide-caption">Avaliações Professores</div>
+  </a>
+  <a href="/pt-br/projects/avaliacoes-concurseiro" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="Avaliações Concurseiro" />
+    <div class="slide-caption">Avaliações Concurseiro</div>
+  </a>
+  <a href="/pt-br/projects/awesome-skills" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="awesome-skills" />
+    <div class="slide-caption">awesome-skills</div>
+  </a>
+  <a href="/pt-br/projects/meu-setup" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="meu-setup" />
+    <div class="slide-caption">meu-setup</div>
+  </a>
+  <a href="/pt-br/projects/portfolio" class="carousel-slide">
+    <img src="/assets/illustrations/projects.svg" alt="Portfólio de Projetos" />
+    <div class="slide-caption">Portfólio de Projetos</div>
+  </a>
   <a href="/pt-br/projects/verdementa" class="carousel-slide">
     <img src="/assets/illustrations/projects.svg" alt="VerdeMenta" />
     <div class="slide-caption">VerdeMenta</div>
@@ -46,16 +85,26 @@ Projetos pessoais de desenvolvimento — ferramentas, aplicações e material di
 
 ## Em andamento
 
-- [VerdeMenta](pt-br/projects/verdementa) — sistema de controle de caixa e fluxo financeiro, em produção.
-- [Livro-Texto de Cálculo](pt-br/projects/livrocalculo) — material didático próprio de Cálculo, dos fundamentos a sistemas lineares.
+- [Finanças App](/pt-br/projects/financas) — controle financeiro pessoal, investimentos e gestão de moto, em três módulos independentes.
+- [Sistema Acadêmico (IFF)](/pt-br/projects/sistema-academico) — grade, diário, notas, boletim/CR e planejamento, multi-curso.
+- [Projeto Profissional](/pt-br/projects/projeto-profissional) — template base endurecido para iniciar qualquer app web Node.
+- [ReLaTeX](/pt-br/projects/relatex) — Overleaf self-hosted com a identidade do IFF.
+- [Sistema de Avaliações](/pt-br/projects/avaliacoes) — provas e listas em PDF real via LaTeX, a partir de um banco de questões.
+- [Avaliações Professores](/pt-br/projects/avaliacoes-professores) — fork com banco global compartilhado entre professores.
+- [Avaliações Concurseiro](/pt-br/projects/avaliacoes-concurseiro) — fork com trilhas por edital, cronograma e simulados.
+- [awesome-skills](/pt-br/projects/awesome-skills) — coleção pública de skills (memória procedural) do agente Hermes.
+- [meu-setup](/pt-br/projects/meu-setup) — mapa dos programas que uso e instaladores automáticos multi-plataforma.
+- [Portfólio de Projetos](/pt-br/projects/portfolio) — página estática que resume meus repositórios do GitHub.
+- [VerdeMenta](/pt-br/projects/verdementa) — sistema de controle de caixa e fluxo financeiro, em produção.
+- [Livro-Texto de Cálculo](/pt-br/projects/livrocalculo) — material didático próprio de Cálculo, dos fundamentos a sistemas lineares.
 
 ## Em planejamento
 
-- [HardCoreLife](pt-br/projects/hardcorelife) — plataforma pessoal modular (financeiro, tarefas, compartilhamento familiar).
-- [arXiv Searcher](pt-br/projects/searcher) — ferramenta de busca e organização automática de artigos do arXiv.
-- [Arquivo de Apostilas](pt-br/projects/apostilas) — apostilas próprias cobrindo toda a grade do curso de Engenharia de Computação.
-- [Guia de Git & GitHub](pt-br/projects/guiagithub) — guia de Git e boas práticas de versionamento.
+- [HardCoreLife](/pt-br/projects/hardcorelife) — plataforma pessoal modular (financeiro, tarefas, compartilhamento familiar).
+- [arXiv Searcher](/pt-br/projects/searcher) — ferramenta de busca e organização automática de artigos do arXiv.
+- [Arquivo de Apostilas](/pt-br/projects/apostilas) — apostilas próprias cobrindo toda a grade do curso de Engenharia de Computação.
+- [Guia de Git & GitHub](/pt-br/projects/guiagithub) — guia de Git e boas práticas de versionamento.
 
 ## Arquivado
 
-- [AcademicoWeb (arquivado)](pt-br/projects/academicoweb) — ferramenta de automação para o sistema acadêmico do IFF.
+- [AcademicoWeb (arquivado)](/pt-br/projects/academicoweb) — ferramenta de automação para o sistema acadêmico do IFF.

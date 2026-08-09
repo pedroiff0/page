@@ -4,8 +4,17 @@ title: arXiv Searcher
 created: 2026-03-13
 modified: 2026-07-26T10:03:17.536-03:00
 published: 2026-07-26T10:03:17.536-03:00
-password: 409182ph
+tags: [Automação, Pesquisa, Daemon, BibTeX]
+status: planejamento
 ---
+
+<!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->
+
+**Stack:** Python, arXiv API, Docker, LaTeX, Markdown
+
+Sem repositório público ainda. · em planejamento
+
+<!-- fim do bloco gerado -->
 
 > [!note] Em uma frase
 > Ferramenta, em **planejamento**, para buscar e organizar automaticamente artigos do arXiv por assunto/palavra-chave.

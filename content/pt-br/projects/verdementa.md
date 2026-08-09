@@ -1,11 +1,21 @@
 ---
 publish: false
-title: VerdeMenta — Controle de Caixa
+title: Verdementa
 created: 2026-04-01
 modified: 2026-07-26T10:03:21.382-03:00
 published: 2026-07-26T10:03:21.382-03:00
-password: 409182ph
+tags: [Suíte Comercial, ERP]
+repo: https://github.com/pedroiff0/verdementa
+status: privado
 ---
+
+<!-- gerado por portfolio/tools/gen_quartz.py — não editar à mão -->
+
+**Stack:** Meta-repo, Python, PowerShell
+
+**Repositório:** [https://github.com/pedroiff0/verdementa](https://github.com/pedroiff0/verdementa) · privado
+
+<!-- fim do bloco gerado -->
 
 > [!note] Em uma frase
 > Sistema de controle de caixa e fluxo financeiro, atualmente **em produção** e em uso real.
