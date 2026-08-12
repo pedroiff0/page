@@ -91,7 +91,11 @@ Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensa
 
   var form = document.getElementById("contact-form");
   var status = document.getElementById("contact-form-status");
-  if (!form || window.emailjs === undefined) return;
+  if (!form) return;
+  if (window.emailjs === undefined) {
+    status.textContent = "O serviço de envio não carregou (um bloqueador de anúncios, escudo de privacidade ou proxy pode estar barrando cdn.jsdelivr.net). Envie por e-mail direto por enquanto.";
+    return;
+  }
   emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
   form.addEventListener("submit", function(e) {
@@ -103,11 +107,11 @@ Prefere não abrir o seu programa de e-mail? Preencha os campos abaixo e a mensa
     status.textContent = "Enviando…";
     emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, form).then(
       function() {
-        status.textContent = "Mensagem enviada — obrigado pelo contato!";
+        status.textContent = "Mensagem enviada — obrigado pelo contato! Se não chegar em alguns minutos, confira a pasta de Spam/Lixo Eletrônico.";
         form.reset();
       },
       function(err) {
-        status.textContent = "Não deu pra enviar agora. Tenta de novo ou manda um e-mail direto.";
+        status.textContent = "Não deu pra enviar agora (erro " + (err && err.status ? err.status : "?") + "). Tenta de novo ou manda um e-mail direto.";
       }
     );
   });

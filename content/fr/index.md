@@ -92,7 +92,11 @@ Vous préférez ne pas ouvrir votre client e-mail ? Remplissez les champs ci-des
 
   var form = document.getElementById("contact-form");
   var status = document.getElementById("contact-form-status");
-  if (!form || window.emailjs === undefined) return;
+  if (!form) return;
+  if (window.emailjs === undefined) {
+    status.textContent = "Le service d'envoi n'a pas pu se charger (un bloqueur de publicités, un bouclier de confidentialité ou un proxy peut bloquer cdn.jsdelivr.net). Envoyez-moi un e-mail directement pour l'instant.";
+    return;
+  }
   emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
   form.addEventListener("submit", function(e) {
@@ -104,11 +108,11 @@ Vous préférez ne pas ouvrir votre client e-mail ? Remplissez les champs ci-des
     status.textContent = "Envoi…";
     emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, form).then(
       function() {
-        status.textContent = "Message envoyé — merci de m'avoir écrit !";
+        status.textContent = "Message envoyé — merci de m'avoir écrit ! S'il n'arrive pas dans quelques minutes, vérifiez votre dossier Spam/Courrier indésirable.";
         form.reset();
       },
       function(err) {
-        status.textContent = "Impossible d'envoyer pour le moment. Réessayez ou envoyez un e-mail directement.";
+        status.textContent = "Impossible d'envoyer pour le moment (erreur " + (err && err.status ? err.status : "?") + "). Réessayez ou envoyez un e-mail directement.";
       }
     );
   });

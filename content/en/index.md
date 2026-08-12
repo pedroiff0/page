@@ -92,7 +92,11 @@ Prefer not to open your email client? Fill in the fields below and the message l
 
   var form = document.getElementById("contact-form");
   var status = document.getElementById("contact-form-status");
-  if (!form || window.emailjs === undefined) return;
+  if (!form) return;
+  if (window.emailjs === undefined) {
+    status.textContent = "The send service didn't load (an ad/privacy blocker or proxy may be blocking cdn.jsdelivr.net). Please email me directly for now.";
+    return;
+  }
   emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
   form.addEventListener("submit", function(e) {
@@ -104,11 +108,11 @@ Prefer not to open your email client? Fill in the fields below and the message l
     status.textContent = "Sending…";
     emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, form).then(
       function() {
-        status.textContent = "Message sent — thanks for reaching out!";
+        status.textContent = "Message sent — thanks for reaching out! If it doesn't arrive in a few minutes, check your Spam/Junk folder.";
         form.reset();
       },
       function(err) {
-        status.textContent = "Couldn't send it right now. Try again or email me directly.";
+        status.textContent = "Couldn't send it right now (error " + (err && err.status ? err.status : "?") + "). Try again or email me directly.";
       }
     );
   });

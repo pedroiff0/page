@@ -92,7 +92,11 @@ A continuación mi CV en el idioma de esta página y el repositorio (LaTeX multi
 
   var form = document.getElementById("contact-form");
   var status = document.getElementById("contact-form-status");
-  if (!form || window.emailjs === undefined) return;
+  if (!form) return;
+  if (window.emailjs === undefined) {
+    status.textContent = "El servicio de envío no se cargó (un bloqueador de anuncios, escudo de privacidad o proxy puede estar bloqueando cdn.jsdelivr.net). Envía un correo directamente por ahora.";
+    return;
+  }
   emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY });
 
   form.addEventListener("submit", function(e) {
@@ -104,11 +108,11 @@ A continuación mi CV en el idioma de esta página y el repositorio (LaTeX multi
     status.textContent = "Enviando…";
     emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, form).then(
       function() {
-        status.textContent = "Mensaje enviado — ¡gracias por escribir!";
+        status.textContent = "Mensaje enviado — ¡gracias por escribir! Si no llega en unos minutos, revisa la carpeta de Spam/Correo no deseado.";
         form.reset();
       },
       function(err) {
-        status.textContent = "No se pudo enviar en este momento. Intenta de nuevo o escribe un correo directamente.";
+        status.textContent = "No se pudo enviar en este momento (error " + (err && err.status ? err.status : "?") + "). Intenta de nuevo o escribe un correo directamente.";
       }
     );
   });
